@@ -1,0 +1,36 @@
+{
+  "_comment": "Reddit sources only run when REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET are set (free Reddit app; see README). type: rss | reddit | google | bluesky. scene: a key from scenes.json, or 'auto' to detect the scene from the story text (stories that match no scene are dropped). kind sets the source weight in scoring.json.",
+  "sources": [
+    { "name": "HLTV news", "type": "rss", "url": "https://www.hltv.org/rss/news", "scene": "cs2", "kind": "news" },
+    { "name": "Dexerto", "type": "rss", "url": "https://www.dexerto.com/feed/", "scene": "auto", "kind": "news" },
+    { "name": "esports.gg", "type": "rss", "url": "https://esports.gg/feed/", "scene": "auto", "kind": "news" },
+    { "name": "Esports News UK", "type": "rss", "url": "https://esports-news.co.uk/feed/", "scene": "auto", "kind": "news" },
+    { "name": "TL.net", "type": "rss", "url": "https://tl.net/rss/news.xml", "scene": "auto", "kind": "news" },
+
+    { "name": "Google News: CS2", "type": "google", "query": "\"Counter-Strike\" OR CS2 esports", "scene": "cs2", "kind": "google" },
+    { "name": "Google News: Melee", "type": "google", "query": "\"Smash Bros. Melee\" OR \"Super Smash Bros Melee\"", "scene": "melee", "kind": "google" },
+    { "name": "Google News: AoE2", "type": "google", "query": "\"Age of Empires II\" OR \"Age of Empires 2\" tournament", "scene": "aoe2", "kind": "google" },
+    { "name": "Google News: Dota", "type": "google", "query": "\"Dota 2\" esports", "scene": "dota", "kind": "google" },
+    { "name": "Google News: Tetris", "type": "google", "query": "\"Classic Tetris\" OR \"Tetris World Championship\" OR \"NES Tetris\"", "scene": "tetris", "kind": "google" },
+    { "name": "Google News: Brood War", "type": "google", "query": "\"Brood War\" OR \"StarCraft Remastered\" OR ASL StarCraft", "scene": "broodwar", "kind": "google" },
+    { "name": "Google News: Trackmania", "type": "google", "query": "Trackmania", "scene": "trackmania", "kind": "google" },
+    { "name": "Google News: WC3", "type": "google", "query": "\"Warcraft III\" OR \"Warcraft 3\" tournament", "scene": "wc3", "kind": "google" },
+    { "name": "Google News: Classic FGC", "type": "google", "query": "\"Third Strike\" OR \"3rd Strike\" OR \"Super Turbo\" Street Fighter", "scene": "classicfgc", "kind": "google" },
+    { "name": "Google News: Halo", "type": "google", "query": "\"Halo Championship Series\" OR \"competitive Halo\" OR \"Halo 2\" tournament", "scene": "halo", "kind": "google" },
+
+    { "name": "r/GlobalOffensive", "type": "reddit", "sub": "GlobalOffensive", "scene": "cs2", "kind": "reddit" },
+    { "name": "r/SSBM", "type": "reddit", "sub": "SSBM", "scene": "melee", "kind": "reddit" },
+    { "name": "r/aoe2", "type": "reddit", "sub": "aoe2", "scene": "aoe2", "kind": "reddit" },
+    { "name": "r/DotA2", "type": "reddit", "sub": "DotA2", "scene": "dota", "kind": "reddit" },
+    { "name": "r/Tetris", "type": "reddit", "sub": "Tetris", "scene": "tetris", "kind": "reddit" },
+    { "name": "r/broodwar", "type": "reddit", "sub": "broodwar", "scene": "broodwar", "kind": "reddit" },
+    { "name": "r/TrackMania", "type": "reddit", "sub": "TrackMania", "scene": "trackmania", "kind": "reddit" },
+    { "name": "r/WC3", "type": "reddit", "sub": "WC3", "scene": "wc3", "kind": "reddit" },
+    { "name": "r/StreetFighter", "type": "reddit", "sub": "StreetFighter", "scene": "auto", "kind": "reddit" },
+    { "name": "r/CompetitiveHalo", "type": "reddit", "sub": "CompetitiveHalo", "scene": "halo", "kind": "reddit" }
+  ],
+  "bluesky": {
+    "_comment": "Add Bluesky handles (e.g. somejournalist.bsky.social) per scene. Uses the free public API, no login.",
+    "accounts": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "Each scene has 'terms' (words that mean a story is about this scene) and 'names' (players, teams, events that make a story bigger). Matching is case-insensitive and whole-word. Edit freely.",
+  "cs2": {
+    "label": "CS2",
+    "terms": ["counter-strike", "counter strike", "cs2", "csgo", "cs:go", "cs 1.6", "hltv"],
+    "names": ["s1mple", "zywoo", "niko", "aleksib", "donk", "m0nesy", "ropz", "device", "electronic", "b1t", "karrigan", "navi", "natus vincere", "vitality", "faze", "g2", "spirit", "mouz", "astralis", "liquid", "furia", "iem", "blast", "pgl", "esl pro league", "cs2 major", "austin major", "cologne major"]
+  },
+  "melee": {
+    "label": "Melee",
+    "terms": ["melee", "ssbm", "super smash bros. melee", "super smash bros melee", "slippi"],
+    "names": ["mang0", "mango", "hungrybox", "zain", "cody schwab", "jmook", "amsa", "leffen", "armada", "mew2king", "moky", "trif", "aklo", "genesis", "the big house", "big house", "smash summit", "get on my level", "goml", "lacs", "riptide", "supernova"]
+  },
+  "aoe2": {
+    "label": "AoE2",
+    "terms": ["age of empires ii", "age of empires 2", "aoe2", "aoe ii", "aoe 2"],
+    "names": ["hera", "theviper", "the viper", "liereyy", "mbl", "tatoh", "daut", "t90", "t90official", "vinchester", "red bull wololo", "wololo", "hidden cup", "titans league", "nac"]
+  },
+  "dota": {
+    "label": "Dota",
+    "terms": ["dota 2", "dota2", "dota"],
+    "names": ["the international", "ti15", "ti 2026", "team spirit", "tundra", "gaimin gladiators", "team liquid", "og", "falcons", "xtreme gaming", "yatoro", "collapse", "ana", "n0tail", "miracle", "topson", "dreamleague", "riyadh masters", "pgl wallachia", "bali major"]
+  },
+  "tetris": {
+    "label": "Classic Tetris",
+    "terms": ["classic tetris", "nes tetris", "ctwc", "classic tetris world championship", "tetris world championship"],
+    "names": ["ctm", "dog", "blue scuti", "fractal", "huffulufugus", "jonas neubauer", "joseph saelee", "zrobot", "kill screen", "killscreen", "rebirth", "level 39", "maxout"]
+  },
+  "broodwar": {
+    "label": "Brood War",
+    "terms": ["brood war", "broodwar", "starcraft: remastered", "starcraft remastered", "starleague"],
+    "names": ["asl", "proleague", "bw", "flash", "jaedong", "bisu", "soulkey", "soma", "rush", "snow", "best", "mini", "larva", "hero", "boxer", "yellow", "stork", "soop", "afreeca"]
+  },
+  "trackmania": {
+    "label": "Trackmania",
+    "terms": ["trackmania", "tmwt", "trackmania world tour"],
+    "names": ["gwen", "affi", "massa", "wirtual", "carljr", "bren", "scrapie", "esports world cup"]
+  },
+  "wc3": {
+    "label": "Warcraft III",
+    "terms": ["warcraft iii", "warcraft 3", "wc3", "war3", "reforged", "frozen throne"],
+    "names": ["moon", "grubby", "happy", "lyn", "infi", "120", "sok", "fortitude", "colorful", "lawliet", "back2warcraft", "w3champions", "blizzcon"]
+  },
+  "classicfgc": {
+    "label": "Classic FGC",
+    "terms": ["3rd strike", "third strike", "street fighter iii", "street fighter 3", "super turbo", "ssf2t", "super street fighter ii turbo", "st revival"],
+    "names": ["daigo", "justin wong", "mov", "kusumondo", "issei", "chi-rithy", "evo moment 37", "evo", "evo japan", "combo breaker", "canada cup"]
+  },
+  "halo": {
+    "label": "Halo",
+    "terms": ["halo 2", "halo ce", "halo: combat evolved", "halo infinite", "halo mcc", "master chief collection", "hcs", "halo championship series", "competitive halo"],
+    "names": ["walshy", "ogre 2", "ogre2", "snip3down", "lethul", "royal2", "spartan", "lvl50", "lvl 50", "halo world championship", "halo studios", "final boss", "optic"]
+  }
+}

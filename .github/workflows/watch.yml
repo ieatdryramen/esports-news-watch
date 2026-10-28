@@ -1,0 +1,64 @@
+name: watch
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # every 5 minutes (GitHub may delay scheduled runs at busy times)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'run = normal run, check = test every source and print top stories (sends nothing)'
+        type: choice
+        options: [run, check]
+        default: run
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Restore memory of seen stories
+        if: inputs.mode != 'check'
+        uses: actions/cache/restore@v6
+        with:
+          path: .state
+          key: watch-state-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: watch-state-
+
+      - name: Check sources
+        if: inputs.mode == 'check'
+        run: node src/index.js --check
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+
+      - name: Watch for breaking news
+        if: inputs.mode != 'check'
+        run: node src/index.js
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          ALERT_MENTION: ${{ vars.ALERT_MENTION }}
+
+      - name: Save memory of seen stories
+        if: always() && inputs.mode != 'check'
+        uses: actions/cache/save@v6
+        with:
+          path: .state
+          key: watch-state-${{ github.run_id }}-${{ github.run_attempt }}

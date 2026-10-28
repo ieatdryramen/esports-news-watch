@@ -1,0 +1,19 @@
+{
+  "name": "esports-news-watch",
+  "version": "1.0.0",
+  "description": "Free breaking-news watcher for long-running esports scenes. Polls public feeds, scores stories with keyword rules, and posts alerts to a Discord webhook.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node src/index.js --check",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fast-xml-parser": "^5.11.2"
+  }
+}
