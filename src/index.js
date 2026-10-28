@@ -144,7 +144,9 @@ async function run() {
     notices.push({ kind: 'info', text: `${alerts.length - toSend.length} more lower-scoring stories skipped this run.` });
   }
 
-  if (firstRun) {
+  // Say hello the first time a webhook is connected, so setup is confirmed in Discord.
+  if (firstRun || (!dryRun && !state.announced)) {
+    if (!dryRun) state.announced = now;
     notices.unshift({ kind: 'info', text: `News watcher online. ${summary(results)}. Alerts start with the next new story.` });
   }
 
