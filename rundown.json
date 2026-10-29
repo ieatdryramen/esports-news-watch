@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T19:00:39.290Z",
+  "generatedAt": "2026-10-29T20:00:36.549Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -34,6 +34,18 @@
           ]
         },
         {
+          "title": "Is the big patch today, or are we still playing the same patch since March?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xitv57/is_the_big_patch_today_or_are_we_still_playing/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T19:37:21.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "breaking*",
+            "comeback*"
+          ]
+        },
+        {
           "title": "[Spoilers] have been eliminated from PARI Universe",
           "url": "https://www.reddit.com/r/DotA2/comments/1xiq34w/spoilers_have_been_eliminated_from_pari_universe/",
           "source": "r/DotA2",
@@ -64,17 +76,6 @@
           "level": null,
           "why": [
             "won"
-          ]
-        },
-        {
-          "title": "ESL Announces ESL One Munich 2027 from April 9 - 11",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xile1a/esl_announces_esl_one_munich_2027_from_april_9_11/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T14:22:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "announces"
           ]
         },
         {
@@ -139,7 +140,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 26,
       "stories": [
         {
           "title": "BB vs FURIA / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
@@ -158,18 +159,17 @@
           ]
         },
         {
-          "title": "karrigan on the Cologne Major: “Some rounds we won vs Spirit and Vitality, we probably don’t win in a studio”",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xin1at/karrigan_on_the_cologne_major_some_rounds_we_won/",
+          "title": "HOTU vs GamerLegion / RLG Tesla Cup 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xitmwz/hotu_vs_gamerlegion_rlg_tesla_cup_2026_grand/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-29T15:25:32.000Z",
-          "score": 6,
+          "published": "2026-10-29T19:28:37.000Z",
+          "score": 5.5,
           "level": "possible",
           "why": [
-            "won",
-            "karrigan",
-            "vitality",
-            "spirit",
-            "cologne major"
+            "benched*",
+            "roster*",
+            "grand final",
+            "official*"
           ]
         },
         {
@@ -302,7 +302,7 @@
     },
     {
       "scene": "Trackmania",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Ideas to make cheating less rewarding in Trackmania (not just harder to do)",
@@ -315,6 +315,17 @@
             "ban*",
             "cheating",
             "record*"
+          ]
+        },
+        {
+          "title": "Ideas for preventing cheating (How important is determinism to TM?)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xit6j5/ideas_for_preventing_cheating_how_important_is/",
+          "source": "r/TrackMania",
+          "published": "2026-10-29T19:11:16.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
           ]
         }
       ]
@@ -417,6 +428,30 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Draft Results for $50,000 Shuffle",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xiufqr/draft_results_for_50000_shuffle/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-29T19:58:50.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Xclusive Ace says Han 86 got nerfed into oblivion and is now the worst AR. Looks like another year of the M4.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xiu5nz/xclusive_ace_says_han_86_got_nerfed_into_oblivion/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-29T19:48:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -424,7 +459,6 @@
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
-    "CoD",
     "Quake",
     "Halo"
   ]
