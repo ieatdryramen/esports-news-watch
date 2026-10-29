@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T09:00:26.331Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Wanted to try what it feels like to be cheater in CS so I made a game",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xierw1/wanted_to_try_what_it_feels_like_to_be_cheater_in/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "cheater",
+        "cheat*"
+      ],
+      "summary": "Hey everyone! I'm making Pure Skill, an incremental FPS where you start with no skill and buy all of it from a sketchy cheat shop: hitbox expander, wallhack, aimbot and more. Let me know what you think! submitted by /u/vertiphy to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-29T08:59:52.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T08:45:18.878Z",
       "level": "possible",
       "scene": "CS2",

@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-10-29T08:00:43.305Z",
+  "generatedAt": "2026-10-29T09:00:37.296Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 22,
       "stories": [
+        {
+          "title": "Who Is Aleksib? NAVI IGL Convicted of Aggravated Tax Fraud",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDVhU1B5ODZWNnFEMXdHelBnSnBKZWFfRnA5eGEzX1BURU1zWFNHUXhWbmxwRFhTTUdTeGpKS0dEOWo2cWRpWEMwSk5nZi1TYnRJenpfQnd1UHEtd1hQN21yZk9XMlBCTTBGZ3VpZGtzZXJuYWlmMkFaNl9DMkQ0bjV4RkhMUEFxei14TWtMWUZMVEVhU2dVOHpR?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-10-28T10:59:26.000Z",
+          "score": 14,
+          "level": "breaking",
+          "why": [
+            "convicted",
+            "fraud",
+            "aleksib",
+            "navi"
+          ]
+        },
         {
           "title": "BetBoom has never won a playoff game after going 3-0 in groups, this will be their 4th attempt",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xia3b8/betboom_has_never_won_a_playoff_game_after_going/",
@@ -23,18 +37,6 @@
           ]
         },
         {
-          "title": "Legacy bench n1ssim, ksloks to stand in for the rest of 2026*",
-          "url": "https://www.hltv.org/news/45838/legacy-bench-n1ssim-ksloks-to-stand-in-for-the-rest-of-2026",
-          "source": "HLTV news",
-          "published": "2026-10-28T11:36:00.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "bench",
-            "stand in"
-          ]
-        },
-        {
           "title": "Insane edit of AleksiB getting charged with aggravated tax evasion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xickzc/insane_edit_of_aleksib_getting_charged_with/",
           "source": "r/GlobalOffensive",
@@ -44,6 +46,31 @@
           "why": [
             "charged",
             "aleksib"
+          ]
+        },
+        {
+          "title": "Wanted to try what it feels like to be cheater in CS so I made a game",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xierw1/wanted_to_try_what_it_feels_like_to_be_cheater_in/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T08:59:52.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "cheater",
+            "cheat*"
+          ]
+        },
+        {
+          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
+          "url": "https://esports.gg/news/counter-strike-2/pgl-masters-bucharest-2026-playoff-results/",
+          "source": "esports.gg",
+          "published": "2026-10-29T08:40:42.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "stand-in*",
+            "vitality*",
+            "pgl"
           ]
         },
         {
@@ -85,6 +112,17 @@
           ]
         },
         {
+          "title": "Live updates from PGL Masters Bucharest quarter-finals",
+          "url": "https://www.hltv.org/news/45847/live-updates-from-pgl-masters-bucharest-quarter-finals",
+          "source": "HLTV news",
+          "published": "2026-10-29T08:04:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "[ Removed by Reddit ]",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xibaji/removed_by_reddit/",
           "source": "r/GlobalOffensive",
@@ -93,6 +131,17 @@
           "level": null,
           "why": [
             "removed"
+          ]
+        },
+        {
+          "title": "Swiss stage at CS2 PGL Masters Bucharest 2026: Storylines, matchups, full results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXQwUVFCbVNSNzVmZzRVRngwY3ZWOEZPaW9jd3RBM1NKY0hmZk1kcTlpVmU1QlFMdXVDbzgyUjhoTk9CSDFOR0JBd2F1d2l5dWpMM2VGYm4zd2ZrNDdlNUJPc0FjSHItb0JpNHUzTmpXdjVUb2xlU0d6WmlsbWxjR1pqNE53OXIyZ0hIOGNabURJdw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-28T19:26:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -105,58 +154,27 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "YEKINDAR: \"We're definitely playing better; before Thunderpick, we played a lot worse\"",
-          "url": "https://www.hltv.org/news/45842/yekindar-were-definitely-playing-better-before-thunderpick-we-played-a-lot-worse",
-          "source": "HLTV news",
-          "published": "2026-10-28T17:54:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia*",
-            "pgl*"
-          ]
-        },
-        {
-          "title": "Nemiga through to PGL Masters Bucharest playoffs over The MongolZ",
-          "url": "https://www.hltv.org/news/45839/nemiga-through-to-pgl-masters-bucharest-playoffs-over-the-mongolz",
-          "source": "HLTV news",
-          "published": "2026-10-28T13:45:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "591K Peak Viewers on final day of PGL Masters Bucharest 2026 Group Stage",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xi4fpu/591k_peak_viewers_on_final_day_of_pgl_masters/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-28T23:44:28.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Spirit players few days ago btw",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xi13sl/spirit_players_few_days_ago_btw/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-28T21:27:14.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "spirit"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 8,
       "stories": [
+        {
+          "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjBxRkdwcTlHR1lycWZBTEloLUJGOG1OQXI4bTdDYk5lZ2VqRGdSQjZ2V0tTWTRaSURtSC1FdGNTcDY2Yzc1bGFneUhQYS12NDEyMUV1czhoTmdORU5VdUNTRUZKS3l1X3V5cHBwSEk4VUI3WDUydkdXcWhyME8yWGJJcTRzcXRFQzl2VXN6bzVIVTdoWVJUU012NUFlNzVoX0tWTzBZc3V0UnJCdVg0cUljelhMUQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-10-29T03:33:45.000Z",
+          "score": 11,
+          "level": "breaking",
+          "why": [
+            "upset",
+            "record",
+            "team spirit",
+            "og"
+          ]
+        },
         {
           "title": "Team Spirit’s playoff run takes a hit after shocking loss to OG at Dota 2 PARI Universe",
           "url": "https://esports.gg/news/dota-2/og-upsets-team-spirit-pari-universe-dota-2-upper-bracket/",
@@ -209,6 +227,15 @@
           ]
         },
         {
+          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-10-29T03:40:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "When nerf ?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xidhz8/when_nerf/",
           "source": "r/DotA2",
@@ -230,7 +257,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "This is a cheater, right?",
@@ -244,6 +271,17 @@
           ]
         },
         {
+          "title": "Tekken 8 Full Story: Ending Explained And Plot Summary",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wbml0dzVONkQxdGNyT01aY0x4VlgtS2VONkJPdS1IcVBBelhBcElqUEZPYTBRajc5LVBSWnVVZ3dtR0xWekRKN1dMbHBjZGZ0enJwa3JUR3hMMS0xQUtCdExYaWlla0VqenZDMXFjdktmc0l0UU5j0gF8QVVfeXFMTmZfbDVSeXQ5NTR6TDhGNmg4ZGpUN3dJMzlxMEY3OFY2SzViVVRHamJEMGF2NFpNa3VLbV81ak43eUdVVjA0UGVqQTYzNVJIWGdVcnphWkhCR1czQzJ3em5vYUJQZ2xYRlJwaTV1ZFoybDBWcEwzX2ZTR21nNQ?oc=5",
+          "source": "Google News: Tekken (Sports Digest)",
+          "published": "2026-10-28T10:25:09.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ending"
+          ]
+        },
+        {
           "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
           "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
           "source": "r/Tekken",
@@ -251,24 +289,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Warcraft III",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Birthday Cup Results ($2,500, ft Happy, Fortitude, and more)",
-          "url": "https://www.reddit.com/r/WC3/comments/1xi4waf/birthday_cup_results_2500_ft_happy_fortitude_and/",
-          "source": "r/WC3",
-          "published": "2026-10-29T00:02:53.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "happy",
-            "fortitude"
-          ]
         }
       ]
     },
@@ -377,26 +397,13 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Today We Learned: There are only SEVEN viable tournament characters in Melee ??",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xi4epl/today_we_learned_there_are_only_seven_viable/",
-          "source": "r/SSBM",
-          "published": "2026-10-28T23:43:13.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Brood War",
+    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
