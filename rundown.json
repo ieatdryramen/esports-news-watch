@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T16:00:45.220Z",
+  "generatedAt": "2026-10-29T17:00:37.788Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -67,25 +67,14 @@
           ]
         },
         {
-          "title": "How does collapse have rank 10 immortal",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xih56n/how_does_collapse_have_rank_10_immortal/",
+          "title": "Rank update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xiph69/rank_update/",
           "source": "r/DotA2",
-          "published": "2026-10-29T11:16:03.000Z",
-          "score": 2,
+          "published": "2026-10-29T16:54:44.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "collapse"
-          ]
-        },
-        {
-          "title": "Team Liquid secret Coach",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xigdeu/team_liquid_secret_coach/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T10:34:32.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "team liquid"
+            "update"
           ]
         },
         {
@@ -131,6 +120,15 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-10-29T09:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-10-29T03:40:08.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -188,6 +186,20 @@
           ]
         },
         {
+          "title": "Astralis vs Inner Circle / StarLadder Ranked Episode 5 - Lower Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xioeh3/astralis_vs_inner_circle_starladder_ranked/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T16:15:46.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "astralis"
+          ]
+        },
+        {
           "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
           "url": "https://esports.gg/news/counter-strike-2/pgl-masters-bucharest-2026-playoff-results/",
           "source": "esports.gg",
@@ -198,6 +210,30 @@
             "stand-in*",
             "vitality*",
             "pgl"
+          ]
+        },
+        {
+          "title": "CS2 LAR Weapon Leak: Stats, Price & Damage Revealed",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWC1PWlRULU9WSHBEeFM2VTJtbWZzVks1S3FHQXNsMzBydGFjbGU0ZHRLRVBHdnh0NFFLMWV1dmdrVjhhSWtNbFFnUEpDQjhVTEZxRTZwU25YV0c2SHhHTEJYMW5LXzcxTnozLS1oeGFOaHZxSHk0?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-10-29T16:53:29.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "leak",
+            "revealed"
+          ]
+        },
+        {
+          "title": "After the match, fear and jackasmo approached a tearful zeRRoFIX and tried to console him. Inner Circle were eliminated from Major contention after losing to Astralis at Stake Ranked Episode 5",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xip8os/after_the_match_fear_and_jackasmo_approached_a/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T16:46:16.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "eliminated",
+            "astralis"
           ]
         },
         {
@@ -227,20 +263,6 @@
           ]
         },
         {
-          "title": "Eternal Fire vs BIG / StarLadder Ranked Episode 5 - Lower Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiiwf1/eternal_fire_vs_big_starladder_ranked_episode_5/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T12:42:03.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "astralis*"
-          ]
-        },
-        {
           "title": "cmtry expected to miss Singapore Major for Astralis after FUT's quarter-final exit in Bucharest",
           "url": "https://www.hltv.org/news/45850/cmtry-expected-to-miss-singapore-major-for-astralis-after-futs-quarter-final-exit-in-bucharest",
           "source": "HLTV news",
@@ -266,45 +288,21 @@
           ]
         },
         {
-          "title": "MOUZ overrun Aurora to book semi-final spot in Bucharest",
-          "url": "https://www.hltv.org/news/45854/mouz-overrun-aurora-to-book-semi-final-spot-in-bucharest",
-          "source": "HLTV news",
-          "published": "2026-10-29T15:13:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "mouz"
-          ]
-        },
-        {
-          "title": "Astralis will not be able to field cmtry at the major",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xifuf5/astralis_will_not_be_able_to_field_cmtry_at_the/",
+          "title": "The owner of Inner Circle couldn't hold back his emotions after his team was knocked out of Major contention.This is exactly why, for me personally, tier-2 CS is more exciting than tier-1. At this level, a single match can make or break a team's dreams.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xioqmm/the_owner_of_inner_circle_couldnt_hold_back_his/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-29T10:05:57.000Z",
+          "published": "2026-10-29T16:27:54.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "roster*",
-            "astralis"
-          ]
-        },
-        {
-          "title": "The Audacity vs Chinggis Warriors / MESA Pro Series Halloween Cup 2026 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xifnha/the_audacity_vs_chinggis_warriors_mesa_pro_series/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T09:54:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster*",
-            "grand final"
+            "knocked out"
           ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -315,6 +313,17 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
+          "source": "Google News: Tekken (Esports.gg)",
+          "published": "2026-10-29T14:08:55.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
           ]
         },
         {
@@ -329,33 +338,29 @@
       ]
     },
     {
-      "scene": "Warcraft III",
+      "scene": "Street Fighter",
       "storyCount": 2,
       "stories": [
         {
-          "title": "ColorFul announces the $25,700 Ancient Tree Cup - MASSIVE Warcraft III highlight at the end of the year!",
-          "url": "https://www.reddit.com/r/WC3/comments/1xigjwq/colorful_announces_the_25700_ancient_tree_cup/",
-          "source": "r/WC3",
-          "published": "2026-10-29T10:44:28.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "grand final*",
-            "announces",
-            "colorful",
-            "-highlight"
-          ]
-        },
-        {
-          "title": "eer0's comments after the Birthday Cup Grand Final",
-          "url": "https://www.reddit.com/r/WC3/comments/1xifo4l/eer0s_comments_after_the_birthday_cup_grand_final/",
-          "source": "r/WC3",
-          "published": "2026-10-29T09:56:01.000Z",
+          "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
+          "source": "Google News: Street Fighter (Esports.gg)",
+          "published": "2026-10-29T14:08:55.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "grand final",
-            "120*"
+            "evo"
+          ]
+        },
+        {
+          "title": "Haven’t touched this game for 8 months can anyone update me with the “meta”",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xioign/havent_touched_this_game_for_8_months_can_anyone/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-29T16:19:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         }
       ]
@@ -366,9 +371,9 @@
       "stories": [
         {
           "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
-          "url": "https://esports.gg/guides/fgc/evo-brazil-2027-games-dates-location/",
-          "source": "esports.gg",
-          "published": "2026-10-29T13:46:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
+          "source": "Google News: Legacy FGC (Esports.gg)",
+          "published": "2026-10-29T14:08:55.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -378,29 +383,29 @@
       ]
     },
     {
-      "scene": "Street Fighter",
+      "scene": "Melee",
       "storyCount": 1,
       "stories": [
         {
-          "title": "This game makes your wins look so ugly. Why is ranked so toxic?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xihyms/this_game_makes_your_wins_look_so_ugly_why_is/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-29T11:58:38.000Z",
-          "score": 3,
+          "title": "Was Hungrybox the real #4 of 2013?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xip2uk/was_hungrybox_the_real_4_of_2013/",
+          "source": "r/SSBM",
+          "published": "2026-10-29T16:40:16.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "wins"
+            "hungrybox"
           ]
         }
       ]
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
+    "Warcraft III",
     "CoD",
     "Quake",
     "Halo"

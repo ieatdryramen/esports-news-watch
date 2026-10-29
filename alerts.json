@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T17:00:24.006Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "CS2 LAR Weapon Leak: Stats, Price & Damage Revealed",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWC1PWlRULU9WSHBEeFM2VTJtbWZzVks1S3FHQXNsMzBydGFjbGU0ZHRLRVBHdnh0NFFLMWV1dmdrVjhhSWtNbFFnUEpDQjhVTEZxRTZwU25YV0c2SHhHTEJYMW5LXzcxTnozLS1oeGFOaHZxSHk0?oc=5",
+      "source": "Google News: CS2 (TalkEsport)",
+      "outlets": [
+        "TalkEsport"
+      ],
+      "score": 5,
+      "why": [
+        "leak",
+        "revealed"
+      ],
+      "summary": "",
+      "published": "2026-10-29T16:53:29.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T16:50:17.522Z",
       "level": "possible",
       "scene": "Dota",
