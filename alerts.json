@@ -1,6 +1,43 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T16:50:17.522Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "I am sick and tired of Invoker, Techies and Arc cheaters in EU ranked",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xipblt/i_am_sick_and_tired_of_invoker_techies_and_arc/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "banned*",
+        "cheating*",
+        "cheater*"
+      ],
+      "summary": "Every fucking day I see at least one of them. Today I just played a game against a Techies that had instant cast on mines after jump, rushed Hex and instantly hexed me, Storm, as soon as I would leave ball in any moment, dewared all of our wards regardless of where my sups put them. I saw supports getting flamed for dark map but how do you explain them its because enemies have a cheater? Yesterday, Invoker cheater with every single combo exectured to utter perfection, every single time someone would get below a SS threshold would get SS and I dont think I ever saw him miss it Few days ago, 2 days in the row Arc with instant cast on his clone, Q W and E, always going clickable items even when they dont make sense People are also cheating with Lina out of all possible heroes with stuns that never miss, random flying over cliffs on places where there are no wards and just nuking you. I was suspicious when I saw him buy Dagon but then I heard it when he casted his Ulty, Q and Dagon on me, sounds completely overlapped it was hard to even notice that he used the Dagon. Instant casts and ward hacks are the most common but there are some ingenious ones like teleport hacks so when you tp mid in trees to gang, they instantly turn around and run while if you walk up to them from base they dont. Good, you banned bots from Arcade but is Dota the next CS2? Are we gonna have to buy Premium passes to play on Faceit as well? submitted by /u/ServesYouRice to r/DotA2 [link] [comments]",
+      "published": "2026-10-29T16:49:14.000Z"
+    },
+    {
+      "alertedAt": "2026-10-29T16:50:17.522Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "After the match, fear and jackasmo approached a tearful zeRRoFIX and tried to console him. Inner Circle were eliminated from Major contention after losing to Astralis at Stake Ranked Episode 5",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xip8os/after_the_match_fear_and_jackasmo_approached_a/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "eliminated",
+        "astralis"
+      ],
+      "summary": "submitted by /u/MmX_A_ to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-29T16:46:16.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T16:20:22.301Z",
       "level": "possible",
       "scene": "CS2",
