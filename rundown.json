@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T09:00:37.296Z",
+  "generatedAt": "2026-10-29T10:00:35.246Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Who Is Aleksib? NAVI IGL Convicted of Aggravated Tax Fraud",
@@ -46,18 +46,6 @@
           "why": [
             "charged",
             "aleksib"
-          ]
-        },
-        {
-          "title": "Wanted to try what it feels like to be cheater in CS so I made a game",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xierw1/wanted_to_try_what_it_feels_like_to_be_cheater_in/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T08:59:52.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "cheater",
-            "cheat*"
           ]
         },
         {
@@ -112,6 +100,18 @@
           ]
         },
         {
+          "title": "The Audacity vs Chinggis Warriors / MESA Pro Series Halloween Cup 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xifnha/the_audacity_vs_chinggis_warriors_mesa_pro_series/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T09:54:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster*",
+            "grand final"
+          ]
+        },
+        {
           "title": "Live updates from PGL Masters Bucharest quarter-finals",
           "url": "https://www.hltv.org/news/45847/live-updates-from-pgl-masters-bucharest-quarter-finals",
           "source": "HLTV news",
@@ -159,13 +159,13 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjBxRkdwcTlHR1lycWZBTEloLUJGOG1OQXI4bTdDYk5lZ2VqRGdSQjZ2V0tTWTRaSURtSC1FdGNTcDY2Yzc1bGFneUhQYS12NDEyMUV1czhoTmdORU5VdUNTRUZKS3l1X3V5cHBwSEk4VUI3WDUydkdXcWhyME8yWGJJcTRzcXRFQzl2VXN6bzVIVTdoWVJUU012NUFlNzVoX0tWTzBZc3V0UnJCdVg0cUljelhMUQ?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-29T03:33:45.000Z",
+          "published": "2026-10-29T03:41:55.000Z",
           "score": 11,
           "level": "breaking",
           "why": [
@@ -225,6 +225,15 @@
           "why": [
             "revealed"
           ]
+        },
+        {
+          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-10-29T09:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
@@ -293,8 +302,26 @@
       ]
     },
     {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "eer0's comments after the Birthday Cup Grand Final",
+          "url": "https://www.reddit.com/r/WC3/comments/1xifo4l/eer0s_comments_after_the_birthday_cup_grand_final/",
+          "source": "r/WC3",
+          "published": "2026-10-29T09:56:01.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand final",
+            "120*"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Dashy comms against KOI LMAO",
@@ -305,17 +332,6 @@
           "level": null,
           "why": [
             "dashy"
-          ]
-        },
-        {
-          "title": "50k Tournament Announced for Tommorow",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xi5w2q/50k_tournament_announced_for_tommorow/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-29T00:47:49.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "announced"
           ]
         },
         {
@@ -403,7 +419,6 @@
     "Melee",
     "Classic Tetris",
     "Brood War",
-    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
