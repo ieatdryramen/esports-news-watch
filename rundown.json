@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T17:00:37.788Z",
+  "generatedAt": "2026-10-29T18:00:38.171Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -34,6 +34,17 @@
           ]
         },
         {
+          "title": "[Spoilers] have been eliminated from PARI Universe",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xiq34w/spoilers_have_been_eliminated_from_pari_universe/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T17:16:36.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "eliminated"
+          ]
+        },
+        {
           "title": "How Team Liquid and SAP Combined Forces to Win the Race to World First",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUTNKb09NUDBTcjlUOHExMzk4aVZBZGlBTnFGNU9ZVkhuQkpwU3A0bFFTbjF1WF9WMEpwV0xtVVZjYkdtbXJlTXZ3Qzg0OTlfMTlPaXIyZ3Bwc0JUVzJud0ZISHhRdTVUa2g3RW9yeFF5MDFvRXdERDdTWjU?oc=5",
           "source": "Google News: Dota (Insider Gaming)",
@@ -45,14 +56,14 @@
           ]
         },
         {
-          "title": "ESL ONE MUNICH 2027: DOTA 2 ESPORTS TOURNAMENT HEADS TO GERMANY WITH $1 MILLION PRIZE POOL!",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGhkOE5JdzItTklhZ0x5RmNCbXhMSVlPLVl6SmlneU0xNVFDZDVzcjlwVFdKQkpXQXdkNTRIanRiWklsVW5ZbndaSXgwQU5WbVM0bm44QS1jSEpUOUV4YkQyT3l2MnJLTnlWeENhMWk0ay02RWhzaGFEVzR4YjhObzIyZnhVX3VESTRKeHRXSWI4ekFZUWVvR1ppbjREQ3V2a3ZJT2tnNVJsd2QzNXNGYk96cnFsZUxu?oc=5",
-          "source": "Google News: Dota (Verge Magazine)",
-          "published": "2026-10-29T15:26:41.000Z",
+          "title": "All 10 of us just got disconnected from a game that would have been won by us in 2 mins",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xipyec/all_10_of_us_just_got_disconnected_from_a_game/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T17:11:59.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "prize pool"
+            "won"
           ]
         },
         {
@@ -67,10 +78,10 @@
           ]
         },
         {
-          "title": "Rank update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xiph69/rank_update/",
+          "title": "My rank update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xipulh/my_rank_update/",
           "source": "r/DotA2",
-          "published": "2026-10-29T16:54:44.000Z",
+          "published": "2026-10-29T17:08:04.000Z",
           "score": 1,
           "level": null,
           "why": [
@@ -123,35 +134,26 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-10-29T03:40:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 23,
       "stories": [
         {
-          "title": "Aurora vs MOUZ / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1ximedj/aurora_vs_mouz_pgl_masters_bucharest_2026/",
+          "title": "BB vs FURIA / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiqhmj/bb_vs_furia_pgl_masters_bucharest_2026/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-29T15:02:09.000Z",
+          "published": "2026-10-29T17:30:58.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "mouz",
-            "furia*",
+            "mouz*",
+            "furia",
             "pgl"
           ]
         },
@@ -213,6 +215,19 @@
           ]
         },
         {
+          "title": "FURIA beat BETBOOM to advance to PGL Masters Bucharest semis",
+          "url": "https://www.hltv.org/news/45855/furia-beat-betboom-to-advance-to-pgl-masters-bucharest-semis",
+          "source": "HLTV news",
+          "published": "2026-10-29T17:40:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz*",
+            "furia",
+            "pgl"
+          ]
+        },
+        {
           "title": "CS2 LAR Weapon Leak: Stats, Price & Damage Revealed",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWC1PWlRULU9WSHBEeFM2VTJtbWZzVks1S3FHQXNsMzBydGFjbGU0ZHRLRVBHdnh0NFFLMWV1dmdrVjhhSWtNbFFnUEpDQjhVTEZxRTZwU25YV0c2SHhHTEJYMW5LXzcxTnozLS1oeGFOaHZxSHk0?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -250,19 +265,6 @@
           ]
         },
         {
-          "title": "PGL Masters Bucharest bracket set",
-          "url": "https://www.hltv.org/news/45844/pgl-masters-bucharest-bracket-set",
-          "source": "HLTV news",
-          "published": "2026-10-28T19:05:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz*",
-            "furia*",
-            "pgl"
-          ]
-        },
-        {
           "title": "cmtry expected to miss Singapore Major for Astralis after FUT's quarter-final exit in Bucharest",
           "url": "https://www.hltv.org/news/45850/cmtry-expected-to-miss-singapore-major-for-astralis-after-futs-quarter-final-exit-in-bucharest",
           "source": "HLTV news",
@@ -275,27 +277,26 @@
           ]
         },
         {
-          "title": "Has any team since Astralis in 2018 and 2019 had two very dominant maps like Astralis had with Nuke and Inferno...?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xijrxn/has_any_team_since_astralis_in_2018_and_2019_had/",
+          "title": "FaZe Clan have qualified for PGL Major Singapore 2026",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiqlp9/faze_clan_have_qualified_for_pgl_major_singapore/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-29T13:19:54.000Z",
+          "published": "2026-10-29T17:35:07.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "navi*",
-            "vitality*",
-            "astralis"
+            "faze",
+            "pgl"
           ]
         },
         {
-          "title": "The owner of Inner Circle couldn't hold back his emotions after his team was knocked out of Major contention.This is exactly why, for me personally, tier-2 CS is more exciting than tier-1. At this level, a single match can make or break a team's dreams.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xioqmm/the_owner_of_inner_circle_couldnt_hold_back_his/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T16:27:54.000Z",
+          "title": "PGL Masters Bucharest quarter-finals as they happened",
+          "url": "https://www.hltv.org/news/45847/pgl-masters-bucharest-quarter-finals-as-they-happened",
+          "source": "HLTV news",
+          "published": "2026-10-29T17:56:00.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "knocked out"
+            "pgl"
           ]
         }
       ]
