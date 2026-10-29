@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T15:00:35.895Z",
+  "generatedAt": "2026-10-29T16:00:45.220Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -45,6 +45,17 @@
           ]
         },
         {
+          "title": "ESL ONE MUNICH 2027: DOTA 2 ESPORTS TOURNAMENT HEADS TO GERMANY WITH $1 MILLION PRIZE POOL!",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGhkOE5JdzItTklhZ0x5RmNCbXhMSVlPLVl6SmlneU0xNVFDZDVzcjlwVFdKQkpXQXdkNTRIanRiWklsVW5ZbndaSXgwQU5WbVM0bm44QS1jSEpUOUV4YkQyT3l2MnJLTnlWeENhMWk0ay02RWhzaGFEVzR4YjhObzIyZnhVX3VESTRKeHRXSWI4ekFZUWVvR1ppbjREQ3V2a3ZJT2tnNVJsd2QzNXNGYk96cnFsZUxu?oc=5",
+          "source": "Google News: Dota (Verge Magazine)",
+          "published": "2026-10-29T15:26:41.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "prize pool"
+          ]
+        },
+        {
           "title": "ESL Announces ESL One Munich 2027 from April 9 - 11",
           "url": "https://www.reddit.com/r/DotA2/comments/1xile1a/esl_announces_esl_one_munich_2027_from_april_9_11/",
           "source": "r/DotA2",
@@ -78,6 +89,26 @@
           ]
         },
         {
+          "title": "Petition for a year long patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xing3r/petition_for_a_year_long_patch/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T15:40:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
+          ]
+        },
+        {
+          "title": "ESL One Munich 2027 brings 16 Dota 2 teams to BMW Park for $1M",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2JURmJaMmF3dWpHSVlnZFhrV0xDUkpYUmVzYkNubHV0YzZFNldqR3AzbDRCekczUWFRUDZEc3FDcjV0cTZzVDh0cFIxcElyUG1MaUJBSmswTTcyR0gwQzAxWjhSRW4tMGVnUVV2NHY3WFNSOV9ua2VJSTVhRGo2b2FoWlZscDNyY3lvb1I1X2UyUWY5VE8zS0k5VnBENGtNLW96SGFhNA?oc=5",
+          "source": "Google News: Dota (Inven Global)",
+          "published": "2026-10-29T15:13:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "ESL One Munich 2027 Brings Dota 2’s Best to Germany",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmdUQU1qQklLT3RuRUVYR3E1clJrY2lkdFNXbkVIRkRLV1Q0Ykd4TWZ6NVhubTdUQ0FnbkhlRElRb3ByQTd0a3pPdE1wM0tRMFB0UC02M0J1aDdkSDFQSDFxXzNIVU1ET19vdl9ZX0ZpUWMydU11OURZUkVRZU5CZEt1eHRhYThnajZJ?oc=5",
           "source": "Google News: Dota (Invision Game Community)",
@@ -103,35 +134,26 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-10-29T03:40:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 24,
       "stories": [
         {
-          "title": "FUT vs Nemiga / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xifskh/fut_vs_nemiga_pgl_masters_bucharest_2026/",
+          "title": "Aurora vs MOUZ / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1ximedj/aurora_vs_mouz_pgl_masters_bucharest_2026/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-29T10:02:51.000Z",
+          "published": "2026-10-29T15:02:09.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "natus vincere*",
-            "vitality*",
+            "mouz",
+            "furia*",
             "pgl"
           ]
         },
@@ -148,6 +170,21 @@
             "grand final*",
             "official*",
             "faze"
+          ]
+        },
+        {
+          "title": "karrigan on the Cologne Major: “Some rounds we won vs Spirit and Vitality, we probably don’t win in a studio”",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xin1at/karrigan_on_the_cologne_major_some_rounds_we_won/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T15:25:32.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "won",
+            "karrigan",
+            "vitality",
+            "spirit",
+            "cologne major"
           ]
         },
         {
@@ -190,18 +227,6 @@
           ]
         },
         {
-          "title": "NAVI embarrass Spirit for last playoff berth",
-          "url": "https://www.hltv.org/news/45843/navi-embarrass-spirit-for-last-playoff-berth",
-          "source": "HLTV news",
-          "published": "2026-10-28T18:47:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
-            "spirit"
-          ]
-        },
-        {
           "title": "Eternal Fire vs BIG / StarLadder Ranked Episode 5 - Lower Bracket Semi-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiiwf1/eternal_fire_vs_big_starladder_ranked_episode_5/",
           "source": "r/GlobalOffensive",
@@ -241,6 +266,17 @@
           ]
         },
         {
+          "title": "MOUZ overrun Aurora to book semi-final spot in Bucharest",
+          "url": "https://www.hltv.org/news/45854/mouz-overrun-aurora-to-book-semi-final-spot-in-bucharest",
+          "source": "HLTV news",
+          "published": "2026-10-29T15:13:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mouz"
+          ]
+        },
+        {
           "title": "Astralis will not be able to field cmtry at the major",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xifuf5/astralis_will_not_be_able_to_field_cmtry_at_the/",
           "source": "r/GlobalOffensive",
@@ -262,17 +298,6 @@
           "why": [
             "roster*",
             "grand final"
-          ]
-        },
-        {
-          "title": "Live updates from PGL Masters Bucharest quarter-finals",
-          "url": "https://www.hltv.org/news/45847/live-updates-from-pgl-masters-bucharest-quarter-finals",
-          "source": "HLTV news",
-          "published": "2026-10-29T08:04:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         }
       ]
@@ -368,21 +393,6 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Kacky Reloaded 7 Kicks Off on October 30!",
-          "url": "https://blog.trackmania.com/2026/10/28/kacky-reloaded-7-kicks-off-on-october-30/",
-          "source": "Trackmania blog",
-          "published": "2026-10-28T16:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -390,6 +400,7 @@
     "AoE2",
     "Classic Tetris",
     "Brood War",
+    "Trackmania",
     "CoD",
     "Quake",
     "Halo"
