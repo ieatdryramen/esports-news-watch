@@ -24,9 +24,13 @@ The first time a source is fetched, everything already in it is recorded as seen
 1. **Fork or copy this repo** (keep it public for free Actions minutes).
 2. **Discord webhook:** in your Discord server, open the channel's settings → Integrations → Webhooks → New Webhook → Copy Webhook URL.
 3. In the repo: **Settings → Secrets and variables → Actions → New repository secret**, name it `DISCORD_WEBHOOK_URL`, paste the URL.
-4. **Optional, Reddit:** Reddit blocks anonymous requests from cloud servers, so Reddit sources only run with a free Reddit app. Go to <https://www.reddit.com/prefs/apps>, create an app of type **script** (any name; redirect URI `http://localhost`). Add two secrets: `REDDIT_CLIENT_ID` (the code under the app name) and `REDDIT_CLIENT_SECRET`.
+4. **Reddit** works with no setup: all subreddits are pulled in one public RSS request. If Reddit starts blocking it, and you have Reddit API keys (new keys need Reddit's approval since late 2025), add them as secrets `REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET`.
 5. **Optional, pings:** add a repository *variable* (not secret) `ALERT_MENTION` set to `@here` or a role mention like `<@&ROLE_ID>` to ping on BREAKING alerts.
 6. **Actions tab → watch → Run workflow → mode: check.** The log shows which sources work and what would alert right now. Then it runs on its own every 5 minutes.
+
+## Daily rundown
+
+The **rundown** workflow posts one message with every story from the last 24 hours, grouped by scene and ranked, plus which scenes were quiet. It runs daily at 17:47 UTC and any time you hit **Actions → rundown → Run workflow**. To send it to a different channel, add a second webhook as the secret `DISCORD_RUNDOWN_WEBHOOK_URL`.
 
 ## Tuning
 
