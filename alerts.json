@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T23:40:16.884Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "The state of VAC Live is genuinely baffling when statistical outliers like this play dozens of games unpunished",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xizvvp/the_state_of_vac_live_is_genuinely_baffling_when/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "cheating*",
+        "vac",
+        "history*"
+      ],
+      "summary": "It is absurd how blatant cheating still goes completely unchecked. Played against two separate accounts recently where the gameplay wasn't just \"suspicious\"—it was mathematically impossible. We're talking accounts with sub-100 hours pulling: 95%+ HS rates with scout/deagle through common pre-fires. Crosshair placement and movement of silver-tier players, yet reaction times consistently under human limits. Stacking 30–40 bombs match after match with absurd win streaks on Leetify, zero bans, zero VAC Live cancellations mid-match. Third-party analytics platforms flag these behavioral and statistical anomalies instantly. How Valve's server-side telemetry cannot automatically detect someone running around hitting 100 aim rating with impossible TTK and blatant anti-aim/rage angles is beyond comprehension. VAC Live was promised as an active deterrent, but blatant rage-hackers and blatant wallers are still playing freely across weeks of match history. Is server-side heuristic detection completely disabled, or what is the threshold for a mid-game trigger at this point? submitted by /u/tr1ssle to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-29T23:35:43.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T22:10:21.696Z",
       "level": "possible",
       "scene": "CoD",
