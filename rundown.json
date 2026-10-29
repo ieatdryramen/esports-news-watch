@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:00:40.579Z",
+  "generatedAt": "2026-10-29T06:00:35.754Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -103,6 +103,17 @@
           ]
         },
         {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xibaji/removed_by_reddit/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T05:21:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        },
+        {
           "title": "Swiss stage at CS2 PGL Masters Bucharest 2026: Storylines, matchups, full results",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXQwUVFCbVNSNzVmZzRVRngwY3ZWOEZPaW9jd3RBM1NKY0hmZk1kcTlpVmU1QlFMdXVDbzgyUjhoTk9CSDFOR0JBd2F1d2l5dWpMM2VGYm4zd2ZrNDdlNUJPc0FjSHItb0JpNHUzTmpXdjVUb2xlU0d6WmlsbWxjR1pqNE53OXIyZ0hIOGNabURJdw?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -146,23 +157,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "Moscow International Game Week: CS2 Finals, India's Gaming Future Revealed!",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmZuNE4wWk5vT2s0WWl0a3dJdjNlb1dkQTBReDF1SGdYM19iVVZLMExEeHVRT0RHaGs3NFNZaU1GTVk2ZjVZUjhfZnVfaWJRZWN4TkRLaFFQVDR1cDRib3FHMW5aQVBwSUFReU9rYm01clpadThjcEFLcW5QZFdSSTVtNFUtM1VwbVBUVThVbGNqNk1lU0gyeTNCUVFrc3J0RFlBdEMwZDdxTFJ2QklrU20xc2c3aEhMY2U2YzZn0gHDAUFVX3lxTE5mWjIxM0pfQk5UbUJTM1hndS0taEhYUGJrV3h3ZDg1ZjY0VUxUMWJJUGxRbmNTMWFCbGo4R1BiQi10QkpVYzh1QXpMNEI0UHl6YUdmTXJjWmtSazdfendIemtUQkt5Q0VkUkFmc0VJSGFKejNKZE5KRE9zZE5PMGJ3R2NRR2kxUm5qWmF5TTM0ZUdhUWZlczZRMmdudXVqRjI3Ti1BeG8yOUhHRjlnZHpLUWVVNWQ2LXpPLXl5dmpkUDVvaw?oc=5",
-          "source": "Google News: CS2 (LatestLY)",
-          "published": "2026-10-28T10:42:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "revealed"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -189,6 +189,20 @@
             "champions*",
             "team spirit",
             "og"
+          ]
+        },
+        {
+          "title": "Team Spirit scared of Topson Silencer Mid",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xibift/team_spirit_scared_of_topson_silencer_mid/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T05:34:29.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "ban*",
+            "team spirit",
+            "og*",
+            "topson"
           ]
         },
         {
@@ -396,66 +410,6 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "I Won",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xi7g05/i_won/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-29T01:59:42.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
-          "title": "Love when DLC you paid for can't be accessed because the online servers are down.",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xi75jj/love_when_dlc_you_paid_for_cant_be_accessed/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-29T01:45:53.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "TheViper’s 60 APM challenge: how would other pro's fare?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xi1ubc/thevipers_60_apm_challenge_how_would_other_pros/",
-          "source": "r/aoe2",
-          "published": "2026-10-28T21:56:56.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "theviper"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "2026 CTWC Quebec Regional: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-10-28T05:04:10.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
@@ -467,6 +421,23 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Love when DLC you paid for can't be accessed because the online servers are down.",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xi75jj/love_when_dlc_you_paid_for_cant_be_accessed/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-29T01:45:53.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
+          ]
         }
       ]
     },
@@ -487,6 +458,8 @@
     }
   ],
   "quiet": [
+    "AoE2",
+    "Classic Tetris",
     "Legacy FGC",
     "Quake",
     "Halo"
