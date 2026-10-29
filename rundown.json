@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T12:00:35.444Z",
+  "generatedAt": "2026-10-29T13:00:40.467Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -93,17 +93,6 @@
           ]
         },
         {
-          "title": "New Dota 2 Hero Revealed!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xi9hsq/new_dota_2_hero_revealed/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T03:41:02.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "revealed"
-          ]
-        },
-        {
           "title": "How lower brackets give Dota 2 teams another route to the final",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXNfNVRsZE1KVVd0aVZVdklEMXZibExLZkVrN2NwZ1NoZW54TzgtQ215V1RoS1FYSXlIZFNnXzV4ZU0zMmJ1bXhrV011THR1WTg2MEE4LXhZb3JJY2lMZnNsY3FnNlYySHo4eFNFcF9hYUw2UVVNLXVsZnFJMktiQUpiYldKNUktTVEtLWVR?oc=5",
           "source": "Google News: Dota (Khel Now)",
@@ -143,7 +132,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "FUT vs Nemiga / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
@@ -159,22 +148,6 @@
             "natus vincere*",
             "vitality*",
             "pgl"
-          ]
-        },
-        {
-          "title": "BetBoom has never won a playoff game after going 3-0 in groups, this will be their 4th attempt",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xia3b8/betboom_has_never_won_a_playoff_game_after_going/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T04:12:47.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "won",
-            "record*",
-            "navi*",
-            "vitality*",
-            "faze*",
-            "g2*"
           ]
         },
         {
@@ -213,6 +186,20 @@
           "why": [
             "navi",
             "spirit"
+          ]
+        },
+        {
+          "title": "Eternal Fire vs BIG / StarLadder Ranked Episode 5 - Lower Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiiwf1/eternal_fire_vs_big_starladder_ranked_episode_5/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T12:42:03.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "astralis*"
           ]
         },
         {
@@ -316,20 +303,22 @@
           ]
         },
         {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-10-29T06:56:14.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
           "title": "The Unfiltered Truth About The Tekken 6 Revival",
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9RcU1FWU91a2dadmwwa1dzUVhsWWlmYXlIcVpQYWZ2OEQ4UEdrQ3oxZnZRSTBrMGFqRmJV?oc=5",
           "source": "Google News: Tekken (Howl.Link)",
           "published": "2026-10-28T22:28:59.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
-          "source": "r/Tekken",
-          "published": "2026-10-29T04:28:52.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
