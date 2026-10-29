@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T14:20:19.787Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "FaZe vs GamerLegion / RLG Tesla Cup 2026 - Semi-Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xil7kt/faze_vs_gamerlegion_rlg_tesla_cup_2026_semifinal/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6.5,
+      "why": [
+        "benched*",
+        "roster*",
+        "grand final*",
+        "official*",
+        "faze"
+      ],
+      "summary": "FaZe Clan 🇪🇺 1-2 🇪🇺 GamerLegion Dust2: 9-13 Mirage: 16-14 Nuke: 7-13 🇪🇺 GamerLegion advance to Grand Final and will face 🇷🇺 HOTU Predicted VRS Impact Team Rank Diff Total 🇪🇺 FaZe #18 → #19 -22 pts 1540 pts 🇪🇺 GamerLegion #39 → #33 +32 pts 1423 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information RLG Tesla Cup 2026 | 🇷🇸 Belgrade ($50k LAN) | Liquipedia | HLTV Team Information 🇪🇺 FaZe Clan | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | TikTok | YouTube | Twitch | Steam Roster : 🇸🇰 frozen | 🇵🇱 jcobbb | 🇨🇦 Twistzz ♛ | 🇩🇰 JBOEN ⊕ | 🇫🇷 Neityu Coach : 🇩🇪 enkay J Subs/Benched : 🇱🇻 broky 🇪🇺 GamerLegion | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | YouTube | Twitch | Steam Roster : 🇩🇰 Tauson | 🇸🇪 REZ | 🇵🇱 hypex ⊕ | 🇷🇺 FL4MUS | 🇷🇺 shalfey ♛ Coach : 🇵🇱 imd Subs/Benched : 🇵🇱 Snax | 🇸🇪 ztr Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes FaZe MAP GamerLegion anubis X X inferno dust2 ✔ ✔ mirage ancient X X cache nuke Full Match Stats Team K-D ADR Swing Rating 🇪🇺 FaZe 1.01 🇨🇦 Twistzz ♛ 55-53 85.9 +4.31% 1.38 🇩🇰 JBOEN ⊕ 51-52 78.3 -0.05% 1.03 🇸🇰 frozen 47-45 65.8 -1.39% 1.01 🇵🇱 jcobbb 40-50 67.7 -0.74% 1.00 🇫🇷 Neityu 31-51 48.8 -5.54% 0.61 🇪🇺 GamerLegion 1.10 🇸🇪 REZ 60-40 82.0 +4.46% 1.",
+      "published": "2026-10-29T14:15:47.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T10:05:19.587Z",
       "level": "possible",
       "scene": "CS2",
