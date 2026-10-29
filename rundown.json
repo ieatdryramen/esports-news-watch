@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T18:00:38.171Z",
+  "generatedAt": "2026-10-29T19:00:39.290Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -139,7 +139,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 25,
       "stories": [
         {
           "title": "BB vs FURIA / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
@@ -158,21 +158,6 @@
           ]
         },
         {
-          "title": "FaZe vs GamerLegion / RLG Tesla Cup 2026 - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xil7kt/faze_vs_gamerlegion_rlg_tesla_cup_2026_semifinal/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T14:15:47.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "grand final*",
-            "official*",
-            "faze"
-          ]
-        },
-        {
           "title": "karrigan on the Cologne Major: “Some rounds we won vs Spirit and Vitality, we probably don’t win in a studio”",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xin1at/karrigan_on_the_cologne_major_some_rounds_we_won/",
           "source": "r/GlobalOffensive",
@@ -185,6 +170,20 @@
             "vitality",
             "spirit",
             "cologne major"
+          ]
+        },
+        {
+          "title": "B8 vs FaZe / RLG Tesla Cup 2026 - 3Rd Place Decider Match / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xipqbj/b8_vs_faze_rlg_tesla_cup_2026_3rd_place_decider/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T17:03:43.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "faze"
           ]
         },
         {
@@ -302,6 +301,25 @@
       ]
     },
     {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Ideas to make cheating less rewarding in Trackmania (not just harder to do)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xisk2h/ideas_to_make_cheating_less_rewarding_in/",
+          "source": "r/TrackMania",
+          "published": "2026-10-29T18:47:59.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "ban*",
+            "cheating",
+            "record*"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
       "storyCount": 3,
       "stories": [
@@ -405,7 +423,6 @@
     "AoE2",
     "Classic Tetris",
     "Brood War",
-    "Trackmania",
     "Warcraft III",
     "CoD",
     "Quake",
