@@ -18,7 +18,11 @@
     { "name": "Google News: Brood War", "type": "google", "query": "\"Brood War\" OR \"StarCraft Remastered\" OR ASL StarCraft", "scene": "broodwar", "kind": "google" },
     { "name": "Google News: Trackmania", "type": "google", "query": "Trackmania", "scene": "trackmania", "kind": "google" },
     { "name": "Google News: WC3", "type": "google", "query": "\"Warcraft III\" OR \"Warcraft 3\" tournament", "scene": "wc3", "kind": "google" },
-    { "name": "Google News: Classic FGC", "type": "google", "query": "\"Third Strike\" OR \"3rd Strike\" OR \"Super Turbo\" Street Fighter", "scene": "classicfgc", "kind": "google" },
+    { "name": "Google News: Street Fighter", "type": "google", "query": "\"Street Fighter 6\" OR \"Capcom Pro Tour\" OR \"Capcom Cup\" OR \"Third Strike\" OR \"Super Turbo\" tournament", "scene": "streetfighter", "kind": "google" },
+    { "name": "Google News: Tekken", "type": "google", "query": "\"Tekken 8\" OR \"Tekken World Tour\" tournament", "scene": "tekken", "kind": "google" },
+    { "name": "Google News: Legacy FGC", "type": "google", "query": "\"Mortal Kombat 1\" OR \"King of Fighters\" OR \"Guilty Gear\" OR \"Virtua Fighter\" tournament", "scene": "legacyfgc", "kind": "google" },
+    { "name": "Google News: CoD", "type": "google", "query": "\"Call of Duty League\" OR CDL esports OR \"Call of Duty Champs\"", "scene": "cod", "kind": "google" },
+    { "name": "Google News: Quake", "type": "google", "query": "\"Quake Champions\" OR QuakeCon OR \"Quake World Championship\" OR \"Quake Pro League\"", "scene": "quake", "kind": "google" },
     { "name": "Google News: Halo", "type": "google", "query": "\"Halo Championship Series\" OR \"competitive Halo\" OR \"Halo 2\" tournament", "scene": "halo", "kind": "google" },
 
     { "name": "r/GlobalOffensive", "type": "reddit", "sub": "GlobalOffensive", "scene": "cs2", "kind": "reddit" },
@@ -29,7 +33,11 @@
     { "name": "r/broodwar", "type": "reddit", "sub": "broodwar", "scene": "broodwar", "kind": "reddit" },
     { "name": "r/TrackMania", "type": "reddit", "sub": "TrackMania", "scene": "trackmania", "kind": "reddit" },
     { "name": "r/WC3", "type": "reddit", "sub": "WC3", "scene": "wc3", "kind": "reddit" },
-    { "name": "r/StreetFighter", "type": "reddit", "sub": "StreetFighter", "scene": "auto", "kind": "reddit" },
+    { "name": "r/StreetFighter", "type": "reddit", "sub": "StreetFighter", "scene": "streetfighter", "kind": "reddit" },
+    { "name": "r/Tekken", "type": "reddit", "sub": "Tekken", "scene": "tekken", "kind": "reddit" },
+    { "name": "r/Kappa", "type": "reddit", "sub": "Kappa", "scene": "auto", "kind": "reddit" },
+    { "name": "r/CoDCompetitive", "type": "reddit", "sub": "CoDCompetitive", "scene": "cod", "kind": "reddit" },
+    { "name": "r/QuakeChampions", "type": "reddit", "sub": "QuakeChampions", "scene": "quake", "kind": "reddit" },
     { "name": "r/CompetitiveHalo", "type": "reddit", "sub": "CompetitiveHalo", "scene": "halo", "kind": "reddit" }
   ],
   "bluesky": {

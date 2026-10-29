@@ -40,10 +40,30 @@
     "terms": ["warcraft iii", "warcraft 3", "wc3", "war3", "reforged", "frozen throne"],
     "names": ["moon", "grubby", "happy", "lyn", "infi", "120", "sok", "fortitude", "colorful", "lawliet", "back2warcraft", "w3champions", "blizzcon"]
   },
-  "classicfgc": {
-    "label": "Classic FGC",
-    "terms": ["3rd strike", "third strike", "street fighter iii", "street fighter 3", "super turbo", "ssf2t", "super street fighter ii turbo", "st revival"],
-    "names": ["daigo", "justin wong", "mov", "kusumondo", "issei", "chi-rithy", "evo moment 37", "evo", "evo japan", "combo breaker", "canada cup"]
+  "streetfighter": {
+    "label": "Street Fighter",
+    "terms": ["street fighter", "street fighter 6", "sf6", "capcom pro tour", "capcom cup", "street fighter league", "3rd strike", "third strike", "street fighter iii", "super turbo", "ssf2t", "super street fighter ii turbo", "st revival"],
+    "names": ["daigo", "punk", "tokido", "menard", "kakeru", "angrybird", "leshar", "xiaohai", "phenom", "blaz", "kawano", "justin wong", "mov", "kusumondo", "evo moment 37", "evo", "evo japan", "combo breaker", "canada cup", "cpt"]
+  },
+  "tekken": {
+    "label": "Tekken",
+    "terms": ["tekken", "tekken 8", "tekken world tour", "twt"],
+    "names": ["arslan ash", "knee", "atif", "ulsan", "chikurin", "lowhigh", "jdcr", "qudans", "rangchu", "nobi", "harada", "evo", "evo japan", "combo breaker", "red bull kumite"]
+  },
+  "legacyfgc": {
+    "label": "Legacy FGC",
+    "terms": ["mortal kombat", "mortal kombat 1", "mk1", "king of fighters", "kof xv", "kof", "guilty gear", "guilty gear strive", "virtua fighter", "vf5", "virtua fighter 5"],
+    "names": ["sonicfox", "ninjakilla", "dragon", "xiaohai", "daigo", "umisho", "evo", "evo japan", "combo breaker"]
+  },
+  "cod": {
+    "label": "CoD",
+    "terms": ["call of duty league", "cdl", "cod league", "call of duty champs", "cod champs", "call of duty esports", "cod esports", "cdl major", "call of duty challengers", "competitive call of duty", "competitive cod"],
+    "names": ["optic texas", "atlanta faze", "faze", "la thieves", "toronto ultra", "new york subliners", "boston breach", "miami heretics", "vegas falcons", "carolina royal ravens", "minnesota rokkr", "cloud9", "scump", "shotzzy", "simp", "abezy", "cellium", "dashy", "kenny", "hydra", "ghosty", "pred", "black ops 7"]
+  },
+  "quake": {
+    "label": "Quake",
+    "terms": ["quake champions", "quakecon", "quake pro league", "quake world championship", "quake live", "quakeworld", "quake esports"],
+    "names": ["rapha", "toxjq", "k1llsen", "clawz", "cooller", "evil", "shaz", "fraggerman", "vengeur", "id software"]
   },
   "halo": {
     "label": "Halo",
