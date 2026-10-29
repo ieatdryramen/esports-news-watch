@@ -75,14 +75,22 @@ export async function fetchResults(token, config, cache, now = Date.now()) {
   const vg = [...byId.keys()];
   if (!vg.length) return { completed: [], live: [], upcoming: [], games };
 
-  const after = Math.floor((now - config.lookBackDays * 86400000) / 1000);
-  const before = Math.floor((now + config.lookAheadDays * 86400000) / 1000);
+  // Two windows (recent past, next week) so busy weeks of small weeklies in
+  // one don't push the other off the page limit.
+  const s = (ms) => Math.floor(ms / 1000);
+  const windows = [
+    [s(now - config.lookBackDays * 86400000), s(now)],
+    [s(now), s(now + config.lookAheadDays * 86400000)],
+  ];
+  const seen = new Set();
   const tournaments = [];
-  for (let page = 1; page <= 5; page += 1) {
-    const data = await gql(token, TOURNAMENTS_QUERY, { page, after, before, vg });
-    const t = data.tournaments;
-    tournaments.push(...(t?.nodes ?? []));
-    if (!t || page >= (t.pageInfo?.totalPages ?? 1)) break;
+  for (const [after, before] of windows) {
+    for (let page = 1; page <= 8; page += 1) {
+      const data = await gql(token, TOURNAMENTS_QUERY, { page, after, before, vg });
+      const t = data.tournaments;
+      for (const n of t?.nodes ?? []) if (!seen.has(n.id)) { seen.add(n.id); tournaments.push(n); }
+      if (!t || page >= (t.pageInfo?.totalPages ?? 1)) break;
+    }
   }
 
   const completed = [];
