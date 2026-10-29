@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T08:45:18.878Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
+      "url": "https://esports.gg/news/counter-strike-2/pgl-masters-bucharest-2026-playoff-results/",
+      "source": "esports.gg",
+      "outlets": [
+        "esports.gg"
+      ],
+      "score": 5.5,
+      "why": [
+        "stand-in*",
+        "vitality*",
+        "pgl"
+      ],
+      "summary": "Even with a stand-in player, Vitality are up to taking their third consecutive title. Long-time rivals and fresh names in the mix are more than willing to break this streak.",
+      "published": "2026-10-29T08:40:42.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T06:40:20.915Z",
       "level": "possible",
       "scene": "CS2",
