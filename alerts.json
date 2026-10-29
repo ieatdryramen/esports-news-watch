@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T16:20:22.301Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Astralis vs Inner Circle / StarLadder Ranked Episode 5 - Lower Bracket Semi-Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xioeh3/astralis_vs_inner_circle_starladder_ranked/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "benched*",
+        "roster*",
+        "official*",
+        "astralis"
+      ],
+      "summary": "Astralis 🇪🇺 2-1 🇺🇦 IC Esports Ancient: 14-16 Dust2: 13-11 Cache: 13-8 🇪🇺 Astralis advance to Lower Semi Finals and will face 🇪🇺 Eternal Fire Predicted VRS Impact Team Rank Diff Total 🇪🇺 Astralis #13 → #12 +10 pts 1589 pts 🇺🇦 Inner Circle #30 → #30 -9 pts 1419 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information StarLadder Ranked Episode 5 | 🇪🇸 Barcelona ($100k LAN) | Liquipedia | HLTV Team Information 🇪🇺 Astralis | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | Weibo | YouTube | Twitch | Steam Roster : 🇩🇰 Staehr | 🇸🇪 phzy ⊕ | 🇱🇹 ryu | 🇵🇱 siuhy | 🇺🇦 cmtry Coach : 🇵🇱 NEO Subs/Benched : 🇩🇰 jabbi | 🇩🇰 HooXi 🇺🇦 IC Esports | Liquipedia | HLTV | Official Site | Twitter | Instagram | TikTok | YouTube | Twitch Roster : 🇺🇦 onic ♛ | 🇺🇦 Dawy | 🇺🇦 zeRRoFIX | 🇺🇦 cptkurtka023 | 🇺🇦 headtr1ck ⊕ Subs/Benched : 🇺🇦 Flierax | 🇺🇦 nifee Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes Astralis MAP Inner Circle X anubis inferno X ✔ ancient dust2 ✔ nuke X X mirage cache Full Match Stats Team K-D ADR Swing Rating 🇪🇺 Astralis 1.04 🇩🇰 Staehr 60-46 95.9 +2.19% 1.32 🇱🇹 ryu 51-53 86.8 +3.65% 1.27 🇩🇰 jabbi 55-50 71.1 -0.90% 1.02 🇵🇱 siuhy 40-52 66.1 -0.63% 0.90 🇸🇪 phzy ⊕ 29-43 39.1 -2.05% 0.69 🇺🇦 Inner Circle 1.05 🇺🇦 Dawy 63-48 91.4 +1.3",
+      "published": "2026-10-29T16:15:46.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T15:30:22.117Z",
       "level": "possible",
       "scene": "CS2",
