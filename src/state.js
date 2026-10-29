@@ -7,13 +7,16 @@ import { dirname } from 'node:path';
 const DAY_MS = 24 * 60 * 60 * 1000;
 
 export function emptyState() {
-  return { seen: {}, seededSources: {}, recentAlerts: [], failures: {}, downNotified: {} };
+  return { seen: {}, seededSources: {}, recentAlerts: [], recentItems: [], failures: {}, downNotified: {} };
 }
 
 export async function loadState(path) {
   try {
     const data = JSON.parse(await readFile(path, 'utf8'));
-    return { ...emptyState(), ...data };
+    const state = { ...emptyState(), ...data };
+    // Alerts saved by older versions have no outlet list.
+    state.recentAlerts = state.recentAlerts.map((a) => ({ outlets: [], reasons: [], ...a }));
+    return state;
   } catch {
     return emptyState();
   }
@@ -25,6 +28,7 @@ export async function saveState(path, state, now = Date.now()) {
     if (now - ts > 7 * DAY_MS) delete state.seen[id];
   }
   state.recentAlerts = state.recentAlerts.filter((a) => now - a.ts < 2 * DAY_MS);
+  state.recentItems = state.recentItems.filter((r) => now - r.ts < 3 * 60 * 60 * 1000);
   await mkdir(dirname(path), { recursive: true });
   await writeFile(path, JSON.stringify(state));
 }

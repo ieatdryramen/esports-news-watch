@@ -12,7 +12,8 @@ import { buildJobs, runJobs } from './fetchers.js';
 import { detectScene, scoreItem } from './score.js';
 import { jaccard, tokens, truncate } from './text.js';
 import { loadState, saveState } from './state.js';
-import { sendAlert, sendNotice, sendPayload } from './discord.js';
+import { editAlert, sendAlert, sendEscalation, sendNotice, sendPayload } from './discord.js';
+import { applyCorroboration, corroboratingOutlets, findAlertFor, outletOf } from './developing.js';
 import { buildRundown, rundownPayloads } from './rundown.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -108,7 +109,7 @@ async function run() {
   const state = await loadState(STATE_PATH);
   const firstRun = Object.keys(state.seededSources).length === 0;
   const notices = [];
-  const candidates = [];
+  const fresh = [];
   let freshCount = 0;
 
   for (const r of results) {
@@ -143,25 +144,59 @@ async function run() {
       const sceneKey = detectScene(item, scenes);
       if (!sceneKey) continue;
       if (item.published && now - item.published.getTime() > scoring.maxAgeHours * 3600 * 1000) continue;
-      const result = scoreItem(item, scenes[sceneKey], scoring);
-      if (!result.level) continue;
-      candidates.push({ item, sceneKey, sceneLabel: scenes[sceneKey].label, result, tokens: tokens(item.title) });
+      fresh.push({
+        item,
+        sceneKey,
+        sceneLabel: scenes[sceneKey].label,
+        result: scoreItem(item, scenes[sceneKey], scoring),
+        tokens: tokens(item.title),
+        outlet: outletOf(item),
+      });
     }
   }
 
-  // Drop repeats: the same story posted by several sources, or already alerted recently.
-  candidates.sort((a, b) => b.result.score - a.result.score);
-  const windowMs = scoring.dedupeWindowHours * 3600 * 1000;
-  const recent = state.recentAlerts.filter((a) => now - a.ts < windowMs).map((a) => new Set(a.tokens));
+  // Every fresh story feeds the "who else is reporting this" memory.
+  for (const f of fresh) state.recentItems.push({ ts: now, tokens: [...f.tokens], outlet: f.outlet });
+
+  fresh.sort((a, b) => b.result.score - a.result.score);
   const alerts = [];
-  for (const c of candidates) {
-    if (recent.some((t) => jaccard(t, c.tokens) >= scoring.dedupeSimilarity)) continue;
-    if (alerts.some((a) => jaccard(a.tokens, c.tokens) >= scoring.dedupeSimilarity)) continue;
-    alerts.push(c);
+  const updated = new Set();
+  for (const f of fresh) {
+    // Same story as an earlier alert: add this outlet to it instead of alerting again.
+    const earlier = findAlertFor(f.tokens, state.recentAlerts, scoring, now);
+    if (earlier) {
+      if (!earlier.outlets.includes(f.outlet)) {
+        earlier.outlets.push(f.outlet);
+        updated.add(earlier);
+      }
+      continue;
+    }
+    const sameRun = alerts.find((a) => jaccard(a.tokens, f.tokens) >= scoring.dedupeSimilarity);
+    if (sameRun) {
+      if (!sameRun.outlets.includes(f.outlet)) sameRun.outlets.push(f.outlet);
+      continue;
+    }
+    const outlets = corroboratingOutlets(f.tokens, state.recentItems, scoring.corroboration, now);
+    outlets.add(f.outlet);
+    f.result = applyCorroboration(f.result, outlets.size, scoring);
+    if (!f.result.level) continue;
+    f.outlets = [...outlets];
+    alerts.push(f);
   }
+
   const toSend = alerts.slice(0, scoring.maxAlertsPerRun);
   if (alerts.length > toSend.length) {
     notices.push({ kind: 'info', text: `${alerts.length - toSend.length} more lower-scoring stories skipped this run.` });
+  }
+
+  // A POSSIBLE alert that enough outlets have now picked up becomes BREAKING.
+  const escalations = [];
+  for (const a of updated) {
+    if (a.level === 'possible' && a.outlets.length >= scoring.corroboration.minOutlets) {
+      a.level = 'breaking';
+      a.reasons = [...(a.reasons || []), `${a.outlets.length} outlets`];
+      escalations.push(a);
+    }
   }
 
   // Say hello the first time a webhook is connected, so setup is confirmed in Discord.
@@ -171,9 +206,32 @@ async function run() {
   }
 
   for (const a of toSend) {
-    console.log(`${a.result.level.toUpperCase()} ${a.result.score} [${a.sceneLabel}] ${a.item.title} — ${a.item.sourceName} — ${a.item.url}`);
+    console.log(`${a.result.level.toUpperCase()} ${a.result.score} [${a.sceneLabel}] ${a.item.title} — ${a.outlets.join(', ')} — ${a.item.url}`);
   }
+  for (const a of updated) console.log(`UPDATE [${a.sceneLabel}] ${a.title} — now ${a.outlets.length} outlets${escalations.includes(a) ? ', ESCALATED to BREAKING' : ''}`);
   for (const n of notices) console.log(`NOTICE: ${n.text}`);
+
+  const toRecord = (a, messageId) => ({
+    ts: now,
+    tokens: [...a.tokens],
+    title: a.item.title,
+    url: a.item.url,
+    summary: a.item.summary,
+    sourceName: a.item.sourceName,
+    published: a.item.published ? a.item.published.toISOString() : null,
+    sceneLabel: a.sceneLabel,
+    level: a.result.level,
+    score: a.result.score,
+    reasons: a.result.reasons,
+    outlets: a.outlets,
+    messageId,
+  });
+  const fromRecord = (r) => ({
+    item: { title: r.title, url: r.url, summary: r.summary, sourceName: r.sourceName, published: r.published },
+    sceneLabel: r.sceneLabel,
+    result: { level: r.level, score: r.score, reasons: r.reasons || [] },
+    outlets: r.outlets,
+  });
 
   let sendFailed = false;
   if (!dryRun) {
@@ -182,21 +240,29 @@ async function run() {
     }
     for (const a of toSend) {
       try {
-        await sendAlert(webhook, a);
-        state.recentAlerts.push({ ts: now, tokens: [...a.tokens], title: a.item.title });
+        const messageId = await sendAlert(webhook, a);
+        state.recentAlerts.push(toRecord(a, messageId));
       } catch (err) {
         sendFailed = true;
         delete state.seen[a.item.id]; // retry next run
         console.error(`alert failed: ${err.message}`);
       }
     }
+    for (const a of updated) {
+      try {
+        if (a.messageId) await editAlert(webhook, a.messageId, fromRecord(a));
+        if (escalations.includes(a)) await sendEscalation(webhook, fromRecord(a));
+      } catch (err) {
+        console.error(`alert update failed: ${err.message}`);
+      }
+    }
   } else {
     console.log('(dry run: no webhook set, nothing posted)');
-    for (const a of toSend) state.recentAlerts.push({ ts: now, tokens: [...a.tokens], title: a.item.title });
+    for (const a of toSend) state.recentAlerts.push(toRecord(a, null));
   }
 
   await saveState(STATE_PATH, state, now);
-  console.log(`done: ${summary(results)}, ${freshCount} new items, ${toSend.length} alerts`);
+  console.log(`done: ${summary(results)}, ${freshCount} new items, ${toSend.length} alerts, ${updated.size} updates`);
   if (sendFailed) process.exitCode = 1;
 }
 

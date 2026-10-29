@@ -6,6 +6,11 @@
     { "name": "esports.gg", "type": "rss", "url": "https://esports.gg/feed/", "scene": "auto", "kind": "news" },
     { "name": "Esports News UK", "type": "rss", "url": "https://esports-news.co.uk/feed/", "scene": "auto", "kind": "news" },
     { "name": "TL.net", "type": "rss", "url": "https://tl.net/rss/news.xml", "scene": "auto", "kind": "news" },
+    { "name": "Melee Stats", "type": "rss", "url": "https://meleestats.co/feed/", "scene": "melee", "kind": "news" },
+    { "name": "Tetris Interest", "type": "rss", "url": "https://tetrisinterest.com/feed/", "scene": "tetris", "kind": "news" },
+    { "name": "Trackmania blog", "type": "rss", "url": "https://blog.trackmania.com/feed/", "scene": "trackmania", "kind": "news" },
+    { "name": "Age of Empires news", "type": "rss", "url": "https://www.ageofempires.com/news/feed/", "scene": "auto", "kind": "news" },
+    { "name": "Age of Notes", "type": "rss", "url": "https://ageofnotes.com/feed/", "scene": "auto", "kind": "news" },
 
     { "name": "Google News: CS2", "type": "google", "query": "\"Counter-Strike\" OR CS2 esports", "scene": "cs2", "kind": "google" },
     { "name": "Google News: Melee", "type": "google", "query": "\"Smash Bros. Melee\" OR \"Super Smash Bros Melee\"", "scene": "melee", "kind": "google" },

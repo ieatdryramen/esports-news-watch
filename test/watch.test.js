@@ -88,3 +88,27 @@ test('discord payload shape', () => {
   assert.match(p.content, /BREAKING — CS2/);
   assert.equal(p.embeds.length, 1);
 });
+
+test('developing story: three outlets boost, Reddit counts once, follow-ups find the alert', async () => {
+  const { corroboratingOutlets, applyCorroboration, outletOf, findAlertFor } = await import('../src/developing.js');
+  const now = Date.now();
+  const t = (s) => [...tokens(s)];
+  const recent = [
+    { ts: now - 10 * 60000, tokens: t('Aleksib convicted of aggravated tax fraud'), outlet: 'HLTV news' },
+    { ts: now - 5 * 60000, tokens: t("NAVI's Aleksib convicted of aggravated tax fraud in Finland"), outlet: 'Dexerto' },
+    { ts: now - 4 * 60000, tokens: t('Aleksib receives suspended sentence for aggravated tax fraud'), outlet: 'Reddit' },
+    { ts: now - 3 * 60000, tokens: t('Aleksib tax fraud verdict thread'), outlet: 'Reddit' },
+    { ts: now - 3 * 3600000, tokens: t('Aleksib convicted of aggravated tax fraud'), outlet: 'Old Outlet' },
+  ];
+  const outlets = corroboratingOutlets(tokens('Aleksib convicted of tax fraud, gets suspended sentence'), recent, scoring.corroboration, now);
+  assert.deepEqual([...outlets].sort(), ['Dexerto', 'HLTV news', 'Reddit']);
+  const mild = { score: 3, level: null, reasons: ['aleksib'] };
+  const boosted = applyCorroboration(mild, outlets.size, scoring);
+  assert.ok(boosted.score > mild.score && boosted.level);
+  assert.equal(applyCorroboration(mild, 2, scoring).level, null);
+  assert.equal(outletOf({ kind: 'reddit', sourceName: 'r/SSBM' }), 'Reddit');
+  assert.equal(outletOf({ kind: 'google', sourceName: 'Google News: CS2 (Dexerto)', publisher: 'Dexerto' }), 'Dexerto');
+  const alerts = [{ ts: now - 60000, tokens: t('Aleksib convicted of aggravated tax fraud'), outlets: ['HLTV news'] }];
+  assert.ok(findAlertFor(tokens('Aleksib convicted of aggravated tax fraud, appeal possible'), alerts, scoring, now));
+  assert.equal(findAlertFor(tokens('Hera wins Red Bull Wololo'), alerts, scoring, now), null);
+});

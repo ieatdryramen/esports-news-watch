@@ -8,6 +8,13 @@
   "maxAlertsPerRun": 6,
   "dedupeWindowHours": 24,
   "dedupeSimilarity": 0.5,
+  "corroboration": {
+    "_comment": "A story reported by minOutlets different outlets within windowMinutes gets the bonus, and a POSSIBLE alert that reaches it is escalated to BREAKING. Reddit counts as one outlet.",
+    "minOutlets": 3,
+    "windowMinutes": 60,
+    "similarity": 0.4,
+    "bonus": 3
+  },
   "nameWeight": 2,
   "maxNameBonus": 4,
   "breakingTerms": {
