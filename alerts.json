@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T15:30:22.117Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "karrigan on the Cologne Major: “Some rounds we won vs Spirit and Vitality, we probably don’t win in a studio”",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xin1at/karrigan_on_the_cologne_major_some_rounds_we_won/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "won",
+        "karrigan",
+        "vitality",
+        "spirit",
+        "cologne major"
+      ],
+      "summary": "https://www.youtube.com/watch?v=oleSWpYAncA submitted by /u/aAa_Mac to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-29T15:25:32.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T14:20:19.787Z",
       "level": "possible",
       "scene": "CS2",
