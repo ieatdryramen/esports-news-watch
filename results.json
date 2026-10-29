@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-10-29T06:00:24.772Z",
+  "generatedAt": "2026-10-29T06:30:21.920Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1743087",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Adam's Smash Series #209: Bye, Bye Miss American Chai",
+      "event": "Melee Singles",
+      "entrants": 68,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-29T01:00:00.000Z",
+      "endAt": "2026-10-29T05:30:00.000Z",
+      "url": "https://www.start.gg/tournament/adam-s-smash-series-209-bye-bye-miss-american-chai/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Eggdog | Salt"
+        },
+        {
+          "placement": 2,
+          "name": "Eggdog | Zoey"
+        },
+        {
+          "placement": 3,
+          "name": "evil | Stiv"
+        },
+        {
+          "placement": 4,
+          "name": "CMC 23"
+        },
+        {
+          "placement": 5,
+          "name": "USN | Chai_Rockyy"
+        },
+        {
+          "placement": 5,
+          "name": "AP"
+        },
+        {
+          "placement": 7,
+          "name": "Senna"
+        },
+        {
+          "placement": 7,
+          "name": "Brocas Helm"
+        }
+      ]
+    },
     {
       "eventId": "1742702",
       "scene": "melee",
@@ -333,19 +380,6 @@
     }
   ],
   "live": [
-    {
-      "eventId": "1743087",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Adam's Smash Series #209: Bye, Bye Miss American Chai",
-      "event": "Melee Singles",
-      "entrants": 68,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-29T01:00:00.000Z",
-      "endAt": "2026-10-29T05:30:00.000Z",
-      "url": "https://www.start.gg/tournament/adam-s-smash-series-209-bye-bye-miss-american-chai/event/melee-singles"
-    },
     {
       "eventId": "1743613",
       "scene": "tekken",
