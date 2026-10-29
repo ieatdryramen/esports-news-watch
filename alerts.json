@@ -1,6 +1,28 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T04:15:17.774Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "BetBoom has never won a playoff game after going 3-0 in groups, this will be their 4th attempt",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xia3b8/betboom_has_never_won_a_playoff_game_after_going/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "won",
+        "record*",
+        "navi*",
+        "faze*",
+        "g2*",
+        "furia*"
+      ],
+      "summary": "A strange record, usually a relatively consistent 3-0 in groups should imply you are one of top teams in those tournaments, but BetBoom had a mixture of bad luck and bad play when reaching the playoffs so far. With Furia (a team that just beat them twice in Thunderpick) the unfortunate streak has a decent chance of continuing if they drop off even a little bit from their groups form. Atlanta - they went 3-0 to be seeded directly into Semi-finals, lost to eventual winners Navi XSE in July - went 3-0 in swiss, but managed to lose to a Faze that barely scraped through the bracket (and lost to very bad Parivision right after) Fissure in September - went 3-0 yet again, seeded directly into Semi-finals and lost a r1nkle G2 I do think this time it will be different, they looked extremely confident and fresh in their Vlog. If there was a time to beat Furia, this is it. You have a huge advantage in rest and prep. There is nothing new that Furia should be able to come up with their schedule and how tired that whole team is. In 12 hour i hope we get to witness them carry their form and show that they are a real contender within top 10. submitted by /u/Pirat6662001 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-29T04:12:47.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T02:40:17.818Z",
       "level": "possible",
       "scene": "Dota",
