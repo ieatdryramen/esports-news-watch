@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-10-29T10:55:26.398Z",
+  "generatedAt": "2026-10-29T11:00:48.554Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 17,
       "stories": [
-        {
-          "title": "Who Is Aleksib? NAVI IGL Convicted of Aggravated Tax Fraud",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDVhU1B5ODZWNnFEMXdHelBnSnBKZWFfRnA5eGEzX1BURU1zWFNHUXhWbmxwRFhTTUdTeGpKS0dEOWo2cWRpWEMwSk5nZi1TYnRJenpfQnd1UHEtd1hQN21yZk9XMlBCTTBGZ3VpZGtzZXJuYWlmMkFaNl9DMkQ0bjV4RkhMUEFxei14TWtMWUZMVEVhU2dVOHpR?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-10-28T10:59:26.000Z",
-          "score": 14,
-          "level": "breaking",
-          "why": [
-            "convicted",
-            "fraud",
-            "aleksib",
-            "navi"
-          ]
-        },
         {
           "title": "FUT vs Nemiga / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xifskh/fut_vs_nemiga_pgl_masters_bucharest_2026/",
@@ -163,27 +149,24 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xibaji/removed_by_reddit/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T05:21:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 6,
       "stories": [
-        {
-          "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjBxRkdwcTlHR1lycWZBTEloLUJGOG1OQXI4bTdDYk5lZ2VqRGdSQjZ2V0tTWTRaSURtSC1FdGNTcDY2Yzc1bGFneUhQYS12NDEyMUV1czhoTmdORU5VdUNTRUZKS3l1X3V5cHBwSEk4VUI3WDUydkdXcWhyME8yWGJJcTRzcXRFQzl2VXN6bzVIVTdoWVJUU012NUFlNzVoX0tWTzBZc3V0UnJCdVg0cUljelhMUQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-29T03:41:55.000Z",
-          "score": 11,
-          "level": "breaking",
-          "why": [
-            "upset",
-            "record",
-            "team spirit",
-            "og"
-          ]
-        },
         {
           "title": "Team Spirit’s playoff run takes a hit after shocking loss to OG at Dota 2 PARI Universe",
           "url": "https://esports.gg/news/dota-2/og-upsets-team-spirit-pari-universe-dota-2-upper-bracket/",
@@ -246,72 +229,10 @@
           ]
         },
         {
-          "title": "How lower brackets give Dota 2 teams another route to the final",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXNfNVRsZE1KVVd0aVZVdklEMXZibExLZkVrN2NwZ1NoZW54TzgtQ215V1RoS1FYSXlIZFNnXzV4ZU0zMmJ1bXhrV011THR1WTg2MEE4LXhZb3JJY2lMZnNsY3FnNlYySHo4eFNFcF9hYUw2UVVNLXVsZnFJMktiQUpiYldKNUktTVEtLWVR?oc=5",
-          "source": "Google News: Dota (Khel Now)",
-          "published": "2026-10-29T10:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-10-29T09:11:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-10-29T03:40:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "When nerf ?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xidhz8/when_nerf/",
           "source": "r/DotA2",
           "published": "2026-10-29T07:37:57.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "This is a cheater, right?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xidldx/this_is_a_cheater_right/",
-          "source": "r/Tekken",
-          "published": "2026-10-29T07:44:03.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
-          "title": "The Unfiltered Truth About The Tekken 6 Revival",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9RcU1FWU91a2dadmwwa1dzUVhsWWlmYXlIcVpQYWZ2OEQ4UEdrQ3oxZnZRSTBrMGFqRmJV?oc=5",
-          "source": "Google News: Tekken (Howl.Link)",
-          "published": "2026-10-28T22:28:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
-          "source": "r/Tekken",
-          "published": "2026-10-29T04:28:52.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -347,6 +268,32 @@
             "grand final",
             "120*"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "This is a cheater, right?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xidldx/this_is_a_cheater_right/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T07:44:03.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheater"
+          ]
+        },
+        {
+          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T04:28:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
