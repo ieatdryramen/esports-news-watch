@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:00:24.949Z",
+  "generatedAt": "2026-10-29T05:30:23.194Z",
   "source": "start.gg",
   "completed": [
     {
@@ -333,6 +333,19 @@
     }
   ],
   "live": [
+    {
+      "eventId": "1743087",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Adam's Smash Series #209: Bye, Bye Miss American Chai",
+      "event": "Melee Singles",
+      "entrants": 68,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-29T01:00:00.000Z",
+      "endAt": "2026-10-29T05:30:00.000Z",
+      "url": "https://www.start.gg/tournament/adam-s-smash-series-209-bye-bye-miss-american-chai/event/melee-singles"
+    },
     {
       "eventId": "1743613",
       "scene": "tekken",
