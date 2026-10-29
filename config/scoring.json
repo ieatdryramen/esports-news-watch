@@ -157,5 +157,41 @@
     "google": 1,
     "reddit": 0,
     "bluesky": 1
+  },
+  "rundownRedditTerms": {
+    "_comment": "Reddit posts only make the daily rundown if their title hits a breaking term, a scene name, or one of these. Cuts help posts, memes and clips from busy player subs. News sites are never filtered.",
+    "terms": [
+      "patch",
+      "patch notes",
+      "results",
+      "tournament",
+      "bracket",
+      "major",
+      "top 8",
+      "top 16",
+      "finals",
+      "final",
+      "winner",
+      "winners",
+      "prize",
+      "nerf",
+      "nerfed",
+      "buff",
+      "buffed",
+      "balance",
+      "lineup",
+      "dlc",
+      "season",
+      "qualifier",
+      "qualifiers",
+      "league",
+      "event",
+      "schedule",
+      "new hero",
+      "new character",
+      "teaser",
+      "trailer",
+      "reveal"
+    ]
   }
 }

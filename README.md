@@ -32,6 +32,8 @@ The first time a source is fetched, everything already in it is recorded as seen
 
 The **rundown** workflow refreshes `rundown.json` on the `feed` branch every hour (every story from the last 24 hours, grouped by scene) and posts it to Discord twice a day, at 7:00 and 17:00 in `RUNDOWN_TIMEZONE` (default US Eastern). Change the hours with a repository variable `RUNDOWN_POST_HOURS` (e.g. `8,20`). Hitting **Actions → rundown → Run workflow** posts it right away. To send it to a different channel, add a second webhook as the secret `DISCORD_RUNDOWN_WEBHOOK_URL`.
 
+News sites always make the rundown. Reddit posts only make it if the title hits a breaking term, a known player or team, or a news word from `rundownRedditTerms` in `config/scoring.json`, so help posts, memes and clips from busy player subs stay out.
+
 ## Tuning
 
 - Too many alerts: raise the thresholds in `config/scoring.json`, or add noise words.

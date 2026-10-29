@@ -112,3 +112,23 @@ test('developing story: three outlets boost, Reddit counts once, follow-ups find
   assert.ok(findAlertFor(tokens('Aleksib convicted of aggravated tax fraud, appeal possible'), alerts, scoring, now));
   assert.equal(findAlertFor(tokens('Hera wins Red Bull Wololo'), alerts, scoring, now), null);
 });
+
+test('rundown drops Reddit chatter but keeps Reddit news', async () => {
+  const { buildRundown } = await import('../src/rundown.js');
+  const now = Date.now();
+  const mk = (title, scene) => ({ title, url: 'https://x.test/' + encodeURIComponent(title), summary: '', kind: 'reddit', scene, sourceName: 'r/Test', published: new Date(now - 30 * 60000) });
+  const results = [{ ok: true, items: [
+    mk('I cannot get my head around this game at all', 'tekken'),
+    mk('Guys I need to find a shirt for Halloween', 'streetfighter'),
+    mk('50k tournament announced for tomorrow', 'cod'),
+    mk('Patch 7.42', 'dota'),
+    mk('Kacey and Chape just had a classic set', 'melee'),
+  ] }];
+  const r = buildRundown(results, scenes, scoring, now);
+  const labels = r.sections.map((s) => s.label);
+  assert.ok(labels.includes('CoD'));
+  assert.ok(labels.includes('Dota'));
+  assert.ok(!labels.includes('Tekken'));
+  assert.ok(!labels.includes('Street Fighter'));
+  assert.ok(!labels.includes('Melee'));
+});

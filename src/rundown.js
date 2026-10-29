@@ -2,7 +2,7 @@
 // ranked, posted as one Discord message. A research sheet for a daily show.
 
 import { detectScene, scoreItem } from './score.js';
-import { jaccard, tokens, truncate } from './text.js';
+import { hasTerm, jaccard, tokens, truncate } from './text.js';
 
 const PER_SCENE = 6;
 const EMBED_LIMIT = 4000; // Discord allows 4096 per embed description
@@ -17,6 +17,7 @@ export function buildRundown(results, scenes, scoring, now = Date.now(), hours =
       if (!sceneKey) continue;
       const result = scoreItem(item, scenes[sceneKey], scoring);
       if (result.score < 0) continue; // betting pages, memes, help posts
+      if (item.kind === 'reddit' && !redditIsNews(item, result, scoring)) continue;
       const list = byScene.get(sceneKey) ?? [];
       list.push({ item, result, tokens: tokens(item.title) });
       byScene.set(sceneKey, list);
@@ -61,6 +62,14 @@ export function buildRundown(results, scenes, scoring, now = Date.now(), hours =
     .filter(([key]) => !key.startsWith('_') && !byScene.has(key))
     .map(([, s]) => s.label);
   return { sections, quiet };
+}
+
+// Busy player subs are mostly help posts and clips. A Reddit post makes the
+// rundown only if its title hits a breaking term, a scene name, or a news word.
+function redditIsNews(item, result, scoring) {
+  if (result.reasons.some((r) => !r.endsWith('*') && !r.startsWith('-'))) return true;
+  const terms = scoring.rundownRedditTerms?.terms ?? [];
+  return terms.some((t) => hasTerm(item.title || '', t));
 }
 
 // Splits the rundown into Discord payloads that fit the size limits.
