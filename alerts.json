@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T02:40:17.818Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Team Spirit’s playoff run takes a hit after shocking loss to OG at Dota 2 PARI Universe",
+      "url": "https://esports.gg/news/dota-2/og-upsets-team-spirit-pari-universe-dota-2-upper-bracket/",
+      "source": "esports.gg",
+      "outlets": [
+        "esports.gg"
+      ],
+      "score": 6.5,
+      "why": [
+        "champions*",
+        "team spirit",
+        "og"
+      ],
+      "summary": "The three-time TI champions unexpectedly found their way to the lower bracket after facing a series loss to an unlikely opponent — OG.",
+      "published": "2026-10-29T02:39:00.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T02:00:23.514Z",
       "level": "breaking",
       "scene": "Dota",
