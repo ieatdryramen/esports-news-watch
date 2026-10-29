@@ -132,3 +132,12 @@ test('rundown drops Reddit chatter but keeps Reddit news', async () => {
   assert.ok(!labels.includes('Street Fighter'));
   assert.ok(!labels.includes('Melee'));
 });
+
+test('Reddit alone caps at POSSIBLE; corroboration can still make it BREAKING', async () => {
+  const { applyCorroboration } = await import('../src/developing.js');
+  const r = scoreItem({ title: 'BetBoom has never won a playoff game after going 3-0, history says they are cooked', summary: '', kind: 'reddit' }, scenes.cs2, scoring);
+  assert.notEqual(r.level, 'breaking');
+  const leak = scoreItem({ title: 'Valve leaked new weapon in update, Aleksib convicted, NAVI statement', summary: '', kind: 'reddit' }, scenes.cs2, scoring);
+  assert.equal(leak.level, 'possible');
+  assert.equal(applyCorroboration(leak, 3, scoring).level, 'breaking');
+});

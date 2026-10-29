@@ -75,5 +75,11 @@ export function scoreItem(item, scene, scoring) {
     if (score >= scoring.thresholds.breaking) level = 'breaking';
     else if (score >= scoring.thresholds.possible) level = 'possible';
   }
+  // Reddit alone never makes BREAKING: trivia and rumor threads score high.
+  // A Reddit story still goes BREAKING once real outlets corroborate it.
+  if (level === 'breaking' && item.kind === 'reddit') {
+    level = 'possible';
+    reasons.push('reddit only');
+  }
   return { score, level, reasons };
 }
