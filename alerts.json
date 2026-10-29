@@ -1,6 +1,29 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T10:05:19.587Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "FUT vs Nemiga / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xifskh/fut_vs_nemiga_pgl_masters_bucharest_2026/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7.5,
+      "why": [
+        "benched*",
+        "roster*",
+        "official*",
+        "natus vincere*",
+        "vitality*",
+        "pgl",
+        "reddit only"
+      ],
+      "summary": "FUT Esports 🇪🇺 0-2 🇷🇺 Nemiga Gaming Nuke: 11-13 Dust2: 9-13 Ancient 🇷🇺 Nemiga Gaming advance to Semi Finals and will face 🇪🇺 Natus Vincere or 🇪🇺 Team Vitality Predicted VRS Impact Team Rank Diff Total 🇪🇺 FUT #8 → #8 -23 pts 1759 pts 🇷🇺 Nemiga #17 → #13 +37 pts 1601 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information PGL Masters Bucharest 2026 | 🇷🇴 Bucharest ($1.25m LAN) | Liquipedia | HLTV Streams | YouTube | Twitch A | Twitch B Team Information 🇪🇺 FUT Esports | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | TikTok | YouTube | Twitch Roster : 🇺🇦 dem0n | 🇽🇰 Krabeni ♛ | 🇱🇹 dziugss | 🇹🇷 xfl0ud | 🇪🇸 SunPayus ⊕ Coach : 🇭🇺 coolio Subs/Benched : 🇷🇴 lauNX 🇷🇺 Nemiga Gaming | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | YouTube | Twitch | Steam Roster : 🇰🇿 khaN ⊕ | 🇰🇿 SYPH0 | 🇷🇺 KaiR0N- | 🇷🇺 robo ♛ | 🇷🇺 Xant3r Coach : 🇧🇾 boX Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes FUT MAP Nemiga anubis X X inferno nuke ✔ ✔ dust2 X cache mirage X ancient Full Match Stats Team K-D ADR Swing Rating 🇪🇺 FUT 0.96 🇱🇹 dziugss 36-33 85.7 -1.78% 1.05 🇪🇸 SunPayus ⊕ 32-28 68.8 -0.62% 1.01 🇹🇷 xfl0ud 24-27 61.5 -1.07% 0.96 🇽🇰 Krabeni ♛ 26-32 72.6 -1.29% 0.92 🇺🇦 dem0n 27-30 64.3 -2.04% 0.86 🇷🇺 Nemiga 1.09 🇰",
+      "published": "2026-10-29T10:02:51.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T09:00:26.331Z",
       "level": "possible",
       "scene": "CS2",
