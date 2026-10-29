@@ -1,10 +1,149 @@
 {
-  "generatedAt": "2026-10-29T11:00:48.554Z",
+  "generatedAt": "2026-10-29T12:00:35.444Z",
   "windowHours": 24,
   "scenes": [
     {
+      "scene": "Dota",
+      "storyCount": 12,
+      "stories": [
+        {
+          "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjBxRkdwcTlHR1lycWZBTEloLUJGOG1OQXI4bTdDYk5lZ2VqRGdSQjZ2V0tTWTRaSURtSC1FdGNTcDY2Yzc1bGFneUhQYS12NDEyMUV1czhoTmdORU5VdUNTRUZKS3l1X3V5cHBwSEk4VUI3WDUydkdXcWhyME8yWGJJcTRzcXRFQzl2VXN6bzVIVTdoWVJUU012NUFlNzVoX0tWTzBZc3V0UnJCdVg0cUljelhMUQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-10-29T03:41:55.000Z",
+          "score": 11,
+          "level": "breaking",
+          "why": [
+            "upset",
+            "record",
+            "team spirit",
+            "og"
+          ]
+        },
+        {
+          "title": "Team Spirit’s playoff run takes a hit after shocking loss to OG at Dota 2 PARI Universe",
+          "url": "https://esports.gg/news/dota-2/og-upsets-team-spirit-pari-universe-dota-2-upper-bracket/",
+          "source": "esports.gg",
+          "published": "2026-10-29T02:39:00.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "champions*",
+            "team spirit",
+            "og"
+          ]
+        },
+        {
+          "title": "Team Spirit scared of Topson Silencer Mid",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xibift/team_spirit_scared_of_topson_silencer_mid/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T05:34:29.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "ban*",
+            "team spirit",
+            "og*",
+            "topson"
+          ]
+        },
+        {
+          "title": "How Team Liquid and SAP Combined Forces to Win the Race to World First",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUTNKb09NUDBTcjlUOHExMzk4aVZBZGlBTnFGNU9ZVkhuQkpwU3A0bFFTbjF1WF9WMEpwV0xtVVZjYkdtbXJlTXZ3Qzg0OTlfMTlPaXIyZ3Bwc0JUVzJud0ZISHhRdTVUa2g3RW9yeFF5MDFvRXdERDdTWjU?oc=5",
+          "source": "Google News: Dota (Insider Gaming)",
+          "published": "2026-10-29T11:03:51.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
+          "title": "Enigma is Collapse's 26th most played hero with a 47% win rate",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xigkyq/enigma_is_collapses_26th_most_played_hero_with_a/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T10:45:52.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit*",
+            "collapse"
+          ]
+        },
+        {
+          "title": "How does collapse have rank 10 immortal",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xih56n/how_does_collapse_have_rank_10_immortal/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T11:16:03.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "collapse"
+          ]
+        },
+        {
+          "title": "Team Liquid secret Coach",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xigdeu/team_liquid_secret_coach/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T10:34:32.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
+          "title": "New Dota 2 Hero Revealed!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xi9hsq/new_dota_2_hero_revealed/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T03:41:02.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "revealed"
+          ]
+        },
+        {
+          "title": "How lower brackets give Dota 2 teams another route to the final",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXNfNVRsZE1KVVd0aVZVdklEMXZibExLZkVrN2NwZ1NoZW54TzgtQ215V1RoS1FYSXlIZFNnXzV4ZU0zMmJ1bXhrV011THR1WTg2MEE4LXhZb3JJY2lMZnNsY3FnNlYySHo4eFNFcF9hYUw2UVVNLXVsZnFJMktiQUpiYldKNUktTVEtLWVR?oc=5",
+          "source": "Google News: Dota (Khel Now)",
+          "published": "2026-10-29T10:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-10-29T09:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-10-29T03:40:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "When nerf ?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xidhz8/when_nerf/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T07:37:57.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
         {
           "title": "FUT vs Nemiga / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
@@ -36,18 +175,6 @@
             "vitality*",
             "faze*",
             "g2*"
-          ]
-        },
-        {
-          "title": "Insane edit of AleksiB getting charged with aggravated tax evasion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xickzc/insane_edit_of_aleksib_getting_charged_with/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T06:39:45.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "charged",
-            "aleksib"
           ]
         },
         {
@@ -89,16 +216,15 @@
           ]
         },
         {
-          "title": "FURIA go to PGL Masters quarters over Liquid",
-          "url": "https://www.hltv.org/news/45840/furia-go-to-pgl-masters-quarters-over-liquid",
+          "title": "cmtry expected to miss Singapore Major for Astralis after FUT's quarter-final exit in Bucharest",
+          "url": "https://www.hltv.org/news/45850/cmtry-expected-to-miss-singapore-major-for-astralis-after-futs-quarter-final-exit-in-bucharest",
           "source": "HLTV news",
-          "published": "2026-10-28T15:36:00.000Z",
-          "score": 5,
+          "published": "2026-10-29T11:19:00.000Z",
+          "score": 4.5,
           "level": null,
           "why": [
-            "liquid",
-            "furia",
-            "pgl"
+            "stand-in*",
+            "astralis"
           ]
         },
         {
@@ -151,88 +277,58 @@
           ]
         },
         {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xibaji/removed_by_reddit/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T05:21:14.000Z",
+          "title": "Swiss stage at CS2 PGL Masters Bucharest 2026: Storylines, matchups, full results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXQwUVFCbVNSNzVmZzRVRngwY3ZWOEZPaW9jd3RBM1NKY0hmZk1kcTlpVmU1QlFMdXVDbzgyUjhoTk9CSDFOR0JBd2F1d2l5dWpMM2VGYm4zd2ZrNDdlNUJPc0FjSHItb0JpNHUzTmpXdjVUb2xlU0d6WmlsbWxjR1pqNE53OXIyZ0hIOGNabURJdw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-28T19:26:14.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "removed"
+            "pgl"
+          ]
+        },
+        {
+          "title": "The best highlights from PGL Masters Bucharest groups",
+          "url": "https://www.hltv.org/news/45786/the-best-highlights-from-pgl-masters-bucharest-groups",
+          "source": "HLTV news",
+          "published": "2026-10-28T18:56:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         }
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 6,
+      "scene": "Tekken",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "Team Spirit’s playoff run takes a hit after shocking loss to OG at Dota 2 PARI Universe",
-          "url": "https://esports.gg/news/dota-2/og-upsets-team-spirit-pari-universe-dota-2-upper-bracket/",
-          "source": "esports.gg",
-          "published": "2026-10-29T02:39:00.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "champions*",
-            "team spirit",
-            "og"
-          ]
-        },
-        {
-          "title": "Team Spirit scared of Topson Silencer Mid",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xibift/team_spirit_scared_of_topson_silencer_mid/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T05:34:29.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "ban*",
-            "team spirit",
-            "og*",
-            "topson"
-          ]
-        },
-        {
-          "title": "Enigma is Collapse's 26th most played hero with a 47% win rate",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xigkyq/enigma_is_collapses_26th_most_played_hero_with_a/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T10:45:52.000Z",
-          "score": 3,
+          "title": "This is a cheater, right?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xidldx/this_is_a_cheater_right/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T07:44:03.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "team spirit*",
-            "collapse"
+            "cheater"
           ]
         },
         {
-          "title": "Team Liquid secret Coach",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xigdeu/team_liquid_secret_coach/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T10:34:32.000Z",
-          "score": 2,
+          "title": "The Unfiltered Truth About The Tekken 6 Revival",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9RcU1FWU91a2dadmwwa1dzUVhsWWlmYXlIcVpQYWZ2OEQ4UEdrQ3oxZnZRSTBrMGFqRmJV?oc=5",
+          "source": "Google News: Tekken (Howl.Link)",
+          "published": "2026-10-28T22:28:59.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "team liquid"
-          ]
+          "why": []
         },
         {
-          "title": "New Dota 2 Hero Revealed!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xi9hsq/new_dota_2_hero_revealed/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T03:41:02.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "revealed"
-          ]
-        },
-        {
-          "title": "When nerf ?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xidhz8/when_nerf/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T07:37:57.000Z",
+          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T04:28:52.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -272,63 +368,20 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "This is a cheater, right?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xidldx/this_is_a_cheater_right/",
-          "source": "r/Tekken",
-          "published": "2026-10-29T07:44:03.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
-          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
-          "source": "r/Tekken",
-          "published": "2026-10-29T04:28:52.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Dashy comms against KOI LMAO",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xi8ltf/dashy_comms_against_koi_lmao/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-29T02:56:19.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
-          ]
-        },
-        {
-          "title": "Han nerfed",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xi8osm/han_nerfed/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-29T03:00:18.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "update*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "This game makes your wins look so ugly. Why is ranked so toxic?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xihyms/this_game_makes_your_wins_look_so_ugly_why_is/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-29T11:58:38.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
         {
           "title": "Exactly how much has Akuma been nerfed since his launch? He used to be the best character in the game",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xidm9u/exactly_how_much_has_akuma_been_nerfed_since_his/",
@@ -387,6 +440,7 @@
     "Classic Tetris",
     "Brood War",
     "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
