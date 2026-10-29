@@ -9,8 +9,12 @@ on:
     - cron: '47 17 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: rundown
+  cancel-in-progress: false
+
 permissions:
-  contents: read
+  contents: write # only used to publish the feed branch
 
 jobs:
   rundown:
@@ -33,3 +37,8 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           RUNDOWN_TIMEZONE: ${{ vars.RUNDOWN_TIMEZONE || 'America/New_York' }}
+
+      - name: Publish rundown feed
+        run: .github/scripts/publish-feed.sh
+        env:
+          GH_TOKEN: ${{ github.token }}

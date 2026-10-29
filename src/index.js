@@ -15,9 +15,11 @@ import { loadState, saveState } from './state.js';
 import { editAlert, sendAlert, sendEscalation, sendNotice, sendPayload } from './discord.js';
 import { applyCorroboration, corroboratingOutlets, findAlertFor, outletOf } from './developing.js';
 import { buildRundown, rundownPayloads } from './rundown.js';
+import { writeAlertsFeed, writeRundownFeed } from './feed.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const STATE_PATH = process.env.STATE_PATH || join(ROOT, '.state', 'state.json');
+const FEED_DIR = process.env.FEED_DIR || join(ROOT, '.feed');
 const DOWN_AFTER_FAILURES = 12; // about an hour at a 5-minute schedule
 
 async function loadJson(name) {
@@ -91,6 +93,7 @@ async function run() {
     const tz = process.env.RUNDOWN_TIMEZONE || 'America/New_York';
     const dateLabel = new Date().toLocaleDateString('en-US', { timeZone: tz, weekday: 'short', month: 'short', day: 'numeric' });
     const payloads = rundownPayloads(rundown, dateLabel);
+    await writeRundownFeed(FEED_DIR, rundown);
     for (const p of payloads) {
       if (p.content) console.log(p.content);
       for (const e of p.embeds) console.log(`\n## ${e.title ?? ''}\n${e.description}`);
@@ -262,6 +265,7 @@ async function run() {
   }
 
   await saveState(STATE_PATH, state, now);
+  await writeAlertsFeed(FEED_DIR, state.recentAlerts, now);
   console.log(`done: ${summary(results)}, ${freshCount} new items, ${toSend.length} alerts, ${updated.size} updates`);
   if (sendFailed) process.exitCode = 1;
 }

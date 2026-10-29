@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contents: read
+  contents: write # only used to publish the feed branch
 
 jobs:
   watch:
@@ -62,3 +62,9 @@ jobs:
         with:
           path: .state
           key: watch-state-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Publish alerts feed
+        if: inputs.mode != 'check'
+        run: .github/scripts/publish-feed.sh
+        env:
+          GH_TOKEN: ${{ github.token }}

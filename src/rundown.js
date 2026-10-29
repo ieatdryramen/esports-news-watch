@@ -43,6 +43,16 @@ export function buildRundown(results, scenes, scoring, now = Date.now(), hours =
       count: kept.length,
       best: top[0]?.result.score ?? 0,
       text: truncate(lines.join('\n'), EMBED_LIMIT),
+      // Structured copy for the published feed (up to 12 per scene).
+      stories: kept.slice(0, 12).map((s) => ({
+        title: s.item.title,
+        url: s.item.url,
+        source: s.item.sourceName,
+        published: s.item.published.toISOString(),
+        score: s.result.score,
+        level: s.result.level,
+        why: s.result.reasons.slice(0, 6),
+      })),
     });
   }
   sections.sort((a, b) => b.best - a.best || b.count - a.count);
