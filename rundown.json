@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T06:00:35.754Z",
+  "generatedAt": "2026-10-29T07:00:36.680Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Who Is Aleksib? NAVI IGL Convicted of Aggravated Tax Fraud",
@@ -62,6 +62,18 @@
           "why": [
             "bench",
             "stand in"
+          ]
+        },
+        {
+          "title": "Insane edit of AleksiB getting charged with aggravated tax evasion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xickzc/insane_edit_of_aleksib_getting_charged_with/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T06:39:45.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "charged",
+            "aleksib"
           ]
         },
         {
@@ -146,23 +158,12 @@
             "furia*",
             "pgl*"
           ]
-        },
-        {
-          "title": "Nemiga through to PGL Masters Bucharest playoffs over The MongolZ",
-          "url": "https://www.hltv.org/news/45839/nemiga-through-to-pgl-masters-bucharest-playoffs-over-the-mongolz",
-          "source": "HLTV news",
-          "published": "2026-10-28T13:45:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -254,30 +255,10 @@
           ]
         },
         {
-          "title": "Valve, please release 7.41g with +1 armor changes, so we stop waiting every day for any huge update.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xi3353/valve_please_release_741g_with_1_armor_changes_so/",
-          "source": "r/DotA2",
-          "published": "2026-10-28T22:47:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Pos5 VS Spammer - Legend/Ancient bracket",
           "url": "https://www.reddit.com/r/DotA2/comments/1xi7ghz/pos5_vs_spammer_legendancient_bracket/",
           "source": "r/DotA2",
           "published": "2026-10-29T02:00:18.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "WE SUCCEED GUYS? okay, GIGA GAMEPLAY PATCH incoming!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xi33ms/we_succeed_guys_okay_giga_gameplay_patch_incoming/",
-          "source": "r/DotA2",
-          "published": "2026-10-28T22:47:39.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -321,22 +302,35 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 4,
+      "scene": "Tekken",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "COD Mini Games Pick'ems and Guillotine League",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xi33lc/cod_mini_games_pickems_and_guillotine_league/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-28T22:47:36.000Z",
+          "title": "Tekken 8 Full Story: Ending Explained And Plot Summary",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wbml0dzVONkQxdGNyT01aY0x4VlgtS2VONkJPdS1IcVBBelhBcElqUEZPYTBRajc5LVBSWnVVZ3dtR0xWekRKN1dMbHBjZGZ0enJwa3JUR3hMMS0xQUtCdExYaWlla0VqenZDMXFjdktmc0l0UU5j0gF8QVVfeXFMTmZfbDVSeXQ5NTR6TDhGNmg4ZGpUN3dJMzlxMEY3OFY2SzViVVRHamJEMGF2NFpNa3VLbV81ak43eUdVVjA0UGVqQTYzNVJIWGdVcnphWkhCR1czQzJ3em5vYUJQZ2xYRlJwaTV1ZFoybDBWcEwzX2ZTR21nNQ?oc=5",
+          "source": "Google News: Tekken (Sports Digest)",
+          "published": "2026-10-28T10:25:09.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "won*",
-            "eliminated*",
-            "official*"
+            "ending"
           ]
         },
+        {
+          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T04:28:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
         {
           "title": "Dashy comms against KOI LMAO",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xi8ltf/dashy_comms_against_koi_lmao/",
@@ -373,36 +367,25 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
+      "scene": "Street Fighter",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Tekken 8 Full Story: Ending Explained And Plot Summary",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wbml0dzVONkQxdGNyT01aY0x4VlgtS2VONkJPdS1IcVBBelhBcElqUEZPYTBRajc5LVBSWnVVZ3dtR0xWekRKN1dMbHBjZGZ0enJwa3JUR3hMMS0xQUtCdExYaWlla0VqenZDMXFjdktmc0l0UU5j0gF8QVVfeXFMTmZfbDVSeXQ5NTR6TDhGNmg4ZGpUN3dJMzlxMEY3OFY2SzViVVRHamJEMGF2NFpNa3VLbV81ak43eUdVVjA0UGVqQTYzNVJIWGdVcnphWkhCR1czQzJ3em5vYUJQZ2xYRlJwaTV1ZFoybDBWcEwzX2ZTR21nNQ?oc=5",
-          "source": "Google News: Tekken (Sports Digest)",
-          "published": "2026-10-28T10:25:09.000Z",
-          "score": 3,
+          "title": "Love when DLC you paid for can't be accessed because the online servers are down.",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xi75jj/love_when_dlc_you_paid_for_cant_be_accessed/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-29T01:45:53.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "ending"
+            "won*"
           ]
         },
         {
-          "title": "The updated roster for SFx3",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xi209u/the_updated_roster_for_sfx3/",
-          "source": "r/Tekken",
-          "published": "2026-10-28T22:03:11.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
-          "source": "r/Tekken",
-          "published": "2026-10-29T04:28:52.000Z",
+          "title": "What are some balance changes you’d personally make to SF6 to improve the game competitively?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xicr6e/what_are_some_balance_changes_youd_personally/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-29T06:50:35.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -421,23 +404,6 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Love when DLC you paid for can't be accessed because the online servers are down.",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xi75jj/love_when_dlc_you_paid_for_cant_be_accessed/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-29T01:45:53.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
         }
       ]
     },
