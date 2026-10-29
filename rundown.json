@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T21:00:33.580Z",
+  "generatedAt": "2026-10-29T22:00:34.245Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -80,6 +80,18 @@
           ]
         },
         {
+          "title": "OG - Liquid, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uU1ZESXNyTHhiMzY3N21zaWhoeXVHckhpcEtJeW5PaEJnb0hQY2hvQzdfMDYxUXZnR05jZUpPOXhfT1RXVWg0OFR1ZmZjWHhsdVlROWtmZGxKR0tYcmxub3JZZktQZXkyZHhZSUtHTEhiSGs5QUh3bkdGZDkyckk?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-10-29T21:26:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "og",
+            "-stream"
+          ]
+        },
+        {
           "title": "All 10 of us just got disconnected from a game that would have been won by us in 2 mins",
           "url": "https://www.reddit.com/r/DotA2/comments/1xipyec/all_10_of_us_just_got_disconnected_from_a_game/",
           "source": "r/DotA2",
@@ -127,21 +139,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-10-29T09:11:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 22,
       "stories": [
         {
           "title": "BB vs FURIA / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
@@ -157,6 +160,20 @@
             "mouz*",
             "furia",
             "pgl"
+          ]
+        },
+        {
+          "title": "Eternal Fire vs Astralis / StarLadder Ranked Episode 5 - Lower Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiwct5/eternal_fire_vs_astralis_starladder_ranked/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T21:11:05.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "astralis"
           ]
         },
         {
@@ -185,20 +202,6 @@
             "roster*",
             "official*",
             "faze"
-          ]
-        },
-        {
-          "title": "Astralis vs Inner Circle / StarLadder Ranked Episode 5 - Lower Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xioeh3/astralis_vs_inner_circle_starladder_ranked/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T16:15:46.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "astralis"
           ]
         },
         {
@@ -332,8 +335,56 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "Is cheating really this bad?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xix9co/is_cheating_really_this_bad/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-29T21:46:51.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "cheating",
+            "won*"
+          ]
+        },
+        {
+          "title": "Challengers Prize Pool cuts pushes Jerry over the edge",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xiwusk/challengers_prize_pool_cuts_pushes_jerry_over_the/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-29T21:30:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "announced*",
+            "prize pool"
+          ]
+        },
+        {
+          "title": "Draft Results for $50,000 Shuffle",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xiufqr/draft_results_for_50000_shuffle/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-29T19:58:50.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Xclusive Ace says Han 86 got nerfed into oblivion and is now the worst AR. Looks like another year of the M4.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xiu5nz/xclusive_ace_says_han_86_got_nerfed_into_oblivion/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-29T19:48:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -344,6 +395,17 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "First ever Reina's 6 EWGF max dmg combo",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xiwdou/first_ever_reinas_6_ewgf_max_dmg_combo/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T21:12:03.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "first ever"
           ]
         },
         {
@@ -389,34 +451,6 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
-          "source": "Google News: Street Fighter (Esports.gg)",
-          "published": "2026-10-29T14:08:55.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
-        },
-        {
-          "title": "Haven’t touched this game for 8 months can anyone update me with the “meta”",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xioign/havent_touched_this_game_for_8_months_can_anyone/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-29T16:19:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
       "storyCount": 1,
       "stories": [
@@ -434,48 +468,25 @@
       ]
     },
     {
-      "scene": "Melee",
+      "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Was Hungrybox the real #4 of 2013?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xip2uk/was_hungrybox_the_real_4_of_2013/",
-          "source": "r/SSBM",
-          "published": "2026-10-29T16:40:16.000Z",
-          "score": 2,
+          "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
+          "source": "Google News: Street Fighter (Esports.gg)",
+          "published": "2026-10-29T14:08:55.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "hungrybox"
+            "evo"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Draft Results for $50,000 Shuffle",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xiufqr/draft_results_for_50000_shuffle/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-29T19:58:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Xclusive Ace says Han 86 got nerfed into oblivion and is now the worst AR. Looks like another year of the M4.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xiu5nz/xclusive_ace_says_han_86_got_nerfed_into_oblivion/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-29T19:48:31.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",

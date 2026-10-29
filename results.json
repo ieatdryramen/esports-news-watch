@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T21:30:28.026Z",
+  "generatedAt": "2026-10-29T22:00:23.971Z",
   "source": "start.gg",
   "completed": [
     {
@@ -395,6 +395,19 @@
     }
   ],
   "upcoming": [
+    {
+      "eventId": "1740814",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "#10 BR Kumite - Tekken 8",
+      "event": "BR Kumite - Tekken 8",
+      "entrants": 66,
+      "online": true,
+      "major": false,
+      "startAt": "2026-10-29T23:00:00.000Z",
+      "endAt": "2026-10-30T03:00:00.000Z",
+      "url": "https://www.start.gg/tournament/10-br-kumite-tekken-8/event/br-kumite-tekken-8"
+    },
     {
       "eventId": "1657242",
       "scene": "legacyfgc",
