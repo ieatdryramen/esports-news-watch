@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T20:00:36.549Z",
+  "generatedAt": "2026-10-29T21:00:33.580Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -31,6 +31,18 @@
             "champions*",
             "team spirit",
             "og"
+          ]
+        },
+        {
+          "title": "ESL One Munich 2027 Announced for Dota 2 With a $1,000,000 Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjF1T0FBdmdTc3UwUkFOZWd2bThSWmxJeEJEM2ZBWEdIOHhKeEpBOTdfcE5IalIyNnpGMFprMXRxQ3I1UExOcG9fSWRiQ3ZuLU5iM0NyQ2hBbWM1ei1yVmF6Y1hRaWRGSmFQYW9GVWFJRmEyVFFOQkR2TS1LWjBhdFVNQlRCUEowd2Jqb1Frb2x3bFNfNFVmbDN5cTZBMUlPSlHSAaoBQVVfeXFMTWZGa1ZyWVdrXzJJMC1lUHFSNVQxczBrRTA1Nk0xREE3MHlBcnUwaW54OHJvLWJJWkdrcV96YnZkU1ZtRE1wU05pTXVoUmhYYmJaTlRnMXhOYXFzTkFIQWdOOHNGeGdfMXJhRXV1ZDdQZkxqMnR4VE1JWEJHWS1WaXdSX1B3MGtPTy1Pb3hvYlRXb2tPRDljamNqenp0aWxZd2kwTTJHRXBJUEE?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-10-29T17:39:06.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "announced",
+            "prize pool"
           ]
         },
         {
@@ -90,17 +102,6 @@
           ]
         },
         {
-          "title": "Petition for a year long patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xing3r/petition_for_a_year_long_patch/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T15:40:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        },
-        {
           "title": "ESL One Munich 2027 brings 16 Dota 2 teams to BMW Park for $1M",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2JURmJaMmF3dWpHSVlnZFhrV0xDUkpYUmVzYkNubHV0YzZFNldqR3AzbDRCekczUWFRUDZEc3FDcjV0cTZzVDh0cFIxcElyUG1MaUJBSmswTTcyR0gwQzAxWjhSRW4tMGVnUVV2NHY3WFNSOV9ua2VJSTVhRGo2b2FoWlZscDNyY3lvb1I1X2UyUWY5VE8zS0k5VnBENGtNLW96SGFhNA?oc=5",
           "source": "Google News: Dota (Inven Global)",
@@ -113,7 +114,7 @@
           "title": "ESL One Munich 2027 Brings Dota 2’s Best to Germany",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmdUQU1qQklLT3RuRUVYR3E1clJrY2lkdFNXbkVIRkRLV1Q0Ykd4TWZ6NVhubTdUQ0FnbkhlRElRb3ByQTd0a3pPdE1wM0tRMFB0UC02M0J1aDdkSDFQSDFxXzNIVU1ET19vdl9ZX0ZpUWMydU11OURZUkVRZU5CZEt1eHRhYThnajZJ?oc=5",
           "source": "Google News: Dota (Invision Game Community)",
-          "published": "2026-10-29T14:48:23.000Z",
+          "published": "2026-10-29T14:50:26.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -140,7 +141,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 26,
+      "storyCount": 24,
       "stories": [
         {
           "title": "BB vs FURIA / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
@@ -332,7 +333,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -343,6 +344,17 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "Moderators why was my Post Removed without Explanation???",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xiv9s7/moderators_why_was_my_post_removed_without/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T20:29:11.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
           ]
         },
         {
@@ -362,6 +374,15 @@
           "source": "Google News: Tekken (Howl.Link)",
           "published": "2026-10-28T22:28:59.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken 8 DLC Wishlist",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xiujlv/tekken_8_dlc_wishlist/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T20:02:20.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
