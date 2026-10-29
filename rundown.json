@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T13:00:40.467Z",
+  "generatedAt": "2026-10-29T14:00:36.542Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -34,20 +34,6 @@
           ]
         },
         {
-          "title": "Team Spirit scared of Topson Silencer Mid",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xibift/team_spirit_scared_of_topson_silencer_mid/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T05:34:29.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "ban*",
-            "team spirit",
-            "og*",
-            "topson"
-          ]
-        },
-        {
           "title": "How Team Liquid and SAP Combined Forces to Win the Race to World First",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUTNKb09NUDBTcjlUOHExMzk4aVZBZGlBTnFGNU9ZVkhuQkpwU3A0bFFTbjF1WF9WMEpwV0xtVVZjYkdtbXJlTXZ3Qzg0OTlfMTlPaXIyZ3Bwc0JUVzJud0ZISHhRdTVUa2g3RW9yeFF5MDFvRXdERDdTWjU?oc=5",
           "source": "Google News: Dota (Insider Gaming)",
@@ -56,18 +42,6 @@
           "level": null,
           "why": [
             "team liquid"
-          ]
-        },
-        {
-          "title": "Enigma is Collapse's 26th most played hero with a 47% win rate",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xigkyq/enigma_is_collapses_26th_most_played_hero_with_a/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T10:45:52.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit*",
-            "collapse"
           ]
         },
         {
@@ -132,7 +106,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 23,
       "stories": [
         {
           "title": "FUT vs Nemiga / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
@@ -160,6 +134,19 @@
           "why": [
             "stand-in*",
             "vitality*",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Vitality march into PGL Masters Bucharest semis over NAVI",
+          "url": "https://www.hltv.org/news/45852/vitality-march-into-pgl-masters-bucharest-semis-over-navi",
+          "source": "HLTV news",
+          "published": "2026-10-29T13:17:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
+            "vitality",
             "pgl"
           ]
         },
@@ -215,6 +202,19 @@
           ]
         },
         {
+          "title": "Has any team since Astralis in 2018 and 2019 had two very dominant maps like Astralis had with Nuke and Inferno...?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xijrxn/has_any_team_since_astralis_in_2018_and_2019_had/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T13:19:54.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "navi*",
+            "vitality*",
+            "astralis"
+          ]
+        },
+        {
           "title": "B8 vs HOTU / RLG Tesla Cup 2026 - Semi-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xigqii/b8_vs_hotu_rlg_tesla_cup_2026_semifinal_postmatch/",
           "source": "r/GlobalOffensive",
@@ -257,28 +257,6 @@
           "url": "https://www.hltv.org/news/45847/live-updates-from-pgl-masters-bucharest-quarter-finals",
           "source": "HLTV news",
           "published": "2026-10-29T08:04:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Swiss stage at CS2 PGL Masters Bucharest 2026: Storylines, matchups, full results",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXQwUVFCbVNSNzVmZzRVRngwY3ZWOEZPaW9jd3RBM1NKY0hmZk1kcTlpVmU1QlFMdXVDbzgyUjhoTk9CSDFOR0JBd2F1d2l5dWpMM2VGYm4zd2ZrNDdlNUJPc0FjSHItb0JpNHUzTmpXdjVUb2xlU0d6WmlsbWxjR1pqNE53OXIyZ0hIOGNabURJdw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-28T19:26:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "The best highlights from PGL Masters Bucharest groups",
-          "url": "https://www.hltv.org/news/45786/the-best-highlights-from-pgl-masters-bucharest-groups",
-          "source": "HLTV news",
-          "published": "2026-10-28T18:56:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -394,6 +372,23 @@
       ]
     },
     {
+      "scene": "Legacy FGC",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
+          "url": "https://esports.gg/guides/fgc/evo-brazil-2027-games-dates-location/",
+          "source": "esports.gg",
+          "published": "2026-10-29T13:46:50.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
@@ -428,7 +423,6 @@
     "Melee",
     "Classic Tetris",
     "Brood War",
-    "Legacy FGC",
     "CoD",
     "Quake",
     "Halo"
