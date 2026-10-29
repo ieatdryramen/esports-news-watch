@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T05:35:15.205Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Team Spirit scared of Topson Silencer Mid",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xibift/team_spirit_scared_of_topson_silencer_mid/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "ban*",
+        "team spirit",
+        "og*",
+        "topson"
+      ],
+      "summary": "Btw the Draft Vs OG on Game2, 3 was so bad. I would even argue whether it is necessary to ban silencer or try to deal with it. submitted by /u/Top-Giraffe3890 to r/DotA2 [link] [comments]",
+      "published": "2026-10-29T05:34:29.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T04:15:17.774Z",
       "level": "breaking",
       "scene": "CS2",
