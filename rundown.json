@@ -1,41 +1,11 @@
 {
-  "generatedAt": "2026-10-29T07:00:36.680Z",
+  "generatedAt": "2026-10-29T08:00:43.305Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 16,
       "stories": [
-        {
-          "title": "Who Is Aleksib? NAVI IGL Convicted of Aggravated Tax Fraud",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDVhU1B5ODZWNnFEMXdHelBnSnBKZWFfRnA5eGEzX1BURU1zWFNHUXhWbmxwRFhTTUdTeGpKS0dEOWo2cWRpWEMwSk5nZi1TYnRJenpfQnd1UHEtd1hQN21yZk9XMlBCTTBGZ3VpZGtzZXJuYWlmMkFaNl9DMkQ0bjV4RkhMUEFxei14TWtMWUZMVEVhU2dVOHpR?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-10-28T10:59:26.000Z",
-          "score": 14,
-          "level": "breaking",
-          "why": [
-            "convicted",
-            "fraud",
-            "aleksib",
-            "navi"
-          ]
-        },
-        {
-          "title": "Valve leaked more info about the new weapon this update. \"M14\" now replaced with the \"Lar\" A Lever Action Rifle with Iron Sights.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xi3jg9/valve_leaked_more_info_about_the_new_weapon_this/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-28T23:06:11.000Z",
-          "score": 10,
-          "level": "possible",
-          "why": [
-            "leak*",
-            "leaked",
-            "new weapon",
-            "update",
-            "replaced",
-            "reddit only"
-          ]
-        },
         {
           "title": "BetBoom has never won a playoff game after going 3-0 in groups, this will be their 4th attempt",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xia3b8/betboom_has_never_won_a_playoff_game_after_going/",
@@ -126,17 +96,6 @@
           ]
         },
         {
-          "title": "Swiss stage at CS2 PGL Masters Bucharest 2026: Storylines, matchups, full results",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXQwUVFCbVNSNzVmZzRVRngwY3ZWOEZPaW9jd3RBM1NKY0hmZk1kcTlpVmU1QlFMdXVDbzgyUjhoTk9CSDFOR0JBd2F1d2l5dWpMM2VGYm4zd2ZrNDdlNUJPc0FjSHItb0JpNHUzTmpXdjVUb2xlU0d6WmlsbWxjR1pqNE53OXIyZ0hIOGNabURJdw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-28T19:26:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "The best highlights from PGL Masters Bucharest groups",
           "url": "https://www.hltv.org/news/45786/the-best-highlights-from-pgl-masters-bucharest-groups",
           "source": "HLTV news",
@@ -158,27 +117,46 @@
             "furia*",
             "pgl*"
           ]
+        },
+        {
+          "title": "Nemiga through to PGL Masters Bucharest playoffs over The MongolZ",
+          "url": "https://www.hltv.org/news/45839/nemiga-through-to-pgl-masters-bucharest-playoffs-over-the-mongolz",
+          "source": "HLTV news",
+          "published": "2026-10-28T13:45:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "591K Peak Viewers on final day of PGL Masters Bucharest 2026 Group Stage",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xi4fpu/591k_peak_viewers_on_final_day_of_pgl_masters/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-28T23:44:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Spirit players few days ago btw",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xi13sl/spirit_players_few_days_ago_btw/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-28T21:27:14.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "spirit"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 6,
       "stories": [
-        {
-          "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjBxRkdwcTlHR1lycWZBTEloLUJGOG1OQXI4bTdDYk5lZ2VqRGdSQjZ2V0tTWTRaSURtSC1FdGNTcDY2Yzc1bGFneUhQYS12NDEyMUV1czhoTmdORU5VdUNTRUZKS3l1X3V5cHBwSEk4VUI3WDUydkdXcWhyME8yWGJJcTRzcXRFQzl2VXN6bzVIVTdoWVJUU012NUFlNzVoX0tWTzBZc3V0UnJCdVg0cUljelhMUQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-29T03:33:45.000Z",
-          "score": 11,
-          "level": "breaking",
-          "why": [
-            "upset",
-            "record",
-            "team spirit",
-            "og"
-          ]
-        },
         {
           "title": "Team Spirit’s playoff run takes a hit after shocking loss to OG at Dota 2 PARI Universe",
           "url": "https://esports.gg/news/dota-2/og-upsets-team-spirit-pari-universe-dota-2-upper-bracket/",
@@ -220,19 +198,6 @@
           ]
         },
         {
-          "title": "Dark Carnival - an \"ongoing event\" with nothing new in 3 months",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xi37fc/dark_carnival_an_ongoing_event_with_nothing_new/",
-          "source": "r/DotA2",
-          "published": "2026-10-28T22:52:10.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "the last*",
-            "update*",
-            "released*"
-          ]
-        },
-        {
           "title": "New Dota 2 Hero Revealed!",
           "url": "https://www.reddit.com/r/DotA2/comments/1xi9hsq/new_dota_2_hero_revealed/",
           "source": "r/DotA2",
@@ -244,15 +209,13 @@
           ]
         },
         {
-          "title": "When is new patch?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xi3kzh/when_is_new_patch/",
+          "title": "When nerf ?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xidhz8/when_nerf/",
           "source": "r/DotA2",
-          "published": "2026-10-28T23:07:54.000Z",
-          "score": 1,
+          "published": "2026-10-29T07:37:57.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "released*"
-          ]
+          "why": []
         },
         {
           "title": "Pos5 VS Spammer - Legend/Ancient bracket",
@@ -266,20 +229,28 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
+      "scene": "Tekken",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "ASL 22 is over. What are we watching during the long hiatus until 2027?",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xi3l73/asl_22_is_over_what_are_we_watching_during_the/",
-          "source": "r/broodwar",
-          "published": "2026-10-28T23:08:08.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "This is a cheater, right?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xidldx/this_is_a_cheater_right/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T07:44:03.000Z",
+          "score": 4,
+          "level": null,
           "why": [
-            "hiatus",
-            "asl"
+            "cheater"
           ]
+        },
+        {
+          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T04:28:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -298,32 +269,6 @@
             "happy",
             "fortitude"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Tekken 8 Full Story: Ending Explained And Plot Summary",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wbml0dzVONkQxdGNyT01aY0x4VlgtS2VONkJPdS1IcVBBelhBcElqUEZPYTBRajc5LVBSWnVVZ3dtR0xWekRKN1dMbHBjZGZ0enJwa3JUR3hMMS0xQUtCdExYaWlla0VqenZDMXFjdktmc0l0UU5j0gF8QVVfeXFMTmZfbDVSeXQ5NTR6TDhGNmg4ZGpUN3dJMzlxMEY3OFY2SzViVVRHamJEMGF2NFpNa3VLbV81ak43eUdVVjA0UGVqQTYzNVJIWGdVcnphWkhCR1czQzJ3em5vYUJQZ2xYRlJwaTV1ZFoybDBWcEwzX2ZTR21nNQ?oc=5",
-          "source": "Google News: Tekken (Sports Digest)",
-          "published": "2026-10-28T10:25:09.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        },
-        {
-          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
-          "source": "r/Tekken",
-          "published": "2026-10-29T04:28:52.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -368,8 +313,19 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Exactly how much has Akuma been nerfed since his launch? He used to be the best character in the game",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xidm9u/exactly_how_much_has_akuma_been_nerfed_since_his/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-29T07:45:33.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "daigo*"
+          ]
+        },
         {
           "title": "Love when DLC you paid for can't be accessed because the online servers are down.",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xi75jj/love_when_dlc_you_paid_for_cant_be_accessed/",
@@ -408,6 +364,21 @@
       ]
     },
     {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Ai far easier since latest DLC?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xid10u/ai_far_easier_since_latest_dlc/",
+          "source": "r/aoe2",
+          "published": "2026-10-29T07:07:34.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -424,8 +395,8 @@
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
+    "Brood War",
     "Legacy FGC",
     "Quake",
     "Halo"
