@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T22:00:34.245Z",
+  "generatedAt": "2026-10-29T23:00:34.562Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -22,13 +22,12 @@
         },
         {
           "title": "Team Spirit’s playoff run takes a hit after shocking loss to OG at Dota 2 PARI Universe",
-          "url": "https://esports.gg/news/dota-2/og-upsets-team-spirit-pari-universe-dota-2-upper-bracket/",
-          "source": "esports.gg",
-          "published": "2026-10-29T02:39:00.000Z",
-          "score": 6.5,
-          "level": "possible",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzR3U0RYSzg3THJNU19WTV9PSGZVTHFncTh2ZTFyTk9FTTM3UUFSM25pREFBODdOd195U0laM21WOXI3TDAwMUJnVFR4bEdXZ3k2Vkg0U0ZVQWhrTVV6cm55cmV4dUZhOVRqWGV6Zld1UUMzb2lrX0ZTdGZPS3hkak1NMkRVNlRrMWZ1VnJMRzh0UQ?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-10-29T03:39:21.000Z",
+          "score": 5,
+          "level": null,
           "why": [
-            "champions*",
             "team spirit",
             "og"
           ]
@@ -58,17 +57,6 @@
           ]
         },
         {
-          "title": "[Spoilers] have been eliminated from PARI Universe",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xiq34w/spoilers_have_been_eliminated_from_pari_universe/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T17:16:36.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "eliminated"
-          ]
-        },
-        {
           "title": "How Team Liquid and SAP Combined Forces to Win the Race to World First",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUTNKb09NUDBTcjlUOHExMzk4aVZBZGlBTnFGNU9ZVkhuQkpwU3A0bFFTbjF1WF9WMEpwV0xtVVZjYkdtbXJlTXZ3Qzg0OTlfMTlPaXIyZ3Bwc0JUVzJud0ZISHhRdTVUa2g3RW9yeFF5MDFvRXdERDdTWjU?oc=5",
           "source": "Google News: Dota (Insider Gaming)",
@@ -92,26 +80,13 @@
           ]
         },
         {
-          "title": "All 10 of us just got disconnected from a game that would have been won by us in 2 mins",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xipyec/all_10_of_us_just_got_disconnected_from_a_game/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T17:11:59.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
-          "title": "My rank update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xipulh/my_rank_update/",
-          "source": "r/DotA2",
-          "published": "2026-10-29T17:08:04.000Z",
+          "title": "Dota 2 peak online drops 300k players after Valve reportedly bans bots from Arcade games",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGJBOEw0Q2ZJOGZic01Gd3VjNTNRT0pHR3JNczVjeG0wanpwTlJiRXpnVnZkcG5aNDBRSkZReUpHYkxPUzNDYktEc2JyWmdFUm10T3QtT1U4SzhNaHZEeEk2ZFIwZHNYN2JCbmJHMk8zQlpsckNQTGJ0OWluc1FNQ19nWGs4cldpVzd0dnZLVGhBQXN5Y0Y3YTJjbFFRNG5pMTAteE93NkExQllrb2hRMjBTRUtoNnRjNUhyejlaQVhRYUlQY0JDUVVGQS0?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-10-29T16:10:00.000Z",
           "score": 1,
           "level": null,
-          "why": [
-            "update"
-          ]
+          "why": []
         },
         {
           "title": "ESL One Munich 2027 brings 16 Dota 2 teams to BMW Park for $1M",
@@ -139,12 +114,30 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-10-29T09:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-10-29T03:40:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 23,
       "stories": [
         {
           "title": "BB vs FURIA / PGL Masters Bucharest 2026 - Quarter-Final / Post-Match Discussion",
@@ -191,20 +184,6 @@
           ]
         },
         {
-          "title": "B8 vs FaZe / RLG Tesla Cup 2026 - 3Rd Place Decider Match / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xipqbj/b8_vs_faze_rlg_tesla_cup_2026_3rd_place_decider/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T17:03:43.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "faze"
-          ]
-        },
-        {
           "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
           "url": "https://esports.gg/news/counter-strike-2/pgl-masters-bucharest-2026-playoff-results/",
           "source": "esports.gg",
@@ -228,30 +207,6 @@
             "mouz*",
             "furia",
             "pgl"
-          ]
-        },
-        {
-          "title": "CS2 LAR Weapon Leak: Stats, Price & Damage Revealed",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWC1PWlRULU9WSHBEeFM2VTJtbWZzVks1S3FHQXNsMzBydGFjbGU0ZHRLRVBHdnh0NFFLMWV1dmdrVjhhSWtNbFFnUEpDQjhVTEZxRTZwU25YV0c2SHhHTEJYMW5LXzcxTnozLS1oeGFOaHZxSHk0?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-10-29T16:53:29.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "leak",
-            "revealed"
-          ]
-        },
-        {
-          "title": "After the match, fear and jackasmo approached a tearful zeRRoFIX and tried to console him. Inner Circle were eliminated from Major contention after losing to Astralis at Stake Ranked Episode 5",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xip8os/after_the_match_fear_and_jackasmo_approached_a/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T16:46:16.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "eliminated",
-            "astralis"
           ]
         },
         {
@@ -301,6 +256,39 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "CS2 LAR Weapon Leak: Stats, Price, Damage and More",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWC1PWlRULU9WSHBEeFM2VTJtbWZzVks1S3FHQXNsMzBydGFjbGU0ZHRLRVBHdnh0NFFLMWV1dmdrVjhhSWtNbFFnUEpDQjhVTEZxRTZwU25YV0c2SHhHTEJYMW5LXzcxTnozLS1oeGFOaHZxSHk0?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-10-29T16:53:29.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "leak"
+          ]
+        },
+        {
+          "title": "MOUZ overrun Aurora to book semi-final spot in Bucharest",
+          "url": "https://www.hltv.org/news/45854/mouz-overrun-aurora-to-book-semi-final-spot-in-bucharest",
+          "source": "HLTV news",
+          "published": "2026-10-29T15:13:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mouz"
+          ]
+        },
+        {
+          "title": "After qualifying to the major , Navi is going be playing HyperX Retake in Portugal",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiypew/after_qualifying_to_the_major_navi_is_going_be/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T22:45:44.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "navi"
+          ]
         }
       ]
     },
@@ -336,8 +324,21 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Dashy wishes he could’ve retired",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xixtcg/dashy_wishes_he_couldve_retired/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-29T22:08:48.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "retiring*",
+            "announces*",
+            "dashy"
+          ]
+        },
         {
           "title": "Is cheating really this bad?",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xix9co/is_cheating_really_this_bad/",
@@ -348,6 +349,18 @@
           "why": [
             "cheating",
             "won*"
+          ]
+        },
+        {
+          "title": "Simp & aBeZy 2v4 just like old times",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xixnvr/simp_abezy_2v4_just_like_old_times/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-29T22:02:42.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "simp",
+            "abezy"
           ]
         },
         {
@@ -384,7 +397,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -395,17 +408,6 @@
           "level": null,
           "why": [
             "wins"
-          ]
-        },
-        {
-          "title": "First ever Reina's 6 EWGF max dmg combo",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xiwdou/first_ever_reinas_6_ewgf_max_dmg_combo/",
-          "source": "r/Tekken",
-          "published": "2026-10-29T21:12:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "first ever"
           ]
         },
         {
@@ -429,15 +431,6 @@
           "why": [
             "evo"
           ]
-        },
-        {
-          "title": "The Unfiltered Truth About The Tekken 6 Revival",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9RcU1FWU91a2dadmwwa1dzUVhsWWlmYXlIcVpQYWZ2OEQ4UEdrQ3oxZnZRSTBrMGFqRmJV?oc=5",
-          "source": "Google News: Tekken (Howl.Link)",
-          "published": "2026-10-28T22:28:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Tekken 8 DLC Wishlist",
