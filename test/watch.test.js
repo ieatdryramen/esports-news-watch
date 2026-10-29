@@ -141,3 +141,14 @@ test('Reddit alone caps at POSSIBLE; corroboration can still make it BREAKING', 
   assert.equal(leak.level, 'possible');
   assert.equal(applyCorroboration(leak, 3, scoring).level, 'breaking');
 });
+
+test('start.gg game matching is whole-word', async () => {
+  const { matchGames, resultsEmbed } = await import('../src/startgg.js');
+  const nodes = [{ id: 1, name: 'Mortal Kombat 1' }, { id: 2, name: 'Mortal Kombat 11' }, { id: 3, name: 'Super Smash Bros. Melee' }];
+  assert.deepEqual(matchGames('Mortal Kombat 1', nodes).map((n) => n.id), [1]);
+  assert.deepEqual(matchGames('Super Smash Bros. Melee', nodes).map((n) => n.id), [3]);
+  const now = Date.now();
+  const e = resultsEmbed([{ scene: 'melee', tournament: 'Big House', event: 'Melee Singles', entrants: 900, url: 'https://www.start.gg/x', endAt: new Date(now - 3600000).toISOString(), top8: [{ placement: 1, name: 'Zain' }] }], { melee: 'Melee' }, now);
+  assert.match(e.description, /Zain/);
+  assert.equal(resultsEmbed([], {}, now), null);
+});

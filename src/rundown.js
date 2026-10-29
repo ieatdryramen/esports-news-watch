@@ -73,12 +73,12 @@ function redditIsNews(item, result, scoring) {
 }
 
 // Splits the rundown into Discord payloads that fit the size limits.
-export function rundownPayloads(rundown, dateLabel) {
-  const embeds = rundown.sections.map((s) => ({
+export function rundownPayloads(rundown, dateLabel, extraEmbeds = []) {
+  const embeds = [...extraEmbeds, ...rundown.sections.map((s) => ({
     title: `${s.label} · ${s.count} ${s.count === 1 ? 'story' : 'stories'}`,
     description: s.text,
     color: 0x546e7a,
-  }));
+  }))];
   if (!embeds.length) embeds.push({ description: 'No stories in the last 24 hours.', color: 0x546e7a });
 
   const payloads = [];

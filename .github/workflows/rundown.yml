@@ -1,12 +1,9 @@
 name: rundown
 
-# Refreshes rundown.json (every story from the last 24 hours, by scene) every
-# hour, and posts it to Discord at RUNDOWN_POST_HOURS local time (default 7 and
-# 17, US Eastern). Run it by hand any time to post right away.
-
+# The watch run (every 5 minutes) now refreshes the rundown hourly and posts it
+# at the posting hours; GitHub's own schedule never fired on this repo. This
+# workflow stays for posting a rundown by hand.
 on:
-  schedule:
-    - cron: '20 * * * *'
   workflow_dispatch:
 
 concurrency:

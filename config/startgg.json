@@ -1,0 +1,17 @@
+{
+  "_comment": "start.gg results. Needs a STARTGG_TOKEN secret (free personal access token from start.gg Developer Settings). Each game is looked up by name on start.gg. minEntrants: smallest event that counts as notable (shows in the rundown and results.json). majorEntrants: an event this big posts a RESULT to Discord when it finishes and goes into alerts.json as BREAKING.",
+  "everyMinutes": 30,
+  "lookBackDays": 3,
+  "lookAheadDays": 7,
+  "games": [
+    { "name": "Super Smash Bros. Melee", "scene": "melee", "minEntrants": 64, "majorEntrants": 400 },
+    { "name": "Street Fighter 6", "scene": "streetfighter", "minEntrants": 128, "majorEntrants": 1000 },
+    { "name": "Street Fighter III: 3rd Strike", "scene": "streetfighter", "minEntrants": 16, "majorEntrants": 128 },
+    { "name": "Super Street Fighter II Turbo", "scene": "streetfighter", "minEntrants": 16, "majorEntrants": 128 },
+    { "name": "Tekken 8", "scene": "tekken", "minEntrants": 64, "majorEntrants": 500 },
+    { "name": "Mortal Kombat 1", "scene": "legacyfgc", "minEntrants": 64, "majorEntrants": 500 },
+    { "name": "Guilty Gear -Strive-", "scene": "legacyfgc", "minEntrants": 64, "majorEntrants": 500 },
+    { "name": "The King of Fighters XV", "scene": "legacyfgc", "minEntrants": 32, "majorEntrants": 256 },
+    { "name": "Virtua Fighter 5", "scene": "legacyfgc", "minEntrants": 16, "majorEntrants": 128 }
+  ]
+}

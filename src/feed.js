@@ -37,3 +37,16 @@ export async function writeRundownFeed(dir, rundown, now = Date.now()) {
   await mkdir(dir, { recursive: true });
   await writeFile(join(dir, 'rundown.json'), `${JSON.stringify(data, null, 2)}\n`);
 }
+
+export async function writeResultsFeed(dir, results, now = Date.now()) {
+  const data = {
+    generatedAt: new Date(now).toISOString(),
+    source: 'start.gg',
+    completed: results.completed,
+    live: results.live,
+    upcoming: results.upcoming,
+    games: results.games,
+  };
+  await mkdir(dir, { recursive: true });
+  await writeFile(join(dir, 'results.json'), `${JSON.stringify(data, null, 2)}\n`);
+}

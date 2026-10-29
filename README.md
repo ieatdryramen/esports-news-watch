@@ -28,9 +28,13 @@ The first time a source is fetched, everything already in it is recorded as seen
 5. **Optional, pings:** add a repository *variable* (not secret) `ALERT_MENTION` set to `@here` or a role mention like `<@&ROLE_ID>` to ping on BREAKING alerts.
 6. **Actions tab → watch → Run workflow → mode: check.** The log shows which sources work and what would alert right now. Then it runs on its own every 5 minutes.
 
+## Tournament results (start.gg)
+
+With a free start.gg personal access token in the secret `STARTGG_TOKEN`, the watch run checks start.gg every 30 minutes for the games in `config/startgg.json` (Melee and the fighting games, which mostly run their brackets there). It publishes `results.json` on the `feed` branch (finished events with top 8, live events, and the next week's events), adds a Results section to the daily rundown, and posts a 🏆 RESULT to Discord when a major (`majorEntrants` or bigger) finishes. Tune the entrant thresholds per game in the config. Run **watch** with mode `check` to see which start.gg games matched.
+
 ## Daily rundown
 
-The **rundown** workflow refreshes `rundown.json` on the `feed` branch every hour (every story from the last 24 hours, grouped by scene) and posts it to Discord twice a day, at 7:00 and 17:00 in `RUNDOWN_TIMEZONE` (default US Eastern). Change the hours with a repository variable `RUNDOWN_POST_HOURS` (e.g. `8,20`). Hitting **Actions → rundown → Run workflow** posts it right away. To send it to a different channel, add a second webhook as the secret `DISCORD_RUNDOWN_WEBHOOK_URL`.
+The **watch** run refreshes `rundown.json` on the `feed` branch every hour (every story from the last 24 hours, grouped by scene) and posts the rundown to Discord twice a day, at 7:00 and 17:00 in `RUNDOWN_TIMEZONE` (default US Eastern). Change the hours with a repository variable `RUNDOWN_POST_HOURS` (e.g. `8,20`). Hitting **Actions → rundown → Run workflow** posts it right away. To send it to a different channel, add a second webhook as the secret `DISCORD_RUNDOWN_WEBHOOK_URL`.
 
 News sites always make the rundown. Reddit posts only make it if the title hits a breaking term, a known player or team, or a news word from `rundownRedditTerms` in `config/scoring.json`, so help posts, memes and clips from busy player subs stay out.
 

@@ -45,7 +45,7 @@ function mentionPrefix() {
 export function buildAlertPayload(alert) {
   const { item, sceneLabel, result } = alert;
   const outlets = alert.outlets ?? [];
-  const heading = result.level === 'breaking' ? '🚨 BREAKING' : '⚠️ POSSIBLE BREAKING';
+  const heading = alert.heading ?? (result.level === 'breaking' ? '🚨 BREAKING' : '⚠️ POSSIBLE BREAKING');
   const fields = [
     { name: 'Scene', value: sceneLabel, inline: true },
     { name: 'Score', value: String(result.score), inline: true },

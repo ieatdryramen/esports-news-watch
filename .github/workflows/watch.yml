@@ -44,6 +44,7 @@ jobs:
         if: inputs.mode == 'check'
         run: node src/index.js --check
         env:
+          STARTGG_TOKEN: ${{ secrets.STARTGG_TOKEN }}
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
 
@@ -55,6 +56,10 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           ALERT_MENTION: ${{ vars.ALERT_MENTION }}
+          STARTGG_TOKEN: ${{ secrets.STARTGG_TOKEN }}
+          DISCORD_RUNDOWN_WEBHOOK_URL: ${{ secrets.DISCORD_RUNDOWN_WEBHOOK_URL }}
+          RUNDOWN_TIMEZONE: ${{ vars.RUNDOWN_TIMEZONE || 'America/New_York' }}
+          RUNDOWN_POST_HOURS: ${{ vars.RUNDOWN_POST_HOURS || '7,17' }}
 
       - name: Save memory of seen stories
         if: always() && inputs.mode != 'check'

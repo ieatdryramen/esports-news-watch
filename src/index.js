@@ -15,7 +15,8 @@ import { loadState, saveState } from './state.js';
 import { editAlert, sendAlert, sendEscalation, sendNotice, sendPayload } from './discord.js';
 import { applyCorroboration, corroboratingOutlets, findAlertFor, outletOf } from './developing.js';
 import { buildRundown, rundownPayloads } from './rundown.js';
-import { writeAlertsFeed, writeRundownFeed } from './feed.js';
+import { writeAlertsFeed, writeResultsFeed, writeRundownFeed } from './feed.js';
+import { fetchResults, resultLine, resultsEmbed } from './startgg.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const STATE_PATH = process.env.STATE_PATH || join(ROOT, '.state', 'state.json');
@@ -75,6 +76,65 @@ async function check(results, scenes, scoring) {
   for (const [label, n] of Object.entries(byScene).sort((a, b) => b[1] - a[1])) console.log(`  ${label.padEnd(16)} ${n}`);
 }
 
+async function checkStartgg(scenes) {
+  const token = process.env.STARTGG_TOKEN?.trim();
+  console.log('\nSTART.GG');
+  if (!token) {
+    console.log('  skipped: no STARTGG_TOKEN');
+    return;
+  }
+  try {
+    const sg = await fetchResults(token, await loadJson('startgg.json'), {});
+    for (const [name, ids] of Object.entries(sg.games)) {
+      console.log(`  ${name.padEnd(32)} ${ids.length ? ids.map((g) => `${g.name} (#${g.id})`).join(', ') : 'NOT FOUND on start.gg'}`);
+    }
+    console.log(`\n  ${sg.completed.length} notable events finished, ${sg.live.length} live, ${sg.upcoming.length} upcoming`);
+    for (const r of sg.completed.slice(0, 10)) console.log(`  DONE  [${scenes[r.scene]?.label}] ${resultLine(r)}${r.major ? '  ← MAJOR' : ''}`);
+    for (const r of sg.live.slice(0, 5)) console.log(`  LIVE  [${scenes[r.scene]?.label}] ${r.tournament} (${r.event}, ${r.entrants})`);
+    for (const r of sg.upcoming.slice(0, 10)) console.log(`  NEXT  [${scenes[r.scene]?.label}] ${r.startAt.slice(0, 10)} ${r.tournament} (${r.event}, ${r.entrants})`);
+  } catch (err) {
+    console.log(`  FAIL ${err.message}`);
+  }
+}
+
+const RUNDOWN_TZ = process.env.RUNDOWN_TIMEZONE || 'America/New_York';
+const POST_HOURS = (process.env.RUNDOWN_POST_HOURS || '7,17').split(',').map((h) => Number(h.trim()));
+
+function localHourKey(now) {
+  const parts = new Date(now).toLocaleString('en-CA', { timeZone: RUNDOWN_TZ, hourCycle: 'h23', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit' });
+  const hour = Number(new Date(now).toLocaleString('en-US', { timeZone: RUNDOWN_TZ, hour: 'numeric', hourCycle: 'h23' }));
+  return { hour, key: parts };
+}
+
+// Builds the daily rundown, refreshes rundown.json, and posts it to Discord
+// when post is true.
+async function rundownStep({ results, scenes, scoring, webhook, force = false, post = force, extraEmbeds = [] }) {
+  const rundown = buildRundown(results, scenes, scoring);
+  const dateLabel = new Date().toLocaleDateString('en-US', { timeZone: RUNDOWN_TZ, weekday: 'short', month: 'short', day: 'numeric' });
+  const payloads = rundownPayloads(rundown, dateLabel, extraEmbeds);
+  await writeRundownFeed(FEED_DIR, rundown);
+  if (process.argv.includes('--rundown')) {
+    for (const p of payloads) {
+      if (p.content) console.log(p.content);
+      for (const e of p.embeds) console.log(`\n## ${e.title ?? ''}\n${e.description}`);
+    }
+  }
+  const { hour } = localHourKey(Date.now());
+  const shouldPost = post;
+  const target = process.env.DISCORD_RUNDOWN_WEBHOOK_URL?.trim() || webhook;
+  if (!shouldPost) {
+    console.log(`rundown feed refreshed; not a posting hour (${hour}:00 ${RUNDOWN_TZ}, posts at ${POST_HOURS.join(', ')})`);
+    return false;
+  }
+  if (target && process.env.DRY_RUN !== '1') {
+    for (const p of payloads) await sendPayload(target, p);
+    console.log(`posted rundown in ${payloads.length} message(s)`);
+    return true;
+  }
+  console.log('(dry run: no webhook set, rundown not posted)');
+  return false;
+}
+
 async function run() {
   const [scenes, scoring, sourceConfig] = await Promise.all([
     loadJson('scenes.json'), loadJson('scoring.json'), loadJson('sources.json'),
@@ -83,35 +143,15 @@ async function run() {
 
   if (process.argv.includes('--check')) {
     await check(results, scenes, scoring);
+    await checkStartgg(scenes);
     return;
   }
 
   const webhook = process.env.DISCORD_WEBHOOK_URL?.trim();
 
   if (process.argv.includes('--rundown')) {
-    const rundown = buildRundown(results, scenes, scoring);
-    const tz = process.env.RUNDOWN_TIMEZONE || 'America/New_York';
-    const dateLabel = new Date().toLocaleDateString('en-US', { timeZone: tz, weekday: 'short', month: 'short', day: 'numeric' });
-    const payloads = rundownPayloads(rundown, dateLabel);
-    await writeRundownFeed(FEED_DIR, rundown);
-    for (const p of payloads) {
-      if (p.content) console.log(p.content);
-      for (const e of p.embeds) console.log(`\n## ${e.title ?? ''}\n${e.description}`);
-    }
-    // The feed file refreshes every run; Discord only gets the rundown at the
-    // posting hours (local time), or whenever it's run by hand.
-    const postHours = (process.env.RUNDOWN_POST_HOURS || '7,17').split(',').map((h) => Number(h.trim()));
-    const localHour = Number(new Date().toLocaleString('en-US', { timeZone: tz, hour: 'numeric', hourCycle: 'h23' }));
-    const shouldPost = process.env.FORCE_POST === '1' || postHours.includes(localHour);
-    const target = process.env.DISCORD_RUNDOWN_WEBHOOK_URL?.trim() || webhook;
-    if (!shouldPost) {
-      console.log(`\nfeed refreshed; not a posting hour (${localHour}:00 ${tz}, posts at ${postHours.join(', ')})`);
-    } else if (target && process.env.DRY_RUN !== '1') {
-      for (const p of payloads) await sendPayload(target, p);
-      console.log(`\nposted rundown in ${payloads.length} message(s)`);
-    } else {
-      console.log('\n(dry run: no webhook set, nothing posted)');
-    }
+    const { hour } = localHourKey(Date.now());
+    await rundownStep({ results, scenes, scoring, webhook, post: process.env.FORCE_POST === '1' || POST_HOURS.includes(hour) });
     return;
   }
   const dryRun = process.env.DRY_RUN === '1' || !webhook;
@@ -269,6 +309,64 @@ async function run() {
   } else {
     console.log('(dry run: no webhook set, nothing posted)');
     for (const a of toSend) state.recentAlerts.push(toRecord(a, null));
+  }
+
+  // start.gg results, every few runs.
+  const sgToken = process.env.STARTGG_TOKEN?.trim();
+  state.startgg ??= { cache: {}, posted: {}, lastAt: 0, last: null };
+  if (sgToken) {
+    const sgConfig = await loadJson('startgg.json');
+    if (now - state.startgg.lastAt >= (sgConfig.everyMinutes - 1) * 60000) {
+      try {
+        const sg = await fetchResults(sgToken, sgConfig, state.startgg.cache, now);
+        const seeding = !state.startgg.seeded;
+        state.startgg.lastAt = now;
+        state.startgg.last = sg;
+        await writeResultsFeed(FEED_DIR, sg, now);
+        console.log(`start.gg: ${sg.completed.length} finished, ${sg.live.length} live, ${sg.upcoming.length} upcoming`);
+        for (const r of sg.completed) {
+          const winner = r.top8?.[0]?.name;
+          if (!r.major || !winner || state.startgg.posted[r.eventId]) continue;
+          state.startgg.posted[r.eventId] = now;
+          if (seeding) continue; // first run: don't announce old results
+          const title = `${winner} wins ${r.tournament} (${r.event}, ${r.entrants} entrants)`;
+          const a = {
+            heading: '🏆 RESULT',
+            item: { title, url: r.url, summary: r.top8.map((p) => `${p.placement}. ${p.name}`).join(' · '), sourceName: 'start.gg', published: new Date(now) },
+            sceneLabel: scenes[r.scene]?.label ?? r.scene,
+            result: { level: 'breaking', score: 10, reasons: ['tournament result', `${r.entrants} entrants`] },
+            outlets: ['start.gg'],
+            tokens: tokens(title),
+          };
+          console.log(`RESULT [${a.sceneLabel}] ${resultLine(r)}`);
+          let messageId = null;
+          if (!dryRun) {
+            try { messageId = await sendAlert(webhook, a); } catch (err) { console.error(`result post failed: ${err.message}`); }
+          }
+          state.recentAlerts.push(toRecord(a, messageId));
+        }
+        state.startgg.seeded = true;
+        for (const id of Object.keys(state.startgg.posted)) if (now - state.startgg.posted[id] > 14 * 86400000) delete state.startgg.posted[id];
+      } catch (err) {
+        console.error(`start.gg failed: ${err.message}`);
+      }
+    }
+  }
+
+  // Hourly rundown refresh, and the Discord rundown at the posting hours.
+  state.rundown ??= { lastAt: 0, postedKey: null };
+  const { hour, key } = localHourKey(now);
+  const postNow = POST_HOURS.includes(hour) && state.rundown.postedKey !== key;
+  if (postNow || now - state.rundown.lastAt >= 55 * 60000) {
+    try {
+      const sceneLabels = Object.fromEntries(Object.entries(scenes).map(([k, s]) => [k, s.label]));
+      const extra = state.startgg.last ? [resultsEmbed(state.startgg.last.completed, sceneLabels, now)].filter(Boolean) : [];
+      const posted = await rundownStep({ results, scenes, scoring, webhook: dryRun ? null : webhook, post: postNow, extraEmbeds: extra });
+      state.rundown.lastAt = now;
+      if (posted) state.rundown.postedKey = key;
+    } catch (err) {
+      console.error(`rundown failed: ${err.message}`);
+    }
   }
 
   await saveState(STATE_PATH, state, now);
