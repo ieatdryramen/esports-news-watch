@@ -30,7 +30,7 @@ The first time a source is fetched, everything already in it is recorded as seen
 
 ## Daily rundown
 
-The **rundown** workflow posts one message with every story from the last 24 hours, grouped by scene and ranked, plus which scenes were quiet. It runs daily at 17:47 UTC and any time you hit **Actions → rundown → Run workflow**. To send it to a different channel, add a second webhook as the secret `DISCORD_RUNDOWN_WEBHOOK_URL`.
+The **rundown** workflow refreshes `rundown.json` on the `feed` branch every hour (every story from the last 24 hours, grouped by scene) and posts it to Discord twice a day, at 7:00 and 17:00 in `RUNDOWN_TIMEZONE` (default US Eastern). Change the hours with a repository variable `RUNDOWN_POST_HOURS` (e.g. `8,20`). Hitting **Actions → rundown → Run workflow** posts it right away. To send it to a different channel, add a second webhook as the secret `DISCORD_RUNDOWN_WEBHOOK_URL`.
 
 ## Tuning
 

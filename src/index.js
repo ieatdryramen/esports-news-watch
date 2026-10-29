@@ -100,7 +100,7 @@ async function run() {
     }
     // The feed file refreshes every run; Discord only gets the rundown at the
     // posting hours (local time), or whenever it's run by hand.
-    const postHours = (process.env.RUNDOWN_POST_HOURS || '9,17').split(',').map((h) => Number(h.trim()));
+    const postHours = (process.env.RUNDOWN_POST_HOURS || '7,17').split(',').map((h) => Number(h.trim()));
     const localHour = Number(new Date().toLocaleString('en-US', { timeZone: tz, hour: 'numeric', hourCycle: 'h23' }));
     const shouldPost = process.env.FORCE_POST === '1' || postHours.includes(localHour);
     const target = process.env.DISCORD_RUNDOWN_WEBHOOK_URL?.trim() || webhook;
