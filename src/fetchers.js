@@ -123,7 +123,7 @@ let redditToken = null;
 async function getRedditToken() {
   const id = process.env.REDDIT_CLIENT_ID?.trim();
   const secret = process.env.REDDIT_CLIENT_SECRET?.trim();
-  if (!id || !secret) throw new SkipError('no Reddit app keys set');
+  if (!id || !secret) return null;
   if (!redditToken) {
     redditToken = (async () => {
       const res = await fetch('https://www.reddit.com/api/v1/access_token', {
@@ -145,8 +145,22 @@ async function getRedditToken() {
   return redditToken;
 }
 
+// Without keys, try Reddit's public RSS. Reddit often blocks cloud servers;
+// a block is reported as "skipped", not as a broken source.
+async function fetchRedditAnonymous(source) {
+  for (const host of ['www.reddit.com', 'old.reddit.com']) {
+    try {
+      return finish(source, parseFeed(await fetchText(`https://${host}/r/${source.sub}/new/.rss?limit=25`)));
+    } catch {
+      // try the next host
+    }
+  }
+  throw new SkipError('Reddit blocks this server without app keys');
+}
+
 async function fetchReddit(source) {
   const token = await getRedditToken();
+  if (!token) return fetchRedditAnonymous(source);
   const res = await fetch(`https://oauth.reddit.com/r/${source.sub}/new?limit=25&raw_json=1`, {
     headers: { Authorization: `Bearer ${token}`, 'User-Agent': USER_AGENT },
     signal: AbortSignal.timeout(TIMEOUT_MS),

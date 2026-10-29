@@ -12,7 +12,8 @@ import { buildJobs, runJobs } from './fetchers.js';
 import { detectScene, scoreItem } from './score.js';
 import { jaccard, tokens, truncate } from './text.js';
 import { loadState, saveState } from './state.js';
-import { sendAlert, sendNotice } from './discord.js';
+import { sendAlert, sendNotice, sendPayload } from './discord.js';
+import { buildRundown, rundownPayloads } from './rundown.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const STATE_PATH = process.env.STATE_PATH || join(ROOT, '.state', 'state.json');
@@ -34,7 +35,7 @@ function summary(results) {
   const ok = results.filter((r) => r.ok).length;
   const skipped = results.filter((r) => r.skipped).length;
   const active = results.length - skipped;
-  return `${ok}/${active} sources working${skipped ? ` (${skipped} skipped: no Reddit keys yet)` : ''}`;
+  return `${ok}/${active} sources working${skipped ? ` (${skipped} Reddit skipped: blocked without app keys)` : ''}`;
 }
 
 async function check(results, scenes, scoring) {
@@ -83,6 +84,25 @@ async function run() {
   }
 
   const webhook = process.env.DISCORD_WEBHOOK_URL?.trim();
+
+  if (process.argv.includes('--rundown')) {
+    const rundown = buildRundown(results, scenes, scoring);
+    const tz = process.env.RUNDOWN_TIMEZONE || 'America/New_York';
+    const dateLabel = new Date().toLocaleDateString('en-US', { timeZone: tz, weekday: 'short', month: 'short', day: 'numeric' });
+    const payloads = rundownPayloads(rundown, dateLabel);
+    for (const p of payloads) {
+      if (p.content) console.log(p.content);
+      for (const e of p.embeds) console.log(`\n## ${e.title ?? ''}\n${e.description}`);
+    }
+    const target = process.env.DISCORD_RUNDOWN_WEBHOOK_URL?.trim() || webhook;
+    if (target && process.env.DRY_RUN !== '1') {
+      for (const p of payloads) await sendPayload(target, p);
+      console.log(`\nposted rundown in ${payloads.length} message(s)`);
+    } else {
+      console.log('\n(dry run: no webhook set, nothing posted)');
+    }
+    return;
+  }
   const dryRun = process.env.DRY_RUN === '1' || !webhook;
   const now = Date.now();
   const state = await loadState(STATE_PATH);

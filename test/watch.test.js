@@ -56,6 +56,27 @@ test('scoring: real breaking news alerts, chatter does not', () => {
   assert.equal(namesOnly.level, null);
 });
 
+test('rundown groups by scene, drops repeats and noise, fits Discord limits', async () => {
+  const { buildRundown, rundownPayloads } = await import('../src/rundown.js');
+  const now = Date.now();
+  const mk = (title, scene, mins) => ({ title, url: 'https://x.test/' + encodeURIComponent(title), summary: '', kind: 'news', scene, sourceName: 'Test', published: new Date(now - mins * 60000) });
+  const results = [{ ok: true, items: [
+    mk('NAVI beat Spirit to make playoffs', 'cs2', 30),
+    mk('NAVI beat Spirit to make the playoffs in Bucharest', 'cs2', 40),
+    mk('Prediction market odds for tonight', 'cs2', 50),
+    mk('Mang0 wins Genesis', 'melee', 60),
+    mk('Old story', 'melee', 60 * 30),
+  ] }];
+  const r = buildRundown(results, scenes, scoring, now);
+  const cs = r.sections.find((s) => s.label === 'CS2');
+  assert.equal(cs.count, 1);
+  assert.ok(r.sections.find((s) => s.label === 'Melee'));
+  assert.ok(r.quiet.includes('Trackmania'));
+  const payloads = rundownPayloads(r, 'Wed, Oct 28');
+  assert.match(payloads[0].content, /Daily rundown/);
+  for (const p of payloads) assert.ok(p.embeds.length <= 10);
+});
+
 test('discord payload shape', () => {
   const p = buildAlertPayload({
     item: { title: 'X', url: 'https://x.test', summary: '', sourceName: 'HLTV news', published: new Date() },

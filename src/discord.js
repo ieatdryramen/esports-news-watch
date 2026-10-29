@@ -56,6 +56,10 @@ export async function sendAlert(webhook, alert) {
   await post(webhook, buildAlertPayload(alert));
 }
 
+export async function sendPayload(webhook, payload) {
+  await post(webhook, payload);
+}
+
 export async function sendNotice(webhook, text, kind = 'info') {
   await post(webhook, {
     embeds: [{ description: truncate(text, 4000), color: COLORS[kind] ?? COLORS.info }],

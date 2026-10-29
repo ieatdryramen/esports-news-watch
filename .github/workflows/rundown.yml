@@ -1,0 +1,35 @@
+name: rundown
+
+# One Discord post with every story from the last 24 hours, grouped by scene.
+# Runs daily at about 1:47 PM US Eastern (17:47 UTC); run it by hand any time
+# from the Actions tab.
+
+on:
+  schedule:
+    - cron: '47 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  rundown:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - run: node src/index.js --rundown
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_RUNDOWN_WEBHOOK_URL: ${{ secrets.DISCORD_RUNDOWN_WEBHOOK_URL }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          RUNDOWN_TIMEZONE: ${{ vars.RUNDOWN_TIMEZONE || 'America/New_York' }}
