@@ -72,6 +72,7 @@ export function parseFeed(xml) {
       url: atomLink(it.link),
       summary: stripHtml(textOf(it.content) || textOf(it.summary)),
       published: parseDate(it.published ?? it.updated),
+      category: asArray(it.category).map((c) => (typeof c === 'object' ? c['@_term'] : c)).find(Boolean) ?? null,
     }));
   }
   if (doc?.['rdf:RDF']) {
@@ -89,7 +90,7 @@ export function parseFeed(xml) {
 function finish(source, entries) {
   return entries
     .filter((e) => e.title && (e.id || e.url))
-    .map((e) => ({
+    .map(({ category, ...e }) => ({
       ...e,
       id: `${source.name}::${e.id || e.url}`,
       summary: (e.summary || '').slice(0, 1500),
@@ -145,22 +146,33 @@ async function getRedditToken() {
   return redditToken;
 }
 
-// Without keys, try Reddit's public RSS. Reddit often blocks cloud servers;
-// a block is reported as "skipped", not as a broken source.
-async function fetchRedditAnonymous(source) {
+// Without keys, pull every subreddit in ONE public RSS request (r/a+b+c),
+// which Reddit rate-limits far less than one request per subreddit. A block
+// is reported as "skipped", not as a broken source.
+async function fetchRedditCombined(sources) {
+  const bySub = new Map(sources.map((s) => [s.sub.toLowerCase(), s]));
+  const path = `r/${sources.map((s) => s.sub).join('+')}/new/.rss?limit=100`;
+  let entries = null;
   for (const host of ['www.reddit.com', 'old.reddit.com']) {
     try {
-      return finish(source, parseFeed(await fetchText(`https://${host}/r/${source.sub}/new/.rss?limit=25`)));
+      entries = parseFeed(await fetchText(`https://${host}/${path}`));
+      break;
     } catch {
       // try the next host
     }
   }
-  throw new SkipError('Reddit blocks this server without app keys');
+  if (!entries) throw new SkipError('Reddit blocks this server without app keys');
+  const items = [];
+  for (const e of entries) {
+    const source = bySub.get(String(e.category || '').toLowerCase());
+    if (source) items.push(...finish(source, [e]));
+  }
+  return items;
 }
 
 async function fetchReddit(source) {
   const token = await getRedditToken();
-  if (!token) return fetchRedditAnonymous(source);
+  if (!token) throw new SkipError('no Reddit app keys');
   const res = await fetch(`https://oauth.reddit.com/r/${source.sub}/new?limit=25&raw_json=1`, {
     headers: { Authorization: `Bearer ${token}`, 'User-Agent': USER_AGENT },
     signal: AbortSignal.timeout(TIMEOUT_MS),
@@ -204,11 +216,18 @@ async function fetchBluesky(account) {
 }
 
 export function buildJobs(config) {
-  const jobs = config.sources.map((s) => {
-    const run = { rss: fetchRss, google: fetchGoogle, reddit: fetchReddit }[s.type];
-    if (!run) throw new Error(`Unknown source type "${s.type}" for ${s.name}`);
-    return { name: s.name, run: () => run(s) };
-  });
+  const hasRedditKeys = Boolean(process.env.REDDIT_CLIENT_ID?.trim() && process.env.REDDIT_CLIENT_SECRET?.trim());
+  const redditSources = config.sources.filter((s) => s.type === 'reddit');
+  const jobs = config.sources
+    .filter((s) => s.type !== 'reddit' || hasRedditKeys)
+    .map((s) => {
+      const run = { rss: fetchRss, google: fetchGoogle, reddit: fetchReddit }[s.type];
+      if (!run) throw new Error(`Unknown source type "${s.type}" for ${s.name}`);
+      return { name: s.name, run: () => run(s) };
+    });
+  if (!hasRedditKeys && redditSources.length) {
+    jobs.push({ name: `Reddit (${redditSources.length} subs, public feed)`, run: () => fetchRedditCombined(redditSources) });
+  }
   for (const acct of config.bluesky?.accounts || []) {
     jobs.push({ name: `Bluesky @${acct.handle}`, run: () => fetchBluesky(acct) });
   }

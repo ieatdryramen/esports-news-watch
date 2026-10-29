@@ -35,7 +35,7 @@ function summary(results) {
   const ok = results.filter((r) => r.ok).length;
   const skipped = results.filter((r) => r.skipped).length;
   const active = results.length - skipped;
-  return `${ok}/${active} sources working${skipped ? ` (${skipped} Reddit skipped: blocked without app keys)` : ''}`;
+  return `${ok}/${active} sources working${skipped ? ' (Reddit skipped: blocked without app keys)' : ''}`;
 }
 
 async function check(results, scenes, scoring) {

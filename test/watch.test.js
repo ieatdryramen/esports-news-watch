@@ -39,6 +39,8 @@ test('parses RSS and Atom', () => {
   const [a] = parseFeed(atom);
   assert.equal(a.url, 'https://reddit.test/abc');
   assert.equal(a.summary, 'wow');
+  const multi = '<feed><entry><id>t3_x</id><title>Hi</title><category term="SSBM" label="r/SSBM"/><link href="https://r.test/x"/></entry></feed>';
+  assert.equal(parseFeed(multi)[0].category, 'SSBM');
 });
 
 test('scene detection for mixed feeds', () => {
