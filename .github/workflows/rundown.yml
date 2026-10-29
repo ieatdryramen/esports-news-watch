@@ -1,12 +1,12 @@
 name: rundown
 
-# One Discord post with every story from the last 24 hours, grouped by scene.
-# Runs daily at about 1:47 PM US Eastern (17:47 UTC); run it by hand any time
-# from the Actions tab.
+# Refreshes rundown.json (every story from the last 24 hours, by scene) every
+# hour, and posts it to Discord at RUNDOWN_POST_HOURS local time (default 9 and
+# 17, US Eastern). Run it by hand any time to post right away.
 
 on:
   schedule:
-    - cron: '47 17 * * *'
+    - cron: '20 * * * *'
   workflow_dispatch:
 
 concurrency:
@@ -37,6 +37,8 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           RUNDOWN_TIMEZONE: ${{ vars.RUNDOWN_TIMEZONE || 'America/New_York' }}
+          RUNDOWN_POST_HOURS: ${{ vars.RUNDOWN_POST_HOURS || '9,17' }}
+          FORCE_POST: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
 
       - name: Publish rundown feed
         run: .github/scripts/publish-feed.sh

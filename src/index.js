@@ -98,8 +98,15 @@ async function run() {
       if (p.content) console.log(p.content);
       for (const e of p.embeds) console.log(`\n## ${e.title ?? ''}\n${e.description}`);
     }
+    // The feed file refreshes every run; Discord only gets the rundown at the
+    // posting hours (local time), or whenever it's run by hand.
+    const postHours = (process.env.RUNDOWN_POST_HOURS || '9,17').split(',').map((h) => Number(h.trim()));
+    const localHour = Number(new Date().toLocaleString('en-US', { timeZone: tz, hour: 'numeric', hourCycle: 'h23' }));
+    const shouldPost = process.env.FORCE_POST === '1' || postHours.includes(localHour);
     const target = process.env.DISCORD_RUNDOWN_WEBHOOK_URL?.trim() || webhook;
-    if (target && process.env.DRY_RUN !== '1') {
+    if (!shouldPost) {
+      console.log(`\nfeed refreshed; not a posting hour (${localHour}:00 ${tz}, posts at ${postHours.join(', ')})`);
+    } else if (target && process.env.DRY_RUN !== '1') {
       for (const p of payloads) await sendPayload(target, p);
       console.log(`\nposted rundown in ${payloads.length} message(s)`);
     } else {
