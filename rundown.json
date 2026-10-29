@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T03:58:45.904Z",
+  "generatedAt": "2026-10-29T05:00:40.579Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Who Is Aleksib? NAVI IGL Convicted of Aggravated Tax Fraud",
@@ -26,13 +26,30 @@
           "source": "r/GlobalOffensive",
           "published": "2026-10-28T23:06:11.000Z",
           "score": 10,
-          "level": "breaking",
+          "level": "possible",
           "why": [
             "leak*",
             "leaked",
             "new weapon",
             "update",
-            "replaced"
+            "replaced",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "BetBoom has never won a playoff game after going 3-0 in groups, this will be their 4th attempt",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xia3b8/betboom_has_never_won_a_playoff_game_after_going/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-29T04:12:47.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "won",
+            "record*",
+            "navi*",
+            "vitality*",
+            "faze*",
+            "g2*"
           ]
         },
         {
@@ -131,25 +148,14 @@
           ]
         },
         {
-          "title": "591K Peak Viewers on final day of PGL Masters Bucharest 2026 Group Stage",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xi4fpu/591k_peak_viewers_on_final_day_of_pgl_masters/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-28T23:44:28.000Z",
-          "score": 2,
+          "title": "Moscow International Game Week: CS2 Finals, India's Gaming Future Revealed!",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmZuNE4wWk5vT2s0WWl0a3dJdjNlb1dkQTBReDF1SGdYM19iVVZLMExEeHVRT0RHaGs3NFNZaU1GTVk2ZjVZUjhfZnVfaWJRZWN4TkRLaFFQVDR1cDRib3FHMW5aQVBwSUFReU9rYm01clpadThjcEFLcW5QZFdSSTVtNFUtM1VwbVBUVThVbGNqNk1lU0gyeTNCUVFrc3J0RFlBdEMwZDdxTFJ2QklrU20xc2c3aEhMY2U2YzZn0gHDAUFVX3lxTE5mWjIxM0pfQk5UbUJTM1hndS0taEhYUGJrV3h3ZDg1ZjY0VUxUMWJJUGxRbmNTMWFCbGo4R1BiQi10QkpVYzh1QXpMNEI0UHl6YUdmTXJjWmtSazdfendIemtUQkt5Q0VkUkFmc0VJSGFKejNKZE5KRE9zZE5PMGJ3R2NRR2kxUm5qWmF5TTM0ZUdhUWZlczZRMmdudXVqRjI3Ti1BeG8yOUhHRjlnZHpLUWVVNWQ2LXpPLXl5dmpkUDVvaw?oc=5",
+          "source": "Google News: CS2 (LatestLY)",
+          "published": "2026-10-28T10:42:15.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Navi went full VRS farming mode",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xi1wbc/navi_went_full_vrs_farming_mode/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-28T21:59:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "navi"
+            "revealed"
           ]
         }
       ]
@@ -265,33 +271,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Tipped Off 18 will likely be the last tournament in the series",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xi1k2j/tipped_off_18_will_likely_be_the_last_tournament/",
-          "source": "r/SSBM",
-          "published": "2026-10-28T21:45:21.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "last tournament",
-            "the last"
-          ]
-        },
-        {
-          "title": "Today We Learned: There are only SEVEN viable tournament characters in Melee ??",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xi4epl/today_we_learned_there_are_only_seven_viable/",
-          "source": "r/SSBM",
-          "published": "2026-10-28T23:43:13.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -381,7 +360,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Tekken 8 Full Story: Ending Explained And Plot Summary",
@@ -404,6 +383,15 @@
           "why": [
             "roster"
           ]
+        },
+        {
+          "title": "TEKKEN 8 - Michael Jackson - Thriller Reveal",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xiadv0/tekken_8_michael_jackson_thriller_reveal/",
+          "source": "r/Tekken",
+          "published": "2026-10-29T04:28:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -477,6 +465,21 @@
           "source": "Trackmania blog",
           "published": "2026-10-28T16:00:00.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Today We Learned: There are only SEVEN viable tournament characters in Melee ??",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xi4epl/today_we_learned_there_are_only_seven_viable/",
+          "source": "r/SSBM",
+          "published": "2026-10-28T23:43:13.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
