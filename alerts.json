@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-29T21:50:19.134Z",
+      "level": "possible",
+      "scene": "CoD",
+      "title": "Is cheating really this bad?",
+      "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xix9co/is_cheating_really_this_bad/",
+      "source": "r/CoDCompetitive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "cheating",
+        "won*"
+      ],
+      "summary": "Unc now but played comp since 2012. Mostly played SnD my whole career and won maybe 40ish golds from about ghost-bo6, so I don’t consider myself a bot, always told myself that people make hackusations over NOTHING and that hacking wasn’t really as bad as people make it and that people just needed to get better but… I’ve been playing bo2 wagers and tournaments all off season, and people SUCK. Nobody could shoot straight AT ALL, then this game comes out and most wagers I play people are hitting EXTREMELY impressive shots. Is everyone a rotational aim assist merchant that hard or is softing and AI aim that rampant??? submitted by /u/kyleprophet to r/CoDCompetitive [link] [comments]",
+      "published": "2026-10-29T21:46:51.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T18:50:16.863Z",
       "level": "possible",
       "scene": "Trackmania",
