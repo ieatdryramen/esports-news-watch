@@ -1,0 +1,638 @@
+{
+  "generatedAt": "2026-10-29T01:24:50.153Z",
+  "windowHours": 24,
+  "scenes": [
+    {
+      "scene": "CS2",
+      "storyCount": 33,
+      "stories": [
+        {
+          "title": "Who Is Aleksib? NAVI IGL Convicted of Aggravated Tax Fraud",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDVhU1B5ODZWNnFEMXdHelBnSnBKZWFfRnA5eGEzX1BURU1zWFNHUXhWbmxwRFhTTUdTeGpKS0dEOWo2cWRpWEMwSk5nZi1TYnRJenpfQnd1UHEtd1hQN21yZk9XMlBCTTBGZ3VpZGtzZXJuYWlmMkFaNl9DMkQ0bjV4RkhMUEFxei14TWtMWUZMVEVhU2dVOHpR?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-10-28T10:59:26.000Z",
+          "score": 14,
+          "level": "breaking",
+          "why": [
+            "convicted",
+            "fraud",
+            "aleksib",
+            "navi"
+          ]
+        },
+        {
+          "title": "Spirit vs Natus Vincere / PGL Masters Bucharest 2026 - Swiss Round 5 (Teams With A 2-2 Record) / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xhwimr/spirit_vs_natus_vincere_pgl_masters_bucharest/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-28T18:37:38.000Z",
+          "score": 9.5,
+          "level": "breaking",
+          "why": [
+            "benched*",
+            "roster*",
+            "record",
+            "official*",
+            "aleksib*",
+            "donk*"
+          ]
+        },
+        {
+          "title": "Legacy bench n1ssim, ksloks to stand in for the rest of 2026*",
+          "url": "https://www.hltv.org/news/45838/legacy-bench-n1ssim-ksloks-to-stand-in-for-the-rest-of-2026",
+          "source": "HLTV news",
+          "published": "2026-10-28T11:36:00.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "bench",
+            "stand in"
+          ]
+        },
+        {
+          "title": "PGL Masters Bucharest bracket set",
+          "url": "https://www.hltv.org/news/45844/pgl-masters-bucharest-bracket-set",
+          "source": "HLTV news",
+          "published": "2026-10-28T19:05:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz*",
+            "furia*",
+            "pgl"
+          ]
+        },
+        {
+          "title": "NAVI embarrass Spirit for last playoff berth",
+          "url": "https://www.hltv.org/news/45843/navi-embarrass-spirit-for-last-playoff-berth",
+          "source": "HLTV news",
+          "published": "2026-10-28T18:47:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
+            "spirit"
+          ]
+        },
+        {
+          "title": "FURIA go to PGL Masters quarters over Liquid",
+          "url": "https://www.hltv.org/news/45840/furia-go-to-pgl-masters-quarters-over-liquid",
+          "source": "HLTV news",
+          "published": "2026-10-28T15:36:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "liquid",
+            "furia",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Mouz breaks spirit (and donk)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xhxstb/mouz_breaks_spirit_and_donk/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-28T19:23:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "donk",
+            "navi*",
+            "spirit",
+            "mouz"
+          ]
+        },
+        {
+          "title": "Navi decided not to shake hands with Team Spirit after their match",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xhwxcl/navi_decided_not_to_shake_hands_with_team_spirit/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-28T18:52:50.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "navi",
+            "spirit"
+          ]
+        },
+        {
+          "title": "BIG vs fnatic / StarLadder Ranked Episode 5 - Upper Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xhx5bv/big_vs_fnatic_starladder_ranked_episode_5_upper/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-28T19:00:13.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "benched*",
+            "roster*",
+            "official*"
+          ]
+        },
+        {
+          "title": "Valve leaked more info about the new weapon this update. \"M14\" now replaced with the \"Lar\" A Lever Action Rifle with Iron Sights.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xi3jg9/valve_leaked_more_info_about_the_new_weapon_this/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-28T23:06:11.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "replaced"
+          ]
+        },
+        {
+          "title": "Swiss stage at CS2 PGL Masters Bucharest 2026: Storylines, matchups, full results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXQwUVFCbVNSNzVmZzRVRngwY3ZWOEZPaW9jd3RBM1NKY0hmZk1kcTlpVmU1QlFMdXVDbzgyUjhoTk9CSDFOR0JBd2F1d2l5dWpMM2VGYm4zd2ZrNDdlNUJPc0FjSHItb0JpNHUzTmpXdjVUb2xlU0d6WmlsbWxjR1pqNE53OXIyZ0hIOGNabURJdw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-28T19:26:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "The best highlights from PGL Masters Bucharest groups",
+          "url": "https://www.hltv.org/news/45786/the-best-highlights-from-pgl-masters-bucharest-groups",
+          "source": "HLTV news",
+          "published": "2026-10-28T18:56:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 39,
+      "stories": [
+        {
+          "title": "Invoker so good or cheat",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xhzukw/invoker_so_good_or_cheat/",
+          "source": "r/DotA2",
+          "published": "2026-10-28T20:38:46.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "cheating*",
+            "cheat"
+          ]
+        },
+        {
+          "title": "Former Dota Player",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xi1wwz/former_dota_player/",
+          "source": "r/DotA2",
+          "published": "2026-10-28T21:59:48.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "removed*",
+            "retirement*"
+          ]
+        },
+        {
+          "title": "Breaking TA's ankles twice in a row",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xhyua5/breaking_tas_ankles_twice_in_a_row/",
+          "source": "r/DotA2",
+          "published": "2026-10-28T20:01:11.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "breaking"
+          ]
+        },
+        {
+          "title": "343 explains why he left OG for Xipto Esports",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xi59rv/343_explains_why_he_left_og_for_xipto_esports/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T00:19:17.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "og"
+          ]
+        },
+        {
+          "title": "I am confused",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xi52ko/i_am_confused/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T00:10:31.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "banned*"
+          ]
+        },
+        {
+          "title": "Biases. Which heroes are always godlike 17/2 against you, and worthless 1/15 on your team ?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xhxhgc/biases_which_heroes_are_always_godlike_172/",
+          "source": "r/DotA2",
+          "published": "2026-10-28T19:11:35.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "cancelled*"
+          ]
+        },
+        {
+          "title": "OG Skem taking kills",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xhwkms/og_skem_taking_kills/",
+          "source": "r/DotA2",
+          "published": "2026-10-28T18:39:41.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "og"
+          ]
+        },
+        {
+          "title": "When is new patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xi3kzh/when_is_new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-10-28T23:07:54.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "released*"
+          ]
+        },
+        {
+          "title": "Dark Carnival - an \"ongoing event\" with nothing new in 3 months",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xi37fc/dark_carnival_an_ongoing_event_with_nothing_new/",
+          "source": "r/DotA2",
+          "published": "2026-10-28T22:52:10.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "released*"
+          ]
+        },
+        {
+          "title": "The longest match for me so far",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xi2map/the_longest_match_for_me_so_far/",
+          "source": "r/DotA2",
+          "published": "2026-10-28T22:27:42.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
+          ]
+        },
+        {
+          "title": "Dota 2 Dark Carnival Acts 1 and 2 surpass Crownfall’s longest gap between acts",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnJheTN5YklHRW93RlNibVVnUmhKTVpGUDVTMFBKdGFfQ1V6WVpqeERsNUdUcFhzbWJwUllJMXVfUW5CWE55NzFlZ2lvV1NNXzRWSWZUNnN1N0NJT0taVE1kbnI2N2t0ZlVGZXFLR1JtNWNQWF9ZYzdrNFRBNXVhRVdwbWFRNnE3N1N0dENfdE5NUWtya2xxVDg5dlVNM2cxWGc?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-10-28T01:28:38.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Largo turbo",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xi6hof/largo_turbo/",
+          "source": "r/DotA2",
+          "published": "2026-10-29T01:15:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "ASL 22 is over. What are we watching during the long hiatus until 2027?",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xi3l73/asl_22_is_over_what_are_we_watching_during_the/",
+          "source": "r/broodwar",
+          "published": "2026-10-28T23:08:08.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "hiatus",
+            "asl"
+          ]
+        },
+        {
+          "title": "The Current Top 40 StarCraft Broodwar Players (ASL) Post-ASL22 Edition",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xhx5la/the_current_top_40_starcraft_broodwar_players_asl/",
+          "source": "r/broodwar",
+          "published": "2026-10-28T19:00:25.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "asl",
+            "best*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Warcraft III",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "Birthday Cup Results ($2,500, ft Happy, Fortitude, and more)",
+          "url": "https://www.reddit.com/r/WC3/comments/1xi4waf/birthday_cup_results_2500_ft_happy_fortitude_and/",
+          "source": "r/WC3",
+          "published": "2026-10-29T00:02:53.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "happy",
+            "fortitude"
+          ]
+        },
+        {
+          "title": "Stuck in Act 2",
+          "url": "https://www.reddit.com/r/WC3/comments/1xi4su7/stuck_in_act_2/",
+          "source": "r/WC3",
+          "published": "2026-10-28T23:59:58.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Orcs vs HU",
+          "url": "https://www.reddit.com/r/WC3/comments/1xi1nak/orcs_vs_hu/",
+          "source": "r/WC3",
+          "published": "2026-10-28T21:48:53.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Will Blizzard ever further elaborate on the secret and ancient society of sasquatches in Lordaeron?",
+          "url": "https://www.reddit.com/r/WC3/comments/1xhzfh1/will_blizzard_ever_further_elaborate_on_the/",
+          "source": "r/WC3",
+          "published": "2026-10-28T20:23:03.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 9,
+      "stories": [
+        {
+          "title": "Almost 10 years later, I finally completed Rise of the Rajas.",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xhxl7o/almost_10_years_later_i_finally_completed_rise_of/",
+          "source": "r/aoe2",
+          "published": "2026-10-28T19:15:16.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "replaces*",
+            "ending*"
+          ]
+        },
+        {
+          "title": "TheViper’s 60 APM challenge: how would other pro's fare?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xi1ubc/thevipers_60_apm_challenge_how_would_other_pros/",
+          "source": "r/aoe2",
+          "published": "2026-10-28T21:56:56.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "theviper"
+          ]
+        },
+        {
+          "title": "Aside from the Tibetans, what other civilizations might be considered controversial?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xhzusr/aside_from_the_tibetans_what_other_civilizations/",
+          "source": "r/aoe2",
+          "published": "2026-10-28T20:38:59.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won*",
+            "history*"
+          ]
+        },
+        {
+          "title": "The Return Of Rome campaigns are done. They were pretty good.",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xhv0zk/the_return_of_rome_campaigns_are_done_they_were/",
+          "source": "r/aoe2",
+          "published": "2026-10-28T17:44:05.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "return"
+          ]
+        },
+        {
+          "title": "My team lost to a dead player today",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xi66vn/my_team_lost_to_a_dead_player_today/",
+          "source": "r/aoe2",
+          "published": "2026-10-29T01:01:33.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Replay save file corrupted?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xi1e3u/replay_save_file_corrupted/",
+          "source": "r/aoe2",
+          "published": "2026-10-28T21:38:36.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "What Fixes Would You Make Wednesday - Kotyan Khan 1",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xi0884/what_fixes_would_you_make_wednesday_kotyan_khan_1/",
+          "source": "r/aoe2",
+          "published": "2026-10-28T20:53:28.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Today in the \"Speed doesn't matter\" cult: 'Here's a video full of explanations how speed does matter'",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xhxjdp/today_in_the_speed_doesnt_matter_cult_heres_a/",
+          "source": "r/aoe2",
+          "published": "2026-10-28T19:13:29.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Why do Italians have Anti Cavalry Archer UU?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xhxfka/why_do_italians_have_anti_cavalry_archer_uu/",
+          "source": "r/aoe2",
+          "published": "2026-10-28T19:09:48.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "Thoughts on pause buffering?",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xhz3gx/thoughts_on_pause_buffering/",
+          "source": "r/TrackMania",
+          "published": "2026-10-28T20:10:51.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "cheating*"
+          ]
+        },
+        {
+          "title": "Kacky Reloaded 7 Kicks Off on October 30!",
+          "url": "https://blog.trackmania.com/2026/10/28/kacky-reloaded-7-kicks-off-on-october-30/",
+          "source": "Trackmania blog",
+          "published": "2026-10-28T16:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "What map is in the background of the trackmania.io banner?",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xhzv4x/what_map_is_in_the_background_of_the_trackmaniaio/",
+          "source": "r/TrackMania",
+          "published": "2026-10-28T20:39:21.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Oscar has made Red Bull Scheme.",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xhxr2a/oscar_has_made_red_bull_scheme/",
+          "source": "r/TrackMania",
+          "published": "2026-10-28T19:21:13.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Classic Tetris",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "2026 CTWC Quebec Regional: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-10-28T05:04:10.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "I just bought Tetris Effect: Connected.",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xi60ut/i_just_bought_tetris_effect_connected/",
+          "source": "r/Tetris",
+          "published": "2026-10-29T00:53:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "genuinely how do you tspin",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xi5o8p/genuinely_how_do_you_tspin/",
+          "source": "r/Tetris",
+          "published": "2026-10-29T00:37:39.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Staying hydrated",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xhya1r/staying_hydrated/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-10-28T19:40:46.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "optic*"
+          ]
+        },
+        {
+          "title": "40+ year old competitive players?",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xi3afj/40_year_old_competitive_players/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-10-28T22:55:48.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 6,
+      "stories": [
+        {
+          "title": "Today We Learned: There are only SEVEN viable tournament characters in Melee ??",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xi4epl/today_we_learned_there_are_only_seven_viable/",
+          "source": "r/SSBM",
+          "published": "2026-10-28T23:43:13.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tipped Off 18 will likely be the last tournament in the series",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xi1k2j/tipped_off_18_will_likely_be_the_last_tournament/",
+          "source": "r/SSBM",
+          "published": "2026-10-28T21:45:21.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "i literally just got gold for the first time ... then immediately lost it cus my joycon got disconnected",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xhxb19/i_literally_just_got_gold_for_the_first_time_then/",
+          "source": "r/SSBM",
+          "published": "2026-10-28T19:05:21.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Made a Super Smash Bros. Melee \"manager game\" in my free time.",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xhw95i/made_a_super_smash_bros_melee_manager_game_in_my/",
+          "source": "r/SSBM",
+          "published": "2026-10-28T18:28:01.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Run the set, not your mouth",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xhw5fy/run_the_set_not_your_mouth/",
+          "source": "r/SSBM",
+          "published": "2026-10-28T18:24:16.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Mayflash adapter problem downgrading firmware to V5 (getting 1000hz overclocking)",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xhle4s/mayflash_adapter_problem_downgrading_firmware_to/",
+          "source": "r/SSBM",
+          "published": "2026-10-28T11:23:50.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    }
+  ],
+  "quiet": [
+    "Classic FGC"
+  ]
+}
