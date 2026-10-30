@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T18:30:37.810Z",
+  "generatedAt": "2026-10-30T19:30:36.957Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Rivals' Latest Update Is Now Live With Night Of Illusions Event & More - Full Patch Notes Listed",
@@ -17,6 +17,15 @@
             "update",
             "patch notes"
           ]
+        },
+        {
+          "title": "Marvel Rivals Occlusion culling PS5 base",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kbXBkWGdmUmV1Zy1oWDFzanhpajJ6TWVsbHp2czRfMURfZEozdURGTVE4ZXE1OHUyMXZsTGdXU0hudjJ4dE10Tjd3T1hxVnNhY2JaejJPcko1VzVw?oc=5",
+          "source": "Google News: Rivals patches (YouTube)",
+          "published": "2026-10-30T05:18:35.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals Night of Illusions Escape Room Event Runs Through Dec 31",
