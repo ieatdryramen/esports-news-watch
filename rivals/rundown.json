@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T09:40:21.253Z",
+  "generatedAt": "2026-10-30T10:40:22.999Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals October 29 Update Patch Notes",
@@ -15,17 +15,6 @@
           "level": "possible",
           "why": [
             "update",
-            "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Version 20261029 Patch Notes",
-          "url": "https://store.steampowered.com/news/app/2767030/view/703283562262037065",
-          "source": "Steam: Marvel Rivals (official news + patch notes)",
-          "published": "2026-10-29T10:00:29.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
             "patch notes"
           ]
         },
