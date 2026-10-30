@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:00:24.375Z",
+  "generatedAt": "2026-10-30T21:30:22.671Z",
   "source": "start.gg",
   "completed": [
     {
@@ -364,6 +364,19 @@
       "startAt": "2026-10-31T16:30:00.000Z",
       "endAt": "2026-11-01T00:00:00.000Z",
       "url": "https://www.start.gg/tournament/keep-holding-forward-10-31-26/event/street-fighter-iii-third-strike"
+    },
+    {
+      "eventId": "1720731",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "River City Rushdown October 2026",
+      "event": "Street Fighter III: 3rd Strike (PC)",
+      "entrants": 16,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-31T19:00:00.000Z",
+      "endAt": "2026-11-01T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/river-city-rushdown-october-2026/event/street-fighter-iii-3rd-strike-pc"
     }
   ],
   "games": {
