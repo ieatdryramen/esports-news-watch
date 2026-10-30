@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T08:00:45.638Z",
+  "generatedAt": "2026-10-30T08:56:06.303Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -19,19 +19,6 @@
             "official*",
             "zywoo",
             "reddit only"
-          ]
-        },
-        {
-          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
-          "url": "https://esports.gg/news/counter-strike-2/pgl-masters-bucharest-2026-playoff-results/",
-          "source": "esports.gg",
-          "published": "2026-10-29T08:40:42.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "stand-in*",
-            "vitality*",
-            "pgl"
           ]
         },
         {
@@ -70,6 +57,17 @@
           "why": [
             "stand-in*",
             "astralis"
+          ]
+        },
+        {
+          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-29T18:33:07.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
