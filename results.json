@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:30:22.671Z",
+  "generatedAt": "2026-10-30T22:00:23.332Z",
   "source": "start.gg",
   "completed": [
     {
@@ -191,53 +191,6 @@
       ]
     },
     {
-      "eventId": "1738893",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TEKKEN MAX",
-      "event": "TEKKEN MAX",
-      "entrants": 83,
-      "online": true,
-      "major": false,
-      "startAt": "2026-10-27T22:00:00.000Z",
-      "endAt": "2026-10-28T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/tekken-max/event/tekken-max-2",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "LUA | Hircine"
-        },
-        {
-          "placement": 2,
-          "name": "Finnc"
-        },
-        {
-          "placement": 3,
-          "name": "LUA | Luigi"
-        },
-        {
-          "placement": 4,
-          "name": "Kawin"
-        },
-        {
-          "placement": 5,
-          "name": "LUA | Wipped Out"
-        },
-        {
-          "placement": 5,
-          "name": "FNX|AMATERASSU"
-        },
-        {
-          "placement": 7,
-          "name": "rono"
-        },
-        {
-          "placement": 7,
-          "name": "EGO | Rajimi"
-        }
-      ]
-    },
-    {
       "eventId": "1739008",
       "scene": "tekken",
       "game": "Tekken 8",
@@ -293,7 +246,7 @@
       "game": "Tekken 8",
       "tournament": "AWE Presents The 36th Tekken 8 Will Breaker Tournament",
       "event": "AWE Presents The 36th Tekken 8 Will Breaker",
-      "entrants": 357,
+      "entrants": 326,
       "online": true,
       "major": false,
       "startAt": "2026-10-31T00:00:00.000Z",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:00:39.118Z",
+  "generatedAt": "2026-10-30T22:00:40.243Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -95,18 +95,6 @@
           ]
         },
         {
-          "title": "Third BLAST Premier Open heads to the United States in 2027",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjl8k1/third_blast_premier_open_heads_to_the_united/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T17:11:47.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast",
-            "pgl*"
-          ]
-        },
-        {
           "title": "BLAST Open 2027 S3 to be held in USA with updated format",
           "url": "https://www.hltv.org/news/45862/blast-open-2027-s3-to-be-held-in-usa-with-updated-format",
           "source": "HLTV news",
@@ -129,21 +117,30 @@
           ]
         },
         {
-          "title": "ZywOo shows how to punish the Suicide boost with a mid-door wallbang",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjm5jl/zywoo_shows_how_to_punish_the_suicide_boost_with/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T17:45:02.000Z",
+          "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\"",
+          "url": "https://www.hltv.org/news/45866/imd-there-are-no-plans-for-snax-to-be-igling-for-gamerlegion-next-season",
+          "source": "HLTV news",
+          "published": "2026-10-30T21:40:00.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "zywoo"
+            "revealed*"
           ]
         },
         {
-          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
-          "source": "Google News: CS2 (Донецька Обласна Державна адміністрація)",
-          "published": "2026-10-30T19:10:11.000Z",
+          "title": "Short news: Week 42",
+          "url": "https://www.hltv.org/news/45811/short-news-week-42",
+          "source": "HLTV news",
+          "published": "2026-10-30T21:36:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Eternal Fire inch closer to shock Major qualification with Stake Ranked trophy",
+          "url": "https://www.hltv.org/news/45865/eternal-fire-inch-closer-to-shock-major-qualification-with-stake-ranked-trophy",
+          "source": "HLTV news",
+          "published": "2026-10-30T21:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -152,7 +149,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
@@ -201,6 +198,17 @@
           ]
         },
         {
+          "title": "YATORO is the G.O.A.T",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjsafo/yatoro_is_the_goat/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T21:42:29.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "yatoro"
+          ]
+        },
+        {
           "title": "Team Liquid is the best team in the world*",
           "url": "https://www.reddit.com/r/DotA2/comments/1xjqxuj/team_liquid_is_the_best_team_in_the_world/",
           "source": "r/DotA2",
@@ -245,18 +253,6 @@
           ]
         },
         {
-          "title": "OG - Liquid, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uU1ZESXNyTHhiMzY3N21zaWhoeXVHckhpcEtJeW5PaEJnb0hQY2hvQzdfMDYxUXZnR05jZUpPOXhfT1RXVWg0OFR1ZmZjWHhsdVlROWtmZGxKR0tYcmxub3JZZktQZXkyZHhZSUtHTEhiSGs5QUh3bkdGZDkyckk?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-29T21:26:04.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "og",
-            "-stream"
-          ]
-        },
-        {
           "title": "I had a dream about patch 8.00",
           "url": "https://www.reddit.com/r/DotA2/comments/1xjr1rt/i_had_a_dream_about_patch_800/",
           "source": "r/DotA2",
@@ -268,20 +264,22 @@
           ]
         },
         {
-          "title": "While waiting for patch, let's come up with some new objectives for our game",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjqjtw/while_waiting_for_patch_lets_come_up_with_some/",
+          "title": "Deadlock has received a Halloween update, including a themed Hideout!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjsiem/deadlock_has_received_a_halloween_update/",
           "source": "r/DotA2",
-          "published": "2026-10-30T20:31:49.000Z",
-          "score": 0,
+          "published": "2026-10-30T21:51:46.000Z",
+          "score": 1,
           "level": null,
-          "why": []
+          "why": [
+            "update"
+          ]
         },
         {
-          "title": "New Hero Idea: Friendly Fire, The Hero",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjki16/new_hero_idea_friendly_fire_the_hero/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T16:44:49.000Z",
-          "score": 0,
+          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
+          "source": "Google News: Dota (Донецька Обласна Державна адміністрація)",
+          "published": "2026-10-30T19:10:11.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }
@@ -419,19 +417,29 @@
       ]
     },
     {
-      "scene": "Halo",
-      "storyCount": 1,
+      "scene": "CoD",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Do you want to see live Open Bracket coverage at Halo Fest?",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xjkxw6/do_you_want_to_see_live_open_bracket_coverage_at/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-10-30T17:00:58.000Z",
-          "score": 1.5,
+          "title": "Riyadh Falcons announce their roster for CDL 2027",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjsdim/riyadh_falcons_announce_their_roster_for_cdl_2027/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-30T21:46:04.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "history*",
-            "official*"
+            "roster"
+          ]
+        },
+        {
+          "title": "Omg I wasn’t muted? - Dashy 😂",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjrndj/omg_i_wasnt_muted_dashy/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-30T21:16:06.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dashy"
           ]
         }
       ]
@@ -443,7 +451,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "CoD",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
