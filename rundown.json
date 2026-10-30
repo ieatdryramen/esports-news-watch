@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T18:45:21.344Z",
+  "generatedAt": "2026-10-30T19:41:56.303Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 20,
       "stories": [
         {
           "title": "FUT/Astralis/Vitality roster for major problems",
@@ -89,6 +89,18 @@
           ]
         },
         {
+          "title": "KSCERATO: \"We're trying to play on feeling\"",
+          "url": "https://www.hltv.org/news/45864/kscerato-were-trying-to-play-on-feeling",
+          "source": "HLTV news",
+          "published": "2026-10-30T19:11:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand finals*",
+            "furia*"
+          ]
+        },
+        {
           "title": "PGL Masters Bucharest semi-finals as they happened",
           "url": "https://www.hltv.org/news/45859/pgl-masters-bucharest-semi-finals-as-they-happened",
           "source": "HLTV news",
@@ -143,23 +155,12 @@
           "why": [
             "iem"
           ]
-        },
-        {
-          "title": "ZywOo shows how to punish the Suicide boost with a mid-door wallbang",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjm5jl/zywoo_shows_how_to_punish_the_suicide_boost_with/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T17:45:02.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zywoo"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
@@ -194,17 +195,6 @@
           "level": null,
           "why": [
             "eliminated"
-          ]
-        },
-        {
-          "title": "I just picked it because I wanted to ban him",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjg3rx/i_just_picked_it_because_i_wanted_to_ban_him/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T13:58:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
           ]
         },
         {
@@ -341,37 +331,45 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
+      "scene": "Street Fighter",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "NaDeSHoT turns back the Clock and 1v3s Repullze, Simp & aBeZy",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjglmt/nadeshot_turns_back_the_clock_and_1v3s_repullze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T14:17:33.000Z",
-          "score": 4,
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
+          "source": "Google News: Street Fighter (Yahoo News Singapore)",
+          "published": "2026-10-30T12:38:45.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "simp",
-            "abezy"
+            "evo"
           ]
         },
         {
-          "title": "Riyadh Falcons announce their roster for Challengers (2027)",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjjbni/riyadh_falcons_announce_their_roster_for/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T16:01:34.000Z",
+          "title": "CPT 2026 Final Standings list. Who do you think over/underperformed this year? Who were you rooting for, did they make the cut?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xjo0ii/cpt_2026_final_standings_list_who_do_you_think/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-30T18:54:49.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "roster"
+            "cpt"
           ]
+        },
+        {
+          "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
+          "source": "Google News: Street Fighter",
+          "published": "2026-10-30T15:57:58.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -392,41 +390,23 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Face-Off: Mortal Kombat 1's Best Character",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
-          "source": "Google News: Legacy FGC (IGN)",
-          "published": "2026-10-30T07:34:04.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 2,
+      "scene": "CoD",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
-          "source": "Google News: Street Fighter (Yahoo News Singapore)",
-          "published": "2026-10-30T12:38:45.000Z",
-          "score": 3,
+          "title": "Riyadh Falcons announce their roster for Challengers (2027)",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjjbni/riyadh_falcons_announce_their_roster_for/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-30T16:01:34.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "evo"
+            "roster"
           ]
-        },
-        {
-          "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
-          "source": "Google News: Street Fighter",
-          "published": "2026-10-30T15:57:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
