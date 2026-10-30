@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T15:40:25.053Z",
+  "generatedAt": "2026-10-30T16:35:25.195Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Marvel Rivals' Latest Update Is Now Live With Night Of Illusions Event & More - Full Patch Notes Listed",
@@ -19,30 +19,10 @@
           ]
         },
         {
-          "title": "You Know NOTHING About Marvel Rivals | Marvel Rivals Season 10.5",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBFNHh4YzV5SWd6WnQzOFEzWlQ5bnFWUU9hd2Y0Tk56UzBVcW5fVjdfODNUcGhaeHNqdHo4MVRUUm1xdw?oc=5",
-          "source": "Google News: Rivals patches (YouTube)",
-          "published": "2026-10-29T15:54:38.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
           "title": "Marvel Rivals Night of Illusions Escape Room Event Runs Through Dec 31",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWNtdmRJU3pPWDVjbzdISXhRUXAzZzJ4SHNmb2RFMURzc2tFYUVicDRUZ204YXJzNllSUk9kNUF1MnFIRUdDLURkaUtYZ25mcVFucVpreFRqSlZKSVdza2kyUkhicjdPNG9HQ3pHZEZYR0ZvV1YtRVByTnd2OFlXMEZ5MFpNOFk2?oc=5",
           "source": "Google News: Rivals esports (Happy Gamer)",
           "published": "2026-10-29T21:24:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Halloween Night Of Illusions Event—All Chapter Solutions",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3R5RjlCcmY4VkxCbHJ5UlRCamwtWHV6cFV1Zm9wZ0RJTk1vYTBoMlA5QmpzYld5MmlmVHlINmhqTzhlS0ZJYTVDTTJsSUpWTmFzXzVuVkZDT25ENkRGMjZWdDV4UEpqZXV4T0J1Y1ZfZHc5SHV4dlRCWVJ3UV9idzNjUk1GRWVWa0YyaXhRXzdTb09Db2l4aVJvdlpvdE0?oc=5",
-          "source": "Google News: Rivals esports (Insider Gaming)",
-          "published": "2026-10-29T16:12:11.000Z",
           "score": 1,
           "level": null,
           "why": []
