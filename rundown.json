@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-30T15:00:39.606Z",
+  "generatedAt": "2026-10-30T15:55:27.678Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 20,
       "stories": [
+        {
+          "title": "FUT/Astralis/Vitality roster for major problems",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjieu4/futastralisvitality_roster_for_major_problems/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T15:27:33.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "roster",
+            "won*",
+            "vitality",
+            "astralis",
+            "pgl*",
+            "reddit only"
+          ]
+        },
         {
           "title": "Nemiga vs Vitality / PGL Masters Bucharest 2026 - Semi-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjg4rn/nemiga_vs_vitality_pgl_masters_bucharest_2026/",
@@ -78,18 +94,6 @@
           ]
         },
         {
-          "title": "Nemiga beating Vit shows how pathetic Navi have been",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjhocv/nemiga_beating_vit_shows_how_pathetic_navi_have/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T14:59:46.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster*",
-            "navi"
-          ]
-        },
-        {
           "title": "IEM Beijing 2026: Groups, Opening Matchups, Format, and More",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3d2eGpOa2toRHZlS2pJaXdnRG1PcjE3WXlnUWo5SHptTy1XQ0Fvc0U0eUdOWUJZZV9uUG1qenRld2tNMVJ4azFCRWJwczNycU5Za0VkNnpWbHBVWE1lNVFBQUM5S2phZk10LTd0NjJTd01fUVdkVU0taDU4a2ZzZTE0UlJnQQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -159,8 +163,20 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 7,
       "stories": [
+        {
+          "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fMWxMUm5CVGxUWDlaekhEVXZzNkthWTluYjJQdHVMZGJuQjA2UGFWNDlDaVd5NXdFdnJmSjJLWmZCOEY5MmdJU1p0RTh4ajQzRURSR0V3eFlxcm8xYl9xWEJBUnBPcm9MVUE?oc=5",
+          "source": "Google News: Dota (WIN.GG)",
+          "published": "2026-10-30T13:15:27.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "returns",
+            "announced"
+          ]
+        },
         {
           "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzhvYkRqVzFXQjNnZE0yTHBOaGFKX1hJVTlaNnhoWV9MOHFjSmNLbm1VWm9NT1R3Q18yTFFFZEFhTVdxODhaUGJQZXAwUHFrVUNzYjRIcTRsTzZjM3lkNFRhTGxJM09YbXkyVjJZQTk3T0RsbTRDOVA1U2pIUjB3bW5Lcm1pNTZaR25DWm8yb0cyT0I2RERQNVlQVm1wM0tDWjlfR2NfaEVmdkNmQmJETjJGeUQ1Zw?oc=5",
@@ -171,18 +187,6 @@
           "why": [
             "team spirit",
             "og"
-          ]
-        },
-        {
-          "title": "ESL One Munich 2027 Announced for Dota 2 With a $1,000,000 Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjF1T0FBdmdTc3UwUkFOZWd2bThSWmxJeEJEM2ZBWEdIOHhKeEpBOTdfcE5IalIyNnpGMFprMXRxQ3I1UExOcG9fSWRiQ3ZuLU5iM0NyQ2hBbWM1ei1yVmF6Y1hRaWRGSmFQYW9GVWFJRmEyVFFOQkR2TS1LWjBhdFVNQlRCUEowd2Jqb1Frb2x3bFNfNFVmbDN5cTZBMUlPSlHSAaoBQVVfeXFMTWZGa1ZyWVdrXzJJMC1lUHFSNVQxczBrRTA1Nk0xREE3MHlBcnUwaW54OHJvLWJJWkdrcV96YnZkU1ZtRE1wU05pTXVoUmhYYmJaTlRnMXhOYXFzTkFIQWdOOHNGeGdfMXJhRXV1ZDdQZkxqMnR4VE1JWEJHWS1WaXdSX1B3MGtPTy1Pb3hvYlRXb2tPRDljamNqenp0aWxZd2kwTTJHRXBJUEE?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-10-29T17:39:06.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "announced",
-            "prize pool"
           ]
         },
         {
@@ -209,17 +213,6 @@
           ]
         },
         {
-          "title": "Yatoro just beat Parivision with Weaver and Bloodseeker: what a legend",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjh09k/yatoro_just_beat_parivision_with_weaver_and/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T14:33:05.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "yatoro"
-          ]
-        },
-        {
           "title": "OG - Liquid, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uU1ZESXNyTHhiMzY3N21zaWhoeXVHckhpcEtJeW5PaEJnb0hQY2hvQzdfMDYxUXZnR05jZUpPOXhfT1RXVWg0OFR1ZmZjWHhsdVlROWtmZGxKR0tYcmxub3JZZktQZXkyZHhZSUtHTEhiSGs5QUh3bkdGZDkyckk?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -230,26 +223,6 @@
             "og",
             "-stream"
           ]
-        },
-        {
-          "title": "update predict",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjanr5/update_predict/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T09:24:40.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "ESL One Munich 2027 brings 16 Dota 2 teams to BMW Park for $1M",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2JURmJaMmF3dWpHSVlnZFhrV0xDUkpYUmVzYkNubHV0YzZFNldqR3AzbDRCekczUWFRUDZEc3FDcjV0cTZzVDh0cFIxcElyUG1MaUJBSmswTTcyR0gwQzAxWjhSRW4tMGVnUVV2NHY3WFNSOV9ua2VJSTVhRGo2b2FoWlZscDNyY3lvb1I1X2UyUWY5VE8zS0k5VnBENGtNLW96SGFhNA?oc=5",
-          "source": "Google News: Dota (Inven Global)",
-          "published": "2026-10-29T15:13:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Waiting for the patch got me like",
@@ -269,37 +242,6 @@
           "level": null,
           "why": [
             "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Warcraft III",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "ColorFul is negotiating with Happy about participating in the $27,500 AoW Cup - \"There are difficulties\"",
-          "url": "https://www.reddit.com/r/WC3/comments/1xjaqo5/colorful_is_negotiating_with_happy_about/",
-          "source": "r/WC3",
-          "published": "2026-10-30T09:29:43.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "happy",
-            "colorful"
-          ]
-        },
-        {
-          "title": "ColorFul: \"Why would I pay money to W3C?\" — Ancient of Wonders Cup to use KK or Battle.net",
-          "url": "https://www.reddit.com/r/WC3/comments/1xjaq0z/colorful_why_would_i_pay_money_to_w3c_ancient_of/",
-          "source": "r/WC3",
-          "published": "2026-10-30T09:28:36.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "confirmed*",
-            "colorful",
-            "w3champions*"
           ]
         }
       ]
@@ -356,19 +298,19 @@
           ]
         },
         {
-          "title": "Face-Off: Mortal Kombat 1's Best Character",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
-          "source": "Google News: Legacy FGC (IGN)",
-          "published": "2026-10-30T07:34:04.000Z",
+          "title": "Virtua Fighter Crossroads Showcases Lionel Rafale in New Trailer",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlF2aXdHV1ZSSHAyLVVQSjZ0YVQwYTFkczZvbnBwa3oyWGJ6VXVYQUYzSlg1MUctUGtMUUlhMDZRMzBacXZyUEdyeW02S0JUWmotOHI5T21RNWd2UkVFZnVRSG9OTFhJSnlfeC1RR2dFOXJ1WVlDcU0xdXhhQ1kwUjZoOF95N204UDVvNlFWVkI?oc=5",
+          "source": "Google News: Legacy FGC (GamingBolt)",
+          "published": "2026-10-30T15:30:09.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Lionel Rafale in Virtua Fighter Crossroads - New character!",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVVNNZGJpOXdTRmd4UkNGQ2g0X2pMVkYySDVWUkc5TS1sRjBscDV3Rl9mOTY0dFd4UnVJc3JveXNSaXpiMkVDTC1idlJ4cmVYNHNjb2VTbFZDS0hpeEs3N3I0X0p2U3RsS3B2eXpNenU0b3Q4NlFJRnIzNHlEbExjbEQxQQ?oc=5",
-          "source": "Google News: Legacy FGC (virus.hr)",
-          "published": "2026-10-29T18:00:00.000Z",
+          "title": "Face-Off: Mortal Kombat 1's Best Character",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
+          "source": "Google News: Legacy FGC (IGN)",
+          "published": "2026-10-30T07:34:04.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -471,6 +413,7 @@
     "Melee",
     "Classic Tetris",
     "Brood War",
+    "Warcraft III",
     "Quake",
     "Halo"
   ]
