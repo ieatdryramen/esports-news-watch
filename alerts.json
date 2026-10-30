@@ -1,6 +1,28 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-30T12:25:18.196Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Natus Vincere vs Toobisie / HyperX Retake Season 13 - Group B Winners' Match / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjdx5y/natus_vincere_vs_toobisie_hyperx_retake_season_13/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "roster*",
+        "official*",
+        "aleksib*",
+        "b1t*",
+        "navi*",
+        "natus vincere"
+      ],
+      "summary": "Natus Vincere 🇪🇺 2-0 Toobisie Nuke: 13-7 Ancient: 13-4 Cache: ** Toobisie Toobisie drop to the Group B decider match and will face BASEMENT BOYS** Predicted VRS Impact Team Rank Diff Total 🇪🇺 NAVI #11 → #10 +20 pts 1639 pts Toobisie #209 → #209 -1 pts 695 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Team Information 🇪🇺 Natus Vincere | Liquipedia | HLTV | Official Site | Steam | Faceit | Twitter | Facebook | Instagram | TikTok | YouTube | Twitch Roster : 🇺🇦 b1t | 🇫🇮 Aleksib ♛ | 🇷🇴 iM | 🇺🇦 w0nderful | 🇽🇰 makazze Coach : 🇺🇦 B1ad3 Toobisie Coach : Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes NAVI MAP Toobisie inferno X X mirage nuke ✔ ✔ ancient anubis X X dust2 cache Full Match Stats Team K-D ADR Swing Rating 🇪🇺 NAVI 1.37 🇷🇴 iM 42-19 118.9 +9.04% 2.01 🇽🇰 makazze 33-23 97.4 +4.77% 1.58 🇺🇦 b1t 28-25 72.4 +2.51% 1.31 🇺🇦 w0nderful 24-16 67.6 +0.70% 1.10 🇫🇮 Aleksib 16-20 52.8 -2.03% 0.83 Toobisie 0.78 🇵🇱 hades 28-26 75.8 -0.79% 1.05 🇵🇱 byali 24-30 70.5 -1.07% 0.85 🇵🇱 Sobol 15-26 64.3 -2.63% 0.77 🇵🇱 dycha 18-31 52.4 -4.09% 0.65 🇵🇱 mASKED 16-31 48.7 -6.86% 0.59 HLTV Match Page MAP 1: Nuke Team CT T Total 🇪🇺 NAVI 8 5 13 T CT Toobisie 4 3 7 Team K-D ADR Swing Rating 🇪🇺 NAVI 1.31 🇷🇴 iM 23-11 130.4 +11.46% 2.22 🇽🇰 makazze 19-12 94.3 +4.15% 1.63 🇺🇦 b1t 15-13 69.3 +1.41% ",
+      "published": "2026-10-30T12:23:22.000Z"
+    },
+    {
       "alertedAt": "2026-10-30T05:35:17.983Z",
       "level": "possible",
       "scene": "CS2",
