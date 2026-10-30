@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-30T05:35:17.983Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "A Chinese ZywOo fan on the “485” controversy in Perfect World’s app",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj70g4/a_chinese_zywoo_fan_on_the_485_controversy_in/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7.5,
+      "why": [
+        "allegations*",
+        "controversy",
+        "official*",
+        "zywoo",
+        "reddit only"
+      ],
+      "summary": "I’m a Chinese ZywOo fan, and honestly, I’ve had enough. I usually ignore insults and personal attacks from extreme fans of rival players and teams. In a community this large, there will always be people like that, and I can’t argue with all of them. But I expect better from Perfect World, a company with a central role in Chinese Counter-Strike. Seeing people associated with its editorial work take part in this kind of abuse disgusts me. There are also allegations that editors used their access to insert insults like these into the official esports community and mock ZywOo right there on the platform. Fans and players deserve an explanation. Some of you may remember the post explaining flameZ’s Chinese “Intel engineer” nickname . The Chinese CS community comes up with memes that are absurd, creative, and hilarious. But the language barrier can also hide cruel personal abuse from international fans. Recently, Chinese fans noticed the number 485 on Perfect World’s esports app and questioned whether it was a coded insult aimed at ZywOo. Here’s what the number means, what the screenshots show, and what remains unclear. What does “485” mean in this context? Read the digits separately in Mandarin: 4 — 四, sì , resembling 死, sǐ , meaning “death” or “dead.” 8 — 八, bā , resembling 爸, bà , meaning “dad.” 5 — 五, wǔ , used here to approximate the “woo” in ZywOo. Together, this becomes “死爸woo” : roughly, “dead-dad-woo,” a degrading nickname that makes a player’s father and family circumstan",
+      "published": "2026-10-30T05:30:28.000Z"
+    },
+    {
       "alertedAt": "2026-10-29T23:40:16.884Z",
       "level": "possible",
       "scene": "CS2",
