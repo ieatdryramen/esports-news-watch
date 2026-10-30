@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T08:56:06.303Z",
+  "generatedAt": "2026-10-30T09:55:15.792Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -45,18 +45,6 @@
             "navi",
             "vitality",
             "pgl"
-          ]
-        },
-        {
-          "title": "cmtry expected to miss Singapore Major for Astralis after FUT's quarter-final exit in Bucharest",
-          "url": "https://www.hltv.org/news/45850/cmtry-expected-to-miss-singapore-major-for-astralis-after-futs-quarter-final-exit-in-bucharest",
-          "source": "HLTV news",
-          "published": "2026-10-29T11:19:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "stand-in*",
-            "astralis"
           ]
         },
         {
@@ -148,6 +136,17 @@
           "why": [
             "pgl*"
           ]
+        },
+        {
+          "title": "B1ad3: \"Trust the process\"",
+          "url": "https://www.hltv.org/news/45853/b1ad3-trust-the-process",
+          "source": "HLTV news",
+          "published": "2026-10-29T16:42:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "navi*"
+          ]
         }
       ]
     },
@@ -225,6 +224,17 @@
           ]
         },
         {
+          "title": "update predict",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjanr5/update_predict/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T09:24:40.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "ESL One Munich 2027 brings 16 Dota 2 teams to BMW Park for $1M",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2JURmJaMmF3dWpHSVlnZFhrV0xDUkpYUmVzYkNubHV0YzZFNldqR3AzbDRCekczUWFRUDZEc3FDcjV0cTZzVDh0cFIxcElyUG1MaUJBSmswTTcyR0gwQzAxWjhSRW4tMGVnUVV2NHY3WFNSOV9ua2VJSTVhRGo2b2FoWlZscDNyY3lvb1I1X2UyUWY5VE8zS0k5VnBENGtNLW96SGFhNA?oc=5",
           "source": "Google News: Dota (Inven Global)",
@@ -247,15 +257,6 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXNfNVRsZE1KVVd0aVZVdklEMXZibExLZkVrN2NwZ1NoZW54TzgtQ215V1RoS1FYSXlIZFNnXzV4ZU0zMmJ1bXhrV011THR1WTg2MEE4LXhZb3JJY2lMZnNsY3FnNlYySHo4eFNFcF9hYUw2UVVNLXVsZnFJMktiQUpiYldKNUktTVEtLWVR?oc=5",
           "source": "Google News: Dota (Khel Now)",
           "published": "2026-10-29T10:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-10-29T09:11:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -298,6 +299,37 @@
           "level": null,
           "why": [
             "evo"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Warcraft III",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "ColorFul is negotiating with Happy about participating in the $27,500 AoW Cup - \"There are difficulties\"",
+          "url": "https://www.reddit.com/r/WC3/comments/1xjaqo5/colorful_is_negotiating_with_happy_about/",
+          "source": "r/WC3",
+          "published": "2026-10-30T09:29:43.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "happy",
+            "colorful"
+          ]
+        },
+        {
+          "title": "ColorFul: \"Why would I pay money to W3C?\" — Ancient of Wonders Cup to use KK or Battle.net",
+          "url": "https://www.reddit.com/r/WC3/comments/1xjaq0z/colorful_why_would_i_pay_money_to_w3c_ancient_of/",
+          "source": "r/WC3",
+          "published": "2026-10-30T09:28:36.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "confirmed*",
+            "colorful",
+            "w3champions*"
           ]
         }
       ]
@@ -378,7 +410,6 @@
     "Classic Tetris",
     "Brood War",
     "Trackmania",
-    "Warcraft III",
     "Quake",
     "Halo"
   ]
