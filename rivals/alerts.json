@@ -1,3 +1,22 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "alertedAt": "2026-10-30T11:40:22.879Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals' Latest Update Is Now Live With Night Of Illusions Event & More - Full Patch Notes Listed",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2J2SmxIWDF3OFBNN1FUMkRlVC1UZ1FJNEMxQ1hwSFd3emF5Uk5jRGFqUW0waU5MMjh4dDR1MlBSNGIwaXN1WEhNVEt3dTVkdlVGQWduMjVhaEtsS1pBaXNMQlVyN09CUFJBTV91ZENFRlVoZjB0Zmx0TkprTDdsaXZmQXZNNGo1X0NldWd3c1hhWU1vVTh0Y1gxRjlrTkcxc3QwWWNHUUJHYWdzdnRyRlB3VzVibDM1a3plSGJ6ZzgzZw?oc=5",
+      "source": "Google News: Rivals patches (PlayStation Universe)",
+      "outlets": [
+        "PlayStation Universe"
+      ],
+      "score": 5,
+      "why": [
+        "update",
+        "patch notes"
+      ],
+      "summary": "",
+      "published": "2026-10-30T11:31:54.000Z"
+    }
+  ]
 }
