@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T17:50:20.535Z",
+  "generatedAt": "2026-10-30T18:45:21.344Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "FUT/Astralis/Vitality roster for major problems",
@@ -23,19 +23,31 @@
           ]
         },
         {
-          "title": "Nemiga vs Vitality / PGL Masters Bucharest 2026 - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjg4rn/nemiga_vs_vitality_pgl_masters_bucharest_2026/",
+          "title": "MOUZ vs FURIA / PGL Masters Bucharest 2026 - Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjme92/mouz_vs_furia_pgl_masters_bucharest_2026/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-30T13:59:50.000Z",
+          "published": "2026-10-30T17:53:57.000Z",
           "score": 6.5,
           "level": "possible",
           "why": [
             "roster*",
             "grand final*",
             "official*",
-            "zywoo*",
-            "ropz*",
-            "vitality"
+            "mouz",
+            "furia",
+            "pgl"
+          ]
+        },
+        {
+          "title": "FURIA beat MOUZ en route to Bucharest final",
+          "url": "https://www.hltv.org/news/45863/furia-beat-mouz-en-route-to-bucharest-final",
+          "source": "HLTV news",
+          "published": "2026-10-30T18:05:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz",
+            "furia"
           ]
         },
         {
@@ -77,6 +89,28 @@
           ]
         },
         {
+          "title": "PGL Masters Bucharest semi-finals as they happened",
+          "url": "https://www.hltv.org/news/45859/pgl-masters-bucharest-semi-finals-as-they-happened",
+          "source": "HLTV news",
+          "published": "2026-10-30T17:54:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-30T17:52:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Third BLAST Premier Open heads to the United States in 2027",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjl8k1/third_blast_premier_open_heads_to_the_united/",
           "source": "r/GlobalOffensive",
@@ -111,39 +145,6 @@
           ]
         },
         {
-          "title": "Live updates from PGL Masters Bucharest semi-finals",
-          "url": "https://www.hltv.org/news/45859/live-updates-from-pgl-masters-bucharest-semi-finals",
-          "source": "HLTV news",
-          "published": "2026-10-30T11:58:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-29T18:33:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Masters Bucharest quarter-finals as they happened",
-          "url": "https://www.hltv.org/news/45847/pgl-masters-bucharest-quarter-finals-as-they-happened",
-          "source": "HLTV news",
-          "published": "2026-10-29T17:56:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "ZywOo shows how to punish the Suicide boost with a mid-door wallbang",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjm5jl/zywoo_shows_how_to_punish_the_suicide_boost_with/",
           "source": "r/GlobalOffensive",
@@ -158,7 +159,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
@@ -185,6 +186,17 @@
           ]
         },
         {
+          "title": "[Spoilers] have been eliminated from PARI Universe",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjmm14/spoilers_have_been_eliminated_from_pari_universe/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T18:02:09.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "eliminated"
+          ]
+        },
+        {
           "title": "I just picked it because I wanted to ban him",
           "url": "https://www.reddit.com/r/DotA2/comments/1xjg3rx/i_just_picked_it_because_i_wanted_to_ban_him/",
           "source": "r/DotA2",
@@ -193,6 +205,28 @@
           "level": null,
           "why": [
             "ban"
+          ]
+        },
+        {
+          "title": "Timado stands-in for miCke in the match against Team Spirit (Lower Bracket)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjmzmj/timado_standsin_for_micke_in_the_match_against/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T18:16:07.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "New PlayTime Roster",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjmplp/new_playtime_roster/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T18:05:45.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
           ]
         },
         {
@@ -268,6 +302,45 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-10-30T11:57:50.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
+          "source": "Google News: Tekken (Yahoo News Singapore)",
+          "published": "2026-10-30T12:38:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
+          "title": "Noticed people loving the last one so much, here's another!",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xjkhtg/noticed_people_loving_the_last_one_so_much_heres/",
+          "source": "r/Tekken",
+          "published": "2026-10-30T16:44:35.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "the last"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 2,
       "stories": [
@@ -297,78 +370,14 @@
       ]
     },
     {
-      "scene": "Trackmania",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "2026-11-01 - Casual of the Week - 074 - Gappy Tech (previously postponed)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xjf6er/20261101_casual_of_the_week_074_gappy_tech/",
-          "source": "r/TrackMania",
-          "published": "2026-10-30T13:19:17.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "postponed",
-            "scrapie*"
-          ]
-        },
-        {
-          "title": "Tmuf unsyncing official records?",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xjjb4a/tmuf_unsyncing_official_records/",
-          "source": "r/TrackMania",
-          "published": "2026-10-30T16:01:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "official"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
-          "source": "Google News: Street Fighter (Yahoo News Singapore)",
-          "published": "2026-10-30T12:38:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
-        },
-        {
-          "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
-          "source": "Google News: Street Fighter",
-          "published": "2026-10-30T15:57:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tournament in Sunnyvale usf4",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xjeknz/tournament_in_sunnyvale_usf4/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-30T12:53:35.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
       "storyCount": 3,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
-          "source": "Google News: Legacy FGC (Yahoo News Singapore)",
-          "published": "2026-10-30T12:38:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0NwWFN2bTFNcEhGUVoyWXRIbFVWcTZLSlJaNFRMTThYQmRKVDlnaVc5UlZEdmVIQ09sSEdsS21KUXB3ckZvamlsUU1fTEdKMm1neld0dzY1TDdvUVVnVk9TNk9KLUlyWnVmTmZaS3VOakhhWVFXUVgwNnhuTlhmVTdSUU1SbHJKTWhTYm1taFZTcW1heEhPLXZxWElDU0FUM25XQ2wzM1BEUEJrTjVyTg?oc=5",
+          "source": "Google News: Legacy FGC (The Straits Times)",
+          "published": "2026-10-30T12:38:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -396,13 +405,13 @@
       ]
     },
     {
-      "scene": "Tekken",
+      "scene": "Street Fighter",
       "storyCount": 2,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
-          "source": "Google News: Tekken (Yahoo News Singapore)",
+          "source": "Google News: Street Fighter (Yahoo News Singapore)",
           "published": "2026-10-30T12:38:45.000Z",
           "score": 3,
           "level": null,
@@ -411,15 +420,13 @@
           ]
         },
         {
-          "title": "Noticed people loving the last one so much, here's another!",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xjkhtg/noticed_people_loving_the_last_one_so_much_heres/",
-          "source": "r/Tekken",
-          "published": "2026-10-30T16:44:35.000Z",
-          "score": 2,
+          "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
+          "source": "Google News: Street Fighter",
+          "published": "2026-10-30T15:57:58.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "the last"
-          ]
+          "why": []
         }
       ]
     },
@@ -437,6 +444,23 @@
           "why": [
             "history*",
             "official*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Tmuf unsyncing official records?",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xjjb4a/tmuf_unsyncing_official_records/",
+          "source": "r/TrackMania",
+          "published": "2026-10-30T16:01:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "official"
           ]
         }
       ]
