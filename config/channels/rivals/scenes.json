@@ -1,0 +1,45 @@
+{
+  "_comment": "Rivals Report scenes (separate from BBN's config/scenes.json). terms = what makes a story about the game; names = teams, players, events and heroes that make it bigger.",
+  "rivals": {
+    "label": "Marvel Rivals",
+    "terms": [
+      "marvel rivals",
+      "rivals ignite",
+      "marvel rivals ignite",
+      "marvel rivals championship",
+      "mrc",
+      "netease games"
+    ],
+    "names": [
+      "mid-season finals",
+      "grand finals",
+      "mrc",
+      "partner team",
+      "navi",
+      "natus vincere",
+      "team heretics",
+      "virtus.pro",
+      "liquid",
+      "team liquid",
+      "liquid citadel",
+      "sentinels",
+      "100 thieves",
+      "gen.g",
+      "reject",
+      "fury",
+      "kanga",
+      "vulcan",
+      "fyr strays",
+      "pulsar",
+      "zero tenacity",
+      "crazy raccoon",
+      "rad esports",
+      "oug",
+      "al qadsiah",
+      "ac.e",
+      "twisted minds",
+      "guangguang"
+    ],
+    "strictGoogle": true
+  }
+}

@@ -21,7 +21,7 @@ permissions:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v7
 
@@ -70,6 +70,63 @@ jobs:
 
       - name: Publish alerts feed
         if: inputs.mode != 'check'
+        run: .github/scripts/publish-feed.sh
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      # ---- Other channels (Rivals Report, Tag Assist). Separate config, state and feed folders;
+      # they run after BBN's feed is published and can't fail BBN's run.
+      - name: Restore channel memory
+        if: inputs.mode != 'check'
+        continue-on-error: true
+        uses: actions/cache/restore@v6
+        with:
+          path: .cstate
+          key: channel-state-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: channel-state-
+
+      - name: Rivals Report watch
+        if: always()
+        continue-on-error: true
+        timeout-minutes: 2
+        run: node src/index.js ${{ inputs.mode == 'check' && '--check' || '' }}
+        env:
+          CONFIG_DIR: config/channels/rivals
+          STATE_PATH: .cstate/rivals/state.json
+          FEED_DIR: .feed/rivals
+          WRITE_HEALTH: '1'
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          RUNDOWN_TIMEZONE: America/New_York
+          RUNDOWN_POST_HOURS: '99'
+
+      - name: Tag Assist watch
+        if: always()
+        continue-on-error: true
+        timeout-minutes: 2
+        run: node src/index.js ${{ inputs.mode == 'check' && '--check' || '' }}
+        env:
+          CONFIG_DIR: config/channels/tokon
+          STATE_PATH: .cstate/tokon/state.json
+          FEED_DIR: .feed/tokon
+          WRITE_HEALTH: '1'
+          STARTGG_TOKEN: ${{ secrets.STARTGG_TOKEN }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          RUNDOWN_TIMEZONE: America/New_York
+          RUNDOWN_POST_HOURS: '99'
+
+      - name: Save channel memory
+        if: always() && inputs.mode != 'check'
+        continue-on-error: true
+        uses: actions/cache/save@v6
+        with:
+          path: .cstate
+          key: channel-state-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Publish channel feeds
+        if: always() && inputs.mode != 'check'
+        continue-on-error: true
         run: .github/scripts/publish-feed.sh
         env:
           GH_TOKEN: ${{ github.token }}

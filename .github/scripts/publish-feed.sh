@@ -19,6 +19,8 @@ for attempt in 1 2 3; do
     printf '# feed\n\nMachine-readable output of the watcher: `alerts.json` (alerts from the last 48 hours) and `rundown.json` (the latest daily rundown).\n' > README.md
   fi
   cp "$SRC"/*.json .
+  # channel feeds live in subfolders (rivals/, tokon/)
+  for d in "$SRC"/*/; do [ -d "$d" ] && mkdir -p "$(basename "$d")" && cp "$d"*.json "$(basename "$d")"/ 2>/dev/null || true; done
   git add -A
   if git diff --cached --quiet; then
     echo "feed unchanged"

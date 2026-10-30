@@ -1,0 +1,14 @@
+{
+  "_comment": "Tag Assist start.gg results. Name is matched as whole words, so 'Fighting Souls' finds MARVEL T\u014dkon: Fighting Souls whatever start.gg does with the macron.",
+  "everyMinutes": 30,
+  "lookBackDays": 3,
+  "lookAheadDays": 7,
+  "games": [
+    {
+      "name": "Fighting Souls",
+      "scene": "tokon",
+      "minEntrants": 48,
+      "majorEntrants": 400
+    }
+  ]
+}

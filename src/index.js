@@ -15,16 +15,18 @@ import { loadState, saveState } from './state.js';
 import { editAlert, sendAlert, sendEscalation, sendNotice, sendPayload } from './discord.js';
 import { applyCorroboration, corroboratingOutlets, findAlertFor, outletOf } from './developing.js';
 import { buildRundown, rundownPayloads } from './rundown.js';
-import { writeAlertsFeed, writeResultsFeed, writeRundownFeed } from './feed.js';
+import { writeAlertsFeed, writeHealthFeed, writeResultsFeed, writeRundownFeed } from './feed.js';
 import { fetchResults, resultLine, resultsEmbed } from './startgg.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const STATE_PATH = process.env.STATE_PATH || join(ROOT, '.state', 'state.json');
 const FEED_DIR = process.env.FEED_DIR || join(ROOT, '.feed');
+// Other channels run the same watcher with their own config folder (config/channels/<name>).
+const CONFIG_DIR = process.env.CONFIG_DIR ? join(ROOT, process.env.CONFIG_DIR) : join(ROOT, 'config');
 const DOWN_AFTER_FAILURES = 12; // about an hour at a 5-minute schedule
 
 async function loadJson(name) {
-  return JSON.parse(await readFile(join(ROOT, 'config', name), 'utf8'));
+  return JSON.parse(await readFile(join(CONFIG_DIR, name), 'utf8'));
 }
 
 function ageLabel(date, now) {
@@ -363,6 +365,8 @@ async function run() {
       const extra = state.startgg.last ? [resultsEmbed(state.startgg.last.completed, sceneLabels, now)].filter(Boolean) : [];
       const posted = await rundownStep({ results, scenes, scoring, webhook: dryRun ? null : webhook, post: postNow, extraEmbeds: extra });
       state.rundown.lastAt = now;
+      // hourly with the rundown, so the feed branch doesn't get a commit every run
+      if (process.env.WRITE_HEALTH === '1') await writeHealthFeed(FEED_DIR, results, now);
       if (posted) state.rundown.postedKey = key;
     } catch (err) {
       console.error(`rundown failed: ${err.message}`);

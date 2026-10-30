@@ -54,3 +54,14 @@ Run the check locally any time with `npm install && npm run check`.
 - Logs of public repos are public. The bot only logs public headlines; secrets are never printed.
 
 MIT licensed.
+
+## Other channels (Rivals Report, Tag Assist)
+
+The same watcher also runs for two more channels, each with its own config folder, memory and feed folder, so BBN's files never change:
+
+| Channel | Config | Feed files (on the `feed` branch) |
+|---|---|---|
+| Rivals Report (Marvel Rivals) | `config/channels/rivals/` | `rivals/alerts.json`, `rivals/rundown.json`, `rivals/health.json` |
+| Tag Assist (Marvel Tōkon) | `config/channels/tokon/` | `tokon/alerts.json`, `tokon/rundown.json`, `tokon/results.json` (start.gg), `tokon/health.json` |
+
+They run inside the `watch` workflow after BBN's feed is published, with `continue-on-error`, and never post to Discord. `health.json` (hourly) lists every source and whether it returned data. Test one locally with `CONFIG_DIR=config/channels/rivals node src/index.js --check`.

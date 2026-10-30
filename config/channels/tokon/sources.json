@@ -1,0 +1,106 @@
+{
+  "_comment": "Tag Assist sources. EventHubs, Dot Esports and Dashfight block feed readers, so they come in through Google News site: searches. Dustloop is a wiki (tech/frame data), checked by the drafter directly. start.gg results are in startgg.json. Reddit is leads only.",
+  "sources": [
+    {
+      "name": "Steam: Marvel Tokon (official news + patch notes)",
+      "type": "rss",
+      "url": "https://store.steampowered.com/feeds/news/app/3787240/",
+      "scene": "tokon",
+      "kind": "news"
+    },
+    {
+      "name": "Dexerto",
+      "type": "rss",
+      "url": "https://www.dexerto.com/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "esports.gg",
+      "type": "rss",
+      "url": "https://esports.gg/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Esports News UK",
+      "type": "rss",
+      "url": "https://esports-news.co.uk/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Fragster",
+      "type": "rss",
+      "url": "https://www.fragster.com/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Insider Gaming",
+      "type": "rss",
+      "url": "https://insider-gaming.com/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Shacknews",
+      "type": "rss",
+      "url": "https://www.shacknews.com/feed/rss",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Push Square",
+      "type": "rss",
+      "url": "https://www.pushsquare.com/feeds/latest",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Google News: Tokon",
+      "type": "google",
+      "query": "\"Marvel Tokon\" OR \"Marvel Tōkon\" OR \"Fighting Souls\"",
+      "scene": "tokon",
+      "kind": "google"
+    },
+    {
+      "name": "Google News: Tokon competitive",
+      "type": "google",
+      "query": "Tokon tournament OR Evo OR \"Arc World Tour\" OR \"top 8\" OR results",
+      "scene": "tokon",
+      "kind": "google"
+    },
+    {
+      "name": "Google News: Tokon patches + DLC",
+      "type": "google",
+      "query": "Tokon patch OR \"patch notes\" OR DLC OR \"new character\" OR balance",
+      "scene": "tokon",
+      "kind": "google"
+    },
+    {
+      "name": "Google News: EventHubs/Dot/Dashfight",
+      "type": "google",
+      "query": "Tokon site:eventhubs.com OR site:dotesports.com OR site:dashfight.com",
+      "scene": "tokon",
+      "kind": "google"
+    },
+    {
+      "name": "r/MarvelTokon",
+      "type": "reddit",
+      "sub": "MarvelTokon",
+      "scene": "tokon",
+      "kind": "reddit"
+    },
+    {
+      "name": "r/Kappa",
+      "type": "reddit",
+      "sub": "Kappa",
+      "scene": "auto",
+      "kind": "reddit"
+    }
+  ],
+  "bluesky": {
+    "accounts": []
+  }
+}

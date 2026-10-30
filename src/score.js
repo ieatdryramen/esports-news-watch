@@ -9,7 +9,9 @@ export function detectScene(item, scenes) {
     // Google News searches drift off-topic, so require a scene term or name in the story.
     if (item.kind === 'google') {
       const text = `${item.title} ${item.summary}`;
-      if (!matchTerms(text, [...scene.terms, ...(scene.names || [])]).length) return null;
+      // strictGoogle (channel configs): team names like NAVI are shared with other games, so only terms count here.
+      const words = scene.strictGoogle ? scene.terms : [...scene.terms, ...(scene.names || [])];
+      if (!matchTerms(text, words).length) return null;
     }
     return item.scene;
   }

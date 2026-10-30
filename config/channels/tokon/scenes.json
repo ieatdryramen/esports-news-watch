@@ -1,0 +1,39 @@
+{
+  "_comment": "Tag Assist scenes (separate from BBN's config/scenes.json).",
+  "tokon": {
+    "label": "Marvel Tokon",
+    "terms": [
+      "marvel tokon",
+      "marvel tōkon",
+      "tokon",
+      "tōkon",
+      "fighting souls",
+      "marvel tokon: fighting souls",
+      "marvel tōkon: fighting souls"
+    ],
+    "names": [
+      "evo",
+      "evo france",
+      "evo japan",
+      "evo brazil",
+      "evo 2027",
+      "arc world tour",
+      "awt",
+      "combo breaker",
+      "ufa",
+      "ultimate fighting arena",
+      "frosty faustings",
+      "red bull kumite",
+      "sonicfox",
+      "supernoon",
+      "kayos",
+      "leffen",
+      "diaphone",
+      "go1",
+      "showoff",
+      "nychrisg",
+      "justin wong"
+    ],
+    "strictGoogle": true
+  }
+}

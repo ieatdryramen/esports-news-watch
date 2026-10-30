@@ -50,3 +50,14 @@ export async function writeResultsFeed(dir, results, now = Date.now()) {
   await mkdir(dir, { recursive: true });
   await writeFile(join(dir, 'results.json'), `${JSON.stringify(data, null, 2)}\n`);
 }
+
+// Per-source status (channel feeds only), so the script drafters can see a dead source.
+export async function writeHealthFeed(dir, results, now = Date.now()) {
+  const sources = results.map((r) => {
+    const newest = r.items.map((i) => i.published).filter(Boolean).sort((a, b) => b - a)[0];
+    return { name: r.name, ok: Boolean(r.ok), skipped: Boolean(r.skipped), items: r.items.length,
+      newest: newest ? newest.toISOString() : null, error: r.ok ? null : r.error || null };
+  });
+  await mkdir(dir, { recursive: true });
+  await writeFile(join(dir, 'health.json'), `${JSON.stringify({ generatedAt: new Date(now).toISOString(), sources }, null, 2)}\n`);
+}

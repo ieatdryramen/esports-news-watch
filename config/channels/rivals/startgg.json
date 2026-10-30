@@ -1,0 +1,7 @@
+{
+  "_comment": "Rivals has no start.gg circuit worth tracking; Ignite/MRC results come from news + Liquipedia.",
+  "everyMinutes": 30,
+  "lookBackDays": 3,
+  "lookAheadDays": 7,
+  "games": []
+}

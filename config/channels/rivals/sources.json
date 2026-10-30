@@ -1,0 +1,106 @@
+{
+  "_comment": "Rivals Report sources. Same format as config/sources.json. Dot Esports, Sheep Esports and Liquipedia block feed readers, so they come in through Google News site: searches. X can't be read without a paid API; the official accounts' news reaches Steam, the official site and these outlets. Reddit is leads only (never BREAKING alone).",
+  "sources": [
+    {
+      "name": "Steam: Marvel Rivals (official news + patch notes)",
+      "type": "rss",
+      "url": "https://store.steampowered.com/feeds/news/app/2767030/",
+      "scene": "rivals",
+      "kind": "news"
+    },
+    {
+      "name": "Dexerto",
+      "type": "rss",
+      "url": "https://www.dexerto.com/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "esports.gg",
+      "type": "rss",
+      "url": "https://esports.gg/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Esports News UK",
+      "type": "rss",
+      "url": "https://esports-news.co.uk/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Fragster",
+      "type": "rss",
+      "url": "https://www.fragster.com/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Insider Gaming",
+      "type": "rss",
+      "url": "https://insider-gaming.com/feed/",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Shacknews",
+      "type": "rss",
+      "url": "https://www.shacknews.com/feed/rss",
+      "scene": "auto",
+      "kind": "news"
+    },
+    {
+      "name": "Google News: Rivals esports",
+      "type": "google",
+      "query": "\"Marvel Rivals\" esports OR Ignite OR \"Marvel Rivals Championship\" OR MRC",
+      "scene": "rivals",
+      "kind": "google"
+    },
+    {
+      "name": "Google News: Rivals patches",
+      "type": "google",
+      "query": "\"Marvel Rivals\" patch OR balance OR season OR \"new hero\" OR hotfix",
+      "scene": "rivals",
+      "kind": "google"
+    },
+    {
+      "name": "Google News: Rivals rosters",
+      "type": "google",
+      "query": "\"Marvel Rivals\" roster OR signs OR transfer OR benched OR \"parts ways\"",
+      "scene": "rivals",
+      "kind": "google"
+    },
+    {
+      "name": "Google News: Sheep/Dot/Liquipedia",
+      "type": "google",
+      "query": "\"Marvel Rivals\" site:sheepesports.com OR site:dotesports.com OR site:liquipedia.net",
+      "scene": "rivals",
+      "kind": "google"
+    },
+    {
+      "name": "r/marvelrivals",
+      "type": "reddit",
+      "sub": "marvelrivals",
+      "scene": "rivals",
+      "kind": "reddit"
+    },
+    {
+      "name": "r/MarvelRivalsEsports",
+      "type": "reddit",
+      "sub": "MarvelRivalsEsports",
+      "scene": "rivals",
+      "kind": "reddit"
+    },
+    {
+      "name": "r/MarvelRivalsComp",
+      "type": "reddit",
+      "sub": "MarvelRivalsComp",
+      "scene": "rivals",
+      "kind": "reddit"
+    }
+  ],
+  "bluesky": {
+    "accounts": []
+  }
+}
