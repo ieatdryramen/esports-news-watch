@@ -1,6 +1,31 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-30T14:00:25.178Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Nemiga vs Vitality / PGL Masters Bucharest 2026 - Semi-Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjg4rn/nemiga_vs_vitality_pgl_masters_bucharest_2026/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6.5,
+      "why": [
+        "roster*",
+        "grand final*",
+        "official*",
+        "zywoo*",
+        "ropz*",
+        "vitality",
+        "mouz*",
+        "furia*",
+        "pgl"
+      ],
+      "summary": "Nemiga Gaming 🇷🇺 2-0 🇪🇺 Team Vitality Cache: 13-8 Dust2: 13-11 Mirage 🇷🇺 Nemiga Gaming advance to Grand Final and will face 🇧🇷 FURIA or 🇪🇺 MOUZ Predicted VRS Impact Team Rank Diff Total 🇷🇺 Nemiga #12 → #10 +56 pts 1645 pts 🇪🇺 Vitality #1 → #2 -27 pts 1945 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information PGL Masters Bucharest 2026 | 🇷🇴 Bucharest ($1.25m LAN) | Liquipedia | HLTV Streams | YouTube | Twitch A | Twitch B Team Information 🇷🇺 Nemiga Gaming | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | YouTube | Twitch | Steam Roster : 🇰🇿 khaN ⊕ | 🇰🇿 SYPH0 | 🇷🇺 KaiR0N- | 🇷🇺 robo ♛ | 🇷🇺 Xant3r Coach : 🇧🇾 boX 🇪🇺 Team Vitality | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | TikTok | Weibo | YouTube | Twitch | Bilibili Roster : 🇫🇷 apEX ♛ | 🇫🇷 ZywOo ⊕ | 🇮🇱 flameZ | 🇬🇧 mezii | 🇪🇪 ropz Coach : 🇫🇷 XTQZZZ Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes Nemiga MAP Vitality X inferno ancient X ✔ cache dust2 ✔ anubis X X nuke mirage Full Match Stats Team K-D ADR Swing Rating 🇷🇺 Nemiga 1.15 🇷🇺 robo ♛ 46-27 101.0 +2.30% 1.52 🇰🇿 syph0 27-23 69.5 +1.30% 1.17 🇷🇺 KaiR0N- 30-32 82.4 +0.22% 1.12 🇰🇿 khaN ⊕ 28-19 56.2 +1.54% 1.04 🇷🇺 Xant3r 31-32 74.2 -2.35% 0.92 🇪🇺 Vitality 0.95 🇫🇷 ZywOo ⊕ 31-29 75.",
+      "published": "2026-10-30T13:59:50.000Z"
+    },
+    {
       "alertedAt": "2026-10-30T12:25:18.196Z",
       "level": "possible",
       "scene": "CS2",
