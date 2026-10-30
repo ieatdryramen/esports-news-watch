@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T15:55:27.678Z",
+  "generatedAt": "2026-10-30T16:55:17.636Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 17,
       "stories": [
         {
           "title": "FUT/Astralis/Vitality roster for major problems",
@@ -52,6 +52,18 @@
             "b1t*",
             "navi*",
             "natus vincere"
+          ]
+        },
+        {
+          "title": "Yekindar Vac moment vs. Mouz",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjjwc1/yekindar_vac_moment_vs_mouz/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T16:22:28.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "vac",
+            "mouz"
           ]
         },
         {
@@ -116,17 +128,6 @@
           ]
         },
         {
-          "title": "Updated VRS race cheat sheet (credit to @MischiefCs2 on twitter)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjcx5u/updated_vrs_race_cheat_sheet_credit_to/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T11:34:53.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cheat"
-          ]
-        },
-        {
           "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -149,21 +150,21 @@
           ]
         },
         {
-          "title": "CS2 LAR Weapon Leak: Stats, Price, Damage and More",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWC1PWlRULU9WSHBEeFM2VTJtbWZzVks1S3FHQXNsMzBydGFjbGU0ZHRLRVBHdnh0NFFLMWV1dmdrVjhhSWtNbFFnUEpDQjhVTEZxRTZwU25YV0c2SHhHTEJYMW5LXzcxTnozLS1oeGFOaHZxSHk0?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-10-29T16:53:29.000Z",
-          "score": 3,
+          "title": "The round where everything falls for Vitality.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjgrk2/the_round_where_everything_falls_for_vitality/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T14:23:54.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "leak"
+            "vitality"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
@@ -213,6 +214,17 @@
           ]
         },
         {
+          "title": "Yatoro",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjjztu/yatoro/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T16:26:02.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "yatoro"
+          ]
+        },
+        {
           "title": "OG - Liquid, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uU1ZESXNyTHhiMzY3N21zaWhoeXVHckhpcEtJeW5PaEJnb0hQY2hvQzdfMDYxUXZnR05jZUpPOXhfT1RXVWg0OFR1ZmZjWHhsdVlROWtmZGxKR0tYcmxub3JZZktQZXkyZHhZSUtHTEhiSGs5QUh3bkdGZDkyckk?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -223,6 +235,15 @@
             "og",
             "-stream"
           ]
+        },
+        {
+          "title": "New Hero Idea: Friendly Fire, The Hero",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjki16/new_hero_idea_friendly_fire_the_hero/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T16:44:49.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "Waiting for the patch got me like",
@@ -247,8 +268,26 @@
       ]
     },
     {
-      "scene": "CoD",
+      "scene": "Melee",
       "storyCount": 1,
+      "stories": [
+        {
+          "title": "Why is everyone in silver cheating?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xjjh0g/why_is_everyone_in_silver_cheating/",
+          "source": "r/SSBM",
+          "published": "2026-10-30T16:06:46.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "cheating"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
       "stories": [
         {
           "title": "NaDeSHoT turns back the Clock and 1v3s Repullze, Simp & aBeZy",
@@ -261,12 +300,23 @@
             "simp",
             "abezy"
           ]
+        },
+        {
+          "title": "Riyadh Falcons announce their roster for Challengers (2027)",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjjbni/riyadh_falcons_announce_their_roster_for/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-30T16:01:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
         }
       ]
     },
     {
       "scene": "Trackmania",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "2026-11-01 - Casual of the Week - 074 - Gappy Tech (previously postponed)",
@@ -278,6 +328,91 @@
           "why": [
             "postponed",
             "scrapie*"
+          ]
+        },
+        {
+          "title": "Tmuf unsyncing official records?",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xjjb4a/tmuf_unsyncing_official_records/",
+          "source": "r/TrackMania",
+          "published": "2026-10-30T16:01:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
+          "source": "Google News: Street Fighter (Yahoo News Singapore)",
+          "published": "2026-10-30T12:38:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
+          "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
+          "source": "Google News: Street Fighter",
+          "published": "2026-10-30T15:57:58.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tournament in Sunnyvale usf4",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xjeknz/tournament_in_sunnyvale_usf4/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-30T12:53:35.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
+          "source": "Google News: Tekken (Yahoo News Singapore)",
+          "published": "2026-10-30T12:38:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
+          "title": "Noticed people loving the last one so much, here's another!",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xjkhtg/noticed_people_loving_the_last_one_so_much_heres/",
+          "source": "r/Tekken",
+          "published": "2026-10-30T16:44:35.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "the last"
+          ]
+        },
+        {
+          "title": "why mokujin can never return",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xje1j3/why_mokujin_can_never_return/",
+          "source": "r/Tekken",
+          "published": "2026-10-30T12:29:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "return"
           ]
         }
       ]
@@ -301,7 +436,7 @@
           "title": "Virtua Fighter Crossroads Showcases Lionel Rafale in New Trailer",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlF2aXdHV1ZSSHAyLVVQSjZ0YVQwYTFkczZvbnBwa3oyWGJ6VXVYQUYzSlg1MUctUGtMUUlhMDZRMzBacXZyUEdyeW02S0JUWmotOHI5T21RNWd2UkVFZnVRSG9OTFhJSnlfeC1RR2dFOXJ1WVlDcU0xdXhhQ1kwUjZoOF95N204UDVvNlFWVkI?oc=5",
           "source": "Google News: Legacy FGC (GamingBolt)",
-          "published": "2026-10-30T15:30:09.000Z",
+          "published": "2026-10-30T15:29:18.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -318,62 +453,8 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0NwWFN2bTFNcEhGUVoyWXRIbFVWcTZLSlJaNFRMTThYQmRKVDlnaVc5UlZEdmVIQ09sSEdsS21KUXB3ckZvamlsUU1fTEdKMm1neld0dzY1TDdvUVVnVk9TNk9KLUlyWnVmTmZaS3VOakhhWVFXUVgwNnhuTlhmVTdSUU1SbHJKTWhTYm1taFZTcW1heEhPLXZxWElDU0FUM25XQ2wzM1BEUEJrTjVyTg?oc=5",
-          "source": "Google News: Street Fighter (The Straits Times)",
-          "published": "2026-10-30T12:38:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
-        },
-        {
-          "title": "Tournament in Sunnyvale usf4",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xjeknz/tournament_in_sunnyvale_usf4/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-30T12:53:35.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
-          "source": "Google News: Tekken (Yahoo News Singapore)",
-          "published": "2026-10-30T12:38:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
-        },
-        {
-          "title": "why mokujin can never return",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xje1j3/why_mokujin_can_never_return/",
-          "source": "r/Tekken",
-          "published": "2026-10-30T12:29:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "return"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Since i heard about it i always thought making a Phosphoru Rush was beneath me... I just won a game with it and now i dont think i can go back",
@@ -384,17 +465,6 @@
           "level": null,
           "why": [
             "won"
-          ]
-        },
-        {
-          "title": "Deer lure has been made easier. New update",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xipfaf/deer_lure_has_been_made_easier_new_update/",
-          "source": "r/aoe2",
-          "published": "2026-10-29T16:52:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
@@ -410,7 +480,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
