@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-10-30T19:41:56.303Z",
+  "generatedAt": "2026-10-30T20:40:19.597Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 15,
       "stories": [
-        {
-          "title": "FUT/Astralis/Vitality roster for major problems",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjieu4/futastralisvitality_roster_for_major_problems/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T15:27:33.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "roster",
-            "won*",
-            "vitality",
-            "astralis",
-            "pgl*",
-            "reddit only"
-          ]
-        },
         {
           "title": "MOUZ vs FURIA / PGL Masters Bucharest 2026 - Semi-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjme92/mouz_vs_furia_pgl_masters_bucharest_2026/",
@@ -72,20 +56,6 @@
           "why": [
             "vac",
             "mouz"
-          ]
-        },
-        {
-          "title": "MIBR vs Eternal Fire / StarLadder Ranked Episode 5 - Consolidation Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjhkbr/mibr_vs_eternal_fire_starladder_ranked_episode_5/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T14:55:20.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "benched*",
-            "roster*",
-            "grand final*",
-            "official*"
           ]
         },
         {
@@ -155,12 +125,32 @@
           "why": [
             "iem"
           ]
+        },
+        {
+          "title": "ZywOo shows how to punish the Suicide boost with a mid-door wallbang",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjm5jl/zywoo_shows_how_to_punish_the_suicide_boost_with/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T17:45:02.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zywoo"
+          ]
+        },
+        {
+          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
+          "source": "Google News: CS2 (Донецька Обласна Державна адміністрація)",
+          "published": "2026-10-30T19:10:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
@@ -195,6 +185,17 @@
           "level": null,
           "why": [
             "eliminated"
+          ]
+        },
+        {
+          "title": "What are the best drafting masterclasses in the history of pro Dota?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjpz2y/what_are_the_best_drafting_masterclasses_in_the/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T20:09:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "history"
           ]
         },
         {
@@ -243,19 +244,28 @@
           ]
         },
         {
-          "title": "New Hero Idea: Friendly Fire, The Hero",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjki16/new_hero_idea_friendly_fire_the_hero/",
+          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
+          "source": "Google News: Dota (Донецька Обласна Державна адміністрація)",
+          "published": "2026-10-30T19:10:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "While waiting for patch, let's come up with some new objectives for our game",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjqjtw/while_waiting_for_patch_lets_come_up_with_some/",
           "source": "r/DotA2",
-          "published": "2026-10-30T16:44:49.000Z",
+          "published": "2026-10-30T20:31:49.000Z",
           "score": 0,
           "level": null,
           "why": []
         },
         {
-          "title": "Waiting for the patch got me like",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjgzmm/waiting_for_the_patch_got_me_like/",
+          "title": "New Hero Idea: Friendly Fire, The Hero",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjki16/new_hero_idea_friendly_fire_the_hero/",
           "source": "r/DotA2",
-          "published": "2026-10-30T14:32:28.000Z",
+          "published": "2026-10-30T16:44:49.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -275,7 +285,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Why is everyone in silver cheating?",
@@ -288,12 +298,28 @@
             "the last*",
             "cheating"
           ]
+        },
+        {
+          "title": "GOAT Character Players Poll RESULTS",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xjps20/goat_character_players_poll_results/",
+          "source": "r/SSBM",
+          "published": "2026-10-30T20:02:24.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "mang0*",
+            "hungrybox*",
+            "zain*",
+            "cody schwab*",
+            "jmook*",
+            "amsa*"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -327,6 +353,15 @@
           "why": [
             "the last"
           ]
+        },
+        {
+          "title": "Unknown (Tekken Tag Tournament)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xjpury/unknown_tekken_tag_tournament/",
+          "source": "r/Tekken",
+          "published": "2026-10-30T20:05:12.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -369,7 +404,7 @@
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -387,6 +422,15 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlF2aXdHV1ZSSHAyLVVQSjZ0YVQwYTFkczZvbnBwa3oyWGJ6VXVYQUYzSlg1MUctUGtMUUlhMDZRMzBacXZyUEdyeW02S0JUWmotOHI5T21RNWd2UkVFZnVRSG9OTFhJSnlfeC1RR2dFOXJ1WVlDcU0xdXhhQ1kwUjZoOF95N204UDVvNlFWVkI?oc=5",
           "source": "Google News: Legacy FGC (GamingBolt)",
           "published": "2026-10-30T15:29:18.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Face-Off: Mortal Kombat 1's Best Character",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
+          "source": "Google News: Legacy FGC (IGN)",
+          "published": "2026-10-30T07:34:04.000Z",
           "score": 1,
           "level": null,
           "why": []
