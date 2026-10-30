@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T20:40:19.597Z",
+  "generatedAt": "2026-10-30T21:00:39.118Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -20,6 +20,20 @@
             "mouz",
             "furia",
             "pgl"
+          ]
+        },
+        {
+          "title": "fnatic vs Eternal Fire / StarLadder Ranked Episode 5 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjqss9/fnatic_vs_eternal_fire_starladder_ranked_episode/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T20:41:55.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "grand final",
+            "official*"
           ]
         },
         {
@@ -44,18 +58,6 @@
           "why": [
             "vitality",
             "pgl"
-          ]
-        },
-        {
-          "title": "Yekindar Vac moment vs. Mouz",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjjwc1/yekindar_vac_moment_vs_mouz/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T16:22:28.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "vac",
-            "mouz"
           ]
         },
         {
@@ -150,7 +152,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
@@ -177,14 +179,36 @@
           ]
         },
         {
-          "title": "[Spoilers] have been eliminated from PARI Universe",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjmm14/spoilers_have_been_eliminated_from_pari_universe/",
+          "title": "[Spoiler] has been eliminated from PARI Universe",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjr16q/spoiler_has_been_eliminated_from_pari_universe/",
           "source": "r/DotA2",
-          "published": "2026-10-30T18:02:09.000Z",
+          "published": "2026-10-30T20:51:20.000Z",
           "score": 3,
           "level": null,
           "why": [
             "eliminated"
+          ]
+        },
+        {
+          "title": "GTA 6, Xbox’s New Direction, and OG’s Dota 2 Rebuild: What’s Shaping Gaming in 2026?",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdW54LUstb2pqeklaOERRbm1EM2hoVzQzMnRfcTRSYkJoNV9sY29fNFQtNkNac2xuMldYVVhzaGNXY0k2a3VZSmpFSVpXZ251ekNKV28ySHg5V29fUFN4R0VXTTM2UmN6bkZNRm00MElHa1hHYWRudU1kNG8yRVRxcmJZSXAwVTgtNGRBT3ljN3hTUDYwSkE?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-10-30T10:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "og"
+          ]
+        },
+        {
+          "title": "Team Liquid is the best team in the world*",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjqxuj/team_liquid_is_the_best_team_in_the_world/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T20:47:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "team liquid"
           ]
         },
         {
@@ -221,17 +245,6 @@
           ]
         },
         {
-          "title": "Yatoro",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjjztu/yatoro/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T16:26:02.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "yatoro"
-          ]
-        },
-        {
           "title": "OG - Liquid, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uU1ZESXNyTHhiMzY3N21zaWhoeXVHckhpcEtJeW5PaEJnb0hQY2hvQzdfMDYxUXZnR05jZUpPOXhfT1RXVWg0OFR1ZmZjWHhsdVlROWtmZGxKR0tYcmxub3JZZktQZXkyZHhZSUtHTEhiSGs5QUh3bkdGZDkyckk?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -244,13 +257,15 @@
           ]
         },
         {
-          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
-          "source": "Google News: Dota (Донецька Обласна Державна адміністрація)",
-          "published": "2026-10-30T19:10:11.000Z",
-          "score": 1,
+          "title": "I had a dream about patch 8.00",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjr1rt/i_had_a_dream_about_patch_800/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T20:51:58.000Z",
+          "score": 1.5,
           "level": null,
-          "why": []
+          "why": [
+            "removed*"
+          ]
         },
         {
           "title": "While waiting for patch, let's come up with some new objectives for our game",
@@ -269,57 +284,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - Hk, October 31, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzhsRXkzV25nUmJTRVhKb1NkOHNTQ3R3dVhrN19PTVFLTTltZWNTSWlxNUd6MHdyNEY1Vi1WR0pIWVd0Q0NmaWQxZUhvVUdJRDRqUTJyNG9jdElTUE0zbFRHVjNWWlJVcjZrS0x0X052LWpkTDFIYWpiY1ZSblY5UHRENHBoQ2N2X3Ztc0gzTG8wUXJVZFgwSnNKUkM?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-30T04:31:51.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Why is everyone in silver cheating?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xjjh0g/why_is_everyone_in_silver_cheating/",
-          "source": "r/SSBM",
-          "published": "2026-10-30T16:06:46.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "cheating"
-          ]
-        },
-        {
-          "title": "GOAT Character Players Poll RESULTS",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xjps20/goat_character_players_poll_results/",
-          "source": "r/SSBM",
-          "published": "2026-10-30T20:02:24.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "mang0*",
-            "hungrybox*",
-            "zain*",
-            "cody schwab*",
-            "jmook*",
-            "amsa*"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -344,17 +314,6 @@
           ]
         },
         {
-          "title": "Noticed people loving the last one so much, here's another!",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xjkhtg/noticed_people_loving_the_last_one_so_much_heres/",
-          "source": "r/Tekken",
-          "published": "2026-10-30T16:44:35.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "the last"
-          ]
-        },
-        {
           "title": "Unknown (Tekken Tag Tournament)",
           "url": "https://www.reddit.com/r/Tekken/comments/1xjpury/unknown_tekken_tag_tournament/",
           "source": "r/Tekken",
@@ -362,6 +321,28 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "GOAT Character Players Poll RESULTS",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xjps20/goat_character_players_poll_results/",
+          "source": "r/SSBM",
+          "published": "2026-10-30T20:02:24.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "mang0*",
+            "hungrybox*",
+            "zain*",
+            "cody schwab*",
+            "jmook*",
+            "amsa*"
+          ]
         }
       ]
     },
@@ -438,23 +419,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Riyadh Falcons announce their roster for Challengers (2027)",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjjbni/riyadh_falcons_announce_their_roster_for/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T16:01:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Halo",
       "storyCount": 1,
       "stories": [
@@ -471,30 +435,15 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Tmuf unsyncing official records?",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xjjb4a/tmuf_unsyncing_official_records/",
-          "source": "r/TrackMania",
-          "published": "2026-10-30T16:01:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "official"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
     "AoE2",
     "Classic Tetris",
     "Brood War",
+    "Trackmania",
     "Warcraft III",
+    "CoD",
     "Quake"
   ]
 }

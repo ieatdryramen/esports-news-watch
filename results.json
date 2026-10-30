@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T20:30:20.796Z",
+  "generatedAt": "2026-10-30T21:00:24.375Z",
   "source": "start.gg",
   "completed": [
     {
@@ -234,53 +234,6 @@
         {
           "placement": 7,
           "name": "EGO | Rajimi"
-        }
-      ]
-    },
-    {
-      "eventId": "1741172",
-      "scene": "legacyfgc",
-      "game": "Virtua Fighter 5",
-      "tournament": "CFG Tuesday Trials 264: Strive entoo Greatness!",
-      "event": "Virtua Fighter 5 R.E.V.O.",
-      "entrants": 19,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-27T23:00:00.000Z",
-      "endAt": "2026-10-28T03:59:00.000Z",
-      "url": "https://www.start.gg/tournament/cfg-tuesday-trials-264-strive-entoo-greatness/event/virtua-fighter-5-r-e-v-o",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Truly | Mangocopter"
-        },
-        {
-          "placement": 2,
-          "name": "Sente"
-        },
-        {
-          "placement": 3,
-          "name": "ULTRAFox<3 BFG | Mx. Up!"
-        },
-        {
-          "placement": 4,
-          "name": "TRULY | JSwish"
-        },
-        {
-          "placement": 5,
-          "name": "TRULY | OrientalXpress"
-        },
-        {
-          "placement": 5,
-          "name": "Suna"
-        },
-        {
-          "placement": 7,
-          "name": "TRULY | HitomiTanaka#1Fan"
-        },
-        {
-          "placement": 7,
-          "name": "YBAS | AtMyAxlLowest"
         }
       ]
     },
