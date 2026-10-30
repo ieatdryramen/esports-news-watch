@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T07:00:38.584Z",
+  "generatedAt": "2026-10-30T08:00:45.638Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 17,
       "stories": [
         {
           "title": "A Chinese ZywOo fan on the “485” controversy in Perfect World’s app",
@@ -106,6 +106,19 @@
           ]
         },
         {
+          "title": "Alter Ego vs FlyQuest / DFRAG Invitational 2026 - Upper Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj98cd/alter_ego_vs_flyquest_dfrag_invitational_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T07:52:19.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "roster*",
+            "grand final*",
+            "official*"
+          ]
+        },
+        {
           "title": "jL killed ZywOo but ZywOo have a higher negative swing?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj3gzk/jl_killed_zywoo_but_zywoo_have_a_higher_negative/",
           "source": "r/GlobalOffensive",
@@ -125,17 +138,6 @@
           "level": null,
           "why": [
             "pgl"
-          ]
-        },
-        {
-          "title": "IEM Beijing 2026 — simulation",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiybiw/iem_beijing_2026_simulation/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T22:29:26.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "iem"
           ]
         },
         {
@@ -274,45 +276,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Dashy wishes he could’ve retired",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xixtcg/dashy_wishes_he_couldve_retired/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-29T22:08:48.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "retiring*",
-            "announces*",
-            "dashy"
-          ]
-        },
-        {
-          "title": "M8 with Kremp vs Faze 3v3 chall gets intense",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xj433v/m8_with_kremp_vs_faze_3v3_chall_gets_intense/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T02:52:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "50k iiconsgg Shuffle Tournament Winners 🏆",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xj3oym/50k_iiconsgg_shuffle_tournament_winners/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T02:33:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 2,
       "stories": [
@@ -381,6 +344,32 @@
           "why": [
             "evo"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "M8 with Kremp vs Faze 3v3 chall gets intense",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xj433v/m8_with_kremp_vs_faze_3v3_chall_gets_intense/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-30T02:52:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "50k iiconsgg Shuffle Tournament Winners 🏆",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xj3oym/50k_iiconsgg_shuffle_tournament_winners/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-30T02:33:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     }
