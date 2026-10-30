@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-30T16:10:18.132Z",
+      "level": "possible",
+      "scene": "Melee",
+      "title": "Why is everyone in silver cheating?",
+      "url": "https://www.reddit.com/r/SSBM/comments/1xjjh0g/why_is_everyone_in_silver_cheating/",
+      "source": "r/SSBM",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "the last*",
+        "cheating"
+      ],
+      "summary": "Im literally a silver player, and have played 3 ranked games today. The first one was an extremely laggy falcon who pulled his ethernet last second. My last game was just this Marth who owned my Fox and was getting owned by my Samus and he did something that put us in sudden death? Timer didnt run out, I had just dealt the finishing blow on the last stock and all of a sudden our positions are reset and he wave dash f smashes me at 300%? What is going on? submitted by /u/Different-Farmer-503 to r/SSBM [link] [comments]",
+      "published": "2026-10-30T16:06:46.000Z"
+    },
+    {
       "alertedAt": "2026-10-30T15:40:21.339Z",
       "level": "possible",
       "scene": "Dota",
