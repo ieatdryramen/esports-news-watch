@@ -1,142 +1,7 @@
 {
-  "generatedAt": "2026-10-30T03:00:35.282Z",
+  "generatedAt": "2026-10-30T04:00:42.463Z",
   "windowHours": 24,
   "scenes": [
-    {
-      "scene": "Dota",
-      "storyCount": 12,
-      "stories": [
-        {
-          "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjBxRkdwcTlHR1lycWZBTEloLUJGOG1OQXI4bTdDYk5lZ2VqRGdSQjZ2V0tTWTRaSURtSC1FdGNTcDY2Yzc1bGFneUhQYS12NDEyMUV1czhoTmdORU5VdUNTRUZKS3l1X3V5cHBwSEk4VUI3WDUydkdXcWhyME8yWGJJcTRzcXRFQzl2VXN6bzVIVTdoWVJUU012NUFlNzVoX0tWTzBZc3V0UnJCdVg0cUljelhMUQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-29T03:41:55.000Z",
-          "score": 11,
-          "level": "breaking",
-          "why": [
-            "upset",
-            "record",
-            "team spirit",
-            "og"
-          ]
-        },
-        {
-          "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzhvYkRqVzFXQjNnZE0yTHBOaGFKX1hJVTlaNnhoWV9MOHFjSmNLbm1VWm9NT1R3Q18yTFFFZEFhTVdxODhaUGJQZXAwUHFrVUNzYjRIcTRsTzZjM3lkNFRhTGxJM09YbXkyVjJZQTk3T0RsbTRDOVA1U2pIUjB3bW5Lcm1pNTZaR25DWm8yb0cyT0I2RERQNVlQVm1wM0tDWjlfR2NfaEVmdkNmQmJETjJGeUQ1Zw?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-29T23:40:42.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "team spirit",
-            "og"
-          ]
-        },
-        {
-          "title": "Team Spirit’s playoff run takes a hit after shocking loss to OG at Dota 2 PARI Universe",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzR3U0RYSzg3THJNU19WTV9PSGZVTHFncTh2ZTFyTk9FTTM3UUFSM25pREFBODdOd195U0laM21WOXI3TDAwMUJnVFR4bEdXZ3k2Vkg0U0ZVQWhrTVV6cm55cmV4dUZhOVRqWGV6Zld1UUMzb2lrX0ZTdGZPS3hkak1NMkRVNlRrMWZ1VnJMRzh0UQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-10-29T03:39:21.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "team spirit",
-            "og"
-          ]
-        },
-        {
-          "title": "ESL One Munich 2027 Announced for Dota 2 With a $1,000,000 Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjF1T0FBdmdTc3UwUkFOZWd2bThSWmxJeEJEM2ZBWEdIOHhKeEpBOTdfcE5IalIyNnpGMFprMXRxQ3I1UExOcG9fSWRiQ3ZuLU5iM0NyQ2hBbWM1ei1yVmF6Y1hRaWRGSmFQYW9GVWFJRmEyVFFOQkR2TS1LWjBhdFVNQlRCUEowd2Jqb1Frb2x3bFNfNFVmbDN5cTZBMUlPSlHSAaoBQVVfeXFMTWZGa1ZyWVdrXzJJMC1lUHFSNVQxczBrRTA1Nk0xREE3MHlBcnUwaW54OHJvLWJJWkdrcV96YnZkU1ZtRE1wU05pTXVoUmhYYmJaTlRnMXhOYXFzTkFIQWdOOHNGeGdfMXJhRXV1ZDdQZkxqMnR4VE1JWEJHWS1WaXdSX1B3MGtPTy1Pb3hvYlRXb2tPRDljamNqenp0aWxZd2kwTTJHRXBJUEE?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-10-29T17:39:06.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "announced",
-            "prize pool"
-          ]
-        },
-        {
-          "title": "Dota 2 heroes vs League champion who is stronger on average?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xj47f8/dota_2_heroes_vs_league_champion_who_is_stronger/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T02:58:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champion"
-          ]
-        },
-        {
-          "title": "How Team Liquid and SAP Combined Forces to Win the Race to World First",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUTNKb09NUDBTcjlUOHExMzk4aVZBZGlBTnFGNU9ZVkhuQkpwU3A0bFFTbjF1WF9WMEpwV0xtVVZjYkdtbXJlTXZ3Qzg0OTlfMTlPaXIyZ3Bwc0JUVzJud0ZISHhRdTVUa2g3RW9yeFF5MDFvRXdERDdTWjU?oc=5",
-          "source": "Google News: Dota (Insider Gaming)",
-          "published": "2026-10-29T11:03:51.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "OG - Liquid, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uU1ZESXNyTHhiMzY3N21zaWhoeXVHckhpcEtJeW5PaEJnb0hQY2hvQzdfMDYxUXZnR05jZUpPOXhfT1RXVWg0OFR1ZmZjWHhsdVlROWtmZGxKR0tYcmxub3JZZktQZXkyZHhZSUtHTEhiSGs5QUh3bkdGZDkyckk?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-29T21:26:04.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "og",
-            "-stream"
-          ]
-        },
-        {
-          "title": "ESL One Munich 2027 brings 16 Dota 2 teams to BMW Park for $1M",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2JURmJaMmF3dWpHSVlnZFhrV0xDUkpYUmVzYkNubHV0YzZFNldqR3AzbDRCekczUWFRUDZEc3FDcjV0cTZzVDh0cFIxcElyUG1MaUJBSmswTTcyR0gwQzAxWjhSRW4tMGVnUVV2NHY3WFNSOV9ua2VJSTVhRGo2b2FoWlZscDNyY3lvb1I1X2UyUWY5VE8zS0k5VnBENGtNLW96SGFhNA?oc=5",
-          "source": "Google News: Dota (Inven Global)",
-          "published": "2026-10-29T15:13:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "ESL One Munich 2027 Brings Dota 2’s Best to Germany",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmdUQU1qQklLT3RuRUVYR3E1clJrY2lkdFNXbkVIRkRLV1Q0Ykd4TWZ6NVhubTdUQ0FnbkhlRElRb3ByQTd0a3pPdE1wM0tRMFB0UC02M0J1aDdkSDFQSDFxXzNIVU1ET19vdl9ZX0ZpUWMydU11OURZUkVRZU5CZEt1eHRhYThnajZJ?oc=5",
-          "source": "Google News: Dota (Invision Game Community)",
-          "published": "2026-10-29T14:50:45.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "How lower brackets give Dota 2 teams another route to the final",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXNfNVRsZE1KVVd0aVZVdklEMXZibExLZkVrN2NwZ1NoZW54TzgtQ215V1RoS1FYSXlIZFNnXzV4ZU0zMmJ1bXhrV011THR1WTg2MEE4LXhZb3JJY2lMZnNsY3FnNlYySHo4eFNFcF9hYUw2UVVNLXVsZnFJMktiQUpiYldKNUktTVEtLWVR?oc=5",
-          "source": "Google News: Dota (Khel Now)",
-          "published": "2026-10-29T10:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-10-29T09:11:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-10-29T03:40:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
     {
       "scene": "CS2",
       "storyCount": 18,
@@ -282,6 +147,117 @@
           "why": [
             "pgl*"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 10,
+      "stories": [
+        {
+          "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzhvYkRqVzFXQjNnZE0yTHBOaGFKX1hJVTlaNnhoWV9MOHFjSmNLbm1VWm9NT1R3Q18yTFFFZEFhTVdxODhaUGJQZXAwUHFrVUNzYjRIcTRsTzZjM3lkNFRhTGxJM09YbXkyVjJZQTk3T0RsbTRDOVA1U2pIUjB3bW5Lcm1pNTZaR25DWm8yb0cyT0I2RERQNVlQVm1wM0tDWjlfR2NfaEVmdkNmQmJETjJGeUQ1Zw?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-10-29T23:40:42.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "team spirit",
+            "og"
+          ]
+        },
+        {
+          "title": "ESL One Munich 2027 Announced for Dota 2 With a $1,000,000 Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjF1T0FBdmdTc3UwUkFOZWd2bThSWmxJeEJEM2ZBWEdIOHhKeEpBOTdfcE5IalIyNnpGMFprMXRxQ3I1UExOcG9fSWRiQ3ZuLU5iM0NyQ2hBbWM1ei1yVmF6Y1hRaWRGSmFQYW9GVWFJRmEyVFFOQkR2TS1LWjBhdFVNQlRCUEowd2Jqb1Frb2x3bFNfNFVmbDN5cTZBMUlPSlHSAaoBQVVfeXFMTWZGa1ZyWVdrXzJJMC1lUHFSNVQxczBrRTA1Nk0xREE3MHlBcnUwaW54OHJvLWJJWkdrcV96YnZkU1ZtRE1wU05pTXVoUmhYYmJaTlRnMXhOYXFzTkFIQWdOOHNGeGdfMXJhRXV1ZDdQZkxqMnR4VE1JWEJHWS1WaXdSX1B3MGtPTy1Pb3hvYlRXb2tPRDljamNqenp0aWxZd2kwTTJHRXBJUEE?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-10-29T17:39:06.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "announced",
+            "prize pool"
+          ]
+        },
+        {
+          "title": "People be posting their Cryptic Beacon treasures, somehow I got a Pipe of Dezun on my first ever",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xj51au/people_be_posting_their_cryptic_beacon_treasures/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T03:41:04.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "first ever"
+          ]
+        },
+        {
+          "title": "Dota 2 heroes vs League champion who is stronger on average?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xj47f8/dota_2_heroes_vs_league_champion_who_is_stronger/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T02:58:57.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champion"
+          ]
+        },
+        {
+          "title": "How Team Liquid and SAP Combined Forces to Win the Race to World First",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUTNKb09NUDBTcjlUOHExMzk4aVZBZGlBTnFGNU9ZVkhuQkpwU3A0bFFTbjF1WF9WMEpwV0xtVVZjYkdtbXJlTXZ3Qzg0OTlfMTlPaXIyZ3Bwc0JUVzJud0ZISHhRdTVUa2g3RW9yeFF5MDFvRXdERDdTWjU?oc=5",
+          "source": "Google News: Dota (Insider Gaming)",
+          "published": "2026-10-29T11:03:51.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
+          "title": "OG - Liquid, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uU1ZESXNyTHhiMzY3N21zaWhoeXVHckhpcEtJeW5PaEJnb0hQY2hvQzdfMDYxUXZnR05jZUpPOXhfT1RXVWg0OFR1ZmZjWHhsdVlROWtmZGxKR0tYcmxub3JZZktQZXkyZHhZSUtHTEhiSGs5QUh3bkdGZDkyckk?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-10-29T21:26:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "og",
+            "-stream"
+          ]
+        },
+        {
+          "title": "ESL One Munich 2027 brings 16 Dota 2 teams to BMW Park for $1M",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2JURmJaMmF3dWpHSVlnZFhrV0xDUkpYUmVzYkNubHV0YzZFNldqR3AzbDRCekczUWFRUDZEc3FDcjV0cTZzVDh0cFIxcElyUG1MaUJBSmswTTcyR0gwQzAxWjhSRW4tMGVnUVV2NHY3WFNSOV9ua2VJSTVhRGo2b2FoWlZscDNyY3lvb1I1X2UyUWY5VE8zS0k5VnBENGtNLW96SGFhNA?oc=5",
+          "source": "Google News: Dota (Inven Global)",
+          "published": "2026-10-29T15:13:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "ESL One Munich 2027 Brings Dota 2’s Best to Germany",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmdUQU1qQklLT3RuRUVYR3E1clJrY2lkdFNXbkVIRkRLV1Q0Ykd4TWZ6NVhubTdUQ0FnbkhlRElRb3ByQTd0a3pPdE1wM0tRMFB0UC02M0J1aDdkSDFQSDFxXzNIVU1ET19vdl9ZX0ZpUWMydU11OURZUkVRZU5CZEt1eHRhYThnajZJ?oc=5",
+          "source": "Google News: Dota (Invision Game Community)",
+          "published": "2026-10-29T14:50:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "How lower brackets give Dota 2 teams another route to the final",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXNfNVRsZE1KVVd0aVZVdklEMXZibExLZkVrN2NwZ1NoZW54TzgtQ215V1RoS1FYSXlIZFNnXzV4ZU0zMmJ1bXhrV011THR1WTg2MEE4LXhZb3JJY2lMZnNsY3FnNlYySHo4eFNFcF9hYUw2UVVNLXVsZnFJMktiQUpiYldKNUktTVEtLWVR?oc=5",
+          "source": "Google News: Dota (Khel Now)",
+          "published": "2026-10-29T10:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-10-29T09:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
