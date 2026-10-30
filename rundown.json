@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-10-30T22:00:40.243Z",
+  "generatedAt": "2026-10-30T23:00:33.547Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 15,
       "stories": [
-        {
-          "title": "MOUZ vs FURIA / PGL Masters Bucharest 2026 - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjme92/mouz_vs_furia_pgl_masters_bucharest_2026/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T17:53:57.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "grand final*",
-            "official*",
-            "mouz",
-            "furia",
-            "pgl"
-          ]
-        },
         {
           "title": "fnatic vs Eternal Fire / StarLadder Ranked Episode 5 - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjqss9/fnatic_vs_eternal_fire_starladder_ranked_episode/",
@@ -114,6 +98,17 @@
           "level": null,
           "why": [
             "iem"
+          ]
+        },
+        {
+          "title": "I ran a simulation of 200,000 rays to calculate the probability of robo landing that kill shot in Nemiga vs. Vitality. The result? Just 0.1%.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjt1el/i_ran_a_simulation_of_200000_rays_to_calculate/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T22:13:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "vitality"
           ]
         },
         {
@@ -383,7 +378,7 @@
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -401,15 +396,6 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlF2aXdHV1ZSSHAyLVVQSjZ0YVQwYTFkczZvbnBwa3oyWGJ6VXVYQUYzSlg1MUctUGtMUUlhMDZRMzBacXZyUEdyeW02S0JUWmotOHI5T21RNWd2UkVFZnVRSG9OTFhJSnlfeC1RR2dFOXJ1WVlDcU0xdXhhQ1kwUjZoOF95N204UDVvNlFWVkI?oc=5",
           "source": "Google News: Legacy FGC (GamingBolt)",
           "published": "2026-10-30T15:29:18.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Face-Off: Mortal Kombat 1's Best Character",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
-          "source": "Google News: Legacy FGC (IGN)",
-          "published": "2026-10-30T07:34:04.000Z",
           "score": 1,
           "level": null,
           "why": []
