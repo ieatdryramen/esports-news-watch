@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-10-30T04:00:42.463Z",
+  "generatedAt": "2026-10-30T05:00:34.444Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 17,
       "stories": [
-        {
-          "title": "Eternal Fire vs Astralis / StarLadder Ranked Episode 5 - Lower Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiwct5/eternal_fire_vs_astralis_starladder_ranked/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-29T21:11:05.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "astralis"
-          ]
-        },
         {
           "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
           "url": "https://esports.gg/news/counter-strike-2/pgl-masters-bucharest-2026-playoff-results/",
@@ -146,6 +132,17 @@
           "level": null,
           "why": [
             "pgl*"
+          ]
+        },
+        {
+          "title": "B1ad3: \"Trust the process\"",
+          "url": "https://www.hltv.org/news/45853/b1ad3-trust-the-process",
+          "source": "HLTV news",
+          "published": "2026-10-29T16:42:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "navi*"
           ]
         }
       ]

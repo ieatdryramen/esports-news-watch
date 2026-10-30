@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:30:21.459Z",
+  "generatedAt": "2026-10-30T05:00:22.656Z",
   "source": "start.gg",
   "completed": [
     {
@@ -332,7 +332,8 @@
       ]
     }
   ],
-  "live": [
+  "live": [],
+  "upcoming": [
     {
       "eventId": "1743613",
       "scene": "tekken",
@@ -345,9 +346,7 @@
       "startAt": "2026-10-31T00:00:00.000Z",
       "endAt": "2026-10-31T05:00:00.000Z",
       "url": "https://www.start.gg/tournament/awe-presents-the-36th-tekken-8-will-breaker-tournament/event/awe-presents-the-36th-tekken-8-will-breaker"
-    }
-  ],
-  "upcoming": [
+    },
     {
       "eventId": "1657242",
       "scene": "legacyfgc",
