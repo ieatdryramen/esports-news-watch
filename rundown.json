@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T09:55:15.792Z",
+  "generatedAt": "2026-10-30T10:50:19.432Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 16,
       "stories": [
         {
           "title": "A Chinese ZywOo fan on the “485” controversy in Perfect World’s app",
@@ -116,17 +116,6 @@
           ]
         },
         {
-          "title": "Why are teams taking the subway to PGL Bucharest?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj11q8/why_are_teams_taking_the_subway_to_pgl_bucharest/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T00:26:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "FalleN: \"I like the way Boombl4 thinks about the game\"",
           "url": "https://www.hltv.org/news/45856/fallen-i-like-the-way-boombl4-thinks-about-the-game",
           "source": "HLTV news",
@@ -147,12 +136,23 @@
           "why": [
             "navi*"
           ]
+        },
+        {
+          "title": "CS2 Oct 28 Update Introduces Big Head Mode Along With LAR Files",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55b3pfTjlLMndJU19QTFF4Yk9qN1pURDBmdWhuQzR6OUl4TTdsY0UybTRHcG5RaVZ2TFBoNk9xdU93eVNJM3k0Zmg5ZUlGUmtkT2VIVk1fblBwX0QtZ1o2UmlQZ3Y3ZjhmbTlka0FqTVBkSFRHZzJNWFk1MWQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-10-29T12:55:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
@@ -253,15 +253,6 @@
           "why": []
         },
         {
-          "title": "How lower brackets give Dota 2 teams another route to the final",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXNfNVRsZE1KVVd0aVZVdklEMXZibExLZkVrN2NwZ1NoZW54TzgtQ215V1RoS1FYSXlIZFNnXzV4ZU0zMmJ1bXhrV011THR1WTg2MEE4LXhZb3JJY2lMZnNsY3FnNlYySHo4eFNFcF9hYUw2UVVNLXVsZnFJMktiQUpiYldKNUktTVEtLWVR?oc=5",
-          "source": "Google News: Dota (Khel Now)",
-          "published": "2026-10-29T10:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "XE - Hk, October 31, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzhsRXkzV25nUmJTRVhKb1NkOHNTQ3R3dVhrN19PTVFLTTltZWNTSWlxNUd6MHdyNEY1Vi1WR0pIWVd0Q0NmaWQxZUhvVUdJRDRqUTJyNG9jdElTUE0zbFRHVjNWWlJVcjZrS0x0X052LWpkTDFIYWpiY1ZSblY5UHRENHBoQ2N2X3Ztc0gzTG8wUXJVZFgwSnNKUkM?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -336,7 +327,7 @@
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
@@ -348,6 +339,15 @@
           "why": [
             "evo"
           ]
+        },
+        {
+          "title": "Face-Off: Mortal Kombat 1's Best Character",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
+          "source": "Google News: Legacy FGC (IGN)",
+          "published": "2026-10-30T07:34:04.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Lionel Rafale in Virtua Fighter Crossroads - New character!",
