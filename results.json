@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T23:30:20.585Z",
+  "generatedAt": "2026-10-30T00:00:23.088Z",
   "source": "start.gg",
   "completed": [
     {
@@ -328,53 +328,6 @@
         {
           "placement": 7,
           "name": "DXCorp | PhiDX"
-        }
-      ]
-    },
-    {
-      "eventId": "1733302",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "TNS Guilty Gear Strive #228",
-      "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 117,
-      "online": true,
-      "major": false,
-      "startAt": "2026-10-27T00:00:00.000Z",
-      "endAt": "2026-10-27T03:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-228/event/guilty-gear-strive-crossplay",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Classified"
-        },
-        {
-          "placement": 2,
-          "name": "Nyu | Scissors"
-        },
-        {
-          "placement": 3,
-          "name": "TNS | MFCR"
-        },
-        {
-          "placement": 4,
-          "name": "BadMoon | Ticklememour"
-        },
-        {
-          "placement": 5,
-          "name": "YoKai | Mouqui"
-        },
-        {
-          "placement": 5,
-          "name": "Macho"
-        },
-        {
-          "placement": 7,
-          "name": "7STRN | ms. volcarona"
-        },
-        {
-          "placement": 7,
-          "name": "YoKai | Lasagna_Slayer"
         }
       ]
     }
