@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-10-30T04:50:24.262Z",
+  "sources": [
+    {
+      "name": "Steam: Marvel Tokon (official news + patch notes)",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-08T21:02:24.000Z",
+      "error": null
+    },
+    {
+      "name": "Dexerto",
+      "ok": true,
+      "skipped": false,
+      "items": 50,
+      "newest": "2026-10-29T20:57:55.000Z",
+      "error": null
+    },
+    {
+      "name": "esports.gg",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-30T02:26:45.000Z",
+      "error": null
+    },
+    {
+      "name": "Esports News UK",
+      "ok": true,
+      "skipped": false,
+      "items": 15,
+      "newest": "2026-10-29T07:06:37.000Z",
+      "error": null
+    },
+    {
+      "name": "Fragster",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-29T16:27:30.000Z",
+      "error": null
+    },
+    {
+      "name": "Insider Gaming",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-30T02:06:24.000Z",
+      "error": null
+    },
+    {
+      "name": "Shacknews",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-30T10:35:00.000Z",
+      "error": null
+    },
+    {
+      "name": "Push Square",
+      "ok": true,
+      "skipped": false,
+      "items": 25,
+      "newest": "2026-10-29T22:00:00.000Z",
+      "error": null
+    },
+    {
+      "name": "Google News: Tokon",
+      "ok": true,
+      "skipped": false,
+      "items": 6,
+      "newest": "2026-10-29T18:27:34.000Z",
+      "error": null
+    },
+    {
+      "name": "Google News: Tokon competitive",
+      "ok": true,
+      "skipped": false,
+      "items": 1,
+      "newest": "2026-10-29T13:29:49.000Z",
+      "error": null
+    },
+    {
+      "name": "Google News: Tokon patches + DLC",
+      "ok": true,
+      "skipped": false,
+      "items": 8,
+      "newest": "2026-10-29T20:42:43.000Z",
+      "error": null
+    },
+    {
+      "name": "Google News: EventHubs/Dot/Dashfight",
+      "ok": true,
+      "skipped": false,
+      "items": 2,
+      "newest": "2026-10-29T13:11:09.000Z",
+      "error": null
+    },
+    {
+      "name": "Reddit (2 subs, public feed)",
+      "ok": false,
+      "skipped": true,
+      "items": 0,
+      "newest": null,
+      "error": "Reddit blocks this server without app keys"
+    }
+  ]
+}

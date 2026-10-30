@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-10-30T04:50:23.032Z",
+  "sources": [
+    {
+      "name": "Steam: Marvel Rivals (official news + patch notes)",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-29T10:00:29.000Z",
+      "error": null
+    },
+    {
+      "name": "Dexerto",
+      "ok": true,
+      "skipped": false,
+      "items": 50,
+      "newest": "2026-10-29T20:57:55.000Z",
+      "error": null
+    },
+    {
+      "name": "esports.gg",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-30T02:26:45.000Z",
+      "error": null
+    },
+    {
+      "name": "Esports News UK",
+      "ok": true,
+      "skipped": false,
+      "items": 15,
+      "newest": "2026-10-29T07:06:37.000Z",
+      "error": null
+    },
+    {
+      "name": "Fragster",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-29T16:27:30.000Z",
+      "error": null
+    },
+    {
+      "name": "Insider Gaming",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-30T02:06:24.000Z",
+      "error": null
+    },
+    {
+      "name": "Shacknews",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-30T10:35:00.000Z",
+      "error": null
+    },
+    {
+      "name": "Google News: Rivals esports",
+      "ok": true,
+      "skipped": false,
+      "items": 10,
+      "newest": "2026-10-29T21:24:17.000Z",
+      "error": null
+    },
+    {
+      "name": "Google News: Rivals patches",
+      "ok": true,
+      "skipped": false,
+      "items": 15,
+      "newest": "2026-10-29T22:07:16.000Z",
+      "error": null
+    },
+    {
+      "name": "Google News: Rivals rosters",
+      "ok": true,
+      "skipped": false,
+      "items": 3,
+      "newest": "2026-10-29T21:20:18.000Z",
+      "error": null
+    },
+    {
+      "name": "Google News: Sheep/Dot/Liquipedia",
+      "ok": true,
+      "skipped": false,
+      "items": 100,
+      "newest": "2026-10-30T04:04:29.000Z",
+      "error": null
+    },
+    {
+      "name": "Reddit (3 subs, public feed)",
+      "ok": false,
+      "skipped": true,
+      "items": 0,
+      "newest": null,
+      "error": "Reddit blocks this server without app keys"
+    }
+  ]
+}
