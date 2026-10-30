@@ -1,28 +1,16 @@
 {
-  "generatedAt": "2026-10-30T14:40:20.327Z",
+  "generatedAt": "2026-10-30T15:40:25.053Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Marvel Rivals' Latest Update Is Now Live With Night Of Illusions Event & More - Full Patch Notes Listed",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2J2SmxIWDF3OFBNN1FUMkRlVC1UZ1FJNEMxQ1hwSFd3emF5Uk5jRGFqUW0waU5MMjh4dDR1MlBSNGIwaXN1WEhNVEt3dTVkdlVGQWduMjVhaEtsS1pBaXNMQlVyN09CUFJBTV91ZENFRlVoZjB0Zmx0TkprTDdsaXZmQXZNNGo1X0NldWd3c1hhWU1vVTh0Y1gxRjlrTkcxc3QwWWNHUUJHYWdzdnRyRlB3VzVibDM1a3plSGJ6ZzgzZw?oc=5",
           "source": "Google News: Rivals patches (PlayStation Universe)",
           "published": "2026-10-30T11:31:54.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "update",
-            "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Rivals October 29 Update Patch Notes",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSWhrQ3FYWGl3VXBBVXI3dU5QYVdmYWgzQjV4MTR4dnRGX29XOVdBU3Jtc2hqZV9ESUhZZkIxYWFkZERRYzJQRXN5V1NhMnA3cUM2dWFYX0FtdG90ankyVnNsSW5YS01w?oc=5",
-          "source": "Google News: Rivals patches (TwistedVoxel)",
-          "published": "2026-10-29T15:13:27.000Z",
           "score": 5,
           "level": "possible",
           "why": [
@@ -39,17 +27,6 @@
           "level": null,
           "why": [
             "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Update on October 29 Brings Night of Illusions via Patch 1.79 | 1.000.114",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVJ2TXFTN0IyTjdBU3l4Vk15UkNxUVNaNjN6T0VEX0t0MTkwMXQ4WUt3bHg0cWpIY0lhM3UtUEtvaHJzY2o1V05Gb21MVUEyNHZUYVkybkwycUs2dHl0eXpiNC1pWkpvZUZ0UnlWdUZkQWExc18xUGtGdGRicERNMENXZFp0OVdaLV9fdFotQmYxM1J2VERDT3RVLTVuNXNjSWFrYTQydWJLZGdwYmF5ZWR6MFNKTUtKb3doYlZfUF9nWlE?oc=5",
-          "source": "Google News: Rivals patches (MP1st)",
-          "published": "2026-10-29T15:26:10.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
