@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-30T16:25:18.877Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Yekindar Vac moment vs. Mouz",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjjwc1/yekindar_vac_moment_vs_mouz/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "vac",
+        "mouz"
+      ],
+      "summary": "submitted by /u/Impressive-Engine-16 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-30T16:22:28.000Z"
+    },
+    {
       "alertedAt": "2026-10-30T16:10:18.132Z",
       "level": "possible",
       "scene": "Melee",
