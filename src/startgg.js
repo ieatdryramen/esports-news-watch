@@ -126,10 +126,12 @@ export async function fetchResults(token, config, cache, now = Date.now()) {
           row.top8 = cache.standings[row.eventId];
         }
         completed.push(row);
+      } else if ((e.startAt ?? t.startAt) * 1000 > now) {
+        // start.gg marks events ACTIVE once registration/seeding opens, so an
+        // event that hasn't started yet is upcoming whatever its state says.
+        upcoming.push(row);
       } else if (e.state === 'ACTIVE') {
         live.push(row);
-      } else if ((e.startAt ?? t.startAt) * 1000 > now) {
-        upcoming.push(row);
       }
     }
   }
