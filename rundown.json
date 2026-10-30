@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T12:00:41.203Z",
+  "generatedAt": "2026-10-30T13:00:36.248Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
         {
           "title": "A Chinese ZywOo fan on the “485” controversy in Perfect World’s app",
@@ -19,6 +19,22 @@
             "official*",
             "zywoo",
             "reddit only"
+          ]
+        },
+        {
+          "title": "Natus Vincere vs Toobisie / HyperX Retake Season 13 - Group B Winners' Match / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjdx5y/natus_vincere_vs_toobisie_hyperx_retake_season_13/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T12:23:22.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "official*",
+            "aleksib*",
+            "b1t*",
+            "navi*",
+            "natus vincere"
           ]
         },
         {
@@ -45,6 +61,17 @@
             "navi",
             "vitality",
             "pgl"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026: Groups, Opening Matchups, Format, and More",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3d2eGpOa2toRHZlS2pJaXdnRG1PcjE3WXlnUWo5SHptTy1XQ0Fvc0U0eUdOWUJZZV9uUG1qenRld2tNMVJ4azFCRWJwczNycU5Za0VkNnpWbHBVWE1lNVFBQUM5S2phZk10LTd0NjJTd01fUVdkVU0taDU4a2ZzZTE0UlJnQQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-10-30T12:52:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
           ]
         },
         {
@@ -124,36 +151,12 @@
             "official*",
             "navi"
           ]
-        },
-        {
-          "title": "Alter Ego vs FlyQuest / DFRAG Invitational 2026 - Upper Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj98cd/alter_ego_vs_flyquest_dfrag_invitational_2026/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T07:52:19.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "roster*",
-            "grand final*",
-            "official*"
-          ]
-        },
-        {
-          "title": "FalleN: \"I like the way Boombl4 thinks about the game\"",
-          "url": "https://www.hltv.org/news/45856/fallen-i-like-the-way-boombl4-thinks-about-the-game",
-          "source": "HLTV news",
-          "published": "2026-10-29T20:40:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pgl*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
@@ -189,28 +192,6 @@
           "why": [
             "signed*",
             "roster"
-          ]
-        },
-        {
-          "title": "People be posting their Cryptic Beacon treasures, somehow I got a Pipe of Dezun on my first ever",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xj51au/people_be_posting_their_cryptic_beacon_treasures/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T03:41:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "first ever"
-          ]
-        },
-        {
-          "title": "Dota 2 heroes vs League champion who is stronger on average?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xj47f8/dota_2_heroes_vs_league_champion_who_is_stronger/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T02:58:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champion"
           ]
         },
         {
@@ -269,7 +250,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
         {
           "title": "What am I missing? (Street Fighter V Champion Edition)",
@@ -284,6 +265,17 @@
           ]
         },
         {
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0NwWFN2bTFNcEhGUVoyWXRIbFVWcTZLSlJaNFRMTThYQmRKVDlnaVc5UlZEdmVIQ09sSEdsS21KUXB3ckZvamlsUU1fTEdKMm1neld0dzY1TDdvUVVnVk9TNk9KLUlyWnVmTmZaS3VOakhhWVFXUVgwNnhuTlhmVTdSUU1SbHJKTWhTYm1taFZTcW1heEhPLXZxWElDU0FUM25XQ2wzM1BEUEJrTjVyTg?oc=5",
+          "source": "Google News: Street Fighter (The Straits Times)",
+          "published": "2026-10-30T12:38:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
           "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
           "source": "Google News: Street Fighter (Esports.gg)",
@@ -293,6 +285,15 @@
           "why": [
             "evo"
           ]
+        },
+        {
+          "title": "Tournament in Sunnyvale usf4",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xjeknz/tournament_in_sunnyvale_usf4/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-30T12:53:35.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -329,8 +330,19 @@
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0NwWFN2bTFNcEhGUVoyWXRIbFVWcTZLSlJaNFRMTThYQmRKVDlnaVc5UlZEdmVIQ09sSEdsS21KUXB3ckZvamlsUU1fTEdKMm1neld0dzY1TDdvUVVnVk9TNk9KLUlyWnVmTmZaS3VOakhhWVFXUVgwNnhuTlhmVTdSUU1SbHJKTWhTYm1taFZTcW1heEhPLXZxWElDU0FUM25XQ2wzM1BEUEJrTjVyTg?oc=5",
+          "source": "Google News: Legacy FGC (The Straits Times)",
+          "published": "2026-10-30T12:38:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
         {
           "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
@@ -355,8 +367,19 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0NwWFN2bTFNcEhGUVoyWXRIbFVWcTZLSlJaNFRMTThYQmRKVDlnaVc5UlZEdmVIQ09sSEdsS21KUXB3ckZvamlsUU1fTEdKMm1neld0dzY1TDdvUVVnVk9TNk9KLUlyWnVmTmZaS3VOakhhWVFXUVgwNnhuTlhmVTdSUU1SbHJKTWhTYm1taFZTcW1heEhPLXZxWElDU0FUM25XQ2wzM1BEUEJrTjVyTg?oc=5",
+          "source": "Google News: Tekken (The Straits Times)",
+          "published": "2026-10-30T12:38:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
         {
           "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
@@ -366,6 +389,17 @@
           "level": null,
           "why": [
             "evo"
+          ]
+        },
+        {
+          "title": "why mokujin can never return",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xje1j3/why_mokujin_can_never_return/",
+          "source": "r/Tekken",
+          "published": "2026-10-30T12:29:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "return"
           ]
         }
       ]
@@ -406,23 +440,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "M8 with Kremp vs Faze 3v3 chall gets intense",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xj433v/m8_with_kremp_vs_faze_3v3_chall_gets_intense/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T02:52:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
@@ -430,6 +447,7 @@
     "Classic Tetris",
     "Brood War",
     "Trackmania",
+    "CoD",
     "Quake",
     "Halo"
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:30:24.727Z",
+  "generatedAt": "2026-10-30T13:00:24.449Z",
   "source": "start.gg",
   "completed": [
     {
@@ -398,19 +398,6 @@
       "startAt": "2026-10-31T14:00:00.000Z",
       "endAt": "2026-11-02T02:00:00.000Z",
       "url": "https://www.start.gg/tournament/punishment-5/event/punishment-5"
-    },
-    {
-      "eventId": "1723138",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Keep Holding Forward: 10/31/26",
-      "event": "Street Fighter III: Third Strike",
-      "entrants": 16,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T16:30:00.000Z",
-      "endAt": "2026-11-01T00:00:00.000Z",
-      "url": "https://www.start.gg/tournament/keep-holding-forward-10-31-26/event/street-fighter-iii-third-strike"
     }
   ],
   "games": {
