@@ -126,10 +126,11 @@ export async function fetchResults(token, config, cache, now = Date.now()) {
           row.top8 = cache.standings[row.eventId];
         }
         completed.push(row);
+      } else if ((e.startAt ?? t.startAt) * 1000 > now) {
+        // start.gg flags events ACTIVE as soon as the tournament opens (check-in etc.), before play starts.
+        upcoming.push(row);
       } else if (e.state === 'ACTIVE') {
         live.push(row);
-      } else if ((e.startAt ?? t.startAt) * 1000 > now) {
-        upcoming.push(row);
       }
     }
   }
