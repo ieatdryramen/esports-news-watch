@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T16:55:17.636Z",
+  "generatedAt": "2026-10-30T17:50:20.535Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
         {
           "title": "FUT/Astralis/Vitality roster for major problems",
@@ -39,19 +39,15 @@
           ]
         },
         {
-          "title": "Natus Vincere vs Toobisie / HyperX Retake Season 13 - Group B Winners' Match / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjdx5y/natus_vincere_vs_toobisie_hyperx_retake_season_13/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T12:23:22.000Z",
-          "score": 5.5,
-          "level": "possible",
+          "title": "Nemiga Sweep Vitality 2-0 to Secure PGL Masters Bucharest Final Spot",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVC0zRTNmN19TR1FFY294dERLU3Nrc1ZiR3g3dENkT3ZIRmlqeXpCSzRHc09ma1FuLUsxdUt2aEd1TlZDcG9xZDRtZUgwNXZieVotX29VWGRFMG5sQVppcUhJVk5reFhYTnpfR3NnMzYwTEdGeE9JczNwRFc0V2ZPSTc4VktYZXlremc?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-10-30T17:40:42.000Z",
+          "score": 5,
+          "level": null,
           "why": [
-            "roster*",
-            "official*",
-            "aleksib*",
-            "b1t*",
-            "navi*",
-            "natus vincere"
+            "vitality",
+            "pgl"
           ]
         },
         {
@@ -67,31 +63,6 @@
           ]
         },
         {
-          "title": "Nemiga stun Vitality 2-0 to reach PGL Masters Bucharest final",
-          "url": "https://www.hltv.org/news/45861/nemiga-stun-vitality-2-0-to-reach-pgl-masters-bucharest-final",
-          "source": "HLTV news",
-          "published": "2026-10-30T14:29:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality",
-            "pgl"
-          ]
-        },
-        {
-          "title": "FURIA beat BETBOOM to advance to PGL Masters Bucharest semis",
-          "url": "https://www.hltv.org/news/45855/furia-beat-betboom-to-advance-to-pgl-masters-bucharest-semis",
-          "source": "HLTV news",
-          "published": "2026-10-29T17:40:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz*",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
           "title": "MIBR vs Eternal Fire / StarLadder Ranked Episode 5 - Consolidation Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjhkbr/mibr_vs_eternal_fire_starladder_ranked_episode_5/",
           "source": "r/GlobalOffensive",
@@ -103,6 +74,29 @@
             "roster*",
             "grand final*",
             "official*"
+          ]
+        },
+        {
+          "title": "Third BLAST Premier Open heads to the United States in 2027",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjl8k1/third_blast_premier_open_heads_to_the_united/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T17:11:47.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast",
+            "pgl*"
+          ]
+        },
+        {
+          "title": "BLAST Open 2027 S3 to be held in USA with updated format",
+          "url": "https://www.hltv.org/news/45862/blast-open-2027-s3-to-be-held-in-usa-with-updated-format",
+          "source": "HLTV news",
+          "published": "2026-10-30T17:03:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
           ]
         },
         {
@@ -150,21 +144,21 @@
           ]
         },
         {
-          "title": "The round where everything falls for Vitality.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjgrk2/the_round_where_everything_falls_for_vitality/",
+          "title": "ZywOo shows how to punish the Suicide boost with a mid-door wallbang",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjm5jl/zywoo_shows_how_to_punish_the_suicide_boost_with/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-30T14:23:54.000Z",
+          "published": "2026-10-30T17:45:02.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "vitality"
+            "zywoo"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
@@ -188,18 +182,6 @@
           "why": [
             "team spirit",
             "og"
-          ]
-        },
-        {
-          "title": "Playtime Roster",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjd1at/playtime_roster/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T11:40:54.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "signed*",
-            "roster"
           ]
         },
         {
@@ -379,45 +361,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
-          "source": "Google News: Tekken (Yahoo News Singapore)",
-          "published": "2026-10-30T12:38:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
-        },
-        {
-          "title": "Noticed people loving the last one so much, here's another!",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xjkhtg/noticed_people_loving_the_last_one_so_much_heres/",
-          "source": "r/Tekken",
-          "published": "2026-10-30T16:44:35.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "the last"
-          ]
-        },
-        {
-          "title": "why mokujin can never return",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xje1j3/why_mokujin_can_never_return/",
-          "source": "r/Tekken",
-          "published": "2026-10-30T12:29:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "return"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
       "storyCount": 3,
       "stories": [
@@ -453,37 +396,57 @@
       ]
     },
     {
-      "scene": "AoE2",
+      "scene": "Tekken",
       "storyCount": 2,
       "stories": [
         {
-          "title": "Since i heard about it i always thought making a Phosphoru Rush was beneath me... I just won a game with it and now i dont think i can go back",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xj2be7/since_i_heard_about_it_i_always_thought_making_a/",
-          "source": "r/aoe2",
-          "published": "2026-10-30T01:27:16.000Z",
-          "score": 2,
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
+          "source": "Google News: Tekken (Yahoo News Singapore)",
+          "published": "2026-10-30T12:38:45.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "won"
+            "evo"
           ]
         },
         {
-          "title": "Final Word (TM) In Speed Debate",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xj0i38/final_word_tm_in_speed_debate/",
-          "source": "r/aoe2",
-          "published": "2026-10-30T00:02:19.000Z",
-          "score": 0,
+          "title": "Noticed people loving the last one so much, here's another!",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xjkhtg/noticed_people_loving_the_last_one_so_much_heres/",
+          "source": "r/Tekken",
+          "published": "2026-10-30T16:44:35.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "the last"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Do you want to see live Open Bracket coverage at Halo Fest?",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xjkxw6/do_you_want_to_see_live_open_bracket_coverage_at/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-10-30T17:00:58.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "history*",
+            "official*"
+          ]
         }
       ]
     }
   ],
   "quiet": [
+    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
