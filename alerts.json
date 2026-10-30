@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-30T15:40:21.339Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fMWxMUm5CVGxUWDlaekhEVXZzNkthWTluYjJQdHVMZGJuQjA2UGFWNDlDaVd5NXdFdnJmSjJLWmZCOEY5MmdJU1p0RTh4ajQzRURSR0V3eFlxcm8xYl9xWEJBUnBPcm9MVUE?oc=5",
+      "source": "Google News: Dota (WIN.GG)",
+      "outlets": [
+        "WIN.GG"
+      ],
+      "score": 5,
+      "why": [
+        "returns",
+        "announced"
+      ],
+      "summary": "",
+      "published": "2026-10-30T13:15:27.000Z"
+    },
+    {
       "alertedAt": "2026-10-30T15:30:20.978Z",
       "level": "possible",
       "scene": "CS2",
