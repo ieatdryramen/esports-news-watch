@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T10:50:19.432Z",
+  "generatedAt": "2026-10-30T11:00:38.323Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 17,
       "stories": [
         {
           "title": "A Chinese ZywOo fan on the “485” controversy in Perfect World’s app",
@@ -92,6 +92,18 @@
           ]
         },
         {
+          "title": "Toobisie coach preps vs NaVi at HyperX Retake LAN",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjc2x6/toobisie_coach_preps_vs_navi_at_hyperx_retake_lan/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T10:50:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "official*",
+            "navi"
+          ]
+        },
+        {
           "title": "Alter Ego vs FlyQuest / DFRAG Invitational 2026 - Upper Bracket Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj98cd/alter_ego_vs_flyquest_dfrag_invitational_2026/",
           "source": "r/GlobalOffensive",
@@ -136,23 +148,12 @@
           "why": [
             "navi*"
           ]
-        },
-        {
-          "title": "CS2 Oct 28 Update Introduces Big Head Mode Along With LAR Files",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55b3pfTjlLMndJU19QTFF4Yk9qN1pURDBmdWhuQzR6OUl4TTdsY0UybTRHcG5RaVZ2TFBoNk9xdU93eVNJM3k0Zmg5ZUlGUmtkT2VIVk1fblBwX0QtZ1o2UmlQZ3Y3ZjhmbTlka0FqTVBkSFRHZzJNWFk1MWQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-10-29T12:55:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
@@ -198,6 +199,17 @@
           "level": null,
           "why": [
             "champion"
+          ]
+        },
+        {
+          "title": "Team Liquid - Astra Invicta 2-0",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEU3eUpnOVYtcHFrQXdvTmc0ZGc2N2wyNGNLcUtxeGthRU8xcUtYcXJzdGl3djhKSGk0eE0wamNlVkdEMnhaaXc3TUhhM0tWQ3hCTzZaZ19PLXluU01LUkt5X04xNFRUS08yMXV1eGZ3SlhBZlh6Qnc4OEVPQTRZbmZlLTNOZVdST3BDakJYNlhuR2dpb2prNmNSS3Fhd0Zqb3hNRmY4Y1J4bk5GUTVmbE93?oc=5",
+          "source": "Google News: Dota (Flashscore.com)",
+          "published": "2026-10-29T17:15:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
           ]
         },
         {
@@ -327,7 +339,7 @@
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
@@ -339,15 +351,6 @@
           "why": [
             "evo"
           ]
-        },
-        {
-          "title": "Face-Off: Mortal Kombat 1's Best Character",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
-          "source": "Google News: Legacy FGC (IGN)",
-          "published": "2026-10-30T07:34:04.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Lionel Rafale in Virtua Fighter Crossroads - New character!",
