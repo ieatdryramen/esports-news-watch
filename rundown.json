@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T00:00:34.929Z",
+  "generatedAt": "2026-10-30T01:00:36.850Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Satanic Breaks Furion GPM Record, OG Upset Team Spirit In PARI Universe Playoffs",
@@ -24,25 +24,12 @@
           "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzhvYkRqVzFXQjNnZE0yTHBOaGFKX1hJVTlaNnhoWV9MOHFjSmNLbm1VWm9NT1R3Q18yTFFFZEFhTVdxODhaUGJQZXAwUHFrVUNzYjRIcTRsTzZjM3lkNFRhTGxJM09YbXkyVjJZQTk3T0RsbTRDOVA1U2pIUjB3bW5Lcm1pNTZaR25DWm8yb0cyT0I2RERQNVlQVm1wM0tDWjlfR2NfaEVmdkNmQmJETjJGeUQ1Zw?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-29T23:37:30.000Z",
+          "published": "2026-10-29T23:40:42.000Z",
           "score": 5,
           "level": null,
           "why": [
             "team spirit",
             "og"
-          ]
-        },
-        {
-          "title": "Topson's double Magnus pick brings OG to victory over Team Spirit",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnBsdFYwWFEtNTJ6VG5ubFRUUXhqOUtDZklSZWlfbU1uY1dGY3NRdlVDcEl6WGIxbWNJd1RxSWoySE1wOVN0NDRVQW0xUXU3c2NFZ0NaN2JGNmlWOEdGU3lCV0l6YkhGSFMzcWd0dDg0dU05Yk5KTGZib0ZhNnVZY1hVQUtxcDJqTzRDYzV3ODMxWDl5WkZlRUNoOHRYaWlONDFXalVyZUxPWmZkYnc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-29T10:49:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "team spirit",
-            "og",
-            "topson"
           ]
         },
         {
@@ -105,15 +92,6 @@
           ]
         },
         {
-          "title": "Dota 2 peak online drops 300k players after Valve reportedly bans bots from Arcade games",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGJBOEw0Q2ZJOGZic01Gd3VjNTNRT0pHR3JNczVjeG0wanpwTlJiRXpnVnZkcG5aNDBRSkZReUpHYkxPUzNDYktEc2JyWmdFUm10T3QtT1U4SzhNaHZEeEk2ZFIwZHNYN2JCbmJHMk8zQlpsckNQTGJ0OWluc1FNQ19nWGs4cldpVzd0dnZLVGhBQXN5Y0Y3YTJjbFFRNG5pMTAteE93NkExQllrb2hRMjBTRUtoNnRjNUhyejlaQVhRYUlQY0JDUVVGQS0?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-29T16:10:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "ESL One Munich 2027 brings 16 Dota 2 teams to BMW Park for $1M",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2JURmJaMmF3dWpHSVlnZFhrV0xDUkpYUmVzYkNubHV0YzZFNldqR3AzbDRCekczUWFRUDZEc3FDcjV0cTZzVDh0cFIxcElyUG1MaUJBSmswTTcyR0gwQzAxWjhSRW4tMGVnUVV2NHY3WFNSOV9ua2VJSTVhRGo2b2FoWlZscDNyY3lvb1I1X2UyUWY5VE8zS0k5VnBENGtNLW96SGFhNA?oc=5",
           "source": "Google News: Dota (Inven Global)",
@@ -139,36 +117,24 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Ideas to make cheating less rewarding in Trackmania (not just harder to do)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xisk2h/ideas_to_make_cheating_less_rewarding_in/",
-          "source": "r/TrackMania",
-          "published": "2026-10-29T18:47:59.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "ban*",
-            "cheating",
-            "record*"
-          ]
         },
         {
-          "title": "Ideas for preventing cheating (How important is determinism to TM?)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xit6j5/ideas_for_preventing_cheating_how_important_is/",
-          "source": "r/TrackMania",
-          "published": "2026-10-29T19:11:16.000Z",
-          "score": 4,
+          "title": "343 Identifies the Main Problem Facing the Professional Dota 2 Scene",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JEajFpTnhKWEV6RHFmTjJ2eXhOR2VmSGpiOVJFaXMwOHYtX3dPZnNzOUZwWmJXbHdJMHo3TGNMT01PaFZLNW81R1ZXdzNyc2xjVWxTZmhDZHpGM3VWb1NpVnVwVE9xYm1UU0lHWG9sUUF1OG1abEZvOElVT2ZyTXdaWmNQTUtHNlFCYw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-10-29T09:11:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "cheating"
-          ]
+          "why": []
+        },
+        {
+          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-10-29T03:40:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -257,6 +223,18 @@
           ]
         },
         {
+          "title": "This is my third time getting a vac cooldown",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj16kw/this_is_my_third_time_getting_a_vac_cooldown/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T00:32:53.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "cheat*",
+            "vac"
+          ]
+        },
+        {
           "title": "cmtry expected to miss Singapore Major for Astralis after FUT's quarter-final exit in Bucharest",
           "url": "https://www.hltv.org/news/45850/cmtry-expected-to-miss-singapore-major-for-astralis-after-futs-quarter-final-exit-in-bucharest",
           "source": "HLTV news",
@@ -302,25 +280,14 @@
           ]
         },
         {
-          "title": "IEM Beijing 2026 — simulation",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xiybiw/iem_beijing_2026_simulation/",
+          "title": "Why are teams taking the subway to PGL Bucharest?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj11q8/why_are_teams_taking_the_subway_to_pgl_bucharest/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-29T22:29:26.000Z",
+          "published": "2026-10-30T00:26:43.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "FalleN: \"I like the way Boombl4 thinks about the game\"",
-          "url": "https://www.hltv.org/news/45856/fallen-i-like-the-way-boombl4-thinks-about-the-game",
-          "source": "HLTV news",
-          "published": "2026-10-29T20:40:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pgl*"
+            "pgl"
           ]
         }
       ]
@@ -486,6 +453,7 @@
     "AoE2",
     "Classic Tetris",
     "Brood War",
+    "Trackmania",
     "Warcraft III",
     "Quake",
     "Halo"
