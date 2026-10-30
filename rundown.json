@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:00:38.323Z",
+  "generatedAt": "2026-10-30T12:00:41.203Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -45,6 +45,28 @@
             "navi",
             "vitality",
             "pgl"
+          ]
+        },
+        {
+          "title": "Live updates from PGL Masters Bucharest semi-finals",
+          "url": "https://www.hltv.org/news/45859/live-updates-from-pgl-masters-bucharest-semi-finals",
+          "source": "HLTV news",
+          "published": "2026-10-30T11:58:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Updated VRS race cheat sheet (credit to @MischiefCs2 on twitter)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjcx5u/updated_vrs_race_cheat_sheet_credit_to/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T11:34:53.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "cheat"
           ]
         },
         {
@@ -117,17 +139,6 @@
           ]
         },
         {
-          "title": "jL killed ZywOo but ZywOo have a higher negative swing?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj3gzk/jl_killed_zywoo_but_zywoo_have_a_higher_negative/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T02:22:37.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zywoo"
-          ]
-        },
-        {
           "title": "FalleN: \"I like the way Boombl4 thinks about the game\"",
           "url": "https://www.hltv.org/news/45856/fallen-i-like-the-way-boombl4-thinks-about-the-game",
           "source": "HLTV news",
@@ -137,23 +148,12 @@
           "why": [
             "pgl*"
           ]
-        },
-        {
-          "title": "B1ad3: \"Trust the process\"",
-          "url": "https://www.hltv.org/news/45853/b1ad3-trust-the-process",
-          "source": "HLTV news",
-          "published": "2026-10-29T16:42:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "navi*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
@@ -180,6 +180,18 @@
           ]
         },
         {
+          "title": "Playtime Roster",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjd1at/playtime_roster/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T11:40:54.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "signed*",
+            "roster"
+          ]
+        },
+        {
           "title": "People be posting their Cryptic Beacon treasures, somehow I got a Pipe of Dezun on my first ever",
           "url": "https://www.reddit.com/r/DotA2/comments/1xj51au/people_be_posting_their_cryptic_beacon_treasures/",
           "source": "r/DotA2",
@@ -199,28 +211,6 @@
           "level": null,
           "why": [
             "champion"
-          ]
-        },
-        {
-          "title": "Team Liquid - Astra Invicta 2-0",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEU3eUpnOVYtcHFrQXdvTmc0ZGc2N2wyNGNLcUtxeGthRU8xcUtYcXJzdGl3djhKSGk0eE0wamNlVkdEMnhaaXc3TUhhM0tWQ3hCTzZaZ19PLXluU01LUkt5X04xNFRUS08yMXV1eGZ3SlhBZlh6Qnc4OEVPQTRZbmZlLTNOZVdST3BDakJYNlhuR2dpb2prNmNSS3Fhd0Zqb3hNRmY4Y1J4bk5GUTVmbE93?oc=5",
-          "source": "Google News: Dota (Flashscore.com)",
-          "published": "2026-10-29T17:15:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "How Team Liquid and SAP Combined Forces to Win the Race to World First",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUTNKb09NUDBTcjlUOHExMzk4aVZBZGlBTnFGNU9ZVkhuQkpwU3A0bFFTbjF1WF9WMEpwV0xtVVZjYkdtbXJlTXZ3Qzg0OTlfMTlPaXIyZ3Bwc0JUVzJud0ZISHhRdTVUa2g3RW9yeFF5MDFvRXdERDdTWjU?oc=5",
-          "source": "Google News: Dota (Insider Gaming)",
-          "published": "2026-10-29T11:03:51.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
           ]
         },
         {
@@ -381,8 +371,45 @@
       ]
     },
     {
+      "scene": "AoE2",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Since i heard about it i always thought making a Phosphoru Rush was beneath me... I just won a game with it and now i dont think i can go back",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xj2be7/since_i_heard_about_it_i_always_thought_making_a/",
+          "source": "r/aoe2",
+          "published": "2026-10-30T01:27:16.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Deer lure has been made easier. New update",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xipfaf/deer_lure_has_been_made_easier_new_update/",
+          "source": "r/aoe2",
+          "published": "2026-10-29T16:52:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Final Word (TM) In Speed Debate",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xj0i38/final_word_tm_in_speed_debate/",
+          "source": "r/aoe2",
+          "published": "2026-10-30T00:02:19.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "M8 with Kremp vs Faze 3v3 chall gets intense",
@@ -394,22 +421,12 @@
           "why": [
             "faze"
           ]
-        },
-        {
-          "title": "50k iiconsgg Shuffle Tournament Winners 🏆",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xj3oym/50k_iiconsgg_shuffle_tournament_winners/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T02:33:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     }
   ],
   "quiet": [
     "Melee",
-    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
