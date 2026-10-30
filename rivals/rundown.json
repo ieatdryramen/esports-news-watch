@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-10-30T06:45:22.531Z",
+  "generatedAt": "2026-10-30T07:40:27.272Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
-        {
-          "title": "Marvel Rivals Ignite Grand Finals 2026: Schedule, teams, results, and where to watch",
-          "url": "https://esports.gg/news/marvel-rivals/marvel-rivals-ignite-grand-finals-2026-schedule-teams-results-streams/",
-          "source": "esports.gg",
-          "published": "2026-10-29T07:00:23.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "grand finals",
-            "grand finals",
-            "natus vincere*",
-            "virtus.pro*"
-          ]
-        },
         {
           "title": "Marvel Rivals Ignite Grand Finals 2026: Schedule, Participants, Format, and $1,000,000 Prize Pool",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXpkc0NPVjkzQ0sxejU3QV9vNE9vUHgyMS1IUW1yS0FKNVVJSVRoY3ZIRy1mRlR0aXdtbDVlc0dPNGZySHN1aUZlTWhSeW9MekczRkNJWjVzaThqbWNFZlJjNHBRT2ZPZWNGMDlqaDV0TEVNbm9hSnFSX2NRY0RMcWMtaFdYeDZUa0dISDc2VURUSndoamtxcG5nZ3hpdWJ4RHhrd0FWSDNtcnJrUGttdEZmdVp5N0MyUU9Kak51Ul91UdIBygFBVV95cUxOZlFUeTFEMThhR0xHZmIwNGFRM0ZpZTY1am1PRVNXdnlxMmZsUDRsUVp1eHpQRlhWVndFN2hqaWxBMDlnTlhMQ0d6OHBCLWNiaXlfaVZEU1RXRU5RdEwyVW5UNEtpMnhBZ2RMUVJ6RFZjZlVoUlhXb1BRUklUcDZqbkNza0hEdVVSTGc2REdYdjNyc0tjNmlzSncyc0dlLXlNY0VWcUdWQzRGSWx5MnVuclpxd096S19yX3Z1ZC1aeWxGMU9GUUVhQk1R?oc=5",
@@ -97,19 +83,19 @@
           "why": []
         },
         {
-          "title": "Marvel Rivals Halloween Night of Illusions Event: All Answers",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1abW1aaW1ZaUJDMW5hUW1sNl85by1acXU2WkR3ZFVXQWFHWC13dG5jZVluVTh2NWdsdnBNV1hoMUhLUkdfREV6NzRtc3dXS2Q0U050S2xETUd0ZFYwbE9ISzBIS3VvRTE5VUF5WnB6X0tEZVE20gF6QVVfeXFMUENSaEdZX3JrbUZNUHNtMkVhUUYtazJGd3RIT3NGamdpMTNScXpYQURsN2E3eHZJSWEwMktBQTN6dS1abXRLZG5WWXZELTVTTzRlLXZETFJ4ODR3RE5VblNQMWo5ZV80U3R2c1VrNFhHaTJoRjZ2R0lpWVE?oc=5",
-          "source": "Google News: Rivals patches (Beebom)",
-          "published": "2026-10-29T12:34:42.000Z",
+          "title": "Marvel Rivals Night of Illusions event chapter five Unknown Space walkthrough",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ25WQVI1ZmxkWm5ZSVJkYW1YSUp1UU80S056aXNtNmhUZGthYmE4eFExeWRFWFplenRKQ1Jja0hMTndtSS1uNXRlS2dqRW9Cdkx1b1V0QWhCN2VTUW9USmRDcFdzM3BnWDZRNWx5c1B0U0k5MzZMMVRkMTlrS09rVG9UYWM3X2haRE9nN0RIcXpoOXVfVVVaQ21lbV9teE1zT0RVOTR1RlUwdw?oc=5",
+          "source": "Google News: Rivals esports (Destructoid)",
+          "published": "2026-10-29T12:56:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Marvel Rivals Night of Illusions event chapter four Hall of Eternal Night walkthrough",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVRaUW91TW1mclR2YldFOU5PVzRVMkFDcXdQQkNzY2ZGd1I5ZWFMemU4ZllyVnF5M0s0V3NuYW1vWDFTaUVKNFI4MHJnMmoyQnMwUXpKTGtIbWo1MmpDb0xJSXBSSWlsSzhzWWZSZHlKWWJncGRLN3JrTHBfRmRjN2h5a2ZXaWZZRGN6ajFZV3pJX1M0Zk9pYXRValJFcW5jLXh2Q09zT1FvNXhDdW5HUDB1VS0?oc=5",
-          "source": "Google News: Rivals esports (Destructoid)",
-          "published": "2026-10-29T12:05:00.000Z",
+          "title": "Marvel Rivals Halloween Night of Illusions Event: All Answers",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1abW1aaW1ZaUJDMW5hUW1sNl85by1acXU2WkR3ZFVXQWFHWC13dG5jZVluVTh2NWdsdnBNV1hoMUhLUkdfREV6NzRtc3dXS2Q0U050S2xETUd0ZFYwbE9ISzBIS3VvRTE5VUF5WnB6X0tEZVE20gF6QVVfeXFMUENSaEdZX3JrbUZNUHNtMkVhUUYtazJGd3RIT3NGamdpMTNScXpYQURsN2E3eHZJSWEwMktBQTN6dS1abXRLZG5WWXZELTVTTzRlLXZETFJ4ODR3RE5VblNQMWo5ZV80U3R2c1VrNFhHaTJoRjZ2R0lpWVE?oc=5",
+          "source": "Google News: Rivals patches (Beebom)",
+          "published": "2026-10-29T12:34:42.000Z",
           "score": 1,
           "level": null,
           "why": []
