@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-10-30T05:00:34.444Z",
+  "generatedAt": "2026-10-30T06:00:36.222Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
+        {
+          "title": "A Chinese ZywOo fan on the “485” controversy in Perfect World’s app",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xj70g4/a_chinese_zywoo_fan_on_the_485_controversy_in/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-30T05:30:28.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "allegations*",
+            "controversy",
+            "official*",
+            "zywoo",
+            "reddit only"
+          ]
+        },
         {
           "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
           "url": "https://esports.gg/news/counter-strike-2/pgl-masters-bucharest-2026-playoff-results/",
@@ -133,17 +148,6 @@
           "why": [
             "pgl*"
           ]
-        },
-        {
-          "title": "B1ad3: \"Trust the process\"",
-          "url": "https://www.hltv.org/news/45853/b1ad3-trust-the-process",
-          "source": "HLTV news",
-          "published": "2026-10-29T16:42:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "navi*"
-          ]
         }
       ]
     },
@@ -260,7 +264,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Dashy wishes he could’ve retired",
@@ -311,18 +315,6 @@
           ]
         },
         {
-          "title": "Challengers Prize Pool cuts pushes Jerry over the edge",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xiwusk/challengers_prize_pool_cuts_pushes_jerry_over_the/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-29T21:30:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "announced*",
-            "prize pool"
-          ]
-        },
-        {
           "title": "50k iiconsgg Shuffle Tournament Winners 🏆",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xj3oym/50k_iiconsgg_shuffle_tournament_winners/",
           "source": "r/CoDCompetitive",
@@ -330,6 +322,35 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "What am I missing? (Street Fighter V Champion Edition)",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xj6qci/what_am_i_missing_street_fighter_v_champion/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-30T05:14:09.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "the last*",
+            "champion"
+          ]
+        },
+        {
+          "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
+          "source": "Google News: Street Fighter (Esports.gg)",
+          "published": "2026-10-29T14:08:55.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
         }
       ]
     },
@@ -384,23 +405,6 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Evo Brazil 2027 unveils games lineup, resurrects Mortal Kombat 1",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WkJkT1Z4U191R29pVW5maGtuLVp6WlRRWUhtYndRT3F2TWNqTm1KOEpFTUk3ZklEZ1RKQmpfMTRvUm5uWENQR214bXlGOFp4b1prTWZORmpKTTNITGtsYjdNTExsc3pIZjN6MXhvaTliX08zWXc?oc=5",
-          "source": "Google News: Street Fighter (Esports.gg)",
-          "published": "2026-10-29T14:08:55.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
         }
       ]
     }
