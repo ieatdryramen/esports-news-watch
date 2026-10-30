@@ -1,6 +1,28 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-30T15:30:20.978Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "FUT/Astralis/Vitality roster for major problems",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjieu4/futastralisvitality_roster_for_major_problems/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "roster",
+        "won*",
+        "vitality",
+        "astralis",
+        "pgl*",
+        "reddit only"
+      ],
+      "summary": "First, Vitality literally decided to sacrifice apEX's stickers by going to PGL Bucharest. They had their stage 3 invitation clinched for a while and their regular roster set since StarLadder and EPL S24. jL is openly laughing about it on Twitter. No need to defend them. And FUT/Astralis is pretty much FUT screwing Astralis over. FUT team manager Garrixer argued on Twitter that playing a T2 LAN was too risky for their VRS, so they made the choice to risk it. It's all about stickers for them, while for Astralis, they won't be able to use the player they paid for at the event they planned for. There are no such situations where \"omg wtf those rules are so weird, what's happening?\". They have managers, analysts, they all knew what could happen. submitted by /u/PudBatry to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-30T15:27:33.000Z"
+    },
+    {
       "alertedAt": "2026-10-30T14:00:25.178Z",
       "level": "possible",
       "scene": "CS2",
