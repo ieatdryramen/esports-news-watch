@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T20:45:26.666Z",
+  "generatedAt": "2026-10-31T21:00:37.939Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 16,
       "stories": [
         {
           "title": "INSANE! Very near retirement, Fallen does it again at a bo5 and now holds a 17-3 record.",
@@ -99,19 +99,6 @@
           ]
         },
         {
-          "title": "FURIA edge past MOUZ in three maps to reach PGL Masters Bucharest final",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVJDSkVnWDlqODBnTHBqeVdfQzMxNTFZaGpxU240U3A1VFI1WGZxQ2FYNG1LeW1WX0tnOV9saHd5YTc0QkpDT0ZacE80OWRxd241TzFZeGdUNTVWaEVlSG9zMElpamRPWHh6OTU5dW5WZ0VqN1dhZ1pKVTBnc19yYjBCbEhiMGlpMEhVTmxiNEIyTGtMaWlCOXZfakpZdnJ6V2dCRWZQcFNLdFcxOEtv?oc=5",
-          "source": "Google News: CS2 (Esports News UK)",
-          "published": "2026-10-31T08:49:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
           "title": "Iberian Soul vs OG / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkkodf/iberian_soul_vs_og_hyperx_retake_season_13/",
           "source": "r/GlobalOffensive",
@@ -157,12 +144,23 @@
           "why": [
             "iem*"
           ]
+        },
+        {
+          "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\"",
+          "url": "https://www.hltv.org/news/45866/imd-there-are-no-plans-for-snax-to-be-igling-for-gamerlegion-next-season",
+          "source": "HLTV news",
+          "published": "2026-10-30T21:40:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "revealed*"
+          ]
         }
       ]
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Better Land Warfare - Major Update: Hooks and Hoards released",
@@ -179,6 +177,15 @@
             "joins*",
             "roster*"
           ]
+        },
+        {
+          "title": "Game progression went from 100% to 99% after last patch",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xkl8js/game_progression_went_from_100_to_99_after_last/",
+          "source": "r/aoe2",
+          "published": "2026-10-31T20:59:24.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -232,14 +239,14 @@
           ]
         },
         {
-          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-10-30T23:00:33.000Z",
-          "score": 3,
+          "title": "Can you Update the game before i get my first child???",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkl2r1/can_you_update_the_game_before_i_get_my_first/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T20:52:10.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "team liquid"
+            "update"
           ]
         },
         {
@@ -376,13 +383,17 @@
           ]
         },
         {
-          "title": "out of all the dlc characters we have gotten so far which character do u think was done best and who is ur personal favorite?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkegbo/out_of_all_the_dlc_characters_we_have_gotten_so/",
+          "title": "So apparently Steam gamepad settings lets you cheat...",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkl7t1/so_apparently_steam_gamepad_settings_lets_you/",
           "source": "r/StreetFighter",
-          "published": "2026-10-31T16:22:23.000Z",
-          "score": 0,
+          "published": "2026-10-31T20:58:30.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "banned*",
+            "cheat",
+            "-settings"
+          ]
         }
       ]
     },
