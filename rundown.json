@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T09:00:32.759Z",
+  "generatedAt": "2026-10-31T10:00:37.578Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Team Spotlight - The story of Nemiga the Fearless, it's not a story Spirit would tell you.",
@@ -23,30 +23,31 @@
           ]
         },
         {
-          "title": "Natus Vincere vs WBT Academy / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjwvg6/natus_vincere_vs_wbt_academy_hyperx_retake_season/",
+          "title": "Vitality vs MOUZ / PGL Masters Bucharest 2026 - 3Rd Place Decider Match / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk61yq/vitality_vs_mouz_pgl_masters_bucharest_2026_3rd/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-31T01:02:31.000Z",
+          "published": "2026-10-31T09:46:29.000Z",
           "score": 5.5,
           "level": "possible",
           "why": [
             "roster*",
             "official*",
-            "aleksib*",
-            "b1t*",
-            "natus vincere"
+            "zywoo*",
+            "ropz*",
+            "vitality",
+            "mouz"
           ]
         },
         {
-          "title": "If Nemiga wins this final it will be the first time in csgo/cs2 history that a team wins a tier 1 event from an open qualifier",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjyv1c/if_nemiga_wins_this_final_it_will_be_the_first/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T02:40:09.000Z",
+          "title": "Live updates from PGL Masters Bucharest grand final",
+          "url": "https://www.hltv.org/news/45868/live-updates-from-pgl-masters-bucharest-grand-final",
+          "source": "HLTV news",
+          "published": "2026-10-31T09:45:00.000Z",
           "score": 5,
           "level": "possible",
           "why": [
-            "wins",
-            "history"
+            "grand final",
+            "pgl"
           ]
         },
         {
@@ -141,21 +142,21 @@
           ]
         },
         {
-          "title": "Aleksib Cache smoke for Highway control or to pop A",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk0ydr/aleksib_cache_smoke_for_highway_control_or_to_pop/",
+          "title": "Congratulations to MOUZ on securing third place!",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk63pq/congratulations_to_mouz_on_securing_third_place/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-31T04:30:34.000Z",
+          "published": "2026-10-31T09:49:35.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "aleksib"
+            "mouz"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
@@ -193,33 +194,21 @@
           ]
         },
         {
-          "title": "Worlds 2026 Swiss Stage Day 7 Results: LØS eliminate Team Liquid, Hanwha Life Esports crush G2 Esports’ hopes",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHJoYUNBaE5kMGRGSm1qVlRwWWpzYnlOdThTY3dOTmstUEw3d25qejhDUVp5dUctRDhkWFNtMjBxalQxb3hXcEFJcUhIX3RmV3hhLWtMak45NmFHZE9ZalAzUGFCVGRhcnFyTVhHR0JvZllaVWhQdDZkVEZzU2RqQzdNRQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-31T03:45:56.000Z",
+          "title": "Team Spirit ride 2 victories into PARI Universe’s lower-bracket final",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQby1nMjVqMXdXNFdoUmMtTzRfWnBTcklCaHZGWVZmQ0tScW9FMDNBR0tEQ1hDOS00QXI3dkY5cGdhNWw1QlYwSjFYMVVWdnZ6RGNGVkQ4cjhJTnp3LVVIc2dOSWZiLWNHUnB5dDN3cHJLaHpTNXdIZXk4VUo1NDhBWUh1aEdEY0R4UzhuZFRhd3pvdWkzYzQ5U3plajZmbDExeHd1MFlBQWY?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-10-31T09:56:15.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "Official Gaben statement on the Major Patch ETA",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjxqqg/official_gaben_statement_on_the_major_patch_eta/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T01:44:12.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "statement",
-            "official"
+            "team spirit"
           ]
         },
         {
           "title": "PlayTime Abandons South America To Sign European Roster – Is SA Dota Officially Dead?",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdElhdTNxQWloTU1YT2NkYUw3NlFYS0d6Njd4NEhvaHpQdkd6MmJVTjRyVWx0N09LbnI2ZlJ0T1Ixa3lWZktTaWVFbWR4d0NTUG1zMHpvR0hQVjk0cjV2TjNDZmNxdUdjUTFRR3hzLXhZTkFjUjFmQ1pHTWk2Y3dxT1hGT0xnbGZaT05qemtuSmVPcVptQ2FkUkVUTmt6c2RJbjd0UzU3S3pXbjlQQ3E1RWVxbzR4YXVsLVE?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-31T00:53:07.000Z",
+          "published": "2026-10-31T05:25:25.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -235,18 +224,6 @@
           "level": null,
           "why": [
             "og"
-          ]
-        },
-        {
-          "title": "Dota update mentioned in deadlock update (totally not copium)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjwo8k/dota_update_mentioned_in_deadlock_update_totally/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T00:53:03.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "update",
-            "comeback*"
           ]
         },
         {
@@ -288,6 +265,26 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "I want a new hero to be piano related.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjzzq9/i_want_a_new_hero_to_be_piano_related/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T03:39:07.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Liquid - TSpirit, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2Njay1PXy1ySG5RMkwyS1VVc3l1MndNRUVqUjBPZi1XYWhidnNpT0UtM3F2bkdTMzZidlRlQnVLaHNTYk9OSE82aVdKNXJ3OUlmR0NLeFBoSldDc0hJemUtSTFyTzZERE5jUXBzZFNVTmtWRVJwLWs1SEdMV1BtamVvZU4?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-10-30T16:23:25.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -315,38 +312,6 @@
           "level": null,
           "why": [
             "evo"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "[Event Thread] Tipped Off 17: Haunted Day 1 | October 31st–November 1st | Feat. Hungrybox, Zain, Wizzrobe, lloD, Krudo, moky, SDJ, Joshman, Ginger, Magi, Trif, n0ne, Preeminent, Axe, Kola, DarkGenex, and many many more!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xjx6sq/event_thread_tipped_off_17_haunted_day_1_october/",
-          "source": "r/SSBM",
-          "published": "2026-10-31T01:17:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "hungrybox",
-            "zain",
-            "moky",
-            "trif"
-          ]
-        },
-        {
-          "title": "Is it just me or has hungrybox been cooking?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xjz0oe/is_it_just_me_or_has_hungrybox_been_cooking/",
-          "source": "r/SSBM",
-          "published": "2026-10-31T02:48:22.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "hungrybox",
-            "zain*"
           ]
         }
       ]
@@ -424,6 +389,33 @@
           "source": "Google News: Legacy FGC (GamingBolt)",
           "published": "2026-10-30T15:29:18.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Is it just me or has hungrybox been cooking?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xjz0oe/is_it_just_me_or_has_hungrybox_been_cooking/",
+          "source": "r/SSBM",
+          "published": "2026-10-31T02:48:22.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "hungrybox",
+            "zain*"
+          ]
+        },
+        {
+          "title": "Congratulations to the winner of Melee Singles at BattleGateWay #53!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xk5s2m/congratulations_to_the_winner_of_melee_singles_at/",
+          "source": "r/SSBM",
+          "published": "2026-10-31T09:29:06.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
