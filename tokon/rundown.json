@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-10-31T04:00:41.497Z",
+  "generatedAt": "2026-10-31T05:00:40.959Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "▶️ Marvel Tokon: Fighting Souls - Marvel Tokon: Jane Foster Thor Trailer",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSYnhETkFRbjZvMFU3dEhjdThGTXQ4MU1QSVI5TWdsVkFCZXhlOHg0eG9VUWxESjhIRVJXM3Z2WHB0ZjU4dGZrR3NkQXhZeTBiVEE?oc=5",
+          "source": "Google News: Tokon (IMDb)",
+          "published": "2026-10-31T04:28:42.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Phoenix Cyclops in Marvel Tokon 3 out of 3 image gallery",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbll2MmIxWl9jTmw0Vl9Vd1RwUFgxT0RJUkxac1kwcDVfOGZ3cDN5QnJYU2V2b2ZiT2NTbFUxY2gwRk8zZ0EyUjlrbEk5bVBiRS1iVnNqNkRFS21iYkFEalZlTlhLNUJqVE9uZ1I3RkJlNTlGTlZzU0dOZVVpSDhFWlFaU1NZYXd2YWc?oc=5",
