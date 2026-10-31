@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:00:33.547Z",
+  "generatedAt": "2026-10-31T00:00:39.277Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -144,8 +144,20 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 13,
       "stories": [
+        {
+          "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaV85RW5mY2xKd0xoMDl1OEt6VG9sdks2eTA0S3JGSUNOM3ZvLVE3U3dsS1lIRGZMX2tQLTJBajdpT0JaRHRvNVhHNjZER2lyV2JUYkRNWDR5c3o0ZUhvS1ZFOFdobGxVMC1XN2lGNjlnZDVwMkxzQVJJcmZPem1rN1U1RG1sSTFlLWN3M0d3ZDZQTmZrc2Y0Sm56QVJZSXhlc1JITnoyTXdEN1BLSS1WcnhB?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-10-30T23:37:30.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "team spirit",
+            "team liquid"
+          ]
+        },
         {
           "title": "Pro Dota returns to Germany in 2027 as ESL One Munich announced",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fMWxMUm5CVGxUWDlaekhEVXZzNkthWTluYjJQdHVMZGJuQjA2UGFWNDlDaVd5NXdFdnJmSjJLWmZCOEY5MmdJU1p0RTh4ajQzRURSR0V3eFlxcm8xYl9xWEJBUnBPcm9MVUE?oc=5",
@@ -156,18 +168,6 @@
           "why": [
             "returns",
             "announced"
-          ]
-        },
-        {
-          "title": "Team Spirit Or PARIVISION? Liquid Or OG? PARI Universe Playoffs Day 3 Predictions",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzhvYkRqVzFXQjNnZE0yTHBOaGFKX1hJVTlaNnhoWV9MOHFjSmNLbm1VWm9NT1R3Q18yTFFFZEFhTVdxODhaUGJQZXAwUHFrVUNzYjRIcTRsTzZjM3lkNFRhTGxJM09YbXkyVjJZQTk3T0RsbTRDOVA1U2pIUjB3bW5Lcm1pNTZaR25DWm8yb0cyT0I2RERQNVlQVm1wM0tDWjlfR2NfaEVmdkNmQmJETjJGeUQ1Zw?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-29T23:40:42.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "team spirit",
-            "og"
           ]
         },
         {
@@ -226,28 +226,6 @@
           ]
         },
         {
-          "title": "Timado stands-in for miCke in the match against Team Spirit (Lower Bracket)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjmzmj/timado_standsin_for_micke_in_the_match_against/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T18:16:07.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "New PlayTime Roster",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjmplp/new_playtime_roster/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T18:05:45.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
           "title": "I had a dream about patch 8.00",
           "url": "https://www.reddit.com/r/DotA2/comments/1xjr1rt/i_had_a_dream_about_patch_800/",
           "source": "r/DotA2",
@@ -277,12 +255,32 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "While waiting for patch, let's come up with some new objectives for our game",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjqjtw/while_waiting_for_patch_lets_come_up_with_some/",
+          "source": "r/DotA2",
+          "published": "2026-10-30T20:31:49.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Liquid - TSpirit, October 30, 2026 - match stream, live broadcast - PARI Universe - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkIwZG1mX3Zqd0RNZlZ3eV9Od1l3VGNrbHpDcnJRaEJ1aGFzSlRIZDBVWkJOWTFpanFLNzY3U3J4VnhhdmhTQ1pWRy1SUnR5QVhqM2VNVDJ6WWxYOWRUWHBWNUcyUGtYbkZ5YU1RWUdwQW5nekFuM3dsdGJvLWJxSkROME0?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-10-30T16:38:56.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -304,6 +302,17 @@
           "level": null,
           "why": [
             "evo"
+          ]
+        },
+        {
+          "title": "The most Saddest ending of tekken",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xjvbbt/the_most_saddest_ending_of_tekken/",
+          "source": "r/Tekken",
+          "published": "2026-10-30T23:53:08.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ending"
           ]
         },
         {

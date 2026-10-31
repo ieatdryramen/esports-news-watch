@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:30:21.875Z",
+  "generatedAt": "2026-10-31T00:00:27.091Z",
   "source": "start.gg",
   "completed": [
     {
@@ -187,53 +187,6 @@
         {
           "placement": 7,
           "name": "FUNSCREW | Daddy_Smurf"
-        }
-      ]
-    },
-    {
-      "eventId": "1739008",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #139",
-      "event": "Tekken 8",
-      "entrants": 215,
-      "online": true,
-      "major": false,
-      "startAt": "2026-10-28T00:00:00.000Z",
-      "endAt": "2026-10-28T03:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-139/event/tekken-8",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Mirage | Joey Fury"
-        },
-        {
-          "placement": 2,
-          "name": "Kelvaro"
-        },
-        {
-          "placement": 3,
-          "name": "ONi | NYC TKN | Dr.theJAKEMAN, M.D"
-        },
-        {
-          "placement": 4,
-          "name": "THG | TrizzyTheRapper"
-        },
-        {
-          "placement": 5,
-          "name": "Kanme | Shadow 20z"
-        },
-        {
-          "placement": 5,
-          "name": "pling"
-        },
-        {
-          "placement": 7,
-          "name": "BES | King S3rvbot"
-        },
-        {
-          "placement": 7,
-          "name": "DXCorp | PhiDX"
         }
       ]
     }
