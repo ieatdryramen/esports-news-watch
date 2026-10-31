@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:30:20.768Z",
+  "generatedAt": "2026-10-31T02:00:23.236Z",
   "source": "start.gg",
   "completed": [
     {
@@ -193,19 +193,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1657242",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "王者之战7 | FightClub Championship 7",
-      "event": "Guilty Gear -Strive- (AWT Platinum)",
-      "entrants": 198,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T02:00:00.000Z",
-      "endAt": "2026-11-01T14:00:00.000Z",
-      "url": "https://www.start.gg/tournament/7-fightclub-championship-7/event/guilty-gear-strive-awt-platinum"
-    },
     {
       "eventId": "1742535",
       "scene": "tekken",

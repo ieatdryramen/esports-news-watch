@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-10-31T01:00:36.726Z",
+  "generatedAt": "2026-10-31T02:00:33.030Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
+        {
+          "title": "Natus Vincere vs WBT Academy / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjwvg6/natus_vincere_vs_wbt_academy_hyperx_retake_season/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T01:02:31.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "official*",
+            "aleksib*",
+            "b1t*",
+            "natus vincere"
+          ]
+        },
         {
           "title": "fnatic vs Eternal Fire / StarLadder Ranked Episode 5 - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjqss9/fnatic_vs_eternal_fire_starladder_ranked_episode/",
@@ -128,21 +143,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
-          "source": "Google News: CS2 (Донецька Обласна Державна адміністрація)",
-          "published": "2026-10-30T19:10:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
@@ -166,6 +172,18 @@
           "why": [
             "returns",
             "announced"
+          ]
+        },
+        {
+          "title": "Official Gaben statement on the Major Patch ETA",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjxqqg/official_gaben_statement_on_the_major_patch_eta/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T01:44:12.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "statement",
+            "official"
           ]
         },
         {
@@ -267,15 +285,6 @@
           "why": [
             "update"
           ]
-        },
-        {
-          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
-          "source": "Google News: Dota (Донецька Обласна Державна адміністрація)",
-          "published": "2026-10-30T19:10:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -329,8 +338,22 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "[Event Thread] Tipped Off 17: Haunted Day 1 | October 31st–November 1st | Feat. Hungrybox, Zain, Wizzrobe, lloD, Krudo, moky, SDJ, Joshman, Ginger, Magi, Trif, n0ne, Preeminent, Axe, Kola, DarkGenex, and many many more!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xjx6sq/event_thread_tipped_off_17_haunted_day_1_october/",
+          "source": "r/SSBM",
+          "published": "2026-10-31T01:17:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "hungrybox",
+            "zain",
+            "moky",
+            "trif"
+          ]
+        },
         {
           "title": "GOAT Character Players Poll RESULTS",
           "url": "https://www.reddit.com/r/SSBM/comments/1xjps20/goat_character_players_poll_results/",
