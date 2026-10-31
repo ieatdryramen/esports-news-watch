@@ -1,6 +1,30 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T10:10:19.924Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "FURIA vs Nemiga, PGL Masters Bucharest grand final: is this Bo5 closer than it looks?",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk6dvv/furia_vs_nemiga_pgl_masters_bucharest_grand_final/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7.5,
+      "why": [
+        "wins*",
+        "grand final",
+        "vitality*",
+        "mouz*",
+        "liquid*",
+        "furia",
+        "pgl",
+        "reddit only"
+      ],
+      "summary": "https://preview.redd.it/vwvtyo3mzryh1.png?width=1540&format=png&auto=webp&s=a9f63c9fd002bd08dd44a42aa9ecdf88dd7722cd Grand final now, Bo5. A stats on a cybersports gives FURIA about 65%, mostly because of the ranking gap (#3 vs #21 in rating). But I’m not sure that number captures Nemiga’s form. They come in off 2-0 wins over Vitality, The MongolZ and FUT, while FURIA just beat MOUZ 2-1 and BetBoom and Liquid 2-0. Both teams are 4/5 in their last five, and the only head-to-head we have is one Bo3 from January 2025. Can Nemiga actually take a Bo5 here? What’s your score prediction, and which maps decide it? submitted by /u/coolii92 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-31T10:06:41.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T09:55:17.974Z",
       "level": "possible",
       "scene": "CS2",
