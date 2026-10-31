@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T00:00:39.277Z",
+  "generatedAt": "2026-10-31T01:00:36.726Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "fnatic vs Eternal Fire / StarLadder Ranked Episode 5 - Grand Final / Post-Match Discussion",
@@ -101,17 +101,6 @@
           ]
         },
         {
-          "title": "I ran a simulation of 200,000 rays to calculate the probability of robo landing that kill shot in Nemiga vs. Vitality. The result? Just 0.1%.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjt1el/i_ran_a_simulation_of_200000_rays_to_calculate/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T22:13:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "vitality"
-          ]
-        },
-        {
           "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\"",
           "url": "https://www.hltv.org/news/45866/imd-there-are-no-plans-for-snax-to-be-igling-for-gamerlegion-next-season",
           "source": "HLTV news",
@@ -139,18 +128,27 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
+          "source": "Google News: CS2 (Донецька Обласна Державна адміністрація)",
+          "published": "2026-10-30T19:10:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaV85RW5mY2xKd0xoMDl1OEt6VG9sdks2eTA0S3JGSUNOM3ZvLVE3U3dsS1lIRGZMX2tQLTJBajdpT0JaRHRvNVhHNjZER2lyV2JUYkRNWDR5c3o0ZUhvS1ZFOFdobGxVMC1XN2lGNjlnZDVwMkxzQVJJcmZPem1rN1U1RG1sSTFlLWN3M0d3ZDZQTmZrc2Y0Sm56QVJZSXhlc1JITnoyTXdEN1BLSS1WcnhB?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-30T23:37:30.000Z",
+          "published": "2026-10-30T23:45:54.000Z",
           "score": 5,
           "level": null,
           "why": [
@@ -168,6 +166,17 @@
           "why": [
             "returns",
             "announced"
+          ]
+        },
+        {
+          "title": "PlayTime Abandons South America To Sign European Roster – Is SA Dota Officially Dead?",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdElhdTNxQWloTU1YT2NkYUw3NlFYS0d6Njd4NEhvaHpQdkd6MmJVTjRyVWx0N09LbnI2ZlJ0T1Ixa3lWZktTaWVFbWR4d0NTUG1zMHpvR0hQVjk0cjV2TjNDZmNxdUdjUTFRR3hzLXhZTkFjUjFmQ1pHTWk2Y3dxT1hGT0xnbGZaT05qemtuSmVPcVptQ2FkUkVUTmt6c2RJbjd0UzU3S3pXbjlQQ3E1RWVxbzR4YXVsLVE?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-10-31T00:53:07.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
           ]
         },
         {
@@ -190,6 +199,18 @@
           "level": null,
           "why": [
             "og"
+          ]
+        },
+        {
+          "title": "Dota update mentioned in deadlock update (totally not copium)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjwo8k/dota_update_mentioned_in_deadlock_update_totally/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T00:53:03.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "update",
+            "comeback*"
           ]
         },
         {
@@ -255,26 +276,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "While waiting for patch, let's come up with some new objectives for our game",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjqjtw/while_waiting_for_patch_lets_come_up_with_some/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T20:31:49.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Liquid - TSpirit, October 30, 2026 - match stream, live broadcast - PARI Universe - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkIwZG1mX3Zqd0RNZlZ3eV9Od1l3VGNrbHpDcnJRaEJ1aGFzSlRIZDBVWkJOWTFpanFLNzY3U3J4VnhhdmhTQ1pWRy1SUnR5QVhqM2VNVDJ6WWxYOWRUWHBWNUcyUGtYbkZ5YU1RWUdwQW5nekFuM3dsdGJvLWJxSkROME0?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-30T16:38:56.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -349,45 +350,8 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
-          "source": "Google News: Street Fighter (Yahoo News Singapore)",
-          "published": "2026-10-30T12:38:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
-        },
-        {
-          "title": "CPT 2026 Final Standings list. Who do you think over/underperformed this year? Who were you rooting for, did they make the cut?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xjo0ii/cpt_2026_final_standings_list_who_do_you_think/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-30T18:54:49.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cpt"
-          ]
-        },
-        {
-          "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
-          "source": "Google News: Street Fighter",
-          "published": "2026-10-30T15:57:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -405,6 +369,41 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlF2aXdHV1ZSSHAyLVVQSjZ0YVQwYTFkczZvbnBwa3oyWGJ6VXVYQUYzSlg1MUctUGtMUUlhMDZRMzBacXZyUEdyeW02S0JUWmotOHI5T21RNWd2UkVFZnVRSG9OTFhJSnlfeC1RR2dFOXJ1WVlDcU0xdXhhQ1kwUjZoOF95N204UDVvNlFWVkI?oc=5",
           "source": "Google News: Legacy FGC (GamingBolt)",
           "published": "2026-10-30T15:29:18.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Face-Off: Mortal Kombat 1's Best Character",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
+          "source": "Google News: Legacy FGC (IGN)",
+          "published": "2026-10-30T07:34:04.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQai1PZC15cFRvRDl4MElaUWY4VU5nNUxTRnFIaXhVN0J4c2tSX19GMWdBaHVZdU81NER3MnJtaEt0N21lQjFkb3NBNFdfcld4VnB2TEFEY2hTaGZGY2hVSGdUMUFLS0VIeTJyUGJrSE5SWFVHWW4tV3Yza21LaFcybFIyZzc?oc=5",
+          "source": "Google News: Street Fighter (Yahoo News Singapore)",
+          "published": "2026-10-30T12:38:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
+          "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
+          "source": "Google News: Street Fighter",
+          "published": "2026-10-30T15:57:58.000Z",
           "score": 1,
           "level": null,
           "why": []
