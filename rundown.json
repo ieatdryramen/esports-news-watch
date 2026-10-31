@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-10-31T13:00:42.889Z",
+  "generatedAt": "2026-10-31T14:00:39.839Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 23,
       "stories": [
-        {
-          "title": "Team Spotlight - The story of Nemiga the Fearless, it's not a story Spirit would tell you.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk2ptv/team_spotlight_the_story_of_nemiga_the_fearless/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T06:14:39.000Z",
-          "score": 12,
-          "level": "possible",
-          "why": [
-            "signed*",
-            "transfer*",
-            "benched*",
-            "bench*",
-            "replaced*",
-            "roster*"
-          ]
-        },
         {
           "title": "FURIA vs Nemiga, PGL Masters Bucharest grand final: is this Bo5 closer than it looks?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk6dvv/furia_vs_nemiga_pgl_masters_bucharest_grand_final/",
@@ -103,6 +87,30 @@
           ]
         },
         {
+          "title": "IEM Beining 2026 Talent Announced",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkaq1u/iem_beining_2026_talent_announced/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T13:49:27.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "announced",
+            "iem"
+          ]
+        },
+        {
+          "title": "ESL has released an atmospheric trailer for IEM Beijing set to a cool soundtrack",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xka6ia/esl_has_released_an_atmospheric_trailer_for_iem/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T13:25:35.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "released",
+            "iem"
+          ]
+        },
+        {
           "title": "POV: You're in a 1v1 against a silent guy who refuses to shoot and only hunts with a Zeus...⚡💀",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk75tv/pov_youre_in_a_1v1_against_a_silent_guy_who/",
           "source": "r/GlobalOffensive",
@@ -111,28 +119,6 @@
           "level": null,
           "why": [
             "refuses"
-          ]
-        },
-        {
-          "title": "Kvem , the player for Eternal Fire that comeback from 0-2 down to qualify for the major reveal some inside stories when he used to play for Passion UA(the international core not UA core)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk6cu3/kvem_the_player_for_eternal_fire_that_comeback/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T10:04:53.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "comeback"
-          ]
-        },
-        {
-          "title": "The removed AK animation. Do you want it back ?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk3fyq/the_removed_ak_animation_do_you_want_it_back/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T07:00:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
           ]
         },
         {
@@ -152,6 +138,17 @@
           "url": "https://www.hltv.org/news/45859/pgl-masters-bucharest-semi-finals-as-they-happened",
           "source": "HLTV news",
           "published": "2026-10-30T17:54:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-30T17:52:27.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -277,7 +274,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Is cheating via spectator just a thing now?",
@@ -289,12 +286,21 @@
           "why": [
             "cheating"
           ]
+        },
+        {
+          "title": "2v2 Challenge League",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xk9o2f/2v2_challenge_league/",
+          "source": "r/aoe2",
+          "published": "2026-10-31T13:03:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
@@ -302,15 +308,6 @@
           "source": "Google News: Street Fighter",
           "published": "2026-10-30T15:57:58.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "What do you guys think about Street fighter DLC in WWE",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xk4vbm/what_do_you_guys_think_about_street_fighter_dlc/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-31T08:31:25.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
