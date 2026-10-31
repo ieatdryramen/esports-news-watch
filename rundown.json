@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T14:00:39.839Z",
+  "generatedAt": "2026-10-31T14:56:56.062Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 24,
       "stories": [
         {
           "title": "FURIA vs Nemiga, PGL Masters Bucharest grand final: is this Bo5 closer than it looks?",
@@ -159,7 +159,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
@@ -229,17 +229,6 @@
           ]
         },
         {
-          "title": "Bots? New patch?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xk3yy6/bots_new_patch/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T07:32:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "released*"
-          ]
-        },
-        {
           "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
           "source": "Google News: Dota (Донецька Обласна Державна адміністрація)",
@@ -269,32 +258,6 @@
           "why": [
             "-stream"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Is cheating via spectator just a thing now?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xk3ppf/is_cheating_via_spectator_just_a_thing_now/",
-          "source": "r/aoe2",
-          "published": "2026-10-31T07:16:20.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
-        },
-        {
-          "title": "2v2 Challenge League",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xk9o2f/2v2_challenge_league/",
-          "source": "r/aoe2",
-          "published": "2026-10-31T13:03:08.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -329,6 +292,36 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "after season 2 trolling blue scrubs. now. it's time to juked GoD ranks S3.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xkbskj/after_season_2_trolling_blue_scrubs_now_its_time/",
+          "source": "r/Tekken",
+          "published": "2026-10-31T14:34:28.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "2v2 Challenge League",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xk9o2f/2v2_challenge_league/",
+          "source": "r/aoe2",
+          "published": "2026-10-31T13:03:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -349,7 +342,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Tekken",
     "CoD",
     "Quake",
     "Halo"
