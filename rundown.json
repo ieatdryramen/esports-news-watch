@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T03:00:34.215Z",
+  "generatedAt": "2026-10-31T04:00:36.320Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Natus Vincere vs WBT Academy / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
@@ -19,20 +19,6 @@
             "aleksib*",
             "b1t*",
             "natus vincere"
-          ]
-        },
-        {
-          "title": "fnatic vs Eternal Fire / StarLadder Ranked Episode 5 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjqss9/fnatic_vs_eternal_fire_starladder_ranked_episode/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-30T20:41:55.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "grand final",
-            "official*"
           ]
         },
         {
@@ -143,6 +129,15 @@
           "url": "https://www.hltv.org/news/45811/short-news-week-42",
           "source": "HLTV news",
           "published": "2026-10-30T21:36:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Eternal Fire inch closer to shock Major qualification with Stake Ranked trophy",
+          "url": "https://www.hltv.org/news/45865/eternal-fire-inch-closer-to-shock-major-qualification-with-stake-ranked-trophy",
+          "source": "HLTV news",
+          "published": "2026-10-30T21:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -257,17 +252,6 @@
           ]
         },
         {
-          "title": "What are the best drafting masterclasses in the history of pro Dota?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjpz2y/what_are_the_best_drafting_masterclasses_in_the/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T20:09:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "history"
-          ]
-        },
-        {
           "title": "I had a dream about patch 8.00",
           "url": "https://www.reddit.com/r/DotA2/comments/1xjr1rt/i_had_a_dream_about_patch_800/",
           "source": "r/DotA2",
@@ -276,6 +260,17 @@
           "level": null,
           "why": [
             "removed*"
+          ]
+        },
+        {
+          "title": "halloween update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xjzc9r/halloween_update/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T03:04:57.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -363,41 +358,6 @@
       ]
     },
     {
-      "scene": "Legacy FGC",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0NwWFN2bTFNcEhGUVoyWXRIbFVWcTZLSlJaNFRMTThYQmRKVDlnaVc5UlZEdmVIQ09sSEdsS21KUXB3ckZvamlsUU1fTEdKMm1neld0dzY1TDdvUVVnVk9TNk9KLUlyWnVmTmZaS3VOakhhWVFXUVgwNnhuTlhmVTdSUU1SbHJKTWhTYm1taFZTcW1heEhPLXZxWElDU0FUM25XQ2wzM1BEUEJrTjVyTg?oc=5",
-          "source": "Google News: Legacy FGC (The Straits Times)",
-          "published": "2026-10-30T12:38:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
-        },
-        {
-          "title": "Virtua Fighter Crossroads Showcases Lionel Rafale in New Trailer",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlF2aXdHV1ZSSHAyLVVQSjZ0YVQwYTFkczZvbnBwa3oyWGJ6VXVYQUYzSlg1MUctUGtMUUlhMDZRMzBacXZyUEdyeW02S0JUWmotOHI5T21RNWd2UkVFZnVRSG9OTFhJSnlfeC1RR2dFOXJ1WVlDcU0xdXhhQ1kwUjZoOF95N204UDVvNlFWVkI?oc=5",
-          "source": "Google News: Legacy FGC (GamingBolt)",
-          "published": "2026-10-30T15:29:18.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Face-Off: Mortal Kombat 1's Best Character",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
-          "source": "Google News: Legacy FGC (IGN)",
-          "published": "2026-10-30T07:34:04.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 2,
       "stories": [
@@ -417,6 +377,32 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
           "source": "Google News: Street Fighter",
           "published": "2026-10-30T15:57:58.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Legacy FGC",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0NwWFN2bTFNcEhGUVoyWXRIbFVWcTZLSlJaNFRMTThYQmRKVDlnaVc5UlZEdmVIQ09sSEdsS21KUXB3ckZvamlsUU1fTEdKMm1neld0dzY1TDdvUVVnVk9TNk9KLUlyWnVmTmZaS3VOakhhWVFXUVgwNnhuTlhmVTdSUU1SbHJKTWhTYm1taFZTcW1heEhPLXZxWElDU0FUM25XQ2wzM1BEUEJrTjVyTg?oc=5",
+          "source": "Google News: Legacy FGC (The Straits Times)",
+          "published": "2026-10-30T12:38:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
+          "title": "Virtua Fighter Crossroads Showcases Lionel Rafale in New Trailer",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlF2aXdHV1ZSSHAyLVVQSjZ0YVQwYTFkczZvbnBwa3oyWGJ6VXVYQUYzSlg1MUctUGtMUUlhMDZRMzBacXZyUEdyeW02S0JUWmotOHI5T21RNWd2UkVFZnVRSG9OTFhJSnlfeC1RR2dFOXJ1WVlDcU0xdXhhQ1kwUjZoOF95N204UDVvNlFWVkI?oc=5",
+          "source": "Google News: Legacy FGC (GamingBolt)",
+          "published": "2026-10-30T15:29:18.000Z",
           "score": 1,
           "level": null,
           "why": []
