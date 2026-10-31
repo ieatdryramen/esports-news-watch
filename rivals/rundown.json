@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T22:45:19.866Z",
+  "generatedAt": "2026-10-31T23:40:25.958Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Rivals Season 10.5 Roadmap Breakdown: New Game Modes, Skins, Events, and More",
@@ -23,6 +23,15 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkVNRksyTDBKdGdiNXRtZGRRQXF3cUtWOV9YTkNpUURNSWt3dHhXdDRPQTBweW1nX1Y5U0VwLTl3S0lDbXMxT01ERWx1VFFTY18zT01lUms5VnVod3Y0Zlh2dUZwMk9rSjR2UTJxbkhMTUp1SEV4bGJEbFhISEdZcV9yaUZXUHQxUGlMVWo3YXVReU0zamNkUE16LTllelF5V2t5QTJlcw?oc=5",
           "source": "Google News: Rivals esports (Esports.gg)",
           "published": "2026-10-31T16:56:06.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Infinity War Mode: All 6 Infinity Stones & Their Effects, Ranked",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Mb2lkM1I4UWcwa0FwSjZvSzJvM3VEckNwNDI3VnluRVhBOGdfOUFGS2hMbHFYOS05NGE2S01iblhtUVlqV3J3NjQxS2txZ1VLNFgxTDE2WTZ4VExjVTFfQjNzX3c?oc=5",
+          "source": "Google News: Rivals patches (IMDb)",
+          "published": "2026-10-31T14:02:34.000Z",
           "score": 1,
           "level": null,
           "why": []
