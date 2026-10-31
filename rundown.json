@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-31T06:00:37.470Z",
+  "generatedAt": "2026-10-31T07:00:32.935Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 17,
       "stories": [
+        {
+          "title": "Team Spotlight - The story of Nemiga the Fearless, it's not a story Spirit would tell you.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk2ptv/team_spotlight_the_story_of_nemiga_the_fearless/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T06:14:39.000Z",
+          "score": 12,
+          "level": "possible",
+          "why": [
+            "signed*",
+            "transfer*",
+            "benched*",
+            "bench*",
+            "replaced*",
+            "roster*"
+          ]
+        },
         {
           "title": "Natus Vincere vs WBT Academy / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjwvg6/natus_vincere_vs_wbt_academy_hyperx_retake_season/",
@@ -134,23 +150,12 @@
           "why": [
             "revealed*"
           ]
-        },
-        {
-          "title": "Abyssal vs NEXVOID / DFRAG Invitational 2026 - Lower Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk16ja/abyssal_vs_nexvoid_dfrag_invitational_2026_lower/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T04:43:29.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
@@ -188,6 +193,17 @@
           ]
         },
         {
+          "title": "Worlds 2026 Swiss Stage Day 7 Results: LØS eliminate Team Liquid, Hanwha Life Esports crush G2 Esports’ hopes",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHJoYUNBaE5kMGRGSm1qVlRwWWpzYnlOdThTY3dOTmstUEw3d25qejhDUVp5dUctRDhkWFNtMjBxalQxb3hXcEFJcUhIX3RmV3hhLWtMak45NmFHZE9ZalAzUGFCVGRhcnFyTVhHR0JvZllaVWhQdDZkVEZzU2RqQzdNRQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-10-31T03:45:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
           "title": "Official Gaben statement on the Major Patch ETA",
           "url": "https://www.reddit.com/r/DotA2/comments/1xjxqqg/official_gaben_statement_on_the_major_patch_eta/",
           "source": "r/DotA2",
@@ -208,6 +224,17 @@
           "level": null,
           "why": [
             "roster"
+          ]
+        },
+        {
+          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-10-30T23:00:33.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
           ]
         },
         {
@@ -234,32 +261,10 @@
           ]
         },
         {
-          "title": "YATORO is the G.O.A.T",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjsafo/yatoro_is_the_goat/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T21:42:29.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "yatoro"
-          ]
-        },
-        {
           "title": "halloween update",
           "url": "https://www.reddit.com/r/DotA2/comments/1xk12eg/halloween_update/",
           "source": "r/DotA2",
           "published": "2026-10-31T04:37:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Deadlock has received a Halloween update, including a themed Hideout!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjsiem/deadlock_has_received_a_halloween_update/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T21:51:46.000Z",
           "score": 1,
           "level": null,
           "why": [
@@ -294,7 +299,7 @@
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
           "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-10-30T11:57:50.000Z",
+          "published": "2026-10-30T12:11:48.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -359,7 +364,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -380,12 +385,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Street Fighter - Final Round",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xk2yer/street_fighter_final_round/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-31T06:29:50.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -406,23 +420,15 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Riyadh Falcons announce their roster for CDL 2027",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjsdim/riyadh_falcons_announce_their_roster_for_cdl_2027/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T21:46:04.000Z",
-          "score": 2,
+          "title": "Face-Off: Mortal Kombat 1's Best Character",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
+          "source": "Google News: Legacy FGC (IGN)",
+          "published": "2026-10-30T07:34:04.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "roster"
-          ]
+          "why": []
         }
       ]
     }
@@ -433,6 +439,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "CoD",
     "Quake",
     "Halo"
   ]
