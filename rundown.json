@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T04:00:36.320Z",
+  "generatedAt": "2026-10-31T05:00:34.766Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Natus Vincere vs WBT Academy / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
@@ -114,6 +114,17 @@
           ]
         },
         {
+          "title": "Aleksib Cache smoke for Highway control or to pop A",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk0ydr/aleksib_cache_smoke_for_highway_control_or_to_pop/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T04:30:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "aleksib"
+          ]
+        },
+        {
           "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\"",
           "url": "https://www.hltv.org/news/45866/imd-there-are-no-plans-for-snax-to-be-igling-for-gamerlegion-next-season",
           "source": "HLTV news",
@@ -125,22 +136,15 @@
           ]
         },
         {
-          "title": "Short news: Week 42",
-          "url": "https://www.hltv.org/news/45811/short-news-week-42",
-          "source": "HLTV news",
-          "published": "2026-10-30T21:36:00.000Z",
+          "title": "Abyssal vs NEXVOID / DFRAG Invitational 2026 - Lower Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk16ja/abyssal_vs_nexvoid_dfrag_invitational_2026_lower/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T04:43:29.000Z",
           "score": 1,
           "level": null,
-          "why": []
-        },
-        {
-          "title": "Eternal Fire inch closer to shock Major qualification with Stake Ranked trophy",
-          "url": "https://www.hltv.org/news/45865/eternal-fire-inch-closer-to-shock-major-qualification-with-stake-ranked-trophy",
-          "source": "HLTV news",
-          "published": "2026-10-30T21:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
+          "why": [
+            "roster*"
+          ]
         }
       ]
     },
@@ -173,6 +177,17 @@
           ]
         },
         {
+          "title": "Worlds 2026 Swiss Stage Day 7 Results: LØS eliminate Team Liquid, Hanwha Life Esports crush G2 Esports’ hopes",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHJoYUNBaE5kMGRGSm1qVlRwWWpzYnlOdThTY3dOTmstUEw3d25qejhDUVp5dUctRDhkWFNtMjBxalQxb3hXcEFJcUhIX3RmV3hhLWtMak45NmFHZE9ZalAzUGFCVGRhcnFyTVhHR0JvZllaVWhQdDZkVEZzU2RqQzdNRQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-10-31T03:45:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
           "title": "Official Gaben statement on the Major Patch ETA",
           "url": "https://www.reddit.com/r/DotA2/comments/1xjxqqg/official_gaben_statement_on_the_major_patch_eta/",
           "source": "r/DotA2",
@@ -196,14 +211,14 @@
           ]
         },
         {
-          "title": "[Spoiler] has been eliminated from PARI Universe",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjr16q/spoiler_has_been_eliminated_from_pari_universe/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T20:51:20.000Z",
+          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-10-30T23:00:33.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "eliminated"
+            "team liquid"
           ]
         },
         {
@@ -241,32 +256,10 @@
           ]
         },
         {
-          "title": "Team Liquid is the best team in the world*",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjqxuj/team_liquid_is_the_best_team_in_the_world/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T20:47:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "I had a dream about patch 8.00",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjr1rt/i_had_a_dream_about_patch_800/",
-          "source": "r/DotA2",
-          "published": "2026-10-30T20:51:58.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "removed*"
-          ]
-        },
-        {
           "title": "halloween update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xjzc9r/halloween_update/",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xk12eg/halloween_update/",
           "source": "r/DotA2",
-          "published": "2026-10-31T03:04:57.000Z",
+          "published": "2026-10-31T04:37:00.000Z",
           "score": 1,
           "level": null,
           "why": [
@@ -283,6 +276,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
+          "source": "Google News: Dota (Донецька Обласна Державна адміністрація)",
+          "published": "2026-10-30T19:10:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
