@@ -1,6 +1,28 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T15:45:19.557Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Nemiga vs FURIA / PGL Masters Bucharest 2026 - Grand Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkdgag/nemiga_vs_furia_pgl_masters_bucharest_2026_grand/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7.5,
+      "why": [
+        "roster*",
+        "grand final",
+        "official*",
+        "furia",
+        "pgl",
+        "reddit only"
+      ],
+      "summary": "Nemiga Gaming 🇷🇺 2-3 🇧🇷 FURIA Ancient: 13-2 Dust2: 5-13 Cache: 2-13 Mirage: 13-11 Nuke: 6-13 Predicted VRS Impact Team Rank Diff Total 🇷🇺 Nemiga #10 → #10 -8 pts 1641 pts 🇧🇷 FURIA #3 → #3 +15 pts 1909 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information PGL Masters Bucharest 2026 | 🇷🇴 Bucharest ($1.25m LAN) | Liquipedia | HLTV Streams | YouTube | Twitch A | Twitch B Team Information 🇷🇺 Nemiga Gaming | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | YouTube | Twitch | Steam Roster : 🇰🇿 khaN ⊕ | 🇰🇿 SYPH0 | 🇷🇺 KaiR0N- | 🇷🇺 robo ♛ | 🇷🇺 Xant3r Coach : 🇧🇾 boX 🇧🇷 FURIA | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | TikTok | YouTube | Twitch | Steam Roster : 🇧🇷 yuurih | 🇧🇷 KSCERATO | 🇧🇷 FalleN ♛ | 🇰🇿 molodoy ⊕ | 🇱🇻 YEKINDAR Coach : 🇧🇷 sidde Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes Nemiga MAP FURIA X inferno anubis X ✔ ancient dust2 ✔ ✔ cache mirage ✔ nuke Full Match Stats Team K-D ADR Swing Rating 🇷🇺 Nemiga 0.94 🇰🇿 khaN ⊕ 67-54 70.8 +2.31% 1.18 🇰🇿 syph0 46-66 59.6 -0.81% 0.91 🇷🇺 Xant3r 49-67 67.9 -0.59% 0.89 🇷🇺 KaiR0N- 58-74 71.9 -1.75% 0.89 🇷🇺 robo ♛ 54-66 64.9 -3.10% 0.84 🇧🇷 FURIA 1.14 🇱🇻 YEKINDAR 82-57 99.6 +5.34% 1.56 🇧🇷 KSCERATO 64-49 81.5 +0.02% 1.15 🇧🇷 FalleN ♛ 65-57 69.2 ",
+      "published": "2026-10-31T15:42:01.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T15:35:17.130Z",
       "level": "possible",
       "scene": "Dota",
