@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-10-31T14:57:02.327Z",
+  "generatedAt": "2026-10-31T15:55:21.614Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 13,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "They need to nerf gorr and not for the reasons you think.",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xjonvv/they_need_to_nerf_gorr_and_not_for_the_reasons/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-30T19:19:53.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "ban*",
-            "nerf"
-          ]
-        },
         {
           "title": "Marvel Rivals Season 10.5 Roadmap Breakdown: New Game Modes, Skins, Events, and More",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13SGtkc2RRdW1MOWRkY2ZCNWRwODlYQmlIdTJTWE9YZzZRUG9WQ2h5TnVoaU56MkhUSjVRRExYYlVLUEpsbDU4bDdTNW1YQQ?oc=5",
@@ -30,117 +17,6 @@
             "season",
             "roadmap"
           ]
-        },
-        {
-          "title": "Anyone excited for the new season?",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xjok52/anyone_excited_for_the_new_season/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-30T19:15:43.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "new season"
-          ]
-        },
-        {
-          "title": "Is a 6 hour ban for your first ban normal?",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xkbgej/is_a_6_hour_ban_for_your_first_ban_normal/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-31T14:20:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        },
-        {
-          "title": "Deadpool Mains: \"Surely they can't ban my charact--\"",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xk09lg/deadpool_mains_surely_they_cant_ban_my_charact/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-31T03:53:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        },
-        {
-          "title": "what exactly goes in the minds of these support mains ? For someone asking if the rocket was filling he had champion on cnd and invis",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xjosvv/what_exactly_goes_in_the_minds_of_these_support/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-30T19:25:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champion"
-          ]
-        },
-        {
-          "title": "Since Y’all Liked the Last One so Much",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xk6upa/since_yall_liked_the_last_one_so_much/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-31T10:34:23.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "the last"
-          ]
-        },
-        {
-          "title": "My concept for season 11's Battle Pass and shop skins: Avengers Doomsday theme",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xjuva6/my_concept_for_season_11s_battle_pass_and_shop/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-30T23:33:04.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won*",
-            "season"
-          ]
-        },
-        {
-          "title": "What are your expectations for season 11?",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xjr6c0/what_are_your_expectations_for_season_11/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-30T20:57:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won*",
-            "season"
-          ]
-        },
-        {
-          "title": "Storm will be meta for a season! Anyone else agree?",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xjw5s1/storm_will_be_meta_for_a_season_anyone_else_agree/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-31T00:30:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Matchmaking as a support main this season is unbearable.",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xjr0na/matchmaking_as_a_support_main_this_season_is/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-30T20:50:43.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Vampy jammies and Peni jammies final @heftyage",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xk8tha/vampy_jammies_and_peni_jammies_final_heftyage/",
-          "source": "r/marvelrivals",
-          "published": "2026-10-31T12:21:49.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     }
