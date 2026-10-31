@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T03:00:37.275Z",
+  "generatedAt": "2026-10-31T04:00:40.422Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Marvel Rivals' Latest Update Is Now Live With Night Of Illusions Event & More - Full Patch Notes Listed",
@@ -17,6 +17,15 @@
             "update",
             "patch notes"
           ]
+        },
+        {
+          "title": "Marvel Rivals Occlusion culling PS5 base",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kbXBkWGdmUmV1Zy1oWDFzanhpajJ6TWVsbHp2czRfMURfZEozdURGTVE4ZXE1OHUyMXZsTGdXU0hudjJ4dE10Tjd3T1hxVnNhY2JaejJPcko1VzVw?oc=5",
+          "source": "Google News: Rivals patches (YouTube)",
+          "published": "2026-10-30T05:18:35.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
