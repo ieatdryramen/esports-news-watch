@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T15:35:17.130Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Pudge gets banned every game",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xkd8uk/pudge_gets_banned_every_game/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "banned",
+        "ban*"
+      ],
+      "summary": "I like playing Pudge. Pudge is either pre-banned. Or Pudge gets picked by both teams every game. Pudge gets banned every game. Its probably the one of the most liked heroes in the game. Why not have at least ONE of the teams get to keep him? If the enemy gets him, gz to them. Partition to change the ban rule to 50-50 chance. PLS :) submitted by /u/ELKOKO88 to r/DotA2 [link] [comments]",
+      "published": "2026-10-31T15:33:32.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T10:10:19.924Z",
       "level": "possible",
       "scene": "CS2",
