@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-10-31T21:00:37.939Z",
+  "generatedAt": "2026-10-31T22:00:33.291Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
-        {
-          "title": "INSANE! Very near retirement, Fallen does it again at a bo5 and now holds a 17-3 record.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkey7c/insane_very_near_retirement_fallen_does_it_again/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T16:42:40.000Z",
-          "score": 12,
-          "level": "possible",
-          "why": [
-            "retirement",
-            "grand finals*",
-            "record",
-            "history*",
-            "navi*",
-            "vitality*"
-          ]
-        },
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm1pVjVFUUUyeU9aMDZIUFRuWVBGRlBSS016UHd6NDFKTC1LV05CZVczYkx3U1huWGxkV0VjRXUwcm8yV01OU19Ca0JQUld0bU8zRzNCemJCY0tmTENHZWRvS0ppUk9xc2R5Rk42dmFrR3pVQkNneU9HR21SLTRyaVJ6UHhIV0NN?oc=5",
@@ -31,6 +15,20 @@
           "level": "breaking",
           "why": [
             "comeback",
+            "furia",
+            "pgl"
+          ]
+        },
+        {
+          "title": "FURIA Won PGL Masters Bucharest 2026, NAVI and FUT Finished the Tournament in the Top 8",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQdIBwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQQ?oc=5",
+          "source": "Google News: CS2 (Players)",
+          "published": "2026-10-31T16:41:48.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "won",
+            "navi",
             "furia",
             "pgl"
           ]
@@ -61,17 +59,15 @@
           ]
         },
         {
-          "title": "Claymation-Strike: Magixx Nades Donk",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkf3b4/claymationstrike_magixx_nades_donk/",
+          "title": "On this day, 3 years ago, NAVI signed w0nderful",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkly8x/on_this_day_3_years_ago_navi_signed_w0nderful/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-31T16:48:19.000Z",
+          "published": "2026-10-31T21:31:23.000Z",
           "score": 5,
           "level": "possible",
           "why": [
-            "the last*",
-            "donk",
-            "vitality*",
-            "spirit*"
+            "signed",
+            "navi"
           ]
         },
         {
@@ -146,44 +142,11 @@
           ]
         },
         {
-          "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\"",
-          "url": "https://www.hltv.org/news/45866/imd-there-are-no-plans-for-snax-to-be-igling-for-gamerlegion-next-season",
+          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
+          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
           "source": "HLTV news",
-          "published": "2026-10-30T21:40:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "revealed*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Better Land Warfare - Major Update: Hooks and Hoards released",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xkg4ia/better_land_warfare_major_update_hooks_and_hoards/",
-          "source": "r/aoe2",
-          "published": "2026-10-31T17:29:17.000Z",
-          "score": 8.5,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "update",
-            "removed*",
-            "return*",
-            "joins*",
-            "roster*"
-          ]
-        },
-        {
-          "title": "Game progression went from 100% to 99% after last patch",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xkl8js/game_progression_went_from_100_to_99_after_last/",
-          "source": "r/aoe2",
-          "published": "2026-10-31T20:59:24.000Z",
-          "score": 0,
+          "published": "2026-10-31T17:21:00.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }
@@ -191,8 +154,21 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 13,
       "stories": [
+        {
+          "title": "If you could ban 10 heros, one per pos for each team (5 enemy, 5 yours), which do you pick and why?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xklsmz/if_you_could_ban_10_heros_one_per_pos_for_each/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T21:24:02.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "breaking*",
+            "ban",
+            "leaves*"
+          ]
+        },
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaV85RW5mY2xKd0xoMDl1OEt6VG9sdks2eTA0S3JGSUNOM3ZvLVE3U3dsS1lIRGZMX2tQLTJBajdpT0JaRHRvNVhHNjZER2lyV2JUYkRNWDR5c3o0ZUhvS1ZFOFdobGxVMC1XN2lGNjlnZDVwMkxzQVJJcmZPem1rN1U1RG1sSTFlLWN3M0d3ZDZQTmZrc2Y0Sm56QVJZSXhlc1JITnoyTXdEN1BLSS1WcnhB?oc=5",
@@ -239,6 +215,17 @@
           ]
         },
         {
+          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-10-30T23:00:33.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
           "title": "Can you Update the game before i get my first child???",
           "url": "https://www.reddit.com/r/DotA2/comments/1xkl2r1/can_you_update_the_game_before_i_get_my_first/",
           "source": "r/DotA2",
@@ -259,6 +246,15 @@
           "why": [
             "released*"
           ]
+        },
+        {
+          "title": "PARI Universe Recap: Upper Bracket Final & Lower Bracket Final",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xklqbx/pari_universe_recap_upper_bracket_final_lower/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T21:21:07.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "Idea for a new hero",
@@ -288,30 +284,12 @@
           "why": [
             "-stream"
           ]
-        },
-        {
-          "title": "selemene should be the next new hero",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkgu1r/selemene_should_be_the_next_new_hero/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T17:57:51.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Razor Offlane Build - Patch 7.41f",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkfpcq/razor_offlane_build_patch_741f/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T17:12:36.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Can you guess which one of us is the cheating nerd with a macro?",
@@ -333,6 +311,17 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "My final wish list for future seasons in Tekken 8",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xkm305/my_final_wish_list_for_future_seasons_in_tekken_8/",
+          "source": "r/Tekken",
+          "published": "2026-10-31T21:37:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "roster*"
           ]
         },
         {
@@ -447,14 +436,14 @@
       ]
     },
     {
-      "scene": "Melee",
+      "scene": "AoE2",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Congratulations to the winner of Melee Singles at BattleGateWay #53!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xkerqc/congratulations_to_the_winner_of_melee_singles_at/",
-          "source": "r/SSBM",
-          "published": "2026-10-31T16:35:12.000Z",
+          "title": "Game progression went from 100% to 99% after last patch",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xkl8js/game_progression_went_from_100_to_99_after_last/",
+          "source": "r/aoe2",
+          "published": "2026-10-31T20:59:24.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -463,6 +452,7 @@
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Brood War",
     "Warcraft III",

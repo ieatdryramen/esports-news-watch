@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:30:22.571Z",
+  "generatedAt": "2026-10-31T22:00:23.919Z",
   "source": "start.gg",
   "completed": [
     {
@@ -46,53 +46,6 @@
         {
           "placement": 7,
           "name": "Brocas Helm"
-        }
-      ]
-    },
-    {
-      "eventId": "1742702",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "The Cashbox #46: Tipped Off Edition",
-      "event": "Melee Singles",
-      "entrants": 131,
-      "online": true,
-      "major": false,
-      "startAt": "2026-10-28T22:00:00.000Z",
-      "endAt": "2026-10-29T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-cashbox-46-tipped-off-edition/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Liquid | Hungrybox"
-        },
-        {
-          "placement": 2,
-          "name": "RC | Kacey"
-        },
-        {
-          "placement": 3,
-          "name": "Lil Corner | chape"
-        },
-        {
-          "placement": 4,
-          "name": "Ben"
-        },
-        {
-          "placement": 5,
-          "name": "Tempo | Axe"
-        },
-        {
-          "placement": 5,
-          "name": "Fudge Gaming | MarxistxAthena"
-        },
-        {
-          "placement": 7,
-          "name": "MMG | Seven"
-        },
-        {
-          "placement": 7,
-          "name": "RC 20GX | Gahtzu"
         }
       ]
     },
