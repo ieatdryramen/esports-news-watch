@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T22:00:33.291Z",
+  "generatedAt": "2026-10-31T23:00:36.420Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 18,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -108,6 +108,30 @@
           ]
         },
         {
+          "title": "Monte played with their new roster for the first time today",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xknt92/monte_played_with_their_new_roster_for_the_first/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T22:58:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "the last*",
+            "roster"
+          ]
+        },
+        {
+          "title": "BESTIA vs Procyon / FiRe Last Chance 2026 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkmvdu/bestia_vs_procyon_fire_last_chance_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T22:13:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "benched*",
+            "roster*"
+          ]
+        },
+        {
           "title": "Omega vs PRIVATE / CIS Esports League CyberClash Season 2 Finals - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkhk5o/omega_vs_private_cis_esports_league_cyberclash/",
           "source": "r/GlobalOffensive",
@@ -129,32 +153,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "TYLOO likely to miss out on Singapore following HyperX Retake withdrawal",
-          "url": "https://www.hltv.org/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal",
-          "source": "HLTV news",
-          "published": "2026-10-31T09:25:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "iem*"
-          ]
-        },
-        {
-          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
-          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
-          "source": "HLTV news",
-          "published": "2026-10-31T17:21:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 11,
       "stories": [
         {
           "title": "If you could ban 10 heros, one per pos for each team (5 enemy, 5 yours), which do you pick and why?",
@@ -208,17 +212,6 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHJoYUNBaE5kMGRGSm1qVlRwWWpzYnlOdThTY3dOTmstUEw3d25qejhDUVp5dUctRDhkWFNtMjBxalQxb3hXcEFJcUhIX3RmV3hhLWtMak45NmFHZE9ZalAzUGFCVGRhcnFyTVhHR0JvZllaVWhQdDZkVEZzU2RqQzdNRQ?oc=5",
           "source": "Google News: Dota (Hotspawn)",
           "published": "2026-10-31T03:45:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-10-30T23:00:33.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -404,6 +397,23 @@
       ]
     },
     {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Mini trolling Light with a pylon tank trap in KCM",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xkn7jz/mini_trolling_light_with_a_pylon_tank_trap_in_kcm/",
+          "source": "r/broodwar",
+          "published": "2026-10-31T22:29:55.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "mini"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 1,
       "stories": [
@@ -454,7 +464,6 @@
   "quiet": [
     "Melee",
     "Classic Tetris",
-    "Brood War",
     "Warcraft III",
     "Quake",
     "Halo"

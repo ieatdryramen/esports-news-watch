@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T22:30:21.442Z",
+  "generatedAt": "2026-10-31T23:00:24.757Z",
   "source": "start.gg",
   "completed": [
     {
@@ -145,7 +145,21 @@
     }
   ],
   "live": [],
-  "upcoming": [],
+  "upcoming": [
+    {
+      "eventId": "1737320",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Jazzy Chillán 2026",
+      "event": "Jazzy Chillan 2026 Street Fighter III Third Strike",
+      "entrants": 59,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T17:00:00.000Z",
+      "endAt": "2026-11-07T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/jazzy-chill-n-2026/event/jazzy-chillan-2026-street-fighter-iii-third-strike"
+    }
+  ],
   "games": {
     "Super Smash Bros. Melee": [
       {
