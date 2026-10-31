@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T15:55:21.614Z",
+  "generatedAt": "2026-10-31T16:50:26.242Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Marvel Rivals Season 10.5 Roadmap Breakdown: New Game Modes, Skins, Events, and More",
@@ -17,6 +17,15 @@
             "season",
             "roadmap"
           ]
+        },
+        {
+          "title": "Marvel Rivals Night of Illusions Chapter 4 solution: Hall of Eternal Night",
+          "url": "https://esports.gg/news/marvel-rivals/marvel-rivals-night-of-illusions-chapter-4-solution-hall-of-eternal-night/",
+          "source": "esports.gg",
+          "published": "2026-10-31T16:36:22.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
