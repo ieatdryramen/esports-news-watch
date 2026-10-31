@@ -1,11 +1,40 @@
 {
-  "generatedAt": "2026-10-31T15:55:17.479Z",
+  "generatedAt": "2026-10-31T16:50:20.870Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 29,
+      "storyCount": 30,
       "stories": [
+        {
+          "title": "INSANE! Very near retirement, Fallen does it again at a bo5 and now holds a 17-3 record.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkey7c/insane_very_near_retirement_fallen_does_it_again/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T16:42:40.000Z",
+          "score": 12,
+          "level": "possible",
+          "why": [
+            "retirement",
+            "grand finals*",
+            "record",
+            "history*",
+            "navi*",
+            "vitality*"
+          ]
+        },
+        {
+          "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm1pVjVFUUUyeU9aMDZIUFRuWVBGRlBSS016UHd6NDFKTC1LV05CZVczYkx3U1huWGxkV0VjRXUwcm8yV01OU19Ca0JQUld0bU8zRzNCemJCY0tmTENHZWRvS0ppUk9xc2R5Rk42dmFrR3pVQkNneU9HR21SLTRyaVJ6UHhIV0NN?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-10-31T16:04:07.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "comeback",
+            "furia",
+            "pgl"
+          ]
+        },
         {
           "title": "Nemiga vs FURIA / PGL Masters Bucharest 2026 - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkdgag/nemiga_vs_furia_pgl_masters_bucharest_2026_grand/",
@@ -23,10 +52,35 @@
           ]
         },
         {
+          "title": "YEKINDAR wins career-first MVP at PGL Masters",
+          "url": "https://www.hltv.org/news/45871/yekindar-wins-career-first-mvp-at-pgl-masters",
+          "source": "HLTV news",
+          "published": "2026-10-31T16:07:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "wins",
+            "pgl"
+          ]
+        },
+        {
+          "title": "FURIA secure second consecutive trophy with PGL Masters Bucharest victory",
+          "url": "https://www.hltv.org/news/45870/furia-secure-second-consecutive-trophy-with-pgl-masters-bucharest-victory",
+          "source": "HLTV news",
+          "published": "2026-10-31T15:53:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "grand final*",
+            "furia",
+            "pgl"
+          ]
+        },
+        {
           "title": "Claymation-Strike: Magixx Nades Donk",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkdqzj/claymationstrike_magixx_nades_donk/",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkf3b4/claymationstrike_magixx_nades_donk/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-31T15:54:18.000Z",
+          "published": "2026-10-31T16:48:19.000Z",
           "score": 5,
           "level": "possible",
           "why": [
@@ -85,6 +139,18 @@
           ]
         },
         {
+          "title": "With YEKINDAR taking home the MVP for PGL Masters Bucharest 2026, all 5 players on FURIA have been awarded an HLTV MVP award.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkeahd/with_yekindar_taking_home_the_mvp_for_pgl_masters/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T16:16:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "furia",
+            "pgl"
+          ]
+        },
+        {
           "title": "For the entire event, PGL has had the white background fade over FURIA‘s logo instead of behind it",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkcuz2/for_the_entire_event_pgl_has_had_the_white/",
           "source": "r/GlobalOffensive",
@@ -95,71 +161,12 @@
             "furia",
             "pgl"
           ]
-        },
-        {
-          "title": "Falcons new jersey for IEM Beijing 2026 & BLAST Rivals 2026 Season 2",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkcu5y/falcons_new_jersey_for_iem_beijing_2026_blast/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T15:16:57.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "iem",
-            "blast"
-          ]
-        },
-        {
-          "title": "PGL Heads to the Schengen Area in September 2027: Format, Invites and Financial Structure Revealed",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkch7p/pgl_heads_to_the_schengen_area_in_september_2027/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T15:02:30.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "revealed",
-            "pgl"
-          ]
-        },
-        {
-          "title": "IEM Beining 2026 Talent Announced",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkaq1u/iem_beining_2026_talent_announced/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T13:49:27.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "announced",
-            "iem"
-          ]
-        },
-        {
-          "title": "ESL has released an atmospheric trailer for IEM Beijing set to a cool soundtrack",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xka6ia/esl_has_released_an_atmospheric_trailer_for_iem/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T13:25:35.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "released",
-            "iem"
-          ]
-        },
-        {
-          "title": "POV: You're in a 1v1 against a silent guy who refuses to shoot and only hunts with a Zeus...⚡💀",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk75tv/pov_youre_in_a_1v1_against_a_silent_guy_who/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T10:52:32.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "refuses"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Pudge gets banned every game",
@@ -186,6 +193,17 @@
           ]
         },
         {
+          "title": "Team Spirit ride 2 victories into PARI Universe’s lower-bracket final",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQby1nMjVqMXdXNFdoUmMtTzRfWnBTcklCaHZGWVZmQ0tScW9FMDNBR0tEQ1hDOS00QXI3dkY5cGdhNWw1QlYwSjFYMVVWdnZ6RGNGVkQ4cjhJTnp3LVVIc2dOSWZiLWNHUnB5dDN3cHJLaHpTNXdIZXk4VUo1NDhBWUh1aEdEY0R4UzhuZFRhd3pvdWkzYzQ5U3plajZmbDExeHd1MFlBQWY?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-10-31T15:45:04.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
           "title": "First ever T3 Trade up in Frostivus 2023 Chest (Volume Warning)",
           "url": "https://www.reddit.com/r/DotA2/comments/1xk8wse/first_ever_t3_trade_up_in_frostivus_2023_chest/",
           "source": "r/DotA2",
@@ -194,17 +212,6 @@
           "level": null,
           "why": [
             "first ever"
-          ]
-        },
-        {
-          "title": "Team Spirit ride 2 victories into PARI Universe’s lower-bracket final",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQby1nMjVqMXdXNFdoUmMtTzRfWnBTcklCaHZGWVZmQ0tScW9FMDNBR0tEQ1hDOS00QXI3dkY5cGdhNWw1QlYwSjFYMVVWdnZ6RGNGVkQ4cjhJTnp3LVVIc2dOSWZiLWNHUnB5dDN3cHJLaHpTNXdIZXk4VUo1NDhBWUh1aEdEY0R4UzhuZFRhd3pvdWkzYzQ5U3plajZmbDExeHd1MFlBQWY?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-10-31T09:55:25.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
           ]
         },
         {
@@ -219,21 +226,44 @@
           ]
         },
         {
-          "title": "1 Sec Difference Ending",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xk7q3a/1_sec_difference_ending/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T11:23:41.000Z",
-          "score": 2,
+          "title": "Worlds 2026 Swiss Stage Day 7 Results: LØS eliminate Team Liquid, Hanwha Life Esports crush G2 Esports’ hopes",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHJoYUNBaE5kMGRGSm1qVlRwWWpzYnlOdThTY3dOTmstUEw3d25qejhDUVp5dUctRDhkWFNtMjBxalQxb3hXcEFJcUhIX3RmV3hhLWtMak45NmFHZE9ZalAzUGFCVGRhcnFyTVhHR0JvZllaVWhQdDZkVEZzU2RqQzdNRQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-10-31T03:45:56.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "ending"
+            "team liquid"
           ]
         },
         {
-          "title": "Ideas to balance pl",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xk6iw3/ideas_to_balance_pl/",
+          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-10-30T23:00:33.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
+          "title": "Posting my reworks until we get a patch #3 - Clinkz",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xke4ee/posting_my_reworks_until_we_get_a_patch_3_clinkz/",
           "source": "r/DotA2",
-          "published": "2026-10-31T10:15:05.000Z",
+          "published": "2026-10-31T16:09:01.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "returns*",
+            "replaced*"
+          ]
+        },
+        {
+          "title": "PSA: Don’t be too harsh if the upcoming patch isn’t what you expected.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkecwo/psa_dont_be_too_harsh_if_the_upcoming_patch_isnt/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T16:18:41.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -259,32 +289,6 @@
           "why": [
             "-stream"
           ]
-        },
-        {
-          "title": "Liquid - TSpirit, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2Njay1PXy1ySG5RMkwyS1VVc3l1MndNRUVqUjBPZi1XYWhidnNpT0UtM3F2bkdTMzZidlRlQnVLaHNTYk9OSE82aVdKNXJ3OUlmR0NLeFBoSldDc0hJemUtSTFyTzZERE5jUXBzZFNVTmtWRVJwLWs1SEdMV1BtamVvZU4?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-30T16:23:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Capcom Cup 13 and Street Fighter League: World Championship 2026 Venue Tickets Go on Sale November 9 for March 2027 Event at Ryogoku Kokugikan - www.haveagood-holiday.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFB0MDN2c1pTQUx3ZjNteXNFNUVFVUI0MjJxU0o4VDB3Yno1TC1LVWdfQkp5WnZPOEVhbUxwa1p2NXlMc0twRGlSdTU0SW45QUFvYlltRkltanU0SVVnZFowTmQwSWdIZkxUWUNMTXVPTVZYYTN5Tkd0ZS1kaUNQb2hrb1hmMG1ocExLNWFpdHlEejJ1VUkyTFVQUQ?oc=5",
-          "source": "Google News: Street Fighter",
-          "published": "2026-10-30T15:57:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -305,13 +309,52 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "TWT 2026: Punishment 5 - Day 1 Livestream (October 31, 2026) [TWT Master Event]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xkdzy2/twt_2026_punishment_5_day_1_livestream_october_31/",
+          "source": "r/Tekken",
+          "published": "2026-10-31T16:04:01.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
         {
           "title": "after season 2 trolling blue scrubs. now. it's time to juked GoD ranks S3.",
           "url": "https://www.reddit.com/r/Tekken/comments/1xkbskj/after_season_2_trolling_blue_scrubs_now_its_time/",
           "source": "r/Tekken",
           "published": "2026-10-31T14:34:28.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Congratulations to the winner of Melee Singles at BattleGateWay #53!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xkerqc/congratulations_to_the_winner_of_melee_singles_at/",
+          "source": "r/SSBM",
+          "published": "2026-10-31T16:35:12.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "out of all the dlc characters we have gotten so far which character do u think was done best and who is ur personal favorite?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkegbo/out_of_all_the_dlc_characters_we_have_gotten_so/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-31T16:22:23.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -335,7 +378,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
