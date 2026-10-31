@@ -493,24 +493,6 @@
       ],
       "summary": "Title: Like many of you, I've been worried about AI-assisted cheats that produce humanized inputs and are hard to detect. Perfect detection is probably impossible, so here's a different angle: make cheating costly, slow, and unsatisfying instead of only trying to catch it. These are suggestions, and I'd like your feedback. 30-day hold on top records for new accounts Records from new accounts that would land in the top 25 stay hidden for 30 days, while everything below shows up instantly. Legit newcomers are barely affected, since a new player rarely reaches the top 25 on day one. For cheaters, a ban means waiting a month again, and the instant \"I fooled everyone\" moment is gone. The delay also gives time for re-scans and community reports. Minimum real playtime New accounts need a few hours of actual racing (finished runs across several maps, not idle time in a menu) before they can appear in top 25 records. Faking that takes effort, and a bot that fakes it has to produce believable sessions, which gives more data to detect possible cheating before they ever show up on leaderboards. Silent, delayed enforcement Shadow-hold suspicious records: the player sees them, others don't Ban in waves instead of immediately, so cheaters can't tell what got them caught Remove records quietly, without a public drama moment Re-scan old records as detection improves, so no record is permanently safe Gate only the top of the leaderboard behind a paid account Free players keep playing and progr",
       "published": "2026-10-29T18:47:59.000Z"
-    },
-    {
-      "alertedAt": "2026-10-29T17:00:24.006Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "CS2 LAR Weapon Leak: Stats, Price & Damage Revealed",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWC1PWlRULU9WSHBEeFM2VTJtbWZzVks1S3FHQXNsMzBydGFjbGU0ZHRLRVBHdnh0NFFLMWV1dmdrVjhhSWtNbFFnUEpDQjhVTEZxRTZwU25YV0c2SHhHTEJYMW5LXzcxTnozLS1oeGFOaHZxSHk0?oc=5",
-      "source": "Google News: CS2 (TalkEsport)",
-      "outlets": [
-        "TalkEsport"
-      ],
-      "score": 5,
-      "why": [
-        "leak",
-        "revealed"
-      ],
-      "summary": "",
-      "published": "2026-10-29T16:53:29.000Z"
     }
   ]
 }
