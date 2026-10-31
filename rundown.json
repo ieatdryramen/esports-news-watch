@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T18:45:21.892Z",
+  "generatedAt": "2026-10-31T19:45:21.475Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 18,
       "stories": [
         {
           "title": "INSANE! Very near retirement, Fallen does it again at a bo5 and now holds a 17-3 record.",
@@ -36,19 +36,16 @@
           ]
         },
         {
-          "title": "Nemiga vs FURIA / PGL Masters Bucharest 2026 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkdgag/nemiga_vs_furia_pgl_masters_bucharest_2026_grand/",
+          "title": "Opponent repeatedly reported me for cheating. What do you guys think? (stats inside)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkjch0/opponent_repeatedly_reported_me_for_cheating_what/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-31T15:42:01.000Z",
-          "score": 7.5,
+          "published": "2026-10-31T19:39:18.000Z",
+          "score": 6,
           "level": "possible",
           "why": [
-            "roster*",
-            "grand final",
-            "official*",
-            "furia",
-            "pgl",
-            "reddit only"
+            "cheating",
+            "won*",
+            "history*"
           ]
         },
         {
@@ -127,30 +124,6 @@
           ]
         },
         {
-          "title": "For the entire event, PGL has had the white background fade over FURIA‘s logo instead of behind it",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkcuz2/for_the_entire_event_pgl_has_had_the_white/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T15:17:54.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "Falcons new jersey for IEM Beijing 2026 & BLAST Rivals 2026 Season 2",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkcu5y/falcons_new_jersey_for_iem_beijing_2026_blast/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T15:16:57.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "iem",
-            "blast"
-          ]
-        },
-        {
           "title": "Omega vs PRIVATE / CIS Esports League CyberClash Season 2 Finals - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkhk5o/omega_vs_private_cis_esports_league_cyberclash/",
           "source": "r/GlobalOffensive",
@@ -160,6 +133,29 @@
           "why": [
             "roster*",
             "grand final"
+          ]
+        },
+        {
+          "title": "JiJieHao vs BASEMENT BOYS / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkekf7/jijiehao_vs_basement_boys_hyperx_retake_season_13/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T16:27:02.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "benched*",
+            "roster*"
+          ]
+        },
+        {
+          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-31T14:05:40.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         }
       ]
@@ -188,20 +184,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
-        {
-          "title": "Pudge gets banned every game",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkd8uk/pudge_gets_banned_every_game/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T15:33:32.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "banned",
-            "ban*"
-          ]
-        },
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaV85RW5mY2xKd0xoMDl1OEt6VG9sdks2eTA0S3JGSUNOM3ZvLVE3U3dsS1lIRGZMX2tQLTJBajdpT0JaRHRvNVhHNjZER2lyV2JUYkRNWDR5c3o0ZUhvS1ZFOFdobGxVMC1XN2lGNjlnZDVwMkxzQVJJcmZPem1rN1U1RG1sSTFlLWN3M0d3ZDZQTmZrc2Y0Sm56QVJZSXhlc1JITnoyTXdEN1BLSS1WcnhB?oc=5",
@@ -248,17 +232,6 @@
           ]
         },
         {
-          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-10-30T23:00:33.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
           "title": "Posting my reworks until we get a patch #3 - Clinkz",
           "url": "https://www.reddit.com/r/DotA2/comments/1xke4ee/posting_my_reworks_until_we_get_a_patch_3_clinkz/",
           "source": "r/DotA2",
@@ -282,11 +255,22 @@
           ]
         },
         {
-          "title": "Veterans Esports League: Registration is Open for the CS2 and Dota 2 Tournament",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU9CZ0pKeGlmWFVOb2h0SHdfdzlraXFDS3JqS3BNNDRkelJlYWdBV1JWZndzRklQS2l4eFdxV0puRURYVElkallyM2dwdWtiTkZGNkJSN0pNQzRJUDg4SzQ4Zzdra2ZldzlGQnpoSmMxRXNXcXphYndQbG50SVR5UElOSFVURThHZXVseElaZDd0TjN5cU5GSlNZQzcxRVdpcGpxc0FCbw?oc=5",
-          "source": "Google News: Dota (Донецька Обласна Державна адміністрація)",
-          "published": "2026-10-30T19:10:11.000Z",
+          "title": "Patch today?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkitsc/patch_today/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T19:17:41.000Z",
           "score": 1,
+          "level": null,
+          "why": [
+            "released*"
+          ]
+        },
+        {
+          "title": "Patch speculation? What do you think will change? What do you hope stays?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkiji6/patch_speculation_what_do_you_think_will_change/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T19:06:07.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -323,7 +307,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Can you guess which one of us is the cheating nerd with a macro?",
@@ -337,10 +321,66 @@
           ]
         },
         {
+          "title": "I really don't get how to download the T6 native patch on my pc. I've seemingly done all the steps and it's still giving me this error.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xkj0h0/i_really_dont_get_how_to_download_the_t6_native/",
+          "source": "r/Tekken",
+          "published": "2026-10-31T19:25:27.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken Tag Tournament cabinet at arcade",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xkiisx/tekken_tag_tournament_cabinet_at_arcade/",
+          "source": "r/Tekken",
+          "published": "2026-10-31T19:05:18.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "TWT 2026: Punishment 5 - Day 1 Livestream (October 31, 2026) [TWT Master Event]",
           "url": "https://www.reddit.com/r/Tekken/comments/1xkdzy2/twt_2026_punishment_5_day_1_livestream_october_31/",
           "source": "r/Tekken",
           "published": "2026-10-31T16:04:01.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Why is the text effects mod not considered cheating?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkis33/why_is_the_text_effects_mod_not_considered/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-31T19:15:45.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
+          ]
+        },
+        {
+          "title": "Who would in in the ft5: punk on a brand new character or the average master rank player",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkiy07/who_would_in_in_the_ft5_punk_on_a_brand_new/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-31T19:22:35.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "wins*",
+            "punk"
+          ]
+        },
+        {
+          "title": "out of all the dlc characters we have gotten so far which character do u think was done best and who is ur personal favorite?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkegbo/out_of_all_the_dlc_characters_we_have_gotten_so/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-31T16:22:23.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -388,21 +428,6 @@
           "url": "https://www.reddit.com/r/SSBM/comments/1xkerqc/congratulations_to_the_winner_of_melee_singles_at/",
           "source": "r/SSBM",
           "published": "2026-10-31T16:35:12.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "out of all the dlc characters we have gotten so far which character do u think was done best and who is ur personal favorite?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkegbo/out_of_all_the_dlc_characters_we_have_gotten_so/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-31T16:22:23.000Z",
           "score": 0,
           "level": null,
           "why": []
