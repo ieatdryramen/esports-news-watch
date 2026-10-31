@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T11:00:34.859Z",
+  "generatedAt": "2026-10-31T12:00:39.071Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 24,
       "stories": [
         {
           "title": "Team Spotlight - The story of Nemiga the Fearless, it's not a story Spirit would tell you.",
@@ -162,7 +162,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
@@ -222,25 +222,14 @@
           ]
         },
         {
-          "title": "Worlds 2026 Swiss Stage Day 7 Results: LØS eliminate Team Liquid, Hanwha Life Esports crush G2 Esports’ hopes",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHJoYUNBaE5kMGRGSm1qVlRwWWpzYnlOdThTY3dOTmstUEw3d25qejhDUVp5dUctRDhkWFNtMjBxalQxb3hXcEFJcUhIX3RmV3hhLWtMak45NmFHZE9ZalAzUGFCVGRhcnFyTVhHR0JvZllaVWhQdDZkVEZzU2RqQzdNRQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-31T03:45:56.000Z",
-          "score": 3,
+          "title": "1 Sec Difference Ending",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xk7q3a/1_sec_difference_ending/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T11:23:41.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-10-30T23:00:33.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
+            "ending"
           ]
         },
         {
@@ -293,6 +282,17 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Liquid - TSpirit, 30 十月 2026 - match stream, live broadcast - PARI Universe - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2Njay1PXy1ySG5RMkwyS1VVc3l1MndNRUVqUjBPZi1XYWhidnNpT0UtM3F2bkdTMzZidlRlQnVLaHNTYk9OSE82aVdKNXJ3OUlmR0NLeFBoSldDc0hJemUtSTFyTzZERE5jUXBzZFNVTmtWRVJwLWs1SEdMV1BtamVvZU4?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-10-30T16:23:25.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
