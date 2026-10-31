@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:45:21.475Z",
+  "generatedAt": "2026-10-31T20:45:26.666Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -33,19 +33,6 @@
             "comeback",
             "furia",
             "pgl"
-          ]
-        },
-        {
-          "title": "Opponent repeatedly reported me for cheating. What do you guys think? (stats inside)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkjch0/opponent_repeatedly_reported_me_for_cheating_what/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T19:39:18.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "cheating",
-            "won*",
-            "history*"
           ]
         },
         {
@@ -112,15 +99,29 @@
           ]
         },
         {
-          "title": "With YEKINDAR taking home the MVP for PGL Masters Bucharest 2026, all 5 players on FURIA have been awarded an HLTV MVP award.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkeahd/with_yekindar_taking_home_the_mvp_for_pgl_masters/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T16:16:00.000Z",
-          "score": 4,
+          "title": "FURIA edge past MOUZ in three maps to reach PGL Masters Bucharest final",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVJDSkVnWDlqODBnTHBqeVdfQzMxNTFZaGpxU240U3A1VFI1WGZxQ2FYNG1LeW1WX0tnOV9saHd5YTc0QkpDT0ZacE80OWRxd241TzFZeGdUNTVWaEVlSG9zMElpamRPWHh6OTU5dW5WZ0VqN1dhZ1pKVTBnc19yYjBCbEhiMGlpMEhVTmxiNEIyTGtMaWlCOXZfakpZdnJ6V2dCRWZQcFNLdFcxOEtv?oc=5",
+          "source": "Google News: CS2 (Esports News UK)",
+          "published": "2026-10-31T08:49:00.000Z",
+          "score": 5,
           "level": null,
           "why": [
+            "mouz",
             "furia",
             "pgl"
+          ]
+        },
+        {
+          "title": "Iberian Soul vs OG / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkkodf/iberian_soul_vs_og_hyperx_retake_season_13/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T20:34:31.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "benched*",
+            "roster*",
+            "official*"
           ]
         },
         {
@@ -136,18 +137,6 @@
           ]
         },
         {
-          "title": "JiJieHao vs BASEMENT BOYS / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkekf7/jijiehao_vs_basement_boys_hyperx_retake_season_13/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T16:27:02.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "benched*",
-            "roster*"
-          ]
-        },
-        {
           "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -156,6 +145,17 @@
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "TYLOO likely to miss out on Singapore following HyperX Retake withdrawal",
+          "url": "https://www.hltv.org/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal",
+          "source": "HLTV news",
+          "published": "2026-10-31T09:25:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "iem*"
           ]
         }
       ]
@@ -232,26 +232,14 @@
           ]
         },
         {
-          "title": "Posting my reworks until we get a patch #3 - Clinkz",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xke4ee/posting_my_reworks_until_we_get_a_patch_3_clinkz/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T16:09:01.000Z",
-          "score": 2.5,
+          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-10-30T23:00:33.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "returns*",
-            "replaced*"
-          ]
-        },
-        {
-          "title": "PSA: Don’t be too harsh if the upcoming patch isn’t what you expected.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkecwo/psa_dont_be_too_harsh_if_the_upcoming_patch_isnt/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T16:18:41.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cancelled*"
+            "team liquid"
           ]
         },
         {
@@ -264,6 +252,15 @@
           "why": [
             "released*"
           ]
+        },
+        {
+          "title": "Idea for a new hero",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkjwmw/idea_for_a_new_hero/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T20:02:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "Patch speculation? What do you think will change? What do you hope stays?",
@@ -321,6 +318,17 @@
           ]
         },
         {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-10-31T06:50:54.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
           "title": "I really don't get how to download the T6 native patch on my pc. I've seemingly done all the steps and it's still giving me this error.",
           "url": "https://www.reddit.com/r/Tekken/comments/1xkj0h0/i_really_dont_get_how_to_download_the_t6_native/",
           "source": "r/Tekken",
@@ -334,15 +342,6 @@
           "url": "https://www.reddit.com/r/Tekken/comments/1xkiisx/tekken_tag_tournament_cabinet_at_arcade/",
           "source": "r/Tekken",
           "published": "2026-10-31T19:05:18.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TWT 2026: Punishment 5 - Day 1 Livestream (October 31, 2026) [TWT Master Event]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xkdzy2/twt_2026_punishment_5_day_1_livestream_october_31/",
-          "source": "r/Tekken",
-          "published": "2026-10-31T16:04:01.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -405,6 +404,23 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Swooty in scrims vs Faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xkkbt0/swooty_in_scrims_vs_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-10-31T20:19:25.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Legacy FGC",
       "storyCount": 1,
       "stories": [
@@ -439,7 +455,6 @@
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
-    "CoD",
     "Quake",
     "Halo"
   ]
