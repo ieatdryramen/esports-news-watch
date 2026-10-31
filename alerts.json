@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T16:15:16.632Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm1pVjVFUUUyeU9aMDZIUFRuWVBGRlBSS016UHd6NDFKTC1LV05CZVczYkx3U1huWGxkV0VjRXUwcm8yV01OU19Ca0JQUld0bU8zRzNCemJCY0tmTENHZWRvS0ppUk9xc2R5Rk42dmFrR3pVQkNneU9HR21SLTRyaVJ6UHhIV0NN?oc=5",
+      "source": "Google News: CS2 (TalkEsport)",
+      "outlets": [
+        "TalkEsport"
+      ],
+      "score": 8,
+      "why": [
+        "comeback",
+        "furia",
+        "pgl"
+      ],
+      "summary": "",
+      "published": "2026-10-31T16:04:07.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T16:10:19.583Z",
       "level": "possible",
       "scene": "CS2",
