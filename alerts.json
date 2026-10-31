@@ -1,6 +1,38 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T16:45:21.120Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "INSANE! Very near retirement, Fallen does it again at a bo5 and now holds a 17-3 record.",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkey7c/insane_very_near_retirement_fallen_does_it_again/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 12,
+      "why": [
+        "retirement",
+        "grand finals*",
+        "record",
+        "history*",
+        "navi*",
+        "vitality*",
+        "faze*",
+        "g2*",
+        "liquid*",
+        "furia*",
+        "iem*",
+        "blast*",
+        "pgl*",
+        "esl pro league*",
+        "cologne major*",
+        "reddit only"
+      ],
+      "summary": "Will this best of 5 record ever be beaten? Complete chronological record: ✅ 2016 – MAX5 Invitational | Luminosity 3–0 Keyd Stars ❌ 2016 – IEM Katowice | Luminosity 0–3 fnatic ✅ 2016 – ESL Pro League S3 | Luminosity 3–2 G2 ✅ 2017 – cs_summit 1 | SK 3–1 Gambit ✅ 2017 – IEM Sydney | SK 3–1 FaZe ✅ 2017 – ESL One Cologne | SK 3–0 Cloud9 ✅ 2017 – EPICENTER | SK 3–2 Virtus.pro ✅ 2017 – ESL Pro League S6 | SK 3–1 FaZe ✅ 2018 – Adrenaline Cyber League | SK 3–1 AVANGAR ✅ 2018 – ZOTAC Cup Masters | MIBR 3–0 Kinguin ✅ 2021 – cs_summit 8 | Liquid 3–1 FURIA ✅ 2023 – Elisa Masters Espoo | FURIA 3–1 Apeks ✅ 2025 – FISSURE Playground #2 | FURIA 3–2 The MongolZ ✅ 2025 – Thunderpick World Championship | FURIA 3–2 NAVI ✅ 2025 – IEM Chengdu | FURIA 3–0 Vitality ✅ 2025 – BLAST Rivals Fall | FURIA 3–1 Falcons ❌ 2026 – IEM Kraków | FURIA 1–3 Vitality ❌ 2026 – IEM Cologne Major | FURIA 0–3 Falcons ✅ 2026 – Thunderpick World Championship | FURIA 3–2 BetBoom ✅ 2026 – PGL Masters Bucharest | FURIA 3–2 Nemiga Career BO5 Grand Finals Statistics: 20 finals played 17 victories 3 defeats 85% win rate 14 consecutive BO5 final victories between 2016 and 2025 Almost 10 years without losing a BO5 final Record by team: Luminosity: 2–1 SK Gaming: 6–0 MIBR: 1–0 Team Liquid: 1–0 FURIA: 7–2 17–3 in BO5 grand finals across a decade of Counter-Strike. One of the most impressive records in CS history. LAN grand finals only. Online qualifiers excluded. submitted by /u/Hot_Cod1631 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-31T16:42:40.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T16:15:16.632Z",
       "level": "breaking",
       "scene": "CS2",
@@ -149,7 +181,8 @@
       "url": "https://www.hltv.org/news/45868/live-updates-from-pgl-masters-bucharest-grand-final",
       "source": "HLTV news",
       "outlets": [
-        "HLTV news"
+        "HLTV news",
+        "Reddit"
       ],
       "score": 5,
       "why": [
