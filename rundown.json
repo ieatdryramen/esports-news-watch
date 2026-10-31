@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:00:34.766Z",
+  "generatedAt": "2026-10-31T06:00:37.470Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -150,7 +150,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
@@ -177,14 +177,14 @@
           ]
         },
         {
-          "title": "Worlds 2026 Swiss Stage Day 7 Results: LØS eliminate Team Liquid, Hanwha Life Esports crush G2 Esports’ hopes",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHJoYUNBaE5kMGRGSm1qVlRwWWpzYnlOdThTY3dOTmstUEw3d25qejhDUVp5dUctRDhkWFNtMjBxalQxb3hXcEFJcUhIX3RmV3hhLWtMak45NmFHZE9ZalAzUGFCVGRhcnFyTVhHR0JvZllaVWhQdDZkVEZzU2RqQzdNRQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-31T03:45:56.000Z",
-          "score": 3,
+          "title": "Why pudge is always banned in Dota 2?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xk1oos/why_pudge_is_always_banned_in_dota_2/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T05:12:26.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "team liquid"
+            "banned"
           ]
         },
         {
@@ -208,17 +208,6 @@
           "level": null,
           "why": [
             "roster"
-          ]
-        },
-        {
-          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-10-30T23:00:33.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
           ]
         },
         {
@@ -283,6 +272,15 @@
           "source": "Google News: Dota (Донецька Обласна Державна адміністрація)",
           "published": "2026-10-30T19:10:11.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "PARI Universe Recap: Lower Bracket Quarterfinals & Semifinal",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xk13mq/pari_universe_recap_lower_bracket_quarterfinals/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T04:38:52.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -413,7 +411,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Riyadh Falcons announce their roster for CDL 2027",
@@ -424,17 +422,6 @@
           "level": null,
           "why": [
             "roster"
-          ]
-        },
-        {
-          "title": "Omg I wasn’t muted? - Dashy 😂",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xjrndj/omg_i_wasnt_muted_dashy/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-10-30T21:16:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
           ]
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:30:30.824Z",
+  "generatedAt": "2026-10-31T06:00:23.071Z",
   "source": "start.gg",
   "completed": [
     {
@@ -193,19 +193,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1742535",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "THE NEXT LEVEL PLAY 2026  - ROUND 7",
-      "event": "TEKKEN 8 Next Level Play Round 7 - 2026",
-      "entrants": 96,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T06:00:00.000Z",
-      "endAt": "2026-11-01T17:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-next-level-play-2026-round-7/event/tekken-8-next-level-play-round-7-2026"
-    },
     {
       "eventId": "1653286",
       "scene": "legacyfgc",
