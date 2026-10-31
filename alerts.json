@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T16:10:19.583Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "YEKINDAR wins career-first MVP at PGL Masters",
+      "url": "https://www.hltv.org/news/45871/yekindar-wins-career-first-mvp-at-pgl-masters",
+      "source": "HLTV news",
+      "outlets": [
+        "Reddit",
+        "HLTV news"
+      ],
+      "score": 6,
+      "why": [
+        "wins",
+        "pgl"
+      ],
+      "summary": "YEKINDAR's \"life tournament\" has yielded him his first medal.",
+      "published": "2026-10-31T16:07:00.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T16:00:25.991Z",
       "level": "possible",
       "scene": "CS2",
