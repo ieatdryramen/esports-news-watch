@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T17:50:19.656Z",
+  "generatedAt": "2026-10-31T18:45:21.892Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 23,
       "stories": [
         {
           "title": "INSANE! Very near retirement, Fallen does it again at a bo5 and now holds a 17-3 record.",
@@ -151,15 +151,15 @@
           ]
         },
         {
-          "title": "PGL Heads to the Schengen Area in September 2027: Format, Invites and Financial Structure Revealed",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkch7p/pgl_heads_to_the_schengen_area_in_september_2027/",
+          "title": "Omega vs PRIVATE / CIS Esports League CyberClash Season 2 Finals - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkhk5o/omega_vs_private_cis_esports_league_cyberclash/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-31T15:02:30.000Z",
-          "score": 4,
+          "published": "2026-10-31T18:26:02.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "revealed",
-            "pgl"
+            "roster*",
+            "grand final"
           ]
         }
       ]
@@ -188,7 +188,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Pudge gets banned every game",
@@ -291,6 +291,26 @@
           "why": []
         },
         {
+          "title": "Hk - XE, November 2, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc29EUUU0em1hUVFKZlJjQW03YU5ybWZjZkhqOEJrbGlGZkpPNmFiaFBCdzA5WmFOYXBrVXJRRV9WRTE5NmtRSUxDOXJaWGdjZ25qRlJSWVBXaGlELXRNamVNTXBfVXJNeHRkc2cxeGFsdDJ6V0tVYklzOWVHMXhFdmxyWlBTRjljUDNYQXB1WW5RcXZLY2h0dW1GVkI?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-10-31T18:04:55.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
+          "title": "selemene should be the next new hero",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkgu1r/selemene_should_be_the_next_new_hero/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T17:57:51.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Razor Offlane Build - Patch 7.41f",
           "url": "https://www.reddit.com/r/DotA2/comments/1xkfpcq/razor_offlane_build_patch_741f/",
           "source": "r/DotA2",
@@ -298,16 +318,48 @@
           "score": 0,
           "level": null,
           "why": []
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
         {
-          "title": "XE - Synapse, November 2, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnpUVDZJTHF3YUtmNHZ2TVROMlZBSjk0a0YydFNYdVFSMkQxcGtXc1N3Zmw5TWgxQTJSNFk1N3RVNjRobExMdnN2UDhpRGtmUWJNRHpjOHZ3ajhSMXVqckdlQzF3cVFzVERyTXB0X3N1elZLS1h3dFN4QzZvY2Y2dWZNdVZxdU1tODNzLWgwdjl1V1RCclhIN3Z1T2JsZw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-31T13:17:58.000Z",
-          "score": 0,
+          "title": "Can you guess which one of us is the cheating nerd with a macro?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xkha0a/can_you_guess_which_one_of_us_is_the_cheating/",
+          "source": "r/Tekken",
+          "published": "2026-10-31T18:14:59.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "-stream"
+            "cheating"
+          ]
+        },
+        {
+          "title": "TWT 2026: Punishment 5 - Day 1 Livestream (October 31, 2026) [TWT Master Event]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xkdzy2/twt_2026_punishment_5_day_1_livestream_october_31/",
+          "source": "r/Tekken",
+          "published": "2026-10-31T16:04:01.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "First Ever WR! (Box O'Soap 12)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xkhcpu/first_ever_wr_box_osoap_12/",
+          "source": "r/TrackMania",
+          "published": "2026-10-31T18:17:54.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "first ever"
           ]
         }
       ]
@@ -322,30 +374,6 @@
           "source": "Google News: Legacy FGC (Lords of Gaming)",
           "published": "2026-10-31T12:00:00.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "TWT 2026: Punishment 5 - Day 1 Livestream (October 31, 2026) [TWT Master Event]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xkdzy2/twt_2026_punishment_5_day_1_livestream_october_31/",
-          "source": "r/Tekken",
-          "published": "2026-10-31T16:04:01.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "after season 2 trolling blue scrubs. now. it's time to juked GoD ranks S3.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xkbskj/after_season_2_trolling_blue_scrubs_now_its_time/",
-          "source": "r/Tekken",
-          "published": "2026-10-31T14:34:28.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -385,7 +413,6 @@
   "quiet": [
     "Classic Tetris",
     "Brood War",
-    "Trackmania",
     "Warcraft III",
     "CoD",
     "Quake",
