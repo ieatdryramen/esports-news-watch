@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T16:00:25.991Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "FURIA secure second consecutive trophy with PGL Masters Bucharest victory",
+      "url": "https://www.hltv.org/news/45870/furia-secure-second-consecutive-trophy-with-pgl-masters-bucharest-victory",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 6,
+      "why": [
+        "grand final*",
+        "furia",
+        "pgl"
+      ],
+      "summary": "YEKINDAR led the way for his team with a 1.56-rated grand final.",
+      "published": "2026-10-31T15:53:00.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T15:55:16.611Z",
       "level": "possible",
       "scene": "CS2",

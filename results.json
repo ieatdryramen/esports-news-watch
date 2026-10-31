@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:30:25.896Z",
+  "generatedAt": "2026-10-31T16:00:25.991Z",
   "source": "start.gg",
   "completed": [
     {
@@ -193,19 +193,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1591823",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "Punishment 5",
-      "event": "Punishment 5",
-      "entrants": 126,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T16:00:00.000Z",
-      "endAt": "2026-11-02T02:00:00.000Z",
-      "url": "https://www.start.gg/tournament/punishment-5/event/punishment-5"
-    },
     {
       "eventId": "1720731",
       "scene": "streetfighter",
