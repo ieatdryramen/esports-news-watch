@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:30:24.455Z",
+  "generatedAt": "2026-10-31T17:00:22.766Z",
   "source": "start.gg",
   "completed": [
     {
@@ -192,21 +192,7 @@
     }
   ],
   "live": [],
-  "upcoming": [
-    {
-      "eventId": "1720731",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "River City Rushdown October 2026",
-      "event": "Street Fighter III: 3rd Strike (PC)",
-      "entrants": 17,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T19:00:00.000Z",
-      "endAt": "2026-11-01T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/river-city-rushdown-october-2026/event/street-fighter-iii-3rd-strike-pc"
-    }
-  ],
+  "upcoming": [],
   "games": {
     "Super Smash Bros. Melee": [
       {
