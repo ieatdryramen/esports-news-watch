@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T08:00:41.915Z",
+  "generatedAt": "2026-10-31T09:00:32.759Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -155,7 +155,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
@@ -227,17 +227,6 @@
           ]
         },
         {
-          "title": "Worlds 2026 Swiss Heartbreak: LOS Stun Team Liquid 2-1 to Stay Alive",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmtRUl9KRGxyQ244Y1pSRUlFdEFOS19UWS04WGpMdkhfY2MzXzlFSnpTaXhzU2d1ZzJlcncwU3pXYlZsSjhqT1ktVmVHUldHZkxJQmtKQmU2TFUxdm5JSW9BYThpeWh3a3ZYTm1ZWkxKemNlamhIZS1YSzNMa3BkeFBZTWpnMnRCbjJFQURkcVJLLTdjY3Rjeng2MjlSLVNGQnc?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-10-30T23:00:33.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
           "title": "GTA 6, Xbox’s New Direction, and OG’s Dota 2 Rebuild: What’s Shaping Gaming in 2026?",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdW54LUstb2pqeklaOERRbm1EM2hoVzQzMnRfcTRSYkJoNV9sY29fNFQtNkNac2xuMldYVVhzaGNXY0k2a3VZSmpFSVpXZ251ekNKV28ySHg5V29fUFN4R0VXTTM2UmN6bkZNRm00MElHa1hHYWRudU1kNG8yRVRxcmJZSXAwVTgtNGRBT3ljN3hTUDYwSkE?oc=5",
           "source": "Google News: Dota (EGamersWorld)",
@@ -290,18 +279,27 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "PARI Universe Recap: Lower Bracket Quarterfinals & Semifinal",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xk13mq/pari_universe_recap_lower_bracket_quarterfinals/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T04:38:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
           "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-10-30T11:57:50.000Z",
+          "published": "2026-10-30T12:11:48.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -317,17 +315,6 @@
           "level": null,
           "why": [
             "evo"
-          ]
-        },
-        {
-          "title": "The most Saddest ending of tekken",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xjvbbt/the_most_saddest_ending_of_tekken/",
-          "source": "r/Tekken",
-          "published": "2026-10-30T23:53:08.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
           ]
         }
       ]
@@ -383,7 +370,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -402,6 +389,15 @@
           "source": "Google News: Street Fighter",
           "published": "2026-10-30T15:57:58.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "What do you guys think about Street fighter DLC in WWE",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xk4vbm/what_do_you_guys_think_about_street_fighter_dlc/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-31T08:31:25.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }

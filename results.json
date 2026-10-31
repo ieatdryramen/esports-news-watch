@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T08:30:20.816Z",
+  "generatedAt": "2026-10-31T09:00:22.633Z",
   "source": "start.gg",
   "completed": [
     {
@@ -193,19 +193,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1653286",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "CROSSOVER 2026",
-      "event": "Guilty Gear -Strive-",
-      "entrants": 83,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T13:00:00.000Z",
-      "endAt": "2026-11-01T20:00:00.000Z",
-      "url": "https://www.start.gg/tournament/crossover-2026-1/event/guilty-gear-strive"
-    },
     {
       "eventId": "1591823",
       "scene": "tekken",
