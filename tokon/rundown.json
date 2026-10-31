@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-31T06:00:42.483Z",
+  "generatedAt": "2026-10-31T07:00:38.038Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
-          "title": "▶️ Marvel Tokon: Fighting Souls - Marvel Tokon: Jane Foster Thor Trailer",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSYnhETkFRbjZvMFU3dEhjdThGTXQ4MU1QSVI5TWdsVkFCZXhlOHg0eG9VUWxESjhIRVJXM3Z2WHB0ZjU4dGZrR3NkQXhZeTBiVEE?oc=5",
+          "title": "Marvel Tokon: Fighting Souls: Phoenix Cyclops Gameplay Trailer",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OSjJPNzhYM3RCVGt1TFJXdWxiNjlnMnQtQzBISnpaOXJYRzZWWlU4aHZaQUwyZVJJU0tzS1huZVpXS083bWxPZjZuc0Y5elY4?oc=5",
           "source": "Google News: Tokon (IMDb)",
-          "published": "2026-10-31T04:28:42.000Z",
+          "published": "2026-10-31T06:02:23.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -32,18 +32,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Marvel Tokon: Fighting Souls - Official Phoenix Cyclops Character Guide Trailer",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnFyZDJ4d3lvUldPR3NPbGpCSmxqZWZRamo1eklmOTJlSXJoNkNEOElYU2hvSjdfWE1kVHVST2RqeENYTGwySFFaYVRRRGVaRDZCdlZyQWtHRm5LMTd3SEZCT1ppWE5xQXVtZUU4Zzd4cUo1ajZTUmttSjREM3Y3aWlVdFNodGxCMF9salNfd0R1U3ZRRmcxY084MGZpaGJMQ1pZLXR3?oc=5",
-          "source": "Google News: Tokon (IGN)",
-          "published": "2026-10-30T16:19:56.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "official",
-            "-guide"
-          ]
         }
       ]
     }
