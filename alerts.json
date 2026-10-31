@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T19:40:17.333Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Opponent repeatedly reported me for cheating. What do you guys think? (stats inside)",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkjch0/opponent_repeatedly_reported_me_for_cheating_what/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "cheating",
+        "won*",
+        "history*"
+      ],
+      "summary": "https://preview.redd.it/hcuxyeemuuyh1.png?width=1692&format=png&auto=webp&s=e119153dee7efa97f8b5a281a9876073ff6ef2a4 Whenever someone reports me for cheating, for me it's the best form of compliment. Coz i know im not that good a player, so it's self-validation mostly - but heck, ill take it lol. Played 8 maps last night, won 6 and drew 2. Do you think I was cheating? (Would like to add that I recently got my Alienware repasted, before that I was getting ~70fps on 480hz, its in my post history if anyone wants to check), so after the repaste the game flowed so good.) Im still silver, but my scores are better now. submitted by /u/NobodieInteresting to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-31T19:39:18.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T17:30:21.487Z",
       "level": "possible",
       "scene": "AoE2",
