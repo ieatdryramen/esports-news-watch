@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T07:00:32.935Z",
+  "generatedAt": "2026-10-31T08:00:41.915Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
         {
           "title": "Team Spotlight - The story of Nemiga the Fearless, it's not a story Spirit would tell you.",
@@ -74,6 +74,17 @@
           ]
         },
         {
+          "title": "The removed AK animation. Do you want it back ?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk3fyq/the_removed_ak_animation_do_you_want_it_back/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T07:00:21.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        },
+        {
           "title": "KSCERATO: \"We're trying to play on feeling\"",
           "url": "https://www.hltv.org/news/45864/kscerato-were-trying-to-play-on-feeling",
           "source": "HLTV news",
@@ -139,23 +150,12 @@
           "why": [
             "aleksib"
           ]
-        },
-        {
-          "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\"",
-          "url": "https://www.hltv.org/news/45866/imd-there-are-no-plans-for-snax-to-be-igling-for-gamerlegion-next-season",
-          "source": "HLTV news",
-          "published": "2026-10-30T21:40:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "revealed*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
@@ -261,6 +261,17 @@
           ]
         },
         {
+          "title": "Bots? New patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xk3yy6/bots_new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T07:32:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "released*"
+          ]
+        },
+        {
           "title": "halloween update",
           "url": "https://www.reddit.com/r/DotA2/comments/1xk12eg/halloween_update/",
           "source": "r/DotA2",
@@ -279,15 +290,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "PARI Universe Recap: Lower Bracket Quarterfinals & Semifinal",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xk13mq/pari_universe_recap_lower_bracket_quarterfinals/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T04:38:52.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -299,7 +301,7 @@
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
           "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-10-30T12:11:48.000Z",
+          "published": "2026-10-30T11:57:50.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -363,8 +365,25 @@
       ]
     },
     {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Is cheating via spectator just a thing now?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xk3ppf/is_cheating_via_spectator_just_a_thing_now/",
+          "source": "r/aoe2",
+          "published": "2026-10-31T07:16:20.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -385,21 +404,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Street Fighter - Final Round",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xk2yer/street_fighter_final_round/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-31T06:29:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Evo Singapore moves regional fighting games tournament debut to Jan 2027",
@@ -420,21 +430,11 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Face-Off: Mortal Kombat 1's Best Character",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXZmT2FIc2dkUGg1TW1uVVh6WXdsTmowMFI5NzZCZjFNbXNMbzhIT3owd2tJNC1wZ0pKMG9VMGdlN0pMemN6ZXd4aXpNNjVMdjdYQV8tQ1AweTc5bTI4YVpuQmdycE9UMUhoZG5HaThicEgyanlHU1ZJdnlrTF9tU1E2QQ?oc=5",
-          "source": "Google News: Legacy FGC (IGN)",
-          "published": "2026-10-30T07:34:04.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
