@@ -1,6 +1,31 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T06:15:17.419Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Team Spotlight - The story of Nemiga the Fearless, it's not a story Spirit would tell you.",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk2ptv/team_spotlight_the_story_of_nemiga_the_fearless/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 12,
+      "why": [
+        "signed*",
+        "transfer*",
+        "benched*",
+        "bench*",
+        "replaced*",
+        "roster*",
+        "won*",
+        "spirit",
+        "reddit only"
+      ],
+      "summary": "Before the final I wanted to give a bit of an overview for Team Nemiga and their roster journey from Zweih's transfer to tier 1 Lan final. After losing Zweih to Spirit the team went back down to Tier2-3 irrelevance pretty rapidly, they brought in sowalio to replace him, but could not really get anything going. At that point a bunch of roster moves started happening with the benching of Xant3r being the pivotal moment at the start of 2026. Instead the team brought in KaiR0N- as an experienced rifler and prospect syph0 (as a loan from Spirit). The team immediately started showing more promise due to sheer firepower on the server, but long time IGL 1eer continued to struggle to make pieces work together. The team would show up to CIS lans as big favorites for top 4/2 and then lose to a significantly lower ranked team (including WW streamer team). The mental cracks would show at the first sign of trouble. The team realized that radical changes are needed and did a fearless double change - they brought Xant3r back from the bench as he became available (more on that later) and got a young IGL robo who just left Spirit Academy and was IGLing the stack of ex-Ruby into tier 2 relevance (benched IGL 1eer directly replaced him on that stack immediately and they actually managed to get signed to team Private a little bit ago). After that the results started improving almost immediately with the real sign of change being that they finally locked in and won CIS lan 7 while going on a big o",
+      "published": "2026-10-31T06:14:39.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T02:45:16.941Z",
       "level": "possible",
       "scene": "CS2",
