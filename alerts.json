@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T09:55:17.974Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Live updates from PGL Masters Bucharest grand final",
+      "url": "https://www.hltv.org/news/45868/live-updates-from-pgl-masters-bucharest-grand-final",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 5,
+      "why": [
+        "grand final",
+        "pgl"
+      ],
+      "summary": "Keep up with the happenings from the trophy clash in Romania.",
+      "published": "2026-10-31T09:45:00.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T06:15:17.419Z",
       "level": "possible",
       "scene": "CS2",
