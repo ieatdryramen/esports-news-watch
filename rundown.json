@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T16:50:20.870Z",
+  "generatedAt": "2026-10-31T17:50:19.656Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 30,
+      "storyCount": 24,
       "stories": [
         {
           "title": "INSANE! Very near retirement, Fallen does it again at a bo5 and now holds a 17-3 record.",
@@ -103,38 +103,14 @@
           ]
         },
         {
-          "title": "Live updates from PGL Masters Bucharest grand final",
-          "url": "https://www.hltv.org/news/45868/live-updates-from-pgl-masters-bucharest-grand-final",
+          "title": "PGL Masters Bucharest grand final as it happened",
+          "url": "https://www.hltv.org/news/45868/pgl-masters-bucharest-grand-final-as-it-happened",
           "source": "HLTV news",
           "published": "2026-10-31T09:45:00.000Z",
           "score": 5,
           "level": "possible",
           "why": [
             "grand final",
-            "pgl"
-          ]
-        },
-        {
-          "title": "FURIA beat MOUZ en route to Bucharest final",
-          "url": "https://www.hltv.org/news/45863/furia-beat-mouz-en-route-to-bucharest-final",
-          "source": "HLTV news",
-          "published": "2026-10-30T18:05:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
-            "furia"
-          ]
-        },
-        {
-          "title": "Nemiga Sweep Vitality 2-0 to Secure PGL Masters Bucharest Final Spot",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVC0zRTNmN19TR1FFY294dERLU3Nrc1ZiR3g3dENkT3ZIRmlqeXpCSzRHc09ma1FuLUsxdUt2aEd1TlZDcG9xZDRtZUgwNXZieVotX29VWGRFMG5sQVppcUhJVk5reFhYTnpfR3NnMzYwTEdGeE9JczNwRFc0V2ZPSTc4VktYZXlremc?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-10-30T17:40:42.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality",
             "pgl"
           ]
         },
@@ -160,6 +136,52 @@
           "why": [
             "furia",
             "pgl"
+          ]
+        },
+        {
+          "title": "Falcons new jersey for IEM Beijing 2026 & BLAST Rivals 2026 Season 2",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkcu5y/falcons_new_jersey_for_iem_beijing_2026_blast/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T15:16:57.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "iem",
+            "blast"
+          ]
+        },
+        {
+          "title": "PGL Heads to the Schengen Area in September 2027: Format, Invites and Financial Structure Revealed",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkch7p/pgl_heads_to_the_schengen_area_in_september_2027/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T15:02:30.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "revealed",
+            "pgl"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Better Land Warfare - Major Update: Hooks and Hoards released",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xkg4ia/better_land_warfare_major_update_hooks_and_hoards/",
+          "source": "r/aoe2",
+          "published": "2026-10-31T17:29:17.000Z",
+          "score": 8.5,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "update",
+            "removed*",
+            "return*",
+            "joins*",
+            "roster*"
           ]
         }
       ]
@@ -201,17 +223,6 @@
           "level": null,
           "why": [
             "team spirit"
-          ]
-        },
-        {
-          "title": "First ever T3 Trade up in Frostivus 2023 Chest (Volume Warning)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xk8wse/first_ever_t3_trade_up_in_frostivus_2023_chest/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T12:26:24.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "first ever"
           ]
         },
         {
@@ -280,10 +291,19 @@
           "why": []
         },
         {
-          "title": "XE - HN, October 31, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXRkYnhMcEhPTmJ4RDdVR25oSTJyeGpRUkxuOVFRNEQwdGY2dmozbTVpbTN5OVNoWEo4SkthNzFzR0pBeFFkcEFNSHlrZXkyVHZHMmRQcXloMkNiaFdNUEdQOFVIelhMdXNhRHY3VXBnTXBETjN0UnVhV3gyT0lBQ2tFQjJnNno5WDlWRGpMRl9BckJKWFgwRHF4NV9rNkps?oc=5",
+          "title": "Razor Offlane Build - Patch 7.41f",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkfpcq/razor_offlane_build_patch_741f/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T17:12:36.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - Synapse, November 2, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnpUVDZJTHF3YUtmNHZ2TVROMlZBSjk0a0YydFNYdVFSMkQxcGtXc1N3Zmw5TWgxQTJSNFk1N3RVNjRobExMdnN2UDhpRGtmUWJNRHpjOHZ3ajhSMXVqckdlQzF3cVFzVERyTXB0X3N1elZLS1h3dFN4QzZvY2Y2dWZNdVZxdU1tODNzLWgwdjl1V1RCclhIN3Z1T2JsZw?oc=5",
           "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-31T12:00:00.000Z",
+          "published": "2026-10-31T13:17:58.000Z",
           "score": 0,
           "level": null,
           "why": [
@@ -355,21 +375,6 @@
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xkegbo/out_of_all_the_dlc_characters_we_have_gotten_so/",
           "source": "r/StreetFighter",
           "published": "2026-10-31T16:22:23.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "2v2 Challenge League",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xk9o2f/2v2_challenge_league/",
-          "source": "r/aoe2",
-          "published": "2026-10-31T13:03:08.000Z",
           "score": 0,
           "level": null,
           "why": []
