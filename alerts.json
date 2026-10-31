@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T21:35:18.184Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "On this day, 3 years ago, NAVI signed w0nderful",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkly8x/on_this_day_3_years_ago_navi_signed_w0nderful/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "signed",
+        "navi"
+      ],
+      "summary": "submitted by /u/Special-Wash100 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-31T21:31:23.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T21:10:18.768Z",
       "level": "breaking",
       "scene": "CS2",
