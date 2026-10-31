@@ -1,41 +1,39 @@
 {
-  "generatedAt": "2026-10-31T14:56:56.062Z",
+  "generatedAt": "2026-10-31T15:55:17.479Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 29,
       "stories": [
         {
-          "title": "FURIA vs Nemiga, PGL Masters Bucharest grand final: is this Bo5 closer than it looks?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk6dvv/furia_vs_nemiga_pgl_masters_bucharest_grand_final/",
+          "title": "Nemiga vs FURIA / PGL Masters Bucharest 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkdgag/nemiga_vs_furia_pgl_masters_bucharest_2026_grand/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-31T10:06:41.000Z",
+          "published": "2026-10-31T15:42:01.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
-            "wins*",
+            "roster*",
             "grand final",
-            "vitality*",
-            "mouz*",
-            "liquid*",
-            "furia"
+            "official*",
+            "furia",
+            "pgl",
+            "reddit only"
           ]
         },
         {
-          "title": "Vitality vs MOUZ / PGL Masters Bucharest 2026 - 3Rd Place Decider Match / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xk61yq/vitality_vs_mouz_pgl_masters_bucharest_2026_3rd/",
+          "title": "Claymation-Strike: Magixx Nades Donk",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkdqzj/claymationstrike_magixx_nades_donk/",
           "source": "r/GlobalOffensive",
-          "published": "2026-10-31T09:46:29.000Z",
-          "score": 5.5,
+          "published": "2026-10-31T15:54:18.000Z",
+          "score": 5,
           "level": "possible",
           "why": [
-            "roster*",
-            "official*",
-            "zywoo*",
-            "ropz*",
-            "vitality",
-            "mouz"
+            "the last*",
+            "donk",
+            "vitality*",
+            "spirit*"
           ]
         },
         {
@@ -87,6 +85,42 @@
           ]
         },
         {
+          "title": "For the entire event, PGL has had the white background fade over FURIA‘s logo instead of behind it",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkcuz2/for_the_entire_event_pgl_has_had_the_white/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T15:17:54.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "furia",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Falcons new jersey for IEM Beijing 2026 & BLAST Rivals 2026 Season 2",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkcu5y/falcons_new_jersey_for_iem_beijing_2026_blast/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T15:16:57.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "iem",
+            "blast"
+          ]
+        },
+        {
+          "title": "PGL Heads to the Schengen Area in September 2027: Format, Invites and Financial Structure Revealed",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkch7p/pgl_heads_to_the_schengen_area_in_september_2027/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-10-31T15:02:30.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "revealed",
+            "pgl"
+          ]
+        },
+        {
           "title": "IEM Beining 2026 Talent Announced",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkaq1u/iem_beining_2026_talent_announced/",
           "source": "r/GlobalOffensive",
@@ -120,47 +154,25 @@
           "why": [
             "refuses"
           ]
-        },
-        {
-          "title": "KSCERATO: \"We're trying to play on feeling\"",
-          "url": "https://www.hltv.org/news/45864/kscerato-were-trying-to-play-on-feeling",
-          "source": "HLTV news",
-          "published": "2026-10-30T19:11:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "grand finals*",
-            "furia*"
-          ]
-        },
-        {
-          "title": "PGL Masters Bucharest semi-finals as they happened",
-          "url": "https://www.hltv.org/news/45859/pgl-masters-bucharest-semi-finals-as-they-happened",
-          "source": "HLTV news",
-          "published": "2026-10-30T17:54:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-30T17:52:27.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
+        {
+          "title": "Pudge gets banned every game",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkd8uk/pudge_gets_banned_every_game/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T15:33:32.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "banned",
+            "ban*"
+          ]
+        },
         {
           "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaV85RW5mY2xKd0xoMDl1OEt6VG9sdks2eTA0S3JGSUNOM3ZvLVE3U3dsS1lIRGZMX2tQLTJBajdpT0JaRHRvNVhHNjZER2lyV2JUYkRNWDR5c3o0ZUhvS1ZFOFdobGxVMC1XN2lGNjlnZDVwMkxzQVJJcmZPem1rN1U1RG1sSTFlLWN3M0d3ZDZQTmZrc2Y0Sm56QVJZSXhlc1JITnoyTXdEN1BLSS1WcnhB?oc=5",
@@ -188,7 +200,7 @@
           "title": "Team Spirit ride 2 victories into PARI Universe’s lower-bracket final",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQby1nMjVqMXdXNFdoUmMtTzRfWnBTcklCaHZGWVZmQ0tScW9FMDNBR0tEQ1hDOS00QXI3dkY5cGdhNWw1QlYwSjFYMVVWdnZ6RGNGVkQ4cjhJTnp3LVVIc2dOSWZiLWNHUnB5dDN3cHJLaHpTNXdIZXk4VUo1NDhBWUh1aEdEY0R4UzhuZFRhd3pvdWkzYzQ5U3plajZmbDExeHd1MFlBQWY?oc=5",
           "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-10-31T09:56:15.000Z",
+          "published": "2026-10-31T09:55:25.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -320,24 +332,10 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Congratulations to the winner of Melee Singles at BattleGateWay #53!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xk5s2m/congratulations_to_the_winner_of_melee_singles_at/",
-          "source": "r/SSBM",
-          "published": "2026-10-31T09:29:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",

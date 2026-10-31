@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T15:55:16.611Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Claymation-Strike: Magixx Nades Donk",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkdqzj/claymationstrike_magixx_nades_donk/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "the last*",
+        "donk",
+        "vitality*",
+        "spirit*"
+      ],
+      "summary": "Spooky season and I got another bangah right off the press for ya. This clip is from the Spirit vs Vitality Quarterfinal at EWC 2026 where in the last round of OT (Spirit down 14-15) Magixx accidentally tk'd Donk when trying to pop the smoke. Spirit lost the map but ended up stomping Vitality in the third and went on to win the whole tournament. Have a supernatural weekend! submitted by /u/Tye_Rex to r/GlobalOffensive [link] [comments]",
+      "published": "2026-10-31T15:54:18.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T15:45:19.557Z",
       "level": "possible",
       "scene": "CS2",
