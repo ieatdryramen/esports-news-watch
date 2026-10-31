@@ -1,6 +1,30 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-10-31T17:30:21.487Z",
+      "level": "possible",
+      "scene": "AoE2",
+      "title": "Better Land Warfare - Major Update: Hooks and Hoards released",
+      "url": "https://www.reddit.com/r/aoe2/comments/1xkg4ia/better_land_warfare_major_update_hooks_and_hoards/",
+      "source": "r/aoe2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 8.5,
+      "why": [
+        "the last*",
+        "update",
+        "removed*",
+        "return*",
+        "joins*",
+        "roster*",
+        "released",
+        "reddit only"
+      ],
+      "summary": "Hey everyone, Today I am happy to announce the release of new Content for my mod Better Land Warfare. For those that do not know my mod (which I assume is probably most 11): Better Land Warfare is a mod that adds 5 new generic Units to the game as well as a few changes and new techs to shape up the meta in 1v1 as well as Teamgames. Check out this 3 minute video that explains it in more detail. Anyway, with this update a new Unit joins the roster increasing the amount of new generic units to 5. The Hookcart and it's Imp Upgrade the Hook Ballista has been added: These units are Anti-Cavalry Siege with a primary focus on tearing down walls, castles and towers. It does so by shooting a hook that lodges itself into enemy fortification and is the ripping out part of it. Furthermore it slightly reduced the movement speed of all enemies hit in a small area and also only takes 1 damage from additional projectiles. This will be the last unit addition as I do not plan to add more in the future (5 new units is enough). Hook Cart and Hook Ballista Furthermore Supplies was readded with a slightly different implementation than its now removed predecessor. For 55f and wood, you can now reduce the food cost of all Barrack Units by -5 food while also increaing their movement speed by 5%. In return however, some food costs were increased. The idea is that with this tech researched, you can viably spam man at arms and longswords to your hearts content. Now all 3 Military Buildings have one Feuda",
+      "published": "2026-10-31T17:29:17.000Z"
+    },
+    {
       "alertedAt": "2026-10-31T16:45:21.120Z",
       "level": "possible",
       "scene": "CS2",
