@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T10:40:21.790Z",
+  "generatedAt": "2026-11-01T11:40:17.961Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 14,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -15,6 +15,20 @@
           "level": "breaking",
           "why": [
             "comeback",
+            "furia",
+            "pgl"
+          ]
+        },
+        {
+          "title": "FURIA Won PGL Masters Bucharest 2026, NAVI and FUT Finished the Tournament in the Top 8",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQdIBwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQQ?oc=5",
+          "source": "Google News: CS2 (Players)",
+          "published": "2026-10-31T16:41:48.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "won",
+            "navi",
             "furia",
             "pgl"
           ]
@@ -59,6 +73,18 @@
           ]
         },
         {
+          "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-31T19:15:08.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "furia",
+            "pgl"
+          ]
+        },
+        {
           "title": "FlyQuest vs Alter Ego / DFRAG Invitational 2026 - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkvyg2/flyquest_vs_alter_ego_dfrag_invitational_2026/",
           "source": "r/GlobalOffensive",
@@ -68,19 +94,6 @@
           "why": [
             "roster*",
             "grand final",
-            "official*"
-          ]
-        },
-        {
-          "title": "NRG vs Wildcard / FiRe Last Chance 2026 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkqqe9/nrg_vs_wildcard_fire_last_chance_2026/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T01:24:30.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "benched*",
-            "roster*",
             "official*"
           ]
         },
@@ -120,28 +133,19 @@
           ]
         },
         {
+          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-01T06:51:47.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Polymarket Esports Sets Free CS2 Cups for November",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
           "source": "Google News: CS2 (RG.org)",
           "published": "2026-11-01T05:52:49.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
-          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
-          "source": "HLTV news",
-          "published": "2026-10-31T17:21:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 42",
-          "url": "https://www.hltv.org/news/45811/short-news-week-42",
-          "source": "HLTV news",
-          "published": "2026-10-31T13:34:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -258,7 +262,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
@@ -266,6 +270,15 @@
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-01T02:34:00.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "The live crowd LOVES Arjun! (China World Warrior finals is live. Link in the replies)",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl0tsw/the_live_crowd_loves_arjun_china_world_warrior/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-01T11:32:54.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
