@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:00:41.678Z",
+  "generatedAt": "2026-11-01T21:00:39.444Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -145,7 +145,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 10,
       "stories": [
         {
           "title": "[Spoilers] are your PARI Universe champions!",
@@ -161,10 +161,44 @@
           ]
         },
         {
+          "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-01T07:23:54.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "grand final",
+            "team spirit"
+          ]
+        },
+        {
           "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
           "source": "Google News: Dota (Hotspawn)",
           "published": "2026-11-01T19:41:42.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Team Spirit MLBB Take Sixth Straight MCC Title – MLBB’s Golden Road at M8 in Sight",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83bW9xQlBuYVAwdDhsTHdmTWkwNEREejcyUUs0eUhTOExqbmxMS0IxaGpsS2k1OVY2M2hCek1jVEhidkR2Q2pTZFc3N2hNRllWeEhaeGJMbEdhaTF1ZFUyWjd2ellJTFkzSWhZd1ZB?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-01T19:41:15.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Team Spirit brush aside foes to win PARI Universe event",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUJTbVRZZ2RFRzdMY28yLXg1cUhINE1vSFRYUkhVb0hDaFdGRXBBQ001MjR5c21kbzJGc3EtcVdMYnMzS0JlbTczOHFaZHh1RGNJZDhQVXRSaWtmMUYxWWxwdWdNT0Z4THBkaHN0am9JajFrdHp5dWNjenlaR0EzZ2kxYlFyYlFrT1NxajNwcXpLLVo3Rk1F?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-01T18:38:39.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -205,11 +239,11 @@
           ]
         },
         {
-          "title": "Yandex vs. Spirit Set for PARI Universe Dota 2 Final",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHVTY0VBcWpBbW9vb3YwZTBTY0YzdmgxZ3JRejJoR01HeXVSX0dPMF8yOGlGN3BmSlZleXdzSHNUVGZpTDNYYlVBSDNQN1pUa0wxd0JWeXMzc3VDb1VxcUxDSWgxbTVRVUdIQ1d5eDczb3RCank0dno3djdJak1fYVc3YW10UGRsZVR3dF8yNHVISU9YdThhVFlocHZBamhwNW5FTw?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-01T12:52:20.000Z",
-          "score": 1,
+          "title": "Patch wishlist",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xldxeu/patch_wishlist/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T20:45:11.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
