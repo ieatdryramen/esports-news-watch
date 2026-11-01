@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T09:45:17.838Z",
+  "generatedAt": "2026-11-01T10:40:21.790Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 12,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -56,30 +56,6 @@
             "grand final*",
             "furia",
             "pgl"
-          ]
-        },
-        {
-          "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-31T19:15:08.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "MOUZ claim third place in Romania over Vitality",
-          "url": "https://www.hltv.org/news/45869/mouz-claim-third-place-in-romania-over-vitality",
-          "source": "HLTV news",
-          "published": "2026-10-31T10:03:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality",
-            "mouz"
           ]
         },
         {
@@ -144,10 +120,54 @@
           ]
         },
         {
-          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-01T06:51:47.000Z",
+          "title": "Polymarket Esports Sets Free CS2 Cups for November",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-01T05:52:49.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
+          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
+          "source": "HLTV news",
+          "published": "2026-10-31T17:21:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 42",
+          "url": "https://www.hltv.org/news/45811/short-news-week-42",
+          "source": "HLTV news",
+          "published": "2026-10-31T13:34:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Classic Tetris",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Bug or cheating?",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xkxi7x/bug_or_cheating/",
+          "source": "r/Tetris",
+          "published": "2026-11-01T08:04:38.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
+          ]
+        },
+        {
+          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-11-01T06:53:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -156,20 +176,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
-        {
-          "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-01T07:23:54.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "team spirit"
-          ]
-        },
         {
           "title": "Changed my name to Pudge picker just to ban pudge even more",
           "url": "https://www.reddit.com/r/DotA2/comments/1xkxw7d/changed_my_name_to_pudge_picker_just_to_ban_pudge/",
@@ -227,10 +235,10 @@
           ]
         },
         {
-          "title": "Since there is no patch yet, let me complain more about Tide Arcana",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkpdwo/since_there_is_no_patch_yet_let_me_complain_more/",
+          "title": "Not even minor patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkzk0x/not_even_minor_patch/",
           "source": "r/DotA2",
-          "published": "2026-11-01T00:14:34.000Z",
+          "published": "2026-11-01T10:16:25.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -245,50 +253,6 @@
           "why": [
             "-stream"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cearion correctly predicting FaZe wouldn't qualify for LAN a day before the Pro League kicked off",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xkpu81/cearion_correctly_predicting_faze_wouldnt_qualify/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-01T00:37:25.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "kicked",
-            "roster*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Bug or cheating?",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xkxi7x/bug_or_cheating/",
-          "source": "r/Tetris",
-          "published": "2026-11-01T08:04:38.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
-        },
-        {
-          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-11-01T06:53:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -388,6 +352,7 @@
     "Brood War",
     "Warcraft III",
     "CoD",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
