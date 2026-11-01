@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-11-01T03:30:27.511Z",
+  "generatedAt": "2026-11-01T04:00:25.531Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1720731",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "River City Rushdown October 2026",
+      "event": "Street Fighter III: 3rd Strike (PC)",
+      "entrants": 17,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-31T19:00:00.000Z",
+      "endAt": "2026-11-01T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/river-city-rushdown-october-2026/event/street-fighter-iii-3rd-strike-pc",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "1000Star Ronin | Crimzon"
+        },
+        {
+          "placement": 2,
+          "name": "FPT | Rasha"
+        },
+        {
+          "placement": 3,
+          "name": "Guardian_B"
+        },
+        {
+          "placement": 4,
+          "name": "KingDroid"
+        },
+        {
+          "placement": 5,
+          "name": "FPT | Zhea"
+        },
+        {
+          "placement": 5,
+          "name": "TheOGGriper"
+        },
+        {
+          "placement": 7,
+          "name": "FPT | Duberis"
+        },
+        {
+          "placement": 7,
+          "name": "Eeyore"
+        }
+      ]
+    },
+    {
+      "eventId": "1727542",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Psychic Drive Arcade Tournaments @ Youmacon 2026",
+      "event": "Street Fighter III: 3rd Strike (w/USB support)",
+      "entrants": 18,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-31T21:00:00.000Z",
+      "endAt": "2026-11-01T03:56:00.000Z",
+      "url": "https://www.start.gg/tournament/psychic-drive-arcade-tournaments-youmacon-2026/event/street-fighter-iii-3rd-strike-w-usb-support",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "OFFWORLD | Sheep"
+        },
+        {
+          "placement": 2,
+          "name": "OFFWORLD | helm"
+        },
+        {
+          "placement": 3,
+          "name": "OFFWORLD | Pops"
+        },
+        {
+          "placement": 4,
+          "name": "Rabid"
+        },
+        {
+          "placement": 5,
+          "name": "PartyAtDani's"
+        },
+        {
+          "placement": 5,
+          "name": "OFFWORLD | Shaq"
+        },
+        {
+          "placement": 7,
+          "name": "OFFWORLD | Gearlessgav"
+        },
+        {
+          "placement": 7,
+          "name": "JamesPod"
+        }
+      ]
+    },
     {
       "eventId": "1723138",
       "scene": "streetfighter",
@@ -53,6 +147,19 @@
   "live": [],
   "upcoming": [
     {
+      "eventId": "1687062",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Frame 19",
+      "event": "Melee Singles",
+      "entrants": 119,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T16:00:00.000Z",
+      "endAt": "2026-11-08T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/frame-19/event/melee-singles"
+    },
+    {
       "eventId": "1737320",
       "scene": "streetfighter",
       "game": "Street Fighter III: 3rd Strike",
@@ -77,6 +184,32 @@
       "startAt": "2026-11-07T18:00:00.000Z",
       "endAt": "2026-11-08T03:00:00.000Z",
       "url": "https://www.start.gg/tournament/center-stage-2026/event/melee-singles"
+    },
+    {
+      "eventId": "1691983",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "No God No Neutral Offline Edition #003",
+      "event": "3rd Strike",
+      "entrants": 21,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T21:00:00.000Z",
+      "endAt": "2026-11-08T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/no-god-no-neutral-offline-edition-003/event/3rd-strike"
+    },
+    {
+      "eventId": "1729356",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Asscadian 8",
+      "event": "Melee Singles",
+      "entrants": 64,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T23:00:00.000Z",
+      "endAt": "2026-11-08T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-asscadian-8/event/melee-singles"
     }
   ],
   "games": {

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T03:00:39.398Z",
+  "generatedAt": "2026-11-01T04:00:40.232Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -15,20 +15,6 @@
           "level": "breaking",
           "why": [
             "comeback",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "FURIA Won PGL Masters Bucharest 2026, NAVI and FUT Finished the Tournament in the Top 8",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQdIBwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQQ?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-10-31T16:41:48.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "won",
-            "navi",
             "furia",
             "pgl"
           ]
@@ -152,12 +138,23 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "TYLOO likely to miss out on Singapore following HyperX Retake withdrawal",
+          "url": "https://www.hltv.org/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal",
+          "source": "HLTV news",
+          "published": "2026-10-31T09:25:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "iem*"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 8,
       "stories": [
         {
           "title": "If you could ban 10 heros, one per pos for each team (5 enemy, 5 yours), which do you pick and why?",
@@ -206,28 +203,6 @@
           ]
         },
         {
-          "title": "Worlds 2026 Swiss Stage Day 7 Results: LØS eliminate Team Liquid, Hanwha Life Esports crush G2 Esports’ hopes",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHJoYUNBaE5kMGRGSm1qVlRwWWpzYnlOdThTY3dOTmstUEw3d25qejhDUVp5dUctRDhkWFNtMjBxalQxb3hXcEFJcUhIX3RmV3hhLWtMak45NmFHZE9ZalAzUGFCVGRhcnFyTVhHR0JvZllaVWhQdDZkVEZzU2RqQzdNRQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-31T03:45:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "Can you Update the game before i get my first child???",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkl2r1/can_you_update_the_game_before_i_get_my_first/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T20:52:10.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Since there is no patch yet, let me complain more about Tide Arcana",
           "url": "https://www.reddit.com/r/DotA2/comments/1xkpdwo/since_there_is_no_patch_yet_let_me_complain_more/",
           "source": "r/DotA2",
@@ -250,15 +225,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xko7yk/31_oct_and_dota_has_no_event/",
           "source": "r/DotA2",
           "published": "2026-10-31T23:18:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "PARI Universe Recap: Upper Bracket Final & Lower Bracket Final",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xklqbx/pari_universe_recap_upper_bracket_final_lower/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T21:21:07.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -384,25 +350,6 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "So apparently Steam gamepad settings lets you cheat...",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkl7t1/so_apparently_steam_gamepad_settings_lets_you/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-31T20:58:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "banned*",
-            "cheat",
-            "-settings"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
       "storyCount": 1,
       "stories": [
@@ -416,27 +363,14 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Game progression went from 100% to 99% after last patch",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xkl8js/game_progression_went_from_100_to_99_after_last/",
-          "source": "r/aoe2",
-          "published": "2026-10-31T20:59:24.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "AoE2",
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "CoD"
   ]
 }
