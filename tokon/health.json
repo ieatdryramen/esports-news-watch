@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:30:44.163Z",
+  "generatedAt": "2026-11-01T05:30:39.167Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-10-31T23:59:25.000Z",
+      "newest": "2026-11-01T05:15:11.000Z",
       "error": null
     },
     {
@@ -85,8 +85,8 @@
       "name": "Google News: Tokon patches + DLC",
       "ok": true,
       "skipped": false,
-      "items": 4,
-      "newest": "2026-11-01T00:15:43.000Z",
+      "items": 3,
+      "newest": "2026-10-31T15:26:56.000Z",
       "error": null
     },
     {
