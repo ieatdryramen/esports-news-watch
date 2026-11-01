@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T08:45:20.396Z",
+  "generatedAt": "2026-11-01T09:45:17.838Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -17,6 +17,20 @@
             "comeback",
             "furia",
             "pgl"
+          ]
+        },
+        {
+          "title": "Today is the last day before VRS invites are being sent for the Singapore major, only one spot* is still available. Here is what you need to know",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkyzb9/today_is_the_last_day_before_vrs_invites_are/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-01T09:40:13.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "the last",
+            "wins*",
+            "grand finals*",
+            "eliminated*"
           ]
         },
         {
@@ -45,6 +59,18 @@
           ]
         },
         {
+          "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-31T19:15:08.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "furia",
+            "pgl"
+          ]
+        },
+        {
           "title": "MOUZ claim third place in Romania over Vitality",
           "url": "https://www.hltv.org/news/45869/mouz-claim-third-place-in-romania-over-vitality",
           "source": "HLTV news",
@@ -54,18 +80,6 @@
           "why": [
             "vitality",
             "mouz"
-          ]
-        },
-        {
-          "title": "PGL Masters Bucharest grand final as it happened",
-          "url": "https://www.hltv.org/news/45868/pgl-masters-bucharest-grand-final-as-it-happened",
-          "source": "HLTV news",
-          "published": "2026-10-31T09:45:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "pgl"
           ]
         },
         {
@@ -118,17 +132,6 @@
           ]
         },
         {
-          "title": "TYLOO likely to miss out on Singapore following HyperX Retake withdrawal",
-          "url": "https://www.hltv.org/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal",
-          "source": "HLTV news",
-          "published": "2026-10-31T09:25:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "iem*"
-          ]
-        },
-        {
           "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
           "url": "https://esports.gg/guides/counter-strike-2/awp-dragon-lore-cs-skin-history/",
           "source": "esports.gg",
@@ -141,10 +144,10 @@
           ]
         },
         {
-          "title": "Polymarket Esports Sets Free CS2 Cups for November",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-01T05:52:49.000Z",
+          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-01T06:51:47.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -153,7 +156,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
@@ -233,24 +236,6 @@
           "why": []
         },
         {
-          "title": "Patch incoming?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkoxaz/patch_incoming/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T23:53:05.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "31 oct and dota has no event",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xko7yk/31_oct_and_dota_has_no_event/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T23:18:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Hk - XE, November 2, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc29EUUU0em1hUVFKZlJjQW03YU5ybWZjZkhqOEJrbGlGZkpPNmFiaFBCdzA5WmFOYXBrVXJRRV9WRTE5NmtRSUxDOXJaWGdjZ25qRlJSWVBXaGlELXRNamVNTXBfVXJNeHRkc2cxeGFsdDJ6V0tVYklzOWVHMXhFdmxyWlBTRjljUDNYQXB1WW5RcXZLY2h0dW1GVkI?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -282,24 +267,6 @@
       ]
     },
     {
-      "scene": "Quake",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cant connect even after ban",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xkoceq/cant_connect_even_after_ban/",
-          "source": "r/QuakeChampions",
-          "published": "2026-10-31T23:24:09.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "ban"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Classic Tetris",
       "storyCount": 2,
       "stories": [
@@ -322,23 +289,6 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Jmook Every Edgeguard 2025",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xkole3/jmook_every_edgeguard_2025/",
-          "source": "r/SSBM",
-          "published": "2026-10-31T23:36:22.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "jmook"
-          ]
         }
       ]
     },
@@ -388,6 +338,23 @@
       ]
     },
     {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "A global announcement declares a $1 billion prize pool for an open bracket Melee tournament taking place in 3 years. What would the top 8 look like?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xkyauw/a_global_announcement_declares_a_1_billion_prize/",
+          "source": "r/SSBM",
+          "published": "2026-11-01T08:56:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "prize pool"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Trackmania",
       "storyCount": 2,
       "stories": [
@@ -420,6 +387,7 @@
     "AoE2",
     "Brood War",
     "Warcraft III",
-    "CoD"
+    "CoD",
+    "Quake"
   ]
 }

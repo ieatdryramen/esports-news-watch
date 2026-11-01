@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-01T09:45:16.916Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Today is the last day before VRS invites are being sent for the Singapore major, only one spot* is still available. Here is what you need to know",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkyzb9/today_is_the_last_day_before_vrs_invites_are/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "the last",
+        "wins*",
+        "grand finals*",
+        "eliminated*"
+      ],
+      "summary": "Yesterday, Eternal Fire secured the second to last major spot. This was due to Shinden being eliminated from FiRe last chance, which meant 100Thieves isn't able to fight enough high vrs opponents to overtake Eternal Fire. So we are down to one single major spot remaining. There are three competitors for this spot: HOTU 100Thieves Fnatic HOTU is in the final of Moscow Cyber Games while 100Thieves are in the semi-finals of FiRe last chance (and they will host the grand finals the same day). All Fnatic can do, is wait and see. So let's quickly talk about the matches and scenarios. Moscow Cyber Games: 1win vs HOTU This is the most consequential match of today. If HOTU win this match, they are guaranteed to take the last major spot, with no way for Fnatic or 100T to overtake them. However, they are up against 1win, a very winning team lately, and they have also something on the line: If 1win win vs HOTU, then they get guaranteed a spot in stage 2 of the major, taking NIP's spot. Now let's assume HOTU loses here... FiRe Last Chance: 100Thieves vs Bestia If HOTU loses and 100Thieves wins FiRe Last Chance, then 100Thieves is guaranteed the last major spot. It would not just require a win against Bestia, but also against BARCA/Wildcard. However, for Bestia there is still something on the line. I put an asterisk after \"one spot\" on the title of this post because there is technically another major spot open, specifically in the Americas region. With Wildcard winning against NRG, NRG is ",
+      "published": "2026-11-01T09:40:13.000Z"
+    },
+    {
       "alertedAt": "2026-11-01T08:15:21.070Z",
       "level": "possible",
       "scene": "Dota",
