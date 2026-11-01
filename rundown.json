@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T14:00:36.435Z",
+  "generatedAt": "2026-11-01T15:00:36.922Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -85,27 +85,14 @@
           ]
         },
         {
-          "title": "FlyQuest vs Alter Ego / DFRAG Invitational 2026 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkvyg2/flyquest_vs_alter_ego_dfrag_invitational_2026/",
+          "title": "TOP-3 matches of PGL Masters Bucharest",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl4cq9/top3_matches_of_pgl_masters_bucharest/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-01T06:25:31.000Z",
-          "score": 3.5,
+          "published": "2026-11-01T14:25:01.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "roster*",
-            "grand final",
-            "official*"
-          ]
-        },
-        {
-          "title": "FURIA's Bucharest win pulls 667K viewers but trails Astana",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUl9QcGM3aERPVkFMN0JfTTh0MUNydjl0OWtFNTQ4WmoweGU0VTFKc0VyTzV1ZWtnSEZtYk9iS0laSjVweTZaTzBManA4MTRWQjk5Tnd5ZjdTM2NRYXEzUWE3bGNURzkxX0ZVZ0JDT0sxYklLNHg5dzhGeTY4bTExWk5HLTBiZw?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-10-31T21:30:47.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia"
+            "pgl"
           ]
         },
         {
@@ -141,21 +128,30 @@
         },
         {
           "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWgzRG9BRWQ4eFl5clZsbzZXREYyX1NKNjJwQ1BObFJTYm8xVlRwZEZvSllZazVha2ozSHh5RmQ3YTBPYVlxUWlCVHkwOGlfQ2d5c2lZRTlLczJwd2NMMHZtM2c5VkVXUkwzamhkSmhXM2JFWm9YMW1ObzFlbWFHSA?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-01T08:18:38.000Z",
+          "url": "https://esports.gg/guides/counter-strike-2/awp-dragon-lore-cs-skin-history/",
+          "source": "esports.gg",
+          "published": "2026-11-01T08:15:22.000Z",
           "score": 1,
           "level": null,
           "why": [
             "history",
             "-skin"
           ]
+        },
+        {
+          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-01T06:51:47.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
@@ -203,27 +199,13 @@
           ]
         },
         {
-          "title": "Dont really care about patch but i hope we have a winter cleaning or early spring cleaning",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkvf5p/dont_really_care_about_patch_but_i_hope_we_have_a/",
+          "title": "Pari universe finals",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl3s27/pari_universe_finals/",
           "source": "r/DotA2",
-          "published": "2026-11-01T05:52:07.000Z",
-          "score": 1.5,
+          "published": "2026-11-01T14:00:35.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "breaking*"
-          ]
-        },
-        {
-          "title": "PARI Universe Final Day Thread",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkv669/pari_universe_final_day_thread/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T05:36:17.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "grand finals*",
-            "official*"
-          ]
+          "why": []
         },
         {
           "title": "Not even minor patch",
@@ -274,6 +256,32 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-01T06:50:31.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-10-31T23:58:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 3,
       "stories": [
@@ -309,21 +317,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-10-31T23:58:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -342,21 +335,8 @@
     },
     {
       "scene": "Trackmania",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Video Settings Won't Save",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xkvwir/video_settings_wont_save/",
-          "source": "r/TrackMania",
-          "published": "2026-11-01T06:22:08.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "refuses*",
-            "won",
-            "-settings"
-          ]
-        },
         {
           "title": "Forgive 9: Fever Dreams ($50 prize)",
           "url": "https://www.reddit.com/r/TrackMania/comments/1xkwsed/forgive_9_fever_dreams_50_prize/",
