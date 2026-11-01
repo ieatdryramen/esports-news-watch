@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T14:30:42.261Z",
+  "generatedAt": "2026-11-01T15:30:42.809Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Marvel Tokon stories",
@@ -14,18 +14,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
-          "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
-          "source": "Push Square",
-          "published": "2026-10-31T15:15:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "roster*",
-            "-guide"
-          ]
         }
       ]
     }
