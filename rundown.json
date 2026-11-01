@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T04:00:40.232Z",
+  "generatedAt": "2026-11-01T05:00:36.972Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 12,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -42,18 +42,6 @@
             "grand final*",
             "furia",
             "pgl"
-          ]
-        },
-        {
-          "title": "On this day, 3 years ago, NAVI signed w0nderful",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkly8x/on_this_day_3_years_ago_navi_signed_w0nderful/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T21:31:23.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "signed",
-            "navi"
           ]
         },
         {
@@ -129,17 +117,6 @@
           ]
         },
         {
-          "title": "Final matches of CS2 PGL Masters Bucharest 2026: Playoff bracket, results",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-31T14:05:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "TYLOO likely to miss out on Singapore following HyperX Retake withdrawal",
           "url": "https://www.hltv.org/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal",
           "source": "HLTV news",
@@ -149,26 +126,67 @@
           "why": [
             "iem*"
           ]
+        },
+        {
+          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
+          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
+          "source": "HLTV news",
+          "published": "2026-10-31T17:21:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 42",
+          "url": "https://www.hltv.org/news/45811/short-news-week-42",
+          "source": "HLTV news",
+          "published": "2026-10-31T13:34:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cearion correctly predicting FaZe wouldn't qualify for LAN a day before the Pro League kicked off",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xkpu81/cearion_correctly_predicting_faze_wouldnt_qualify/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-01T00:37:25.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "kicked",
+            "roster*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Quake",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cant connect even after ban",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xkoceq/cant_connect_even_after_ban/",
+          "source": "r/QuakeChampions",
+          "published": "2026-10-31T23:24:09.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "ban"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
-        {
-          "title": "If you could ban 10 heros, one per pos for each team (5 enemy, 5 yours), which do you pick and why?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xklsmz/if_you_could_ban_10_heros_one_per_pos_for_each/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T21:24:02.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "breaking*",
-            "ban",
-            "leaves*"
-          ]
-        },
         {
           "title": "[ Removed by Reddit ]",
           "url": "https://www.reddit.com/r/DotA2/comments/1xkrbyv/removed_by_reddit/",
@@ -243,79 +261,6 @@
       ]
     },
     {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cearion correctly predicting FaZe wouldn't qualify for LAN a day before the Pro League kicked off",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xkpu81/cearion_correctly_predicting_faze_wouldnt_qualify/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-01T00:37:25.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "kicked",
-            "roster*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Quake",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cant connect even after ban",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xkoceq/cant_connect_even_after_ban/",
-          "source": "r/QuakeChampions",
-          "published": "2026-10-31T23:24:09.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "ban"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-10-31T06:50:54.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-10-31T23:58:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "My final wish list for future seasons in Tekken 8",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xkm305/my_final_wish_list_for_future_seasons_in_tekken_8/",
-          "source": "r/Tekken",
-          "published": "2026-10-31T21:37:31.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -346,6 +291,21 @@
           "why": [
             "mini"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-10-31T23:58:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
