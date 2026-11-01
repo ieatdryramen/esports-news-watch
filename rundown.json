@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-11-01T22:00:42.618Z",
+  "generatedAt": "2026-11-01T23:00:43.167Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
+        {
+          "title": "100 Thieves vs Wildcard / FiRe Last Chance 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlgop0/100_thieves_vs_wildcard_fire_last_chance_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-01T22:40:48.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "grand final",
+            "official*",
+            "device*"
+          ]
+        },
         {
           "title": "Jee returns to TYLOO lineup for IEM Beijing",
           "url": "https://www.hltv.org/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing",
@@ -16,20 +31,6 @@
           "why": [
             "returns",
             "iem"
-          ]
-        },
-        {
-          "title": "BARCA vs Wildcard / FiRe Last Chance 2026 - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl9qbx/barca_vs_wildcard_fire_last_chance_2026_semifinal/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T17:58:58.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "benched*",
-            "roster*",
-            "grand final*",
-            "official*"
           ]
         },
         {
@@ -104,6 +105,17 @@
           ]
         },
         {
+          "title": "100 Thieves win FiRe Last Chance to book last Singapore Major spot",
+          "url": "https://www.hltv.org/news/45880/100-thieves-win-fire-last-chance-to-book-last-singapore-major-spot",
+          "source": "HLTV news",
+          "published": "2026-11-01T22:41:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won*"
+          ]
+        },
+        {
           "title": "As always Chinese fans are spoiling the players with gifts. w0nderful received this drawing (is that Aleksib SUS)",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlefnk/as_always_chinese_fans_are_spoiling_the_players/",
           "source": "r/GlobalOffensive",
@@ -123,17 +135,6 @@
           "level": null,
           "why": [
             "iem*"
-          ]
-        },
-        {
-          "title": "Last EU spot for Singapore Major up for Grabs",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl8up1/last_eu_spot_for_singapore_major_up_for_grabs/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T17:25:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "the last*"
           ]
         },
         {
@@ -250,7 +251,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "I made a game where you draft a team from every TI roster since 2011 and try to go 17-0. Dota's 82-0",
@@ -297,6 +298,15 @@
           "why": []
         },
         {
+          "title": "I made an Act II & PvE event generator custom game so we don't have to wait for Valve to release one",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlge94/i_made_an_act_ii_pve_event_generator_custom_game/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T22:28:01.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Patch wishlist",
           "url": "https://www.reddit.com/r/DotA2/comments/1xldxeu/patch_wishlist/",
           "source": "r/DotA2",
@@ -318,7 +328,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Tokido vs Poongko USF4 at evo france",
@@ -349,15 +359,6 @@
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-01T19:44:50.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Overtime | PSN Tournament",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl8xr1/overtime_psn_tournament/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-01T17:28:25.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -397,8 +398,20 @@
     },
     {
       "scene": "Trackmania",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Is this record legit? What am I missing? - Weekly Shorts 98 - Map 2 (\"The Pumpkin's are coming\")",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xlgxoj/is_this_record_legit_what_am_i_missing_weekly/",
+          "source": "r/TrackMania",
+          "published": "2026-11-01T22:52:04.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "record",
+            "-weekly"
+          ]
+        },
         {
           "title": "[TOTD] 01/11/2026, it's spooky season (ce) by PsyberTM, (discussion)",
           "url": "https://www.reddit.com/r/TrackMania/comments/1xla9ui/totd_01112026_its_spooky_season_ce_by_psybertm/",

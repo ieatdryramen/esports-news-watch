@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-01T22:30:20.207Z",
+  "generatedAt": "2026-11-01T23:00:26.183Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1742717",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "Iron Fist League 3 #6",
+      "event": "Tekken 8 Double Elimination Bracket",
+      "entrants": 82,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-01T18:00:00.000Z",
+      "endAt": "2026-11-01T22:59:00.000Z",
+      "url": "https://www.start.gg/tournament/iron-fist-league-3-6/event/tekken-8-double-elimination-bracket",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "INGAGE | Stack"
+        },
+        {
+          "placement": 2,
+          "name": "MKE | Nigno"
+        },
+        {
+          "placement": 3,
+          "name": "adelante"
+        },
+        {
+          "placement": 4,
+          "name": "Heddy"
+        },
+        {
+          "placement": 5,
+          "name": "AliiDC"
+        },
+        {
+          "placement": 5,
+          "name": "gykbbt"
+        },
+        {
+          "placement": 7,
+          "name": "Gaer Gaeaf"
+        },
+        {
+          "placement": 7,
+          "name": "Kicking Machine"
+        }
+      ]
+    },
     {
       "eventId": "1653286",
       "scene": "legacyfgc",
@@ -393,6 +440,32 @@
       "startAt": "2026-11-07T02:00:00.000Z",
       "endAt": "2026-11-08T10:30:00.000Z",
       "url": "https://www.start.gg/tournament/wave-land-2026/event/melee-singles"
+    },
+    {
+      "eventId": "1606707",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "Headstomper 2026",
+      "event": "MAIN EVENT: TEKKEN 8 [TWT 2026 Challenger Event]",
+      "entrants": 140,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T08:00:00.000Z",
+      "endAt": "2026-11-08T22:59:00.000Z",
+      "url": "https://www.start.gg/tournament/headstomper-2026/event/main-event-tekken-8-twt-2026-challenger-event"
+    },
+    {
+      "eventId": "1606706",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "Headstomper 2026",
+      "event": "MAIN EVENT: Guilty Gear: Strive [AWT 26-27 Gold Event]",
+      "entrants": 107,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T08:00:00.000Z",
+      "endAt": "2026-11-08T22:59:00.000Z",
+      "url": "https://www.start.gg/tournament/headstomper-2026/event/main-event-guilty-gear-strive-awt-26-27-gold-event"
     },
     {
       "eventId": "1687062",
