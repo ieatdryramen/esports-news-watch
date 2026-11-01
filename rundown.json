@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T01:00:35.475Z",
+  "generatedAt": "2026-11-01T02:00:38.818Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 17,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -15,6 +15,20 @@
           "level": "breaking",
           "why": [
             "comeback",
+            "furia",
+            "pgl"
+          ]
+        },
+        {
+          "title": "FURIA Won PGL Masters Bucharest 2026, NAVI and FUT Finished the Tournament in the Top 8",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQdIBwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQQ?oc=5",
+          "source": "Google News: CS2 (Players)",
+          "published": "2026-10-31T16:41:48.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "won",
+            "navi",
             "furia",
             "pgl"
           ]
@@ -81,15 +95,16 @@
           ]
         },
         {
-          "title": "BLAST Premier Open 3 Confirmed for the USA in September 2027",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83X3hmYUJrbXd2RXVrUHVwb25VUk43cldES25ycm1qcUVfUlNhUXF5TE5GUlNyZTdaYTIwWG01eWlHVFN5OVNlZ1RPVEFGeDJDNmg3MWxBZmtuYXNpM3N1Q0NYdzZHMXYtUUZ5bDRqdTdlRWM?oc=5",
-          "source": "Google News: CS2 (Shane the Gamer)",
-          "published": "2026-10-31T07:21:00.000Z",
-          "score": 4,
+          "title": "NRG vs Wildcard / FiRe Last Chance 2026 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkqqe9/nrg_vs_wildcard_fire_last_chance_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-01T01:24:30.000Z",
+          "score": 3.5,
           "level": null,
           "why": [
-            "confirmed",
-            "blast"
+            "benched*",
+            "roster*",
+            "official*"
           ]
         },
         {
@@ -115,18 +130,6 @@
           "why": [
             "the last*",
             "roster"
-          ]
-        },
-        {
-          "title": "BESTIA vs Procyon / FiRe Last Chance 2026 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkmvdu/bestia_vs_procyon_fire_last_chance_2026/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T22:13:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "benched*",
-            "roster*"
           ]
         },
         {
@@ -168,6 +171,17 @@
             "breaking*",
             "ban",
             "leaves*"
+          ]
+        },
+        {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkrbyv/removed_by_reddit/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T01:56:48.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
           ]
         },
         {
@@ -246,15 +260,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xklqbx/pari_universe_recap_upper_bracket_final_lower/",
           "source": "r/DotA2",
           "published": "2026-10-31T21:21:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Idea for a new hero",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkjwmw/idea_for_a_new_hero/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T20:02:06.000Z",
           "score": 0,
           "level": null,
           "why": []
