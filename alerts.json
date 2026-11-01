@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-01T15:30:21.748Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Team Yandex now have the sixth-largest ranking lead in Dota 2 history, only Falcons have done better",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xl5t1w/team_yandex_now_have_the_sixthlargest_ranking/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6.5,
+      "why": [
+        "update*",
+        "won*",
+        "history",
+        "tundra*",
+        "falcons"
+      ],
+      "summary": "Disclaimer: I run E-Rankings, a Dota 2 and StarCraft 2 ranking website. The rankings are based on tournament results over the past twelve months, not subjective assessments of team strength or predictions of match outcomes. I just finished the November Dota 2 Team World Ranking update. Most notable statistic: Team Yandex now lead PARIVISION by 21,478 ranking points. That's the sixth-largest gap between #1 and #2 in the history of our monthly Dota 2 rankings. Only Team Falcons have achieved bigger leads, doing so five times in 2024 and 2025. Yandex currently have 58,591 points, compared to PARIVISION's 37,113. They have won four major tournaments since March and haven't finished below third place since June. There are some interesting developments further down the rankings as well. PARIVISION secure rank #2, Spirit move past Liquid into fourth place and no fewer than 36 teams in the top 100 achieve their highest-ever ranking positions. I've included the biggest risers, new career peaks and further ranking changes in the full November analysis: Full November World Ranking Update How do you think Yandex' current form compares to others like Tundra in 2025/26 or Falcons in 2024/25? P.S. The picture has a mistake, it should be \"team\" instead of \"player\" of course. submitted by /u/CheeseInSpace to r/DotA2 [link] [comments]",
+      "published": "2026-11-01T15:25:14.000Z"
+    },
+    {
       "alertedAt": "2026-11-01T09:45:16.916Z",
       "level": "possible",
       "scene": "CS2",
@@ -485,28 +506,6 @@
       ],
       "summary": "",
       "published": "2026-10-30T13:15:27.000Z"
-    },
-    {
-      "alertedAt": "2026-10-30T15:30:20.978Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "FUT/Astralis/Vitality roster for major problems",
-      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xjieu4/futastralisvitality_roster_for_major_problems/",
-      "source": "r/GlobalOffensive",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 7,
-      "why": [
-        "roster",
-        "won*",
-        "vitality",
-        "astralis",
-        "pgl*",
-        "reddit only"
-      ],
-      "summary": "First, Vitality literally decided to sacrifice apEX's stickers by going to PGL Bucharest. They had their stage 3 invitation clinched for a while and their regular roster set since StarLadder and EPL S24. jL is openly laughing about it on Twitter. No need to defend them. And FUT/Astralis is pretty much FUT screwing Astralis over. FUT team manager Garrixer argued on Twitter that playing a T2 LAN was too risky for their VRS, so they made the choice to risk it. It's all about stickers for them, while for Astralis, they won't be able to use the player they paid for at the event they planned for. There are no such situations where \"omg wtf those rules are so weird, what's happening?\". They have managers, analysts, they all knew what could happen. submitted by /u/PudBatry to r/GlobalOffensive [link] [comments]",
-      "published": "2026-10-30T15:27:33.000Z"
     }
   ]
 }
