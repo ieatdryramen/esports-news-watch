@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T00:00:38.525Z",
+  "generatedAt": "2026-11-01T01:00:35.475Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 18,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -81,6 +81,18 @@
           ]
         },
         {
+          "title": "BLAST Premier Open 3 Confirmed for the USA in September 2027",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83X3hmYUJrbXd2RXVrUHVwb25VUk43cldES25ycm1qcUVfUlNhUXF5TE5GUlNyZTdaYTIwWG01eWlHVFN5OVNlZ1RPVEFGeDJDNmg3MWxBZmtuYXNpM3N1Q0NYdzZHMXYtUUZ5bDRqdTdlRWM?oc=5",
+          "source": "Google News: CS2 (Shane the Gamer)",
+          "published": "2026-10-31T07:21:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "confirmed",
+            "blast"
+          ]
+        },
+        {
           "title": "Iberian Soul vs OG / HyperX Retake Season 13 - Quarter-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkkodf/iberian_soul_vs_og_hyperx_retake_season_13/",
           "source": "r/GlobalOffensive",
@@ -138,23 +150,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "TYLOO likely to miss out on Singapore following HyperX Retake withdrawal",
-          "url": "https://www.hltv.org/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal",
-          "source": "HLTV news",
-          "published": "2026-10-31T09:25:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "iem*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "If you could ban 10 heros, one per pos for each team (5 enemy, 5 yours), which do you pick and why?",
@@ -214,15 +215,13 @@
           ]
         },
         {
-          "title": "Patch today?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkitsc/patch_today/",
+          "title": "Since there is no patch yet, let me complain more about Tide Arcana",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkpdwo/since_there_is_no_patch_yet_let_me_complain_more/",
           "source": "r/DotA2",
-          "published": "2026-10-31T19:17:41.000Z",
-          "score": 1,
+          "published": "2026-11-01T00:14:34.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "released*"
-          ]
+          "why": []
         },
         {
           "title": "Patch incoming?",
@@ -261,15 +260,6 @@
           "why": []
         },
         {
-          "title": "Patch speculation? What do you think will change? What do you hope stays?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkiji6/patch_speculation_what_do_you_think_will_change/",
-          "source": "r/DotA2",
-          "published": "2026-10-31T19:06:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Hk - XE, November 2, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc29EUUU0em1hUVFKZlJjQW03YU5ybWZjZkhqOEJrbGlGZkpPNmFiaFBCdzA5WmFOYXBrVXJRRV9WRTE5NmtRSUxDOXJaWGdjZ25qRlJSWVBXaGlELXRNamVNTXBfVXJNeHRkc2cxeGFsdDJ6V0tVYklzOWVHMXhFdmxyWlBTRjljUDNYQXB1WW5RcXZLY2h0dW1GVkI?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -278,6 +268,24 @@
           "level": null,
           "why": [
             "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cearion correctly predicting FaZe wouldn't qualify for LAN a day before the Pro League kicked off",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xkpu81/cearion_correctly_predicting_faze_wouldnt_qualify/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-01T00:37:25.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "kicked",
+            "roster*"
           ]
         }
       ]
@@ -302,7 +310,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -316,6 +324,15 @@
           ]
         },
         {
+          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-10-31T23:58:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "My final wish list for future seasons in Tekken 8",
           "url": "https://www.reddit.com/r/Tekken/comments/1xkm305/my_final_wish_list_for_future_seasons_in_tekken_8/",
           "source": "r/Tekken",
@@ -324,66 +341,6 @@
           "level": null,
           "why": [
             "roster*"
-          ]
-        },
-        {
-          "title": "I really don't get how to download the T6 native patch on my pc. I've seemingly done all the steps and it's still giving me this error.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xkj0h0/i_really_dont_get_how_to_download_the_t6_native/",
-          "source": "r/Tekken",
-          "published": "2026-10-31T19:25:27.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken Tag Tournament cabinet at arcade",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xkiisx/tekken_tag_tournament_cabinet_at_arcade/",
-          "source": "r/Tekken",
-          "published": "2026-10-31T19:05:18.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Why is the text effects mod not considered cheating?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkis33/why_is_the_text_effects_mod_not_considered/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-31T19:15:45.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
-        },
-        {
-          "title": "Who would in in the ft5: punk on a brand new character or the average master rank player",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkiy07/who_would_in_in_the_ft5_punk_on_a_brand_new/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-31T19:22:35.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "wins*",
-            "punk"
-          ]
-        },
-        {
-          "title": "So apparently Steam gamepad settings lets you cheat...",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkl7t1/so_apparently_steam_gamepad_settings_lets_you/",
-          "source": "r/StreetFighter",
-          "published": "2026-10-31T20:58:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "banned*",
-            "cheat",
-            "-settings"
           ]
         }
       ]
@@ -418,6 +375,25 @@
           "level": null,
           "why": [
             "mini"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "So apparently Steam gamepad settings lets you cheat...",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xkl7t1/so_apparently_steam_gamepad_settings_lets_you/",
+          "source": "r/StreetFighter",
+          "published": "2026-10-31T20:58:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "banned*",
+            "cheat",
+            "-settings"
           ]
         }
       ]
@@ -473,7 +449,6 @@
   "quiet": [
     "Classic Tetris",
     "Trackmania",
-    "Warcraft III",
-    "Halo"
+    "Warcraft III"
   ]
 }
