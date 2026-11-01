@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:30:22.708Z",
+  "generatedAt": "2026-11-01T12:00:28.396Z",
   "source": "start.gg",
   "completed": [
     {
@@ -144,7 +144,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1745858",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "Acer Predator League 2027 Surabaya Qualifier #3",
+      "event": "Acer Predator League Surabaya Qualifier",
+      "entrants": 78,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-31T17:00:00.000Z",
+      "endAt": "2026-11-01T12:00:00.000Z",
+      "url": "https://www.start.gg/tournament/acer-predator-league-2027-surabaya-qualifier-3/event/acer-predator-league-surabaya-qualifier"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1611249",

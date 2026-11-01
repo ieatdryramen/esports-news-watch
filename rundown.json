@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T11:40:17.961Z",
+  "generatedAt": "2026-11-01T12:00:43.220Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 10,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -15,20 +15,6 @@
           "level": "breaking",
           "why": [
             "comeback",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "FURIA Won PGL Masters Bucharest 2026, NAVI and FUT Finished the Tournament in the Top 8",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQdIBwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQQ?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-10-31T16:41:48.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "won",
-            "navi",
             "furia",
             "pgl"
           ]
@@ -73,18 +59,6 @@
           ]
         },
         {
-          "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-31T19:15:08.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "furia",
-            "pgl"
-          ]
-        },
-        {
           "title": "FlyQuest vs Alter Ego / DFRAG Invitational 2026 - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkvyg2/flyquest_vs_alter_ego_dfrag_invitational_2026/",
           "source": "r/GlobalOffensive",
@@ -95,18 +69,6 @@
             "roster*",
             "grand final",
             "official*"
-          ]
-        },
-        {
-          "title": "Imperial vs Low Cortisol BR / Gamers Club Masters VII - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkri0l/imperial_vs_low_cortisol_br_gamers_club_masters/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T02:05:42.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "benched*",
-            "roster*"
           ]
         },
         {
@@ -133,45 +95,28 @@
           ]
         },
         {
-          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-01T06:51:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Polymarket Esports Sets Free CS2 Cups for November",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
           "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-01T05:52:49.000Z",
+          "published": "2026-11-01T06:02:24.000Z",
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Bug or cheating?",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xkxi7x/bug_or_cheating/",
-          "source": "r/Tetris",
-          "published": "2026-11-01T08:04:38.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
         },
         {
-          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-11-01T06:53:00.000Z",
+          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
+          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
+          "source": "HLTV news",
+          "published": "2026-10-31T17:21:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 42",
+          "url": "https://www.hltv.org/news/45811/short-news-week-42",
+          "source": "HLTV news",
+          "published": "2026-10-31T13:34:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -180,8 +125,20 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
+        {
+          "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-01T07:23:54.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "grand final",
+            "team spirit"
+          ]
+        },
         {
           "title": "Changed my name to Pudge picker just to ban pudge even more",
           "url": "https://www.reddit.com/r/DotA2/comments/1xkxw7d/changed_my_name_to_pudge_picker_just_to_ban_pudge/",
@@ -194,17 +151,6 @@
           ]
         },
         {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkrbyv/removed_by_reddit/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T01:56:48.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
-          ]
-        },
-        {
           "title": "Team Spirit ride 2 victories into PARI Universe’s lower-bracket final",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQby1nMjVqMXdXNFdoUmMtTzRfWnBTcklCaHZGWVZmQ0tScW9FMDNBR0tEQ1hDOS00QXI3dkY5cGdhNWw1QlYwSjFYMVVWdnZ6RGNGVkQ4cjhJTnp3LVVIc2dOSWZiLWNHUnB5dDN3cHJLaHpTNXdIZXk4VUo1NDhBWUh1aEdEY0R4UzhuZFRhd3pvdWkzYzQ5U3plajZmbDExeHd1MFlBQWY?oc=5",
           "source": "Google News: Dota (Field Level Media)",
@@ -213,6 +159,17 @@
           "level": null,
           "why": [
             "team spirit"
+          ]
+        },
+        {
+          "title": "We won the Battle Cup 4 vs 5",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl13ex/we_won_the_battle_cup_4_vs_5/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T11:48:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
           ]
         },
         {
@@ -261,6 +218,32 @@
       ]
     },
     {
+      "scene": "Classic Tetris",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Bug or cheating?",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xkxi7x/bug_or_cheating/",
+          "source": "r/Tetris",
+          "published": "2026-11-01T08:04:38.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
+          ]
+        },
+        {
+          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-11-01T06:53:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 2,
       "stories": [
@@ -293,21 +276,6 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
           "source": "Google News: Tekken (EventHubs)",
           "published": "2026-10-31T23:58:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "VIRTUA FIGHTER CROSSROADS Adds Son Of Legacy Character Lionel Rafale in Latest Trailer",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTRqR1ZVWDloeUNNbXdFYzl2d2FXM2FERmNNaVB2SzhHRTFONnNHNENEWkxfdjFkSEVlMkNLLTlxSEVsbXpOQWNDQS1XcncyLVI2T3NKVTJVTWZvdlF3RUs5QklKV0hPd0lkNlNOaGduNGdiUGlwZjg0bnpRV0YzVGZtVXN6dGl4RU1ySlBTT3FvWXVRQV9sUWo4UnExMjlaVldmY01ralFVQzM1eDlqQjZxLUpBU1dKV25NLVJB?oc=5",
-          "source": "Google News: Legacy FGC (Lords of Gaming)",
-          "published": "2026-10-31T12:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -364,6 +332,7 @@
     "AoE2",
     "Brood War",
     "Warcraft III",
+    "Legacy FGC",
     "CoD",
     "Quake",
     "Halo"
