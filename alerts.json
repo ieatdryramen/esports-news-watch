@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-01T22:45:22.693Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "100 Thieves vs Wildcard / FiRe Last Chance 2026 - Grand Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlgop0/100_thieves_vs_wildcard_fire_last_chance_2026/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6.5,
+      "why": [
+        "benched*",
+        "roster*",
+        "grand final",
+        "official*",
+        "device*"
+      ],
+      "summary": "100 Thieves 🇪🇺 2-0 🌎 Wildcard Cache: 19-16 Dust2: 13-4 Mirage Predicted VRS Impact Team Rank Diff Total 🇪🇺 100 Thieves #23 → #23 +12 pts 1511 pts 🌎 Wildcard #36 → #38 -11 pts 1389 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information FiRe Last Chance 2026 | 🇦🇷 Buenos Aires ($75k LAN) | Liquipedia | HLTV Team Information 🇪🇺 100 Thieves | Liquipedia | HLTV | Official Site | Twitter | Facebook | Instagram | TikTok | Weibo | Douyin | YouTube | Bilibili Roster : 🇳🇴 rain | 🇸🇪 poiii | 🇩🇰 sirah | 🇩🇰 dev1ce | 🇬🇧 Gizmy ♛ Coach : 🇩🇰 gla1ve 🌎 Wildcard | Liquipedia | HLTV | Official Site | Twitter | Facebook | Instagram | YouTube | Twitch Roster : 🇺🇸 reck | 🇨🇦 HexT | 🇷🇸 nEMANHA ♛ | 🇺🇸 Cxzi | 🇵🇱 fr3nd ⊕ Coach : 🇵🇱 splawik Subs/Benched : 🇵🇱 mhL Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes 100 Thieves MAP Wildcard ancient X X nuke cache ✔ ✔ dust2 anubis X X inferno mirage Full Match Stats Team K-D ADR Swing Rating 🇪🇺 100 Thieves 1.27 🇩🇰 device ⊕ 45-26 85.6 +6.30% 1.53 🇳🇴 rain 39-36 89.7 +3.24% 1.30 🇸🇪 poiii 43-32 90.5 -0.02% 1.26 🇩🇰 sirah 42-31 84.4 +1.04% 1.25 🇬🇧 Gizmy ♛ 31-34 60.8 -0.76% 0.99 🌎 Wildcard 0.88 🇨🇦 HexT 42-38 88.3 +5.90% 1.43 🇺🇸 Cxzi 28-43 66.9 -1.75% 0.83 🇷🇸 nEMANHA ♛ 35-43 69.6 -5.00% 0.79 🇺🇸 reck 28-39 56.6 -5.54% 0.69 🇵🇱 fr3nd ⊕ 25-3",
+      "published": "2026-11-01T22:40:48.000Z"
+    },
+    {
       "alertedAt": "2026-11-01T21:55:15.472Z",
       "level": "possible",
       "scene": "Tekken",
