@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T12:00:43.220Z",
+  "generatedAt": "2026-11-01T13:00:37.439Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 15,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -15,6 +15,20 @@
           "level": "breaking",
           "why": [
             "comeback",
+            "furia",
+            "pgl"
+          ]
+        },
+        {
+          "title": "FURIA Won PGL Masters Bucharest 2026, NAVI and FUT Finished the Tournament in the Top 8",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQdIBwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQQ?oc=5",
+          "source": "Google News: CS2 (Players)",
+          "published": "2026-10-31T16:41:48.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "won",
+            "navi",
             "furia",
             "pgl"
           ]
@@ -59,6 +73,18 @@
           ]
         },
         {
+          "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-31T19:15:08.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "furia",
+            "pgl"
+          ]
+        },
+        {
           "title": "FlyQuest vs Alter Ego / DFRAG Invitational 2026 - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkvyg2/flyquest_vs_alter_ego_dfrag_invitational_2026/",
           "source": "r/GlobalOffensive",
@@ -83,10 +109,19 @@
           ]
         },
         {
+          "title": "Valkyrae calls out fans demanding she play GTA RP instead of CS2",
+          "url": "https://www.dexerto.com/twitch/valkyrae-calls-out-fans-demanding-she-play-gta-rp-instead-of-cs2-3423672/",
+          "source": "Dexerto",
+          "published": "2026-11-01T12:49:21.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
-          "url": "https://esports.gg/guides/counter-strike-2/awp-dragon-lore-cs-skin-history/",
-          "source": "esports.gg",
-          "published": "2026-11-01T08:15:22.000Z",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWgzRG9BRWQ4eFl5clZsbzZXREYyX1NKNjJwQ1BObFJTYm8xVlRwZEZvSllZazVha2ozSHh5RmQ3YTBPYVlxUWlCVHkwOGlfQ2d5c2lZRTlLczJwd2NMMHZtM2c5VkVXUkwzamhkSmhXM2JFWm9YMW1ObzFlbWFHSA?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-01T08:18:38.000Z",
           "score": 1,
           "level": null,
           "why": [
@@ -95,28 +130,19 @@
           ]
         },
         {
+          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-01T06:51:47.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Polymarket Esports Sets Free CS2 Cups for November",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
           "source": "Google News: CS2 (RG.org)",
           "published": "2026-11-01T06:02:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
-          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
-          "source": "HLTV news",
-          "published": "2026-10-31T17:21:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 42",
-          "url": "https://www.hltv.org/news/45811/short-news-week-42",
-          "source": "HLTV news",
-          "published": "2026-10-31T13:34:00.000Z",
           "score": 1,
           "level": null,
           "why": []
