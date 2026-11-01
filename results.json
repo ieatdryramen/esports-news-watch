@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-10-31T23:30:20.824Z",
+  "generatedAt": "2026-11-01T00:00:28.531Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1723138",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Keep Holding Forward: 10/31/26",
+      "event": "Street Fighter III: Third Strike",
+      "entrants": 18,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-31T16:30:00.000Z",
+      "endAt": "2026-11-01T00:00:00.000Z",
+      "url": "https://www.start.gg/tournament/keep-holding-forward-10-31-26/event/street-fighter-iii-third-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "TROLLGANG | Love"
+        },
+        {
+          "placement": 2,
+          "name": "NHFGC | WashedUpStreamer"
+        },
+        {
+          "placement": 3,
+          "name": "7"
+        },
+        {
+          "placement": 4,
+          "name": "Tussly | solvé"
+        },
+        {
+          "placement": 5,
+          "name": "CGE | SonicBlade"
+        },
+        {
+          "placement": 5,
+          "name": "Beans"
+        },
+        {
+          "placement": 7,
+          "name": "ThePerfectName"
+        },
+        {
+          "placement": 7,
+          "name": "LGBT | KyonHB"
+        }
+      ]
+    },
     {
       "eventId": "1743087",
       "scene": "melee",
@@ -46,100 +93,6 @@
         {
           "placement": 7,
           "name": "Brocas Helm"
-        }
-      ]
-    },
-    {
-      "eventId": "1739805",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #170",
-      "event": "Street Fighter 6",
-      "entrants": 170,
-      "online": true,
-      "major": false,
-      "startAt": "2026-10-29T00:00:00.000Z",
-      "endAt": "2026-10-29T03:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-170/event/street-fighter-6",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Stealth"
-        },
-        {
-          "placement": 2,
-          "name": "BOW!"
-        },
-        {
-          "placement": 3,
-          "name": "KB | Star Platinum"
-        },
-        {
-          "placement": 4,
-          "name": "Hit Box | Cheepz.EX"
-        },
-        {
-          "placement": 5,
-          "name": "EVG | La_grasa01"
-        },
-        {
-          "placement": 5,
-          "name": "Galactic"
-        },
-        {
-          "placement": 7,
-          "name": "Ethernarium"
-        },
-        {
-          "placement": 7,
-          "name": "THG | TropicTrickster"
-        }
-      ]
-    },
-    {
-      "eventId": "1744575",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Run The Se.T! #129",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 18,
-      "online": true,
-      "major": false,
-      "startAt": "2026-10-29T00:00:00.000Z",
-      "endAt": "2026-10-29T03:59:00.000Z",
-      "url": "https://www.start.gg/tournament/run-the-se-t-129/event/street-fighter-iii-3rd-strike",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Shodokan"
-        },
-        {
-          "placement": 2,
-          "name": "3SO | Sunny"
-        },
-        {
-          "placement": 3,
-          "name": "ABARI | appleshampew"
-        },
-        {
-          "placement": 4,
-          "name": "TO ONLYcabs | Zed"
-        },
-        {
-          "placement": 5,
-          "name": "Mongolian | Mimiq"
-        },
-        {
-          "placement": 5,
-          "name": "HotPocketExpress"
-        },
-        {
-          "placement": 7,
-          "name": "Se.T! | SharpHandJoe"
-        },
-        {
-          "placement": 7,
-          "name": "FUNSCREW | Daddy_Smurf"
         }
       ]
     }

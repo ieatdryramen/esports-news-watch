@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T23:00:36.420Z",
+  "generatedAt": "2026-11-01T00:00:38.525Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 16,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -15,20 +15,6 @@
           "level": "breaking",
           "why": [
             "comeback",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "FURIA Won PGL Masters Bucharest 2026, NAVI and FUT Finished the Tournament in the Top 8",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQdIBwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQQ?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-10-31T16:41:48.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "won",
-            "navi",
             "furia",
             "pgl"
           ]
@@ -132,15 +118,14 @@
           ]
         },
         {
-          "title": "Omega vs PRIVATE / CIS Esports League CyberClash Season 2 Finals - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkhk5o/omega_vs_private_cis_esports_league_cyberclash/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T18:26:02.000Z",
+          "title": "FURIA's Bucharest win pulls 667K viewers but trails Astana",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUl9QcGM3aERPVkFMN0JfTTh0MUNydjl0OWtFNTQ4WmoweGU0VTFKc0VyTzV1ZWtnSEZtYk9iS0laSjVweTZaTzBManA4MTRWQjk5Tnd5ZjdTM2NRYXEzUWE3bGNURzkxX0ZVZ0JDT0sxYklLNHg5dzhGeTY4bTExWk5HLTBiZw?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-10-31T21:30:47.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "roster*",
-            "grand final"
+            "furia"
           ]
         },
         {
@@ -153,12 +138,23 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "TYLOO likely to miss out on Singapore following HyperX Retake withdrawal",
+          "url": "https://www.hltv.org/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal",
+          "source": "HLTV news",
+          "published": "2026-10-31T09:25:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "iem*"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "If you could ban 10 heros, one per pos for each team (5 enemy, 5 yours), which do you pick and why?",
@@ -171,18 +167,6 @@
             "breaking*",
             "ban",
             "leaves*"
-          ]
-        },
-        {
-          "title": "Team Spirit Eliminate PARIVISION And Team Liquid In One Day At PARI Universe",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaV85RW5mY2xKd0xoMDl1OEt6VG9sdks2eTA0S3JGSUNOM3ZvLVE3U3dsS1lIRGZMX2tQLTJBajdpT0JaRHRvNVhHNjZER2lyV2JUYkRNWDR5c3o0ZUhvS1ZFOFdobGxVMC1XN2lGNjlnZDVwMkxzQVJJcmZPem1rN1U1RG1sSTFlLWN3M0d3ZDZQTmZrc2Y0Sm56QVJZSXhlc1JITnoyTXdEN1BLSS1WcnhB?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-30T23:45:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "team spirit",
-            "team liquid"
           ]
         },
         {
@@ -241,6 +225,24 @@
           ]
         },
         {
+          "title": "Patch incoming?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkoxaz/patch_incoming/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T23:53:05.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "31 oct and dota has no event",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xko7yk/31_oct_and_dota_has_no_event/",
+          "source": "r/DotA2",
+          "published": "2026-10-31T23:18:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "PARI Universe Recap: Upper Bracket Final & Lower Bracket Final",
           "url": "https://www.reddit.com/r/DotA2/comments/1xklqbx/pari_universe_recap_upper_bracket_final_lower/",
           "source": "r/DotA2",
@@ -281,20 +283,27 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 5,
+      "scene": "Quake",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Can you guess which one of us is the cheating nerd with a macro?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xkha0a/can_you_guess_which_one_of_us_is_the_cheating/",
-          "source": "r/Tekken",
-          "published": "2026-10-31T18:14:59.000Z",
-          "score": 4,
-          "level": null,
+          "title": "Cant connect even after ban",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xkoceq/cant_connect_even_after_ban/",
+          "source": "r/QuakeChampions",
+          "published": "2026-10-31T23:24:09.000Z",
+          "score": 5,
+          "level": "possible",
           "why": [
-            "cheating"
+            "banned*",
+            "ban"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 4,
+      "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
@@ -380,18 +389,18 @@
       ]
     },
     {
-      "scene": "Trackmania",
+      "scene": "Melee",
       "storyCount": 1,
       "stories": [
         {
-          "title": "First Ever WR! (Box O'Soap 12)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xkhcpu/first_ever_wr_box_osoap_12/",
-          "source": "r/TrackMania",
-          "published": "2026-10-31T18:17:54.000Z",
-          "score": 3,
+          "title": "Jmook Every Edgeguard 2025",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xkole3/jmook_every_edgeguard_2025/",
+          "source": "r/SSBM",
+          "published": "2026-10-31T23:36:22.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "first ever"
+            "jmook"
           ]
         }
       ]
@@ -462,10 +471,9 @@
     }
   ],
   "quiet": [
-    "Melee",
     "Classic Tetris",
+    "Trackmania",
     "Warcraft III",
-    "Quake",
     "Halo"
   ]
 }
