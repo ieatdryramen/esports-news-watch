@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-11-01T19:30:48.665Z",
+  "generatedAt": "2026-11-01T20:30:36.469Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Rivals"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Rivals",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Marvel Rivals Ban Rates: Most Banned Hero (November 2026)",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83NndUZURoMTZubHRvYVRmcE51M214ZFV2R3J2NUo0VUsyUEI2c01CUnI3SnpScFcxWVV3ZnhoMVQ4SExYM1loZWl2SnFuQjZsZVNacy1R0gFbQVVfeXFMTkdOLV9wQS1OWGVYSUU4LURtSXp2RmlwdjV4TGp0REpjdS1qeTRna3lDQzkwSTdQZjYteFltMlhzSW5xTE4teTlsQmNCSURPbzNhU3ZMQ1BRT2FlWQ?oc=5",
+          "source": "Google News: Rivals esports (Beebom)",
+          "published": "2026-11-01T04:46:19.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "banned",
+            "ban"
+          ]
+        },
+        {
+          "title": "How to Link Marvel Rivals Accounts Across Platforms",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU5OWEhqY0d0Y0o5VGMtc0lkZzgtUzJlVVJzMEpGNGtUZjRSaUFkbllCaVp5dTN6bVlJNHdpMmtTRjBBVDVGdUpaM2FEUkVXcDFxNzBTN3VibXVTdVVZV2VSa2Ewdm80dGNvei12TWp0aTdNTGltckNoWDlseXBUVlR1Rk1qYmJheE5NSVhGRnBXQndh?oc=5",
+          "source": "Google News: Rivals patches (games.gg)",
+          "published": "2026-11-01T20:11:14.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
