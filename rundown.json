@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T07:50:19.182Z",
+  "generatedAt": "2026-11-01T08:45:20.396Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -40,18 +40,6 @@
           "level": "possible",
           "why": [
             "grand final*",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-31T19:15:08.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
             "furia",
             "pgl"
           ]
@@ -119,18 +107,6 @@
           ]
         },
         {
-          "title": "Monte played with their new roster for the first time today",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xknt92/monte_played_with_their_new_roster_for_the_first/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-10-31T22:58:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "the last*",
-            "roster"
-          ]
-        },
-        {
           "title": "FURIA's Bucharest win pulls 667K viewers but trails Astana",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUl9QcGM3aERPVkFMN0JfTTh0MUNydjl0OWtFNTQ4WmoweGU0VTFKc0VyTzV1ZWtnSEZtYk9iS0laSjVweTZaTzBManA4MTRWQjk5Tnd5ZjdTM2NRYXEzUWE3bGNURzkxX0ZVZ0JDT0sxYklLNHg5dzhGeTY4bTExWk5HLTBiZw?oc=5",
           "source": "Google News: CS2 (Pley.gg)",
@@ -151,49 +127,57 @@
           "why": [
             "iem*"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Cearion correctly predicting FaZe wouldn't qualify for LAN a day before the Pro League kicked off",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xkpu81/cearion_correctly_predicting_faze_wouldnt_qualify/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-01T00:37:25.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
+          "url": "https://esports.gg/guides/counter-strike-2/awp-dragon-lore-cs-skin-history/",
+          "source": "esports.gg",
+          "published": "2026-11-01T08:15:22.000Z",
+          "score": 1,
+          "level": null,
           "why": [
-            "kicked",
-            "roster*"
+            "history",
+            "-skin"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Quake",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Cant connect even after ban",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xkoceq/cant_connect_even_after_ban/",
-          "source": "r/QuakeChampions",
-          "published": "2026-10-31T23:24:09.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "ban"
-          ]
+          "title": "Polymarket Esports Sets Free CS2 Cups for November",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-01T05:52:49.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
+        {
+          "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-01T07:23:54.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "grand final",
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Changed my name to Pudge picker just to ban pudge even more",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkxw7d/changed_my_name_to_pudge_picker_just_to_ban_pudge/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T08:29:50.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ban"
+          ]
+        },
         {
           "title": "[ Removed by Reddit ]",
           "url": "https://www.reddit.com/r/DotA2/comments/1xkrbyv/removed_by_reddit/",
@@ -280,25 +264,61 @@
       ]
     },
     {
-      "scene": "Tekken",
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cearion correctly predicting FaZe wouldn't qualify for LAN a day before the Pro League kicked off",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xkpu81/cearion_correctly_predicting_faze_wouldnt_qualify/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-01T00:37:25.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "kicked",
+            "roster*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Quake",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cant connect even after ban",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xkoceq/cant_connect_even_after_ban/",
+          "source": "r/QuakeChampions",
+          "published": "2026-10-31T23:24:09.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "ban"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Classic Tetris",
       "storyCount": 2,
       "stories": [
         {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xkx29l/removed_by_reddit/",
-          "source": "r/Tekken",
-          "published": "2026-11-01T07:36:02.000Z",
-          "score": 3,
+          "title": "Bug or cheating?",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xkxi7x/bug_or_cheating/",
+          "source": "r/Tetris",
+          "published": "2026-11-01T08:04:38.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "removed"
+            "cheating"
           ]
         },
         {
-          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-10-31T23:58:08.000Z",
+          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-11-01T06:53:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -323,21 +343,6 @@
       ]
     },
     {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-11-01T06:53:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -346,6 +351,21 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-01T02:34:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-10-31T23:58:08.000Z",
           "score": 1,
           "level": null,
           "why": []
