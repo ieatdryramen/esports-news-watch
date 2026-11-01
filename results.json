@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-01T16:30:21.332Z",
+  "generatedAt": "2026-11-01T17:00:26.249Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1742535",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "THE NEXT LEVEL PLAY 2026  - ROUND 7",
+      "event": "TEKKEN 8 Next Level Play Round 7 - 2026",
+      "entrants": 96,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-31T06:00:00.000Z",
+      "endAt": "2026-11-01T17:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-next-level-play-2026-round-7/event/tekken-8-next-level-play-round-7-2026",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "EVA | Lian"
+        },
+        {
+          "placement": 2,
+          "name": "GES | Steelish360"
+        },
+        {
+          "placement": 3,
+          "name": "SLY | Lithowanderer"
+        },
+        {
+          "placement": 4,
+          "name": "EvA | Ferox7"
+        },
+        {
+          "placement": 5,
+          "name": "EVA | ChikenLord"
+        },
+        {
+          "placement": 5,
+          "name": "NVG | Aigle Noir"
+        },
+        {
+          "placement": 7,
+          "name": "SLY | Nova"
+        },
+        {
+          "placement": 7,
+          "name": "NVG | Joh"
+        }
+      ]
+    },
     {
       "eventId": "1657242",
       "scene": "legacyfgc",

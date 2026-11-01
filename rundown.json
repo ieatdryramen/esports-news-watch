@@ -1,48 +1,97 @@
 {
-  "generatedAt": "2026-11-01T16:00:37.095Z",
+  "generatedAt": "2026-11-01T17:00:39.129Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "CS2",
-      "storyCount": 17,
+      "scene": "Dota",
+      "storyCount": 6,
       "stories": [
         {
-          "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm1pVjVFUUUyeU9aMDZIUFRuWVBGRlBSS016UHd6NDFKTC1LV05CZVczYkx3U1huWGxkV0VjRXUwcm8yV01OU19Ca0JQUld0bU8zRzNCemJCY0tmTENHZWRvS0ppUk9xc2R5Rk42dmFrR3pVQkNneU9HR21SLTRyaVJ6UHhIV0NN?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-10-31T16:04:07.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "comeback",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "Today is the last day before VRS invites are being sent for the Singapore major, only one spot* is still available. Here is what you need to know",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkyzb9/today_is_the_last_day_before_vrs_invites_are/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T09:40:13.000Z",
-          "score": 6,
+          "title": "Team Yandex now have the sixth-largest ranking lead in Dota 2 history, only Falcons have done better",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl5t1w/team_yandex_now_have_the_sixthlargest_ranking/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T15:25:14.000Z",
+          "score": 6.5,
           "level": "possible",
           "why": [
-            "the last",
-            "wins*",
-            "grand finals*",
-            "eliminated*"
+            "update*",
+            "won*",
+            "history",
+            "tundra*",
+            "falcons"
           ]
         },
         {
-          "title": "YEKINDAR wins career-first MVP at PGL Masters",
-          "url": "https://www.hltv.org/news/45871/yekindar-wins-career-first-mvp-at-pgl-masters",
+          "title": "How are you cheating but is still Archon?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl6ecz/how_are_you_cheating_but_is_still_archon/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T15:49:33.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "ban*",
+            "cheating"
+          ]
+        },
+        {
+          "title": "Spirit vs Yandex Game 2 - Pari Universe Grand Final",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl64ep/spirit_vs_yandex_game_2_pari_universe_grand_final/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T15:38:10.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand final",
+            "yatoro*"
+          ]
+        },
+        {
+          "title": "We won the Battle Cup 4 vs 5",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl13ex/we_won_the_battle_cup_4_vs_5/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T11:48:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Pari universe finals",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl3s27/pari_universe_finals/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T14:00:35.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Hk - XE, November 2, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc29EUUU0em1hUVFKZlJjQW03YU5ybWZjZkhqOEJrbGlGZkpPNmFiaFBCdzA5WmFOYXBrVXJRRV9WRTE5NmtRSUxDOXJaWGdjZ25qRlJSWVBXaGlELXRNamVNTXBfVXJNeHRkc2cxeGFsdDJ6V0tVYklzOWVHMXhFdmxyWlBTRjljUDNYQXB1WW5RcXZLY2h0dW1GVkI?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-10-31T18:04:55.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CS2",
+      "storyCount": 18,
+      "stories": [
+        {
+          "title": "Jee returns to TYLOO lineup for IEM Beijing",
+          "url": "https://www.hltv.org/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing",
           "source": "HLTV news",
-          "published": "2026-10-31T16:07:00.000Z",
-          "score": 6,
+          "published": "2026-11-01T16:45:00.000Z",
+          "score": 5,
           "level": "possible",
           "why": [
-            "wins",
-            "pgl"
+            "returns",
+            "iem"
           ]
         },
         {
@@ -55,6 +104,20 @@
           "why": [
             "furia",
             "pgl"
+          ]
+        },
+        {
+          "title": "BESTIA vs 100 Thieves / FiRe Last Chance 2026 - Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl6umm/bestia_vs_100_thieves_fire_last_chance_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-01T16:07:03.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "benched*",
+            "roster*",
+            "grand final*",
+            "official*"
           ]
         },
         {
@@ -82,6 +145,17 @@
             "roster*",
             "grand final",
             "official*"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
+          "url": "https://esports.gg/news/counter-strike-2/cs2-iem-beijing-2026-overview-results/",
+          "source": "esports.gg",
+          "published": "2026-11-01T16:35:06.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
           ]
         },
         {
@@ -150,93 +224,8 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "Team Yandex now have the sixth-largest ranking lead in Dota 2 history, only Falcons have done better",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl5t1w/team_yandex_now_have_the_sixthlargest_ranking/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T15:25:14.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "update*",
-            "won*",
-            "history",
-            "tundra*",
-            "falcons"
-          ]
-        },
-        {
-          "title": "How are you cheating but is still Archon?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl6ecz/how_are_you_cheating_but_is_still_archon/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T15:49:33.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "ban*",
-            "cheating"
-          ]
-        },
-        {
-          "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-01T07:23:54.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "team spirit"
-          ]
-        },
-        {
-          "title": "We won the Battle Cup 4 vs 5",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl13ex/we_won_the_battle_cup_4_vs_5/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T11:48:48.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
-          "title": "Pari universe finals",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl3s27/pari_universe_finals/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T14:00:35.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Not even minor patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkzk0x/not_even_minor_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T10:16:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Hk - XE, November 2, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc29EUUU0em1hUVFKZlJjQW03YU5ybWZjZkhqOEJrbGlGZkpPNmFiaFBCdzA5WmFOYXBrVXJRRV9WRTE5NmtRSUxDOXJaWGdjZ25qRlJSWVBXaGlELXRNamVNTXBfVXJNeHRkc2cxeGFsdDJ6V0tVYklzOWVHMXhFdmxyWlBTRjljUDNYQXB1WW5RcXZLY2h0dW1GVkI?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-31T18:04:55.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -255,6 +244,15 @@
           "source": "Google News: Tekken (EventHubs)",
           "published": "2026-10-31T23:58:08.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Trailer graphics mod may come soon",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xl7qao/trailer_graphics_mod_may_come_soon/",
+          "source": "r/Tekken",
+          "published": "2026-11-01T16:42:03.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -276,19 +274,19 @@
           ]
         },
         {
-          "title": "Season 4 Moment",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl6dbr/season_4_moment/",
+          "title": "Finally got season 4 so it’s available on my local setup. Trying out Yasmine and I dunno how to feel yet",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl7t2j/finally_got_season_4_so_its_available_on_my_local/",
           "source": "r/StreetFighter",
-          "published": "2026-11-01T15:48:21.000Z",
+          "published": "2026-11-01T16:45:07.000Z",
           "score": 0,
           "level": null,
           "why": []
         },
         {
-          "title": "The live crowd LOVES Arjun! (China World Warrior finals is live. Link in the replies)",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl0tsw/the_live_crowd_loves_arjun_china_world_warrior/",
+          "title": "Season 4 Moment",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl6dbr/season_4_moment/",
           "source": "r/StreetFighter",
-          "published": "2026-11-01T11:32:54.000Z",
+          "published": "2026-11-01T15:48:21.000Z",
           "score": 0,
           "level": null,
           "why": []
