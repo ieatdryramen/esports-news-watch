@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T00:40:20.889Z",
+  "generatedAt": "2026-11-01T01:35:21.030Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Rivals Season 10.5 Roadmap Breakdown: New Game Modes, Skins, Events, and More",
@@ -16,6 +16,17 @@
           "why": [
             "season",
             "roadmap"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Ignite 2026: Mid Season Finals - MR - Schedule and Results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVDZEVtTmhtVnNuV280Rkw4LTNseTNDc1JFZTV5eEhEN0haVFlGSVhPWmxJUTVWWVJ5b0Rtd2MyRUxaUk81SVJsLVhDWlhwSGZPLXlROWNtN3JPU3V2ZzVoU0tQLVpKMUxEUVRtZVQ3c3F4VHFWOXpUa3FybTg1NUpfbmVlNXdKbW54Ul9CanFIdw?oc=5",
+          "source": "Google News: Rivals patches (Esports Charts)",
+          "published": "2026-10-31T03:25:42.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
           ]
         },
         {
