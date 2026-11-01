@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-01T16:50:19.056Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Jee returns to TYLOO lineup for IEM Beijing",
+      "url": "https://www.hltv.org/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 5,
+      "why": [
+        "returns",
+        "iem"
+      ],
+      "summary": "The Chinese AWPer is available after missing the team's last four matches through illness.",
+      "published": "2026-11-01T16:45:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-01T15:50:22.009Z",
       "level": "possible",
       "scene": "Dota",
