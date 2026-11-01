@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T05:55:24.281Z",
+  "generatedAt": "2026-11-01T06:55:15.587Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 16,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -45,6 +45,18 @@
           ]
         },
         {
+          "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-10-31T19:15:08.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "furia",
+            "pgl"
+          ]
+        },
+        {
           "title": "MOUZ claim third place in Romania over Vitality",
           "url": "https://www.hltv.org/news/45869/mouz-claim-third-place-in-romania-over-vitality",
           "source": "HLTV news",
@@ -66,6 +78,19 @@
           "why": [
             "grand final",
             "pgl"
+          ]
+        },
+        {
+          "title": "FlyQuest vs Alter Ego / DFRAG Invitational 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkvyg2/flyquest_vs_alter_ego_dfrag_invitational_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-01T06:25:31.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "roster*",
+            "grand final",
+            "official*"
           ]
         },
         {
@@ -126,24 +151,6 @@
           "why": [
             "iem*"
           ]
-        },
-        {
-          "title": "Polymarket Esports Sets Free CS2 Cups for November",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-01T05:52:49.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
-          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
-          "source": "HLTV news",
-          "published": "2026-10-31T17:21:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -185,7 +192,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "[ Removed by Reddit ]",
@@ -231,15 +238,6 @@
             "grand finals*",
             "official*"
           ]
-        },
-        {
-          "title": "Kuroky Names the Biggest Mistake of His Professional Dota 2 Career",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVhna0k0MEFlek1YSG5XNUh3WUI1NmN5WHZIXzFoZ3NPQm00dWhPOWZfalJRSTB0QThwQWRkU2YxcXA0WElNV3JlZFo5OHE4TXlmTWc4a0piZFgzajFtRjJOemVUSjQ3S1dFdjI0Mm8tVk9nN2ItTUlXRl9DWUNqZnoyeVpnUQ?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-10-31T07:38:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Since there is no patch yet, let me complain more about Tide Arcana",
@@ -316,6 +314,21 @@
       ]
     },
     {
+      "scene": "Classic Tetris",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-11-01T06:53:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
       "storyCount": 1,
       "stories": [
@@ -344,12 +357,29 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Video Settings Won't Save",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xkvwir/video_settings_wont_save/",
+          "source": "r/TrackMania",
+          "published": "2026-11-01T06:22:08.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "refuses*",
+            "won",
+            "-settings"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
     "AoE2",
-    "Classic Tetris",
-    "Trackmania",
     "Warcraft III",
     "Street Fighter",
     "CoD"
