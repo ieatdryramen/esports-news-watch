@@ -1,26 +1,11 @@
 {
-  "generatedAt": "2026-11-01T18:00:39.356Z",
+  "generatedAt": "2026-11-01T19:00:39.596Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
-        {
-          "title": "Team Yandex now have the sixth-largest ranking lead in Dota 2 history, only Falcons have done better",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl5t1w/team_yandex_now_have_the_sixthlargest_ranking/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T15:25:14.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "update*",
-            "won*",
-            "history",
-            "tundra*",
-            "falcons"
-          ]
-        },
         {
           "title": "How are you cheating but is still Archon?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xl6ecz/how_are_you_cheating_but_is_still_archon/",
@@ -47,26 +32,26 @@
           ]
         },
         {
-          "title": "Congratulations to the champion of PARI Universe!!!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl95p2/congratulations_to_the_champion_of_pari_universe/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T17:36:50.000Z",
-          "score": 3,
-          "level": null,
+          "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-01T07:23:54.000Z",
+          "score": 5,
+          "level": "possible",
           "why": [
-            "champion"
+            "grand final",
+            "team spirit"
           ]
         },
         {
-          "title": "Spirit vs Yandex Game 2 - Pari Universe Grand Final",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl64ep/spirit_vs_yandex_game_2_pari_universe_grand_final/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T15:38:10.000Z",
+          "title": "Team Spirit brush aside foes to win PARI Universe event",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUJTbVRZZ2RFRzdMY28yLXg1cUhINE1vSFRYUkhVb0hDaFdGRXBBQ001MjR5c21kbzJGc3EtcVdMYnMzS0JlbTczOHFaZHh1RGNJZDhQVXRSaWtmMUYxWWxwdWdNT0Z4THBkaHN0am9JajFrdHp5dWNjenlaR0EzZ2kxYlFyYlFrT1NxajNwcXpLLVo3Rk1F?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-01T18:38:39.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "grand final",
-            "yatoro*"
+            "team spirit"
           ]
         },
         {
@@ -81,43 +66,31 @@
           ]
         },
         {
-          "title": "Pari universe finals",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl3s27/pari_universe_finals/",
+          "title": "Congratulations to the winners of PARI UNIVERSE!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl88jj/congratulations_to_the_winners_of_pari_universe/",
           "source": "r/DotA2",
-          "published": "2026-11-01T14:00:35.000Z",
+          "published": "2026-11-01T17:01:35.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "team spirit*"
+          ]
+        },
+        {
+          "title": "ATF thoughts after Pari Universe final",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlaz5m/atf_thoughts_after_pari_universe_final/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T18:47:37.000Z",
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Hk - XE, November 2, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc29EUUU0em1hUVFKZlJjQW03YU5ybWZjZkhqOEJrbGlGZkpPNmFiaFBCdzA5WmFOYXBrVXJRRV9WRTE5NmtRSUxDOXJaWGdjZ25qRlJSWVBXaGlELXRNamVNTXBfVXJNeHRkc2cxeGFsdDJ6V0tVYklzOWVHMXhFdmxyWlBTRjljUDNYQXB1WW5RcXZLY2h0dW1GVkI?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-10-31T18:04:55.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 11,
       "stories": [
-        {
-          "title": "Jee returns to TYLOO lineup for IEM Beijing",
-          "url": "https://www.hltv.org/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-01T16:45:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "returns",
-            "iem"
-          ]
-        },
         {
           "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
@@ -145,16 +118,15 @@
           ]
         },
         {
-          "title": "HOTU vs 1W / GLuck Moscow Cyber Games 2026 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl5baj/hotu_vs_1w_gluck_moscow_cyber_games_2026_grand/",
+          "title": "JiJieHao vs Iberian Soul / HyperX Retake Season 13 - 3Rd Place Decider Match / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlal44/jijiehao_vs_iberian_soul_hyperx_retake_season_13/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-01T15:05:19.000Z",
-          "score": 3.5,
+          "published": "2026-11-01T18:32:15.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "roster*",
-            "grand final",
-            "official*"
+            "benched*",
+            "roster*"
           ]
         },
         {
@@ -180,40 +152,6 @@
           ]
         },
         {
-          "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\"",
-          "url": "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
-          "source": "HLTV news",
-          "published": "2026-11-01T15:40:00.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "return*",
-            "faze*"
-          ]
-        },
-        {
-          "title": "TOP-3 matches of PGL Masters Bucharest",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl4cq9/top3_matches_of_pgl_masters_bucharest/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T14:25:01.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "zhokiNg: \"We had no choice but to play in that Retake event\"",
-          "url": "https://www.hltv.org/news/45874/zhoking-we-had-no-choice-but-to-play-in-that-retake-event",
-          "source": "HLTV news",
-          "published": "2026-11-01T13:03:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "iem*"
-          ]
-        },
-        {
           "title": "Last EU spot for Singapore Major up for Grabs",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl8up1/last_eu_spot_for_singapore_major_up_for_grabs/",
           "source": "r/GlobalOffensive",
@@ -223,15 +161,6 @@
           "why": [
             "the last*"
           ]
-        },
-        {
-          "title": "Short news: Week 42",
-          "url": "https://www.hltv.org/news/45811/short-news-week-42",
-          "source": "HLTV news",
-          "published": "2026-11-01T17:23:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
@@ -244,12 +173,130 @@
             "history",
             "-skin"
           ]
+        },
+        {
+          "title": "Valkyrae calls out fans demanding she play GTA RP instead of CS2",
+          "url": "https://www.dexerto.com/twitch/valkyrae-calls-out-fans-demanding-she-play-gta-rp-instead-of-cs2-3423672/",
+          "source": "Dexerto",
+          "published": "2026-11-01T12:49:21.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-01T06:51:47.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Polymarket Esports Sets Free CS2 Cups for November",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-01T06:02:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Intel Extreme Masters Beijing 2026 Tournament Betting Preview & Guide – All Eyes on MOUZ and FURIA",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFAyNTlKdERLdlJFWGZpSnFJQmVNUzlDY3Y4UGlQbDE0N3RZbDhkRTg0ZE1zZTFCSElqWlJNZm1IT2p5LWV6UW5NbWlsLXZhYWRFYnlDOFlzeEhoUDdBVWlIT0NtSkw0ZjdwZ2IzeFZ4MVJnb25WLThSY2gxd19sRFo3LXlDY2RDblozV3dNU0cycUNibnlPdmtXelRnNnF5YVRjaWxMZW0zdkx2eWc?oc=5",
+          "source": "Google News: CS2 (FreeTips)",
+          "published": "2026-11-01T13:40:28.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "mouz",
+            "furia",
+            "-guide",
+            "-betting"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 7,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-01T06:50:31.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "TEKKEN 8 tier list November: Best esports characters (post-Evo France 2026)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UaWNDS19wNzNmSlAzbGk0dEl1VEtQaVZCaVRaYldqcWNmdDVMLW1ENjd5aG5VRGoyMlBqRW9KUzg3MHBzTjcxN21pSmNtdVpCb0ZKRzlRWkJnbFVKcVJwMU9xbmg?oc=5",
+          "source": "Google News: Tekken (Esports.gg)",
+          "published": "2026-11-01T07:55:18.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
+          "title": "Last year, I made a bunch of Castlevania characters in T8. With new customization items (long hair for male fighters finally) and the new Castlevania game being released a few weeks back, I made more Castlevania characters this year.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xlasan/last_year_i_made_a_bunch_of_castlevania/",
+          "source": "r/Tekken",
+          "published": "2026-11-01T18:40:03.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
+          ]
+        },
+        {
+          "title": "🎮 PPSSPP Web Update - Tekken Multiplayer is Here! WebRTC, Full Controller Support & More!",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xlb6en/ppsspp_web_update_tekken_multiplayer_is_here/",
+          "source": "r/Tekken",
+          "published": "2026-11-01T18:55:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-10-31T23:58:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "TWT 2026: Punishment 5 - Top 16 & Top 8 Livestream (November 1, 2026) [TWT Master Event]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xl9l5y/twt_2026_punishment_5_top_16_top_8_livestream/",
+          "source": "r/Tekken",
+          "published": "2026-11-01T17:53:29.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Trailer graphics mod may come soon",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xl7qao/trailer_graphics_mod_may_come_soon/",
+          "source": "r/Tekken",
+          "published": "2026-11-01T16:42:03.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Tokido vs Poongko USF4 at evo france",
@@ -291,59 +338,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Season 4 Moment",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl6dbr/season_4_moment/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-01T15:48:21.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-01T06:50:31.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-10-31T23:58:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TWT 2026: Punishment 5 - Top 16 & Top 8 Livestream (November 1, 2026) [TWT Master Event]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xl9l5y/twt_2026_punishment_5_top_16_top_8_livestream/",
-          "source": "r/Tekken",
-          "published": "2026-11-01T17:53:29.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Trailer graphics mod may come soon",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xl7qao/trailer_graphics_mod_may_come_soon/",
-          "source": "r/Tekken",
-          "published": "2026-11-01T16:42:03.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -368,6 +362,23 @@
       ]
     },
     {
+      "scene": "Quake",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Nov 1: k1llsen on not using 2k/4k resolution (& would compete in QC LAN tourneys if those every come back)",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xlaved/nov_1_k1llsen_on_not_using_2k4k_resolution_would/",
+          "source": "r/QuakeChampions",
+          "published": "2026-11-01T18:43:25.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "k1llsen"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
@@ -381,16 +392,29 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "[TOTD] 01/11/2026, it's spooky season (ce) by PsyberTM, (discussion)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xla9ui/totd_01112026_its_spooky_season_ce_by_psybertm/",
+          "source": "r/TrackMania",
+          "published": "2026-11-01T18:20:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "AoE2",
     "Brood War",
-    "Trackmania",
     "Warcraft III",
     "Legacy FGC",
     "CoD",
-    "Quake",
     "Halo"
   ]
 }
