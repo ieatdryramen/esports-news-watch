@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-11-01T05:30:39.498Z",
+  "generatedAt": "2026-11-01T06:30:41.108Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Marvel Tokon: Fighting Souls: Phoenix Cyclops Gameplay Trailer",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OSjJPNzhYM3RCVGt1TFJXdWxiNjlnMnQtQzBISnpaOXJYRzZWWlU4aHZaQUwyZVJJU0tzS1huZVpXS083bWxPZjZuc0Y5elY4?oc=5",
-          "source": "Google News: Tokon (IMDb)",
-          "published": "2026-10-31T06:02:23.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
         {
           "title": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
           "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
