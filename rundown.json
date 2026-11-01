@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T15:00:36.922Z",
+  "generatedAt": "2026-11-01T16:00:37.095Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 17,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -46,19 +46,6 @@
           ]
         },
         {
-          "title": "FURIA secure second consecutive trophy with PGL Masters Bucharest victory",
-          "url": "https://www.hltv.org/news/45870/furia-secure-second-consecutive-trophy-with-pgl-masters-bucharest-victory",
-          "source": "HLTV news",
-          "published": "2026-10-31T15:53:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "grand final*",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
           "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -82,6 +69,31 @@
             "roster*",
             "grand final*",
             "official*"
+          ]
+        },
+        {
+          "title": "HOTU vs 1W / GLuck Moscow Cyber Games 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl5baj/hotu_vs_1w_gluck_moscow_cyber_games_2026_grand/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-01T15:05:19.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "roster*",
+            "grand final",
+            "official*"
+          ]
+        },
+        {
+          "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\"",
+          "url": "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
+          "source": "HLTV news",
+          "published": "2026-11-01T15:40:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "return*",
+            "faze*"
           ]
         },
         {
@@ -118,31 +130,19 @@
           ]
         },
         {
-          "title": "Valkyrae calls out fans demanding she play GTA RP instead of CS2",
-          "url": "https://www.dexerto.com/twitch/valkyrae-calls-out-fans-demanding-she-play-gta-rp-instead-of-cs2-3423672/",
-          "source": "Dexerto",
-          "published": "2026-11-01T12:49:21.000Z",
+          "title": "1win take Moscow Cyber Games title in huge blow to HOTU's Major hopes",
+          "url": "https://www.hltv.org/news/45877/1win-take-moscow-cyber-games-title-in-huge-blow-to-hotus-major-hopes",
+          "source": "HLTV news",
+          "published": "2026-11-01T15:08:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
-          "url": "https://esports.gg/guides/counter-strike-2/awp-dragon-lore-cs-skin-history/",
-          "source": "esports.gg",
-          "published": "2026-11-01T08:15:22.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "history",
-            "-skin"
-          ]
-        },
-        {
-          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-01T06:51:47.000Z",
+          "title": "Valkyrae calls out fans demanding she play GTA RP instead of CS2",
+          "url": "https://www.dexerto.com/twitch/valkyrae-calls-out-fans-demanding-she-play-gta-rp-instead-of-cs2-3423672/",
+          "source": "Dexerto",
+          "published": "2026-11-01T12:49:21.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -154,6 +154,33 @@
       "storyCount": 7,
       "stories": [
         {
+          "title": "Team Yandex now have the sixth-largest ranking lead in Dota 2 history, only Falcons have done better",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl5t1w/team_yandex_now_have_the_sixthlargest_ranking/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T15:25:14.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "update*",
+            "won*",
+            "history",
+            "tundra*",
+            "falcons"
+          ]
+        },
+        {
+          "title": "How are you cheating but is still Archon?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl6ecz/how_are_you_cheating_but_is_still_archon/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T15:49:33.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "ban*",
+            "cheating"
+          ]
+        },
+        {
           "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
           "source": "Google News: Dota (Field Level Media)",
@@ -162,28 +189,6 @@
           "level": "possible",
           "why": [
             "grand final",
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Changed my name to Pudge picker just to ban pudge even more",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xkxw7d/changed_my_name_to_pudge_picker_just_to_ban_pudge/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T08:29:50.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        },
-        {
-          "title": "Team Spirit ride 2 victories into PARI Universe’s lower-bracket final",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQby1nMjVqMXdXNFdoUmMtTzRfWnBTcklCaHZGWVZmQ0tScW9FMDNBR0tEQ1hDOS00QXI3dkY5cGdhNWw1QlYwSjFYMVVWdnZ6RGNGVkQ4cjhJTnp3LVVIc2dOSWZiLWNHUnB5dDN3cHJLaHpTNXdIZXk4VUo1NDhBWUh1aEdEY0R4UzhuZFRhd3pvdWkzYzQ5U3plajZmbDExeHd1MFlBQWY?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-10-31T15:45:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
             "team spirit"
           ]
         },
@@ -230,32 +235,6 @@
       ]
     },
     {
-      "scene": "Classic Tetris",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Bug or cheating?",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xkxi7x/bug_or_cheating/",
-          "source": "r/Tetris",
-          "published": "2026-11-01T08:04:38.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
-        },
-        {
-          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-11-01T06:53:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 2,
       "stories": [
@@ -297,11 +276,11 @@
           ]
         },
         {
-          "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-01T02:34:00.000Z",
-          "score": 1,
+          "title": "Season 4 Moment",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl6dbr/season_4_moment/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-01T15:48:21.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -317,32 +296,15 @@
       ]
     },
     {
-      "scene": "Melee",
+      "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
         {
-          "title": "A global announcement declares a $1 billion prize pool for an open bracket Melee tournament taking place in 3 years. What would the top 8 look like?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xkyauw/a_global_announcement_declares_a_1_billion_prize/",
-          "source": "r/SSBM",
-          "published": "2026-11-01T08:56:36.000Z",
+          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-11-01T06:53:00.000Z",
           "score": 1,
-          "level": null,
-          "why": [
-            "prize pool"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Forgive 9: Fever Dreams ($50 prize)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xkwsed/forgive_9_fever_dreams_50_prize/",
-          "source": "r/TrackMania",
-          "published": "2026-11-01T07:18:04.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -350,8 +312,10 @@
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Brood War",
+    "Trackmania",
     "Warcraft III",
     "Legacy FGC",
     "CoD",
