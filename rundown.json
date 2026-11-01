@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T13:00:37.439Z",
+  "generatedAt": "2026-11-01T14:00:36.435Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -15,20 +15,6 @@
           "level": "breaking",
           "why": [
             "comeback",
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "FURIA Won PGL Masters Bucharest 2026, NAVI and FUT Finished the Tournament in the Top 8",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQdIBwgFBVV95cUxNc1dHQV9CQUNILXJsQXNkNV9LSnlNSVlDLVgwbWI3RjNONjBLbVBRbXpnZnZnQlRkUFpaQ2RfMldwajF0a3NLeHVvd3JsZFN4WG1SQ2dQRTNNUUh3RHRkV1pZYnRoejhuNUlZUW5rb3NPclhvX1lISWRhWEtyaV9jTjdjbGxJSXZQdXpxSkJHLS1JZmdhZ2ZKSDR6WHJ0MHNQQkt3eXhPWkpydUYtN3dQVEJ3U3BfZnZRSDc1SFQ3VUlLQQ?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-10-31T16:41:48.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "won",
-            "navi",
             "furia",
             "pgl"
           ]
@@ -85,6 +71,20 @@
           ]
         },
         {
+          "title": "Metizport vs JiJieHao / HyperX Retake Season 13 - Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl2z9m/metizport_vs_jijiehao_hyperx_retake_season_13/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-01T13:24:09.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "benched*",
+            "roster*",
+            "grand final*",
+            "official*"
+          ]
+        },
+        {
           "title": "FlyQuest vs Alter Ego / DFRAG Invitational 2026 - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xkvyg2/flyquest_vs_alter_ego_dfrag_invitational_2026/",
           "source": "r/GlobalOffensive",
@@ -109,6 +109,28 @@
           ]
         },
         {
+          "title": "According to Pimp: In 2017–18, Elige was actively learning Portuguese and was planning to leave Liquid and join a Portuguese team as soon as he had mastered the language well enough",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl2s7i/according_to_pimp_in_201718_elige_was_actively/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-01T13:14:55.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid"
+          ]
+        },
+        {
+          "title": "zhokiNg: \"We had no choice but to play in that Retake event\"",
+          "url": "https://www.hltv.org/news/45874/zhoking-we-had-no-choice-but-to-play-in-that-retake-event",
+          "source": "HLTV news",
+          "published": "2026-11-01T13:03:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "iem*"
+          ]
+        },
+        {
           "title": "Valkyrae calls out fans demanding she play GTA RP instead of CS2",
           "url": "https://www.dexerto.com/twitch/valkyrae-calls-out-fans-demanding-she-play-gta-rp-instead-of-cs2-3423672/",
           "source": "Dexerto",
@@ -128,24 +150,6 @@
             "history",
             "-skin"
           ]
-        },
-        {
-          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-01T06:51:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Polymarket Esports Sets Free CS2 Cups for November",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-01T06:02:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -271,8 +275,19 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Champion Edition",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xl2wc5/champion_edition/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-01T13:20:20.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champion"
+          ]
+        },
         {
           "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
