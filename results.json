@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T05:30:21.797Z",
+  "generatedAt": "2026-11-01T06:00:23.891Z",
   "source": "start.gg",
   "completed": [
     {
@@ -184,6 +184,19 @@
       "startAt": "2026-11-07T18:00:00.000Z",
       "endAt": "2026-11-08T03:00:00.000Z",
       "url": "https://www.start.gg/tournament/center-stage-2026/event/melee-singles"
+    },
+    {
+      "eventId": "1683221",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "SoCal Sweep 2",
+      "event": "Melee Singles",
+      "entrants": 77,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T18:00:00.000Z",
+      "endAt": "2026-11-08T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/socal-sweep-2/event/melee-singles"
     },
     {
       "eventId": "1691983",
