@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T06:55:15.587Z",
+  "generatedAt": "2026-11-01T07:50:19.182Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -280,6 +280,32 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xkx29l/removed_by_reddit/",
+          "source": "r/Tekken",
+          "published": "2026-11-01T07:36:02.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        },
+        {
+          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-10-31T23:58:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -292,23 +318,6 @@
           "level": null,
           "why": [
             "jmook"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Mini trolling Light with a pylon tank trap in KCM",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xkn7jz/mini_trolling_light_with_a_pylon_tank_trap_in_kcm/",
-          "source": "r/broodwar",
-          "published": "2026-10-31T22:29:55.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "mini"
           ]
         }
       ]
@@ -329,14 +338,14 @@
       ]
     },
     {
-      "scene": "Tekken",
+      "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Tekken Producer Michael Murray once elaborated on why tag features can't just be added into Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUQyV2ZVOVp5dnBWbXB3QVFqeGRWOEoteVctM0ZhQ3VMVWRNMWlUT0cwZ19PRUZZUXNyMXFJcVBOckI0SC1ibXRCWkVHTlpMZ0c3M1ZwcHBud1BuOUtkb2hvSW5VbXlOQ0NBclhiOVlJVEVqZmktQUwwR2NkTU0ycTluanQ?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-10-31T23:58:08.000Z",
+          "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-01T02:34:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -360,7 +369,7 @@
     },
     {
       "scene": "Trackmania",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Video Settings Won't Save",
@@ -374,14 +383,23 @@
             "won",
             "-settings"
           ]
+        },
+        {
+          "title": "Forgive 9: Fever Dreams ($50 prize)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xkwsed/forgive_9_fever_dreams_50_prize/",
+          "source": "r/TrackMania",
+          "published": "2026-11-01T07:18:04.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     }
   ],
   "quiet": [
     "AoE2",
+    "Brood War",
     "Warcraft III",
-    "Street Fighter",
     "CoD"
   ]
 }
