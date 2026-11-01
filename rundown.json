@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T05:00:36.972Z",
+  "generatedAt": "2026-11-01T05:55:24.281Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 13,
       "stories": [
         {
           "title": "FURIA Comeback Against Nemiga to Win PGL Masters Bucharest",
@@ -128,19 +128,19 @@
           ]
         },
         {
-          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
-          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
-          "source": "HLTV news",
-          "published": "2026-10-31T17:21:00.000Z",
+          "title": "Polymarket Esports Sets Free CS2 Cups for November",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-01T05:52:49.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Short news: Week 42",
-          "url": "https://www.hltv.org/news/45811/short-news-week-42",
+          "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\"",
+          "url": "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
           "source": "HLTV news",
-          "published": "2026-10-31T13:34:00.000Z",
+          "published": "2026-10-31T17:21:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -185,7 +185,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "[ Removed by Reddit ]",
@@ -210,15 +210,36 @@
           ]
         },
         {
-          "title": "PlayTime Abandons South America To Sign European Roster – Is SA Dota Officially Dead?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdElhdTNxQWloTU1YT2NkYUw3NlFYS0d6Njd4NEhvaHpQdkd6MmJVTjRyVWx0N09LbnI2ZlJ0T1Ixa3lWZktTaWVFbWR4d0NTUG1zMHpvR0hQVjk0cjV2TjNDZmNxdUdjUTFRR3hzLXhZTkFjUjFmQ1pHTWk2Y3dxT1hGT0xnbGZaT05qemtuSmVPcVptQ2FkUkVUTmt6c2RJbjd0UzU3S3pXbjlQQ3E1RWVxbzR4YXVsLVE?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-10-31T05:25:25.000Z",
-          "score": 3,
+          "title": "Dont really care about patch but i hope we have a winter cleaning or early spring cleaning",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkvf5p/dont_really_care_about_patch_but_i_hope_we_have_a/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T05:52:07.000Z",
+          "score": 1.5,
           "level": null,
           "why": [
-            "roster"
+            "breaking*"
           ]
+        },
+        {
+          "title": "PARI Universe Final Day Thread",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xkv669/pari_universe_final_day_thread/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T05:36:17.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "grand finals*",
+            "official*"
+          ]
+        },
+        {
+          "title": "Kuroky Names the Biggest Mistake of His Professional Dota 2 Career",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVhna0k0MEFlek1YSG5XNUh3WUI1NmN5WHZIXzFoZ3NPQm00dWhPOWZfalJRSTB0QThwQWRkU2YxcXA0WElNV3JlZFo5OHE4TXlmTWc4a0piZFgzajFtRjJOemVUSjQ3S1dFdjI0Mm8tVk9nN2ItTUlXRl9DWUNqZnoyeVpnUQ?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-10-31T07:38:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Since there is no patch yet, let me complain more about Tide Arcana",
