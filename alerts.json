@@ -1,6 +1,43 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-01T21:55:15.472Z",
+      "level": "possible",
+      "scene": "Tekken",
+      "title": "How does he cheat on PS5",
+      "url": "https://www.reddit.com/r/Tekken/comments/1xlfkuu/how_does_he_cheat_on_ps5/",
+      "source": "r/Tekken",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "cheating*",
+        "cheat"
+      ],
+      "summary": "I've played against this dude a few times now and never noticed anything unusual. Today was different, though. If you've played Mishimas a lot, you know that 13f EWGF looks noticeably \"different\". And in this match, it looked \"different\" A LOT. So I went into the replay and checked his inputs. Turns out, he's doing almost exclusively f, d, df+2, with each directional input lasting exactly 1 frame. And he's doing it consistently on both sides. To me, this looks pretty much like cheating. I own a leverless controller myself (and was actually playing on it during this match), so I know what's possible. I know that even very consistent 13f electrics are achievable with enough practice. But hitting f, d, df+2 with exactly 1 frame per input over and over again, on both sides, just doesn't seem humanly possible to me, even on leverless. What confuses me is that he's playing on console. On PC, I could easily imagine someone running macro software alongside the game. But how would that work on console? I wouldn't even know how to set up macros there. Or am I completely wrong here, and this guy is actually legit? I'd really appreciate some insight, especially from people who know more about leverless controllers, macros, or how this kind of thing could work on console. submitted by /u/Antique_Peak1717 to r/Tekken [link] [comments]",
+      "published": "2026-11-01T21:53:18.000Z"
+    },
+    {
+      "alertedAt": "2026-11-01T21:55:15.472Z",
+      "level": "possible",
+      "scene": "Melee",
+      "title": "Digital only event with $20k prize pool won by the one entrant not on digital...",
+      "url": "https://www.reddit.com/r/SSBM/comments/1xlfk8j/digital_only_event_with_20k_prize_pool_won_by_the/",
+      "source": "r/SSBM",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "cheating*",
+        "won",
+        "prize pool"
+      ],
+      "summary": "Nobody else is gonna say it because it's reddit-social-suicide, but isn't it really freaking ironic that the 1 person using analog in an otherwise exclusively digital tournament won the entire thing? This is the controller I consistently see people equate to cheating on this subreddit. inb4 low-hanging-fruit comments saying this just exemplifies how bad players on digital are but... it's just really funny that the consensus has stayed the same when year after year passes and the results just... aren't there. and this event is, man, it's the cherry on top LMAO submitted by /u/Forres7 to r/SSBM [link] [comments]",
+      "published": "2026-11-01T21:52:32.000Z"
+    },
+    {
       "alertedAt": "2026-11-01T20:10:18.319Z",
       "level": "possible",
       "scene": "Tekken",
