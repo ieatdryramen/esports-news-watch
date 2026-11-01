@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T16:30:40.239Z",
+  "generatedAt": "2026-11-01T17:30:37.885Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Marvel Rivals Ban Rates: Most Banned Hero (November 2026)",
@@ -17,15 +17,6 @@
             "banned",
             "ban"
           ]
-        },
-        {
-          "title": "Marvel Rivals Night of Illusions Chapter 5 solution: Unknown Space",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkVNRksyTDBKdGdiNXRtZGRRQXF3cUtWOV9YTkNpUURNSWt3dHhXdDRPQTBweW1nX1Y5U0VwLTl3S0lDbXMxT01ERWx1VFFTY18zT01lUms5VnVod3Y0Zlh2dUZwMk9rSjR2UTJxbkhMTUp1SEV4bGJEbFhISEdZcV9yaUZXUHQxUGlMVWo3YXVReU0zamNkUE16LTllelF5V2t5QTJlcw?oc=5",
-          "source": "Google News: Rivals esports (Esports.gg)",
-          "published": "2026-10-31T16:56:06.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
