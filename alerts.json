@@ -43,19 +43,21 @@
     },
     {
       "alertedAt": "2026-11-01T08:15:21.070Z",
-      "level": "possible",
+      "level": "breaking",
       "scene": "Dota",
       "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
       "source": "Google News: Dota (Field Level Media)",
       "outlets": [
         "Field Level Media",
-        "RG.org"
+        "RG.org",
+        "Reddit"
       ],
       "score": 5,
       "why": [
         "grand final",
-        "team spirit"
+        "team spirit",
+        "3 outlets"
       ],
       "summary": "",
       "published": "2026-11-01T07:23:54.000Z"
