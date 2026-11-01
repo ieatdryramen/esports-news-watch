@@ -1,106 +1,21 @@
 {
-  "generatedAt": "2026-11-01T19:00:39.596Z",
+  "generatedAt": "2026-11-01T20:00:41.678Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Dota",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "How are you cheating but is still Archon?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl6ecz/how_are_you_cheating_but_is_still_archon/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T15:49:33.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "ban*",
-            "cheating"
-          ]
-        },
-        {
-          "title": "[Spoilers] are your PARI Universe champions!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl88y5/spoilers_are_your_pari_universe_champions/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T17:01:59.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "champions",
-            "team spirit*",
-            "yatoro*"
-          ]
-        },
-        {
-          "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-01T07:23:54.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Team Spirit brush aside foes to win PARI Universe event",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUJTbVRZZ2RFRzdMY28yLXg1cUhINE1vSFRYUkhVb0hDaFdGRXBBQ001MjR5c21kbzJGc3EtcVdMYnMzS0JlbTczOHFaZHh1RGNJZDhQVXRSaWtmMUYxWWxwdWdNT0Z4THBkaHN0am9JajFrdHp5dWNjenlaR0EzZ2kxYlFyYlFrT1NxajNwcXpLLVo3Rk1F?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-01T18:38:39.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Malr1ne explains why MiCke missed match against Team Spirit",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDBzRzJoWGJLQmVoMm1waTFRMFFoaS1pN0FQbjltMVE1cmlTN2FINVNYQWZZRzkxcmt4aV9zOGJyd3RnTDNzN2o1aG5EUDlCbEhhcWtYSTd4S3hBNXdiRVhvT0tzSmR5Q1ZGQXUwX1dLUDRZWllCOW44Z2UwSHhPRnM0bjFJaC10aXZRVlhrOHdaSHR4UzdRazFwOUpuM2h4c01Ud0xn?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-01T15:37:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Congratulations to the winners of PARI UNIVERSE!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xl88jj/congratulations_to_the_winners_of_pari_universe/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T17:01:35.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "team spirit*"
-          ]
-        },
-        {
-          "title": "ATF thoughts after Pari Universe final",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlaz5m/atf_thoughts_after_pari_universe_final/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T18:47:37.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 16,
       "stories": [
         {
-          "title": "FURIA win CS2 PGL Masters Bucharest 2026: Playoff breakdown, full results",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlrd1ZReVlOWG5hV29BclREZTc1X05rRVJKRVUzTWQ1THZQc1prZ3c5WENSeWVGeEg1MkRqaTBycG91dF9GWkt3eVh2SE01MUYwTzdrX1dHOTZoYW92dGdZNHR4dmhaMFl6dmhSVHZHUGtEMmRIcmFSOV9lekhJMUpfTktmZFVLVF9tVw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-10-31T19:15:08.000Z",
+          "title": "Jee returns to TYLOO lineup for IEM Beijing",
+          "url": "https://www.hltv.org/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing",
+          "source": "HLTV news",
+          "published": "2026-11-01T16:45:00.000Z",
           "score": 5,
-          "level": null,
+          "level": "possible",
           "why": [
-            "furia",
-            "pgl"
+            "returns",
+            "iem"
           ]
         },
         {
@@ -115,6 +30,17 @@
             "roster*",
             "grand final*",
             "official*"
+          ]
+        },
+        {
+          "title": "m0NESY: \"Maybe sometimes kyousuke overthinks and he thinks that he's forced to say something, to always do something\"",
+          "url": "https://www.hltv.org/news/45873/m0nesy-maybe-sometimes-kyousuke-overthinks-and-he-thinks-that-hes-forced-to-say-something-to-always-do-something",
+          "source": "HLTV news",
+          "published": "2026-11-01T19:10:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "m0nesy"
           ]
         },
         {
@@ -152,6 +78,29 @@
           ]
         },
         {
+          "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\"",
+          "url": "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
+          "source": "HLTV news",
+          "published": "2026-11-01T15:40:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "return*",
+            "faze*"
+          ]
+        },
+        {
+          "title": "zhokiNg: \"We had no choice but to play in that Retake event\"",
+          "url": "https://www.hltv.org/news/45874/zhoking-we-had-no-choice-but-to-play-in-that-retake-event",
+          "source": "HLTV news",
+          "published": "2026-11-01T13:03:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "iem*"
+          ]
+        },
+        {
           "title": "Last EU spot for Singapore Major up for Grabs",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xl8up1/last_eu_spot_for_singapore_major_up_for_grabs/",
           "source": "r/GlobalOffensive",
@@ -161,6 +110,15 @@
           "why": [
             "the last*"
           ]
+        },
+        {
+          "title": "Short news: Week 42",
+          "url": "https://www.hltv.org/news/45811/short-news-week-42",
+          "source": "HLTV news",
+          "published": "2026-11-01T17:23:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
@@ -175,45 +133,94 @@
           ]
         },
         {
-          "title": "Valkyrae calls out fans demanding she play GTA RP instead of CS2",
-          "url": "https://www.dexerto.com/twitch/valkyrae-calls-out-fans-demanding-she-play-gta-rp-instead-of-cs2-3423672/",
-          "source": "Dexerto",
-          "published": "2026-11-01T12:49:21.000Z",
+          "title": "1win take Moscow Cyber Games title in huge blow to HOTU's Major hopes",
+          "url": "https://www.hltv.org/news/45877/1win-take-moscow-cyber-games-title-in-huge-blow-to-hotus-major-hopes",
+          "source": "HLTV news",
+          "published": "2026-11-01T15:08:00.000Z",
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 7,
+      "stories": [
+        {
+          "title": "[Spoilers] are your PARI Universe champions!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl88y5/spoilers_are_your_pari_universe_champions/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T17:01:59.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "champions",
+            "team spirit*",
+            "yatoro*"
+          ]
         },
         {
-          "title": "Orbit Esports CS2 (orbit-esports) Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELTk4WDc4XzdjaWpMaWNabUZNa3R5UlVEOVFERkNWYm02QzFINkJiazdkY1V4QXRna1Y4Ui1ZT1JDOEZmXzZHeS1LNlhUd3VSbU02LUZ5TXc?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-01T06:51:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Polymarket Esports Sets Free CS2 Cups for November",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnl2Ny1XbFpGTXpWbzBPVnloX1BOUVVfeU1aNkFCbmo5YTVlcUdRcVhXelpId282WXo0YjZxZnB0cVNYdFdMa3FtcnhFMXdoMG53b2trS1hPQml2YlZhMXU2Q3I3NGhxZnFvc01nXy1iRzNMeTFmeDlndHRZTE1xS2NhMHNuNjJLUU9RMU85c25VQ01wXzdScG9B?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-01T06:02:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Intel Extreme Masters Beijing 2026 Tournament Betting Preview & Guide – All Eyes on MOUZ and FURIA",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFAyNTlKdERLdlJFWGZpSnFJQmVNUzlDY3Y4UGlQbDE0N3RZbDhkRTg0ZE1zZTFCSElqWlJNZm1IT2p5LWV6UW5NbWlsLXZhYWRFYnlDOFlzeEhoUDdBVWlIT0NtSkw0ZjdwZ2IzeFZ4MVJnb25WLThSY2gxd19sRFo3LXlDY2RDblozV3dNU0cycUNibnlPdmtXelRnNnF5YVRjaWxMZW0zdkx2eWc?oc=5",
-          "source": "Google News: CS2 (FreeTips)",
-          "published": "2026-11-01T13:40:28.000Z",
-          "score": 0,
+          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-01T19:41:42.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "mouz",
-            "furia",
-            "-guide",
-            "-betting"
+            "team spirit"
           ]
+        },
+        {
+          "title": "Malr1ne explains why MiCke missed match against Team Spirit",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDBzRzJoWGJLQmVoMm1waTFRMFFoaS1pN0FQbjltMVE1cmlTN2FINVNYQWZZRzkxcmt4aV9zOGJyd3RnTDNzN2o1aG5EUDlCbEhhcWtYSTd4S3hBNXdiRVhvT0tzSmR5Q1ZGQXUwX1dLUDRZWllCOW44Z2UwSHhPRnM0bjFJaC10aXZRVlhrOHdaSHR4UzdRazFwOUpuM2h4c01Ud0xn?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-01T15:37:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "With the prize money from PARI Universe, Yatoro will become the second most money player",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlcggw/with_the_prize_money_from_pari_universe_yatoro/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T19:45:54.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "yatoro"
+          ]
+        },
+        {
+          "title": "Congratulations to the winners of PARI UNIVERSE!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xl88jj/congratulations_to_the_winners_of_pari_universe/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T17:01:35.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "team spirit*"
+          ]
+        },
+        {
+          "title": "Yandex vs. Spirit Set for PARI Universe Dota 2 Final",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHVTY0VBcWpBbW9vb3YwZTBTY0YzdmgxZ3JRejJoR01HeXVSX0dPMF8yOGlGN3BmSlZleXdzSHNUVGZpTDNYYlVBSDNQN1pUa0wxd0JWeXMzc3VDb1VxcUxDSWgxbTVRVUdIQ1d5eDczb3RCank0dno3djdJak1fYVc3YW10UGRsZVR3dF8yNHVISU9YdThhVFlocHZBamhwNW5FTw?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-01T12:52:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "ATF thoughts after Pari Universe final",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlaz5m/atf_thoughts_after_pari_universe_final/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T18:47:37.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -296,7 +303,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Tokido vs Poongko USF4 at evo france",
@@ -320,6 +327,15 @@
           "why": [
             "punk"
           ]
+        },
+        {
+          "title": "Pro Street Fighter 6 player qualifies for Capcom Cup 13 using Arjun just a few weeks after character's release",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vdEw1Qk5MOWtJYTVjZEpkTzBiM0pKZVI2VVdmekVBMTE1SDdWbUpaWDFKUUZ6N2plc3RxTW1IbW9uWkxVcGlIWThadGJxV2ZqVjNQSU9wdXNIcW4zYjQ0aG1wZTNJUGpqNDdYY1ltM2JwZw?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-01T19:44:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Overtime | PSN Tournament",

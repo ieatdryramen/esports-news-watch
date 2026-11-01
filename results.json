@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-01T19:30:27.304Z",
+  "generatedAt": "2026-11-01T20:00:24.856Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1653286",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "CROSSOVER 2026",
+      "event": "Guilty Gear -Strive-",
+      "entrants": 83,
+      "online": false,
+      "major": false,
+      "startAt": "2026-10-31T13:00:00.000Z",
+      "endAt": "2026-11-01T20:00:00.000Z",
+      "url": "https://www.start.gg/tournament/crossover-2026-1/event/guilty-gear-strive",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "STRIGA | Shin Ki"
+        },
+        {
+          "placement": 2,
+          "name": "YoKai | Resil"
+        },
+        {
+          "placement": 3,
+          "name": "OliveOily"
+        },
+        {
+          "placement": 4,
+          "name": ":( | IML777"
+        },
+        {
+          "placement": 5,
+          "name": "VDK | pietaa"
+        },
+        {
+          "placement": 5,
+          "name": "STRIGA | ThatWave"
+        },
+        {
+          "placement": 7,
+          "name": "oxa"
+        },
+        {
+          "placement": 7,
+          "name": "Levanto"
+        }
+      ]
+    },
     {
       "eventId": "1742535",
       "scene": "tekken",
