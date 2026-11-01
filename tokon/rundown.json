@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-01T06:30:41.108Z",
+  "generatedAt": "2026-11-01T07:30:41.761Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Marvel Tokon stories",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YYTFJM3JYY0xjUG1IZUxqeE43Tk5aRVc4T2sxeVc0R3ZnckRwQjV3eHVCcTlBbVZBZnFMbmw3V1AwbHlLdWdlWTFuT2xSdXlPX2xXdDM5cVpPRGpOUjdRVnZXQUw?oc=5",
+          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
+          "published": "2026-11-01T06:19:19.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
           "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
