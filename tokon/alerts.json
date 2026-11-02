@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T16:10:31.127Z",
+      "level": "breaking",
+      "scene": "Marvel Tokon",
+      "title": "Marvel Tokon: Fighting Souls Officially Adds DLC Character and More Cosmetic Outfits",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFgwVFllc09YbnUtbUUwdFRUZEthTktWM1gzTUZNOWdGTXBDZS0xVFU3T3ducXJoT3o3MER3RDQ0cnFnN2ZlNlNKZTVvYnFSaThpVnhqcm9FQWJYRWdqZlRqa0FqeEtnSnBLOTNKOGx5Z2dpYm9ZN0hBUjJnUzVQbzczZDU2R2NoaFcwWFJLLTJ3eGpQRWdCZlp6SDFna0FyajJUbHJuYzNQM3Z3SkxZTHNBZnZSbDVU?oc=5",
+      "source": "Google News: Tokon competitive (OpenCritic)",
+      "outlets": [
+        "OpenCritic"
+      ],
+      "score": 8,
+      "why": [
+        "dlc",
+        "dlc character"
+      ],
+      "summary": "",
+      "published": "2026-11-02T16:06:54.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T14:20:22.229Z",
       "level": "possible",
       "scene": "Marvel Tokon",
