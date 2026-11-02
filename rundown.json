@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T13:00:45.374Z",
+  "generatedAt": "2026-11-02T14:00:47.186Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -18,20 +18,6 @@
             "record",
             "prize pool",
             "the international"
-          ]
-        },
-        {
-          "title": "It is time for another Cheater banwave.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlne4t/it_is_time_for_another_cheater_banwave/",
-          "source": "r/DotA2",
-          "published": "2026-11-02T04:06:22.000Z",
-          "score": 8,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "cheating*",
-            "cheater",
-            "reddit only"
           ]
         },
         {
@@ -50,6 +36,28 @@
           "url": "https://esports.gg/news/dota-2/team-spirit-defeat-team-yandex-to-win-dota-2-pari-universe/",
           "source": "esports.gg",
           "published": "2026-11-02T02:42:16.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-01T19:48:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Malr1ne explains why MiCke missed match against Team Spirit",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDBzRzJoWGJLQmVoMm1waTFRMFFoaS1pN0FQbjltMVE1cmlTN2FINVNYQWZZRzkxcmt4aV9zOGJyd3RnTDNzN2o1aG5EUDlCbEhhcWtYSTd4S3hBNXdiRVhvT0tzSmR5Q1ZGQXUwX1dLUDRZWllCOW44Z2UwSHhPRnM0bjFJaC10aXZRVlhrOHdaSHR4UzdRazFwOUpuM2h4c01Ud0xn?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-01T15:37:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -86,21 +94,21 @@
           "why": []
         },
         {
-          "title": "Modern Dota 2 Update: Treant Protector cannot lose while alive",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xln210/modern_dota_2_update_treant_protector_cannot_lose/",
-          "source": "r/DotA2",
-          "published": "2026-11-02T03:48:27.000Z",
-          "score": 1,
+          "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-02T12:48:25.000Z",
+          "score": 0,
           "level": null,
           "why": [
-            "update"
+            "-stream"
           ]
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 20,
       "stories": [
         {
           "title": "MOUZ vs TYLOO / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
@@ -119,6 +127,18 @@
           ]
         },
         {
+          "title": "At IEM Beijing 2026, tournament organizers replaced the skull icons used to indicate dead players in the HUD with X marks due to Chinese censorship restrictions.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlsjyo/at_iem_beijing_2026_tournament_organizers/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T09:18:29.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "replaced",
+            "iem"
+          ]
+        },
+        {
           "title": "Liquid crush Aurora in IEM Beijing opener",
           "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
           "source": "HLTV news",
@@ -131,6 +151,17 @@
           ]
         },
         {
+          "title": "PGL Singapore Major 2026: Every Qualified Team",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-02T11:54:22.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "DHL Recruitment Drive at IEM Beijing After 50,000 Esports Applications",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -139,17 +170,6 @@
           "level": null,
           "why": [
             "iem"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026: All qualified teams",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1djBQdzRDYkQzVGVIMzEtU0FCQjVkTmNtdFpaaHlkZjA0eVR3SXBUSDUzUGNxdEZXaTE5TUdXSFhoRmlscHU4aFE5ck5nZ1NmODlIVGR3Y09UVmdydVdGd3I3WFRGMjUxODBDTW9DUS0zd2xzaFlwRkF3?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-02T09:34:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -195,17 +215,6 @@
           "level": null,
           "why": [
             "iem"
-          ]
-        },
-        {
-          "title": "dem0n overtakes donk as FACEIT’s highest-rated player",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VVVVYVk5nUHl4OE53SFpSb3A5Mm91a3RXZ3hNbHdrYmpDM0RjOGh3OGtDcHQ4aXFzbVVRUjA1czU1MmN6Q2EwM3k2QXJKY2ZZTkVuTnl1cGVzUFhWWWtfWTEzTVJ6NDRJUWt4S2FQOW1pMVh3UjRpb3BSMkJVQQ?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-01T13:11:54.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "donk"
           ]
         },
         {
