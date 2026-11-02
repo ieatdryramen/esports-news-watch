@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T22:00:42.609Z",
+  "generatedAt": "2026-11-02T23:00:39.529Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -121,17 +121,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-02T12:48:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -399,7 +388,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Has chicken arena been removed with the norse patch?",
@@ -410,6 +399,17 @@
           "level": null,
           "why": [
             "removed"
+          ]
+        },
+        {
+          "title": "How would you change/buff Berserks (if at all)?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xmbthp/how_would_you_changebuff_berserks_if_at_all/",
+          "source": "r/aoe2",
+          "published": "2026-11-02T22:36:23.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "champions*"
           ]
         }
       ]

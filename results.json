@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:30:20.435Z",
+  "generatedAt": "2026-11-02T23:00:28.747Z",
   "source": "start.gg",
   "completed": [
     {
@@ -429,6 +429,19 @@
   "live": [],
   "upcoming": [
     {
+      "eventId": "1743628",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "TNS Guilty Gear Strive #229",
+      "event": "Guilty Gear Strive (Crossplay)",
+      "entrants": 77,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-03T01:00:00.000Z",
+      "endAt": "2026-11-03T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-229/event/guilty-gear-strive-crossplay"
+    },
+    {
       "eventId": "1611249",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -447,7 +460,7 @@
       "game": "Tekken 8",
       "tournament": "Headstomper 2026",
       "event": "MAIN EVENT: TEKKEN 8 [TWT 2026 Challenger Event]",
-      "entrants": 139,
+      "entrants": 140,
       "online": false,
       "major": false,
       "startAt": "2026-11-07T08:00:00.000Z",
@@ -525,7 +538,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "SoCal Sweep 2",
       "event": "Melee Singles",
-      "entrants": 89,
+      "entrants": 91,
       "online": false,
       "major": false,
       "startAt": "2026-11-07T18:00:00.000Z",
