@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T16:30:53.961Z",
+  "generatedAt": "2026-11-02T17:30:42.684Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 6,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
@@ -21,6 +21,18 @@
           ]
         },
         {
+          "title": "Phoenix Cyclops compatibility patch notes released for Marvel Tokon: Fighting Souls",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnpUenl4dFhmWnM4YlRuSXFKMGxUZVUtM3YtNWE5MFdZeF9QcjVFNXQ4TDN0U3hJZFIxYTZCbFdtX2pUclR6djRIZUxialNKVlo1V0phMVctRWhxblNnMHptM2hvYkFZVFN0ZDdyS3NxQmdUc0psdVJrMTRNWWJBWWhJZjNvQTNaRFFOVWNB?oc=5",
+          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
+          "published": "2026-11-02T16:36:49.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "released",
+            "patch notes"
+          ]
+        },
+        {
           "title": "Marvel Tokon November 2 2026 Patch Notes",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOei1FRThGOUxrd3hjc2RyeTRsa09NMHN6M21GcHNpaWRxczlXeGJ1bzBnVTZkdE1LSmFyeVlqV3o0YzZBSEQxU0dKREY4TkhyN042bGtoVklzT01QcUVCUFgwREpHOFRaaERiOVMwUTdhNURNbTN1RWRTSVRpRWlHdURVWFNEcDhTM1ZwZVFOcHc5MzFMN0JaVzFB?oc=5",
           "source": "Google News: Tokon competitive (IGN)",
@@ -29,6 +41,17 @@
           "level": null,
           "why": [
             "patch notes"
+          ]
+        },
+        {
+          "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1FZa3I4WkFTMjAycEZ6YzFZWThkOWlyUllxOXh0Uzc4RjMtSGFUQ3lpaEFXUmRJX1FWbTNrVVFvdTllTWdTYUx3S3IydWI1WTJQV0Q2WnlvbFA2UGIwOHZjeFBfUVpMRi15N2ZBUjNlNnN5VGdPS0FFV1VrcVZWQ0pTZVI1alkwMmdWLUc5WUtLQjN3N2ZGTFFNQ1pKRmNkcWZN?oc=5",
+          "source": "Google News: Tokon (TechJuice)",
+          "published": "2026-11-02T07:10:57.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "dlc"
           ]
         },
         {
