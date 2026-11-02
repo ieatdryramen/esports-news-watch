@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:55:27.805Z",
+  "generatedAt": "2026-11-02T07:55:18.255Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -66,7 +66,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Aurora vs Liquid / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
@@ -82,20 +82,6 @@
             "g2*",
             "liquid",
             "iem"
-          ]
-        },
-        {
-          "title": "DENDELE vs Imperial / Gamers Club Masters VII - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlhogz/dendele_vs_imperial_gamers_club_masters_vii_grand/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T23:25:41.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "grand final",
-            "official*"
           ]
         },
         {
@@ -136,26 +122,15 @@
           ]
         },
         {
-          "title": "FURIA beat Nemiga 3-2 to win PGL Masters Bucharest as YEKINDAR claims first MVP",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMlhNamlKYkNtTTY1dGlaQkE0ck1oN2pHWExMTm9xQ0t5elBSWFBTMlR4ZWoxX1B1UW0wVmQyMnpINjE0b1JRMDkwM0xBUWl5Nlh0RmxpdmNSNVhqTVZvWnRWUVRLeGpaVkRjUVVJa2VqRHNNLUJKSDBCNmR4alNoZUo0S1NXX3h3ZDhiNzR6bXBTQ1p5?oc=5",
-          "source": "Google News: CS2 (EsportsBets.com)",
-          "published": "2026-11-01T07:51:06.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "furia",
-            "pgl"
-          ]
-        },
-        {
-          "title": "2 VAC Flags in 2 days",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlpnf8/2_vac_flags_in_2_days/",
+          "title": "Major grand final start time",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlr9gw/major_grand_final_start_time/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-02T06:12:14.000Z",
+          "published": "2026-11-02T07:54:04.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "vac"
+            "grand final",
+            "pgl*"
           ]
         },
         {
@@ -211,6 +186,47 @@
           "level": null,
           "why": [
             "donk"
+          ]
+        },
+        {
+          "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\"",
+          "url": "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
+          "source": "HLTV news",
+          "published": "2026-11-01T15:40:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "return*",
+            "faze*"
+          ]
+        },
+        {
+          "title": "LAG vs NuTorious / NSTLGA Texas Open 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xljijs/lag_vs_nutorious_nstlga_texas_open_2026_grand/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T00:51:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand final"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Have I been banned or something.",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xlqebk/have_i_been_banned_or_something/",
+          "source": "r/TrackMania",
+          "published": "2026-11-02T06:58:47.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "banned",
+            "update*"
           ]
         }
       ]
@@ -297,43 +313,8 @@
       ]
     },
     {
-      "scene": "Warcraft III",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "YouTiao Cup 8 - Groupstage Results | Semifinals + Grand Final tomorrow (Nov 02)",
-          "url": "https://www.reddit.com/r/WC3/comments/1xlhrni/youtiao_cup_8_groupstage_results_semifinals_grand/",
-          "source": "r/WC3",
-          "published": "2026-11-01T23:29:44.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand final"
-          ]
-        },
-        {
-          "title": "EGB Epic Cup Results",
-          "url": "https://www.reddit.com/r/WC3/comments/1xlhtnp/egb_epic_cup_results/",
-          "source": "r/WC3",
-          "published": "2026-11-01T23:32:12.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "DLEE Invitational (on new Maps) - Groupstage / Triple Elimination Results - Finals on Nov 14",
-          "url": "https://www.reddit.com/r/WC3/comments/1xlhsrf/dlee_invitational_on_new_maps_groupstage_triple/",
-          "source": "r/WC3",
-          "published": "2026-11-01T23:31:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Faze vs M8s Scrim results. 8-1 M8s",
@@ -345,40 +326,15 @@
           "why": [
             "faze"
           ]
-        },
-        {
-          "title": "Dashy on Rambo Leaving Work Early To Go Bowling in MWII",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xlhy9g/dashy_on_rambo_leaving_work_early_to_go_bowling/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-01T23:38:07.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "All you need to know to massively improve in Tetra League.",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xlhzq9/all_you_need_to_know_to_massively_improve_in/",
-          "source": "r/Tetris",
-          "published": "2026-11-01T23:40:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     }
   ],
   "quiet": [
     "AoE2",
+    "Classic Tetris",
     "Brood War",
-    "Trackmania",
+    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
