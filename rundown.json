@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T01:00:39.879Z",
+  "generatedAt": "2026-11-02T02:00:40.844Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 25,
       "stories": [
         {
           "title": "100 Thieves vs Wildcard / FiRe Last Chance 2026 - Grand Final / Post-Match Discussion",
@@ -45,6 +45,19 @@
           "why": [
             "returns",
             "iem"
+          ]
+        },
+        {
+          "title": "MOUZ beat Vitality 2-0 to finish third at PGL Masters Bucharest",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW1UVklZbHZUNWctZU1BLW9SVkN1bUQ2Tjc1Mk1YWVAwTGNtbk16aDlBTmRsaFlLQ2szbm1ETDlDa0dFX2lQQ1JnSUgzZjVxMmgtWmg0eHY5VHBNM2p4R2NLMkVjWjZBVmo2YjQwTXRHWDBfXzZlSlVweGstWmQxV3BEZ3pJT2pVaVdfRS1saFZrS1ZBQkcyQzI2VzJhWjMtaWRJRQ?oc=5",
+          "source": "Google News: CS2 (Esports News UK)",
+          "published": "2026-11-01T08:54:47.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "vitality",
+            "mouz",
+            "pgl"
           ]
         },
         {
@@ -106,6 +119,17 @@
           ]
         },
         {
+          "title": "dem0n overtakes donk as FACEIT’s highest-rated player",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VVVVYVk5nUHl4OE53SFpSb3A5Mm91a3RXZ3hNbHdrYmpDM0RjOGh3OGtDcHQ4aXFzbVVRUjA1czU1MmN6Q2EwM3k2QXJKY2ZZTkVuTnl1cGVzUFhWWWtfWTEzTVJ6NDRJUWt4S2FQOW1pMVh3UjRpb3BSMkJVQQ?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-01T13:11:54.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "donk"
+          ]
+        },
+        {
           "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\"",
           "url": "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
           "source": "HLTV news",
@@ -127,34 +151,12 @@
           "why": [
             "grand final"
           ]
-        },
-        {
-          "title": "Released a horror themed rush gamemode map called Nightmare",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xljh4i/released_a_horror_themed_rush_gamemode_map_called/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T00:49:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        },
-        {
-          "title": "100 Thieves win FiRe Last Chance to book last Singapore Major spot",
-          "url": "https://www.hltv.org/news/45880/100-thieves-win-fire-last-chance-to-book-last-singapore-major-spot",
-          "source": "HLTV news",
-          "published": "2026-11-01T22:41:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won*"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "How does he cheat on PS5",
@@ -201,23 +203,12 @@
           "why": [
             "evo"
           ]
-        },
-        {
-          "title": "🎮 PPSSPP Web Update - Tekken Multiplayer is Here! WebRTC, Full Controller Support & More!",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xlb6en/ppsspp_web_update_tekken_multiplayer_is_here/",
-          "source": "r/Tekken",
-          "published": "2026-11-01T18:55:41.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
         }
       ]
     },
     {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Digital only event with $20k prize pool won by the one entrant not on digital...",
@@ -231,12 +222,24 @@
             "won",
             "prize pool"
           ]
+        },
+        {
+          "title": "Congratulations to the winners of Melee Doubles at Tipped Off 17: Haunted",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xlklt2/congratulations_to_the_winners_of_melee_doubles/",
+          "source": "r/SSBM",
+          "published": "2026-11-02T01:44:18.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "eliminated*",
+            "hungrybox*"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "I made a game where you draft a team from every TI roster since 2011 and try to go 17-0. Dota's 82-0",
@@ -255,7 +258,7 @@
           "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-01T19:41:42.000Z",
+          "published": "2026-11-01T19:48:49.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -263,14 +266,25 @@
           ]
         },
         {
-          "title": "With the prize money from PARI Universe, Yatoro will become the second most money player",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlcggw/with_the_prize_money_from_pari_universe_yatoro/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T19:45:54.000Z",
-          "score": 2,
+          "title": "Team Spirit MLBB Take Sixth Straight MCC Title – MLBB’s Golden Road at M8 in Sight",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83bW9xQlBuYVAwdDhsTHdmTWkwNEREejcyUUs0eUhTOExqbmxMS0IxaGpsS2k1OVY2M2hCek1jVEhidkR2Q2pTZFc3N2hNRllWeEhaeGJMbEdhaTF1ZFUyWjd2ellJTFkzSWhZd1ZB?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-01T19:48:49.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "yatoro"
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Malr1ne explains why MiCke missed match against Team Spirit",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDBzRzJoWGJLQmVoMm1waTFRMFFoaS1pN0FQbjltMVE1cmlTN2FINVNYQWZZRzkxcmt4aV9zOGJyd3RnTDNzN2o1aG5EUDlCbEhhcWtYSTd4S3hBNXdiRVhvT0tzSmR5Q1ZGQXUwX1dLUDRZWllCOW44Z2UwSHhPRnM0bjFJaC10aXZRVlhrOHdaSHR4UzdRazFwOUpuM2h4c01Ud0xn?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-01T15:37:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
           ]
         },
         {
@@ -339,8 +353,19 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Faze vs M8s Scrim results. 8-1 M8s",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xljugv/faze_vs_m8s_scrim_results_81_m8s/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-02T01:06:58.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
         {
           "title": "Dashy on Rambo Leaving Work Early To Go Bowling in MWII",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xlhy9g/dashy_on_rambo_leaving_work_early_to_go_bowling/",
