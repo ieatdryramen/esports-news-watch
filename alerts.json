@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T06:45:17.433Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Haven't played CS2 in months, came back to low trust factor",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlq3tf/havent_played_cs2_in_months_came_back_to_low/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "cheating*",
+        "cheat*",
+        "vac*"
+      ],
+      "summary": "https://leetify.com/@kulture/matches https://csrep.gg/player/76561198170288774 linked is my csrep page + leetify I haven't played premier since like May 2026 but hopped on to play with friends after hearing about the new vac improvements. When I joined their lobby and we queued, they saw the \"this user has lower trust factor\". When I played months prior, my lobbies were seemingly cheat free which lead me to believe I had high trust factor + never getting this \"user has lower trust factor\" message when queueing with the same friends as mentioned earlier. Never had a voice/text mute (not toxic), never abandoned games, etc. Is it possible that my trust factor lowered with inactivity or something like that? We were running into 20-30k lobbies with extremely sus or outright rage cheating players (which is the opposite of my experience when I was playing in May or months prior ): ) submitted by /u/genericthrowaway6940 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-02T06:40:33.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T04:10:24.385Z",
       "level": "possible",
       "scene": "Dota",
