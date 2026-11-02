@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-11-02T00:35:24.152Z",
+  "generatedAt": "2026-11-02T01:05:21.086Z",
   "source": "start.gg",
-  "completed": [],
+  "completed": [
+    {
+      "eventId": "1635358",
+      "scene": "tokon",
+      "game": "Fighting Souls",
+      "tournament": "TNS @ LA Comic Con 2026",
+      "event": "Marvel Tokon: Fighting Souls",
+      "entrants": 50,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-01T20:00:00.000Z",
+      "endAt": "2026-11-02T01:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-la-comic-con-2026/event/marvel-tokon-fighting-souls",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "CHD | QueenKoa"
+        },
+        {
+          "placement": 2,
+          "name": "LYRA | PoppyJan"
+        },
+        {
+          "placement": 3,
+          "name": "AV"
+        },
+        {
+          "placement": 4,
+          "name": "Cyrus"
+        },
+        {
+          "placement": 5,
+          "name": "brkrdave"
+        },
+        {
+          "placement": 5,
+          "name": "ZZL"
+        },
+        {
+          "placement": 7,
+          "name": "USAE | Ken DaProblem"
+        },
+        {
+          "placement": 7,
+          "name": "Klorriquor"
+        }
+      ]
+    }
+  ],
   "live": [],
   "upcoming": [],
   "games": {
