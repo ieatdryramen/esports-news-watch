@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:30:33.095Z",
+  "generatedAt": "2026-11-02T16:00:24.964Z",
   "source": "start.gg",
   "completed": [
     {
@@ -375,53 +375,6 @@
         {
           "placement": 7,
           "name": "Eeyore"
-        }
-      ]
-    },
-    {
-      "eventId": "1727542",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Psychic Drive Arcade Tournaments @ Youmacon 2026",
-      "event": "Street Fighter III: 3rd Strike (w/USB support)",
-      "entrants": 18,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T21:00:00.000Z",
-      "endAt": "2026-11-01T03:56:00.000Z",
-      "url": "https://www.start.gg/tournament/psychic-drive-arcade-tournaments-youmacon-2026/event/street-fighter-iii-3rd-strike-w-usb-support",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "OFFWORLD | Sheep"
-        },
-        {
-          "placement": 2,
-          "name": "OFFWORLD | helm"
-        },
-        {
-          "placement": 3,
-          "name": "OFFWORLD | Pops"
-        },
-        {
-          "placement": 4,
-          "name": "Rabid"
-        },
-        {
-          "placement": 5,
-          "name": "PartyAtDani's"
-        },
-        {
-          "placement": 5,
-          "name": "OFFWORLD | Shaq"
-        },
-        {
-          "placement": 7,
-          "name": "OFFWORLD | Gearlessgav"
-        },
-        {
-          "placement": 7,
-          "name": "JamesPod"
         }
       ]
     },
