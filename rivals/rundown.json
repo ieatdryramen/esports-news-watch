@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-02T21:30:37.189Z",
+  "generatedAt": "2026-11-02T22:30:37.346Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "MRC Season 10: Butcher's Blasphemy - EMEA Console",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVVPaDV4bEgwbXFhbjBENG9pTm5pTG9tY3UyUndYU2hTVTNDOUFBb3dIdl9sUzFaQUwwRGZPZGRQa1p5MzMxOWZGWl92RjVVTC05LVdiWjF5cUVIQmtvYkJaWGNNSVFwOC0tLUtKSHNzLVVYSko3Q0I1WUdOTGt2bmg1R1pMY0hjaVJWZDFn?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-02T19:20:08.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "season",
+            "mrc"
+          ]
+        },
         {
           "title": "Nagoshi Studio officially shuts down",
           "url": "/article/151233/netease-games-closes-nagoshi-studio",
