@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T17:00:41.758Z",
+  "generatedAt": "2026-11-02T18:00:41.533Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -80,38 +80,86 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 5,
+      "stories": [
+        {
+          "title": "Won my first ever God Match",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm3tof/won_my_first_ever_god_match/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T17:39:26.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "won",
+            "first ever"
+          ]
         },
         {
-          "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-02T12:48:25.000Z",
-          "score": 0,
+          "title": "Is it cheating if I have extra buttons on my controller?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm1to2/is_it_cheating_if_i_have_extra_buttons_on_my/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T16:27:39.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "-stream"
+            "cheating"
           ]
+        },
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-02T06:11:14.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Let's say season three is the final season of DLC for Tekken 8. Would Yujiro be a good character to end the game with?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm0uc9/lets_say_season_three_is_the_final_season_of_dlc/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T15:51:46.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Does the T8 DLC content after get discounted on PlayStation Store?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xlzfos/does_the_t8_dlc_content_after_get_discounted_on/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T14:59:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 18,
       "stories": [
         {
-          "title": "MOUZ vs TYLOO / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlvasp/mouz_vs_tyloo_iem_beijing_2026_group_b_upper/",
+          "title": "Natus Vincere vs Falcons / IEM Beijing 2026 - Group A Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlxgb0/natus_vincere_vs_falcons_iem_beijing_2026_group_a/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-02T12:00:42.000Z",
-          "score": 7.5,
+          "published": "2026-11-02T13:40:16.000Z",
+          "score": 5.5,
           "level": "possible",
           "why": [
-            "benched*",
             "roster*",
             "official*",
-            "mouz",
-            "iem",
-            "reddit only"
+            "niko*",
+            "aleksib*",
+            "m0nesy*",
+            "b1t*"
           ]
         },
         {
@@ -125,18 +173,6 @@
             "karrigan*",
             "navi",
             "faze*",
-            "iem"
-          ]
-        },
-        {
-          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-02T14:00:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
             "iem"
           ]
         },
@@ -165,6 +201,20 @@
           ]
         },
         {
+          "title": "Semi Annual New vs Old logos of the 32 qualified major teams post (Singapore Major)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlzswo/semi_annual_new_vs_old_logos_of_the_32_qualified/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T15:12:47.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "official*",
+            "navi*",
+            "mouz*",
+            "liquid*"
+          ]
+        },
+        {
           "title": "PGL Singapore Major 2026: Every Qualified Team",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
           "source": "Google News: CS2 (Insider Gaming)",
@@ -187,19 +237,6 @@
           ]
         },
         {
-          "title": "Brazil Pulls the Plug: What the Betting Ban Means for FURIA, MIBR and CS2 Bettors",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEEyY2prUHdDNm9rR3hfc2w0S2xjLUFPbDRjc3g4VVlZSlpfLWhVUXdmVmNodFJwUWh2dDVCUFpOQ3ZMRXQ1d2NEZVpRcmxlazJVWHk0RzM3TFJGUENEbWsyM3g2by03RmdDbnVrdnlZZ3o0UHZ4T0U1Nk1VQ28xY0RSc0ZuLXp4dXBXQUROX3ptZ3JyTGc?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-02T07:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban",
-            "furia",
-            "-betting"
-          ]
-        },
-        {
           "title": "The best highlights from IEM Beijing group stage",
           "url": "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
           "source": "HLTV news",
@@ -211,27 +248,25 @@
           ]
         },
         {
-          "title": "PGL Major Singapore invites set",
-          "url": "https://www.hltv.org/news/45879/pgl-major-singapore-invites-set",
+          "title": "Valve release Major-deciding November VRS update",
+          "url": "https://www.hltv.org/news/45890/valve-release-major-deciding-november-vrs-update",
           "source": "HLTV news",
-          "published": "2026-11-01T23:05:00.000Z",
-          "score": 3,
+          "published": "2026-11-02T17:58:00.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "pgl"
+            "update"
           ]
         },
         {
-          "title": "Semi Annual New vs Old logos of the 32 qualified major teams post (Singapore Major)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlzswo/semi_annual_new_vs_old_logos_of_the_32_qualified/",
+          "title": "After S9 placements, 19 y/o dem0n sat 560 Elo behind donk. Since Saturday they’ve traded #1, with dem0n setting the season’s highest Elo peak at 5,359",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xm2yul/after_s9_placements_19_yo_dem0n_sat_560_elo/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-02T15:12:47.000Z",
-          "score": 2.5,
+          "published": "2026-11-02T17:09:16.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "official*",
-            "navi*",
-            "liquid*"
+            "donk"
           ]
         },
         {
@@ -244,52 +279,17 @@
           "why": [
             "iem"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 4,
-      "stories": [
+        },
         {
-          "title": "Is it cheating if I have extra buttons on my controller?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm1to2/is_it_cheating_if_i_have_extra_buttons_on_my/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T16:27:39.000Z",
-          "score": 4,
+          "title": "Toobisie coach made sure the team was well hydrated ahead of their match against NAVI at HyperX Season XIII",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlvvjy/toobisie_coach_made_sure_the_team_was_well/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T12:29:29.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "cheating"
+            "navi"
           ]
-        },
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-02T06:27:13.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Let's say season three is the final season of DLC for Tekken 8. Would Yujiro be a good character to end the game with?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm0uc9/lets_say_season_three_is_the_final_season_of_dlc/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T15:51:46.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Does the T8 DLC content after get discounted on PlayStation Store?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xlzfos/does_the_t8_dlc_content_after_get_discounted_on/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T14:59:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
