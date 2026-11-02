@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:50:21.651Z",
+  "generatedAt": "2026-11-02T22:00:42.609Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -290,17 +290,6 @@
           ]
         },
         {
-          "title": "PGL Major Singapore 2026: All qualified teams",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1djBQdzRDYkQzVGVIMzEtU0FCQjVkTmNtdFpaaHlkZjA0eVR3SXBUSDUzUGNxdEZXaTE5TUdXSFhoRmlscHU4aFE5ck5nZ1NmODlIVGR3Y09UVmdydVdGd3I3WFRGMjUxODBDTW9DUS0zd2xzaFlwRkF3?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-02T09:34:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "The best highlights from IEM Beijing group stage",
           "url": "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
           "source": "HLTV news",
@@ -362,6 +351,15 @@
           "url": "https://www.hltv.org/news/45885/introducing-the-advanced-stats-tab",
           "source": "HLTV news",
           "published": "2026-11-02T12:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "dastan: \"I worked on myself not to show a bad mood\"",
+          "url": "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
+          "source": "HLTV news",
+          "published": "2026-11-02T11:05:00.000Z",
           "score": 1,
           "level": null,
           "why": []
