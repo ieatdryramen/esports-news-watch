@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T10:40:21.399Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Furia won against FaZe on dust. Next map cache.",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xltt01/furia_won_against_faze_on_dust_next_map_cache/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "won",
+        "faze",
+        "furia"
+      ],
+      "summary": "submitted by /u/TonyKhanIsAMoneyMark to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-02T10:36:17.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T09:45:30.426Z",
       "level": "possible",
       "scene": "CS2",
