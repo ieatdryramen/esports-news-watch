@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T17:15:19.737Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "PARI Universe Recap: Meta & Records",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xm333g/pari_universe_recap_meta_records/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "banned*",
+        "won*",
+        "grand final*",
+        "record*",
+        "yatoro*"
+      ],
+      "summary": "Meta https://preview.redd.it/zhi4b2qwe8zh1.png?width=1040&format=png&auto=webp&s=31416d0a4ee244e4bb12684e4e9b7cbd1984d987 The most noticeable dropper from Slam 8’s Top 10 is NP (2nd in Slam → 11th in Pari Universe, -9). We have 3 hard supports rising up: Techies (11th → 3rd, +8), Dazzle (tied 24th → 10th, +14), and Witch Doctor (24th → 9th, +15). Slark is now fully part of the meta (20th → 6th, +14). Hitler is still there at number 2. https://preview.redd.it/1o55g4o2f8zh1.png?width=1040&format=png&auto=webp&s=d12c4e03760ae0d402276d6bcc25fe6d1769e2a8 What stands out is SK having a 75% wr in 16 games and Mars being on this list after being completely ignored at Slam 8. Records Players & Heroes Averages are at a minimum of 5 games played. Most picked hero was Willow at 47. 26 W - 21 L. Most banned hero was Bounty at 78. He was picked 6 times and won 4 of them. Yatoro had the highest kills average at 11.16 kills per game (25 games). Snapfire had the highest kills average at 14 in 5 games. Yatoro had the highest kills in a game with 30 on OD. He did this in game 2 of the grand final. (9071689576) OneJey died the most on average with 11 deaths per game (17 games). Bane had the highest deaths per game at 12.6 across 5 games. Skem and OneJey (Bane and SD) share the record for most deaths in a game at 22 apiece. It was against Yandex, 71 kills in 71 minutes for the Russian org. (9059530192) Rue averaged the highest assists per game with 19.52 (25 games). Clock had the highest assists ",
+      "published": "2026-11-02T17:13:25.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T15:15:18.646Z",
       "level": "possible",
       "scene": "Dota",
