@@ -1,3 +1,24 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "alertedAt": "2026-11-02T14:20:22.229Z",
+      "level": "possible",
+      "scene": "Marvel Tokon",
+      "title": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
+      "url": "https://www.pushsquare.com/news/2026/11/phoenix-cyclops-is-available-now-as-marvel-tokon-receives-major-ps5-patch",
+      "source": "Push Square",
+      "outlets": [
+        "Push Square"
+      ],
+      "score": 6.5,
+      "why": [
+        "update*",
+        "joins*",
+        "dlc*",
+        "dlc character*"
+      ],
+      "summary": "Born again. The first post-launch DLC character for Marvel Tokon: Fighting Souls is now available. Phoenix Cyclops joins the fun today, 2nd November 2026, and he's accompanied by a major game update that makes a ton of improvements. Those who own the Year 1 Pass will already have access to Phoenix Cyclops, but he's also available as a standalone purchase, costing $7.99/£6.49. Read the full article on pushsquare.com",
+      "published": "2026-11-02T14:15:00.000Z"
+    }
+  ]
 }
