@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:30:45.073Z",
+  "generatedAt": "2026-11-02T15:30:52.629Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -23,7 +23,7 @@
         {
           "title": "Marvel Tokon November 2 2026 Patch Notes",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOei1FRThGOUxrd3hjc2RyeTRsa09NMHN6M21GcHNpaWRxczlXeGJ1bzBnVTZkdE1LSmFyeVlqV3o0YzZBSEQxU0dKREY4TkhyN042bGtoVklzT01QcUVCUFgwREpHOFRaaERiOVMwUTdhNURNbTN1RWRTSVRpRWlHdURVWFNEcDhTM1ZwZVFOcHc5MzFMN0JaVzFB?oc=5",
-          "source": "Google News: Tokon (IGN)",
+          "source": "Google News: Tokon competitive (IGN)",
           "published": "2026-11-02T12:22:47.000Z",
           "score": 4,
           "level": null,
@@ -41,6 +41,17 @@
           "why": [
             "update",
             "dlc*"
+          ]
+        },
+        {
+          "title": "Marvel Tōkon: Fighting Souls Gets Phoenix and Cyclops With Latest Update",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajdiWUJ2Z1JjU3kyeHFoYkdXbDN5eEJTb3ZCV3l1dEZqTFpJVlVrYXVHdU5qY1NoSTRFTkJIM1h5YV9halZSaUhKMFNZdFpteC1GVzFrS1lMaWtnRlZQWVZ3c1pFdUc4eXZKZ0I4MWpaRFFBaHdvbmRTXzZqNVlqNEJFSW5NNGx4dEJTY1YtQ05lNGNRa3NZd3R3?oc=5",
+          "source": "Google News: Tokon (GamingBolt)",
+          "published": "2026-11-02T14:54:23.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -62,18 +73,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Marvel Tōkon: Fighting Souls Phoenix Cyclops Character Guide Released",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUUzRG9mYjNnMzM5U0V0T3BFaXdXSU9SN0premFvb3VGZFhIYWl3dUljaWVld2M1X3JPU3JnTXIzOXl6TFppWjZJYnZnT1VlRE91TFgzb2ZNX2Z6NUtXSTdiamc3Y3pVRXQybFd6aDltZVFZZkVNcXBCX0wwMmY0VzlxUWFlOHZKNEpab05vMVk0cWN3RFdWVDFLLUIzUUJqdC1mWg?oc=5",
-          "source": "Google News: Tokon (OpenCritic)",
-          "published": "2026-11-01T23:37:18.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "released",
-            "-guide"
-          ]
         }
       ]
     }
