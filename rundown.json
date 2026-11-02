@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-02T10:50:22.216Z",
+  "generatedAt": "2026-11-02T11:45:25.481Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
+        {
+          "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTZFB2aGtWOGI1MTdYbEpCa3l3V1hpMHE1S1hIRTFwa3ZZd0ZqeXRReHJwX1JvdkxuM3o3XzR6RUhDTjZCZkd3VldET1ZlN0htZmdXYUFCLUNIREpScW9HZHJ6dzlTVVBBcEdodWR1M2hDa0Yxekd3?oc=5",
+          "source": "Google News: Dota (Shane the Gamer)",
+          "published": "2026-11-02T01:37:12.000Z",
+          "score": 9,
+          "level": "breaking",
+          "why": [
+            "breaking",
+            "record",
+            "prize pool",
+            "the international"
+          ]
+        },
         {
           "title": "It is time for another Cheater banwave.",
           "url": "https://www.reddit.com/r/DotA2/comments/1xlne4t/it_is_time_for_another_cheater_banwave/",
@@ -75,22 +89,22 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 26,
       "stories": [
         {
-          "title": "VISION vs G2 / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlrvkp/vision_vs_g2_iem_beijing_2026_group_b_upper/",
+          "title": "FURIA vs FaZe / IEM Beijing 2026 - Group A Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlupda/furia_vs_faze_iem_beijing_2026_group_a_upper/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-02T08:33:51.000Z",
+          "published": "2026-11-02T11:28:21.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "g2",
-            "liquid*",
-            "iem"
+            "natus vincere*",
+            "faze",
+            "furia"
           ]
         },
         {
@@ -160,15 +174,14 @@
           ]
         },
         {
-          "title": "Does China hate Furia?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xltv5q/does_china_hate_furia/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T10:39:51.000Z",
+          "title": "DHL Recruitment Drive at IEM Beijing After 50,000 Esports Applications",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-02T10:43:06.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "faze*",
-            "furia"
+            "iem"
           ]
         },
         {
