@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T06:00:39.337Z",
+  "generatedAt": "2026-11-02T06:55:27.805Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "It is time for another Cheater banwave.",
@@ -21,21 +21,21 @@
           ]
         },
         {
+          "title": "​I'm currently Legend 5, right on the verge of hitting 4k MMR, and I feel like a complete fraud.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlpist/im_currently_legend_5_right_on_the_verge_of/",
+          "source": "r/DotA2",
+          "published": "2026-11-02T06:04:57.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "fraud"
+          ]
+        },
+        {
           "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
           "url": "https://esports.gg/news/dota-2/team-spirit-defeat-team-yandex-to-win-dota-2-pari-universe/",
           "source": "esports.gg",
           "published": "2026-11-02T02:42:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-01T19:48:49.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -61,33 +61,26 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Yandex vs. Spirit Set for PARI Universe Dota 2 Final",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHVTY0VBcWpBbW9vb3YwZTBTY0YzdmgxZ3JRejJoR01HeXVSX0dPMF8yOGlGN3BmSlZleXdzSHNUVGZpTDNYYlVBSDNQN1pUa0wxd0JWeXMzc3VDb1VxcUxDSWgxbTVRVUdIQ1d5eDczb3RCank0dno3djdJak1fYVc3YW10UGRsZVR3dF8yNHVISU9YdThhVFlocHZBamhwNW5FTw?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-01T12:52:20.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 26,
+      "storyCount": 23,
       "stories": [
         {
-          "title": "Legacy vs The MongolZ / IEM Beijing 2026 - Group A Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlolna/legacy_vs_the_mongolz_iem_beijing_2026_group_a/",
+          "title": "Aurora vs Liquid / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlpjnn/aurora_vs_liquid_iem_beijing_2026_group_b_upper/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-02T05:12:06.000Z",
-          "score": 5.5,
+          "published": "2026-11-02T06:06:20.000Z",
+          "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
+            "g2*",
+            "liquid",
             "iem"
           ]
         },
@@ -103,6 +96,18 @@
             "roster*",
             "grand final",
             "official*"
+          ]
+        },
+        {
+          "title": "Liquid crush Aurora in IEM Beijing opener",
+          "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
+          "source": "HLTV news",
+          "published": "2026-11-02T06:38:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "liquid",
+            "iem"
           ]
         },
         {
@@ -143,15 +148,14 @@
           ]
         },
         {
-          "title": "ESL fail to provide shuttle for Furia after making them fly straight from PGL to China for media day",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlhl17/esl_fail_to_provide_shuttle_for_furia_after/",
+          "title": "2 VAC Flags in 2 days",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlpnf8/2_vac_flags_in_2_days/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-01T23:21:17.000Z",
-          "score": 4,
+          "published": "2026-11-02T06:12:14.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "furia",
-            "pgl"
+            "vac"
           ]
         },
         {
@@ -208,37 +212,39 @@
           "why": [
             "donk"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
         {
-          "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\"",
-          "url": "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
-          "source": "HLTV news",
-          "published": "2026-11-01T15:40:00.000Z",
-          "score": 2.5,
+          "title": "That comeback felt great",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xlphpn/that_comeback_felt_great/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-02T06:03:19.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "return*",
-            "faze*"
+            "comeback"
           ]
+        },
+        {
+          "title": "Pro Street Fighter 6 player qualifies for Capcom Cup 13 using Arjun just a few weeks after character's release",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vdEw1Qk5MOWtJYTVjZEpkTzBiM0pKZVI2VVdmekVBMTE1SDdWbUpaWDFKUUZ6N2plc3RxTW1IbW9uWkxVcGlIWThadGJxV2ZqVjNQSU9wdXNIcW4zYjQ0aG1wZTNJUGpqNDdYY1ltM2JwZw?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-01T19:44:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Am I missing something, or is the comeback potential/robbery power in T8 completely out of hand?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xlh7p9/am_i_missing_something_or_is_the_comeback/",
-          "source": "r/Tekken",
-          "published": "2026-11-01T23:04:37.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "comeback",
-            "roster*"
-          ]
-        },
         {
           "title": "TEKKEN 8 tier list November: Best esports characters (post-Evo France 2026)",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UaWNDS19wNzNmSlAzbGk0dEl1VEtQaVZCaVRaYldqcWNmdDVMLW1ENjd5aG5VRGoyMlBqRW9KUzg3MHBzTjcxN21pSmNtdVpCb0ZKRzlRWkJnbFVKcVJwMU9xbmg?oc=5",
@@ -355,38 +361,14 @@
     },
     {
       "scene": "Classic Tetris",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "2026 CTWC Quebec Regional – DAS Tournament: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-quebec-regional-das-tournament-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-11-01T06:53:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
         {
           "title": "All you need to know to massively improve in Tetra League.",
           "url": "https://www.reddit.com/r/Tetris/comments/1xlhzq9/all_you_need_to_know_to_massively_improve_in/",
           "source": "r/Tetris",
           "published": "2026-11-01T23:40:06.000Z",
           "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Pro Street Fighter 6 player qualifies for Capcom Cup 13 using Arjun just a few weeks after character's release",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vdEw1Qk5MOWtJYTVjZEpkTzBiM0pKZVI2VVdmekVBMTE1SDdWbUpaWDFKUUZ6N2plc3RxTW1IbW9uWkxVcGlIWThadGJxV2ZqVjNQSU9wdXNIcW4zYjQ0aG1wZTNJUGpqNDdYY1ltM2JwZw?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-01T19:44:50.000Z",
-          "score": 1,
           "level": null,
           "why": []
         }
