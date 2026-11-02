@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-02T08:30:42.409Z",
+  "generatedAt": "2026-11-02T09:30:38.825Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Patch Update - 2 November 2026",
+          "url": "https://store.steampowered.com/news/app/3787240/view/704409462168881444",
+          "source": "Steam: Marvel Tokon (official news + patch notes)",
+          "published": "2026-11-02T09:00:01.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "update",
+            "dlc*"
+          ]
+        },
         {
           "title": "Marvel Tokon Update 1.004 Adds Phoenix Cyclops",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wQjJyTnRhMl9wci1zTVY0TnZYM1lvNC15VlplN2J4cFNsUmJHSVluajlKQWJvWjRNVXpQa09iblZYa1kzN2U2aE9RTHlWRV91NUNTeHVWcW4zWThwdUUyTg?oc=5",
