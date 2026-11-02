@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:00:25.212Z",
+  "generatedAt": "2026-11-02T15:30:33.095Z",
   "source": "start.gg",
   "completed": [
     {
@@ -591,19 +591,6 @@
       "startAt": "2026-11-07T21:00:00.000Z",
       "endAt": "2026-11-08T04:00:00.000Z",
       "url": "https://www.start.gg/tournament/no-god-no-neutral-offline-edition-003/event/3rd-strike"
-    },
-    {
-      "eventId": "1729356",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "The Asscadian 8",
-      "event": "Melee Singles",
-      "entrants": 64,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T23:00:00.000Z",
-      "endAt": "2026-11-08T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-asscadian-8/event/melee-singles"
     }
   ],
   "games": {
