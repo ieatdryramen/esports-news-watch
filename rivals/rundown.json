@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-02T15:30:51.501Z",
+  "generatedAt": "2026-11-02T16:30:52.662Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Nagoshi Studio officially shuts down",
+          "url": "/article/151233/netease-games-closes-nagoshi-studio",
+          "source": "Shacknews",
+          "published": "2026-11-03T00:06:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "How to Use Unstable Molecules in Marvel Rivals: Costs",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUNVWFRrMGZCbi1aTU1XRGI2OGIxT3VSYm5EWXlfRVhtT1BsMU1KVHVYTkRxRmMzSnQxcGRzQW9QYURDTzFZc3dPSkxSX19faVZuZzV4NGM2M241dGlkNjRWSzRFeUhGVHpUX0lDbDJsdU1SOFpwM3ZSZzItbEItTURrc0ZmTExYRUtpYzB3?oc=5",
