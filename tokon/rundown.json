@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-11-02T06:30:43.167Z",
+  "generatedAt": "2026-11-02T07:30:39.515Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Marvel Tokon Update 1.004 Adds Phoenix Cyclops",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wQjJyTnRhMl9wci1zTVY0TnZYM1lvNC15VlplN2J4cFNsUmJHSVluajlKQWJvWjRNVXpQa09iblZYa1kzN2U2aE9RTHlWRV91NUNTeHVWcW4zWThwdUUyTg?oc=5",
+          "source": "Google News: Tokon (TwistedVoxel)",
+          "published": "2026-11-02T07:10:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
         {
           "title": "Marvel Tōkon: Fighting Souls Phoenix Cyclops Character Guide Released",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUUzRG9mYjNnMzM5U0V0T3BFaXdXSU9SN0premFvb3VGZFhIYWl3dUljaWVld2M1X3JPU3JnTXIzOXl6TFppWjZJYnZnT1VlRE91TFgzb2ZNX2Z6NUtXSTdiamc3Y3pVRXQybFd6aDltZVFZZkVNcXBCX0wwMmY0VzlxUWFlOHZKNEpab05vMVk0cWN3RFdWVDFLLUIzUUJqdC1mWg?oc=5",
