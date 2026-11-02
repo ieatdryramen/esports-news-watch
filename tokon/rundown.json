@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T17:30:42.684Z",
+  "generatedAt": "2026-11-02T18:30:57.263Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
@@ -30,6 +30,17 @@
           "why": [
             "released",
             "patch notes"
+          ]
+        },
+        {
+          "title": "Marvel Tokon: Fighting Souls’ Cyclops DLC Is Already Dividing Fans",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2JKTlowNUVIQ2tTRS1iYjFaR09XNUdndGZLRGk3VmFBSC1vZXdRcnBqcVFNN3IzdmNSWTBXS19qMWhMR3hDVXdyeWFEbFZ4cXVTaS03VWw5UkpRcVpqdnluVkpUZ3M1VkRKR05hSnFtZGxvSWhrVXJkdy16MkJhOXBsQWdjVFZVWUtUNWJqWTdwTFZiT2VuVkV0MzEyTjl0?oc=5",
+          "source": "Google News: Tokon (ComicBook.com)",
+          "published": "2026-11-02T17:55:34.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "dlc"
           ]
         },
         {
