@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T13:35:16.272Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "At IEM Beijing 2026, tournament organizers replaced the skull icons used to indicate dead players in the HUD with X marks due to Chinese censorship restrictions.",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlsjyo/at_iem_beijing_2026_tournament_organizers/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "replaced",
+        "iem"
+      ],
+      "summary": "submitted by /u/MmX_A_ to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-02T09:18:29.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T10:40:21.399Z",
       "level": "possible",
       "scene": "CS2",
