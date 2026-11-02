@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:55:18.255Z",
+  "generatedAt": "2026-11-02T08:55:19.128Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -66,21 +66,21 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 19,
       "stories": [
         {
-          "title": "Aurora vs Liquid / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlpjnn/aurora_vs_liquid_iem_beijing_2026_group_b_upper/",
+          "title": "VISION vs G2 / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlrvkp/vision_vs_g2_iem_beijing_2026_group_b_upper/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-02T06:06:20.000Z",
+          "published": "2026-11-02T08:33:51.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "g2*",
-            "liquid",
+            "g2",
+            "liquid*",
             "iem"
           ]
         },
@@ -106,19 +106,6 @@
           "why": [
             "returns",
             "iem"
-          ]
-        },
-        {
-          "title": "MOUZ beat Vitality 2-0 to finish third at PGL Masters Bucharest",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW1UVklZbHZUNWctZU1BLW9SVkN1bUQ2Tjc1Mk1YWVAwTGNtbk16aDlBTmRsaFlLQ2szbm1ETDlDa0dFX2lQQ1JnSUgzZjVxMmgtWmg0eHY5VHBNM2p4R2NLMkVjWjZBVmo2YjQwTXRHWDBfXzZlSlVweGstWmQxV3BEZ3pJT2pVaVdfRS1saFZrS1ZBQkcyQzI2VzJhWjMtaWRJRQ?oc=5",
-          "source": "Google News: CS2 (Esports News UK)",
-          "published": "2026-11-01T08:54:47.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality",
-            "mouz",
-            "pgl"
           ]
         },
         {
@@ -189,15 +176,14 @@
           ]
         },
         {
-          "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\"",
-          "url": "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
+          "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\"",
+          "url": "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
           "source": "HLTV news",
-          "published": "2026-11-01T15:40:00.000Z",
-          "score": 2.5,
+          "published": "2026-11-02T08:00:00.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "return*",
-            "faze*"
+            "liquid*"
           ]
         },
         {
@@ -209,6 +195,17 @@
           "level": null,
           "why": [
             "grand final"
+          ]
+        },
+        {
+          "title": "Released a horror themed rush gamemode map called Nightmare",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xljh4i/released_a_horror_themed_rush_gamemode_map_called/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T00:49:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
           ]
         }
       ]
@@ -254,23 +251,6 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "TEKKEN 8 tier list November: Best esports characters (post-Evo France 2026)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UaWNDS19wNzNmSlAzbGk0dEl1VEtQaVZCaVRaYldqcWNmdDVMLW1ENjd5aG5VRGoyMlBqRW9KUzg3MHBzTjcxN21pSmNtdVpCb0ZKRzlRWkJnbFVKcVJwMU9xbmg?oc=5",
-          "source": "Google News: Tekken (Esports.gg)",
-          "published": "2026-11-01T07:55:18.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
         }
       ]
     },
@@ -335,6 +315,7 @@
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
+    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
