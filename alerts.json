@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T19:35:16.644Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KelRZSWNMa09TMi1DWnZCMzF0SGVDaUV5Tks1QThuUU5tRk9Ta0YxaGo0bTk5aTdwb2tRdzUtdkg3SThybkFVcVVIVHkzb2Z2ZWJ5ZVhQUDJ2VFg5eDdOanQ5ZWVjLUM3c0locXNXNEFLMTlJS05FQm1B?oc=5",
+      "source": "Google News: Dota (Dot Esports)",
+      "outlets": [
+        "Dot Esports"
+      ],
+      "score": 6,
+      "why": [
+        "roster",
+        "inactive"
+      ],
+      "summary": "",
+      "published": "2026-11-02T19:25:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T18:25:15.721Z",
       "level": "possible",
       "scene": "Dota",
