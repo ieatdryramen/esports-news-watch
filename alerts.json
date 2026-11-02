@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T17:40:20.587Z",
+      "level": "possible",
+      "scene": "Tekken",
+      "title": "Won my first ever God Match",
+      "url": "https://www.reddit.com/r/Tekken/comments/1xm3tof/won_my_first_ever_god_match/",
+      "source": "r/Tekken",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "the last*",
+        "won",
+        "first ever"
+      ],
+      "summary": "Ignore the dropped wall combo in the last round 🤧 submitted by /u/stalleo_thegreat to r/Tekken [link] [comments]",
+      "published": "2026-11-02T17:39:26.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T17:15:19.737Z",
       "level": "possible",
       "scene": "Dota",
