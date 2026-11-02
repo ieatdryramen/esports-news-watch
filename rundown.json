@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T00:00:40.284Z",
+  "generatedAt": "2026-11-02T01:00:39.879Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 23,
       "stories": [
         {
           "title": "100 Thieves vs Wildcard / FiRe Last Chance 2026 - Grand Final / Post-Match Discussion",
@@ -48,19 +48,6 @@
           ]
         },
         {
-          "title": "MOUZ beat Vitality 2-0 to finish third at PGL Masters Bucharest",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW1UVklZbHZUNWctZU1BLW9SVkN1bUQ2Tjc1Mk1YWVAwTGNtbk16aDlBTmRsaFlLQ2szbm1ETDlDa0dFX2lQQ1JnSUgzZjVxMmgtWmg0eHY5VHBNM2p4R2NLMkVjWjZBVmo2YjQwTXRHWDBfXzZlSlVweGstWmQxV3BEZ3pJT2pVaVdfRS1saFZrS1ZBQkcyQzI2VzJhWjMtaWRJRQ?oc=5",
-          "source": "Google News: CS2 (Esports News UK)",
-          "published": "2026-11-01T08:54:47.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality",
-            "mouz",
-            "pgl"
-          ]
-        },
-        {
           "title": "ESL fail to provide shuttle for Furia after making them fly straight from PGL to China for media day",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlhl17/esl_fail_to_provide_shuttle_for_furia_after/",
           "source": "r/GlobalOffensive",
@@ -86,18 +73,6 @@
           ]
         },
         {
-          "title": "We got false VAC live'd...",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlfjyd/we_got_false_vac_lived/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T21:52:11.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "update*",
-            "vac"
-          ]
-        },
-        {
           "title": "PGL Major Singapore invites set",
           "url": "https://www.hltv.org/news/45879/pgl-major-singapore-invites-set",
           "source": "HLTV news",
@@ -120,18 +95,6 @@
           ]
         },
         {
-          "title": "JiJieHao vs Iberian Soul / HyperX Retake Season 13 - 3Rd Place Decider Match / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlal44/jijiehao_vs_iberian_soul_hyperx_retake_season_13/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-01T18:32:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "benched*",
-            "roster*"
-          ]
-        },
-        {
           "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -143,134 +106,55 @@
           ]
         },
         {
-          "title": "dem0n overtakes donk as FACEIT’s highest-rated player",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VVVVYVk5nUHl4OE53SFpSb3A5Mm91a3RXZ3hNbHdrYmpDM0RjOGh3OGtDcHQ4aXFzbVVRUjA1czU1MmN6Q2EwM3k2QXJKY2ZZTkVuTnl1cGVzUFhWWWtfWTEzTVJ6NDRJUWt4S2FQOW1pMVh3UjRpb3BSMkJVQQ?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-01T13:11:54.000Z",
-          "score": 3,
+          "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\"",
+          "url": "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
+          "source": "HLTV news",
+          "published": "2026-11-01T15:40:00.000Z",
+          "score": 2.5,
           "level": null,
           "why": [
-            "donk"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 10,
-      "stories": [
-        {
-          "title": "Team Yandex, Team Spirit to clash in PARI Universe grand final",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnRtQ2RkZFRLLS1RMFJqb1dGQV9EaTRvbmZBV3QyZVo0Rkd6cDNST0RibmZoNnFRel9pWnU1MDk5akttTjdxbnZENnRGb2w0N1dCMG5OSUhYUEZkam1hZ2FjRTA4TE82ODdfMkg3cV9WREd2Yy13OUhiSHNsNGFUQ0JZQ28zdTNyOHVTNV9rRm1Pck9qOWlJbG5mbGVJaGc?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-01T07:23:54.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "team spirit"
+            "return*",
+            "faze*"
           ]
         },
         {
-          "title": "I made a game where you draft a team from every TI roster since 2011 and try to go 17-0. Dota's 82-0",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlfi2p/i_made_a_game_where_you_draft_a_team_from_every/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T21:49:59.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "roster",
-            "record*",
-            "the international*"
-          ]
-        },
-        {
-          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-01T19:41:42.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Team Spirit MLBB Take Sixth Straight MCC Title – MLBB’s Golden Road at M8 in Sight",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83bW9xQlBuYVAwdDhsTHdmTWkwNEREejcyUUs0eUhTOExqbmxMS0IxaGpsS2k1OVY2M2hCek1jVEhidkR2Q2pTZFc3N2hNRllWeEhaeGJMbEdhaTF1ZFUyWjd2ellJTFkzSWhZd1ZB?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-01T19:41:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Team Spirit brush aside foes to win PARI Universe event",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUJTbVRZZ2RFRzdMY28yLXg1cUhINE1vSFRYUkhVb0hDaFdGRXBBQ001MjR5c21kbzJGc3EtcVdMYnMzS0JlbTczOHFaZHh1RGNJZDhQVXRSaWtmMUYxWWxwdWdNT0Z4THBkaHN0am9JajFrdHp5dWNjenlaR0EzZ2kxYlFyYlFrT1NxajNwcXpLLVo3Rk1F?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-01T18:38:39.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Malr1ne explains why MiCke missed match against Team Spirit",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDBzRzJoWGJLQmVoMm1waTFRMFFoaS1pN0FQbjltMVE1cmlTN2FINVNYQWZZRzkxcmt4aV9zOGJyd3RnTDNzN2o1aG5EUDlCbEhhcWtYSTd4S3hBNXdiRVhvT0tzSmR5Q1ZGQXUwX1dLUDRZWllCOW44Z2UwSHhPRnM0bjFJaC10aXZRVlhrOHdaSHR4UzdRazFwOUpuM2h4c01Ud0xn?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-01T15:37:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "With the prize money from PARI Universe, Yatoro will become the second most money player",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlcggw/with_the_prize_money_from_pari_universe_yatoro/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T19:45:54.000Z",
+          "title": "LAG vs NuTorious / NSTLGA Texas Open 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xljijs/lag_vs_nutorious_nstlga_texas_open_2026_grand/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T00:51:30.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "yatoro"
+            "grand final"
           ]
         },
         {
-          "title": "I made an Act II & PvE event generator custom game so we don't have to wait for Valve to release one",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlge94/i_made_an_act_ii_pve_event_generator_custom_game/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T22:28:01.000Z",
-          "score": 0,
+          "title": "Released a horror themed rush gamemode map called Nightmare",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xljh4i/released_a_horror_themed_rush_gamemode_map_called/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T00:49:34.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "released"
+          ]
         },
         {
-          "title": "Patch wishlist",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xldxeu/patch_wishlist/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T20:45:11.000Z",
-          "score": 0,
+          "title": "100 Thieves win FiRe Last Chance to book last Singapore Major spot",
+          "url": "https://www.hltv.org/news/45880/100-thieves-win-fire-last-chance-to-book-last-singapore-major-spot",
+          "source": "HLTV news",
+          "published": "2026-11-01T22:41:00.000Z",
+          "score": 2,
           "level": null,
-          "why": []
-        },
-        {
-          "title": "ATF thoughts after Pari Universe final",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlaz5m/atf_thoughts_after_pari_universe_final/",
-          "source": "r/DotA2",
-          "published": "2026-11-01T18:47:37.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
+          "why": [
+            "won*"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 7,
+      "storyCount": 5,
       "stories": [
         {
           "title": "How does he cheat on PS5",
@@ -297,17 +181,6 @@
           ]
         },
         {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-01T06:50:31.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
           "title": "Punishment 5 Champion (TWT 2026 Master Event)",
           "url": "https://www.reddit.com/r/Tekken/comments/1xlfoh8/punishment_5_champion_twt_2026_master_event/",
           "source": "r/Tekken",
@@ -327,17 +200,6 @@
           "level": null,
           "why": [
             "evo"
-          ]
-        },
-        {
-          "title": "Last year, I made a bunch of Castlevania characters in T8. With new customization items (long hair for male fighters finally) and the new Castlevania game being released a few weeks back, I made more Castlevania characters this year.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xlasan/last_year_i_made_a_bunch_of_castlevania/",
-          "source": "r/Tekken",
-          "published": "2026-11-01T18:40:03.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
           ]
         },
         {
@@ -369,6 +231,74 @@
             "won",
             "prize pool"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 6,
+      "stories": [
+        {
+          "title": "I made a game where you draft a team from every TI roster since 2011 and try to go 17-0. Dota's 82-0",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlfi2p/i_made_a_game_where_you_draft_a_team_from_every/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T21:49:59.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster",
+            "record*",
+            "the international*"
+          ]
+        },
+        {
+          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-01T19:41:42.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "With the prize money from PARI Universe, Yatoro will become the second most money player",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlcggw/with_the_prize_money_from_pari_universe_yatoro/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T19:45:54.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "yatoro"
+          ]
+        },
+        {
+          "title": "Yandex vs. Spirit Set for PARI Universe Dota 2 Final",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHVTY0VBcWpBbW9vb3YwZTBTY0YzdmgxZ3JRejJoR01HeXVSX0dPMF8yOGlGN3BmSlZleXdzSHNUVGZpTDNYYlVBSDNQN1pUa0wxd0JWeXMzc3VDb1VxcUxDSWgxbTVRVUdIQ1d5eDczb3RCank0dno3djdJak1fYVc3YW10UGRsZVR3dF8yNHVISU9YdThhVFlocHZBamhwNW5FTw?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-01T12:52:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "I made an Act II & PvE event generator custom game so we don't have to wait for Valve to release one",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlge94/i_made_an_act_ii_pve_event_generator_custom_game/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T22:28:01.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Patch wishlist",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xldxeu/patch_wishlist/",
+          "source": "r/DotA2",
+          "published": "2026-11-01T20:45:11.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -420,23 +350,6 @@
           "level": null,
           "why": [
             "dashy"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Quake",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Nov 1: k1llsen on not using 2k/4k resolution (& would compete in QC LAN tourneys if those every come back)",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xlaved/nov_1_k1llsen_on_not_using_2k4k_resolution_would/",
-          "source": "r/QuakeChampions",
-          "published": "2026-11-01T18:43:25.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "k1llsen"
           ]
         }
       ]
@@ -503,6 +416,7 @@
     "AoE2",
     "Brood War",
     "Legacy FGC",
+    "Quake",
     "Halo"
   ]
 }
