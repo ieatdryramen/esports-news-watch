@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-02T22:30:37.346Z",
+  "generatedAt": "2026-11-02T23:30:42.092Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "MRC Season 8: Sins Of Alchemax - Pacific Console",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEhmRDRtQW1Pd0dUNG5uUXhHNHJUdERKZDlmdTZZYWYtdDYwel9TWjk2Z2k0Q3JRZzFTVjk1R1hKWTZBNGhvM0tHWnBSdVc2cDRRMWlOZl9OTlZndE1EX2liOFg0RVVycXlJLVhrZGFtVDZaRmp1d205U0xTYlh3YVhDTjI2eTUzR201S01jaU4?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-02T22:24:46.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "season",
+            "mrc"
+          ]
+        },
         {
           "title": "MRC Season 10: Butcher's Blasphemy - EMEA Console",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVVPaDV4bEgwbXFhbjBENG9pTm5pTG9tY3UyUndYU2hTVTNDOUFBb3dIdl9sUzFaQUwwRGZPZGRQa1p5MzMxOWZGWl92RjVVTC05LVdiWjF5cUVIQmtvYkJaWGNNSVFwOC0tLUtKSHNzLVVYSko3Q0I1WUdOTGt2bmg1R1pMY0hjaVJWZDFn?oc=5",
