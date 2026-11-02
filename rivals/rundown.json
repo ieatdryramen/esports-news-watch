@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-11-02T10:30:42.630Z",
+  "generatedAt": "2026-11-02T11:30:40.085Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "How to Mod Marvel Rivals: Install, Fix, and Remove Mods",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WdGFZbkhjU0JodTQzWFJ0OHlUQlNuYWlfdE4wNHAwS3JXVTctR0JkeGk3RlE5UGZfWkRYdXRiVG1EaGItaU1pZl80d2pwWEk4X3JFX0QwdmF1RjNma0JTUU1LWEZxZVFBZWNKQ3FCSUo?oc=5",
-          "source": "Google News: Rivals patches (games.gg)",
-          "published": "2026-11-01T21:20:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
         {
           "title": "How to Use Unstable Molecules in Marvel Rivals: Costs",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUNVWFRrMGZCbi1aTU1XRGI2OGIxT3VSYm5EWXlfRVhtT1BsMU1KVHVYTkRxRmMzSnQxcGRzQW9QYURDTzFZc3dPSkxSX19faVZuZzV4NGM2M241dGlkNjRWSzRFeUhGVHpUX0lDbDJsdU1SOFpwM3ZSZzItbEItTURrc0ZmTExYRUtpYzB3?oc=5",
