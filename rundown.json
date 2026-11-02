@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T12:00:41.708Z",
+  "generatedAt": "2026-11-02T13:00:45.374Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -57,6 +57,17 @@
           ]
         },
         {
+          "title": "gorgc reacts to pari universe grand final [SPOILER]",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xlvfgj/gorgc_reacts_to_pari_universe_grand_final_spoiler/",
+          "source": "r/DotA2",
+          "published": "2026-11-02T12:07:09.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand final"
+          ]
+        },
+        {
           "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
           "source": "Google News: Dota (Esports.gg)",
@@ -89,49 +100,22 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 21,
       "stories": [
         {
-          "title": "FURIA vs FaZe / IEM Beijing 2026 - Group A Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlupda/furia_vs_faze_iem_beijing_2026_group_a_upper/",
+          "title": "MOUZ vs TYLOO / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlvasp/mouz_vs_tyloo_iem_beijing_2026_group_b_upper/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-02T11:28:21.000Z",
+          "published": "2026-11-02T12:00:42.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "natus vincere*",
-            "faze",
-            "furia"
-          ]
-        },
-        {
-          "title": "What an insane comeback by Faze vs Furia on map 1",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlsw6k/what_an_insane_comeback_by_faze_vs_furia_on_map_1/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T09:40:32.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "comeback",
-            "faze",
-            "furia",
+            "mouz",
+            "iem",
             "reddit only"
-          ]
-        },
-        {
-          "title": "Furia won against FaZe on dust. Next map cache.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xltt01/furia_won_against_faze_on_dust_next_map_cache/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T10:36:17.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "won",
-            "faze",
-            "furia"
           ]
         },
         {
@@ -147,17 +131,6 @@
           ]
         },
         {
-          "title": "PGL Singapore Major 2026: Every Qualified Team",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-02T11:54:22.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "DHL Recruitment Drive at IEM Beijing After 50,000 Esports Applications",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -166,6 +139,17 @@
           "level": null,
           "why": [
             "iem"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026: All qualified teams",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1djBQdzRDYkQzVGVIMzEtU0FCQjVkTmNtdFpaaHlkZjA0eVR3SXBUSDUzUGNxdEZXaTE5TUdXSFhoRmlscHU4aFE5ck5nZ1NmODlIVGR3Y09UVmdydVdGd3I3WFRGMjUxODBDTW9DUS0zd2xzaFlwRkF3?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-02T09:34:40.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -203,17 +187,6 @@
           ]
         },
         {
-          "title": "m0NESY: \"Maybe sometimes kyousuke overthinks and he thinks that he's forced to say something, to always do something\"",
-          "url": "https://www.hltv.org/news/45873/m0nesy-maybe-sometimes-kyousuke-overthinks-and-he-thinks-that-hes-forced-to-say-something-to-always-do-something",
-          "source": "HLTV news",
-          "published": "2026-11-01T19:10:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
-          ]
-        },
-        {
           "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -233,6 +206,39 @@
           "level": null,
           "why": [
             "donk"
+          ]
+        },
+        {
+          "title": "Toobisie coach made sure the team was well hydrated ahead of their match against NAVI at HyperX Season XIII",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlvvjy/toobisie_coach_made_sure_the_team_was_well/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T12:29:29.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "navi"
+          ]
+        },
+        {
+          "title": "SINNERS announce special Czech-Slovak roster built around oskar",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xltmtt/sinners_announce_special_czechslovak_roster_built/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T10:26:03.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\"",
+          "url": "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
+          "source": "HLTV news",
+          "published": "2026-11-02T08:00:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid*"
           ]
         }
       ]
