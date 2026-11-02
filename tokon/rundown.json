@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T05:30:44.110Z",
+  "generatedAt": "2026-11-02T06:30:43.167Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Marvel Tōkon: Fighting Souls Phoenix Cyclops Character Guide Released",
@@ -17,15 +17,6 @@
             "released",
             "-guide"
           ]
-        },
-        {
-          "title": "Marvel Tokon stories",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YYTFJM3JYY0xjUG1IZUxqeE43Tk5aRVc4T2sxeVc0R3ZnckRwQjV3eHVCcTlBbVZBZnFMbmw3V1AwbHlLdWdlWTFuT2xSdXlPX2xXdDM5cVpPRGpOUjdRVnZXQUw?oc=5",
-          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
-          "published": "2026-11-01T06:19:19.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
