@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T20:30:36.787Z",
+  "generatedAt": "2026-11-02T21:30:38.286Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
@@ -78,7 +78,18 @@
           ]
         },
         {
-          "title": "Marvel Tōkon: Fighting Souls Gets Phoenix and Cyclops With Latest Update",
+          "title": "Marvel Tokon Update Brings Costumes, System Changes, and Fixes",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzRhckJOdUc2RWpXUmllSVJoNGpER3FnOTFhbWZNdjh5c1BmTmNuaUh0R3gzNWxELS0wV0xTV3g1QkRnYzRrNTBQVFFsdW1jQ29McVVUbG5udVVBRUFvRDJIRWZpeGJLWFlQN3Rwci1Ed0ZJLXVuV0ZwZ2J5d1lXOUtHclM2dDR1VGVRWGNSZmpUNW8yYVZN?oc=5",
+          "source": "Google News: EventHubs/Dot/Dashfight (DashFight)",
+          "published": "2026-11-02T19:34:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Marvel Tōkon: Fighting Souls Gets Phoenix Cyclops , Assist Changes in Latest Update",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajdiWUJ2Z1JjU3kyeHFoYkdXbDN5eEJTb3ZCV3l1dEZqTFpJVlVrYXVHdU5qY1NoSTRFTkJIM1h5YV9halZSaUhKMFNZdFpteC1GVzFrS1lMaWtnRlZQWVZ3c1pFdUc4eXZKZ0I4MWpaRFFBaHdvbmRTXzZqNVlqNEJFSW5NNGx4dEJTY1YtQ05lNGNRa3NZd3R3?oc=5",
           "source": "Google News: Tokon (GamingBolt)",
           "published": "2026-11-02T14:54:23.000Z",
@@ -107,6 +118,18 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Marvel Tōkon: Fighting Souls Phoenix Cyclops Character Guide Released",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUUzRG9mYjNnMzM5U0V0T3BFaXdXSU9SN0premFvb3VGZFhIYWl3dUljaWVld2M1X3JPU3JnTXIzOXl6TFppWjZJYnZnT1VlRE91TFgzb2ZNX2Z6NUtXSTdiamc3Y3pVRXQybFd6aDltZVFZZkVNcXBCX0wwMmY0VzlxUWFlOHZKNEpab05vMVk0cWN3RFdWVDFLLUIzUUJqdC1mWg?oc=5",
+          "source": "Google News: Tokon (OpenCritic)",
+          "published": "2026-11-01T23:37:18.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "released",
+            "-guide"
+          ]
         }
       ]
     }
