@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T19:30:42.535Z",
+  "generatedAt": "2026-11-02T20:30:35.664Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Nagoshi Studio officially shuts down",
@@ -29,15 +29,6 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdjhDd0ZSMW5RZ3k2eng1Zk9wM2lZRmFxQXF0S0NoNE9sRTg5Qzc5aXR4eHd3Q0JvbTc0eS1UdWZOMl9OZ3JsbHRCZWFURXhiR1dBaVc1YW9rNzd5MlQ3NXdNZWsyNDRkUUZkN05XNmpMbTZlVEUzOWxtX3NVRGxxTWhBU3JGMlF5elNMV0xKR1dHQQ?oc=5",
           "source": "Google News: Rivals patches (games.gg)",
           "published": "2026-11-01T21:01:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "How to Link Marvel Rivals Accounts Across Platforms",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU5OWEhqY0d0Y0o5VGMtc0lkZzgtUzJlVVJzMEpGNGtUZjRSaUFkbllCaVp5dTN6bVlJNHdpMmtTRjBBVDVGdUpaM2FEUkVXcDFxNzBTN3VibXVTdVVZV2VSa2Ewdm80dGNvei12TWp0aTdNTGltckNoWDlseXBUVlR1Rk1qYmJheE5NSVhGRnBXQndh?oc=5",
-          "source": "Google News: Rivals patches (games.gg)",
-          "published": "2026-11-01T20:11:14.000Z",
           "score": 1,
           "level": null,
           "why": []
