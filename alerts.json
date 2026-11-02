@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T18:25:15.721Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "BetBoom Team Suspend Dota 2 Roster, Move All Five Players to the Bench After Post-TI Slump",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjgxbDVkWHBYaDQxOGcwNE9HSEhhVFJmLTJLOGlYem9ldjlnWDF6TVhMQUY0N1NSLVB5VEhDRFAyTG1mU3F4bmZQWjBGM0lLNldDNzlzWU1LSUVFUUtlOGFXdE5Bb3BKUlVETGlEMy1JMWswV3pVUzc4Q3kxeDRaZE5aX0pMYzdKWjFjdUJqRGJOaTViR1VnX0c3cTZkRVpPTUE?oc=5",
+      "source": "Google News: Dota (RG.org)",
+      "outlets": [
+        "RG.org"
+      ],
+      "score": 6,
+      "why": [
+        "bench",
+        "roster"
+      ],
+      "summary": "",
+      "published": "2026-11-02T18:20:54.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T18:10:27.285Z",
       "level": "possible",
       "scene": "CS2",
