@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T18:00:41.533Z",
+  "generatedAt": "2026-11-02T18:55:27.620Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 11,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -18,6 +18,18 @@
             "record",
             "prize pool",
             "the international"
+          ]
+        },
+        {
+          "title": "BetBoom Team Suspend Dota 2 Roster, Move All Five Players to the Bench After Post-TI Slump",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjgxbDVkWHBYaDQxOGcwNE9HSEhhVFJmLTJLOGlYem9ldjlnWDF6TVhMQUY0N1NSLVB5VEhDRFAyTG1mU3F4bmZQWjBGM0lLNldDNzlzWU1LSUVFUUtlOGFXdE5Bb3BKUlVETGlEMy1JMWswV3pVUzc4Q3kxeDRaZE5aX0pMYzdKWjFjdUJqRGJOaTViR1VnX0c3cTZkRVpPTUE?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-02T18:20:54.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "bench",
+            "roster"
           ]
         },
         {
@@ -44,6 +56,26 @@
           "why": [
             "team spirit"
           ]
+        },
+        {
+          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-01T19:48:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-02T16:46:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
@@ -80,12 +112,23 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-02T12:48:25.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Won my first ever God Match",
@@ -98,17 +141,6 @@
             "the last*",
             "won",
             "first ever"
-          ]
-        },
-        {
-          "title": "Is it cheating if I have extra buttons on my controller?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm1to2/is_it_cheating_if_i_have_extra_buttons_on_my/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T16:27:39.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
           ]
         },
         {
@@ -147,19 +179,19 @@
       "storyCount": 18,
       "stories": [
         {
-          "title": "Natus Vincere vs Falcons / IEM Beijing 2026 - Group A Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlxgb0/natus_vincere_vs_falcons_iem_beijing_2026_group_a/",
+          "title": "Valve Regional Standings (VRS): November 2nd Update",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xm4lhy/valve_regional_standings_vrs_november_2nd_update/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-02T13:40:16.000Z",
+          "published": "2026-11-02T18:06:50.000Z",
           "score": 5.5,
           "level": "possible",
           "why": [
-            "roster*",
+            "update",
             "official*",
-            "niko*",
-            "aleksib*",
-            "m0nesy*",
-            "b1t*"
+            "natus vincere*",
+            "vitality*",
+            "faze*",
+            "g2*"
           ]
         },
         {
@@ -177,14 +209,14 @@
           ]
         },
         {
-          "title": "At IEM Beijing 2026, tournament organizers replaced the skull icons used to indicate dead players in the HUD with X marks due to Chinese censorship restrictions.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlsjyo/at_iem_beijing_2026_tournament_organizers/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T09:18:29.000Z",
+          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-02T14:00:54.000Z",
           "score": 5,
-          "level": "possible",
+          "level": null,
           "why": [
-            "replaced",
+            "navi",
             "iem"
           ]
         },
@@ -237,6 +269,19 @@
           ]
         },
         {
+          "title": "Brazil Pulls the Plug: What the Betting Ban Means for FURIA, MIBR and CS2 Bettors",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEEyY2prUHdDNm9rR3hfc2w0S2xjLUFPbDRjc3g4VVlZSlpfLWhVUXdmVmNodFJwUWh2dDVCUFpOQ3ZMRXQ1d2NEZVpRcmxlazJVWHk0RzM3TFJGUENEbWsyM3g2by03RmdDbnVrdnlZZ3o0UHZ4T0U1Nk1VQ28xY0RSc0ZuLXp4dXBXQUROX3ptZ3JyTGc?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-02T07:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ban",
+            "furia",
+            "-betting"
+          ]
+        },
+        {
           "title": "The best highlights from IEM Beijing group stage",
           "url": "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
           "source": "HLTV news",
@@ -270,44 +315,67 @@
           ]
         },
         {
-          "title": "IEM Beijing 2026 Day 2 Matchups",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xly1s0/iem_beijing_2026_day_2_matchups/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T14:04:22.000Z",
+          "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\"",
+          "url": "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
+          "source": "HLTV news",
+          "published": "2026-11-02T08:00:00.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "Toobisie coach made sure the team was well hydrated ahead of their match against NAVI at HyperX Season XIII",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlvvjy/toobisie_coach_made_sure_the_team_was_well/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T12:29:29.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "navi"
+            "liquid*"
           ]
         }
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 3,
+      "scene": "Brood War",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Returning to Ranked after a long hiatus",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xly5gp/returning_to_ranked_after_a_long_hiatus/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-02T14:08:33.000Z",
-          "score": 3,
+          "title": "Soulkey Needs to play ASL as Random",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xm5vu3/soulkey_needs_to_play_asl_as_random/",
+          "source": "r/broodwar",
+          "published": "2026-11-02T18:51:57.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "hiatus"
+            "asl",
+            "flash*",
+            "soulkey"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Melee has a new Results Generator tool! Supports Top 8 to Top 32, custom aspect ratios, auto-selects theme from banner image / tourney logo & player costume colors, and toggle-able stats from Lucky Stats!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xm4nnx/melee_has_a_new_results_generator_tool_supports/",
+          "source": "r/SSBM",
+          "published": "2026-11-02T18:08:55.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "zain*"
           ]
         },
+        {
+          "title": "I Gave NBA Players a Super Smash Bros. Melee Main",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbV82eHlmWlQzNVZTYVl2RHhpenQ3eU1vU2JaS1R2U2ItVGtManFvSk9DR1gtQVB4Uk5XYS1tMmdOOXJNc1pqWm51NGRjbXBzNElYYkxMdkF1aU12?oc=5",
+          "source": "Google News: Melee (YouTube)",
+          "published": "2026-11-02T01:21:10.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
         {
           "title": "Pro Street Fighter 6 player qualifies for Capcom Cup 13 using Arjun just a few weeks after character's release",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vdEw1Qk5MOWtJYTVjZEpkTzBiM0pKZVI2VVdmekVBMTE1SDdWbUpaWDFKUUZ6N2plc3RxTW1IbW9uWkxVcGlIWThadGJxV2ZqVjNQSU9wdXNIcW4zYjQ0aG1wZTNJUGpqNDdYY1ltM2JwZw?oc=5",
@@ -323,21 +391,6 @@
           "source": "r/StreetFighter",
           "published": "2026-11-02T15:15:49.000Z",
           "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "I Gave NBA Players a Super Smash Bros. Melee Main",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbV82eHlmWlQzNVZTYVl2RHhpenQ3eU1vU2JaS1R2U2ItVGtManFvSk9DR1gtQVB4Uk5XYS1tMmdOOXJNc1pqWm51NGRjbXBzNElYYkxMdkF1aU12?oc=5",
-          "source": "Google News: Melee (YouTube)",
-          "published": "2026-11-02T01:21:10.000Z",
-          "score": 1,
           "level": null,
           "why": []
         }
@@ -364,7 +417,6 @@
   "quiet": [
     "AoE2",
     "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
