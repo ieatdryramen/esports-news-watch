@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T11:30:41.061Z",
+  "generatedAt": "2026-11-02T12:30:38.930Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Patch Update - 2 November 2026",
@@ -28,6 +28,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "【MARVEL Fighting Souls】 Phoenix, Cyclops, and Deadpool Dialogue Collection | MARVEL Fighting Soul...",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWZWZ3bG1TUjNndGhhOTF0cVVCbVpBN09wLUJNenRSdk9wRFJBVERpYXZaTkRvY1k5MHdmWVk3bUpvZ1NuYzA0VjFlNS1EUjdnQXVtdDJMelRjem8y?oc=5",
+          "source": "Google News: Tokon (YouTube)",
+          "published": "2026-11-02T11:13:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Tōkon: Fighting Souls Phoenix Cyclops Character Guide Released",
