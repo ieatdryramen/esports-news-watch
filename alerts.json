@@ -1,6 +1,45 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T09:45:30.426Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "FaZe win 11 rounds in a row to comeback from a 11-2 deficit against Furia",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlswb0/faze_win_11_rounds_in_a_row_to_comeback_from_a/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "comeback",
+        "faze",
+        "furia",
+        "reddit only"
+      ],
+      "summary": "FaZe playing Fissure, Stake, Roman, Draculan and RLG Tesla all in a row was not a humiliation ritual or a fall from grace. It was the equivalent of Batman getting trained by Tibetan monks. submitted by /u/Embarrassed_Buy4535 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-02T09:40:41.000Z"
+    },
+    {
+      "alertedAt": "2026-11-02T09:45:30.426Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Faze won 11 consecutive CT side, taking Map 1 against Furia",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlsxd3/faze_won_11_consecutive_ct_side_taking_map_1/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "won",
+        "faze",
+        "furia"
+      ],
+      "summary": "Faze overcame painful T side from 2:11 to 13:11, winning map 1. submitted by /u/SunTany to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-02T09:42:35.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T09:40:20.203Z",
       "level": "possible",
       "scene": "CS2",
