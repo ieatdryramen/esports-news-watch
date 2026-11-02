@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T19:55:20.734Z",
+  "generatedAt": "2026-11-02T20:55:19.195Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -45,6 +45,17 @@
           ]
         },
         {
+          "title": "BetBoom moves entire roster to enactive as it pauses its Dota 2 project",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xSHozVFgxTGJOWlFvYnozcXUwOHVvaTR3bUZWZWRSWklxbFJ3bkYxWDJmTzZrcHpKWlhCX2k3WTNuTVFIaFRpR3ZwRXBOV0ZYbTk3MnFkUm5FVGdvMUtLOS1IVQ?oc=5",
+          "source": "Google News: Dota (WIN.GG)",
+          "published": "2026-11-02T20:22:32.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
           "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
           "url": "https://esports.gg/news/dota-2/team-spirit-defeat-team-yandex-to-win-dota-2-pari-universe/",
           "source": "esports.gg",
@@ -59,7 +70,7 @@
           "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-02T16:46:27.000Z",
+          "published": "2026-11-02T19:52:30.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -83,10 +94,19 @@
           "why": []
         },
         {
-          "title": "Posting my reworks until we get a patch #4 - Luna",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xm0y8y/posting_my_reworks_until_we_get_a_patch_4_luna/",
+          "title": "Patch, Valve!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xm8cac/patch_valve/",
           "source": "r/DotA2",
-          "published": "2026-11-02T15:55:45.000Z",
+          "published": "2026-11-02T20:21:25.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "High Divine bracket is unbearable",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xm7qlm/high_divine_bracket_is_unbearable/",
+          "source": "r/DotA2",
+          "published": "2026-11-02T19:59:34.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -156,19 +176,21 @@
           ]
         },
         {
-          "title": "Let's say season three is the final season of DLC for Tekken 8. Would Yujiro be a good character to end the game with?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm0uc9/lets_say_season_three_is_the_final_season_of_dlc/",
+          "title": "Steve's pretty good, but he's the worst tournament pick.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm8x66/steves_pretty_good_but_hes_the_worst_tournament/",
           "source": "r/Tekken",
-          "published": "2026-11-02T15:51:46.000Z",
-          "score": 0,
+          "published": "2026-11-02T20:43:28.000Z",
+          "score": 1,
           "level": null,
-          "why": []
+          "why": [
+            "roster*"
+          ]
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 17,
       "stories": [
         {
           "title": "Valve Regional Standings (VRS): November 2nd Update",
@@ -201,6 +223,18 @@
           ]
         },
         {
+          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-02T14:00:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
+            "iem"
+          ]
+        },
+        {
           "title": "Liquid crush Aurora in IEM Beijing opener",
           "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
           "source": "HLTV news",
@@ -210,6 +244,17 @@
           "why": [
             "liquid",
             "iem"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore race as it happened",
+          "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
+          "source": "HLTV news",
+          "published": "2026-11-02T20:47:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -232,6 +277,19 @@
           "level": null,
           "why": [
             "iem"
+          ]
+        },
+        {
+          "title": "Brazil Pulls the Plug: What the Betting Ban Means for FURIA, MIBR and CS2 Bettors",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEEyY2prUHdDNm9rR3hfc2w0S2xjLUFPbDRjc3g4VVlZSlpfLWhVUXdmVmNodFJwUWh2dDVCUFpOQ3ZMRXQ1d2NEZVpRcmxlazJVWHk0RzM3TFJGUENEbWsyM3g2by03RmdDbnVrdnlZZ3o0UHZ4T0U1Nk1VQ28xY0RSc0ZuLXp4dXBXQUROX3ptZ3JyTGc?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-02T07:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ban",
+            "furia",
+            "-betting"
           ]
         },
         {
@@ -278,43 +336,25 @@
             "official*",
             "navi*"
           ]
-        },
-        {
-          "title": "IEM Beijing 2026 Day 1 Results and Day 2 Schedule",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnV0ekc1UXZpMWdPRWxqUjlVbF9saHpqVTJaemVKS0lMRHFzRlRiZFVjZENHbFgzZ2tzaENoWGN3Q1BPOTU5YXI0VHk5V0E0S3E5RWNRZTdqNXVvYnJnTDlEMjhtbmVCTGFKWTJkWHUyaDhDeG5BQm45YzVJTGl3TVJsSGw5SjgwNXBVbDFJNA?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-02T14:23:04.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "iem",
-            "-schedule"
-          ]
-        },
-        {
-          "title": "Introducing the advanced stats tab",
-          "url": "https://www.hltv.org/news/45885/introducing-the-advanced-stats-tab",
-          "source": "HLTV news",
-          "published": "2026-11-02T12:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "dastan: \"I worked on myself not to show a bad mood\"",
-          "url": "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
-          "source": "HLTV news",
-          "published": "2026-11-02T11:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Brood War",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "How SKT1 S-Tiers Felt To Be Swept By Flash On ProLeague",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xm84nj/how_skt1_stiers_felt_to_be_swept_by_flash_on/",
+          "source": "r/broodwar",
+          "published": "2026-11-02T20:13:30.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "proleague",
+            "flash"
+          ]
+        },
         {
           "title": "Soulkey Needs to play ASL as Random",
           "url": "https://www.reddit.com/r/broodwar/comments/1xm5vu3/soulkey_needs_to_play_asl_as_random/",
@@ -331,9 +371,37 @@
       ]
     },
     {
-      "scene": "CoD",
+      "scene": "AoE2",
       "storyCount": 1,
       "stories": [
+        {
+          "title": "Has chicken arena been removed with the norse patch?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xm7qyy/has_chicken_arena_been_removed_with_the_norse/",
+          "source": "r/aoe2",
+          "published": "2026-11-02T19:59:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "G2 putting their roster together",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xm7x5n/g2_putting_their_roster_together/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-02T20:05:47.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
         {
           "title": "G2 Minnesota Announce 2027 CDL Roster",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xm6fkf/g2_minnesota_announce_2027_cdl_roster/",
@@ -375,7 +443,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "I need yall advice on this simple matter. Black and blue are my fav colors and I ABSOLUTELY LOVE THIS SEASON SKINS. Should I grind who I have in master first or grind the characters I don’t have in master ?",
@@ -385,21 +453,11 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Ken Masters Art - From Sketch to Final Illustration",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xlzvxu/ken_masters_art_from_sketch_to_final_illustration/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-02T15:15:49.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
