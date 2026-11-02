@@ -1,6 +1,36 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T18:10:27.285Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Valve Regional Standings (VRS): November 2nd Update",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xm4lhy/valve_regional_standings_vrs_november_2nd_update/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "HLTV news",
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "update",
+        "official*",
+        "natus vincere*",
+        "vitality*",
+        "faze*",
+        "g2*",
+        "spirit*",
+        "mouz*",
+        "astralis*",
+        "liquid*",
+        "furia*",
+        "blast*",
+        "pgl*"
+      ],
+      "summary": "The Official Valve Regional Standings has been updated. This is different from the Live HLTV VRS Ranking . The official ranking is only updated once per month, does not include ongoing events, and decides invites and seeding for events. This ranking will decide invites for PGL Major Singapore 2026, BLAST Bounty Winter 2027, PGL Cluj-Napoca 2027, as well as many other tier 2 events. Top 30 Rank Name Diff Invites 1 MOUZ +3 BLAST Bounty, PGL Cluj-Napoca 2 Vitality +1 BLAST Bounty, PGL Cluj-Napoca 3 FURIA +4 BLAST Bounty, PGL Cluj-Napoca 4 Aurora +5 BLAST Bounty, PGL Cluj-Napoca 5 Spirit -4 BLAST Bounty, PGL Cluj-Napoca 6 BB +5 BLAST Bounty, PGL Cluj-Napoca 7 Falcons -1 BLAST Bounty, PGL Cluj-Napoca 8 FUT 0 BLAST Bounty, PGL Cluj-Napoca 9 Legacy -7 BLAST Bounty, PGL Cluj-Napoca 10 Nemiga +4 BLAST Bounty, PGL Cluj-Napoca 11 G2 -6 BLAST Bounty, PGL Cluj-Napoca 12 1W +26 BLAST Bounty, PGL Cluj-Napoca 13 Natus Vincere +21 PGL Cluj-Napoca 14 Astralis -4 PGL Cluj-Napoca 15 Ninjas in Pyjamas +3 16 VISION +20 17 The MongolZ +32 18 HEROIC -3 19 MIBR -7 20 FaZe +6 21 Liquid -2 22 Eternal Fire +11 23 100 Thieves +5 24 9z -7 25 M80 -3 26 HOTU +5 27 Fnatic +8 28 B8 -15 29 DENDELE +10 30 Inner Circle -10 Europe Top 30: Rank Name Diff Invites 1 MOUZ PGL Major S3 2 Vitality PGL Major S3 3 Aurora PGL Major S3 4 Spirit PGL Major S3 5 BB PGL Major S3 6 Falcons PGL Major S3 7 FUT PGL Major S2 8 Nemiga PGL Major S2 9 G2 PGL Major S2 10 1W PGL Major S2 11 Natus Vincere PGL Major S2 12 Astralis PGL Maj",
+      "published": "2026-11-02T18:06:50.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T17:40:20.587Z",
       "level": "possible",
       "scene": "Tekken",
