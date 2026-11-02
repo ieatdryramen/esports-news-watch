@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-02T13:30:47.676Z",
+  "generatedAt": "2026-11-02T14:30:45.073Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
       "storyCount": 6,
       "stories": [
+        {
+          "title": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
+          "url": "https://www.pushsquare.com/news/2026/11/phoenix-cyclops-is-available-now-as-marvel-tokon-receives-major-ps5-patch",
+          "source": "Push Square",
+          "published": "2026-11-02T14:15:00.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "update*",
+            "joins*",
+            "dlc*",
+            "dlc character*"
+          ]
+        },
         {
           "title": "Marvel Tokon November 2 2026 Patch Notes",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOei1FRThGOUxrd3hjc2RyeTRsa09NMHN6M21GcHNpaWRxczlXeGJ1bzBnVTZkdE1LSmFyeVlqV3o0YzZBSEQxU0dKREY4TkhyN042bGtoVklzT01QcUVCUFgwREpHOFRaaERiOVMwUTdhNURNbTN1RWRTSVRpRWlHdURVWFNEcDhTM1ZwZVFOcHc5MzFMN0JaVzFB?oc=5",
@@ -15,17 +29,6 @@
           "level": null,
           "why": [
             "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1FZa3I4WkFTMjAycEZ6YzFZWThkOWlyUllxOXh0Uzc4RjMtSGFUQ3lpaEFXUmRJX1FWbTNrVVFvdTllTWdTYUx3S3IydWI1WTJQV0Q2WnlvbFA2UGIwOHZjeFBfUVpMRi15N2ZBUjNlNnN5VGdPS0FFV1VrcVZWQ0pTZVI1alkwMmdWLUc5WUtLQjN3N2ZGTFFNQ1pKRmNkcWZN?oc=5",
-          "source": "Google News: Tokon (TechJuice)",
-          "published": "2026-11-02T07:10:57.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "dlc"
           ]
         },
         {
