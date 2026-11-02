@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T11:45:25.481Z",
+  "generatedAt": "2026-11-02T12:00:41.708Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -89,7 +89,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 26,
+      "storyCount": 25,
       "stories": [
         {
           "title": "FURIA vs FaZe / IEM Beijing 2026 - Group A Upper Bracket Quarter-Final / Post-Match Discussion",
@@ -105,20 +105,6 @@
             "natus vincere*",
             "faze",
             "furia"
-          ]
-        },
-        {
-          "title": "FaZe win 11 rounds in a row to comeback from a 11-2 deficit against Furia",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlswb0/faze_win_11_rounds_in_a_row_to_comeback_from_a/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T09:40:41.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "comeback",
-            "faze",
-            "furia",
-            "reddit only"
           ]
         },
         {
@@ -149,19 +135,6 @@
           ]
         },
         {
-          "title": "Faze won 11 consecutive CT side, taking Map 1 against Furia",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlsxd3/faze_won_11_consecutive_ct_side_taking_map_1/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T09:42:35.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "won",
-            "faze",
-            "furia"
-          ]
-        },
-        {
           "title": "Liquid crush Aurora in IEM Beijing opener",
           "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
           "source": "HLTV news",
@@ -174,6 +147,17 @@
           ]
         },
         {
+          "title": "PGL Singapore Major 2026: Every Qualified Team",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-02T11:54:22.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "DHL Recruitment Drive at IEM Beijing After 50,000 Esports Applications",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -182,17 +166,6 @@
           "level": null,
           "why": [
             "iem"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026: All qualified teams",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1djBQdzRDYkQzVGVIMzEtU0FCQjVkTmNtdFpaaHlkZjA0eVR3SXBUSDUzUGNxdEZXaTE5TUdXSFhoRmlscHU4aFE5ck5nZ1NmODlIVGR3Y09UVmdydVdGd3I3WFRGMjUxODBDTW9DUS0zd2xzaFlwRkF3?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-02T09:34:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -238,6 +211,28 @@
           "level": null,
           "why": [
             "m0nesy"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-01T16:36:50.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "dem0n overtakes donk as FACEIT’s highest-rated player",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VVVVYVk5nUHl4OE53SFpSb3A5Mm91a3RXZ3hNbHdrYmpDM0RjOGh3OGtDcHQ4aXFzbVVRUjA1czU1MmN6Q2EwM3k2QXJKY2ZZTkVuTnl1cGVzUFhWWWtfWTEzTVJ6NDRJUWt4S2FQOW1pMVh3UjRpb3BSMkJVQQ?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-01T13:11:54.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "donk"
           ]
         }
       ]
