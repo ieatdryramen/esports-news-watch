@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T16:00:41.402Z",
+  "generatedAt": "2026-11-02T17:00:41.758Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -39,17 +39,6 @@
           "url": "https://esports.gg/news/dota-2/team-spirit-defeat-team-yandex-to-win-dota-2-pari-universe/",
           "source": "esports.gg",
           "published": "2026-11-02T02:42:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-01T19:48:49.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -107,7 +96,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 21,
       "stories": [
         {
           "title": "MOUZ vs TYLOO / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
@@ -187,7 +176,7 @@
           ]
         },
         {
-          "title": "DHL Recruitment Drive at IEM Beijing After 50,000 Esports Applications",
+          "title": "DHL Brings Its Recruitment Drive to IEM Beijing After 50,000 Esports Applications",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-02T10:43:06.000Z",
@@ -195,18 +184,6 @@
           "level": null,
           "why": [
             "iem"
-          ]
-        },
-        {
-          "title": "Major grand final start time",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlr9gw/major_grand_final_start_time/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T07:54:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "grand final",
-            "pgl*"
           ]
         },
         {
@@ -245,11 +222,24 @@
           ]
         },
         {
-          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-01T16:36:50.000Z",
-          "score": 3,
+          "title": "Semi Annual New vs Old logos of the 32 qualified major teams post (Singapore Major)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlzswo/semi_annual_new_vs_old_logos_of_the_32_qualified/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T15:12:47.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "official*",
+            "navi*",
+            "liquid*"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 Day 2 Matchups",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xly1s0/iem_beijing_2026_day_2_matchups/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T14:04:22.000Z",
+          "score": 2,
           "level": null,
           "why": [
             "iem"
@@ -259,8 +249,19 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Is it cheating if I have extra buttons on my controller?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm1to2/is_it_cheating_if_i_have_extra_buttons_on_my/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T16:27:39.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
+          ]
+        },
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
@@ -294,7 +295,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Returning to Ranked after a long hiatus",
@@ -312,15 +313,6 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vdEw1Qk5MOWtJYTVjZEpkTzBiM0pKZVI2VVdmekVBMTE1SDdWbUpaWDFKUUZ6N2plc3RxTW1IbW9uWkxVcGlIWThadGJxV2ZqVjNQSU9wdXNIcW4zYjQ0aG1wZTNJUGpqNDdYY1ltM2JwZw?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-01T19:44:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-01T16:58:00.000Z",
           "score": 1,
           "level": null,
           "why": []
