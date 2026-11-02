@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T18:55:27.620Z",
+  "generatedAt": "2026-11-02T19:55:20.734Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 9,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -21,6 +21,18 @@
           ]
         },
         {
+          "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KelRZSWNMa09TMi1DWnZCMzF0SGVDaUV5Tks1QThuUU5tRk9Ta0YxaGo0bTk5aTdwb2tRdzUtdkg3SThybkFVcVVIVHkzb2Z2ZWJ5ZVhQUDJ2VFg5eDdOanQ5ZWVjLUM3c0locXNXNEFLMTlJS05FQm1B?oc=5",
+          "source": "Google News: Dota (Dot Esports)",
+          "published": "2026-11-02T19:25:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "roster",
+            "inactive"
+          ]
+        },
+        {
           "title": "BetBoom Team Suspend Dota 2 Roster, Move All Five Players to the Bench After Post-TI Slump",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjgxbDVkWHBYaDQxOGcwNE9HSEhhVFJmLTJLOGlYem9ldjlnWDF6TVhMQUY0N1NSLVB5VEhDRFAyTG1mU3F4bmZQWjBGM0lLNldDNzlzWU1LSUVFUUtlOGFXdE5Bb3BKUlVETGlEMy1JMWswV3pVUzc4Q3kxeDRaZE5aX0pMYzdKWjFjdUJqRGJOaTViR1VnX0c3cTZkRVpPTUE?oc=5",
           "source": "Google News: Dota (RG.org)",
@@ -33,35 +45,10 @@
           ]
         },
         {
-          "title": "Why This Version of Team Spirit Might Be Scarier Than Their Previous Championship Rosters",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlztnt/why_this_version_of_team_spirit_might_be_scarier/",
-          "source": "r/DotA2",
-          "published": "2026-11-02T15:13:35.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "wins*",
-            "team spirit",
-            "yatoro*",
-            "collapse*"
-          ]
-        },
-        {
           "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
           "url": "https://esports.gg/news/dota-2/team-spirit-defeat-team-yandex-to-win-dota-2-pari-universe/",
           "source": "esports.gg",
           "published": "2026-11-02T02:42:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-01T19:48:49.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -105,15 +92,6 @@
           "why": []
         },
         {
-          "title": "Halloween costume idea - Dota 2 player on patch 7.41.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xlzvdn/halloween_costume_idea_dota_2_player_on_patch_741/",
-          "source": "r/DotA2",
-          "published": "2026-11-02T15:15:14.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -128,7 +106,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Won my first ever God Match",
@@ -141,6 +119,29 @@
             "the last*",
             "won",
             "first ever"
+          ]
+        },
+        {
+          "title": "When Tekken 6 released players hated that Jin Kazama became the villain of the series Harada said fans “weren’t happy with Jin being almost a villain” which possibly shifted Jin’s story to be about regret and redemption for the next 2 games",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm6gmn/when_tekken_6_released_players_hated_that_jin/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T19:12:25.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "released",
+            "harada"
+          ]
+        },
+        {
+          "title": "Is it cheating if I have extra buttons on my controller?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm5zoy/is_it_cheating_if_i_have_extra_buttons_on_my/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T18:55:37.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
           ]
         },
         {
@@ -162,21 +163,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Does the T8 DLC content after get discounted on PlayStation Store?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xlzfos/does_the_t8_dlc_content_after_get_discounted_on/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T14:59:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Valve Regional Standings (VRS): November 2nd Update",
@@ -188,10 +180,10 @@
           "why": [
             "update",
             "official*",
-            "natus vincere*",
             "vitality*",
-            "faze*",
-            "g2*"
+            "g2*",
+            "spirit*",
+            "mouz*"
           ]
         },
         {
@@ -209,18 +201,6 @@
           ]
         },
         {
-          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-02T14:00:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
-            "iem"
-          ]
-        },
-        {
           "title": "Liquid crush Aurora in IEM Beijing opener",
           "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
           "source": "HLTV news",
@@ -230,20 +210,6 @@
           "why": [
             "liquid",
             "iem"
-          ]
-        },
-        {
-          "title": "Semi Annual New vs Old logos of the 32 qualified major teams post (Singapore Major)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlzswo/semi_annual_new_vs_old_logos_of_the_32_qualified/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T15:12:47.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "official*",
-            "navi*",
-            "mouz*",
-            "liquid*"
           ]
         },
         {
@@ -269,19 +235,6 @@
           ]
         },
         {
-          "title": "Brazil Pulls the Plug: What the Betting Ban Means for FURIA, MIBR and CS2 Bettors",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEEyY2prUHdDNm9rR3hfc2w0S2xjLUFPbDRjc3g4VVlZSlpfLWhVUXdmVmNodFJwUWh2dDVCUFpOQ3ZMRXQ1d2NEZVpRcmxlazJVWHk0RzM3TFJGUENEbWsyM3g2by03RmdDbnVrdnlZZ3o0UHZ4T0U1Nk1VQ28xY0RSc0ZuLXp4dXBXQUROX3ptZ3JyTGc?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-02T07:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban",
-            "furia",
-            "-betting"
-          ]
-        },
-        {
           "title": "The best highlights from IEM Beijing group stage",
           "url": "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
           "source": "HLTV news",
@@ -304,17 +257,6 @@
           ]
         },
         {
-          "title": "After S9 placements, 19 y/o dem0n sat 560 Elo behind donk. Since Saturday they’ve traded #1, with dem0n setting the season’s highest Elo peak at 5,359",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xm2yul/after_s9_placements_19_yo_dem0n_sat_560_elo/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T17:09:16.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "donk"
-          ]
-        },
-        {
           "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\"",
           "url": "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
           "source": "HLTV news",
@@ -324,6 +266,48 @@
           "why": [
             "liquid*"
           ]
+        },
+        {
+          "title": "Reupload - Semi Annual New vs Old logos of the 32 qualified major teams post (Singapore Major)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xm76o3/reupload_semi_annual_new_vs_old_logos_of_the_32/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T19:38:58.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "official*",
+            "navi*"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 Day 1 Results and Day 2 Schedule",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnV0ekc1UXZpMWdPRWxqUjlVbF9saHpqVTJaemVKS0lMRHFzRlRiZFVjZENHbFgzZ2tzaENoWGN3Q1BPOTU5YXI0VHk5V0E0S3E5RWNRZTdqNXVvYnJnTDlEMjhtbmVCTGFKWTJkWHUyaDhDeG5BQm45YzVJTGl3TVJsSGw5SjgwNXBVbDFJNA?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-02T14:23:04.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "iem",
+            "-schedule"
+          ]
+        },
+        {
+          "title": "Introducing the advanced stats tab",
+          "url": "https://www.hltv.org/news/45885/introducing-the-advanced-stats-tab",
+          "source": "HLTV news",
+          "published": "2026-11-02T12:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "dastan: \"I worked on myself not to show a bad mood\"",
+          "url": "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
+          "source": "HLTV news",
+          "published": "2026-11-02T11:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -342,6 +326,23 @@
             "asl",
             "flash*",
             "soulkey"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "G2 Minnesota Announce 2027 CDL Roster",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xm6fkf/g2_minnesota_announce_2027_cdl_roster/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-02T19:11:20.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
           ]
         }
       ]
@@ -377,11 +378,11 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "Pro Street Fighter 6 player qualifies for Capcom Cup 13 using Arjun just a few weeks after character's release",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vdEw1Qk5MOWtJYTVjZEpkTzBiM0pKZVI2VVdmekVBMTE1SDdWbUpaWDFKUUZ6N2plc3RxTW1IbW9uWkxVcGlIWThadGJxV2ZqVjNQSU9wdXNIcW4zYjQ0aG1wZTNJUGpqNDdYY1ltM2JwZw?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-01T19:44:50.000Z",
-          "score": 1,
+          "title": "I need yall advice on this simple matter. Black and blue are my fav colors and I ABSOLUTELY LOVE THIS SEASON SKINS. Should I grind who I have in master first or grind the characters I don’t have in master ?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xm6u9h/i_need_yall_advice_on_this_simple_matter_black/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-02T19:26:30.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -393,23 +394,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Modern Warfare 4 Initial Competitive Multiplayer Grade Results",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xlyhq3/modern_warfare_4_initial_competitive_multiplayer/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-02T14:21:54.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "history*"
-          ]
         }
       ]
     }
