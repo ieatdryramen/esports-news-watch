@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T08:55:19.128Z",
+  "generatedAt": "2026-11-02T09:51:41.848Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 8,
       "stories": [
         {
           "title": "It is time for another Cheater banwave.",
@@ -43,6 +43,28 @@
           ]
         },
         {
+          "title": "Team Spirit End Team Yandex’s Reign With 3-0 Sweep To Win PARI Universe",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHhVcDI3d3dRdHJrTzl1ZTFEejdHYU9NeVVoLTdLXzZ1RHp2dDVGQ2xSckZqVGFxN2RLeGg3Rk9HNmU0UzRrRFlCWXozRUJoX3dzYlY0X0RQOEJFMk1sa3pTZU1kb1hhWElUYlFUbi1yRDBUWUFVSHUzVU5aQWhBNXJTRHY1c1pEWHEzbUNRT0owTjM0cFNubXRsY2V4djN5ekxhQkt5bTQ1QQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-01T19:48:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Malr1ne explains why MiCke missed match against Team Spirit",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDBzRzJoWGJLQmVoMm1waTFRMFFoaS1pN0FQbjltMVE1cmlTN2FINVNYQWZZRzkxcmt4aV9zOGJyd3RnTDNzN2o1aG5EUDlCbEhhcWtYSTd4S3hBNXdiRVhvT0tzSmR5Q1ZGQXUwX1dLUDRZWllCOW44Z2UwSHhPRnM0bjFJaC10aXZRVlhrOHdaSHR4UzdRazFwOUpuM2h4c01Ud0xn?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-01T15:37:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
           "title": "Modern Dota 2 Update: Treant Protector cannot lose while alive",
           "url": "https://www.reddit.com/r/DotA2/comments/1xln210/modern_dota_2_update_treant_protector_cannot_lose/",
           "source": "r/DotA2",
@@ -61,12 +83,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Yandex vs. Spirit Set for PARI Universe Dota 2 Final",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHVTY0VBcWpBbW9vb3YwZTBTY0YzdmgxZ3JRejJoR01HeXVSX0dPMF8yOGlGN3BmSlZleXdzSHNUVGZpTDNYYlVBSDNQN1pUa0wxd0JWeXMzc3VDb1VxcUxDSWgxbTVRVUdIQ1d5eDczb3RCank0dno3djdJak1fYVc3YW10UGRsZVR3dF8yNHVISU9YdThhVFlocHZBamhwNW5FTw?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-01T12:52:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 22,
       "stories": [
         {
           "title": "VISION vs G2 / IEM Beijing 2026 - Group B Upper Bracket Quarter-Final / Post-Match Discussion",
@@ -82,6 +113,47 @@
             "g2",
             "liquid*",
             "iem"
+          ]
+        },
+        {
+          "title": "FaZe win 11 rounds in a row to comeback from a 11-2 deficit against Furia",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlswb0/faze_win_11_rounds_in_a_row_to_comeback_from_a/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T09:40:41.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "comeback",
+            "faze",
+            "furia",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "What an insane comeback by Faze vs Furia on map 1",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlsw6k/what_an_insane_comeback_by_faze_vs_furia_on_map_1/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T09:40:32.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "comeback",
+            "faze",
+            "furia",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "Faze won 11 consecutive CT side, taking Map 1 against Furia",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xlsxd3/faze_won_11_consecutive_ct_side_taking_map_1/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-02T09:42:35.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "won",
+            "faze",
+            "furia"
           ]
         },
         {
@@ -106,6 +178,17 @@
           "why": [
             "returns",
             "iem"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026: All qualified teams",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1djBQdzRDYkQzVGVIMzEtU0FCQjVkTmNtdFpaaHlkZjA0eVR3SXBUSDUzUGNxdEZXaTE5TUdXSFhoRmlscHU4aFE5ck5nZ1NmODlIVGR3Y09UVmdydVdGd3I3WFRGMjUxODBDTW9DUS0zd2xzaFlwRkF3?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-02T09:33:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -163,50 +246,6 @@
           "why": [
             "iem"
           ]
-        },
-        {
-          "title": "dem0n overtakes donk as FACEIT’s highest-rated player",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VVVVYVk5nUHl4OE53SFpSb3A5Mm91a3RXZ3hNbHdrYmpDM0RjOGh3OGtDcHQ4aXFzbVVRUjA1czU1MmN6Q2EwM3k2QXJKY2ZZTkVuTnl1cGVzUFhWWWtfWTEzTVJ6NDRJUWt4S2FQOW1pMVh3UjRpb3BSMkJVQQ?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-01T13:11:54.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "donk"
-          ]
-        },
-        {
-          "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\"",
-          "url": "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
-          "source": "HLTV news",
-          "published": "2026-11-02T08:00:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "liquid*"
-          ]
-        },
-        {
-          "title": "LAG vs NuTorious / NSTLGA Texas Open 2026 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xljijs/lag_vs_nutorious_nstlga_texas_open_2026_grand/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T00:51:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand final"
-          ]
-        },
-        {
-          "title": "Released a horror themed rush gamemode map called Nightmare",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xljh4i/released_a_horror_themed_rush_gamemode_map_called/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T00:49:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
         }
       ]
     },
@@ -224,6 +263,23 @@
           "why": [
             "banned",
             "update*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-02T06:27:13.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
           ]
         }
       ]
@@ -259,18 +315,6 @@
       "storyCount": 3,
       "stories": [
         {
-          "title": "Congratulations to the winners of Melee Doubles at Tipped Off 17: Haunted",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xlklt2/congratulations_to_the_winners_of_melee_doubles/",
-          "source": "r/SSBM",
-          "published": "2026-11-02T01:44:18.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "eliminated*",
-            "hungrybox*"
-          ]
-        },
-        {
           "title": "ZAIN INSANE CROSS STAGE 0 TO DEATH ON JOSHMAN",
           "url": "https://www.reddit.com/r/SSBM/comments/1xll54a/zain_insane_cross_stage_0_to_death_on_joshman/",
           "source": "r/SSBM",
@@ -289,23 +333,15 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Faze vs M8s Scrim results. 8-1 M8s",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xljugv/faze_vs_m8s_scrim_results_81_m8s/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-02T01:06:58.000Z",
-          "score": 2,
+          "title": "Congratulations to the winner of Melee Singles at Tipped Off 17: Haunted!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xlo97m/congratulations_to_the_winner_of_melee_singles_at/",
+          "source": "r/SSBM",
+          "published": "2026-11-02T04:53:20.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "faze"
-          ]
+          "why": []
         }
       ]
     }
@@ -315,8 +351,8 @@
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
