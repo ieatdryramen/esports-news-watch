@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-02T16:50:25.718Z",
+      "level": "possible",
+      "scene": "Marvel Tokon",
+      "title": "Phoenix Cyclops compatibility patch notes released for Marvel Tokon: Fighting Souls",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnpUenl4dFhmWnM4YlRuSXFKMGxUZVUtM3YtNWE5MFdZeF9QcjVFNXQ4TDN0U3hJZFIxYTZCbFdtX2pUclR6djRIZUxialNKVlo1V0phMVctRWhxblNnMHptM2hvYkFZVFN0ZDdyS3NxQmdUc0psdVJrMTRNWWJBWWhJZjNvQTNaRFFOVWNB?oc=5",
+      "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
+      "outlets": [
+        "EventHubs"
+      ],
+      "score": 6,
+      "why": [
+        "released",
+        "patch notes"
+      ],
+      "summary": "",
+      "published": "2026-11-02T16:36:49.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T16:10:31.127Z",
       "level": "breaking",
       "scene": "Marvel Tokon",
