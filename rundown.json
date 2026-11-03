@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:00:33.965Z",
+  "generatedAt": "2026-11-03T23:00:37.323Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -34,7 +34,7 @@
           "title": "BetBoom Team puts its Dota 2 division on hiatus",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
           "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T08:18:18.000Z",
+          "published": "2026-11-03T08:10:41.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -91,7 +91,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 18,
       "stories": [
         {
           "title": "Will Fallen call off his retirement and renew with Furia?",
@@ -233,6 +233,74 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 6,
+      "stories": [
+        {
+          "title": "Another food brand has entered the EVO Arena! As Airheads offers competitors something sweet to wash out the bitter taste of defeat!",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUhTMHNNaWdCRjNRV0xDSkx4Q2VOUVlUWTQ1aE9TeEY3cDY1djhkaUJtbXAwc2N3bUM5aUJoLWRTcTE2Ty1QYnNrMWFKa0lzTWx6ZXRxc0xreTNwSEt5THlkVm5VdEhQTkJ0QmxYZExwMUJYZk00SGg3a1dFWkFKa09HeG41S0xrWmNBZEE3VXMwVWZnQjhycC10cjJNdTRYcFV0R3FjV0NTMVVIUkZiYkFCTFM1akRFalc5U2MzRDdISHQtOEZuM3lrWWxrMk55Z0E3MS12TjJPN3d1VHVEMmVxRE9vUFBlbC1VY1JscGJvZEJt0gH6AUFVX3lxTE15eVVuMHA3NjVvQUZ3eE1OTnNOU0pmVnE1MHJlWWNmMGhPWlhLR3Q0Xy01ajQ1T0JyNHN6UTVxUVJsUGRseS1mbDZlbXQxQkZhdmdUcUlNX0t0VVBaQm9DM1NpaUZieExVekdpQUd3OGx2UmpzYm5nbmd4dG5WWEtVd0NsVjVnLW1TSTEyOFE5QnJlQnYyWXgwVW0wRW83RTcta1lGTnoxeklOUThpUFlUcHdwdU56UlVOVkVQaWgzSEZ1NWZ6QWRtTExpaWc1UnlBYkd1OF93NURLdFpWYm5wbW1pVlY0WDNrU2ZXcUdYbFZTeGNaVl9ZVkE?oc=5",
+          "source": "Google News: Tekken (Gaming Age)",
+          "published": "2026-11-03T01:07:37.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
+          "title": "If you could get rid of only one character from the roster, who would it be?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xn76jb/if_you_could_get_rid_of_only_one_character_from/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T22:24:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "Tekken Modder \" Melonpizza \" Made Tekken 8 Version Moveset of Dr. Boskonovitch ( not released yet)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmyw7m/tekken_modder_melonpizza_made_tekken_8_version/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T17:16:44.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
+          ]
+        },
+        {
+          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xn2e0f/kanme_online_klash_50_tekken_8_tournament_top_8/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T19:22:01.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
+          ]
+        },
+        {
+          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-03T01:14:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "What is it like playing in an online tournament",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xn5ifj/what_is_it_like_playing_in_an_online_tournament/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T21:18:41.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 2,
       "stories": [
@@ -277,61 +345,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Tekken Modder \" Melonpizza \" Made Tekken 8 Version Moveset of Dr. Boskonovitch ( not released yet)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmyw7m/tekken_modder_melonpizza_made_tekken_8_version/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T17:16:44.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        },
-        {
-          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xn2e0f/kanme_online_klash_50_tekken_8_tournament_top_8/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T19:22:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        },
-        {
-          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-03T01:14:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "What is it like playing in an online tournament",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xn5ifj/what_is_it_like_playing_in_an_online_tournament/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T21:18:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken Card Tournament is FINALLY BACK in 2026! [SHOWCASE]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmxxce/tekken_card_tournament_is_finally_back_in_2026/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T16:41:22.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
@@ -367,7 +380,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "[Photo] Kim Heon-gon exits on third strike",
@@ -375,15 +388,6 @@
           "source": "Google News: Street Fighter (Chosunbiz)",
           "published": "2026-11-03T12:11:00.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Street Fighter 3 in Final Fight",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xn3qyy/street_fighter_3_in_final_fight/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-03T20:11:28.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
