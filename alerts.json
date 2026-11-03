@@ -653,26 +653,6 @@
       ],
       "summary": "Nobody else is gonna say it because it's reddit-social-suicide, but isn't it really freaking ironic that the 1 person using analog in an otherwise exclusively digital tournament won the entire thing? This is the controller I consistently see people equate to cheating on this subreddit. inb4 low-hanging-fruit comments saying this just exemplifies how bad players on digital are but... it's just really funny that the consensus has stayed the same when year after year passes and the results just... aren't there. and this event is, man, it's the cherry on top LMAO submitted by /u/Forres7 to r/SSBM [link] [comments]",
       "published": "2026-11-01T21:52:32.000Z"
-    },
-    {
-      "alertedAt": "2026-11-01T20:10:18.319Z",
-      "level": "possible",
-      "scene": "Tekken",
-      "title": "Brought Tekken Mobile back online with a fan-run server. Here's what works and what's coming.",
-      "url": "https://www.reddit.com/r/Tekken/comments/1xlczri/brought_tekken_mobile_back_online_with_a_fanrun/",
-      "source": "r/Tekken",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 5.5,
-      "why": [
-        "cheat*",
-        "history*",
-        "shut down*",
-        "official*"
-      ],
-      "summary": "Tekken Mobile's official servers shut down in 2019, and since then the game has only been playable offline thanks to the community TekkenOffline patch. I've been working on a small self-hosted server that brings the online side back, starting with the Dojo. What works right now Dojo PvP against real players. Your team and its AI upload to the server automatically. Other players fight your team, and you fight theirs. Opponents use their own uploaded AI , not a generic CPU team. Ratings and a shared leaderboard (Elo-based), with damage recorded on the server. An in-game Server button (Save / Test / Reset) so you can point the game at any other community server without rebuilding (the server files will be public, so you can create your own if you really want to). A server.txt file works too. Your account survives an address change. A public server running on my own server, tested on player instances fighting each other. What I'm building now Proper accounts with server-side saves and a recovery code Anti-cheat checks on every fight (damage and fight-length checks, a daily cap on rating loss, flags I can review) A fight history page on the web Ranked seasons and a weekly \"Dojo Cup\" tournament Later, if it all holds up No energy timers, level-synced friend rooms, server events, a Discord bot, and live (not asynchronus!) online VS battles (that one is research for now, no promises). Honest caveats It's a hobby project run by me, on a my own server. Expect downtime. This is unoffici",
-      "published": "2026-11-01T20:07:15.000Z"
     }
   ]
 }
