@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T13:00:35.352Z",
+  "generatedAt": "2026-11-03T14:00:41.581Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 24,
       "stories": [
         {
           "title": "The MongolZ vs HEROIC / IEM Beijing 2026 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
@@ -39,6 +39,20 @@
           ]
         },
         {
+          "title": "FURIA outlast NAVI for Beijing playoffs",
+          "url": "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
+          "source": "HLTV news",
+          "published": "2026-11-03T13:43:00.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "champions*",
+            "navi",
+            "furia",
+            "iem*"
+          ]
+        },
+        {
           "title": "Aurora eliminate G2 from IEM Beijing",
           "url": "https://www.hltv.org/news/45892/aurora-eliminate-g2-from-iem-beijing",
           "source": "HLTV news",
@@ -48,6 +62,18 @@
           "why": [
             "won*",
             "g2",
+            "iem"
+          ]
+        },
+        {
+          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-02T14:00:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
             "iem"
           ]
         },
@@ -111,6 +137,17 @@
           ]
         },
         {
+          "title": "Valve Locks In 32 Teams for PGL Major Singapore 2026, TYLOO and Fnatic miss out",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1pycDlXZHpYbG1tb3lZVXJtblRIQThHZ3p2TDlmWjJnNE9RbzJvSW9YQWs4UkJidGFKLS1LbkwyQjRRUVgxa29qVGdKWEdYWUx2MmswMUVFNXB0bGd0NEEtTTVpNWZCYm5MYTNrOEhqUUdOcFlEYmljQlZ4UTRVaHFwbw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-03T07:05:46.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -120,45 +157,12 @@
           "why": [
             "iem"
           ]
-        },
-        {
-          "title": "Mercury Spray Transfer 3k to win a 2v5",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmkhqm/mercury_spray_transfer_3k_to_win_a_2v5/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T05:23:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "transfer"
-          ]
-        },
-        {
-          "title": "PARIVISION beat Liquid to make Beijing playoffs",
-          "url": "https://www.hltv.org/news/45891/parivision-beat-liquid-to-make-beijing-playoffs",
-          "source": "HLTV news",
-          "published": "2026-11-03T04:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "liquid"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore race as it happened",
-          "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
-          "source": "HLTV news",
-          "published": "2026-11-02T20:47:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -272,6 +276,15 @@
           "why": []
         },
         {
+          "title": "ESL One Heads to Munich for April 2027 Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFJvRnBidnNyemN0RW1EX0hYQmlxd0phU2dPOWxFWHRGNGdsejA2R0Q4RUFydFlOSDh6dGE0Zm9BMzE1TGVxQTZZSzVFcWV6UDZXNHY5ZldTMEFIZWt5dlJUNTY2cDZMOVQwR1FVRVhTV1lqQjJkSlpzLVBFSXJORjBiblRwdjdYOUhVVFlfb014Nm5yUHJud25ET3A?oc=5",
+          "source": "Google News: Dota (Sports Video Group)",
+          "published": "2026-11-02T14:59:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "why is Exorcism not buffed by spell amp?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xmn38u/why_is_exorcism_not_buffed_by_spell_amp/",
           "source": "r/DotA2",
@@ -283,74 +296,9 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "I think the Vel is OBJECTIVELY overpowered and must be banned in favor of the Iso",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmlddv/i_think_the_vel_is_objectively_overpowered_and/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T06:12:20.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned"
-          ]
-        },
-        {
-          "title": "Our Honest Thoughts on Modern Warfare 4... | FaZe Vegas Podcast",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmpl1q/our_honest_thoughts_on_modern_warfare_4_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T10:34:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "I think there's a way Capcom can easily fix Arjun where he keeps his unique mechanics without keeping him game breaking.",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xmlu1i/i_think_theres_a_way_capcom_can_easily_fix_arjun/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-03T06:39:33.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "breaking"
-          ]
-        },
-        {
-          "title": "[Photo] Kim Heon-gon exits on third strike",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEstdjlxOEZRNmNtMlVyRWpTQkxuQmNsM3RIbmptNU1ERzhuaC1UY0RGSDlBMEtCS1YyUWZTWmpVR0g3QkNKOGtHYlY0MnlOMzNvNEtPWF9WOFhHTUh6Njk0WGZSbDNNTlFQb0dsU3BwUF9SMzRFUTlFTC1fWWNZUzFfb9IBlwFBVV95cUxOeG9mSWV5NW1ySElSQThLRVEzbG1vUjlVSFc1SmtoeUJPM08xc2E3RUNUTGZZeVN6eFdWekVpeDRta0EyTUpKei1DV0ZpTEtuOXYwVFVwMjhRd3lUb1JZTDI4bmN1SFJKU3ZjWWRlSktWZ01TMjFDaVlIT1BiMXFRM2ZPWE1zemR4VWdyR19Kb1pMb2NweTM0?oc=5",
-          "source": "Google News: Street Fighter (Chosunbiz)",
-          "published": "2026-11-03T12:11:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "MBL making Fire Lancer vs Condottiero is peak MBL",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xml6qh/mbl_making_fire_lancer_vs_condottiero_is_peak_mbl/",
-          "source": "r/aoe2",
-          "published": "2026-11-03T06:01:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "mbl"
-          ]
-        },
         {
           "title": "Taking T90 out of context is too easy",
           "url": "https://www.reddit.com/r/aoe2/comments/1xmillh/taking_t90_out_of_context_is_too_easy/",
@@ -360,6 +308,23 @@
           "level": null,
           "why": [
             "t90"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Our Honest Thoughts on Modern Warfare 4... | FaZe Vegas Podcast",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmpl1q/our_honest_thoughts_on_modern_warfare_4_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T10:34:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         }
       ]
@@ -396,6 +361,36 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "[Photo] Kim Heon-gon exits on third strike",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEstdjlxOEZRNmNtMlVyRWpTQkxuQmNsM3RIbmptNU1ERzhuaC1UY0RGSDlBMEtCS1YyUWZTWmpVR0g3QkNKOGtHYlY0MnlOMzNvNEtPWF9WOFhHTUh6Njk0WGZSbDNNTlFQb0dsU3BwUF9SMzRFUTlFTC1fWWNZUzFfb9IBlwFBVV95cUxOeG9mSWV5NW1ySElSQThLRVEzbG1vUjlVSFc1SmtoeUJPM08xc2E3RUNUTGZZeVN6eFdWekVpeDRta0EyTUpKei1DV0ZpTEtuOXYwVFVwMjhRd3lUb1JZTDI4bmN1SFJKU3ZjWWRlSktWZ01TMjFDaVlIT1BiMXFRM2ZPWE1zemR4VWdyR19Kb1pMb2NweTM0?oc=5",
+          "source": "Google News: Street Fighter (Chosunbiz)",
+          "published": "2026-11-03T12:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Legacy FGC",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Arc System Works reveal that 4 Million players has experienced Guilty Gear -STRIVE-",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSm4wMDNaNnl3aXZJdTJUQTg0MkhjYWVwUTVrLURjQk5fcWZYWkVyS043YUdMVTdEUDBtaGd2TUU1eDYxLUFmaUxEcVVoZXhJWXQxOWVUWVdqdGxxTXJnVVpaLWdaZnEwbUxJbFVQZDNuWVdQLXdiRGEtaDl5bzd4TlBDUThTOW1OOFFnSFdPdW1IWVZBaGk2M0JhWFdXM3dnTmpwM0RBZjBNdXFESFpHZHJBWdIBuAFBVV95cUxNY1IwcGd0MDRCVmRKODgtbnJpWnh4MDZNQnN5RVdUZHhVc0J2dEJNRjY2VWVtQ1hWY0EyRi1teFVvdHFkaDQ5MXNaVDlTSmJEUFFiOUxUbGx2TVJELVVSYXozUGg5Sk1MbG1IbFJpQXU5OXNFWXljbTZaWGVMNXpoZHh2dVhzenRSYUZjMm5iS0M3Mkg1b2J3Ml9DdHJIaWViT09WQ1BJUjJuUHBJaXQ5dlJSSVRhckhs?oc=5",
+          "source": "Google News: Legacy FGC (Gaming Age)",
+          "published": "2026-11-03T01:17:16.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -404,7 +399,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Legacy FGC",
     "Quake",
     "Halo"
   ]
