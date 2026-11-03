@@ -1,7 +1,151 @@
 {
-  "generatedAt": "2026-11-03T04:00:36.579Z",
+  "generatedAt": "2026-11-03T05:00:31.949Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "CS2",
+      "storyCount": 16,
+      "stories": [
+        {
+          "title": "Liquid vs VISION / IEM Beijing 2026 - Group B Upper Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmj0cq/liquid_vs_vision_iem_beijing_2026_group_b_upper/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T04:04:43.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "mouz*",
+            "liquid",
+            "iem"
+          ]
+        },
+        {
+          "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close",
+          "url": "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close",
+          "source": "HLTV news",
+          "published": "2026-11-02T14:16:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "karrigan*",
+            "navi",
+            "faze*",
+            "iem"
+          ]
+        },
+        {
+          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-02T14:00:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
+            "iem"
+          ]
+        },
+        {
+          "title": "Liquid crush Aurora in IEM Beijing opener",
+          "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
+          "source": "HLTV news",
+          "published": "2026-11-02T06:38:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "liquid",
+            "iem"
+          ]
+        },
+        {
+          "title": "PARIVISION beat Liquid to make Beijing playoffs",
+          "url": "https://www.hltv.org/news/45891/parivision-beat-liquid-to-make-beijing-playoffs",
+          "source": "HLTV news",
+          "published": "2026-11-03T04:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "liquid"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore race as it happened",
+          "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
+          "source": "HLTV news",
+          "published": "2026-11-02T20:47:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major 2026: Every Qualified Team",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-02T11:54:22.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "DHL Brings Its Recruitment Drive to IEM Beijing After 50,000 Esports Applications",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-02T10:43:06.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "Valve release Major-deciding November VRS update",
+          "url": "https://www.hltv.org/news/45890/valve-release-major-deciding-november-vrs-update",
+          "source": "HLTV news",
+          "published": "2026-11-02T17:58:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\"",
+          "url": "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
+          "source": "HLTV news",
+          "published": "2026-11-02T08:00:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid*"
+          ]
+        },
+        {
+          "title": "Introducing the advanced stats tab",
+          "url": "https://www.hltv.org/news/45885/introducing-the-advanced-stats-tab",
+          "source": "HLTV news",
+          "published": "2026-11-02T12:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "dastan: \"I worked on myself not to show a bad mood\"",
+          "url": "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
+          "source": "HLTV news",
+          "published": "2026-11-02T11:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
     {
       "scene": "Dota",
       "storyCount": 11,
@@ -108,151 +252,19 @@
           "why": []
         },
         {
-          "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-02T04:05:12.000Z",
+          "title": "ESL One Heads to Munich for April 2027 Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFJvRnBidnNyemN0RW1EX0hYQmlxd0phU2dPOWxFWHRGNGdsejA2R0Q4RUFydFlOSDh6dGE0Zm9BMzE1TGVxQTZZSzVFcWV6UDZXNHY5ZldTMEFIZWt5dlJUNTY2cDZMOVQwR1FVRVhTV1lqQjJkSlpzLVBFSXJORjBiblRwdjdYOUhVVFlfb014Nm5yUHJud25ET3A?oc=5",
+          "source": "Google News: Dota (Sports Video Group)",
+          "published": "2026-11-02T14:59:45.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-02T12:48:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 12,
-      "stories": [
-        {
-          "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close",
-          "url": "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close",
-          "source": "HLTV news",
-          "published": "2026-11-02T14:16:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "karrigan*",
-            "navi",
-            "faze*",
-            "iem"
-          ]
-        },
-        {
-          "title": "Liquid crush Aurora in IEM Beijing opener",
-          "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
-          "source": "HLTV news",
-          "published": "2026-11-02T06:38:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "liquid",
-            "iem"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore race as it happened",
-          "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
-          "source": "HLTV news",
-          "published": "2026-11-02T20:47:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "DHL Brings Its Recruitment Drive to IEM Beijing After 50,000 Esports Applications",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-02T10:43:06.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "Valve release Major-deciding November VRS update",
-          "url": "https://www.hltv.org/news/45890/valve-release-major-deciding-november-vrs-update",
-          "source": "HLTV news",
-          "published": "2026-11-02T17:58:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\"",
-          "url": "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
-          "source": "HLTV news",
-          "published": "2026-11-02T08:00:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "liquid*"
-          ]
-        },
-        {
-          "title": "Introducing the advanced stats tab",
-          "url": "https://www.hltv.org/news/45885/introducing-the-advanced-stats-tab",
-          "source": "HLTV news",
-          "published": "2026-11-02T12:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "dastan: \"I worked on myself not to show a bad mood\"",
-          "url": "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
-          "source": "HLTV news",
-          "published": "2026-11-02T11:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 43",
-          "url": "https://www.hltv.org/news/45887/short-news-week-43",
-          "source": "HLTV news",
-          "published": "2026-11-02T09:58:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Techno: \"It almost feels like we are playing with two IGLs\"",
-          "url": "https://www.hltv.org/news/45882/techno-it-almost-feels-like-we-are-playing-with-two-igls",
-          "source": "HLTV news",
-          "published": "2026-11-02T07:23:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New patch?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmgngb/new_patch/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T02:10:59.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Top 5 teams that had the highest chance to qualify for Major",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmav01/top_5_teams_that_had_the_highest_chance_to/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T21:58:09.000Z",
+          "title": "Will next patch have new map?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmj6h9/will_next_patch_have_new_map/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T04:13:30.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -261,7 +273,7 @@
     },
     {
       "scene": "Warcraft III",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "YouTiao Cup 8 ($4,500 Prize Pool): Two Undie at the Final, None of Them Being Happy",
@@ -278,23 +290,12 @@
             "colorful*",
             "lawliet*"
           ]
-        },
-        {
-          "title": "Celebrating Warcraft III: Forsaken Kingdom with a Major Update to Bows and Arrows!",
-          "url": "https://www.reddit.com/r/WC3/comments/1xm9ltq/celebrating_warcraft_iii_forsaken_kingdom_with_a/",
-          "source": "r/WC3",
-          "published": "2026-11-02T21:09:42.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "How to reget rid of cheater",
@@ -337,23 +338,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Steve's pretty good, but he's the worst tournament pick.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm8x66/steves_pretty_good_but_hes_the_worst_tournament/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T20:43:28.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
         }
       ]
     },
     {
       "scene": "Trackmania",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "I Did My First Ever Kacky Finish First Try!",
@@ -365,15 +355,6 @@
           "why": [
             "first ever"
           ]
-        },
-        {
-          "title": "Helheim - Trailer",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xm9mdz/helheim_trailer/",
-          "source": "r/TrackMania",
-          "published": "2026-11-02T21:10:19.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
