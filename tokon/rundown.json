@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-03T10:30:36.786Z",
+  "generatedAt": "2026-11-03T11:30:41.379Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
+        {
+          "title": "Marvel Tokon Fighting Souls Update 1.004.002 Out Now, Adds Phoenix Cyclops, Combat Balance Changes & More - Full Patch Notes Listed",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYVZSaVpyMGpocVppSUpRLWZvc1pwcTZzcUdpZDVrQWd1dFYzcWlpS0g0UVBJMTNYTHNlUWtVb1U2c0dxYllHNFdGcTFGZ00tUVRpN0hINy1ieUZ2RnJsUmdjbFc4dHNvVmx5TnJnT2ZUekhzT3JWNXU4Qjd6WG1KNlg3N0U5aDhJT2pmY3pYQUtLQTA2djNIUTAxZkRZellsYkFTR3pJUnFCUEt1ZlJDUWJsYng5VHpybkRjR2daZDR5MWc5UmhOS2haalUwQVBhQWpsZXZFd3cxRlVNZlZFUVlDRWgxdw?oc=5",
+          "source": "Google News: Tokon (PlayStation Universe)",
+          "published": "2026-11-03T10:35:01.000Z",
+          "score": 10,
+          "level": "breaking",
+          "why": [
+            "update",
+            "patch notes",
+            "balance",
+            "balance changes"
+          ]
+        },
         {
           "title": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
           "url": "https://www.pushsquare.com/news/2026/11/phoenix-cyclops-is-available-now-as-marvel-tokon-receives-major-ps5-patch",
@@ -55,17 +69,6 @@
           ]
         },
         {
-          "title": "Marvel Tokon November 2 2026 Patch Notes",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOei1FRThGOUxrd3hjc2RyeTRsa09NMHN6M21GcHNpaWRxczlXeGJ1bzBnVTZkdE1LSmFyeVlqV3o0YzZBSEQxU0dKREY4TkhyN042bGtoVklzT01QcUVCUFgwREpHOFRaaERiOVMwUTdhNURNbTN1RWRTSVRpRWlHdURVWFNEcDhTM1ZwZVFOcHc5MzFMN0JaVzFB?oc=5",
-          "source": "Google News: Tokon competitive (IGN)",
-          "published": "2026-11-02T12:22:47.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "patch notes"
-          ]
-        },
-        {
           "title": "Marvel Tokon Update Brings Costumes, System Changes, and Fixes",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzRhckJOdUc2RWpXUmllSVJoNGpER3FnOTFhbWZNdjh5c1BmTmNuaUh0R3gzNWxELS0wV0xTV3g1QkRnYzRrNTBQVFFsdW1jQ29McVVUbG5udVVBRUFvRDJIRWZpeGJLWFlQN3Rwci1Ed0ZJLXVuV0ZwZ2J5d1lXOUtHclM2dDR1VGVRWGNSZmpUNW8yYVZN?oc=5",
           "source": "Google News: EventHubs/Dot/Dashfight (DashFight)",
@@ -77,30 +80,10 @@
           ]
         },
         {
-          "title": "Marvel Tōkon: Fighting Souls Gets Phoenix Cyclops , Assist Changes in Latest Update",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajdiWUJ2Z1JjU3kyeHFoYkdXbDN5eEJTb3ZCV3l1dEZqTFpJVlVrYXVHdU5qY1NoSTRFTkJIM1h5YV9halZSaUhKMFNZdFpteC1GVzFrS1lMaWtnRlZQWVZ3c1pFdUc4eXZKZ0I4MWpaRFFBaHdvbmRTXzZqNVlqNEJFSW5NNGx4dEJTY1YtQ05lNGNRa3NZd3R3?oc=5",
-          "source": "Google News: Tokon (GamingBolt)",
-          "published": "2026-11-02T14:54:23.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm1BVlpKY0tSZWh5YTFaXzdiQWJmZnFjbjVSRGpvTFRpNjhQUVlKMGFUNkhaZXBjT1NScWdCeFMySGdRRWxyX0dFRE91WFIzQ1l3Q0JkV3l0WnpSV3ZPZFZyaGUtaFJBOVRCOHdncUJBdzBXeERralUtbGNrYXRIUkF4THlLOXRhR3EwckdEYnhpMXA2X2xXNE5qMWpXblJLeDhJYVhEM01COWs5N0pLQW5yRm4?oc=5",
           "source": "Google News: Tokon (Push Square)",
           "published": "2026-11-02T15:15:14.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "【MARVEL Fighting Souls】 Phoenix, Cyclops, and Deadpool Dialogue Collection | MARVEL Fighting Soul...",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWZWZ3bG1TUjNndGhhOTF0cVVCbVpBN09wLUJNenRSdk9wRFJBVERpYXZaTkRvY1k5MHdmWVk3bUpvZ1NuYzA0VjFlNS1EUjdnQXVtdDJMelRjem8y?oc=5",
-          "source": "Google News: Tokon (YouTube)",
-          "published": "2026-11-02T11:13:28.000Z",
           "score": 1,
           "level": null,
           "why": []
