@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:00:38.745Z",
+  "generatedAt": "2026-11-03T07:00:35.809Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -39,6 +39,19 @@
           ]
         },
         {
+          "title": "Aurora eliminate G2 from IEM Beijing",
+          "url": "https://www.hltv.org/news/45892/aurora-eliminate-g2-from-iem-beijing",
+          "source": "HLTV news",
+          "published": "2026-11-03T06:52:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "won*",
+            "g2",
+            "iem"
+          ]
+        },
+        {
           "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close",
           "url": "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close",
           "source": "HLTV news",
@@ -61,18 +74,6 @@
           "level": null,
           "why": [
             "navi",
-            "iem"
-          ]
-        },
-        {
-          "title": "Liquid crush Aurora in IEM Beijing opener",
-          "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
-          "source": "HLTV news",
-          "published": "2026-11-02T06:38:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "liquid",
             "iem"
           ]
         },
@@ -132,6 +133,17 @@
           ]
         },
         {
+          "title": "G2's last 3 tournament results",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmlxh8/g2s_last_3_tournament_results/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T06:45:21.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "g2"
+          ]
+        },
+        {
           "title": "Valve release Major-deciding November VRS update",
           "url": "https://www.hltv.org/news/45890/valve-release-major-deciding-november-vrs-update",
           "source": "HLTV news",
@@ -140,17 +152,6 @@
           "level": null,
           "why": [
             "update"
-          ]
-        },
-        {
-          "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\"",
-          "url": "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
-          "source": "HLTV news",
-          "published": "2026-11-02T08:00:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "liquid*"
           ]
         }
       ]
@@ -250,6 +251,15 @@
           "why": []
         },
         {
+          "title": "ESL One Heads to Munich for April 2027 Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFJvRnBidnNyemN0RW1EX0hYQmlxd0phU2dPOWxFWHRGNGdsejA2R0Q4RUFydFlOSDh6dGE0Zm9BMzE1TGVxQTZZSzVFcWV6UDZXNHY5ZldTMEFIZWt5dlJUNTY2cDZMOVQwR1FVRVhTV1lqQjJkSlpzLVBFSXJORjBiblRwdjdYOUhVVFlfb014Nm5yUHJud25ET3A?oc=5",
+          "source": "Google News: Dota (Sports Video Group)",
+          "published": "2026-11-02T14:59:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Will next patch have new map?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xmj6h9/will_next_patch_have_new_map/",
           "source": "r/DotA2",
@@ -257,17 +267,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-02T12:48:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -294,61 +293,20 @@
       ]
     },
     {
-      "scene": "Tekken",
+      "scene": "CoD",
       "storyCount": 3,
       "stories": [
         {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-02T06:38:20.000Z",
+          "title": "I think the Vel is OBJECTIVELY overpowered and must be banned in favor of the Iso",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmlddv/i_think_the_vel_is_objectively_overpowered_and/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T06:12:20.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "wins"
+            "banned"
           ]
         },
-        {
-          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-03T01:14:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "HECKIN: KING OF IRON PAW TOURNAMENT",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmkcvd/heckin_king_of_iron_paw_tournament/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T05:15:24.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "I Did My First Ever Kacky Finish First Try!",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xmfhnp/i_did_my_first_ever_kacky_finish_first_try/",
-          "source": "r/TrackMania",
-          "published": "2026-11-03T01:16:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "first ever"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
         {
           "title": "\"They gotta watch us lose while we're gonna\" Vegas FaZe on getting hate",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmhgz9/they_gotta_watch_us_lose_while_were_gonna_vegas/",
@@ -375,8 +333,19 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "I think there's a way Capcom can easily fix Arjun where he keeps his unique mechanics without keeping him game breaking.",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xmlu1i/i_think_theres_a_way_capcom_can_easily_fix_arjun/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-03T06:39:33.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "breaking"
+          ]
+        },
         {
           "title": "Chun Li Street Fighter 2 Ending",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xmd77k/chun_li_street_fighter_2_ending/",
@@ -400,6 +369,40 @@
       ]
     },
     {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "I Did My First Ever Kacky Finish First Try!",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xmfhnp/i_did_my_first_ever_kacky_finish_first_try/",
+          "source": "r/TrackMania",
+          "published": "2026-11-03T01:16:21.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "first ever"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "MBL making Fire Lancer vs Condottiero is peak MBL",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xml6qh/mbl_making_fire_lancer_vs_condottiero_is_peak_mbl/",
+          "source": "r/aoe2",
+          "published": "2026-11-03T06:01:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "mbl"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Halo",
       "storyCount": 1,
       "stories": [
@@ -418,19 +421,26 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 1,
+      "scene": "Tekken",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "How would you change/buff Berserks (if at all)?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xmbthp/how_would_you_changebuff_berserks_if_at_all/",
-          "source": "r/aoe2",
-          "published": "2026-11-02T22:36:23.000Z",
-          "score": 1.5,
+          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-03T01:14:24.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "champions*"
-          ]
+          "why": []
+        },
+        {
+          "title": "HECKIN: KING OF IRON PAW TOURNAMENT",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmkcvd/heckin_king_of_iron_paw_tournament/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T05:15:24.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     }
