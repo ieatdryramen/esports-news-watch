@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T21:31:03.088Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "How did Hulk get banned when no one voted for Hulk",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xn581s/how_did_hulk_get_banned_when_no_one_voted_for_hulk/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "banned",
+        "the last*"
+      ],
+      "summary": "I'm just a little confused... Maybe I missed something, and someone could help me out? From what I understand, only Gambit and Jubilee got voted and it doesn't seem like anyone chose Hulk at the last second submitted by /u/MiniMikyo_ to r/marvelrivals [link] [comments]",
+      "published": "2026-11-03T21:07:28.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T20:31:16.360Z",
       "level": "possible",
       "scene": "Marvel Rivals",
