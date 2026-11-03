@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:00:34.820Z",
+  "generatedAt": "2026-11-03T20:30:29.083Z",
   "source": "start.gg",
   "completed": [
     {
@@ -290,10 +290,10 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "SoCal Sweep 2",
       "event": "Melee Singles",
-      "entrants": 96,
+      "entrants": 97,
       "online": false,
       "major": false,
-      "startAt": "2026-11-07T18:00:00.000Z",
+      "startAt": "2026-11-07T20:30:00.000Z",
       "endAt": "2026-11-08T06:00:00.000Z",
       "url": "https://www.start.gg/tournament/socal-sweep-2/event/melee-singles"
     },
