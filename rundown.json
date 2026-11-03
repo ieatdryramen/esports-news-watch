@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:00:36.992Z",
+  "generatedAt": "2026-11-03T13:00:35.352Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -158,7 +158,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 11,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -193,17 +193,6 @@
           "level": null,
           "why": [
             "hiatus"
-          ]
-        },
-        {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmo399/removed_by_reddit/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T09:02:23.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
           ]
         },
         {
@@ -252,6 +241,17 @@
           ]
         },
         {
+          "title": "ex-BB team new lineup",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xms19d/exbb_team_new_lineup/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T12:47:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
+        },
+        {
           "title": "Bristleback skill set update.",
           "url": "https://www.reddit.com/r/DotA2/comments/1xmo5fm/bristleback_skill_set_update/",
           "source": "r/DotA2",
@@ -276,15 +276,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xmn38u/why_is_exorcism_not_buffed_by_spell_amp/",
           "source": "r/DotA2",
           "published": "2026-11-03T07:58:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Will next patch have new map?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmj6h9/will_next_patch_have_new_map/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T04:13:30.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -321,7 +312,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "I think there's a way Capcom can easily fix Arjun where he keeps his unique mechanics without keeping him game breaking.",
@@ -333,6 +324,15 @@
           "why": [
             "breaking"
           ]
+        },
+        {
+          "title": "[Photo] Kim Heon-gon exits on third strike",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEstdjlxOEZRNmNtMlVyRWpTQkxuQmNsM3RIbmptNU1ERzhuaC1UY0RGSDlBMEtCS1YyUWZTWmpVR0g3QkNKOGtHYlY0MnlOMzNvNEtPWF9WOFhHTUh6Njk0WGZSbDNNTlFQb0dsU3BwUF9SMzRFUTlFTC1fWWNZUzFfb9IBlwFBVV95cUxOeG9mSWV5NW1ySElSQThLRVEzbG1vUjlVSFc1SmtoeUJPM08xc2E3RUNUTGZZeVN6eFdWekVpeDRta0EyTUpKei1DV0ZpTEtuOXYwVFVwMjhRd3lUb1JZTDI4bmN1SFJKU3ZjWWRlSktWZ01TMjFDaVlIT1BiMXFRM2ZPWE1zemR4VWdyR19Kb1pMb2NweTM0?oc=5",
+          "source": "Google News: Street Fighter (Chosunbiz)",
+          "published": "2026-11-03T12:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -366,7 +366,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
@@ -391,15 +391,6 @@
           "url": "https://www.reddit.com/r/Tekken/comments/1xmmsn6/dlc_i_would_gladly_pay_full_price_for/",
           "source": "r/Tekken",
           "published": "2026-11-03T07:39:02.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "HECKIN: KING OF IRON PAW TOURNAMENT",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmkcvd/heckin_king_of_iron_paw_tournament/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T05:15:24.000Z",
           "score": 0,
           "level": null,
           "why": []
