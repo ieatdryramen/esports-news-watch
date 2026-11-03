@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T03:35:15.258Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Why is pudge always banned?",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xmicz6/why_is_pudge_always_banned/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "banned",
+        "ban*"
+      ],
+      "summary": "Pudge is my favorite hero but he is outright banned 9/ 10 games and the other he is picked by both teams. I can deal with playing other stuff but there's nothing as fun in dota as playing pudge. Makes me sad. You would think people would ban phantom lancer every game but no its pudge :( submitted by /u/Junior_Archer8369 to r/DotA2 [link] [comments]",
+      "published": "2026-11-03T03:31:50.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T02:15:29.759Z",
       "level": "possible",
       "scene": "Warcraft III",
