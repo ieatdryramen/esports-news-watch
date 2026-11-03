@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T23:30:42.092Z",
+  "generatedAt": "2026-11-03T00:30:42.347Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "MRC Season 8: Sins Of Alchemax - Pacific Console",
@@ -29,15 +29,6 @@
             "season",
             "mrc"
           ]
-        },
-        {
-          "title": "Nagoshi Studio officially shuts down",
-          "url": "/article/151233/netease-games-closes-nagoshi-studio",
-          "source": "Shacknews",
-          "published": "2026-11-03T00:06:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Phantom Blade Zero has sold 4 million copies in just 3 days, and sailed past Battlefield 6 and Marvel Rivals on Steam with a peak player count of 820,000",
