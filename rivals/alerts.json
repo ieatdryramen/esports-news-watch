@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T02:11:20.485Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Cap is so bad netease banned him",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xmfn1s/cap_is_so_bad_netease_banned_him/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "banned",
+        "ban*",
+        "won*",
+        "season*",
+        "reddit only"
+      ],
+      "summary": "Captain America banned. Then I checked the clip. Nobody banned him. Not a single living soul in that lobby selected to ban Cap.. THE GAME JUST BANNED HIM BY ITSELF. It was a beautiful Monday afternoon. I'd just gotten off work, the birds were singing, the sun was shining, and I thought I'd reward myself with a quick game of Marvel Rivals. Maybe climb back into Celestial, maybe have a little fun before continuing my day. Apparently, that was my first mistake. You see, I committed the unforgivable CRIME of wanting to play Captain America. Not Hela, not Phoenix, not whatever character NetEase has decided to be a hard meta this season. I decided to play a character so unpopular that seeing him banned made the whole lobby question who the hell did that?? I'm sorry, has NetEase developed an ai specifically designed to prevent me from enjoying my afternoon? Has Captain America been placed on some kind of federal no-fly list? This man already has one of the lowest pick rates in the game, and now the game itself is apparently refusing to let him clock in for work. I've never seen anything like this happen before. I just wanted to play one match after work, and apparently even the software has decided Captain America is so buns that they won't let me pick him... submitted by /u/Born_Tomato7451 to r/marvelrivals [link] [comments]",
+      "published": "2026-11-03T01:23:22.000Z"
+    },
+    {
       "alertedAt": "2026-11-01T10:45:18.814Z",
       "level": "breaking",
       "scene": "Marvel Rivals",
