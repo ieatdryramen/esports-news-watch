@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T17:20:27.976Z",
+  "generatedAt": "2026-11-03T18:15:53.774Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Marvel Tokon Fighting Souls Update 1.004.002 Out Now, Adds Phoenix Cyclops, Combat Balance Changes & More - Full Patch Notes Listed",
@@ -25,17 +25,6 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SYXk5Z0ZZY3VkRFlKR05oNXVhcl9TUmV3SzBucUtQR295MWNvNTZOcU1iLVlnYVpFR2psdDJlQzJENjFHejFlb3AxcjlkRUQtaDlhSlZvektZVGdOamZMOE5nSjFIdjhCb24zU0Njd2ZZTjdCNzlZUUJn?oc=5",
           "source": "Google News: Tokon (games.gg)",
           "published": "2026-11-02T19:38:12.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "dlc"
-          ]
-        },
-        {
-          "title": "Marvel Tokon: Fighting Souls’ Cyclops DLC Is Already Dividing Fans",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2JKTlowNUVIQ2tTRS1iYjFaR09XNUdndGZLRGk3VmFBSC1vZXdRcnBqcVFNN3IzdmNSWTBXS19qMWhMR3hDVXdyeWFEbFZ4cXVTaS03VWw5UkpRcVpqdnluVkpUZ3M1VkRKR05hSnFtZGxvSWhrVXJkdy16MkJhOXBsQWdjVFZVWUtUNWJqWTdwTFZiT2VuVkV0MzEyTjl0?oc=5",
-          "source": "Google News: Tokon (ComicBook.com)",
-          "published": "2026-11-02T17:55:34.000Z",
           "score": 4,
           "level": null,
           "why": [
