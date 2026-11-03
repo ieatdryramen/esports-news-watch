@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:30:51.416Z",
+  "generatedAt": "2026-11-03T04:30:58.186Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -35,11 +35,11 @@
     },
     {
       "name": "Fragster",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "items": 10,
-      "newest": "2026-11-02T18:45:32.000Z",
-      "error": null
+      "items": 0,
+      "newest": null,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "name": "Insider Gaming",
@@ -69,7 +69,7 @@
       "name": "Google News: Rivals patches",
       "ok": true,
       "skipped": false,
-      "items": 12,
+      "items": 13,
       "newest": "2026-11-03T01:08:52.000Z",
       "error": null
     },
@@ -86,7 +86,7 @@
       "ok": true,
       "skipped": false,
       "items": 100,
-      "newest": "2026-11-03T01:50:04.000Z",
+      "newest": "2026-11-03T04:25:16.000Z",
       "error": null
     },
     {
