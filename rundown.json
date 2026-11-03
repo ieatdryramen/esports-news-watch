@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T08:55:27.205Z",
+  "generatedAt": "2026-11-03T09:55:28.487Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 23,
       "stories": [
         {
           "title": "MOUZ vs BB / IEM Beijing 2026 - Group B Upper Bracket Semi-Final / Post-Match Discussion",
@@ -39,6 +39,33 @@
           ]
         },
         {
+          "title": "Aurora eliminate G2 from IEM Beijing",
+          "url": "https://www.hltv.org/news/45892/aurora-eliminate-g2-from-iem-beijing",
+          "source": "HLTV news",
+          "published": "2026-11-03T06:52:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "won*",
+            "g2",
+            "iem"
+          ]
+        },
+        {
+          "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close",
+          "url": "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close",
+          "source": "HLTV news",
+          "published": "2026-11-02T14:16:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "karrigan*",
+            "navi",
+            "faze*",
+            "iem"
+          ]
+        },
+        {
           "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
           "source": "Google News: CS2 (EGamersWorld)",
@@ -63,6 +90,28 @@
           ]
         },
         {
+          "title": "MOUZ best BB to qualify for playoffs in Beijing",
+          "url": "https://www.hltv.org/news/45894/mouz-best-bb-to-qualify-for-playoffs-in-beijing",
+          "source": "HLTV news",
+          "published": "2026-11-03T08:02:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mouz"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-03T06:43:37.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
           "title": "Mercury Spray Transfer 3k to win a 2v5",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmkhqm/mercury_spray_transfer_3k_to_win_a_2v5/",
           "source": "r/GlobalOffensive",
@@ -71,6 +120,28 @@
           "level": null,
           "why": [
             "transfer"
+          ]
+        },
+        {
+          "title": "PARIVISION beat Liquid to make Beijing playoffs",
+          "url": "https://www.hltv.org/news/45891/parivision-beat-liquid-to-make-beijing-playoffs",
+          "source": "HLTV news",
+          "published": "2026-11-03T04:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "liquid"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore race as it happened",
+          "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
+          "source": "HLTV news",
+          "published": "2026-11-02T20:47:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -83,76 +154,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "DHL Brings Its Recruitment Drive to IEM Beijing After 50,000 Esports Applications",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-02T10:43:06.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "Faze win Map 2 (Anubis) vs. Falcons, 13-11",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmny4a/faze_win_map_2_anubis_vs_falcons_1311/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T08:53:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "G2's last 3 tournament results",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmlxh8/g2s_last_3_tournament_results/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T06:45:21.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "g2"
-          ]
-        },
-        {
-          "title": "Is karrigan the biggest mind of all time or just washed?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmdz5w/is_karrigan_the_biggest_mind_of_all_time_or_just/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T00:06:49.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "karrigan"
-          ]
-        },
-        {
-          "title": "Is it too late for major?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmmtqa/is_it_too_late_for_major/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T07:40:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "faze*"
-          ]
-        },
-        {
-          "title": "New patch?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmgngb/new_patch/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T02:10:59.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 15,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -199,6 +206,17 @@
           "level": null,
           "why": [
             "hiatus"
+          ]
+        },
+        {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmo399/removed_by_reddit/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T09:02:23.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
           ]
         },
         {
@@ -258,29 +276,22 @@
           ]
         },
         {
+          "title": "Bristleback skill set update.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmo5fm/bristleback_skill_set_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T09:06:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
           "source": "Google News: Dota (Hotspawn)",
           "published": "2026-11-02T19:53:55.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "why is Exorcism not buffed by spell amp?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmn38u/why_is_exorcism_not_buffed_by_spell_amp/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T07:58:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Will next patch have new map?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmj6h9/will_next_patch_have_new_map/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T04:13:30.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -338,7 +349,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "I think there's a way Capcom can easily fix Arjun where he keeps his unique mechanics without keeping him game breaking.",
@@ -350,15 +361,6 @@
           "why": [
             "breaking"
           ]
-        },
-        {
-          "title": "Final Fight cross Street Fighter",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xme32u/final_fight_cross_street_fighter/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-03T00:11:47.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -392,24 +394,6 @@
           "level": null,
           "why": [
             "mbl"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Teams registered for Halo Infinite 4v4 Open tournament ($20,000) at Halo Fest",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xmef2g/teams_registered_for_halo_infinite_4v4_open/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-03T00:26:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "signed*",
-            "prize pool*"
           ]
         }
       ]
@@ -462,6 +446,7 @@
     "Classic Tetris",
     "Brood War",
     "Legacy FGC",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
