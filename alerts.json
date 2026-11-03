@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T13:45:17.915Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "FURIA outlast NAVI for Beijing playoffs",
+      "url": "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 6.5,
+      "why": [
+        "champions*",
+        "navi",
+        "furia",
+        "iem*"
+      ],
+      "summary": "The reigning IEM China champions will defend their title over the weekend.",
+      "published": "2026-11-03T13:43:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T12:40:19.565Z",
       "level": "possible",
       "scene": "CS2",
