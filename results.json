@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T23:30:26.336Z",
+  "generatedAt": "2026-11-03T00:00:29.954Z",
   "source": "start.gg",
   "completed": [
     {
@@ -434,7 +434,7 @@
       "game": "Guilty Gear -Strive-",
       "tournament": "TNS Guilty Gear Strive #229",
       "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 92,
+      "entrants": 109,
       "online": true,
       "major": false,
       "startAt": "2026-11-03T01:00:00.000Z",
@@ -551,7 +551,7 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "No God No Neutral Offline Edition #003",
       "event": "3rd Strike",
-      "entrants": 24,
+      "entrants": 25,
       "online": false,
       "major": false,
       "startAt": "2026-11-07T21:00:00.000Z",

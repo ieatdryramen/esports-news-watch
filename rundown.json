@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T23:00:39.529Z",
+  "generatedAt": "2026-11-03T00:00:42.781Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 13,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -42,6 +42,18 @@
           "why": [
             "bench",
             "roster"
+          ]
+        },
+        {
+          "title": "I got banned for 10 years.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmclz9/i_got_banned_for_10_years/",
+          "source": "r/DotA2",
+          "published": "2026-11-02T23:09:40.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "banned",
+            "won*"
           ]
         },
         {
@@ -125,111 +137,9 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "Won my first ever God Match",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm3tof/won_my_first_ever_god_match/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T17:39:26.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "won",
-            "first ever"
-          ]
-        },
-        {
-          "title": "How to reget rid of cheater",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmafyc/how_to_reget_rid_of_cheater/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T21:41:41.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
-          "title": "When Tekken 6 released players hated that Jin Kazama became the villain of the series Harada said fans “weren’t happy with Jin being almost a villain” which possibly shifted Jin’s story to be about regret and redemption for the next 2 games",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm6gmn/when_tekken_6_released_players_hated_that_jin/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T19:12:25.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "released",
-            "harada"
-          ]
-        },
-        {
-          "title": "Is it cheating if I have extra buttons on my controller?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm5zoy/is_it_cheating_if_i_have_extra_buttons_on_my/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T18:55:37.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
-        },
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-02T06:11:14.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "New Street Fighter X Tekken gameplay leak",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmaioq/new_street_fighter_x_tekken_gameplay_leak/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T21:44:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "leak"
-          ]
-        },
-        {
-          "title": "Steve's pretty good, but he's the worst tournament pick.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm8x66/steves_pretty_good_but_hes_the_worst_tournament/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T20:43:28.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
-        {
-          "title": "Valve Regional Standings (VRS): November 2nd Update",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xm4lhy/valve_regional_standings_vrs_november_2nd_update/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-02T18:06:50.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "update",
-            "official*",
-            "vitality*",
-            "g2*",
-            "spirit*",
-            "mouz*"
-          ]
-        },
         {
           "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close",
           "url": "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close",
@@ -241,6 +151,18 @@
             "karrigan*",
             "navi",
             "faze*",
+            "iem"
+          ]
+        },
+        {
+          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-02T14:00:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
             "iem"
           ]
         },
@@ -261,6 +183,17 @@
           "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
           "source": "HLTV news",
           "published": "2026-11-02T20:47:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major 2026: Every Qualified Team",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-02T11:54:22.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -343,15 +276,79 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 6,
+      "stories": [
+        {
+          "title": "How to reget rid of cheater",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmafyc/how_to_reget_rid_of_cheater/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T21:41:41.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheater"
+          ]
         },
         {
-          "title": "dastan: \"I worked on myself not to show a bad mood\"",
-          "url": "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
-          "source": "HLTV news",
-          "published": "2026-11-02T11:05:00.000Z",
+          "title": "When Tekken 6 released players hated that Jin Kazama became the villain of the series Harada said fans “weren’t happy with Jin being almost a villain” which possibly shifted Jin’s story to be about regret and redemption for the next 2 games",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm6gmn/when_tekken_6_released_players_hated_that_jin/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T19:12:25.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "released",
+            "harada"
+          ]
+        },
+        {
+          "title": "Is it cheating if I have extra buttons on my controller?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm5zoy/is_it_cheating_if_i_have_extra_buttons_on_my/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T18:55:37.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
+          ]
+        },
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-02T06:11:14.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "New Street Fighter X Tekken gameplay leak",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmaioq/new_street_fighter_x_tekken_gameplay_leak/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T21:44:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "leak"
+          ]
+        },
+        {
+          "title": "Steve's pretty good, but he's the worst tournament pick.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xm8x66/steves_pretty_good_but_hes_the_worst_tournament/",
+          "source": "r/Tekken",
+          "published": "2026-11-02T20:43:28.000Z",
           "score": 1,
           "level": null,
-          "why": []
+          "why": [
+            "roster*"
+          ]
         }
       ]
     },
@@ -416,8 +413,19 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Who do you think won this map?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmcx8c/who_do_you_think_won_this_map/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-02T23:22:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
         {
           "title": "G2 putting their roster together",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xm7x5n/g2_putting_their_roster_together/",
@@ -439,6 +447,32 @@
           "why": [
             "roster"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Chun Li Street Fighter 2 Ending",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xmd77k/chun_li_street_fighter_2_ending/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-02T23:34:14.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ending"
+          ]
+        },
+        {
+          "title": "I need yall advice on this simple matter. Black and blue are my fav colors and I ABSOLUTELY LOVE THIS SEASON SKINS. Should I grind who I have in master first or grind the characters I don’t have in master ?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xm6u9h/i_need_yall_advice_on_this_simple_matter_black/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-02T19:26:30.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -494,21 +528,6 @@
           "url": "https://www.reddit.com/r/TrackMania/comments/1xm9mdz/helheim_trailer/",
           "source": "r/TrackMania",
           "published": "2026-11-02T21:10:19.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "I need yall advice on this simple matter. Black and blue are my fav colors and I ABSOLUTELY LOVE THIS SEASON SKINS. Should I grind who I have in master first or grind the characters I don’t have in master ?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xm6u9h/i_need_yall_advice_on_this_simple_matter_black/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-02T19:26:30.000Z",
           "score": 0,
           "level": null,
           "why": []
