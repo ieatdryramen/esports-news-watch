@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-03T05:00:31.949Z",
+  "generatedAt": "2026-11-03T06:00:38.745Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 18,
       "stories": [
+        {
+          "title": "Aurora vs G2 / IEM Beijing 2026 - Group B Lower Bracket Round 1 / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmkvsv/aurora_vs_g2_iem_beijing_2026_group_b_lower/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T05:44:39.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "g2",
+            "iem",
+            "reddit only"
+          ]
+        },
         {
           "title": "Liquid vs VISION / IEM Beijing 2026 - Group B Upper Bracket Semi-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmj0cq/liquid_vs_vision_iem_beijing_2026_group_b_upper/",
@@ -58,6 +74,17 @@
           "why": [
             "liquid",
             "iem"
+          ]
+        },
+        {
+          "title": "Mercury Spray Transfer 3k to win a 2v5",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmkhqm/mercury_spray_transfer_3k_to_win_a_2v5/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T05:23:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "transfer"
           ]
         },
         {
@@ -125,30 +152,12 @@
           "why": [
             "liquid*"
           ]
-        },
-        {
-          "title": "Introducing the advanced stats tab",
-          "url": "https://www.hltv.org/news/45885/introducing-the-advanced-stats-tab",
-          "source": "HLTV news",
-          "published": "2026-11-02T12:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "dastan: \"I worked on myself not to show a bad mood\"",
-          "url": "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
-          "source": "HLTV news",
-          "published": "2026-11-02T11:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -232,30 +241,10 @@
           ]
         },
         {
-          "title": "Patch 8.00 should have bots as its flagship feature",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xm9qup/patch_800_should_have_bots_as_its_flagship_feature/",
-          "source": "r/DotA2",
-          "published": "2026-11-02T21:15:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        },
-        {
           "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
           "source": "Google News: Dota (Hotspawn)",
           "published": "2026-11-02T19:53:55.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "ESL One Heads to Munich for April 2027 Dota 2 Tournament",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFJvRnBidnNyemN0RW1EX0hYQmlxd0phU2dPOWxFWHRGNGdsejA2R0Q4RUFydFlOSDh6dGE0Zm9BMzE1TGVxQTZZSzVFcWV6UDZXNHY5ZldTMEFIZWt5dlJUNTY2cDZMOVQwR1FVRVhTV1lqQjJkSlpzLVBFSXJORjBiblRwdjdYOUhVVFlfb014Nm5yUHJud25ET3A?oc=5",
-          "source": "Google News: Dota (Sports Video Group)",
-          "published": "2026-11-02T14:59:45.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -268,6 +257,17 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-02T12:48:25.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -295,19 +295,8 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "How to reget rid of cheater",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmafyc/how_to_reget_rid_of_cheater/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T21:41:41.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
@@ -320,22 +309,20 @@
           ]
         },
         {
-          "title": "New Street Fighter X Tekken gameplay leak",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmaioq/new_street_fighter_x_tekken_gameplay_leak/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T21:44:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "leak"
-          ]
-        },
-        {
           "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
           "source": "Google News: Tekken (EventHubs)",
           "published": "2026-11-03T01:14:24.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "HECKIN: KING OF IRON PAW TOURNAMENT",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmkcvd/heckin_king_of_iron_paw_tournament/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T05:15:24.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
