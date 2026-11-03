@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T12:30:36.227Z",
+  "generatedAt": "2026-11-03T13:25:37.255Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
@@ -64,6 +64,15 @@
             "season",
             "mrc"
           ]
+        },
+        {
+          "title": "Sheldon Esports Marvel Rivals Post Win",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pQ043ZzNpM1lJd3E0ZVdFYUU4dkpESVYxRFF2VkVLUUxNdERNMXVUWEdxRDNaNnRjdklaSGJvMUJXOENtcXVvUWNGc0JqVm9Xbm5uVmV1ak1raDBZeExyVTNhbDU4Vjc1UU1FWWZSc0VmY2p4dG9Z?oc=5",
+          "source": "Google News: Rivals esports (KIWA Radio)",
+          "published": "2026-11-03T13:14:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals Adds Worthy Spider-Man and Cosmic Cook Thing Costumes on November 5",
