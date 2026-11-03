@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T15:20:32.915Z",
+  "generatedAt": "2026-11-03T16:20:39.024Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
@@ -46,18 +46,6 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEhmRDRtQW1Pd0dUNG5uUXhHNHJUdERKZDlmdTZZYWYtdDYwel9TWjk2Z2k0Q3JRZzFTVjk1R1hKWTZBNGhvM0tHWnBSdVc2cDRRMWlOZl9OTlZndE1EX2liOFg0RVVycXlJLVhrZGFtVDZaRmp1d205U0xTYlh3YVhDTjI2eTUzR201S01jaU4?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
           "published": "2026-11-02T22:24:46.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "mrc"
-          ]
-        },
-        {
-          "title": "MRC Season 7: The Hunt Is On - EMEA Console",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3BmZml0UTNzXzkxTDBHWEhmTDBJNm5kYzZRd3FHS2lnSDE0Z0hfcTJfNDdPWlI0QzhFOFJfN1lqQ0luaTdmZEdvcHd4M3ZQcGZHbk0xTHZOQWZKWmVOYVJ6dWQ5T0JQRWpYMHcxSXNyZzgyUHMtVnpvdGJoR0J1ZURYMW9tRzFQTG93Rw?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-02T15:22:13.000Z",
           "score": 4,
           "level": null,
           "why": [
