@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T00:30:42.347Z",
+  "generatedAt": "2026-11-03T01:30:42.454Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "MRC Season 8: Sins Of Alchemax - Pacific Console",
@@ -19,16 +19,25 @@
           ]
         },
         {
-          "title": "MRC Season 10: Butcher's Blasphemy - EMEA Console",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVVPaDV4bEgwbXFhbjBENG9pTm5pTG9tY3UyUndYU2hTVTNDOUFBb3dIdl9sUzFaQUwwRGZPZGRQa1p5MzMxOWZGWl92RjVVTC05LVdiWjF5cUVIQmtvYkJaWGNNSVFwOC0tLUtKSHNzLVVYSko3Q0I1WUdOTGt2bmg1R1pMY0hjaVJWZDFn?oc=5",
+          "title": "MRC Season 10: Butcher's Blasphemy - Pacific PC",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2plc2kyelRFTjVERVl5SVpwYng4RlpZdjg2QTNFb2l1ZW1Xdm51RjNaRUpHX2ItYVR4Y2JVaUR4emQ5aVdQdXNadkpkMjY2ZWxXaGZKV3Z3Rk1sNWQxN1pmZHo4VDNOeGlYekxpRFRWOFVCb1NiTERwN21jVHZvXzhhRTVwRUFxaC1Z?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-02T19:20:08.000Z",
+          "published": "2026-11-02T21:56:38.000Z",
           "score": 4,
           "level": null,
           "why": [
             "season",
             "mrc"
           ]
+        },
+        {
+          "title": "Marvel Rivals Adds Worthy Spider-Man and Cosmic Cook Thing Costumes on November 5",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFwMjNZUHpqX2pTRXlpaEFZbFpIeFlqTy1UazMwOC1pekZkOTQ2cG1SRm5UY21uRUNxUDRGTlgtSHk3QTI5bDY1Q3hPbE1LT2s1WUtmMVJCMXhiVHZCaklYM1lvdV9sSHJhUXRuV2pmVWRyNFBrVllfbUtxelJTcExjQXV6S1NXdmMtelpyNzlOa3o4bHFnZ3BNR2I1WVN2Zmc?oc=5",
+          "source": "Google News: Rivals esports (Happy Gamer)",
+          "published": "2026-11-03T01:00:54.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Phantom Blade Zero has sold 4 million copies in just 3 days, and sailed past Battlefield 6 and Marvel Rivals on Steam with a peak player count of 820,000",
