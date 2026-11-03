@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T07:30:45.137Z",
+  "generatedAt": "2026-11-03T08:30:38.817Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "MRC Season 8: Sins Of Alchemax - Pacific Console",
@@ -47,6 +47,15 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFwMjNZUHpqX2pTRXlpaEFZbFpIeFlqTy1UazMwOC1pekZkOTQ2cG1SRm5UY21uRUNxUDRGTlgtSHk3QTI5bDY1Q3hPbE1LT2s1WUtmMVJCMXhiVHZCaklYM1lvdV9sSHJhUXRuV2pmVWRyNFBrVllfbUtxelJTcExjQXV6S1NXdmMtelpyNzlOa3o4bHFnZ3BNR2I1WVN2Zmc?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-03T01:00:54.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Phantom Blade Zero has sold 4 million copies in just 3 days, and sailed past Battlefield 6 and Marvel Rivals on Steam with a peak player count of 820,000",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWDBTakdiNnNIZWFhWDF5OWFSazlqc0RDV1dBNGI1TVFXajQ4a2Q3UEpyb1ExRjZ5WUhjeGM1Y3lMVjNxZlRCS0I5Z3N0Y1BwekFvaEtncmhWNU9QZDlpd09KaDl2MVBiR2Uxc1ZMNWhJN1dQenByLU1wVVJSZ1FqbzNTT0NUOURjZU0xSUNaOW9Cb2RkZWFrN0lXYmpTNU9rRllhNWw4T3NDdzlmN0xnbEc4ZDlhTDY0MDdad256bkRRb0FSVDhpUzI1WWdSSGpwalRXVGNKbE5LM3EtdW1YV0Y5R1p1dC1wYllSNXpyZDNsTnhZX1JEQ1ZrOUlrSk1TWkxjZnR1MEtTMFQyZU5JRWRlZUsxWTJ2OFV3QzJ5cGVRZFU?oc=5",
+          "source": "Google News: Rivals patches (GamesRadar+)",
+          "published": "2026-11-02T11:56:37.000Z",
           "score": 1,
           "level": null,
           "why": []
