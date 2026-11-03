@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T00:00:42.781Z",
+  "generatedAt": "2026-11-03T01:00:35.244Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 14,
       "stories": [
         {
           "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
@@ -99,6 +99,15 @@
           "why": []
         },
         {
+          "title": "ESL One Heads to Munich for April 2027 Dota 2 Tournament",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFJvRnBidnNyemN0RW1EX0hYQmlxd0phU2dPOWxFWHRGNGdsejA2R0Q4RUFydFlOSDh6dGE0Zm9BMzE1TGVxQTZZSzVFcWV6UDZXNHY5ZldTMEFIZWt5dlJUNTY2cDZMOVQwR1FVRVhTV1lqQjJkSlpzLVBFSXJORjBiblRwdjdYOUhVVFlfb014Nm5yUHJud25ET3A?oc=5",
+          "source": "Google News: Dota (Sports Video Group)",
+          "published": "2026-11-02T14:59:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Dota 2 PARI Universe: All teams, schedules, results, and more",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERQdmNZVWVUMFE5QUlPR2M1ZWdNWGVDb1Y2dXk1aGg2TnZQaUpfU3pBVTY4SDlLQ1hFZVRpNlV2eGlzeTZJWHpwXzdOVHMwSUktQUhZU3ozWG92cXB2WElGQUpyQ3RsRm1VQzVOTEVJcDJxMlZUR1BJRmJhaktvcGVMLUVIOGpBNnRxTWljQlF0M28?oc=5",
           "source": "Google News: Dota (Esports.gg)",
@@ -124,21 +133,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "High Divine bracket is unbearable",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xm7qlm/high_divine_bracket_is_unbearable/",
-          "source": "r/DotA2",
-          "published": "2026-11-02T19:59:34.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 13,
       "stories": [
         {
           "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close",
@@ -151,18 +151,6 @@
             "karrigan*",
             "navi",
             "faze*",
-            "iem"
-          ]
-        },
-        {
-          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-02T14:00:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
             "iem"
           ]
         },
@@ -183,17 +171,6 @@
           "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
           "source": "HLTV news",
           "published": "2026-11-02T20:47:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Singapore Major 2026: Every Qualified Team",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-02T11:54:22.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -257,22 +234,37 @@
           ]
         },
         {
-          "title": "IEM Beijing 2026 Day 1 Results and Day 2 Schedule",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnV0ekc1UXZpMWdPRWxqUjlVbF9saHpqVTJaemVKS0lMRHFzRlRiZFVjZENHbFgzZ2tzaENoWGN3Q1BPOTU5YXI0VHk5V0E0S3E5RWNRZTdqNXVvYnJnTDlEMjhtbmVCTGFKWTJkWHUyaDhDeG5BQm45YzVJTGl3TVJsSGw5SjgwNXBVbDFJNA?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-02T14:23:04.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "iem",
-            "-schedule"
-          ]
-        },
-        {
           "title": "Introducing the advanced stats tab",
           "url": "https://www.hltv.org/news/45885/introducing-the-advanced-stats-tab",
           "source": "HLTV news",
           "published": "2026-11-02T12:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "dastan: \"I worked on myself not to show a bad mood\"",
+          "url": "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
+          "source": "HLTV news",
+          "published": "2026-11-02T11:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 43",
+          "url": "https://www.hltv.org/news/45887/short-news-week-43",
+          "source": "HLTV news",
+          "published": "2026-11-02T09:58:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Techno: \"It almost feels like we are playing with two IGLs\"",
+          "url": "https://www.hltv.org/news/45882/techno-it-almost-feels-like-we-are-playing-with-two-igls",
+          "source": "HLTV news",
+          "published": "2026-11-02T07:23:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -281,7 +273,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "How to reget rid of cheater",
@@ -304,17 +296,6 @@
           "why": [
             "released",
             "harada"
-          ]
-        },
-        {
-          "title": "Is it cheating if I have extra buttons on my controller?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm5zoy/is_it_cheating_if_i_have_extra_buttons_on_my/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T18:55:37.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
           ]
         },
         {
@@ -354,7 +335,7 @@
     },
     {
       "scene": "Brood War",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "How SKT1 S-Tiers Felt To Be Swept By Flash On ProLeague",
@@ -366,19 +347,6 @@
           "why": [
             "proleague",
             "flash"
-          ]
-        },
-        {
-          "title": "Soulkey Needs to play ASL as Random",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xm5vu3/soulkey_needs_to_play_asl_as_random/",
-          "source": "r/broodwar",
-          "published": "2026-11-02T18:51:57.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "asl",
-            "flash*",
-            "soulkey"
           ]
         }
       ]
@@ -408,6 +376,41 @@
           "why": [
             "champions*"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Chun Li Street Fighter 2 Ending",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xmd77k/chun_li_street_fighter_2_ending/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-02T23:34:14.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ending"
+          ]
+        },
+        {
+          "title": "Final Fight cross Street Fighter",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xme32u/final_fight_cross_street_fighter/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-03T00:11:47.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "I need yall advice on this simple matter. Black and blue are my fav colors and I ABSOLUTELY LOVE THIS SEASON SKINS. Should I grind who I have in master first or grind the characters I don’t have in master ?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xm6u9h/i_need_yall_advice_on_this_simple_matter_black/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-02T19:26:30.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -451,46 +454,27 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 2,
+      "scene": "Halo",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Chun Li Street Fighter 2 Ending",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xmd77k/chun_li_street_fighter_2_ending/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-02T23:34:14.000Z",
+          "title": "Teams registered for Halo Infinite 4v4 Open tournament ($20,000) at Halo Fest",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xmef2g/teams_registered_for_halo_infinite_4v4_open/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-03T00:26:43.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "ending"
+            "signed*",
+            "prize pool*"
           ]
-        },
-        {
-          "title": "I need yall advice on this simple matter. Black and blue are my fav colors and I ABSOLUTELY LOVE THIS SEASON SKINS. Should I grind who I have in master first or grind the characters I don’t have in master ?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xm6u9h/i_need_yall_advice_on_this_simple_matter_black/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-02T19:26:30.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Melee has a new Results Generator tool! Supports Top 8 to Top 32, custom aspect ratios, auto-selects theme from banner image / tourney logo & player costume colors, and toggle-able stats from Lucky Stats!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xm4nnx/melee_has_a_new_results_generator_tool_supports/",
-          "source": "r/SSBM",
-          "published": "2026-11-02T18:08:55.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "zain*"
-          ]
-        },
         {
           "title": "I Gave NBA Players a Super Smash Bros. Melee Main",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbV82eHlmWlQzNVZTYVl2RHhpenQ3eU1vU2JaS1R2U2ItVGtManFvSk9DR1gtQVB4Uk5XYS1tMmdOOXJNc1pqWm51NGRjbXBzNElYYkxMdkF1aU12?oc=5",
@@ -538,7 +522,6 @@
   "quiet": [
     "Classic Tetris",
     "Legacy FGC",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
