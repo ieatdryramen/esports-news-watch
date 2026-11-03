@@ -1,10 +1,148 @@
 {
-  "generatedAt": "2026-11-03T16:50:19.806Z",
+  "generatedAt": "2026-11-03T17:45:25.963Z",
   "windowHours": 24,
   "scenes": [
     {
+      "scene": "Dota",
+      "storyCount": 12,
+      "stories": [
+        {
+          "title": "Hellnight banned for match fixing at EPC Season 3",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmzi1f/hellnight_banned_for_match_fixing_at_epc_season_3/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T17:38:30.000Z",
+          "score": 9,
+          "level": "possible",
+          "why": [
+            "banned",
+            "match fixing",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KelRZSWNMa09TMi1DWnZCMzF0SGVDaUV5Tks1QThuUU5tRk9Ta0YxaGo0bTk5aTdwb2tRdzUtdkg3SThybkFVcVVIVHkzb2Z2ZWJ5ZVhQUDJ2VFg5eDdOanQ5ZWVjLUM3c0locXNXNEFLMTlJS05FQm1B?oc=5",
+          "source": "Google News: Dota (Dot Esports)",
+          "published": "2026-11-02T19:25:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "roster",
+            "inactive"
+          ]
+        },
+        {
+          "title": "BetBoom Team Suspend Dota 2 Roster, Move All Five Players to the Bench After Post-TI Slump",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjgxbDVkWHBYaDQxOGcwNE9HSEhhVFJmLTJLOGlYem9ldjlnWDF6TVhMQUY0N1NSLVB5VEhDRFAyTG1mU3F4bmZQWjBGM0lLNldDNzlzWU1LSUVFUUtlOGFXdE5Bb3BKUlVETGlEMy1JMWswV3pVUzc4Q3kxeDRaZE5aX0pMYzdKWjFjdUJqRGJOaTViR1VnX0c3cTZkRVpPTUE?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-02T18:20:54.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "bench",
+            "roster"
+          ]
+        },
+        {
+          "title": "I got banned for what?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmz24v/i_got_banned_for_what/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T17:22:33.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "banned"
+          ]
+        },
+        {
+          "title": "BetBoom Team puts its Dota 2 division on hiatus",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
+          "source": "Google News: Dota (GosuGamers)",
+          "published": "2026-11-03T08:18:14.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "hiatus"
+          ]
+        },
+        {
+          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-03T07:20:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "BETBOOM TEAM announced its withdrawal from professional Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXhwckQwakRwODBfTGRWTnlGNTdFUjZFdDFPZTRmMGYycVZZQVRNN3dHUXlxLWI2V0tIdUdoQWFkd0trMmxYajdscllVRE9pT1dYQnRRREQ3MmQwS1g1RUphMHBUTy1iemFGVmdSTXgxN1FWc2pVX0MzSUw0V3phYkIzdw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-03T07:15:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "announced"
+          ]
+        },
+        {
+          "title": "BetBoom moves entire roster to enactive as it pauses its Dota 2 project",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xSHozVFgxTGJOWlFvYnozcXUwOHVvaTR3bUZWZWRSWklxbFJ3bkYxWDJmTzZrcHpKWlhCX2k3WTNuTVFIaFRpR3ZwRXBOV0ZYbTk3MnFkUm5FVGdvMUtLOS1IVQ?oc=5",
+          "source": "Google News: Dota (WIN.GG)",
+          "published": "2026-11-02T20:22:32.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "Dota 2 update is COMING",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmz36q/dota_2_update_is_coming/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T17:23:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "ex-BB team new lineup",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xms19d/exbb_team_new_lineup/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T12:47:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
+        },
+        {
+          "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-02T19:53:55.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "It's patch day today",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmxjt5/its_patch_day_today/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T16:27:23.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CS2",
-      "storyCount": 27,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Every top professional is accused of cheating on their way up. These are the most-reported pros from the top 10 VRS Ranked teams, by reports received on FACEIT during the careers that lead to the biggest LAN stages.",
@@ -65,18 +203,6 @@
           ]
         },
         {
-          "title": "G2 - team roster, matches, statistics",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00em9oLVg1eDNyWm1Vbjcwb2FoZ19xTnd0Rnh4TUZ6eWpzQzU2VkFUUGRJMkhiVkhnYlBBVkZJRktuNmNUVi1YQmQ2dGZ0Smc?oc=5",
-          "source": "Google News: CS2 (escorenews.com)",
-          "published": "2026-11-03T09:39:41.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "roster",
-            "g2"
-          ]
-        },
-        {
           "title": "karrigan: \"We can't win our own map pick lately\"",
           "url": "https://www.hltv.org/news/45898/karrigan-we-cant-win-our-own-map-pick-lately",
           "source": "HLTV news",
@@ -98,6 +224,17 @@
           "why": [
             "faze",
             "furia*"
+          ]
+        },
+        {
+          "title": "xertioN: \"I think this is the best MOUZ we have ever seen\"",
+          "url": "https://www.hltv.org/news/45895/xertion-i-think-this-is-the-best-mouz-we-have-ever-seen",
+          "source": "HLTV news",
+          "published": "2026-11-03T17:32:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mouz"
           ]
         },
         {
@@ -158,109 +295,6 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 9,
-      "stories": [
-        {
-          "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KelRZSWNMa09TMi1DWnZCMzF0SGVDaUV5Tks1QThuUU5tRk9Ta0YxaGo0bTk5aTdwb2tRdzUtdkg3SThybkFVcVVIVHkzb2Z2ZWJ5ZVhQUDJ2VFg5eDdOanQ5ZWVjLUM3c0locXNXNEFLMTlJS05FQm1B?oc=5",
-          "source": "Google News: Dota (Dot Esports)",
-          "published": "2026-11-02T19:25:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "roster",
-            "inactive"
-          ]
-        },
-        {
-          "title": "BetBoom Team Suspend Dota 2 Roster, Move All Five Players to the Bench After Post-TI Slump",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjgxbDVkWHBYaDQxOGcwNE9HSEhhVFJmLTJLOGlYem9ldjlnWDF6TVhMQUY0N1NSLVB5VEhDRFAyTG1mU3F4bmZQWjBGM0lLNldDNzlzWU1LSUVFUUtlOGFXdE5Bb3BKUlVETGlEMy1JMWswV3pVUzc4Q3kxeDRaZE5aX0pMYzdKWjFjdUJqRGJOaTViR1VnX0c3cTZkRVpPTUE?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-02T18:20:54.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "bench",
-            "roster"
-          ]
-        },
-        {
-          "title": "BetBoom Team puts its Dota 2 division on hiatus",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
-          "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T08:18:14.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "hiatus"
-          ]
-        },
-        {
-          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-03T07:20:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "BETBOOM TEAM announced its withdrawal from professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXhwckQwakRwODBfTGRWTnlGNTdFUjZFdDFPZTRmMGYycVZZQVRNN3dHUXlxLWI2V0tIdUdoQWFkd0trMmxYajdscllVRE9pT1dYQnRRREQ3MmQwS1g1RUphMHBUTy1iemFGVmdSTXgxN1FWc2pVX0MzSUw0V3phYkIzdw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-03T07:15:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "announced"
-          ]
-        },
-        {
-          "title": "BetBoom moves entire roster to enactive as it pauses its Dota 2 project",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xSHozVFgxTGJOWlFvYnozcXUwOHVvaTR3bUZWZWRSWklxbFJ3bkYxWDJmTzZrcHpKWlhCX2k3WTNuTVFIaFRpR3ZwRXBOV0ZYbTk3MnFkUm5FVGdvMUtLOS1IVQ?oc=5",
-          "source": "Google News: Dota (WIN.GG)",
-          "published": "2026-11-02T20:22:32.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "ex-BB team new lineup",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xms19d/exbb_team_new_lineup/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T12:47:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        },
-        {
-          "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-02T19:53:55.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "It's patch day today",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmxjt5/its_patch_day_today/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T16:27:23.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -279,26 +313,20 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 1,
+      "scene": "Tekken",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "Taking T90 out of context is too easy",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xmillh/taking_t90_out_of_context_is_too_easy/",
-          "source": "r/aoe2",
-          "published": "2026-11-03T03:43:58.000Z",
+          "title": "Tekken Modder \" Melonpizza \" Made Tekken 8 Version Moveset of Dr. Boskonovitch ( not released yet)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmyw7m/tekken_modder_melonpizza_made_tekken_8_version/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T17:16:44.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "t90"
+            "released"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
+        },
         {
           "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
@@ -325,7 +353,7 @@
       "stories": [
         {
           "title": "[Photo] Kim Heon-gon exits on third strike",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEstdjlxOEZRNmNtMlVyRWpTQkxuQmNsM3RIbmptNU1ERzhuaC1UY0RGSDlBMEtCS1YyUWZTWmpVR0g3QkNKOGtHYlY0MnlOMzNvNEtPWF9WOFhHTUh6Njk0WGZSbDNNTlFQb0dsU3BwUF9SMzRFUTlFTC1fWWNZUzFfb9IBlwFBVV95cUxOeG9mSWV5NW1ySElSQThLRVEzbG1vUjlVSFc1SmtoeUJPM08xc2E3RUNUTGZZeVN6eFdWekVpeDRta0EyTUpKei1DV0ZpTEtuOXYwVFVwMjhRd3lUb1JZTDI4bmN1SFJKU3ZjWWRlSktWZ01TMjFDaVlIT1BiMXFRM2ZPWE1zemR4VWdyR19Kb1pMb2NweTM0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeG9mSWV5NW1ySElSQThLRVEzbG1vUjlVSFc1SmtoeUJPM08xc2E3RUNUTGZZeVN6eFdWekVpeDRta0EyTUpKei1DV0ZpTEtuOXYwVFVwMjhRd3lUb1JZTDI4bmN1SFJKU3ZjWWRlSktWZ01TMjFDaVlIT1BiMXFRM2ZPWE1zemR4VWdyR19Kb1pMb2NweTM00gGXAUFVX3lxTE54b2ZJZXk1bXJISVJBOEtFUTNsbW9SOVVIVzVKa2h5Qk8zTzFzYTdFQ1RMZll5U3p4V1Z6RWl4NG1rQTJNSkp6LUNXRmlMS245djBUVXAyOFF3eVRvUllMMjhuY3VIUkpTdmNZZGVKS1ZnTVMyMUNpWUhPUGIxcVEzZk9YTXN6ZHhVZ3JHX0pvWkxvY3B5MzQ?oc=5",
           "source": "Google News: Street Fighter (Chosunbiz)",
           "published": "2026-11-03T12:11:00.000Z",
           "score": 1,
@@ -350,9 +378,35 @@
       ]
     },
     {
-      "scene": "CoD",
+      "scene": "Halo",
       "storyCount": 1,
       "stories": [
+        {
+          "title": "Free Entry $750 Halo Infinite FFA tournament, Sat Nov 28 (double elimination, 64 players, top 8 paid)",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xmy885/free_entry_750_halo_infinite_ffa_tournament_sat/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-03T16:52:40.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "prize pool*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "There is a Challengers tournament being held today around 4pm CST these are the groups:",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmzn53/there_is_a_challengers_tournament_being_held/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T17:43:45.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Dreamhack Major 2 ticket pricing",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmvus1/dreamhack_major_2_ticket_pricing/",
@@ -366,11 +420,11 @@
     }
   ],
   "quiet": [
+    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
