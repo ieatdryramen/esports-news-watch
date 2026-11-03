@@ -1,16 +1,72 @@
 {
-  "generatedAt": "2026-11-03T18:15:52.997Z",
+  "generatedAt": "2026-11-03T19:11:02.995Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 25,
       "stories": [
+        {
+          "title": "Cap is so bad netease banned him",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xmfn1s/cap_is_so_bad_netease_banned_him/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-03T01:23:22.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "banned",
+            "ban*",
+            "won*",
+            "season*",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "Disconnects on quick match should not be bannable. Don’t worry, it’s the last time I’ll post this because the game is unplayable on PS4",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xmhi8j/disconnects_on_quick_match_should_not_be_bannable/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-03T02:51:27.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "the last",
+            "ban*",
+            "replaced*",
+            "released*"
+          ]
+        },
+        {
+          "title": "What's the schedule for next week?",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xn1zec/whats_the_schedule_for_next_week/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-03T19:07:09.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "balance*",
+            "balance changes*",
+            "season*",
+            "new season*",
+            "roadmap*"
+          ]
+        },
+        {
+          "title": "Champion badge in qp ≠ sweat but if I’m trying to learn a character from 0 and I see this on the enemy dps I’m dipping idc",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xmu4gb/champion_badge_in_qp_sweat_but_if_im_trying_to/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-03T14:18:06.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "ban*",
+            "champion"
+          ]
+        },
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3oyXzBZN09oQnI0b2lRN2dqMkxtbWR0SHFvNF9VQU4xbHlCb3Fsb09uQmY5SEtHUVhzWUI4eDFTYkU0ZEdSUkdDWkdUcmlHdE55N3JTbFZSQzg0ZEJQNWR4NzFyeXBsOWl3bUozM2xtcnJ4UTZBV2RRZEZkajFTWWRRa0YycjlrT0xfZll0QXJuZWdCV2Q4Zll0TzFLTXg1c2FmNmxMNA?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
-          "published": "2026-11-03T12:24:17.000Z",
+          "published": "2026-11-03T16:08:20.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -54,33 +110,51 @@
           ]
         },
         {
-          "title": "Marvel Rivals - Official 'Worthy Spider-Man' Costume Trailer",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelpUS2R3OC1XeWdRcDRGVU00cDJnVlBhQ0RoU0RGdTY2WlY0QlJGLU9DcjM0V0hFUWtuSWUwY01UVkxFTk9KT1JuRFhXdnJicER3ZTJncThMVVB4bVpybjdQYlJoandwSzVuNDBBOFpWY2Y2MnJhOElWVjF6aVo5MnE3aWxfUEZCYkJMNkdPNEQ3WHhOa1lXbmc5MW8?oc=5",
-          "source": "Google News: Rivals patches (IGN India)",
-          "published": "2026-11-03T16:59:30.000Z",
-          "score": 2,
+          "title": "I don't understand why they don't just balance ranked differently than QP",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xmz0hy/i_dont_understand_why_they_dont_just_balance/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-03T17:20:50.000Z",
+          "score": 3.5,
           "level": null,
           "why": [
-            "official"
+            "balance",
+            "nerf*"
           ]
         },
         {
-          "title": "Sheldon Esports Marvel Rivals Post Win",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pQ043ZzNpM1lJd3E0ZVdFYUU4dkpESVYxRFF2VkVLUUxNdERNMXVUWEdxRDNaNnRjdklaSGJvMUJXOENtcXVvUWNGc0JqVm9Xbm5uVmV1ak1raDBZeExyVTNhbDU4Vjc1UU1FWWZSc0VmY2p4dG9Z?oc=5",
-          "source": "Google News: Rivals esports (KIWA Radio)",
-          "published": "2026-11-03T13:14:47.000Z",
-          "score": 1,
+          "title": "I geniuently think Rivals should take inspiration on how to balance a game from Brawl Stars.",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xmrzj5/i_geniuently_think_rivals_should_take_inspiration/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-03T12:44:45.000Z",
+          "score": 3.5,
           "level": null,
-          "why": []
+          "why": [
+            "balance",
+            "nerf*"
+          ]
         },
         {
-          "title": "Marvel Rivals Adds Worthy Spider-Man and Cosmic Cook Thing Costumes on November 5",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFwMjNZUHpqX2pTRXlpaEFZbFpIeFlqTy1UazMwOC1pekZkOTQ2cG1SRm5UY21uRUNxUDRGTlgtSHk3QTI5bDY1Q3hPbE1LT2s1WUtmMVJCMXhiVHZCaklYM1lvdV9sSHJhUXRuV2pmVWRyNFBrVllfbUtxelJTcExjQXV6S1NXdmMtelpyNzlOa3o4bHFnZ3BNR2I1WVN2Zmc?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-03T01:00:54.000Z",
-          "score": 1,
+          "title": "There should be an arcade mode with no lord's or champions.",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xmn52e/there_should_be_an_arcade_mode_with_no_lords_or/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-03T08:01:11.000Z",
+          "score": 3.5,
           "level": null,
-          "why": []
+          "why": [
+            "champions",
+            "season*"
+          ]
+        },
+        {
+          "title": "Potential Reed Rework Concept",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xn198b/potential_reed_rework_concept/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-03T18:41:18.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "rework"
+          ]
         }
       ]
     }

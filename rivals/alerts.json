@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T19:11:02.722Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "What's the schedule for next week?",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xn1zec/whats_the_schedule_for_next_week/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "balance*",
+        "balance changes*",
+        "season*",
+        "new season*",
+        "roadmap*"
+      ],
+      "summary": "This is favorite part of a new season. New character, new balance changes, new roadmap and new skins. Do the announcements start Monday or Tuesday though? And if so, what's usually the order of announcements? submitted by /u/Choice-Bread-5872 to r/marvelrivals [link] [comments]",
+      "published": "2026-11-03T19:07:09.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T02:11:20.485Z",
       "level": "possible",
       "scene": "Marvel Rivals",
