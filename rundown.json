@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T08:00:36.971Z",
+  "generatedAt": "2026-11-03T08:55:27.205Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 12,
       "stories": [
         {
           "title": "MOUZ vs BB / IEM Beijing 2026 - Group B Upper Bracket Semi-Final / Post-Match Discussion",
@@ -39,41 +39,27 @@
           ]
         },
         {
-          "title": "Aurora eliminate G2 from IEM Beijing",
-          "url": "https://www.hltv.org/news/45892/aurora-eliminate-g2-from-iem-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-03T06:52:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "won*",
-            "g2",
-            "iem"
-          ]
-        },
-        {
-          "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close",
-          "url": "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close",
-          "source": "HLTV news",
-          "published": "2026-11-02T14:16:00.000Z",
+          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-02T14:00:54.000Z",
           "score": 5,
           "level": null,
           "why": [
-            "karrigan*",
             "navi",
-            "faze*",
             "iem"
           ]
         },
         {
-          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-03T06:43:37.000Z",
-          "score": 3,
+          "title": "M0nesy double one-tap vs Faze",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmnm8j/m0nesy_double_onetap_vs_faze/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T08:32:11.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "iem"
+            "m0nesy",
+            "faze"
           ]
         },
         {
@@ -88,21 +74,10 @@
           ]
         },
         {
-          "title": "PARIVISION beat Liquid to make Beijing playoffs",
-          "url": "https://www.hltv.org/news/45891/parivision-beat-liquid-to-make-beijing-playoffs",
-          "source": "HLTV news",
-          "published": "2026-11-03T04:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "liquid"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore race as it happened",
-          "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
-          "source": "HLTV news",
-          "published": "2026-11-02T20:47:00.000Z",
+          "title": "PGL Singapore Major 2026: Every Qualified Team",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-02T11:54:22.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -118,6 +93,17 @@
           "level": null,
           "why": [
             "iem"
+          ]
+        },
+        {
+          "title": "Faze win Map 2 (Anubis) vs. Falcons, 13-11",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmny4a/faze_win_map_2_anubis_vs_falcons_1311/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T08:53:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
@@ -143,21 +129,30 @@
           ]
         },
         {
-          "title": "Valve release Major-deciding November VRS update",
-          "url": "https://www.hltv.org/news/45890/valve-release-major-deciding-november-vrs-update",
-          "source": "HLTV news",
-          "published": "2026-11-02T17:58:00.000Z",
-          "score": 2,
+          "title": "Is it too late for major?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmmtqa/is_it_too_late_for_major/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T07:40:59.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "update"
+            "faze*"
           ]
+        },
+        {
+          "title": "New patch?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmgngb/new_patch/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T02:10:59.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 13,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -193,6 +188,29 @@
           "why": [
             "banned",
             "ban*"
+          ]
+        },
+        {
+          "title": "BetBoom Team puts its Dota 2 division on hiatus",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
+          "source": "Google News: Dota (GosuGamers)",
+          "published": "2026-11-03T07:55:09.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "hiatus"
+          ]
+        },
+        {
+          "title": "How Team Spirit 3-0 Yandex — PARI Universe FINALS",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmnmmf/how_team_spirit_30_yandex_pari_universe_finals/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T08:32:55.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand final*",
+            "team spirit"
           ]
         },
         {
