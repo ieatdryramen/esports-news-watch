@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T16:20:40.173Z",
+  "generatedAt": "2026-11-03T17:20:27.976Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -18,18 +18,6 @@
             "patch notes",
             "balance",
             "balance changes"
-          ]
-        },
-        {
-          "title": "Phoenix Cyclops compatibility patch notes released for Marvel Tokon: Fighting Souls",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnpUenl4dFhmWnM4YlRuSXFKMGxUZVUtM3YtNWE5MFdZeF9QcjVFNXQ4TDN0U3hJZFIxYTZCbFdtX2pUclR6djRIZUxialNKVlo1V0phMVctRWhxblNnMHptM2hvYkFZVFN0ZDdyS3NxQmdUc0psdVJrMTRNWWJBWWhJZjNvQTNaRFFOVWNB?oc=5",
-          "source": "Google News: Tokon competitive (EventHubs)",
-          "published": "2026-11-02T16:36:49.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "released",
-            "patch notes"
           ]
         },
         {
@@ -64,6 +52,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm1BVlpKY0tSZWh5YTFaXzdiQWJmZnFjbjVSRGpvTFRpNjhQUVlKMGFUNkhaZXBjT1NScWdCeFMySGdRRWxyX0dFRE91WFIzQ1l3Q0JkV3l0WnpSV3ZPZFZyaGUtaFJBOVRCOHdncUJBdzBXeERralUtbGNrYXRIUkF4THlLOXRhR3EwckdEYnhpMXA2X2xXNE5qMWpXblJLeDhJYVhEM01COWs5N0pLQW5yRm4?oc=5",
+          "source": "Google News: Tokon (Push Square)",
+          "published": "2026-11-03T13:24:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }

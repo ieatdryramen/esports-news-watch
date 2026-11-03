@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T16:20:39.024Z",
+  "generatedAt": "2026-11-03T17:20:26.971Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
@@ -51,6 +51,17 @@
           "why": [
             "season",
             "mrc"
+          ]
+        },
+        {
+          "title": "Marvel Rivals - Official 'Worthy Spider-Man' Costume Trailer",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelpUS2R3OC1XeWdRcDRGVU00cDJnVlBhQ0RoU0RGdTY2WlY0QlJGLU9DcjM0V0hFUWtuSWUwY01UVkxFTk9KT1JuRFhXdnJicER3ZTJncThMVVB4bVpybjdQYlJoandwSzVuNDBBOFpWY2Y2MnJhOElWVjF6aVo5MnE3aWxfUEZCYkJMNkdPNEQ3WHhOa1lXbmc5MW8?oc=5",
+          "source": "Google News: Rivals patches (IGN India)",
+          "published": "2026-11-03T16:59:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "official"
           ]
         },
         {
