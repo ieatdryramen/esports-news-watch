@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T02:30:49.469Z",
+  "generatedAt": "2026-11-03T03:31:06.613Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -22,7 +22,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-03T01:51:51.000Z",
+      "newest": "2026-11-03T03:12:30.000Z",
       "error": null
     },
     {
@@ -35,11 +35,11 @@
     },
     {
       "name": "Fragster",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "items": 10,
-      "newest": "2026-11-02T18:45:32.000Z",
-      "error": null
+      "items": 0,
+      "newest": null,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "name": "Insider Gaming",
@@ -77,15 +77,15 @@
       "name": "Google News: Tokon competitive",
       "ok": true,
       "skipped": false,
-      "items": 2,
-      "newest": "2026-11-02T12:22:47.000Z",
+      "items": 3,
+      "newest": "2026-11-02T15:15:14.000Z",
       "error": null
     },
     {
       "name": "Google News: Tokon patches + DLC",
       "ok": true,
       "skipped": false,
-      "items": 6,
+      "items": 5,
       "newest": "2026-11-02T19:38:12.000Z",
       "error": null
     },
