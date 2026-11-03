@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T21:40:23.450Z",
+  "generatedAt": "2026-11-03T22:00:33.965Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Hellnight banned for match fixing at EPC Season 3",
@@ -64,6 +64,19 @@
           ]
         },
         {
+          "title": "About new patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xn67cs/about_new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T21:45:54.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "update*",
+            "record*",
+            "history*"
+          ]
+        },
+        {
           "title": "Dota 2 update is COMING",
           "url": "https://www.reddit.com/r/DotA2/comments/1xmz36q/dota_2_update_is_coming/",
           "source": "r/DotA2",
@@ -78,21 +91,8 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
-        {
-          "title": "Every top professional is accused of cheating on their way up. These are the most-reported pros from the top 10 VRS Ranked teams, by reports received on FACEIT during the careers that lead to the biggest LAN stages.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmxq17/every_top_professional_is_accused_of_cheating_on/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T16:33:45.000Z",
-          "score": 8,
-          "level": "possible",
-          "why": [
-            "cheating",
-            "accused",
-            "reddit only"
-          ]
-        },
         {
           "title": "Will Fallen call off his retirement and renew with Furia?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xn0cky/will_fallen_call_off_his_retirement_and_renew/",
@@ -119,6 +119,18 @@
             "navi",
             "furia",
             "iem*"
+          ]
+        },
+        {
+          "title": "G2 - team roster, matches, statistics",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00em9oLVg1eDNyWm1Vbjcwb2FoZ19xTnd0Rnh4TUZ6eWpzQzU2VkFUUGRJMkhiVkhnYlBBVkZJRktuNmNUVi1YQmQ2dGZ0Smc?oc=5",
+          "source": "Google News: CS2 (escorenews.com)",
+          "published": "2026-11-03T09:39:41.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "roster",
+            "g2"
           ]
         },
         {
