@@ -652,24 +652,6 @@
       ],
       "summary": "The Chinese AWPer is available after missing the team's last four matches through illness.",
       "published": "2026-11-01T16:45:00.000Z"
-    },
-    {
-      "alertedAt": "2026-11-01T15:50:22.009Z",
-      "level": "possible",
-      "scene": "Dota",
-      "title": "How are you cheating but is still Archon?",
-      "url": "https://www.reddit.com/r/DotA2/comments/1xl6ecz/how_are_you_cheating_but_is_still_archon/",
-      "source": "r/DotA2",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 5.5,
-      "why": [
-        "ban*",
-        "cheating"
-      ],
-      "summary": "Any Dota2 developers here? Please ban the lions account. 2nd time I've encountered a scripter but this one has 3,000+ hours spent on the game - so I was skeptical at first. Match ID: 9071591419 submitted by /u/Dontwannakillem to r/DotA2 [link] [comments]",
-      "published": "2026-11-01T15:49:33.000Z"
     }
   ]
 }

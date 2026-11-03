@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T14:55:32.777Z",
+  "generatedAt": "2026-11-03T15:55:17.889Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 20,
       "stories": [
         {
           "title": "The MongolZ vs HEROIC / IEM Beijing 2026 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
@@ -23,38 +23,96 @@
           ]
         },
         {
-          "title": "FaZe vs Falcons / IEM Beijing 2026 - Group A Lower Bracket Round 1 / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmoy1g/faze_vs_falcons_iem_beijing_2026_group_a_lower/",
+          "title": "Legacy vs B8 / IEM Beijing 2026 - Group A Lower Bracket Round 1 / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmtr47/legacy_vs_b8_iem_beijing_2026_group_a_lower/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-03T09:56:14.000Z",
-          "score": 7.5,
+          "published": "2026-11-03T14:03:17.000Z",
+          "score": 6.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "niko*",
-            "m0nesy*",
-            "karrigan*"
+            "natus vincere*",
+            "iem"
           ]
         },
         {
-          "title": "Karrigan hugging his former faze teammates",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmp0wi/karrigan_hugging_his_former_faze_teammates/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T10:00:51.000Z",
+          "title": "FURIA outlast NAVI for Beijing playoffs",
+          "url": "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
+          "source": "HLTV news",
+          "published": "2026-11-03T13:43:00.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "champions*",
+            "navi",
+            "furia",
+            "iem*"
+          ]
+        },
+        {
+          "title": "karrigan: \"We can't win our own map pick lately\"",
+          "url": "https://www.hltv.org/news/45898/karrigan-we-cant-win-our-own-map-pick-lately",
+          "source": "HLTV news",
+          "published": "2026-11-03T11:17:00.000Z",
           "score": 4,
           "level": null,
           "why": [
             "karrigan",
-            "faze"
+            "faze*"
+          ]
+        },
+        {
+          "title": "Falcons condemn FaZe to last-place exit in Beijing",
+          "url": "https://www.hltv.org/news/45896/falcons-condemn-faze-to-last-place-exit-in-beijing",
+          "source": "HLTV news",
+          "published": "2026-11-03T10:03:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze",
+            "furia*"
+          ]
+        },
+        {
+          "title": "Matchups set for last day of IEM Beijing groups",
+          "url": "https://www.hltv.org/news/45901/matchups-set-for-last-day-of-iem-beijing-groups",
+          "source": "HLTV news",
+          "published": "2026-11-03T14:21:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "The best highlights from IEM Beijing group stage",
+          "url": "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
+          "source": "HLTV news",
+          "published": "2026-11-03T14:09:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "Legacy crash out of IEM Beijing after loss to B8",
+          "url": "https://www.hltv.org/news/45902/legacy-crash-out-of-iem-beijing-after-loss-to-b8",
+          "source": "HLTV news",
+          "published": "2026-11-03T14:04:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
           ]
         },
         {
           "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-03T06:43:37.000Z",
+          "published": "2026-11-03T12:10:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -93,59 +151,12 @@
           "why": [
             "karrigan"
           ]
-        },
-        {
-          "title": "PGL Cluj-Napoca 2027: European Open Qualifiers Registration is live",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmqkx7/pgl_clujnapoca_2027_european_open_qualifiers/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T11:32:13.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Aleksib reaction to a crazy flick from Yekindar",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmqfv5/aleksib_reaction_to_a_crazy_flick_from_yekindar/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T11:24:27.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "aleksib"
-          ]
-        },
-        {
-          "title": "IEM Beijing 2026 Day 2 Results and Day 3 Schedule",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xZVJNbkR5MHhvUENFTFJ5d2I5cS1oV3M3OGtZX19HWlJVQVlTZ2FjVmZXS1Uwal9GY2d3MUFQYTVuc3dyNDBtQXYtWHNLOUozX0NOWGpUUTcxZGdOX1BSUWdvWnlTSTlNaGs0UE9fR2pRNkJ2eXc?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-03T14:24:35.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "iem",
-            "-schedule"
-          ]
-        },
-        {
-          "title": "IEM Beijing 2026 - CS2 - Viewership, Overview, Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSF9HRWlmVUw5TDQ4ZncyaHduWVdRcmRMWkNyMERwTlFNd0s2bmo3bXNUQWRwZFVjWFFvcjZfNHpGVHRnSnVnTU9UbnRybWhOUWJJdVFMU1ZvQWQxak9lYUE3SEtJcTdCXzJ1bmlxeE5QMnRCRFVDcDRlRG0?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-03T12:19:17.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "prize pool",
-            "iem",
-            "-viewership, overview"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -227,17 +238,6 @@
           ]
         },
         {
-          "title": "Bristleback skill set update.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmo5fm/bristleback_skill_set_update/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T09:06:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
           "source": "Google News: Dota (Hotspawn)",
@@ -245,13 +245,48 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Armada tells the story about why he played Pit in PM (TLDR; Leffen)",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xmvcji/armada_tells_the_story_about_why_he_played_pit_in/",
+          "source": "r/SSBM",
+          "published": "2026-11-03T15:05:14.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "leffen",
+            "armada"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Our Honest Thoughts on Modern Warfare 4... | FaZe Vegas Podcast",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmpl1q/our_honest_thoughts_on_modern_warfare_4_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T10:34:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
         },
         {
-          "title": "ESL One Heads to Munich for April 2027 Dota 2 Tournament",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFJvRnBidnNyemN0RW1EX0hYQmlxd0phU2dPOWxFWHRGNGdsejA2R0Q4RUFydFlOSDh6dGE0Zm9BMzE1TGVxQTZZSzVFcWV6UDZXNHY5ZldTMEFIZWt5dlJUNTY2cDZMOVQwR1FVRVhTV1lqQjJkSlpzLVBFSXJORjBiblRwdjdYOUhVVFlfb014Nm5yUHJud25ET3A?oc=5",
-          "source": "Google News: Dota (Sports Video Group)",
-          "published": "2026-11-02T14:59:45.000Z",
-          "score": 1,
+          "title": "Dreamhack Major 2 ticket pricing",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmvus1/dreamhack_major_2_ticket_pricing/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T15:24:35.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -270,23 +305,6 @@
           "level": null,
           "why": [
             "t90"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Our Honest Thoughts on Modern Warfare 4... | FaZe Vegas Podcast",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmpl1q/our_honest_thoughts_on_modern_warfare_4_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T10:34:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
           ]
         }
       ]
@@ -338,7 +356,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
