@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:30:40.150Z",
+  "generatedAt": "2026-11-03T12:30:36.227Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,10 +7,21 @@
       "storyCount": 6,
       "stories": [
         {
+          "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3oyXzBZN09oQnI0b2lRN2dqMkxtbWR0SHFvNF9VQU4xbHlCb3Fsb09uQmY5SEtHUVhzWUI4eDFTYkU0ZEdSUkdDWkdUcmlHdE55N3JTbFZSQzg0ZEJQNWR4NzFyeXBsOWl3bUozM2xtcnJ4UTZBV2RRZEZkajFTWWRRa0YycjlrT0xfZll0QXJuZWdCV2Q4Zll0TzFLTXg1c2FmNmxMNA?oc=5",
+          "source": "Google News: Rivals esports (KIWA Radio)",
+          "published": "2026-11-03T12:24:17.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
           "title": "MRC Season 10: Butcher's Blasphemy - Pacific PC",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2plc2kyelRFTjVERVl5SVpwYng4RlpZdjg2QTNFb2l1ZW1Xdm51RjNaRUpHX2ItYVR4Y2JVaUR4emQ5aVdQdXNadkpkMjY2ZWxXaGZKV3Z3Rk1sNWQxN1pmZHo4VDNOeGlYekxpRFRWOFVCb1NiTERwN21jVHZvXzhhRTVwRUFxaC1Z?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-03T09:10:38.000Z",
+          "published": "2026-11-03T09:50:34.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -59,15 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFwMjNZUHpqX2pTRXlpaEFZbFpIeFlqTy1UazMwOC1pekZkOTQ2cG1SRm5UY21uRUNxUDRGTlgtSHk3QTI5bDY1Q3hPbE1LT2s1WUtmMVJCMXhiVHZCaklYM1lvdV9sSHJhUXRuV2pmVWRyNFBrVllfbUtxelJTcExjQXV6S1NXdmMtelpyNzlOa3o4bHFnZ3BNR2I1WVN2Zmc?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-03T01:00:54.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Phantom Blade Zero has sold 4 million copies in just 3 days, and sailed past Battlefield 6 and Marvel Rivals on Steam with a peak player count of 820,000",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWDBTakdiNnNIZWFhWDF5OWFSazlqc0RDV1dBNGI1TVFXajQ4a2Q3UEpyb1ExRjZ5WUhjeGM1Y3lMVjNxZlRCS0I5Z3N0Y1BwekFvaEtncmhWNU9QZDlpd09KaDl2MVBiR2Uxc1ZMNWhJN1dQenByLU1wVVJSZ1FqbzNTT0NUOURjZU0xSUNaOW9Cb2RkZWFrN0lXYmpTNU9rRllhNWw4T3NDdzlmN0xnbEc4ZDlhTDY0MDdad256bkRRb0FSVDhpUzI1WWdSSGpwalRXVGNKbE5LM3EtdW1YV0Y5R1p1dC1wYllSNXpyZDNsTnhZX1JEQ1ZrOUlrSk1TWkxjZnR1MEtTMFQyZU5JRWRlZUsxWTJ2OFV3QzJ5cGVRZFU?oc=5",
-          "source": "Google News: Rivals patches (GamesRadar+)",
-          "published": "2026-11-02T11:56:37.000Z",
           "score": 1,
           "level": null,
           "why": []
