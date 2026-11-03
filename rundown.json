@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T18:40:33.017Z",
+  "generatedAt": "2026-11-03T19:40:33.568Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Hellnight banned for match fixing at EPC Season 3",
@@ -17,18 +17,6 @@
             "banned",
             "match fixing",
             "reddit only"
-          ]
-        },
-        {
-          "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KelRZSWNMa09TMi1DWnZCMzF0SGVDaUV5Tks1QThuUU5tRk9Ta0YxaGo0bTk5aTdwb2tRdzUtdkg3SThybkFVcVVIVHkzb2Z2ZWJ5ZVhQUDJ2VFg5eDdOanQ5ZWVjLUM3c0locXNXNEFLMTlJS05FQm1B?oc=5",
-          "source": "Google News: Dota (Dot Esports)",
-          "published": "2026-11-02T19:25:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "roster",
-            "inactive"
           ]
         },
         {
@@ -46,7 +34,7 @@
           "title": "BetBoom Team puts its Dota 2 division on hiatus",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
           "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T08:18:14.000Z",
+          "published": "2026-11-03T08:07:33.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -119,7 +107,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 21,
       "stories": [
         {
           "title": "Every top professional is accused of cheating on their way up. These are the most-reported pros from the top 10 VRS Ranked teams, by reports received on FACEIT during the careers that lead to the biggest LAN stages.",
@@ -149,21 +137,6 @@
           ]
         },
         {
-          "title": "Legacy vs B8 / IEM Beijing 2026 - Group A Lower Bracket Round 1 / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmtr47/legacy_vs_b8_iem_beijing_2026_group_a_lower/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T14:03:17.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "natus vincere*",
-            "iem"
-          ]
-        },
-        {
           "title": "FURIA outlast NAVI for Beijing playoffs",
           "url": "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
           "source": "HLTV news",
@@ -175,6 +148,18 @@
             "navi",
             "furia",
             "iem*"
+          ]
+        },
+        {
+          "title": "G2 - team roster, matches, statistics",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00em9oLVg1eDNyWm1Vbjcwb2FoZ19xTnd0Rnh4TUZ6eWpzQzU2VkFUUGRJMkhiVkhnYlBBVkZJRktuNmNUVi1YQmQ2dGZ0Smc?oc=5",
+          "source": "Google News: CS2 (escorenews.com)",
+          "published": "2026-11-03T09:39:41.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "roster",
+            "g2"
           ]
         },
         {
@@ -190,14 +175,14 @@
           ]
         },
         {
-          "title": "Falcons condemn FaZe to last-place exit in Beijing",
-          "url": "https://www.hltv.org/news/45896/falcons-condemn-faze-to-last-place-exit-in-beijing",
+          "title": "sidde: \"Every time we lose against someone, it becomes personal\"",
+          "url": "https://www.hltv.org/news/45904/sidde-every-time-we-lose-against-someone-it-becomes-personal",
           "source": "HLTV news",
-          "published": "2026-11-03T10:03:00.000Z",
-          "score": 4,
+          "published": "2026-11-03T19:32:00.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "faze",
+            "navi*",
             "furia*"
           ]
         },
@@ -271,7 +256,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Armada tells the story about why he played Pit in PM (TLDR; Leffen)",
@@ -284,6 +269,74 @@
             "leffen",
             "armada"
           ]
+        },
+        {
+          "title": "Why are people shitting on M2K for winning a B0XX only tournament (Hax's ONLY DIGITAL.3) with a gamecube controler",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xn2bl6/why_are_people_shitting_on_m2k_for_winning_a_b0xx/",
+          "source": "r/SSBM",
+          "published": "2026-11-03T19:19:33.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "fraud*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 5,
+      "stories": [
+        {
+          "title": "Another food brand has entered the EVO Arena! As Airheads offers competitors something sweet to wash out the bitter taste of defeat!",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUhTMHNNaWdCRjNRV0xDSkx4Q2VOUVlUWTQ1aE9TeEY3cDY1djhkaUJtbXAwc2N3bUM5aUJoLWRTcTE2Ty1QYnNrMWFKa0lzTWx6ZXRxc0xreTNwSEt5THlkVm5VdEhQTkJ0QmxYZExwMUJYZk00SGg3a1dFWkFKa09HeG41S0xrWmNBZEE3VXMwVWZnQjhycC10cjJNdTRYcFV0R3FjV0NTMVVIUkZiYkFCTFM1akRFalc5U2MzRDdISHQtOEZuM3lrWWxrMk55Z0E3MS12TjJPN3d1VHVEMmVxRE9vUFBlbC1VY1JscGJvZEJt0gH6AUFVX3lxTE15eVVuMHA3NjVvQUZ3eE1OTnNOU0pmVnE1MHJlWWNmMGhPWlhLR3Q0Xy01ajQ1T0JyNHN6UTVxUVJsUGRseS1mbDZlbXQxQkZhdmdUcUlNX0t0VVBaQm9DM1NpaUZieExVekdpQUd3OGx2UmpzYm5nbmd4dG5WWEtVd0NsVjVnLW1TSTEyOFE5QnJlQnYyWXgwVW0wRW83RTcta1lGTnoxeklOUThpUFlUcHdwdU56UlVOVkVQaWgzSEZ1NWZ6QWRtTExpaWc1UnlBYkd1OF93NURLdFpWYm5wbW1pVlY0WDNrU2ZXcUdYbFZTeGNaVl9ZVkE?oc=5",
+          "source": "Google News: Tekken (Gaming Age)",
+          "published": "2026-11-03T01:07:37.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "evo"
+          ]
+        },
+        {
+          "title": "Tekken Modder \" Melonpizza \" Made Tekken 8 Version Moveset of Dr. Boskonovitch ( not released yet)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmyw7m/tekken_modder_melonpizza_made_tekken_8_version/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T17:16:44.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
+          ]
+        },
+        {
+          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xn2e0f/kanme_online_klash_50_tekken_8_tournament_top_8/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T19:22:01.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
+          ]
+        },
+        {
+          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-03T01:14:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken Card Tournament is FINALLY BACK in 2026! [SHOWCASE]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmxxce/tekken_card_tournament_is_finally_back_in_2026/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T16:41:22.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -341,41 +394,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Tekken Modder \" Melonpizza \" Made Tekken 8 Version Moveset of Dr. Boskonovitch ( not released yet)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmyw7m/tekken_modder_melonpizza_made_tekken_8_version/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T17:16:44.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        },
-        {
-          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-03T01:14:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken Card Tournament is FINALLY BACK in 2026! [SHOWCASE]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmxxce/tekken_card_tournament_is_finally_back_in_2026/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T16:41:22.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -423,6 +441,21 @@
       ]
     },
     {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "RARALAND 2027 - Open Qualifier Infos",
+          "url": "https://www.reddit.com/r/WC3/comments/1xn1t3s/raraland_2027_open_qualifier_infos/",
+          "source": "r/WC3",
+          "published": "2026-11-03T19:01:02.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
@@ -441,7 +474,6 @@
   "quiet": [
     "AoE2",
     "Trackmania",
-    "Warcraft III",
     "Quake"
   ]
 }
