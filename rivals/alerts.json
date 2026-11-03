@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T20:31:16.360Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Unnecessary Ban Penalties",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xn49en/unnecessary_ban_penalties/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "banned*",
+        "ban"
+      ],
+      "summary": "I love playing 9 matches of qp, 3 of which are substitution matches where my team gets rolled, and leaving after a team full of bozos throws and i get banned 15 mins? Horrendous devs bro, prioritizing dog shh game modes and bundles over match quality submitted by /u/iiTz_Teeko to r/marvelrivals [link] [comments]",
+      "published": "2026-11-03T20:30:46.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T19:11:02.722Z",
       "level": "possible",
       "scene": "Marvel Rivals",
