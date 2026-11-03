@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-03T07:00:35.809Z",
+  "generatedAt": "2026-11-03T08:00:36.971Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 17,
       "stories": [
+        {
+          "title": "MOUZ vs BB / IEM Beijing 2026 - Group B Upper Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmn07j/mouz_vs_bb_iem_beijing_2026_group_b_upper_bracket/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T07:53:03.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "mouz",
+            "iem",
+            "reddit only"
+          ]
+        },
         {
           "title": "Aurora vs G2 / IEM Beijing 2026 - Group B Lower Bracket Round 1 / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmkvsv/aurora_vs_g2_iem_beijing_2026_group_b_lower/",
@@ -20,22 +36,6 @@
             "g2",
             "iem",
             "reddit only"
-          ]
-        },
-        {
-          "title": "Liquid vs VISION / IEM Beijing 2026 - Group B Upper Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmj0cq/liquid_vs_vision_iem_beijing_2026_group_b_upper/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T04:04:43.000Z",
-          "score": 7.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "mouz*",
-            "liquid",
-            "iem"
           ]
         },
         {
@@ -66,14 +66,13 @@
           ]
         },
         {
-          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-02T14:00:54.000Z",
-          "score": 5,
+          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-03T06:43:37.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "navi",
             "iem"
           ]
         },
@@ -111,17 +110,6 @@
           ]
         },
         {
-          "title": "PGL Singapore Major 2026: Every Qualified Team",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-02T11:54:22.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "DHL Brings Its Recruitment Drive to IEM Beijing After 50,000 Esports Applications",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTzZpUTZjTFNIWE10TTBIem43THRWUUtucnJhdEE4SU9tTEtjZzRWVUJrN1JMTFpldkFBQzMxMnF4X1VzLWpvSjd6bVlnODM1UnhxeU1KaXBFZF9kMTRhQU9VamdDaGw0UktTMEF4bVFBUVB1WFBDWHA1OS04dw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -141,6 +129,17 @@
           "level": null,
           "why": [
             "g2"
+          ]
+        },
+        {
+          "title": "Is karrigan the biggest mind of all time or just washed?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmdz5w/is_karrigan_the_biggest_mind_of_all_time_or_just/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T00:06:49.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "karrigan"
           ]
         },
         {
@@ -197,15 +196,14 @@
           ]
         },
         {
-          "title": "I got banned for 10 years.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmclz9/i_got_banned_for_10_years/",
-          "source": "r/DotA2",
-          "published": "2026-11-02T23:09:40.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "BETBOOM TEAM announced its withdrawal from professional Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXhwckQwakRwODBfTGRWTnlGNTdFUjZFdDFPZTRmMGYycVZZQVRNN3dHUXlxLWI2V0tIdUdoQWFkd0trMmxYajdscllVRE9pT1dYQnRRREQ3MmQwS1g1RUphMHBUTy1iemFGVmdSTXgxN1FWc2pVX0MzSUw0V3phYkIzdw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-03T07:15:56.000Z",
+          "score": 3,
+          "level": null,
           "why": [
-            "banned",
-            "won*"
+            "announced"
           ]
         },
         {
@@ -251,11 +249,11 @@
           "why": []
         },
         {
-          "title": "ESL One Heads to Munich for April 2027 Dota 2 Tournament",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFJvRnBidnNyemN0RW1EX0hYQmlxd0phU2dPOWxFWHRGNGdsejA2R0Q4RUFydFlOSDh6dGE0Zm9BMzE1TGVxQTZZSzVFcWV6UDZXNHY5ZldTMEFIZWt5dlJUNTY2cDZMOVQwR1FVRVhTV1lqQjJkSlpzLVBFSXJORjBiblRwdjdYOUhVVFlfb014Nm5yUHJud25ET3A?oc=5",
-          "source": "Google News: Dota (Sports Video Group)",
-          "published": "2026-11-02T14:59:45.000Z",
-          "score": 1,
+          "title": "why is Exorcism not buffed by spell amp?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmn38u/why_is_exorcism_not_buffed_by_spell_amp/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T07:58:39.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -294,7 +292,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "I think the Vel is OBJECTIVELY overpowered and must be banned in favor of the Iso",
@@ -317,23 +315,12 @@
           "why": [
             "faze"
           ]
-        },
-        {
-          "title": "Who do you think won this map?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmcx8c/who_do_you_think_won_this_map/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-02T23:22:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "I think there's a way Capcom can easily fix Arjun where he keeps his unique mechanics without keeping him game breaking.",
@@ -344,17 +331,6 @@
           "level": null,
           "why": [
             "breaking"
-          ]
-        },
-        {
-          "title": "Chun Li Street Fighter 2 Ending",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xmd77k/chun_li_street_fighter_2_ending/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-02T23:34:14.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
           ]
         },
         {
@@ -422,7 +398,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
@@ -430,6 +406,24 @@
           "source": "Google News: Tekken (EventHubs)",
           "published": "2026-11-03T01:14:24.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Best dlc character",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmmt47/best_dlc_character/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T07:39:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "DLC I would gladly pay full price for",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmmsn6/dlc_i_would_gladly_pay_full_price_for/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T07:39:02.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
