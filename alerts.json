@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T17:40:26.686Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Hellnight banned for match fixing at EPC Season 3",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xmzi1f/hellnight_banned_for_match_fixing_at_epc_season_3/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 9,
+      "why": [
+        "banned",
+        "match fixing",
+        "reddit only"
+      ],
+      "summary": "submitted by /u/thexbeatboxer to r/DotA2 [link] [comments]",
+      "published": "2026-11-03T17:38:30.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T16:35:20.202Z",
       "level": "possible",
       "scene": "CS2",
