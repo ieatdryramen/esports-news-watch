@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T22:10:22.185Z",
+  "generatedAt": "2026-11-03T23:05:25.655Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
@@ -34,18 +34,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUJtRlhMRERLMTVhRFE2RjJKWEpBNXRuV0FNQzN0alk0Snk3MkZmN3FvSm5TYXNZZ1FleFpzbWd3ZV9FWWhaNnBBdWljWVI2c0FKSGt4YlVpbTkyU1BuSkhyQ1M1UnhIMmRLSGpGMTFYT3NoblpRcm5aYm9tRW9pZW4zdm04ZzF3Tmlv?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
           "published": "2026-11-03T08:00:40.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "mrc"
-          ]
-        },
-        {
-          "title": "MRC Season 8: Sins Of Alchemax - Pacific Console",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEhmRDRtQW1Pd0dUNG5uUXhHNHJUdERKZDlmdTZZYWYtdDYwel9TWjk2Z2k0Q3JRZzFTVjk1R1hKWTZBNGhvM0tHWnBSdVc2cDRRMWlOZl9OTlZndE1EX2liOFg0RVVycXlJLVhrZGFtVDZaRmp1d205U0xTYlh3YVhDTjI2eTUzR201S01jaU4?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-02T22:24:46.000Z",
           "score": 4,
           "level": null,
           "why": [
