@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:30:26.045Z",
+  "generatedAt": "2026-11-03T02:00:24.905Z",
   "source": "start.gg",
   "completed": [
     {
@@ -234,53 +234,6 @@
         {
           "placement": 7,
           "name": "MTPif | Doomer"
-        }
-      ]
-    },
-    {
-      "eventId": "1657242",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "王者之战7 | FightClub Championship 7",
-      "event": "Guilty Gear -Strive- (AWT Platinum)",
-      "entrants": 198,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T02:00:00.000Z",
-      "endAt": "2026-11-01T14:00:00.000Z",
-      "url": "https://www.start.gg/tournament/7-fightclub-championship-7/event/guilty-gear-strive-awt-platinum",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "E36 | Jiro"
-        },
-        {
-          "placement": 2,
-          "name": "JIG | NAGE"
-        },
-        {
-          "placement": 3,
-          "name": "T Y"
-        },
-        {
-          "placement": 4,
-          "name": "tatuma"
-        },
-        {
-          "placement": 5,
-          "name": "IMM Summit(サミット)"
-        },
-        {
-          "placement": 5,
-          "name": "DD本色"
-        },
-        {
-          "placement": 7,
-          "name": "LAGLESS | 御傍 GOBOU"
-        },
-        {
-          "placement": 7,
-          "name": "BSB | FloatWater"
         }
       ]
     },
@@ -525,7 +478,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "SoCal Sweep 2",
       "event": "Melee Singles",
-      "entrants": 91,
+      "entrants": 93,
       "online": false,
       "major": false,
       "startAt": "2026-11-07T18:00:00.000Z",

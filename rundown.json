@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-03T01:00:35.244Z",
+  "generatedAt": "2026-11-03T02:00:36.283Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
       "storyCount": 14,
       "stories": [
-        {
-          "title": "The International Prize Pool: Dota 2’s Record-Breaking Payouts",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTZFB2aGtWOGI1MTdYbEpCa3l3V1hpMHE1S1hIRTFwa3ZZd0ZqeXRReHJwX1JvdkxuM3o3XzR6RUhDTjZCZkd3VldET1ZlN0htZmdXYUFCLUNIREpScW9HZHJ6dzlTVVBBcEdodWR1M2hDa0Yxekd3?oc=5",
-          "source": "Google News: Dota (Shane the Gamer)",
-          "published": "2026-11-02T01:37:12.000Z",
-          "score": 9,
-          "level": "breaking",
-          "why": [
-            "breaking",
-            "record",
-            "prize pool",
-            "the international"
-          ]
-        },
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KelRZSWNMa09TMi1DWnZCMzF0SGVDaUV5Tks1QThuUU5tRk9Ta0YxaGo0bTk5aTdwb2tRdzUtdkg3SThybkFVcVVIVHkzb2Z2ZWJ5ZVhQUDJ2VFg5eDdOanQ5ZWVjLUM3c0locXNXNEFLMTlJS05FQm1B?oc=5",
@@ -42,6 +28,18 @@
           "why": [
             "bench",
             "roster"
+          ]
+        },
+        {
+          "title": "Which cheat is better?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmfv4h/which_cheat_is_better/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T01:33:50.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "cheat"
           ]
         },
         {
@@ -93,7 +91,7 @@
           "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-02T19:52:30.000Z",
+          "published": "2026-11-02T19:53:55.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -273,8 +271,20 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Am I tripping or is this guy cheating",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmg9lc/am_i_tripping_or_is_this_guy_cheating/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T01:53:11.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "cheating",
+            "record*"
+          ]
+        },
         {
           "title": "How to reget rid of cheater",
           "url": "https://www.reddit.com/r/Tekken/comments/1xmafyc/how_to_reget_rid_of_cheater/",
@@ -287,22 +297,10 @@
           ]
         },
         {
-          "title": "When Tekken 6 released players hated that Jin Kazama became the villain of the series Harada said fans “weren’t happy with Jin being almost a villain” which possibly shifted Jin’s story to be about regret and redemption for the next 2 games",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xm6gmn/when_tekken_6_released_players_hated_that_jin/",
-          "source": "r/Tekken",
-          "published": "2026-11-02T19:12:25.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "released",
-            "harada"
-          ]
-        },
-        {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
           "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-02T06:11:14.000Z",
+          "published": "2026-11-02T06:38:20.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -319,6 +317,15 @@
           "why": [
             "leak"
           ]
+        },
+        {
+          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-03T01:14:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Steve's pretty good, but he's the worst tournament pick.",
@@ -348,6 +355,32 @@
             "proleague",
             "flash"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "I Did My First Ever Kacky Finish First Try!",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xmfhnp/i_did_my_first_ever_kacky_finish_first_try/",
+          "source": "r/TrackMania",
+          "published": "2026-11-03T01:16:21.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "first ever"
+          ]
+        },
+        {
+          "title": "Helheim - Trailer",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xm9mdz/helheim_trailer/",
+          "source": "r/TrackMania",
+          "published": "2026-11-02T21:10:19.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -416,7 +449,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Who do you think won this map?",
@@ -434,17 +467,6 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xm7x5n/g2_putting_their_roster_together/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-02T20:05:47.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "G2 Minnesota Announce 2027 CDL Roster",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xm6fkf/g2_minnesota_announce_2027_cdl_roster/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-02T19:11:20.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -472,21 +494,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "I Gave NBA Players a Super Smash Bros. Melee Main",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbV82eHlmWlQzNVZTYVl2RHhpenQ3eU1vU2JaS1R2U2ItVGtManFvSk9DR1gtQVB4Uk5XYS1tMmdOOXJNc1pqWm51NGRjbXBzNElYYkxMdkF1aU12?oc=5",
-          "source": "Google News: Melee (YouTube)",
-          "published": "2026-11-02T01:21:10.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Warcraft III",
       "storyCount": 1,
       "stories": [
@@ -502,24 +509,10 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Helheim - Trailer",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xm9mdz/helheim_trailer/",
-          "source": "r/TrackMania",
-          "published": "2026-11-02T21:10:19.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Legacy FGC",
     "Quake"
