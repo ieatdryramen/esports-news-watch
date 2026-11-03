@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T16:30:21.236Z",
+  "generatedAt": "2026-11-03T17:00:30.227Z",
   "source": "start.gg",
   "completed": [
     {
@@ -187,53 +187,6 @@
         {
           "placement": 7,
           "name": "KAM | Xun"
-        }
-      ]
-    },
-    {
-      "eventId": "1720731",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "River City Rushdown October 2026",
-      "event": "Street Fighter III: 3rd Strike (PC)",
-      "entrants": 17,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T19:00:00.000Z",
-      "endAt": "2026-11-01T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/river-city-rushdown-october-2026/event/street-fighter-iii-3rd-strike-pc",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "1000Star Ronin | Crimzon"
-        },
-        {
-          "placement": 2,
-          "name": "FPT | Rasha"
-        },
-        {
-          "placement": 3,
-          "name": "Guardian_B"
-        },
-        {
-          "placement": 4,
-          "name": "KingDroid"
-        },
-        {
-          "placement": 5,
-          "name": "FPT | Zhea"
-        },
-        {
-          "placement": 5,
-          "name": "TheOGGriper"
-        },
-        {
-          "placement": 7,
-          "name": "FPT | Duberis"
-        },
-        {
-          "placement": 7,
-          "name": "Eeyore"
         }
       ]
     }
