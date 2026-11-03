@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T13:25:38.508Z",
+  "generatedAt": "2026-11-03T14:25:24.084Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Tokon Fighting Souls Update 1.004.002 Out Now, Adds Phoenix Cyclops, Combat Balance Changes & More - Full Patch Notes Listed",
@@ -18,20 +18,6 @@
             "patch notes",
             "balance",
             "balance changes"
-          ]
-        },
-        {
-          "title": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
-          "url": "https://www.pushsquare.com/news/2026/11/phoenix-cyclops-is-available-now-as-marvel-tokon-receives-major-ps5-patch",
-          "source": "Push Square",
-          "published": "2026-11-02T14:15:00.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "update*",
-            "joins*",
-            "dlc*",
-            "dlc character*"
           ]
         },
         {
