@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T16:35:20.202Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Every top professional is accused of cheating on their way up. These are the most-reported pros from the top 10 VRS Ranked teams, by reports received on FACEIT during the careers that lead to the biggest LAN stages.",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmxq17/every_top_professional_is_accused_of_cheating_on/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 8,
+      "why": [
+        "cheating",
+        "accused",
+        "reddit only"
+      ],
+      "summary": "submitted by /u/FACEIT_Xylo to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-03T16:33:45.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T15:35:18.122Z",
       "level": "possible",
       "scene": "CS2",
