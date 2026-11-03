@@ -1,6 +1,29 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T04:05:15.636Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Liquid vs VISION / IEM Beijing 2026 - Group B Upper Bracket Semi-Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmj0cq/liquid_vs_vision_iem_beijing_2026_group_b_upper/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7.5,
+      "why": [
+        "benched*",
+        "roster*",
+        "official*",
+        "mouz*",
+        "liquid",
+        "iem",
+        "reddit only"
+      ],
+      "summary": "Team Liquid 🌎 0-2 🇷🇺 VISION Ancient: 7-13 Inferno: 9-13 Mirage 🇷🇺 VISION advance to Upper Final and will face 🇷🇺 BB Team or 🇪🇺 MOUZ Predicted VRS Impact Team Rank Diff Total 🌎 Liquid #16 → #19 -13 pts 1562 pts 🇷🇺 VISION #14 → #12 +38 pts 1644 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information IEM Beijing 2026 | 🇨🇳 Beijing ($1.25m LAN) | Liquipedia | HLTV Streams | YouTube | Twitch A | Twitch B Team Information 🌎 Team Liquid | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | Weibo | YouTube | Twitch | Steam Roster : 🇨🇦 NAF | 🇺🇸 EliGE | 🇬🇹 malbsMd | 🇧🇬 Jorko ⊕ | 🇿🇦 JT ♛ Coach : 🇭🇺 flashie 🇷🇺 VISION | Liquipedia | HLTV | Faceit | YouTube | Bilibili Roster : 🇷🇺 Jame ♛ ⊕ | 🇷🇺 xiELO | 🇷🇺 zweih | 🇷🇺 FL1T | 🇰🇿 HObbit Coach : 🇰🇿 dastan Subs/Benched : 🇷🇺 slaxejezzz | 🇷🇺 nota | 🇷🇺 Jerry Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Full Match Stats Team K-D ADR Swing Rating 🌎 Liquid 0.87 🇨🇦 NAF 22-26 71.5 +1.48% 1.04 🇧🇬 Jorko ⊕ 20-23 55.4 -0.60% 0.89 🇿🇦 JT ♛ 21-30 59.5 -1.67% 0.88 🇺🇸 EliGE 23-29 58.0 -2.95% 0.80 🇬🇹 malbsMd 19-34 56.3 -2.69% 0.73 🇷🇺 VISION 1.12 🇷🇺 FL1T 36-22 104.8 +4.32% 1.48 🇷🇺 Jame ♛ ⊕ 28-14 56.6 +3.56% 1.18 🇷🇺 xiELO 28-29 75.1 -0.53% 1.02 🇷🇺 zweih 24-21 61.5 +0.88% 1.00 🇰🇿 HObbit 24-21 64.6 -2.01% 0",
+      "published": "2026-11-03T04:04:43.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T03:35:15.258Z",
       "level": "possible",
       "scene": "Dota",
