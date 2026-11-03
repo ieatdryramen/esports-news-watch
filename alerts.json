@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T01:35:16.501Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Which cheat is better?",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xmfv4h/which_cheat_is_better/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "banned*",
+        "cheat"
+      ],
+      "summary": "I am tired of these mfs. They dont be banned. So how can I get one? submitted by /u/Logical_Shoe2275 to r/DotA2 [link] [comments]",
+      "published": "2026-11-03T01:33:50.000Z"
+    },
+    {
       "alertedAt": "2026-11-02T23:10:22.903Z",
       "level": "possible",
       "scene": "Dota",
