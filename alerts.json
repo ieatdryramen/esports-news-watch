@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T06:55:16.974Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Aurora eliminate G2 from IEM Beijing",
+      "url": "https://www.hltv.org/news/45892/aurora-eliminate-g2-from-iem-beijing",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 6,
+      "why": [
+        "won*",
+        "g2",
+        "iem"
+      ],
+      "summary": "huNter-'s side have won just one series across their last three tournaments.",
+      "published": "2026-11-03T06:52:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T05:45:17.875Z",
       "level": "possible",
       "scene": "CS2",
