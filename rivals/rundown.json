@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-11-03T09:30:37.711Z",
+  "generatedAt": "2026-11-03T10:30:35.803Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Pacific PC",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2plc2kyelRFTjVERVl5SVpwYng4RlpZdjg2QTNFb2l1ZW1Xdm51RjNaRUpHX2ItYVR4Y2JVaUR4emQ5aVdQdXNadkpkMjY2ZWxXaGZKV3Z3Rk1sNWQxN1pmZHo4VDNOeGlYekxpRFRWOFVCb1NiTERwN21jVHZvXzhhRTVwRUFxaC1Z?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
           "published": "2026-11-03T09:02:34.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "season",
+            "mrc"
+          ]
+        },
+        {
+          "title": "MRC Season 9: The Mystery Of Thebes - Americas PC",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUJtRlhMRERLMTVhRFE2RjJKWEpBNXRuV0FNQzN0alk0Snk3MkZmN3FvSm5TYXNZZ1FleFpzbWd3ZV9FWWhaNnBBdWljWVI2c0FKSGt4YlVpbTkyU1BuSkhyQ1M1UnhIMmRLSGpGMTFYT3NoblpRcm5aYm9tRW9pZW4zdm04ZzF3Tmlv?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-03T08:00:40.000Z",
           "score": 4,
           "level": null,
           "why": [
