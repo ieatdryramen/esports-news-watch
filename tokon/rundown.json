@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T06:30:35.343Z",
+  "generatedAt": "2026-11-03T07:30:46.148Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
@@ -93,17 +93,6 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajdiWUJ2Z1JjU3kyeHFoYkdXbDN5eEJTb3ZCV3l1dEZqTFpJVlVrYXVHdU5qY1NoSTRFTkJIM1h5YV9halZSaUhKMFNZdFpteC1GVzFrS1lMaWtnRlZQWVZ3c1pFdUc4eXZKZ0I4MWpaRFFBaHdvbmRTXzZqNVlqNEJFSW5NNGx4dEJTY1YtQ05lNGNRa3NZd3R3?oc=5",
           "source": "Google News: Tokon (GamingBolt)",
           "published": "2026-11-02T14:54:23.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Marvel Tokon: Fighting Souls Update 1.004.002 Adds Phoenix Cyclops and Major Combat Changes",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wQjJyTnRhMl9wci1zTVY0TnZYM1lvNC15VlplN2J4cFNsUmJHSVluajlKQWJvWjRNVXpQa09iblZYa1kzN2U2aE9RTHlWRV91NUNTeHVWcW4zWThwdUUyTg?oc=5",
-          "source": "Google News: Tokon (TwistedVoxel)",
-          "published": "2026-11-02T07:10:34.000Z",
           "score": 2,
           "level": null,
           "why": [
