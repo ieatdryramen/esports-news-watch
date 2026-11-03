@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-03T01:55:15.291Z",
+      "level": "possible",
+      "scene": "Tekken",
+      "title": "Am I tripping or is this guy cheating",
+      "url": "https://www.reddit.com/r/Tekken/comments/1xmg9lc/am_i_tripping_or_is_this_guy_cheating/",
+      "source": "r/Tekken",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "cheating",
+        "record*"
+      ],
+      "summary": "ThiccFatal His defense is 98 he is GoD 4 and he barely ever loses and I hadn't really heard of him is he a PRO that I don't know about? He has a higher defense rating than any pro I've fought even ninjakiller. I couldn't really even hit him. Then after looking at his stats and everything in his previous months win record I called him out. Then it seems like the rest of the day (yesterday) he lost ALOT more after checking his stats today. Idk if im tripping or not because there was times I would hit him but it was nothing substantial, and like I said im looking at other people's defense rating and theres noone like this. Idk was he just fuzzy ducking and beat my ass lol? submitted by /u/Creepy_Blacksmith408 to r/Tekken [link] [comments]",
+      "published": "2026-11-03T01:53:11.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T01:35:16.501Z",
       "level": "possible",
       "scene": "Dota",
