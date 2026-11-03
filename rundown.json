@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T14:00:41.581Z",
+  "generatedAt": "2026-11-03T14:55:32.777Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 11,
       "stories": [
         {
           "title": "The MongolZ vs HEROIC / IEM Beijing 2026 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
@@ -39,69 +39,6 @@
           ]
         },
         {
-          "title": "FURIA outlast NAVI for Beijing playoffs",
-          "url": "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
-          "source": "HLTV news",
-          "published": "2026-11-03T13:43:00.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "champions*",
-            "navi",
-            "furia",
-            "iem*"
-          ]
-        },
-        {
-          "title": "Aurora eliminate G2 from IEM Beijing",
-          "url": "https://www.hltv.org/news/45892/aurora-eliminate-g2-from-iem-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-03T06:52:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "won*",
-            "g2",
-            "iem"
-          ]
-        },
-        {
-          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-02T14:00:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
-            "iem"
-          ]
-        },
-        {
-          "title": "karrigan: \"We can't win our own map pick lately\"",
-          "url": "https://www.hltv.org/news/45898/karrigan-we-cant-win-our-own-map-pick-lately",
-          "source": "HLTV news",
-          "published": "2026-11-03T11:17:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "karrigan",
-            "faze*"
-          ]
-        },
-        {
-          "title": "Falcons condemn FaZe to last-place exit in Beijing",
-          "url": "https://www.hltv.org/news/45896/falcons-condemn-faze-to-last-place-exit-in-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-03T10:03:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "faze",
-            "furia*"
-          ]
-        },
-        {
           "title": "Karrigan hugging his former faze teammates",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmp0wi/karrigan_hugging_his_former_faze_teammates/",
           "source": "r/GlobalOffensive",
@@ -114,40 +51,6 @@
           ]
         },
         {
-          "title": "M0nesy double one-tap vs Faze",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmnm8j/m0nesy_double_onetap_vs_faze/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T08:32:11.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "m0nesy",
-            "faze"
-          ]
-        },
-        {
-          "title": "MOUZ best BB to qualify for playoffs in Beijing",
-          "url": "https://www.hltv.org/news/45894/mouz-best-bb-to-qualify-for-playoffs-in-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-03T08:02:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "mouz"
-          ]
-        },
-        {
-          "title": "Valve Locks In 32 Teams for PGL Major Singapore 2026, TYLOO and Fnatic miss out",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1pycDlXZHpYbG1tb3lZVXJtblRIQThHZ3p2TDlmWjJnNE9RbzJvSW9YQWs4UkJidGFKLS1LbkwyQjRRUVgxa29qVGdKWEdYWUx2MmswMUVFNXB0bGd0NEEtTTVpNWZCYm5MYTNrOEhqUUdOcFlEYmljQlZ4UTRVaHFwbw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-03T07:05:46.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -157,12 +60,92 @@
           "why": [
             "iem"
           ]
+        },
+        {
+          "title": "After S9 placements, 19 y/o dem0n sat 560 Elo behind donk. Since Saturday they’ve traded #1, with dem0n setting the season’s highest Elo peak at 5,359",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmty7s/after_s9_placements_19_yo_dem0n_sat_560_elo/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T14:11:23.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "donk"
+          ]
+        },
+        {
+          "title": "Bad Fallen makes an appearance with a no-scope vs. Navi",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmtbf6/bad_fallen_makes_an_appearance_with_a_noscope_vs/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T13:45:41.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "navi"
+          ]
+        },
+        {
+          "title": "Karrigan hugging his teammates in the past. Teses face",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmt1cb/karrigan_hugging_his_teammates_in_the_past_teses/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T13:33:20.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "karrigan"
+          ]
+        },
+        {
+          "title": "PGL Cluj-Napoca 2027: European Open Qualifiers Registration is live",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmqkx7/pgl_clujnapoca_2027_european_open_qualifiers/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T11:32:13.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Aleksib reaction to a crazy flick from Yekindar",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmqfv5/aleksib_reaction_to_a_crazy_flick_from_yekindar/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T11:24:27.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "aleksib"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 Day 2 Results and Day 3 Schedule",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xZVJNbkR5MHhvUENFTFJ5d2I5cS1oV3M3OGtZX19HWlJVQVlTZ2FjVmZXS1Uwal9GY2d3MUFQYTVuc3dyNDBtQXYtWHNLOUozX0NOWGpUUTcxZGdOX1BSUWdvWnlTSTlNaGs0UE9fR2pRNkJ2eXc?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-03T14:24:35.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "iem",
+            "-schedule"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 - CS2 - Viewership, Overview, Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSF9HRWlmVUw5TDQ4ZncyaHduWVdRcmRMWkNyMERwTlFNd0s2bmo3bXNUQWRwZFVjWFFvcjZfNHpGVHRnSnVnTU9UbnRybWhOUWJJdVFMU1ZvQWQxak9lYUE3SEtJcTdCXzJ1bmlxeE5QMnRCRFVDcDRlRG0?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-03T12:19:17.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "prize pool",
+            "iem",
+            "-viewership, overview"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -192,23 +175,11 @@
           "title": "BetBoom Team puts its Dota 2 division on hiatus",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
           "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T07:55:09.000Z",
+          "published": "2026-11-03T08:18:14.000Z",
           "score": 4,
           "level": null,
           "why": [
             "hiatus"
-          ]
-        },
-        {
-          "title": "How Team Spirit 3-0 Yandex — PARI Universe FINALS",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmnmmf/how_team_spirit_30_yandex_pari_universe_finals/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T08:32:55.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "grand final*",
-            "team spirit"
           ]
         },
         {
@@ -283,15 +254,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "why is Exorcism not buffed by spell amp?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmn38u/why_is_exorcism_not_buffed_by_spell_amp/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T07:58:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -330,39 +292,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-03T01:14:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Best dlc character",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmmt47/best_dlc_character/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T07:39:52.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "DLC I would gladly pay full price for",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmmsn6/dlc_i_would_gladly_pay_full_price_for/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T07:39:02.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -371,6 +300,21 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEstdjlxOEZRNmNtMlVyRWpTQkxuQmNsM3RIbmptNU1ERzhuaC1UY0RGSDlBMEtCS1YyUWZTWmpVR0g3QkNKOGtHYlY0MnlOMzNvNEtPWF9WOFhHTUh6Njk0WGZSbDNNTlFQb0dsU3BwUF9SMzRFUTlFTC1fWWNZUzFfb9IBlwFBVV95cUxOeG9mSWV5NW1ySElSQThLRVEzbG1vUjlVSFc1SmtoeUJPM08xc2E3RUNUTGZZeVN6eFdWekVpeDRta0EyTUpKei1DV0ZpTEtuOXYwVFVwMjhRd3lUb1JZTDI4bmN1SFJKU3ZjWWRlSktWZ01TMjFDaVlIT1BiMXFRM2ZPWE1zemR4VWdyR19Kb1pMb2NweTM0?oc=5",
           "source": "Google News: Street Fighter (Chosunbiz)",
           "published": "2026-11-03T12:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-03T01:14:24.000Z",
           "score": 1,
           "level": null,
           "why": []
