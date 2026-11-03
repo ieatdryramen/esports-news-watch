@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T17:45:25.963Z",
+  "generatedAt": "2026-11-03T18:40:33.017Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Hellnight banned for match fixing at EPC Season 3",
@@ -29,18 +29,6 @@
           "why": [
             "roster",
             "inactive"
-          ]
-        },
-        {
-          "title": "BetBoom Team Suspend Dota 2 Roster, Move All Five Players to the Bench After Post-TI Slump",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjgxbDVkWHBYaDQxOGcwNE9HSEhhVFJmLTJLOGlYem9ldjlnWDF6TVhMQUY0N1NSLVB5VEhDRFAyTG1mU3F4bmZQWjBGM0lLNldDNzlzWU1LSUVFUUtlOGFXdE5Bb3BKUlVETGlEMy1JMWswV3pVUzc4Q3kxeDRaZE5aX0pMYzdKWjFjdUJqRGJOaTViR1VnX0c3cTZkRVpPTUE?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-02T18:20:54.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "bench",
-            "roster"
           ]
         },
         {
@@ -110,17 +98,6 @@
           ]
         },
         {
-          "title": "ex-BB team new lineup",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xms19d/exbb_team_new_lineup/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T12:47:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        },
-        {
           "title": "BetBoom Put Dota 2 Division On Hold After Less Than Two Months – What Went Wrong?",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGJLNU1jNGhMQU5kbk5yMmdyd29PT1d1QnYzSjRaMnJyZlBqYUFwNlRvMUhQenl5bDVIRWhGQkJWVVJyZE96cksyRmFXalJtRjR1Uk5pNTI2LXpoUmNsc3lYTnNOd1FkclhYU1FtVy1lUmpBZjRVdGZlWGhYNWNDb1MwLVF4Uk1WVnVkU0NOLXN2RVBZekhVM3BTT3JtZGZuSGNLak1tbXZUWS05RjZ0NE5MMko?oc=5",
           "source": "Google News: Dota (Hotspawn)",
@@ -142,7 +119,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 23,
       "stories": [
         {
           "title": "Every top professional is accused of cheating on their way up. These are the most-reported pros from the top 10 VRS Ranked teams, by reports received on FACEIT during the careers that lead to the biggest LAN stages.",
@@ -154,6 +131,20 @@
           "why": [
             "cheating",
             "accused",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "Will Fallen call off his retirement and renew with Furia?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xn0cky/will_fallen_call_off_his_retirement_and_renew/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T18:08:37.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "retirement",
+            "furia",
+            "pgl*",
             "reddit only"
           ]
         },
@@ -184,22 +175,6 @@
             "navi",
             "furia",
             "iem*"
-          ]
-        },
-        {
-          "title": "FURIA vs Natus Vincere / IEM Beijing 2026 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmt7g1/furia_vs_natus_vincere_iem_beijing_2026_group_a/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T13:40:48.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "official*",
-            "aleksib*",
-            "b1t*",
-            "natus vincere",
-            "furia"
           ]
         },
         {
@@ -313,6 +288,59 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "CDL Major II returns to DreamHack Birmingham with double the seats",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmVGdEtUOTFqaUxwbVJJcUt5UTZQb041RFBPSzFwOHB6UV8zTXBYV1JZSWlUTzB5Z3ZIcWQ5NzhKY0lFR0RxMUJ2cVlVd1VfaTZhcG5mRFIydjdpX3RKd29VZVBmeVFzNUpSUEFFaWo0YWFhS1lCZ2JvZUJ0UEFzMkFTM19VQk1kUkdhUDlOSUU2R1NZb1VZS2xQSkg4TG90bW5BcTd4UkJYNVhVcVE?oc=5",
+          "source": "Google News: CoD (Inven Global)",
+          "published": "2026-11-03T17:39:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "returns"
+          ]
+        },
+        {
+          "title": "There is a Challengers tournament being held today around 4pm CST these are the groups:",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmzn53/there_is_a_challengers_tournament_being_held/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T17:43:45.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dreamhack Major 2 ticket pricing",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmvus1/dreamhack_major_2_ticket_pricing/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T15:24:35.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "What would be acceptable QoL changes in BW?",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xmzpdi/what_would_be_acceptable_qol_changes_in_bw/",
+          "source": "r/broodwar",
+          "published": "2026-11-03T17:45:59.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "revealed*",
+            "bw"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
       "storyCount": 3,
       "stories": [
@@ -395,23 +423,14 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
+      "scene": "Classic Tetris",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "There is a Challengers tournament being held today around 4pm CST these are the groups:",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmzn53/there_is_a_challengers_tournament_being_held/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T17:43:45.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dreamhack Major 2 ticket pricing",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmvus1/dreamhack_major_2_ticket_pricing/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T15:24:35.000Z",
+          "title": "Tetris Final Boss",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xn0nmp/tetris_final_boss/",
+          "source": "r/Tetris",
+          "published": "2026-11-03T18:19:23.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -421,8 +440,6 @@
   ],
   "quiet": [
     "AoE2",
-    "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Quake"
