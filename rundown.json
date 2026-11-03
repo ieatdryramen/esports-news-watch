@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T10:55:16.536Z",
+  "generatedAt": "2026-11-03T11:50:20.718Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 22,
       "stories": [
         {
           "title": "The MongolZ vs HEROIC / IEM Beijing 2026 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
@@ -52,17 +52,15 @@
           ]
         },
         {
-          "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close",
-          "url": "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close",
+          "title": "karrigan: \"We can't win our own map pick lately\"",
+          "url": "https://www.hltv.org/news/45898/karrigan-we-cant-win-our-own-map-pick-lately",
           "source": "HLTV news",
-          "published": "2026-11-02T14:16:00.000Z",
-          "score": 5,
+          "published": "2026-11-03T11:17:00.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "karrigan*",
-            "navi",
-            "faze*",
-            "iem"
+            "karrigan",
+            "faze*"
           ]
         },
         {
@@ -160,7 +158,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 13,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -184,18 +182,6 @@
           "why": [
             "bench",
             "roster"
-          ]
-        },
-        {
-          "title": "Why is pudge always banned?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmicz6/why_is_pudge_always_banned/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T03:31:50.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "banned",
-            "ban*"
           ]
         },
         {
@@ -233,17 +219,6 @@
           ]
         },
         {
-          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-03T07:20:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
           "title": "BETBOOM TEAM announced its withdrawal from professional Dota 2",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXhwckQwakRwODBfTGRWTnlGNTdFUjZFdDFPZTRmMGYycVZZQVRNN3dHUXlxLWI2V0tIdUdoQWFkd0trMmxYajdscllVRE9pT1dYQnRRREQ3MmQwS1g1RUphMHBUTy1iemFGVmdSTXgxN1FWc2pVX0MzSUw0V3phYkIzdw?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -266,14 +241,14 @@
           ]
         },
         {
-          "title": "I just won a game with dusa vs AM with over 500 games and I ended up being the MVP",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmgsxh/i_just_won_a_game_with_dusa_vs_am_with_over_500/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T02:17:57.000Z",
-          "score": 2,
+          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-02T16:29:04.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "won"
+            "team spirit"
           ]
         },
         {
@@ -295,34 +270,30 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Warcraft III",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "YouTiao Cup 8 ($4,500 Prize Pool): Two Undie at the Final, None of Them Being Happy",
-          "url": "https://www.reddit.com/r/WC3/comments/1xmgo83/youtiao_cup_8_4500_prize_pool_two_undie_at_the/",
-          "source": "r/WC3",
-          "published": "2026-11-03T02:11:52.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "prize pool",
-            "moon*",
-            "happy",
-            "120*",
-            "colorful*",
-            "lawliet*"
-          ]
+          "title": "why is Exorcism not buffed by spell amp?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmn38u/why_is_exorcism_not_buffed_by_spell_amp/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T07:58:39.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Will next patch have new map?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmj6h9/will_next_patch_have_new_map/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T04:13:30.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "I think the Vel is OBJECTIVELY overpowered and must be banned in favor of the Iso",
@@ -340,17 +311,6 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmpl1q/our_honest_thoughts_on_modern_warfare_4_faze/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-03T10:34:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "\"They gotta watch us lose while we're gonna\" Vegas FaZe on getting hate",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmhgz9/they_gotta_watch_us_lose_while_were_gonna_vegas/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T02:49:45.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -378,7 +338,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "MBL making Fire Lancer vs Condottiero is peak MBL",
@@ -389,6 +349,17 @@
           "level": null,
           "why": [
             "mbl"
+          ]
+        },
+        {
+          "title": "Taking T90 out of context is too easy",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xmillh/taking_t90_out_of_context_is_too_easy/",
+          "source": "r/aoe2",
+          "published": "2026-11-03T03:43:58.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "t90"
           ]
         }
       ]
@@ -441,6 +412,7 @@
     "Classic Tetris",
     "Brood War",
     "Trackmania",
+    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
