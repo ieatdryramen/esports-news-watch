@@ -1,25 +1,22 @@
 {
-  "generatedAt": "2026-11-03T15:55:17.889Z",
+  "generatedAt": "2026-11-03T16:50:19.806Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 27,
       "stories": [
         {
-          "title": "The MongolZ vs HEROIC / IEM Beijing 2026 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmpq2u/the_mongolz_vs_heroic_iem_beijing_2026_group_a/",
+          "title": "Every top professional is accused of cheating on their way up. These are the most-reported pros from the top 10 VRS Ranked teams, by reports received on FACEIT during the careers that lead to the biggest LAN stages.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmxq17/every_top_professional_is_accused_of_cheating_on/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-03T10:42:59.000Z",
-          "score": 7.5,
+          "published": "2026-11-03T16:33:45.000Z",
+          "score": 8,
           "level": "possible",
           "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "natus vincere*",
-            "furia*",
-            "iem"
+            "cheating",
+            "accused",
+            "reddit only"
           ]
         },
         {
@@ -52,6 +49,34 @@
           ]
         },
         {
+          "title": "FURIA vs Natus Vincere / IEM Beijing 2026 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmt7g1/furia_vs_natus_vincere_iem_beijing_2026_group_a/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T13:40:48.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "official*",
+            "aleksib*",
+            "b1t*",
+            "natus vincere",
+            "furia"
+          ]
+        },
+        {
+          "title": "G2 - team roster, matches, statistics",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00em9oLVg1eDNyWm1Vbjcwb2FoZ19xTnd0Rnh4TUZ6eWpzQzU2VkFUUGRJMkhiVkhnYlBBVkZJRktuNmNUVi1YQmQ2dGZ0Smc?oc=5",
+          "source": "Google News: CS2 (escorenews.com)",
+          "published": "2026-11-03T09:39:41.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "roster",
+            "g2"
+          ]
+        },
+        {
           "title": "karrigan: \"We can't win our own map pick lately\"",
           "url": "https://www.hltv.org/news/45898/karrigan-we-cant-win-our-own-map-pick-lately",
           "source": "HLTV news",
@@ -73,6 +98,17 @@
           "why": [
             "faze",
             "furia*"
+          ]
+        },
+        {
+          "title": "Officer Jacques Beltram’s round-start battle cry (“AAAAHH!”) was removed in CS2. It’s still in the game files, just not hooked up",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmwy0v/officer_jacques_beltrams_roundstart_battle_cry/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T16:05:08.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
           ]
         },
         {
@@ -118,45 +154,12 @@
           "why": [
             "iem"
           ]
-        },
-        {
-          "title": "After S9 placements, 19 y/o dem0n sat 560 Elo behind donk. Since Saturday they’ve traded #1, with dem0n setting the season’s highest Elo peak at 5,359",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmty7s/after_s9_placements_19_yo_dem0n_sat_560_elo/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T14:11:23.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "donk"
-          ]
-        },
-        {
-          "title": "Bad Fallen makes an appearance with a no-scope vs. Navi",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmtbf6/bad_fallen_makes_an_appearance_with_a_noscope_vs/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T13:45:41.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "navi"
-          ]
-        },
-        {
-          "title": "Karrigan hugging his teammates in the past. Teses face",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmt1cb/karrigan_hugging_his_teammates_in_the_past_teses/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T13:33:20.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "karrigan"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -245,6 +248,15 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "It's patch day today",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmxjt5/its_patch_day_today/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T16:27:23.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -267,32 +279,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Our Honest Thoughts on Modern Warfare 4... | FaZe Vegas Podcast",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmpl1q/our_honest_thoughts_on_modern_warfare_4_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T10:34:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Dreamhack Major 2 ticket pricing",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmvus1/dreamhack_major_2_ticket_pricing/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T15:24:35.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
       "storyCount": 1,
       "stories": [
@@ -306,6 +292,30 @@
           "why": [
             "t90"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-03T01:14:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken Card Tournament is FINALLY BACK in 2026! [SHOWCASE]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xmxxce/tekken_card_tournament_is_finally_back_in_2026/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T16:41:22.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -325,21 +335,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-03T01:14:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
       "storyCount": 1,
       "stories": [
@@ -349,6 +344,21 @@
           "source": "Google News: Legacy FGC (Gaming Age)",
           "published": "2026-11-03T01:17:16.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Dreamhack Major 2 ticket pricing",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmvus1/dreamhack_major_2_ticket_pricing/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T15:24:35.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
