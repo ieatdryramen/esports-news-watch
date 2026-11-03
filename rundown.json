@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T03:00:40.187Z",
+  "generatedAt": "2026-11-03T04:00:36.579Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "BetBoom Team puts Dota 2 division on hold and moves entire roster to inactive status",
@@ -31,15 +31,15 @@
           ]
         },
         {
-          "title": "Which cheat is better?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmfv4h/which_cheat_is_better/",
+          "title": "Why is pudge always banned?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xmicz6/why_is_pudge_always_banned/",
           "source": "r/DotA2",
-          "published": "2026-11-03T01:33:50.000Z",
-          "score": 5,
+          "published": "2026-11-03T03:31:50.000Z",
+          "score": 5.5,
           "level": "possible",
           "why": [
-            "banned*",
-            "cheat"
+            "banned",
+            "ban*"
           ]
         },
         {
@@ -117,22 +117,15 @@
           "why": []
         },
         {
-          "title": "All Multi-Time TI Winners In Dota 2 [Full List]",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00UmRjRUhHOGZfV0w2LWZ6Nll0ZzVUQlZVWDVJVnYwZ3hBa0tRY1F4VlozWmpKREJTdWdqY2tsMElZdUhPWmJvUnhlTzFIVG84bXo4VkQ0NktxS3haYm1SdUZlcG5KanlJbW5ybzNBc2N5UmZ1akZwSmlGN1Q?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-02T03:53:53.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Patch, Valve!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xm8cac/patch_valve/",
-          "source": "r/DotA2",
-          "published": "2026-11-02T20:21:25.000Z",
+          "title": "ICxI - XE, November 11, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXYzaG5RcWJlSWNVYU5rUFV6bVFiR2VXQkVkaUQwTW9sOVRxel9zUkJzV0taT01KX05nOGxaX1MtTkJod1M2aV9BZjQ4dGI0dmVXS3o2UHRzT2FXR29XUml0WXktNTJfNU1BX2JON1ZDa0txdk11MlJyUHN6QkhVbGpNR1lQczNMV2lGVTBLV2R2VG9KWlQ1SEkxUVBfUVAyREZ4NA?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-02T12:48:25.000Z",
           "score": 0,
           "level": null,
-          "why": []
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
