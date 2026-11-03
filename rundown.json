@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-11-03T09:55:28.487Z",
+  "generatedAt": "2026-11-03T10:55:16.536Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 21,
       "stories": [
         {
-          "title": "MOUZ vs BB / IEM Beijing 2026 - Group B Upper Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmn07j/mouz_vs_bb_iem_beijing_2026_group_b_upper_bracket/",
+          "title": "The MongolZ vs HEROIC / IEM Beijing 2026 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmpq2u/the_mongolz_vs_heroic_iem_beijing_2026_group_a/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-03T07:53:03.000Z",
+          "published": "2026-11-03T10:42:59.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "mouz",
-            "iem",
-            "reddit only"
+            "natus vincere*",
+            "furia*",
+            "iem"
           ]
         },
         {
-          "title": "Aurora vs G2 / IEM Beijing 2026 - Group B Lower Bracket Round 1 / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmkvsv/aurora_vs_g2_iem_beijing_2026_group_b_lower/",
+          "title": "FaZe vs Falcons / IEM Beijing 2026 - Group A Lower Bracket Round 1 / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmoy1g/faze_vs_falcons_iem_beijing_2026_group_a_lower/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-03T05:44:39.000Z",
+          "published": "2026-11-03T09:56:14.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "g2",
-            "iem",
-            "reddit only"
+            "niko*",
+            "m0nesy*",
+            "karrigan*"
           ]
         },
         {
@@ -66,15 +66,27 @@
           ]
         },
         {
-          "title": "NAVI Beat Falcons 2-0 at IEM Beijing 2026 | Match Recap",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxjWUNVV1ZDdjA1b2tOV3dPWGg0NzlXb0ZyRndCSTN2cEFWMjllczFaVkZuOURFQ1dvMXFScktvLWViWkkyLXlFMHNaTGcwcktzd3hHTlRRRUNwenVtajJMWm9rdHRGMllJR1dpQXZ0TGdKUXZPTU5XYldqRGlNcm8zX3A5X1hzeVdHV1lDM0hQYmU4dHU2MG5Gdy1JTC1kTDd0bHQ3TXdqSlVLdDk0?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-02T14:00:54.000Z",
-          "score": 5,
+          "title": "Falcons condemn FaZe to last-place exit in Beijing",
+          "url": "https://www.hltv.org/news/45896/falcons-condemn-faze-to-last-place-exit-in-beijing",
+          "source": "HLTV news",
+          "published": "2026-11-03T10:03:00.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "navi",
-            "iem"
+            "faze",
+            "furia*"
+          ]
+        },
+        {
+          "title": "Karrigan hugging his former faze teammates",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xmp0wi/karrigan_hugging_his_former_faze_teammates/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-03T10:00:51.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "karrigan",
+            "faze"
           ]
         },
         {
@@ -138,17 +150,6 @@
           "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened",
           "source": "HLTV news",
           "published": "2026-11-02T20:47:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Singapore Major 2026: Every Qualified Team",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LUm9KYXpEazZoYmhWN0JKUkQ5ZXFubGJuendNYWppQ2J1OHBfNVYzOEM5V0xISTVZZDUtbGZNMExhbUVYMTF1eFR4dXp0LW5pVDlVRlJjalRwcGhtZ1E3dlVBVWg5U1FhMTBvZXhRRlBES2Q2WGgyeTdHb3U?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-02T11:54:22.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -232,6 +233,17 @@
           ]
         },
         {
+          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-03T07:20:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
           "title": "BETBOOM TEAM announced its withdrawal from professional Dota 2",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXhwckQwakRwODBfTGRWTnlGNTdFUjZFdDFPZTRmMGYycVZZQVRNN3dHUXlxLWI2V0tIdUdoQWFkd0trMmxYajdscllVRE9pT1dYQnRRREQ3MmQwS1g1RUphMHBUTy1iemFGVmdSTXgxN1FWc2pVX0MzSUw0V3phYkIzdw?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -251,17 +263,6 @@
           "level": null,
           "why": [
             "roster"
-          ]
-        },
-        {
-          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-02T16:29:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
           ]
         },
         {
@@ -321,7 +322,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "I think the Vel is OBJECTIVELY overpowered and must be banned in favor of the Iso",
@@ -332,6 +333,17 @@
           "level": null,
           "why": [
             "banned"
+          ]
+        },
+        {
+          "title": "Our Honest Thoughts on Modern Warfare 4... | FaZe Vegas Podcast",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmpl1q/our_honest_thoughts_on_modern_warfare_4_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-03T10:34:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
@@ -360,23 +372,6 @@
           "level": null,
           "why": [
             "breaking"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "I Did My First Ever Kacky Finish First Try!",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xmfhnp/i_did_my_first_ever_kacky_finish_first_try/",
-          "source": "r/TrackMania",
-          "published": "2026-11-03T01:16:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "first ever"
           ]
         }
       ]
@@ -445,6 +440,7 @@
     "Melee",
     "Classic Tetris",
     "Brood War",
+    "Trackmania",
     "Legacy FGC",
     "Quake",
     "Halo"
