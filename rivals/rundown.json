@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T18:40:37.021Z",
+  "generatedAt": "2026-11-04T19:40:33.151Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals November 5 Patch Notes: New Skins, Hero Fixes, and More",
@@ -16,6 +16,24 @@
           "why": [
             "patch notes"
           ]
+        },
+        {
+          "title": "Marvel Rivals Adds Worthy Spider-Man And Cosmic Cook Thing Costumes This Week",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU2U1REtLVFlpaFBsTm1wMEFQRjhobXFSLTU0bWl5N1dOMExIWEJldkxVWm82Y2pUb1ZwdmZreWVja1g1V2djc01VZ3Y5aW13a1FMSUFDU2FuSmlqdF8tdTlOMTVjb28tWXAwNGNVWTJ5YzFSdXdLRWF2bVRCT0pTZGZXVFo5MThrT0N1d09EZGRBWlBoT3hIdHJsVHY3UzZ4WDdZOEJ2VHlpZXRDQ1owNzhnR2lIT1FDLVUxWVB1ZzloUmlJQkoxYnhxQklHZG1qSXc?oc=5",
+          "source": "Google News: Rivals patches (GameFragger.com)",
+          "published": "2026-11-04T19:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals November 5 Patch Adds New Skins For Spider-Man and The Thing",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckVPdFg4OWJoTWhoQzZIRTRJVUJMdjZyaDExUVdXUVA5dHpySDVSdkxCaXRBYUp2QWhwMjFRUE55bmowVnRPbXpZVkpmMDdvQ2Q4Q040RlA4Q0FiS21xdjJtbGlXVkFRaFVZWlhJbFV3aDZBTEpkTS1JWkxrZTR3bnlFZE1EdVJ0Q0VEZWhn?oc=5",
+          "source": "Google News: Rivals esports (TalkEsport)",
+          "published": "2026-11-04T18:43:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals ranks in order: Ranked system explained",
