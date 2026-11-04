@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-04T00:00:41.512Z",
+  "generatedAt": "2026-11-04T01:00:37.311Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3oyXzBZN09oQnI0b2lRN2dqMkxtbWR0SHFvNF9VQU4xbHlCb3Fsb09uQmY5SEtHUVhzWUI4eDFTYkU0ZEdSUkdDWkdUcmlHdE55N3JTbFZSQzg0ZEJQNWR4NzFyeXBsOWl3bUozM2xtcnJ4UTZBV2RRZEZkajFTWWRRa0YycjlrT0xfZll0QXJuZWdCV2Q4Zll0TzFLTXg1c2FmNmxMNA?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
-          "published": "2026-11-03T16:08:20.000Z",
+          "published": "2026-11-03T19:19:07.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -57,6 +57,15 @@
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pQ043ZzNpM1lJd3E0ZVdFYUU4dkpESVYxRFF2VkVLUUxNdERNMXVUWEdxRDNaNnRjdklaSGJvMUJXOENtcXVvUWNGc0JqVm9Xbm5uVmV1ak1raDBZeExyVTNhbDU4Vjc1UU1FWWZSc0VmY2p4dG9Z?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
           "published": "2026-11-03T13:14:47.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals goes Hollywood…to make announcements for the game’s future!",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS1ZIZWpRUDYxLV9fTmp4TjJIMFJVVTdCX0dPSWZ4aFk1VnFUQ01qcVpxVzRpX3dlZlZGMTFpWkw4NTA0VWZPMDNFampWdU1GOXAtdkdPT1R0SnZPX29BTC02c2hwUnp0ODdCanBuU2Q1Zm1mOU5rRk5MWEhpMEhYTVJQVjdOWDVRQ0FQWnMxcVpoVlRpei0wdzZKRDlabGxxOUNDNXVR0gGrAUFVX3lxTFBBaTd1aHBXZDBwZlVKMFU0Y3NwSC1VUWRnUHNUcksyLXpNY3dNWWlNQldCSG1PSlJYcHJUMFJiQVJscElBeWV0NmlpaThueWduOVBkOEFGQ1ctaHIxMDFwcU1XLXc0Vnl4WXUyY3NtREFwY01rZEIzamt1Qk1WUEhTdlVFbFB6cEF6N3k1aUF5ZkFZbE5XbWNJRXp4dVMzbmU3VXhFQ0tFcHJaSQ?oc=5",
+          "source": "Google News: Rivals rosters (Gaming Age)",
+          "published": "2026-11-03T01:19:05.000Z",
           "score": 1,
           "level": null,
           "why": []
