@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T09:50:44.008Z",
+  "generatedAt": "2026-11-04T10:50:43.599Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
@@ -15,6 +15,17 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "Bam Adebayo Is About To Have His Best Season Yet Marvel Rivals (CzXI9pWIUS)",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGlwc2dkQjQ5Sl9WTXQ2YTZ4WFF0b0RNNG5zU19HNEI3UGZuVW85bGlVSlRCNWZlcVBPQWtTNWEzN0ZxSEVBeUN1cXU3cVhnTTJyakVfWTl0YWsxMXdia1FPak94eEpzdERCck84YTkwSlBHN3oxY0s0akc0VkduWGdR?oc=5",
+          "source": "Google News: Rivals patches (Unisba Media)",
+          "published": "2026-11-04T01:20:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
           ]
         },
         {

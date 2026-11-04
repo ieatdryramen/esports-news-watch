@@ -1,27 +1,8 @@
 {
-  "generatedAt": "2026-11-04T09:50:47.451Z",
+  "generatedAt": "2026-11-04T10:50:46.275Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Tokon",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Marvel Tokon Fighting Souls Update 1.004.002 Out Now, Adds Phoenix Cyclops, Combat Balance Changes & More - Full Patch Notes Listed",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYVZSaVpyMGpocVppSUpRLWZvc1pwcTZzcUdpZDVrQWd1dFYzcWlpS0g0UVBJMTNYTHNlUWtVb1U2c0dxYllHNFdGcTFGZ00tUVRpN0hINy1ieUZ2RnJsUmdjbFc4dHNvVmx5TnJnT2ZUekhzT3JWNXU4Qjd6WG1KNlg3N0U5aDhJT2pmY3pYQUtLQTA2djNIUTAxZkRZellsYkFTR3pJUnFCUEt1ZlJDUWJsYng5VHpybkRjR2daZDR5MWc5UmhOS2haalUwQVBhQWpsZXZFd3cxRlVNZlZFUVlDRWgxdw?oc=5",
-          "source": "Google News: Tokon (PlayStation Universe)",
-          "published": "2026-11-03T10:35:01.000Z",
-          "score": 10,
-          "level": "breaking",
-          "why": [
-            "update",
-            "patch notes",
-            "balance",
-            "balance changes"
-          ]
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Tokon"
+  ]
 }
