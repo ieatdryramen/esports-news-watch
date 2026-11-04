@@ -1,6 +1,42 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-04T08:55:15.954Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Liquid comeback from 9-3 to beat betboom on nuke",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnje6a/liquid_comeback_from_93_to_beat_betboom_on_nuke/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "comeback",
+        "liquid"
+      ],
+      "summary": "submitted by /u/Impressive-Engine-16 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-04T08:54:28.000Z"
+    },
+    {
+      "alertedAt": "2026-11-04T08:55:15.954Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Liquid comeback on Nuke against BB",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnjdzm/liquid_comeback_on_nuke_against_bb/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "comeback",
+        "liquid"
+      ],
+      "summary": "submitted by /u/maturedumbass to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-04T08:54:07.000Z"
+    },
+    {
       "alertedAt": "2026-11-04T08:00:27.809Z",
       "level": "possible",
       "scene": "CS2",
