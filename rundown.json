@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-11-04T22:55:35.315Z",
+  "generatedAt": "2026-11-04T23:55:17.505Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 17,
       "stories": [
-        {
-          "title": "NAVI became one of only four teams in history to complete a map with three players each having a rating of 2.00 or higher after their win vs Falcons",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnv5az/navi_became_one_of_only_four_teams_in_history_to/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T18:01:54.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "history",
-            "navi",
-            "g2*",
-            "furia*",
-            "blast*",
-            "esl pro league*"
-          ]
-        },
         {
           "title": "VAC Live False positive when lagging?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xny3yi/vac_live_false_positive_when_lagging/",
@@ -144,6 +128,15 @@
           "url": "https://www.hltv.org/news/45917/zonic-when-we-get-off-to-a-bad-start-it-can-destroy-our-entire-game",
           "source": "HLTV news",
           "published": "2026-11-04T20:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "FISSURE CEO: \"Around half of our CS2 debt has already been paid\"",
+          "url": "https://www.hltv.org/news/45916/fissure-ceo-around-half-of-our-cs2-debt-has-already-been-paid",
+          "source": "HLTV news",
+          "published": "2026-11-04T19:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -286,7 +279,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "LAT official roster for 2026-27",
@@ -298,6 +291,17 @@
           "why": [
             "roster",
             "official"
+          ]
+        },
+        {
+          "title": "M8 vs faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo3f3x/m8_vs_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-04T23:31:26.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
