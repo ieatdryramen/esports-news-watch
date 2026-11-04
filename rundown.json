@@ -1,97 +1,10 @@
 {
-  "generatedAt": "2026-11-03T23:00:37.323Z",
+  "generatedAt": "2026-11-04T00:00:36.345Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Dota",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "Hellnight banned for match fixing at EPC Season 3",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmzi1f/hellnight_banned_for_match_fixing_at_epc_season_3/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T17:38:30.000Z",
-          "score": 9,
-          "level": "possible",
-          "why": [
-            "banned",
-            "match fixing",
-            "reddit only"
-          ]
-        },
-        {
-          "title": "I got banned for what?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmz24v/i_got_banned_for_what/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T17:22:33.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned"
-          ]
-        },
-        {
-          "title": "BetBoom Team puts its Dota 2 division on hiatus",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
-          "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T08:10:41.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "hiatus"
-          ]
-        },
-        {
-          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-03T07:20:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "BETBOOM TEAM announced its withdrawal from professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXhwckQwakRwODBfTGRWTnlGNTdFUjZFdDFPZTRmMGYycVZZQVRNN3dHUXlxLWI2V0tIdUdoQWFkd0trMmxYajdscllVRE9pT1dYQnRRREQ3MmQwS1g1RUphMHBUTy1iemFGVmdSTXgxN1FWc2pVX0MzSUw0V3phYkIzdw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-03T07:15:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "announced"
-          ]
-        },
-        {
-          "title": "About new patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xn67cs/about_new_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T21:45:54.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "update*",
-            "record*",
-            "history*"
-          ]
-        },
-        {
-          "title": "Dota 2 update is COMING",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xmz36q/dota_2_update_is_coming/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T17:23:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Will Fallen call off his retirement and renew with Furia?",
@@ -119,18 +32,6 @@
             "navi",
             "furia",
             "iem*"
-          ]
-        },
-        {
-          "title": "G2 - team roster, matches, statistics",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00em9oLVg1eDNyWm1Vbjcwb2FoZ19xTnd0Rnh4TUZ6eWpzQzU2VkFUUGRJMkhiVkhnYlBBVkZJRktuNmNUVi1YQmQ2dGZ0Smc?oc=5",
-          "source": "Google News: CS2 (escorenews.com)",
-          "published": "2026-11-03T09:39:41.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "roster",
-            "g2"
           ]
         },
         {
@@ -229,6 +130,81 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWgzRG9BRWQ4eFl5clZsbzZXREYyX1NKNjJwQ1BObFJTYm8xVlRwZEZvSllZazVha2ozSHh5RmQ3YTBPYVlxUWlCVHkwOGlfQ2d5c2lZRTlLczJwd2NMMHZtM2c5VkVXUkwzamhkSmhXM2JFWm9YMW1ObzFlbWFHSA?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-03T14:57:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "history",
+            "-skin"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 5,
+      "stories": [
+        {
+          "title": "BetBoom Team puts its Dota 2 division on hiatus",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
+          "source": "Google News: Dota (GosuGamers)",
+          "published": "2026-11-03T08:10:41.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "hiatus"
+          ]
+        },
+        {
+          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-03T07:20:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "BETBOOM TEAM announced its withdrawal from professional Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXhwckQwakRwODBfTGRWTnlGNTdFUjZFdDFPZTRmMGYycVZZQVRNN3dHUXlxLWI2V0tIdUdoQWFkd0trMmxYajdscllVRE9pT1dYQnRRREQ3MmQwS1g1RUphMHBUTy1iemFGVmdSTXgxN1FWc2pVX0MzSUw0V3phYkIzdw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-03T07:15:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "announced"
+          ]
+        },
+        {
+          "title": "About new patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xn67cs/about_new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T21:45:54.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "update*",
+            "record*",
+            "history*"
+          ]
+        },
+        {
+          "title": "If Valve taunting us with the update button?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xn8qsc/if_valve_taunting_us_with_the_update_button/",
+          "source": "r/DotA2",
+          "published": "2026-11-03T23:31:29.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
         }
       ]
     },
@@ -259,17 +235,6 @@
           ]
         },
         {
-          "title": "Tekken Modder \" Melonpizza \" Made Tekken 8 Version Moveset of Dr. Boskonovitch ( not released yet)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xmyw7m/tekken_modder_melonpizza_made_tekken_8_version/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T17:16:44.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        },
-        {
           "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
           "url": "https://www.reddit.com/r/Tekken/comments/1xn2e0f/kanme_online_klash_50_tekken_8_tournament_top_8/",
           "source": "r/Tekken",
@@ -290,6 +255,15 @@
           "why": []
         },
         {
+          "title": "HECKIN: KING OF IRON PAW TOURNAMENT",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xn8ljk/heckin_king_of_iron_paw_tournament/",
+          "source": "r/Tekken",
+          "published": "2026-11-03T23:24:57.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "What is it like playing in an online tournament",
           "url": "https://www.reddit.com/r/Tekken/comments/1xn5ifj/what_is_it_like_playing_in_an_online_tournament/",
           "source": "r/Tekken",
@@ -302,7 +276,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "CDL Major II returns to DreamHack Birmingham with double the seats",
@@ -314,15 +288,6 @@
           "why": [
             "returns"
           ]
-        },
-        {
-          "title": "There is a Challengers tournament being held today around 4pm CST these are the groups:",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xmzn53/there_is_a_challengers_tournament_being_held/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-03T17:43:45.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -409,23 +374,6 @@
       ]
     },
     {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Free Entry $750 Halo Infinite FFA tournament, Sat Nov 28 (double elimination, 64 players, top 8 paid)",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xmy885/free_entry_750_halo_infinite_ffa_tournament_sat/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-03T16:52:40.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "prize pool*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Warcraft III",
       "storyCount": 1,
       "stories": [
@@ -458,6 +406,7 @@
   ],
   "quiet": [
     "AoE2",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
