@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-04T15:00:28.103Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Just opened up Mongolz vs Furia and watched round 1. Holy crap.",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnqabt/just_opened_up_mongolz_vs_furia_and_watched_round/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "grand finals*",
+        "vitality*",
+        "spirit*",
+        "furia"
+      ],
+      "summary": "Yet to find out how round 2 goes. 😆 Is it just me or has tournament play been pretty entertaining recently? Maybe it's because Vitality and Spirit aren't quite as dominant. Furia vs Nemiga was one of the most banger grand finals I've seen. submitted by /u/Wool_God to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-04T14:56:39.000Z"
+    },
+    {
       "alertedAt": "2026-11-04T13:40:21.604Z",
       "level": "possible",
       "scene": "CS2",

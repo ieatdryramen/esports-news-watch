@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T14:00:28.007Z",
+  "generatedAt": "2026-11-04T15:00:29.229Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 23,
       "stories": [
         {
           "title": "The MongolZ vs FURIA / IEM Beijing 2026 - Group A Upper Bracket Final / Post-Match Discussion",
@@ -20,6 +20,20 @@
             "furia",
             "iem",
             "reddit only"
+          ]
+        },
+        {
+          "title": "Just opened up Mongolz vs Furia and watched round 1. Holy crap.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnqabt/just_opened_up_mongolz_vs_furia_and_watched_round/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T14:56:39.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "grand finals*",
+            "vitality*",
+            "spirit*",
+            "furia"
           ]
         },
         {
@@ -86,6 +100,19 @@
           ]
         },
         {
+          "title": "IEM Falcons",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnp6j0/iem_falcons/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T14:10:40.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "niko*",
+            "karrigan*",
+            "iem"
+          ]
+        },
+        {
           "title": "Niko going through it emotionally and IM mocking Karrigan’s ambulance",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnnsk0/niko_going_through_it_emotionally_and_im_mocking/",
           "source": "r/GlobalOffensive",
@@ -131,34 +158,12 @@
           "why": [
             "iem"
           ]
-        },
-        {
-          "title": "BETBOOM edge past Liquid to reach playoffs",
-          "url": "https://www.hltv.org/news/45910/betboom-edge-past-liquid-to-reach-playoffs",
-          "source": "HLTV news",
-          "published": "2026-11-04T10:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "liquid"
-          ]
-        },
-        {
-          "title": "BETBOOM eliminate Aurora from IEM Beijing",
-          "url": "https://www.hltv.org/news/45905/betboom-eliminate-aurora-from-iem-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-04T04:48:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -205,6 +210,15 @@
           ]
         },
         {
+          "title": "Next patch will only be 2 of three things:",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnpq0r/next_patch_will_only_be_2_of_three_things/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T14:33:11.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Do you spend money to buy the dark carnival prize pack?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xnn5sw/do_you_spend_money_to_buy_the_dark_carnival_prize/",
           "source": "r/DotA2",
@@ -242,41 +256,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "There is one thing funny about watching JDCR play T5DR",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xnif8d/there_is_one_thing_funny_about_watching_jdcr_play/",
-          "source": "r/Tekken",
-          "published": "2026-11-04T07:51:24.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "jdcr"
-          ]
-        },
-        {
-          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLWdjZmRYN3p5djk3UGh4a0pKdkJKZVh3N0xidDJNZEZVVzdWMzlDemZ4YzdmUzRjWkxINjQ0VW1SUkc4MDUzUERPazd3V0ZZUFY3SmxyT1ozR0VM?oc=5",
-          "source": "Google News: Tekken (YouTube)",
-          "published": "2026-11-03T18:51:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken 8 tournament in lucknow with cash prize",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xniraa/tekken_8_tournament_in_lucknow_with_cash_prize/",
-          "source": "r/Tekken",
-          "published": "2026-11-04T08:12:14.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -289,6 +268,23 @@
           "level": null,
           "why": [
             "official"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Not the cleanest but I feel so filthy after I won this round/set. Wall Kazino",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xnp4j5/not_the_cleanest_but_i_feel_so_filthy_after_i_won/",
+          "source": "r/Tekken",
+          "published": "2026-11-04T14:08:38.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
           ]
         }
       ]
