@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T15:00:29.229Z",
+  "generatedAt": "2026-11-04T16:00:28.967Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 25,
       "stories": [
         {
           "title": "The MongolZ vs FURIA / IEM Beijing 2026 - Group A Upper Bracket Final / Post-Match Discussion",
@@ -163,7 +163,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -208,6 +208,26 @@
           "why": [
             "won"
           ]
+        },
+        {
+          "title": "Update soon mfs",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnr890/update_soon_mfs/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T15:33:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Aight since valve aint dropping the patch any 1 wanna start a dota player guild in wow forever",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnqh65/aight_since_valve_aint_dropping_the_patch_any_1/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T15:04:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "Next patch will only be 2 of three things:",
@@ -256,6 +276,41 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Not the cleanest but I feel so filthy after I won this round/set. Wall Kazino",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xnp4j5/not_the_cleanest_but_i_feel_so_filthy_after_i_won/",
+          "source": "r/Tekken",
+          "published": "2026-11-04T14:08:38.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLWdjZmRYN3p5djk3UGh4a0pKdkJKZVh3N0xidDJNZEZVVzdWMzlDemZ4YzdmUzRjWkxINjQ0VW1SUkc4MDUzUERPazd3V0ZZUFY3SmxyT1ozR0VM?oc=5",
+          "source": "Google News: Tekken (YouTube)",
+          "published": "2026-11-03T18:51:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "I really miss Tekken Card Tournament, had a lot of fun at the time and thought it was a simple yet fun card game. Am i the only one?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xnqwoc/i_really_miss_tekken_card_tournament_had_a_lot_of/",
+          "source": "r/Tekken",
+          "published": "2026-11-04T15:20:55.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -268,23 +323,6 @@
           "level": null,
           "why": [
             "official"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Not the cleanest but I feel so filthy after I won this round/set. Wall Kazino",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xnp4j5/not_the_cleanest_but_i_feel_so_filthy_after_i_won/",
-          "source": "r/Tekken",
-          "published": "2026-11-04T14:08:38.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
           ]
         }
       ]
