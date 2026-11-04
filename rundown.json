@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T17:00:25.056Z",
+  "generatedAt": "2026-11-04T18:00:29.551Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 22,
       "stories": [
         {
           "title": "The MongolZ vs FURIA / IEM Beijing 2026 - Group A Upper Bracket Final / Post-Match Discussion",
@@ -125,18 +125,6 @@
           ]
         },
         {
-          "title": "karrigan highlights vs. NAVI on Inferno",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnmsme/karrigan_highlights_vs_navi_on_inferno/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T12:20:13.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "karrigan",
-            "navi"
-          ]
-        },
-        {
           "title": "A documentary about the CS scene in Bosnia and Herzegovina – featuring NiKo's early days",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xno1ks/a_documentary_about_the_cs_scene_in_bosnia_and/",
           "source": "r/GlobalOffensive",
@@ -158,12 +146,23 @@
           "why": [
             "iem"
           ]
+        },
+        {
+          "title": "BETBOOM edge past Liquid to reach playoffs",
+          "url": "https://www.hltv.org/news/45910/betboom-edge-past-liquid-to-reach-playoffs",
+          "source": "HLTV news",
+          "published": "2026-11-04T10:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "liquid"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -196,17 +195,6 @@
           "level": null,
           "why": [
             "eliminated"
-          ]
-        },
-        {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnmf6m/removed_by_reddit/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T12:00:47.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
           ]
         },
         {
@@ -290,25 +278,8 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "CDL Major II returns to DreamHack Birmingham with double the seats",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmVGdEtUOTFqaUxwbVJJcUt5UTZQb041RFBPSzFwOHB6UV8zTXBYV1JZSWlUTzB5Z3ZIcWQ5NzhKY0lFR0RxMUJ2cVlVd1VfaTZhcG5mRFIydjdpX3RKd29VZVBmeVFzNUpSUEFFaWo0YWFhS1lCZ2JvZUJ0UEFzMkFTM19VQk1kUkdhUDlOSUU2R1NZb1VZS2xQSkg4TG90bW5BcTd4UkJYNVhVcVE?oc=5",
-          "source": "Google News: CoD (Inven Global)",
-          "published": "2026-11-03T17:39:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Not the cleanest but I feel so filthy after I won this round/set. Wall Kazino",
@@ -320,6 +291,15 @@
           "why": [
             "won"
           ]
+        },
+        {
+          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLWdjZmRYN3p5djk3UGh4a0pKdkJKZVh3N0xidDJNZEZVVzdWMzlDemZ4YzdmUzRjWkxINjQ0VW1SUkc4MDUzUERPazd3V0ZZUFY3SmxyT1ozR0VM?oc=5",
+          "source": "Google News: Tekken (YouTube)",
+          "published": "2026-11-03T18:51:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "I really miss Tekken Card Tournament, had a lot of fun at the time and thought it was a simple yet fun card game. Am i the only one?",
@@ -375,6 +355,7 @@
     "Brood War",
     "Warcraft III",
     "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
