@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-04T01:00:37.311Z",
+  "generatedAt": "2026-11-04T02:00:43.134Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3oyXzBZN09oQnI0b2lRN2dqMkxtbWR0SHFvNF9VQU4xbHlCb3Fsb09uQmY5SEtHUVhzWUI4eDFTYkU0ZEdSUkdDWkdUcmlHdE55N3JTbFZSQzg0ZEJQNWR4NzFyeXBsOWl3bUozM2xtcnJ4UTZBV2RRZEZkajFTWWRRa0YycjlrT0xfZll0QXJuZWdCV2Q4Zll0TzFLTXg1c2FmNmxMNA?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
-          "published": "2026-11-03T19:19:07.000Z",
+          "published": "2026-11-03T12:24:33.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -57,24 +57,6 @@
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pQ043ZzNpM1lJd3E0ZVdFYUU4dkpESVYxRFF2VkVLUUxNdERNMXVUWEdxRDNaNnRjdklaSGJvMUJXOENtcXVvUWNGc0JqVm9Xbm5uVmV1ak1raDBZeExyVTNhbDU4Vjc1UU1FWWZSc0VmY2p4dG9Z?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
           "published": "2026-11-03T13:14:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals goes Hollywood…to make announcements for the game’s future!",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS1ZIZWpRUDYxLV9fTmp4TjJIMFJVVTdCX0dPSWZ4aFk1VnFUQ01qcVpxVzRpX3dlZlZGMTFpWkw4NTA0VWZPMDNFampWdU1GOXAtdkdPT1R0SnZPX29BTC02c2hwUnp0ODdCanBuU2Q1Zm1mOU5rRk5MWEhpMEhYTVJQVjdOWDVRQ0FQWnMxcVpoVlRpei0wdzZKRDlabGxxOUNDNXVR0gGrAUFVX3lxTFBBaTd1aHBXZDBwZlVKMFU0Y3NwSC1VUWRnUHNUcksyLXpNY3dNWWlNQldCSG1PSlJYcHJUMFJiQVJscElBeWV0NmlpaThueWduOVBkOEFGQ1ctaHIxMDFwcU1XLXc0Vnl4WXUyY3NtREFwY01rZEIzamt1Qk1WUEhTdlVFbFB6cEF6N3k1aUF5ZkFZbE5XbWNJRXp4dVMzbmU3VXhFQ0tFcHJaSQ?oc=5",
-          "source": "Google News: Rivals rosters (Gaming Age)",
-          "published": "2026-11-03T01:19:05.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Adds Worthy Spider-Man and Cosmic Cook Thing Costumes on November 5",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFwMjNZUHpqX2pTRXlpaEFZbFpIeFlqTy1UazMwOC1pekZkOTQ2cG1SRm5UY21uRUNxUDRGTlgtSHk3QTI5bDY1Q3hPbE1LT2s1WUtmMVJCMXhiVHZCaklYM1lvdV9sSHJhUXRuV2pmVWRyNFBrVllfbUtxelJTcExjQXV6S1NXdmMtelpyNzlOa3o4bHFnZ3BNR2I1WVN2Zmc?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-03T01:00:54.000Z",
           "score": 1,
           "level": null,
           "why": []
