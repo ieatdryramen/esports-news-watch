@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T04:00:37.512Z",
+  "generatedAt": "2026-11-04T05:00:44.423Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Liquid vs TYLOO / IEM Beijing 2026 - Group B Lower Bracket Semi-Final / Post-Match Discussion",
@@ -49,15 +49,14 @@
           ]
         },
         {
-          "title": "karrigan: \"We can't win our own map pick lately\"",
-          "url": "https://www.hltv.org/news/45898/karrigan-we-cant-win-our-own-map-pick-lately",
+          "title": "BETBOOM eliminate Aurora from IEM Beijing",
+          "url": "https://www.hltv.org/news/45905/betboom-eliminate-aurora-from-iem-beijing",
           "source": "HLTV news",
-          "published": "2026-11-03T11:17:00.000Z",
-          "score": 4,
+          "published": "2026-11-04T04:48:00.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "karrigan",
-            "faze*"
+            "iem"
           ]
         },
         {
@@ -139,14 +138,14 @@
           ]
         },
         {
-          "title": "Karrigan and Frozen exchange before the game",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnakx1/karrigan_and_frozen_exchange_before_the_game/",
+          "title": "What are the chances Faze management fumble Hooxi?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xneukh/what_are_the_chances_faze_management_fumble_hooxi/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-04T00:54:09.000Z",
+          "published": "2026-11-04T04:25:06.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "karrigan"
+            "faze"
           ]
         }
       ]
@@ -159,7 +158,7 @@
           "title": "BetBoom Team puts its Dota 2 division on hiatus",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
           "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T08:12:05.000Z",
+          "published": "2026-11-03T08:11:07.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -202,16 +201,13 @@
           ]
         },
         {
-          "title": "With terrains returning, do you think prestige items will also return in some form?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnc5mq/with_terrains_returning_do_you_think_prestige/",
+          "title": "While waiting patch. This changes for those annoying hero is acceptable balance or not? and item.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xneety/while_waiting_patch_this_changes_for_those/",
           "source": "r/DotA2",
-          "published": "2026-11-04T02:09:27.000Z",
-          "score": 2,
+          "published": "2026-11-04T04:02:26.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "return",
-            "the international*"
-          ]
+          "why": []
         }
       ]
     },

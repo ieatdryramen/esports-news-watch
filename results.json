@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:30:22.914Z",
+  "generatedAt": "2026-11-04T05:00:32.232Z",
   "source": "start.gg",
   "completed": [
     {
@@ -142,56 +142,23 @@
           "name": "MTPif | Doomer"
         }
       ]
-    },
-    {
-      "eventId": "1745858",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "Acer Predator League 2027 Surabaya Qualifier #3",
-      "event": "Acer Predator League Surabaya Qualifier",
-      "entrants": 78,
-      "online": false,
-      "major": false,
-      "startAt": "2026-10-31T17:00:00.000Z",
-      "endAt": "2026-11-01T12:00:00.000Z",
-      "url": "https://www.start.gg/tournament/acer-predator-league-2027-surabaya-qualifier-3/event/acer-predator-league-surabaya-qualifier",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "KOM | Shomus"
-        },
-        {
-          "placement": 2,
-          "name": "UwU | Lazt"
-        },
-        {
-          "placement": 3,
-          "name": "EVL | Topokki"
-        },
-        {
-          "placement": 4,
-          "name": "KOM | ClyffEdge"
-        },
-        {
-          "placement": 5,
-          "name": "KOM | ZangetsuShin"
-        },
-        {
-          "placement": 5,
-          "name": "KOM | Hibana緋花"
-        },
-        {
-          "placement": 7,
-          "name": "EVL | Dadaaar"
-        },
-        {
-          "placement": 7,
-          "name": "KAM | Xun"
-        }
-      ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1743857",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TNS TEKKEN 8 #140",
+      "event": "Tekken 8",
+      "entrants": 200,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-04T01:00:00.000Z",
+      "endAt": "2026-11-04T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-tekken-8-140/event/tekken-8"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1611249",
