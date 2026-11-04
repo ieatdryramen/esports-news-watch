@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T21:00:28.863Z",
+  "generatedAt": "2026-11-04T22:00:24.125Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 19,
       "stories": [
         {
           "title": "NAVI became one of only four teams in history to complete a map with three players each having a rating of 2.00 or higher after their win vs Falcons",
@@ -140,21 +140,19 @@
           ]
         },
         {
-          "title": "5 years ago Fallen gave IHC.Nin9 his jersey because Nin9 was his favourite player. Today Nin9 beat Furia to advance to Semi-Finals",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnr2e8/5_years_ago_fallen_gave_ihcnin9_his_jersey/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T15:27:12.000Z",
-          "score": 2,
+          "title": "zonic: \"When we get off to a bad start, it can destroy our entire game\"",
+          "url": "https://www.hltv.org/news/45917/zonic-when-we-get-off-to-a-bad-start-it-can-destroy-our-entire-game",
+          "source": "HLTV news",
+          "published": "2026-11-04T20:00:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "furia"
-          ]
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 9,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -221,25 +219,14 @@
           "why": []
         },
         {
-          "title": "Patch today??please?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnsli4/patch_todayplease/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T16:26:50.000Z",
-          "score": 1,
+          "title": "XE - oveA, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMENoeGtXMU9RcDl2WW9OcEp3dVpfa0R1MXZqSnAzSE0zc3liTmoxamZYdnROaDg1RDcwdzUxaTdiQWJMRUVFNldPUXMyNlF2WmtQX2pLUHBkazBnSDlsQ29sRmhnUWZpU1d6NDhBX2JpczZJMVY5Y2JMbENaa3M5R29tOUpMb0xHR21HR1F0Z2lJbFE0NnVxYnNVZWw?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-04T21:23:11.000Z",
+          "score": 0,
           "level": null,
           "why": [
-            "released*"
-          ]
-        },
-        {
-          "title": "Update soon mfs",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnr890/update_soon_mfs/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T15:33:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
+            "-stream"
           ]
         },
         {
@@ -252,30 +239,10 @@
           "why": []
         },
         {
-          "title": "XE - PlayTime, November 7, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSThSeFFDa3k4LWZrTF81RnRDY25sMHVOVkQ0aTVmNV9FNDUzMGYwT0NhTlFHNEVqUWtMb0lLTXlhU3NRRjAyYkdITVRMRXI0Tk5XV3doMmlSdjdmQU5yemtHbkVoWjJUZlljdEE0bVNUdGlVLWNXX09JTl9ONURoS0oxbFFrdHowOEdhVjdyU2MzVVR4cmdiTlJRcko1WllMWTEw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-04T16:55:09.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
           "title": "The patch are the friends in the way",
           "url": "https://www.reddit.com/r/DotA2/comments/1xnt5t6/the_patch_are_the_friends_in_the_way/",
           "source": "r/DotA2",
           "published": "2026-11-04T16:48:34.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "I compared Anti-Mage's Counterspell with the failure of League's \"Mel\".",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnsmt3/i_compared_antimages_counterspell_with_the/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T16:28:13.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -311,27 +278,21 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 1,
+      "scene": "CoD",
+      "storyCount": 5,
       "stories": [
         {
-          "title": "What's he making? Harada says he only has time to make \"one more game\" so he wanted \"to try something new\" ...",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xnwn27/whats_he_making_harada_says_he_only_has_time_to/",
-          "source": "r/Tekken",
-          "published": "2026-11-04T18:59:07.000Z",
+          "title": "LAT official roster for 2026-27",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo0pu6/lat_official_roster_for_202627/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-04T21:37:49.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "won*",
-            "harada"
+            "roster",
+            "official"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 4,
-      "stories": [
+        },
         {
           "title": "Miami Heretics 2027 CDL Tierlist",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnww51/miami_heretics_2027_cdl_tierlist/",
@@ -375,6 +336,24 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "What's he making? Harada says he only has time to make \"one more game\" so he wanted \"to try something new\" ...",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xnwn27/whats_he_making_harada_says_he_only_has_time_to/",
+          "source": "r/Tekken",
+          "published": "2026-11-04T18:59:07.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "won*",
+            "harada"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -387,6 +366,33 @@
           "level": null,
           "why": [
             "smash summit"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "New patch wall bug - Scout walks through palisade wall in ranked game",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xnturg/new_patch_wall_bug_scout_walks_through_palisade/",
+          "source": "r/aoe2",
+          "published": "2026-11-04T17:14:09.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "This clip is for Daut ! Yes you can kill deers in dark age with scout, how ? I don't know !!!",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xnkyqo/this_clip_is_for_daut_yes_you_can_kill_deers_in/",
+          "source": "r/aoe2",
+          "published": "2026-11-04T10:35:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "daut",
+            "-clip"
           ]
         }
       ]
@@ -411,7 +417,6 @@
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
