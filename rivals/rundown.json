@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T09:00:44.028Z",
+  "generatedAt": "2026-11-04T09:50:44.008Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Sheldon Esports Marvel Rivals Team Wins Makeup Match Against Greene County",
@@ -15,18 +15,6 @@
           "level": null,
           "why": [
             "wins"
-          ]
-        },
-        {
-          "title": "MRC Season 10: Butcher's Blasphemy - Pacific PC",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2plc2kyelRFTjVERVl5SVpwYng4RlpZdjg2QTNFb2l1ZW1Xdm51RjNaRUpHX2ItYVR4Y2JVaUR4emQ5aVdQdXNadkpkMjY2ZWxXaGZKV3Z3Rk1sNWQxN1pmZHo4VDNOeGlYekxpRFRWOFVCb1NiTERwN21jVHZvXzhhRTVwRUFxaC1Z?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-03T09:50:34.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "mrc"
           ]
         },
         {
