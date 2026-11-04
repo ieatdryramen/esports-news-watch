@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-04T10:00:51.959Z",
+  "generatedAt": "2026-11-04T11:00:30.649Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 23,
       "stories": [
-        {
-          "title": "How did I get flagged by VAC for cheating? I'm not cheating and am playing like absolute doodoo. Can ya'll identify what about my gameplay made the anticheat go off?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnijf6/how_did_i_get_flagged_by_vac_for_cheating_im_not/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T07:58:58.000Z",
-          "score": 9,
-          "level": "possible",
-          "why": [
-            "cheating",
-            "vac",
-            "canceled*",
-            "reddit only"
-          ]
-        },
         {
           "title": "Liquid vs BB / IEM Beijing 2026 - Group B Lower Bracket Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnkdy5/liquid_vs_bb_iem_beijing_2026_group_b_lower/",
@@ -123,6 +109,17 @@
           ]
         },
         {
+          "title": "BETBOOM edge past Liquid to reach playoffs",
+          "url": "https://www.hltv.org/news/45910/betboom-edge-past-liquid-to-reach-playoffs",
+          "source": "HLTV news",
+          "published": "2026-11-04T10:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "liquid"
+          ]
+        },
+        {
           "title": "BETBOOM eliminate Aurora from IEM Beijing",
           "url": "https://www.hltv.org/news/45905/betboom-eliminate-aurora-from-iem-beijing",
           "source": "HLTV news",
@@ -160,17 +157,28 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
         {
-          "title": "Team Falcons sweep Heroic to earn NAVI rematch at IEM Beijing",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWjAxcEJRcW5GcVJNN1FjNFNjZnIxYXNPRTJZbmNnWnVmSTdMazFVMDBHWExkS2EteUVMNVE0bmZLdGd2dFJuTnVRUUJCN2dEVGJObEtJUTExRjVCaGpZOFd6NGRrcjJvYU5kVzFWQjAyZ0JNVDFxa1JpMm9QWUJGd0tkYzhLRDhFaUNMR1d3OW10ZjdqY01yenJJZjJLQTVkZ2c?oc=5",
-          "source": "Google News: Dota (Esports News UK)",
-          "published": "2026-11-04T08:15:00.000Z",
-          "score": 3,
+          "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3U1QkVZbW9Tb3NZVUQwZUFSSGxWUWI4dmlrNW4yRzB0b0ZXTkc3Ym9jSG9PUTRHX2lRbVZ5MXpPNm56VWZjWmMtMjNYQVhEZldGRlNENGJUZHV3c09VVU5mWmJYYUdtZ05FN0x6eGhmaFZIYi1WckFDRjVQbko3TEx1TlJWUzRNTXJHZjgzak4?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-04T10:52:17.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "benched"
+          ]
+        },
+        {
+          "title": "BetBoom Team puts its Dota 2 division on hiatus",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
+          "source": "Google News: Dota (GosuGamers)",
+          "published": "2026-11-03T19:02:19.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "falcons"
+            "hiatus"
           ]
         },
         {
@@ -183,6 +191,15 @@
           "why": [
             "won"
           ]
+        },
+        {
+          "title": "What do we think the PL nerf will be?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnl0r1/what_do_we_think_the_pl_nerf_will_be/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T10:39:23.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "While waiting patch. This changes for those annoying hero is acceptable balance or not? and item.",
