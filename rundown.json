@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T20:00:28.703Z",
+  "generatedAt": "2026-11-04T21:00:28.863Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -32,20 +32,6 @@
           "why": [
             "cheating*",
             "vac"
-          ]
-        },
-        {
-          "title": "Just opened up Mongolz vs Furia and watched round 1. Holy crap.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnqabt/just_opened_up_mongolz_vs_furia_and_watched_round/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T14:56:39.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand finals*",
-            "vitality*",
-            "spirit*",
-            "furia"
           ]
         },
         {
@@ -84,18 +70,6 @@
           "why": [
             "mouz",
             "furia",
-            "iem"
-          ]
-        },
-        {
-          "title": "Falcons and NAVI set to clash for IEM Beijing playoff spot",
-          "url": "https://www.hltv.org/news/45909/falcons-and-navi-set-to-clash-for-iem-beijing-playoff-spot",
-          "source": "HLTV news",
-          "published": "2026-11-04T06:45:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
             "iem"
           ]
         },
@@ -152,6 +126,28 @@
           "level": null,
           "why": [
             "spirit"
+          ]
+        },
+        {
+          "title": "zorte: \"We just need to focus on how we play as a team\"",
+          "url": "https://www.hltv.org/news/45907/zorte-we-just-need-to-focus-on-how-we-play-as-a-team",
+          "source": "HLTV news",
+          "published": "2026-11-04T18:05:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "revealed*"
+          ]
+        },
+        {
+          "title": "5 years ago Fallen gave IHC.Nin9 his jersey because Nin9 was his favourite player. Today Nin9 beat Furia to advance to Semi-Finals",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnr2e8/5_years_ago_fallen_gave_ihcnin9_his_jersey/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T15:27:12.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "furia"
           ]
         }
       ]
@@ -216,6 +212,15 @@
           ]
         },
         {
+          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-04T20:24:38.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Patch today??please?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xnsli4/patch_todayplease/",
           "source": "r/DotA2",
@@ -274,15 +279,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Aight since valve aint dropping the patch any 1 wanna start a dota player guild in wow forever",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnqh65/aight_since_valve_aint_dropping_the_patch_any_1/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T15:04:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -316,7 +312,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "What's he making? Harada says he only has time to make \"one more game\" so he wanted \"to try something new\" ...",
@@ -329,21 +325,12 @@
             "won*",
             "harada"
           ]
-        },
-        {
-          "title": "I really miss Tekken Card Tournament, had a lot of fun at the time and thought it was a simple yet fun card game. Am i the only one?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xnqwoc/i_really_miss_tekken_card_tournament_had_a_lot_of/",
-          "source": "r/Tekken",
-          "published": "2026-11-04T15:20:55.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Miami Heretics 2027 CDL Tierlist",
@@ -366,6 +353,15 @@
           "why": [
             "pred"
           ]
+        },
+        {
+          "title": "One of the teams in Hitch's 15k Snd creator tournament tomorrow 3 CST. Crimsix Aches Zoomaa Kaysan.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnyanr/one_of_the_teams_in_hitchs_15k_snd_creator/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-04T20:02:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "Challengers Showcase Playoffs Bracket",
