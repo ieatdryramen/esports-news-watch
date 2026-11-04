@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-11-04T11:50:28.177Z",
+  "generatedAt": "2026-11-04T12:50:27.941Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Marvel Tokon's Magik Gets Fired Up with Free New Costume for All Players",
+          "url": "https://www.pushsquare.com/news/2026/11/marvel-tokons-magik-gets-fired-up-with-free-new-costume-for-all-players",
+          "source": "Push Square",
+          "published": "2026-11-04T12:15:00.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "fired",
+            "roster*",
+            "dlc*",
+            "-costume"
+          ]
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
