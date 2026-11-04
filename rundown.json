@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T01:00:33.676Z",
+  "generatedAt": "2026-11-04T02:00:37.862Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "FURIA outlast NAVI for Beijing playoffs",
@@ -18,6 +18,18 @@
             "navi",
             "furia",
             "iem*"
+          ]
+        },
+        {
+          "title": "G2 - team roster, matches, statistics",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00em9oLVg1eDNyWm1Vbjcwb2FoZ19xTnd0Rnh4TUZ6eWpzQzU2VkFUUGRJMkhiVkhnYlBBVkZJRktuNmNUVi1YQmQ2dGZ0Smc?oc=5",
+          "source": "Google News: CS2 (escorenews.com)",
+          "published": "2026-11-03T09:39:41.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "roster",
+            "g2"
           ]
         },
         {
@@ -127,18 +139,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWgzRG9BRWQ4eFl5clZsbzZXREYyX1NKNjJwQ1BObFJTYm8xVlRwZEZvSllZazVha2ozSHh5RmQ3YTBPYVlxUWlCVHkwOGlfQ2d5c2lZRTlLczJwd2NMMHZtM2c5VkVXUkwzamhkSmhXM2JFWm9YMW1ObzFlbWFHSA?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-03T14:57:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "history",
-            "-skin"
-          ]
         }
       ]
     },
@@ -150,7 +150,7 @@
           "title": "BetBoom Team puts its Dota 2 division on hiatus",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
           "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T08:10:41.000Z",
+          "published": "2026-11-03T08:12:05.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -213,7 +213,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "If you could get rid of only one character from the roster, who would it be?",
@@ -236,15 +236,6 @@
           "why": [
             "won*"
           ]
-        },
-        {
-          "title": "Here's an up-close look at Roger Jr.'s HD model in Tekken 8",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLWtaU3h1TzJpR3VtWUFzRnMycWlwUTR4bUtLLV9NXzdYbkdPYW1pREEzM2Y5SGU0c2gzdkI3eGRDNVp5cmNRX3BfVGQ2R1phcnN0eEZXT1g2Uzl4Mk9yVDJJeTV3T0xpTkxTZEYzX19CQXFqaU9N?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-03T01:14:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "HECKIN: KING OF IRON PAW TOURNAMENT",
@@ -316,21 +307,6 @@
       ]
     },
     {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Arc System Works reveal that 4 Million players has experienced Guilty Gear -STRIVE-",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSm4wMDNaNnl3aXZJdTJUQTg0MkhjYWVwUTVrLURjQk5fcWZYWkVyS043YUdMVTdEUDBtaGd2TUU1eDYxLUFmaUxEcVVoZXhJWXQxOWVUWVdqdGxxTXJnVVpaLWdaZnEwbUxJbFVQZDNuWVdQLXdiRGEtaDl5bzd4TlBDUThTOW1OOFFnSFdPdW1IWVZBaGk2M0JhWFdXM3dnTmpwM0RBZjBNdXFESFpHZHJBWdIBuAFBVV95cUxNY1IwcGd0MDRCVmRKODgtbnJpWnh4MDZNQnN5RVdUZHhVc0J2dEJNRjY2VWVtQ1hWY0EyRi1teFVvdHFkaDQ5MXNaVDlTSmJEUFFiOUxUbGx2TVJELVVSYXozUGg5Sk1MbG1IbFJpQXU5OXNFWXljbTZaWGVMNXpoZHh2dVhzenRSYUZjMm5iS0M3Mkg1b2J3Ml9DdHJIaWViT09WQ1BJUjJuUHBJaXQ5dlJSSVRhckhs?oc=5",
-          "source": "Google News: Legacy FGC (Gaming Age)",
-          "published": "2026-11-03T01:17:16.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Warcraft III",
       "storyCount": 1,
       "stories": [
@@ -344,26 +320,13 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Tetris Final Boss",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xn0nmp/tetris_final_boss/",
-          "source": "r/Tetris",
-          "published": "2026-11-03T18:19:23.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
     "AoE2",
+    "Classic Tetris",
     "Brood War",
+    "Legacy FGC",
     "Quake",
     "Halo"
   ]
