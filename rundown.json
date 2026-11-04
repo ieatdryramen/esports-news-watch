@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-04T07:00:35.042Z",
+  "generatedAt": "2026-11-04T08:00:40.457Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
+        {
+          "title": "How did I get flagged by VAC for cheating? I'm not cheating and am playing like absolute doodoo. Can ya'll identify what about my gameplay made the anticheat go off?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnijf6/how_did_i_get_flagged_by_vac_for_cheating_im_not/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T07:58:58.000Z",
+          "score": 9,
+          "level": "possible",
+          "why": [
+            "cheating",
+            "vac",
+            "canceled*",
+            "reddit only"
+          ]
+        },
         {
           "title": "Falcons vs HEROIC / IEM Beijing 2026 - Group A Lower Bracket Semi-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xngzn6/falcons_vs_heroic_iem_beijing_2026_group_a_lower/",
@@ -136,68 +150,22 @@
           "why": [
             "faze"
           ]
-        },
-        {
-          "title": "Karrigan and Frozen exchange before the game",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnakx1/karrigan_and_frozen_exchange_before_the_game/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T00:54:09.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "karrigan"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 2,
       "stories": [
         {
           "title": "BetBoom Team puts its Dota 2 division on hiatus",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
           "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T08:11:07.000Z",
+          "published": "2026-11-03T08:12:54.000Z",
           "score": 4,
           "level": null,
           "why": [
             "hiatus"
-          ]
-        },
-        {
-          "title": "Team Spirit ends Team Yandex’s dominant run to claim Dota 2 PARI Universe title",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlBUVF2eUdRYlZMYnhMZExYd1I4VGdCRUhfeEpZanRhN2JTMklSaTNIcHlBZEdYY08zT0lXSDRvQ0V0NVdjMkxZWlNBaWdMcHdYY2RHZUFocmQ5UTE0ZDczZDRNSF9ZMlNjcTd1YjItbjBWRkdldW9Qa20walJvTkJMUUNZOHE5a1F6LWNuZ2s1bUVw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-03T07:20:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "BETBOOM TEAM announced its withdrawal from professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXhwckQwakRwODBfTGRWTnlGNTdFUjZFdDFPZTRmMGYycVZZQVRNN3dHUXlxLWI2V0tIdUdoQWFkd0trMmxYajdscllVRE9pT1dYQnRRREQ3MmQwS1g1RUphMHBUTy1iemFGVmdSTXgxN1FWc2pVX0MzSUw0V3phYkIzdw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-03T07:15:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "announced"
-          ]
-        },
-        {
-          "title": "About new patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xn67cs/about_new_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T21:45:54.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "update*",
-            "record*",
-            "history*"
           ]
         },
         {
@@ -233,14 +201,14 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "If you could get rid of only one character from the roster, who would it be?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xn76jb/if_you_could_get_rid_of_only_one_character_from/",
+          "title": "There is one thing funny about watching JDCR play T5DR",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xnif8d/there_is_one_thing_funny_about_watching_jdcr_play/",
           "source": "r/Tekken",
-          "published": "2026-11-03T22:24:52.000Z",
+          "published": "2026-11-04T07:51:24.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "roster"
+            "jdcr"
           ]
         },
         {

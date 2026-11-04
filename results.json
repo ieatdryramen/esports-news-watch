@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:30:22.995Z",
+  "generatedAt": "2026-11-04T08:00:27.809Z",
   "source": "start.gg",
   "completed": [
     {
@@ -187,53 +187,6 @@
         {
           "placement": 7,
           "name": "Kicking Machine"
-        }
-      ]
-    },
-    {
-      "eventId": "1735186",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Pranking 4.03",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 19,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-01T08:00:00.000Z",
-      "endAt": "2026-11-01T17:00:00.000Z",
-      "url": "https://www.start.gg/tournament/pranking-4-03/event/street-fighter-iii-3rd-strike",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "MG13 Gwak.fr | MathTheNem"
-        },
-        {
-          "placement": 2,
-          "name": "XavieF"
-        },
-        {
-          "placement": 3,
-          "name": "Dohko"
-        },
-        {
-          "placement": 4,
-          "name": "K9FC | MilesLovin"
-        },
-        {
-          "placement": 5,
-          "name": "YOKOSUKA | Oni-EDO"
-        },
-        {
-          "placement": 5,
-          "name": "MG13 | Ryuseiken"
-        },
-        {
-          "placement": 7,
-          "name": "MG13|GxC | Shield"
-        },
-        {
-          "placement": 7,
-          "name": "MTPif | Doomer"
         }
       ]
     }
