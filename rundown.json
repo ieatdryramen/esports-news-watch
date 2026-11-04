@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T09:00:39.564Z",
+  "generatedAt": "2026-11-04T10:00:51.959Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 23,
       "stories": [
         {
           "title": "How did I get flagged by VAC for cheating? I'm not cheating and am playing like absolute doodoo. Can ya'll identify what about my gameplay made the anticheat go off?",
@@ -21,19 +21,31 @@
           ]
         },
         {
-          "title": "VISION vs MOUZ / IEM Beijing 2026 - Group B Upper Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnjak1/vision_vs_mouz_iem_beijing_2026_group_b_upper/",
+          "title": "Liquid vs BB / IEM Beijing 2026 - Group B Lower Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnkdy5/liquid_vs_bb_iem_beijing_2026_group_b_lower/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-04T08:47:39.000Z",
+          "published": "2026-11-04T10:00:18.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "mouz",
+            "liquid",
             "iem",
             "reddit only"
+          ]
+        },
+        {
+          "title": "BC Game Signs Eva Elfie as Brand Ambassador Weeks Before s1mple's Team Heads to the Singapore Major",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzNaeEIwNHRLZEpUOUJOZS1KakxGYjFuNGMxTnZLV3NIZUFDNUphd05oaXFHcm9LeHJqcjNWQ1FCa2hrZTE4QlNGUkNCVUhMNXNNLUpQc2RoREFFd2E0UlJaOWF3aHB1cWFRb0k3OFRyM3JUaDRiNXd1aW5Lc09wWlZqOVNiUGJsNTFYQ2RR?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-03T20:48:58.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "signs",
+            "s1mple"
           ]
         },
         {
@@ -46,6 +58,18 @@
           "why": [
             "comeback",
             "liquid"
+          ]
+        },
+        {
+          "title": "Liquid Beat TYLOO 2-0 at IEM Beijing 2026 as NAF Posts Career Best Map",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TdTdZZTRJZExDREtaNGhybmlwbHpjbkJSTjNuNENLWHdCUG52T01JVmRxZUVQQi1DUE8tSnU3RHZDVW9peE9JeVRPR1hncTdBQ2o3NUY4NHp6ZXFfb19SRFVJQk1OVHZGRU1nQ3JsRGp4WWlv?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-04T07:33:15.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "liquid",
+            "iem"
           ]
         },
         {
@@ -69,6 +93,19 @@
           "level": null,
           "why": [
             "liquid",
+            "iem"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnjzcn/iem_beijing_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T09:33:34.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "mouz*",
+            "furia*",
             "iem"
           ]
         },
@@ -97,6 +134,17 @@
           ]
         },
         {
+          "title": "1win Owner promises each CS2 Player a Rolls-Royce on winning PGL Major Singapore, BC Game's CEO follows",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2toS3pqX2R2VFVOenhNVkJibVZqeVVJRC1Rc2IzbjFydkNuNFZVNVNESWo4OTUwWF9aMlhCaW5WSTFQMlJsY2d5X3M2NjlOZVAyallyVDhKNW5aajlTYXoyMGJPcnktamRqdjB3R0pGQWpuOU0yOVdqeXRZUnpRcGZtSDNoMjkyTUpVT25yamlZZw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-03T20:55:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "sidde: \"Every time we lose against someone, it becomes personal\"",
           "url": "https://www.hltv.org/news/45904/sidde-every-time-we-lose-against-someone-it-becomes-personal",
           "source": "HLTV news",
@@ -107,56 +155,12 @@
             "navi*",
             "furia*"
           ]
-        },
-        {
-          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-03T17:39:33.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "xertioN: \"I think this is the best MOUZ we have ever seen\"",
-          "url": "https://www.hltv.org/news/45895/xertion-i-think-this-is-the-best-mouz-we-have-ever-seen",
-          "source": "HLTV news",
-          "published": "2026-11-03T17:32:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "mouz"
-          ]
-        },
-        {
-          "title": "Matchups set for last day of IEM Beijing groups",
-          "url": "https://www.hltv.org/news/45901/matchups-set-for-last-day-of-iem-beijing-groups",
-          "source": "HLTV news",
-          "published": "2026-11-03T14:21:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "The best highlights from IEM Beijing group stage",
-          "url": "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
-          "source": "HLTV news",
-          "published": "2026-11-03T14:09:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Team Falcons sweep Heroic to earn NAVI rematch at IEM Beijing",
@@ -167,6 +171,17 @@
           "level": null,
           "why": [
             "falcons"
+          ]
+        },
+        {
+          "title": "They won’t release a new patch or act 2 until GTA6 is out",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnk981/they_wont_release_a_new_patch_or_act_2_until_gta6/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T09:51:58.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
           ]
         },
         {
@@ -246,7 +261,7 @@
           "title": "Esports World Cup 2026 Shows Why 24 Games Need Different Betting Markets",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWptX0daQmIzNnNjeXlwRG1XU1B3NzRnajlieURucDZGNEFFVTZrSVZwU1BfRGV5alRhb3czOTFBZjctcFBzTHNzem9LbW13MmxNY2gxUXFkVWxIY3ZPemwwZ3RLcmlMZzZldzZBLWREWmo4cmgxOWVweVdnOEFTMUxIQ1FnNlBIbFVTN2xPRXN6M1RuU2hUZS1Id25QZ2p4?oc=5",
           "source": "Google News: Trackmania (Breweries in PA)",
-          "published": "2026-11-04T03:00:57.000Z",
+          "published": "2026-11-04T03:20:50.000Z",
           "score": 0,
           "level": null,
           "why": [
