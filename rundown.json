@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-04T03:00:36.487Z",
+  "generatedAt": "2026-11-04T04:00:37.512Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 19,
       "stories": [
+        {
+          "title": "Liquid vs TYLOO / IEM Beijing 2026 - Group B Lower Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xne3cc/liquid_vs_tyloo_iem_beijing_2026_group_b_lower/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T03:46:05.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "liquid",
+            "iem",
+            "reddit only"
+          ]
+        },
         {
           "title": "FURIA outlast NAVI for Beijing playoffs",
           "url": "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
@@ -21,6 +37,18 @@
           ]
         },
         {
+          "title": "G2 - team roster, matches, statistics",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00em9oLVg1eDNyWm1Vbjcwb2FoZ19xTnd0Rnh4TUZ6eWpzQzU2VkFUUGRJMkhiVkhnYlBBVkZJRktuNmNUVi1YQmQ2dGZ0Smc?oc=5",
+          "source": "Google News: CS2 (escorenews.com)",
+          "published": "2026-11-03T09:39:41.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "roster",
+            "g2"
+          ]
+        },
+        {
           "title": "karrigan: \"We can't win our own map pick lately\"",
           "url": "https://www.hltv.org/news/45898/karrigan-we-cant-win-our-own-map-pick-lately",
           "source": "HLTV news",
@@ -30,6 +58,17 @@
           "why": [
             "karrigan",
             "faze*"
+          ]
+        },
+        {
+          "title": "1win Owner promises each CS2 Player a Rolls-Royce on winning PGL Major Singapore, BC Game's CEO follows",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2toS3pqX2R2VFVOenhNVkJibVZqeVVJRC1Rc2IzbjFydkNuNFZVNVNESWo4OTUwWF9aMlhCaW5WSTFQMlJsY2d5X3M2NjlOZVAyallyVDhKNW5aajlTYXoyMGJPcnktamRqdjB3R0pGQWpuOU0yOVdqeXRZUnpRcGZtSDNoMjkyTUpVT25yamlZZw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-03T20:55:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -108,36 +147,6 @@
           "level": null,
           "why": [
             "karrigan"
-          ]
-        },
-        {
-          "title": "HLTV Prospects spotlight: xeedo, kashl1d and qw1nk1",
-          "url": "https://www.hltv.org/news/45888/hltv-prospects-spotlight-xeedo-kashl1d-and-qw1nk1",
-          "source": "HLTV news",
-          "published": "2026-11-03T20:37:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 43",
-          "url": "https://www.hltv.org/news/45887/short-news-week-43",
-          "source": "HLTV news",
-          "published": "2026-11-03T18:15:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "History behind AWP | Dragon Lore, the most iconic Counter-Strike skin",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWgzRG9BRWQ4eFl5clZsbzZXREYyX1NKNjJwQ1BObFJTYm8xVlRwZEZvSllZazVha2ozSHh5RmQ3YTBPYVlxUWlCVHkwOGlfQ2d5c2lZRTlLczJwd2NMMHZtM2c5VkVXUkwzamhkSmhXM2JFWm9YMW1ObzFlbWFHSA?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-03T14:57:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "history",
-            "-skin"
           ]
         }
       ]
@@ -225,7 +234,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "If you could get rid of only one character from the roster, who would it be?",
@@ -236,17 +245,6 @@
           "level": null,
           "why": [
             "roster"
-          ]
-        },
-        {
-          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xn2e0f/kanme_online_klash_50_tekken_8_tournament_top_8/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T19:22:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
           ]
         },
         {
@@ -271,7 +269,7 @@
     },
     {
       "scene": "Trackmania",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "When was the last time we had a good troll cotd ?",
@@ -283,22 +281,17 @@
           "why": [
             "the last"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Why are people shitting on M2K for winning a B0XX only tournament (Hax's ONLY DIGITAL.3) with a gamecube controler",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xn2bl6/why_are_people_shitting_on_m2k_for_winning_a_b0xx/",
-          "source": "r/SSBM",
-          "published": "2026-11-03T19:19:33.000Z",
-          "score": 2,
+          "title": "Esports World Cup 2026 Shows Why 24 Games Need Different Betting Markets",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWptX0daQmIzNnNjeXlwRG1XU1B3NzRnajlieURucDZGNEFFVTZrSVZwU1BfRGV5alRhb3czOTFBZjctcFBzTHNzem9LbW13MmxNY2gxUXFkVWxIY3ZPemwwZ3RLcmlMZzZldzZBLWREWmo4cmgxOWVweVdnOEFTMUxIQ1FnNlBIbFVTN2xPRXN6M1RuU2hUZS1Id25QZ2p4?oc=5",
+          "source": "Google News: Trackmania (Breweries in PA)",
+          "published": "2026-11-04T03:00:57.000Z",
+          "score": 0,
           "level": null,
           "why": [
-            "fraud*"
+            "esports world cup",
+            "-betting"
           ]
         }
       ]
@@ -320,6 +313,7 @@
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
