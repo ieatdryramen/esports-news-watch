@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-11-04T06:00:35.158Z",
+  "generatedAt": "2026-11-04T07:00:35.042Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
         {
-          "title": "Liquid vs TYLOO / IEM Beijing 2026 - Group B Lower Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xne3cc/liquid_vs_tyloo_iem_beijing_2026_group_b_lower/",
+          "title": "Falcons vs HEROIC / IEM Beijing 2026 - Group A Lower Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xngzn6/falcons_vs_heroic_iem_beijing_2026_group_a_lower/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-04T03:46:05.000Z",
+          "published": "2026-11-04T06:22:52.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "liquid",
-            "iem",
-            "reddit only"
+            "niko*",
+            "m0nesy*",
+            "karrigan*"
+          ]
+        },
+        {
+          "title": "Falcons and NAVI set to clash for IEM Beijing playoff spot",
+          "url": "https://www.hltv.org/news/45909/falcons-and-navi-set-to-clash-for-iem-beijing-playoff-spot",
+          "source": "HLTV news",
+          "published": "2026-11-04T06:45:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
+            "iem"
           ]
         },
         {
@@ -32,6 +44,19 @@
           "why": [
             "liquid",
             "iem"
+          ]
+        },
+        {
+          "title": "why iem beijing closed qualifier event value is 0",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnhihi/why_iem_beijing_closed_qualifier_event_value_is_0/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T06:54:41.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "prize pool*",
+            "iem",
+            "pgl*"
           ]
         },
         {
@@ -102,17 +127,6 @@
           ]
         },
         {
-          "title": "Legacy crash out of IEM Beijing after loss to B8",
-          "url": "https://www.hltv.org/news/45902/legacy-crash-out-of-iem-beijing-after-loss-to-b8",
-          "source": "HLTV news",
-          "published": "2026-11-03T14:04:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
           "title": "What are the chances Faze management fumble Hooxi?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xneukh/what_are_the_chances_faze_management_fumble_hooxi/",
           "source": "r/GlobalOffensive",
@@ -133,15 +147,6 @@
           "why": [
             "karrigan"
           ]
-        },
-        {
-          "title": "HLTV Prospects spotlight: xeedo, kashl1d and qw1nk1",
-          "url": "https://www.hltv.org/news/45888/hltv-prospects-spotlight-xeedo-kashl1d-and-qw1nk1",
-          "source": "HLTV news",
-          "published": "2026-11-03T20:37:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -225,7 +230,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "If you could get rid of only one character from the roster, who would it be?",
@@ -243,15 +248,6 @@
           "url": "https://www.reddit.com/r/Tekken/comments/1xn8ljk/heckin_king_of_iron_paw_tournament/",
           "source": "r/Tekken",
           "published": "2026-11-03T23:24:57.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "What is it like playing in an online tournament",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xn5ifj/what_is_it_like_playing_in_an_online_tournament/",
-          "source": "r/Tekken",
-          "published": "2026-11-03T21:18:41.000Z",
           "score": 0,
           "level": null,
           "why": []
