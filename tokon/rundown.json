@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T05:00:48.821Z",
+  "generatedAt": "2026-11-04T06:00:39.142Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Marvel Tokon Fighting Souls Update 1.004.002 Out Now, Adds Phoenix Cyclops, Combat Balance Changes & More - Full Patch Notes Listed",
@@ -28,18 +28,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "MARVEL Tōkon: Fighting Souls PHOENIX CYCLOPS COMBO GUIDE",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOU3cwUjhXM2hwSUg1VGJJQ0pyWk4zUnU4cV9Rcmp0bkdYTy1ZMUx1aTdjMDZTNWZBZkdoaEVCZXE3ek4ydUpnWXY2TWVYVVREY21TX2dZc0JQZ1BU?oc=5",
-          "source": "Google News: Tokon (YouTube)",
-          "published": "2026-11-03T05:27:42.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "combo",
-            "-guide"
-          ]
         }
       ]
     }
