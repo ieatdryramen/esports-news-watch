@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T05:00:44.423Z",
+  "generatedAt": "2026-11-04T06:00:35.158Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 17,
       "stories": [
         {
           "title": "Liquid vs TYLOO / IEM Beijing 2026 - Group B Lower Bracket Semi-Final / Post-Match Discussion",
@@ -23,29 +23,15 @@
           ]
         },
         {
-          "title": "FURIA outlast NAVI for Beijing playoffs",
-          "url": "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
+          "title": "Liquid send TYLOO packing from IEM Beijing",
+          "url": "https://www.hltv.org/news/45906/liquid-send-tyloo-packing-from-iem-beijing",
           "source": "HLTV news",
-          "published": "2026-11-03T13:43:00.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "champions*",
-            "navi",
-            "furia",
-            "iem*"
-          ]
-        },
-        {
-          "title": "G2 - team roster, matches, statistics",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00em9oLVg1eDNyWm1Vbjcwb2FoZ19xTnd0Rnh4TUZ6eWpzQzU2VkFUUGRJMkhiVkhnYlBBVkZJRktuNmNUVi1YQmQ2dGZ0Smc?oc=5",
-          "source": "Google News: CS2 (escorenews.com)",
-          "published": "2026-11-03T09:39:41.000Z",
+          "published": "2026-11-04T05:06:00.000Z",
           "score": 5,
-          "level": "possible",
+          "level": null,
           "why": [
-            "roster",
-            "g2"
+            "liquid",
+            "iem"
           ]
         },
         {
@@ -57,17 +43,6 @@
           "level": null,
           "why": [
             "iem"
-          ]
-        },
-        {
-          "title": "1win Owner promises each CS2 Player a Rolls-Royce on winning PGL Major Singapore, BC Game's CEO follows",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2toS3pqX2R2VFVOenhNVkJibVZqeVVJRC1Rc2IzbjFydkNuNFZVNVNESWo4OTUwWF9aMlhCaW5WSTFQMlJsY2d5X3M2NjlOZVAyallyVDhKNW5aajlTYXoyMGJPcnktamRqdjB3R0pGQWpuOU0yOVdqeXRZUnpRcGZtSDNoMjkyTUpVT25yamlZZw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-03T20:55:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -147,6 +122,26 @@
           "why": [
             "faze"
           ]
+        },
+        {
+          "title": "Karrigan and Frozen exchange before the game",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnakx1/karrigan_and_frozen_exchange_before_the_game/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T00:54:09.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "karrigan"
+          ]
+        },
+        {
+          "title": "HLTV Prospects spotlight: xeedo, kashl1d and qw1nk1",
+          "url": "https://www.hltv.org/news/45888/hltv-prospects-spotlight-xeedo-kashl1d-and-qw1nk1",
+          "source": "HLTV news",
+          "published": "2026-11-03T20:37:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -264,35 +259,6 @@
       ]
     },
     {
-      "scene": "Trackmania",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "When was the last time we had a good troll cotd ?",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xn3d5t/when_was_the_last_time_we_had_a_good_troll_cotd/",
-          "source": "r/TrackMania",
-          "published": "2026-11-03T19:57:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "the last"
-          ]
-        },
-        {
-          "title": "Esports World Cup 2026 Shows Why 24 Games Need Different Betting Markets",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWptX0daQmIzNnNjeXlwRG1XU1B3NzRnajlieURucDZGNEFFVTZrSVZwU1BfRGV5alRhb3czOTFBZjctcFBzTHNzem9LbW13MmxNY2gxUXFkVWxIY3ZPemwwZ3RLcmlMZzZldzZBLWREWmo4cmgxOWVweVdnOEFTMUxIQ1FnNlBIbFVTN2xPRXN6M1RuU2hUZS1Id25QZ2p4?oc=5",
-          "source": "Google News: Trackmania (Breweries in PA)",
-          "published": "2026-11-04T03:00:57.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "esports world cup",
-            "-betting"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -304,6 +270,24 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Esports World Cup 2026 Shows Why 24 Games Need Different Betting Markets",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWptX0daQmIzNnNjeXlwRG1XU1B3NzRnajlieURucDZGNEFFVTZrSVZwU1BfRGV5alRhb3czOTFBZjctcFBzTHNzem9LbW13MmxNY2gxUXFkVWxIY3ZPemwwZ3RLcmlMZzZldzZBLWREWmo4cmgxOWVweVdnOEFTMUxIQ1FnNlBIbFVTN2xPRXN6M1RuU2hUZS1Id25QZ2p4?oc=5",
+          "source": "Google News: Trackmania (Breweries in PA)",
+          "published": "2026-11-04T03:00:57.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "esports world cup",
+            "-betting"
+          ]
         }
       ]
     }

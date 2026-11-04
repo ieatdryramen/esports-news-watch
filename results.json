@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-04T05:30:22.165Z",
+  "generatedAt": "2026-11-04T06:00:24.403Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1743857",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TNS TEKKEN 8 #140",
+      "event": "Tekken 8",
+      "entrants": 200,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-04T01:00:00.000Z",
+      "endAt": "2026-11-04T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-tekken-8-140/event/tekken-8",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "pling"
+        },
+        {
+          "placement": 2,
+          "name": "Kanme | Shadow 20z"
+        },
+        {
+          "placement": 3,
+          "name": "VIT | KingReyJr"
+        },
+        {
+          "placement": 4,
+          "name": "BOLT | NOMAR"
+        },
+        {
+          "placement": 5,
+          "name": "EliteKlutch"
+        },
+        {
+          "placement": 5,
+          "name": "BES | King S3rvbot"
+        },
+        {
+          "placement": 7,
+          "name": "Rozè | TOKISCHO"
+        },
+        {
+          "placement": 7,
+          "name": "MØB | The Chamberlain"
+        }
+      ]
+    },
     {
       "eventId": "1743628",
       "scene": "legacyfgc",
@@ -144,21 +191,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1743857",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #140",
-      "event": "Tekken 8",
-      "entrants": 200,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-04T01:00:00.000Z",
-      "endAt": "2026-11-04T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-140/event/tekken-8"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1611249",
