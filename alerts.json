@@ -1,6 +1,65 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-04T18:05:16.947Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "NAVI became one of only four teams in history to complete a map with three players each having a rating of 2.00 or higher after their win vs Falcons",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnv5az/navi_became_one_of_only_four_teams_in_history_to/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "history",
+        "navi",
+        "g2*",
+        "furia*",
+        "blast*",
+        "esl pro league*"
+      ],
+      "summary": "Three out of four took place on Mirage. Previously, SK Gaming had achieved this at StarSeries i-League Season 3 against Virtuspro (Mirage), FURIA at ESL Pro League Season 21 against MIBR (Inferno) and G2 at BLAST Open Porto 2026 against Aurora (Mirage) and now NAVI submitted by /u/onetoxic342 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-04T18:01:54.000Z"
+    },
+    {
+      "alertedAt": "2026-11-04T18:05:16.947Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Should IEM Cologne have Falcons and Furia redo their series in case it was a big fluke?",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnv798/should_iem_cologne_have_falcons_and_furia_redo/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "the last*",
+        "furia",
+        "iem"
+      ],
+      "summary": "No disrespect to Falcons, I'm a firm believer that Falcons sweeping them is a huge fluke and robs Furia of truly accomplishing what their capable of. I've spent the last few months in pure disbelief and it just doesn't make sense to me. I've spent the first half of 2026 watching Furia play great cs it's just not fair. If Furia lose again I will face that the Falcons deserved the win, but I am just 100% sure it was a fluke and does a big disservice to Furia and cs. submitted by /u/New_Manufacturer8333 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-04T18:03:58.000Z"
+    },
+    {
+      "alertedAt": "2026-11-04T18:05:16.947Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "is zonic still a fraud?",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnv4y6/is_zonic_still_a_fraud/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "fraud",
+        "roster*"
+      ],
+      "summary": "so many roster iterations... its insane, really. They have a top 3 player on their team lol. submitted by /u/Life-Western to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-04T18:01:31.000Z"
+    },
+    {
       "alertedAt": "2026-11-04T15:00:28.103Z",
       "level": "possible",
       "scene": "CS2",
