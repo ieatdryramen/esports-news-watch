@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T11:00:30.649Z",
+  "generatedAt": "2026-11-04T12:00:25.068Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Liquid vs BB / IEM Beijing 2026 - Group B Lower Bracket Final / Post-Match Discussion",
@@ -23,18 +23,6 @@
           ]
         },
         {
-          "title": "BC Game Signs Eva Elfie as Brand Ambassador Weeks Before s1mple's Team Heads to the Singapore Major",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzNaeEIwNHRLZEpUOUJOZS1KakxGYjFuNGMxTnZLV3NIZUFDNUphd05oaXFHcm9LeHJqcjNWQ1FCa2hrZTE4QlNGUkNCVUhMNXNNLUpQc2RoREFFd2E0UlJaOWF3aHB1cWFRb0k3OFRyM3JUaDRiNXd1aW5Lc09wWlZqOVNiUGJsNTFYQ2RR?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-03T20:48:58.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "signs",
-            "s1mple"
-          ]
-        },
-        {
           "title": "Liquid comeback on Nuke against BB",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnjdzm/liquid_comeback_on_nuke_against_bb/",
           "source": "r/GlobalOffensive",
@@ -44,18 +32,6 @@
           "why": [
             "comeback",
             "liquid"
-          ]
-        },
-        {
-          "title": "Liquid Beat TYLOO 2-0 at IEM Beijing 2026 as NAF Posts Career Best Map",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TdTdZZTRJZExDREtaNGhybmlwbHpjbkJSTjNuNENLWHdCUG52T01JVmRxZUVQQi1DUE8tSnU3RHZDVW9peE9JeVRPR1hncTdBQ2o3NUY4NHp6ZXFfb19SRFVJQk1OVHZGRU1nQ3JsRGp4WWlv?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-04T07:33:15.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "liquid",
-            "iem"
           ]
         },
         {
@@ -131,17 +107,6 @@
           ]
         },
         {
-          "title": "1win Owner promises each CS2 Player a Rolls-Royce on winning PGL Major Singapore, BC Game's CEO follows",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2toS3pqX2R2VFVOenhNVkJibVZqeVVJRC1Rc2IzbjFydkNuNFZVNVNESWo4OTUwWF9aMlhCaW5WSTFQMlJsY2d5X3M2NjlOZVAyallyVDhKNW5aajlTYXoyMGJPcnktamRqdjB3R0pGQWpuOU0yOVdqeXRZUnpRcGZtSDNoMjkyTUpVT25yamlZZw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-03T20:55:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "sidde: \"Every time we lose against someone, it becomes personal\"",
           "url": "https://www.hltv.org/news/45904/sidde-every-time-we-lose-against-someone-it-becomes-personal",
           "source": "HLTV news",
@@ -151,6 +116,39 @@
           "why": [
             "navi*",
             "furia*"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-03T17:39:33.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "xertioN: \"I think this is the best MOUZ we have ever seen\"*",
+          "url": "https://www.hltv.org/news/45895/xertion-i-think-this-is-the-best-mouz-we-have-ever-seen",
+          "source": "HLTV news",
+          "published": "2026-11-03T17:32:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mouz"
+          ]
+        },
+        {
+          "title": "Matchups set for last day of IEM Beijing groups",
+          "url": "https://www.hltv.org/news/45901/matchups-set-for-last-day-of-iem-beijing-groups",
+          "source": "HLTV news",
+          "published": "2026-11-03T14:21:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
           ]
         }
       ]
