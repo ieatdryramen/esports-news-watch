@@ -1,3 +1,24 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "alertedAt": "2026-11-04T12:20:23.303Z",
+      "level": "possible",
+      "scene": "Marvel Tokon",
+      "title": "Marvel Tokon's Magik Gets Fired Up with Free New Costume for All Players",
+      "url": "https://www.pushsquare.com/news/2026/11/marvel-tokons-magik-gets-fired-up-with-free-new-costume-for-all-players",
+      "source": "Push Square",
+      "outlets": [
+        "Push Square"
+      ],
+      "score": 5.5,
+      "why": [
+        "fired",
+        "roster*",
+        "dlc*",
+        "-costume"
+      ],
+      "summary": "Seeing red. If you're playing Marvel Tokon: Fighting Souls , you'll probably be aware of the recent DLC and updates to the superhero fighter. Phoenix Cyclops has joined the roster as the first post-launch character, and to celebrate his arrival, developer Arc System Works has provided all players with a fun bonus. Read the full article on pushsquare.com",
+      "published": "2026-11-04T12:15:00.000Z"
+    }
+  ]
 }
