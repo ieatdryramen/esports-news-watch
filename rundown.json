@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T16:00:28.967Z",
+  "generatedAt": "2026-11-04T17:00:25.056Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -163,7 +163,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 12,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -188,6 +188,17 @@
           ]
         },
         {
+          "title": "[Spoiler] has been eliminated from EPL Masters III",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnte60/spoiler_has_been_eliminated_from_epl_masters_iii/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T16:57:25.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "eliminated"
+          ]
+        },
+        {
           "title": "[ Removed by Reddit ]",
           "url": "https://www.reddit.com/r/DotA2/comments/1xnmf6m/removed_by_reddit/",
           "source": "r/DotA2",
@@ -199,14 +210,25 @@
           ]
         },
         {
-          "title": "They won’t release a new patch or act 2 until GTA6 is out",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnk981/they_wont_release_a_new_patch_or_act_2_until_gta6/",
+          "title": "No patch drives me crazy",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnt3t8/no_patch_drives_me_crazy/",
           "source": "r/DotA2",
-          "published": "2026-11-04T09:51:58.000Z",
-          "score": 2,
+          "published": "2026-11-04T16:46:34.000Z",
+          "score": 1.5,
           "level": null,
           "why": [
-            "won"
+            "cheat*"
+          ]
+        },
+        {
+          "title": "Patch today??please?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnsli4/patch_todayplease/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T16:26:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "released*"
           ]
         },
         {
@@ -219,6 +241,24 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "The patch are the friends in the way",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnt5t6/the_patch_are_the_friends_in_the_way/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T16:48:34.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "I compared Anti-Mage's Counterspell with the failure of League's \"Mel\".",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnsmt3/i_compared_antimages_counterspell_with_the/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T16:28:13.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "Aight since valve aint dropping the patch any 1 wanna start a dota player guild in wow forever",
@@ -246,15 +286,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "What do we think the PL nerf will be?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnl0r1/what_do_we_think_the_pl_nerf_will_be/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T10:39:23.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -277,7 +308,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Not the cleanest but I feel so filthy after I won this round/set. Wall Kazino",
@@ -289,15 +320,6 @@
           "why": [
             "won"
           ]
-        },
-        {
-          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLWdjZmRYN3p5djk3UGh4a0pKdkJKZVh3N0xidDJNZEZVVzdWMzlDemZ4YzdmUzRjWkxINjQ0VW1SUkc4MDUzUERPazd3V0ZZUFY3SmxyT1ozR0VM?oc=5",
-          "source": "Google News: Tekken (YouTube)",
-          "published": "2026-11-03T18:51:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "I really miss Tekken Card Tournament, had a lot of fun at the time and thought it was a simple yet fun card game. Am i the only one?",
