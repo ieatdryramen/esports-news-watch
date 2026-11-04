@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:40:20.997Z",
+  "generatedAt": "2026-11-04T18:10:20.230Z",
   "source": "start.gg",
   "completed": [
     {
@@ -140,53 +140,6 @@
         {
           "placement": 7,
           "name": "MAD | ShadowPolsk"
-        }
-      ]
-    },
-    {
-      "eventId": "1742717",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "Iron Fist League 3 #6",
-      "event": "Tekken 8 Double Elimination Bracket",
-      "entrants": 82,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-01T18:00:00.000Z",
-      "endAt": "2026-11-01T22:59:00.000Z",
-      "url": "https://www.start.gg/tournament/iron-fist-league-3-6/event/tekken-8-double-elimination-bracket",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "INGAGE | Stack"
-        },
-        {
-          "placement": 2,
-          "name": "MKE | Nigno"
-        },
-        {
-          "placement": 3,
-          "name": "adelante"
-        },
-        {
-          "placement": 4,
-          "name": "Heddy"
-        },
-        {
-          "placement": 5,
-          "name": "AliiDC"
-        },
-        {
-          "placement": 5,
-          "name": "gykbbt"
-        },
-        {
-          "placement": 7,
-          "name": "Gaer Gaeaf"
-        },
-        {
-          "placement": 7,
-          "name": "Kicking Machine"
         }
       ]
     }
