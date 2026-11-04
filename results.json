@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:00:25.771Z",
+  "generatedAt": "2026-11-04T07:30:22.995Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,6 +93,53 @@
         {
           "placement": 7,
           "name": "Deafheaven"
+        }
+      ]
+    },
+    {
+      "eventId": "1728103",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "VIPERS: Venom Clash",
+      "event": "VIPERS: Venom Clash",
+      "entrants": 101,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-01T22:00:00.000Z",
+      "endAt": "2026-11-02T02:59:00.000Z",
+      "url": "https://www.start.gg/tournament/vipers-venom-clash-1/event/vipers-venom-clash",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Carlinhos"
+        },
+        {
+          "placement": 2,
+          "name": "yuu"
+        },
+        {
+          "placement": 3,
+          "name": "LUA | Luigi"
+        },
+        {
+          "placement": 4,
+          "name": "Mago negro"
+        },
+        {
+          "placement": 5,
+          "name": "DSS"
+        },
+        {
+          "placement": 5,
+          "name": "LUA | Hircine"
+        },
+        {
+          "placement": 7,
+          "name": "VIPERS | MYSTIC"
+        },
+        {
+          "placement": 7,
+          "name": "MAD | ShadowPolsk"
         }
       ]
     },
