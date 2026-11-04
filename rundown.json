@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-04T18:00:29.551Z",
+  "generatedAt": "2026-11-04T19:00:30.363Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 19,
       "stories": [
         {
-          "title": "The MongolZ vs FURIA / IEM Beijing 2026 - Group A Upper Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnna8l/the_mongolz_vs_furia_iem_beijing_2026_group_a/",
+          "title": "NAVI became one of only four teams in history to complete a map with three players each having a rating of 2.00 or higher after their win vs Falcons",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnv5az/navi_became_one_of_only_four_teams_in_history_to/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-04T12:45:15.000Z",
-          "score": 7.5,
+          "published": "2026-11-04T18:01:54.000Z",
+          "score": 6,
           "level": "possible",
           "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "furia",
-            "iem",
-            "reddit only"
+            "history",
+            "navi",
+            "g2*",
+            "furia*",
+            "blast*",
+            "esl pro league*"
           ]
         },
         {
@@ -113,30 +113,6 @@
           ]
         },
         {
-          "title": "Niko going through it emotionally and IM mocking Karrigan’s ambulance",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnnsk0/niko_going_through_it_emotionally_and_im_mocking/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T13:09:25.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "niko",
-            "karrigan"
-          ]
-        },
-        {
-          "title": "A documentary about the CS scene in Bosnia and Herzegovina – featuring NiKo's early days",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xno1ks/a_documentary_about_the_cs_scene_in_bosnia_and/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T13:21:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "history*",
-            "niko"
-          ]
-        },
-        {
           "title": "The best highlights from IEM Beijing group stage",
           "url": "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
           "source": "HLTV news",
@@ -157,12 +133,34 @@
           "why": [
             "liquid"
           ]
+        },
+        {
+          "title": "Spirit are the worst flashers in the CS pro scene according to nades ai",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnvapa/spirit_are_the_worst_flashers_in_the_cs_pro_scene/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T18:07:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "spirit"
+          ]
+        },
+        {
+          "title": "zorte: \"We just need to focus on how we play as a team\"",
+          "url": "https://www.hltv.org/news/45907/zorte-we-just-need-to-focus-on-how-we-play-as-a-team",
+          "source": "HLTV news",
+          "published": "2026-11-04T18:05:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "revealed*"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -265,15 +263,34 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Cheater? Give me your thoughts.",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xnvf7f/cheater_give_me_your_thoughts/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-04T18:12:22.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheater"
+          ]
         },
         {
-          "title": "Do you spend money to buy the dark carnival prize pack?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnn5sw/do_you_spend_money_to_buy_the_dark_carnival_prize/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T12:39:03.000Z",
-          "score": 0,
+          "title": "Street Fighter 6 - Official \"Winter Pocket Present\" Fighting Pass Trailer",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzhEOHNCdVNTZng1dktNTWRndl94VjMzQ01KeXQ1ZXIxWUxPN19WX2xyR285cjdaUFpJZ1Vpbzg4bUY5WS10ek5tVTRfV3JfUVpFVUtSd2xuTzlsWmh3b210RjN3QUppN0RlS3p5cU5rN3ZNc2hueVFyWVJscjkxa0VxN2R2dnZfSEd3QXBhZk5yQ1l3aTkyUjR1WXo?oc=5",
+          "source": "Google News: Street Fighter (IGN)",
+          "published": "2026-11-04T11:30:55.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "official"
+          ]
         }
       ]
     },
@@ -281,6 +298,18 @@
       "scene": "Tekken",
       "storyCount": 3,
       "stories": [
+        {
+          "title": "What's he making? Harada says he only has time to make \"one more game\" so he wanted \"to try something new\" ...",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xnwn27/whats_he_making_harada_says_he_only_has_time_to/",
+          "source": "r/Tekken",
+          "published": "2026-11-04T18:59:07.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "won*",
+            "harada"
+          ]
+        },
         {
           "title": "Not the cleanest but I feel so filthy after I won this round/set. Wall Kazino",
           "url": "https://www.reddit.com/r/Tekken/comments/1xnp4j5/not_the_cleanest_but_i_feel_so_filthy_after_i_won/",
@@ -293,15 +322,6 @@
           ]
         },
         {
-          "title": "Kanme Online Klash #50! - Tekken 8 Tournament Top 8 (Alisa, Kuma, Heihachi & More)",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLWdjZmRYN3p5djk3UGh4a0pKdkJKZVh3N0xidDJNZEZVVzdWMzlDemZ4YzdmUzRjWkxINjQ0VW1SUkc4MDUzUERPazd3V0ZZUFY3SmxyT1ozR0VM?oc=5",
-          "source": "Google News: Tekken (YouTube)",
-          "published": "2026-11-03T18:51:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "I really miss Tekken Card Tournament, had a lot of fun at the time and thought it was a simple yet fun card game. Am i the only one?",
           "url": "https://www.reddit.com/r/Tekken/comments/1xnqwoc/i_really_miss_tekken_card_tournament_had_a_lot_of/",
           "source": "r/Tekken",
@@ -309,23 +329,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Street Fighter 6 - Official \"Winter Pocket Present\" Fighting Pass Trailer",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzhEOHNCdVNTZng1dktNTWRndl94VjMzQ01KeXQ1ZXIxWUxPN19WX2xyR285cjdaUFpJZ1Vpbzg4bUY5WS10ek5tVTRfV3JfUVpFVUtSd2xuTzlsWmh3b210RjN3QUppN0RlS3p5cU5rN3ZNc2hueVFyWVJscjkxa0VxN2R2dnZfSEd3QXBhZk5yQ1l3aTkyUjR1WXo?oc=5",
-          "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-04T11:30:55.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "official"
-          ]
         }
       ]
     },
@@ -346,6 +349,21 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Challengers Showcase Playoffs Bracket",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnvt6f/challengers_showcase_playoffs_bracket/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-04T18:26:57.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -355,7 +373,6 @@
     "Brood War",
     "Warcraft III",
     "Legacy FGC",
-    "CoD",
     "Quake",
     "Halo"
   ]
