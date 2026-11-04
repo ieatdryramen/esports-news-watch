@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T19:00:30.363Z",
+  "generatedAt": "2026-11-04T20:00:28.703Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 21,
       "stories": [
         {
           "title": "NAVI became one of only four teams in history to complete a map with three players each having a rating of 2.00 or higher after their win vs Falcons",
@@ -20,6 +20,18 @@
             "furia*",
             "blast*",
             "esl pro league*"
+          ]
+        },
+        {
+          "title": "VAC Live False positive when lagging?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xny3yi/vac_live_false_positive_when_lagging/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T19:55:57.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "cheating*",
+            "vac"
           ]
         },
         {
@@ -88,27 +100,24 @@
           ]
         },
         {
-          "title": "Liquid send TYLOO packing from IEM Beijing",
-          "url": "https://www.hltv.org/news/45906/liquid-send-tyloo-packing-from-iem-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-04T05:06:00.000Z",
-          "score": 5,
+          "title": "I’ve been flagged twice now for irregular gameplay and I do not cheat! As anyone else being having this problem !?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xny4bm/ive_been_flagged_twice_now_for_irregular_gameplay/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T19:56:19.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "liquid",
-            "iem"
+            "cheat"
           ]
         },
         {
-          "title": "IEM Falcons",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnp6j0/iem_falcons/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T14:10:40.000Z",
-          "score": 4,
+          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-04T16:25:30.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "niko*",
-            "karrigan*",
             "iem"
           ]
         },
@@ -144,23 +153,12 @@
           "why": [
             "spirit"
           ]
-        },
-        {
-          "title": "zorte: \"We just need to focus on how we play as a team\"",
-          "url": "https://www.hltv.org/news/45907/zorte-we-just-need-to-focus-on-how-we-play-as-a-team",
-          "source": "HLTV news",
-          "published": "2026-11-04T18:05:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "revealed*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 12,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -174,14 +172,14 @@
           ]
         },
         {
-          "title": "BetBoom Team puts its Dota 2 division on hiatus",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1RBc29JZEVpc3pCUjV4bkNPclZNTlZPTkNwMHNRTHlrT1lZSmRXWENucldtTjRtbWZWZ2pIdWtTNzVVb3dSLWtEQUszX2VRUzlwM2tkazAxeFhZRzA5WE5uVFJJRnc2d0dJMXdZNWItZ21lN1BOX0tYYks3RDJQOENRU1o3LWdORmRVaWV3VUFSVDd0c2c?oc=5",
-          "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-03T19:02:19.000Z",
+          "title": "Most of the time, its always these Chinese players (smurfing, cheating, win-trading)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnx2kk/most_of_the_time_its_always_these_chinese_players/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T19:15:27.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "hiatus"
+            "cheating"
           ]
         },
         {
@@ -193,6 +191,17 @@
           "level": null,
           "why": [
             "eliminated"
+          ]
+        },
+        {
+          "title": "Yatoro effect is insane",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnx3xb/yatoro_effect_is_insane/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T19:16:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "yatoro"
           ]
         },
         {
@@ -229,6 +238,26 @@
           ]
         },
         {
+          "title": "what if gaben want to release patch at wow forever day!!!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnxki0/what_if_gaben_want_to_release_patch_at_wow/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T19:34:47.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - PlayTime, November 7, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSThSeFFDa3k4LWZrTF81RnRDY25sMHVOVkQ0aTVmNV9FNDUzMGYwT0NhTlFHNEVqUWtMb0lLTXlhU3NRRjAyYkdITVRMRXI0Tk5XV3doMmlSdjdmQU5yemtHbkVoWjJUZlljdEE0bVNUdGlVLWNXX09JTl9ONURoS0oxbFFrdHowOEdhVjdyU2MzVVR4cmdiTlJRcko1WllMWTEw?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-04T16:55:09.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
           "title": "The patch are the friends in the way",
           "url": "https://www.reddit.com/r/DotA2/comments/1xnt5t6/the_patch_are_the_friends_in_the_way/",
           "source": "r/DotA2",
@@ -251,15 +280,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xnqh65/aight_since_valve_aint_dropping_the_patch_any_1/",
           "source": "r/DotA2",
           "published": "2026-11-04T15:04:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Next patch will only be 2 of three things:",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnpq0r/next_patch_will_only_be_2_of_three_things/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T14:33:11.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -296,7 +316,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "What's he making? Harada says he only has time to make \"one more game\" so he wanted \"to try something new\" ...",
@@ -311,17 +331,6 @@
           ]
         },
         {
-          "title": "Not the cleanest but I feel so filthy after I won this round/set. Wall Kazino",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xnp4j5/not_the_cleanest_but_i_feel_so_filthy_after_i_won/",
-          "source": "r/Tekken",
-          "published": "2026-11-04T14:08:38.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
           "title": "I really miss Tekken Card Tournament, had a lot of fun at the time and thought it was a simple yet fun card game. Am i the only one?",
           "url": "https://www.reddit.com/r/Tekken/comments/1xnqwoc/i_really_miss_tekken_card_tournament_had_a_lot_of/",
           "source": "r/Tekken",
@@ -329,6 +338,60 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Miami Heretics 2027 CDL Tierlist",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnww51/miami_heretics_2027_cdl_tierlist/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-04T19:08:42.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "miami heretics"
+          ]
+        },
+        {
+          "title": "First Pred C9 tweet - streaming scrims with new squad",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnwofx/first_pred_c9_tweet_streaming_scrims_with_new/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-04T19:00:35.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pred"
+          ]
+        },
+        {
+          "title": "Challengers Showcase Playoffs Bracket",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnvt6f/challengers_showcase_playoffs_bracket/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-04T18:26:57.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "[DarkGenex] Smash Summit Was Rigged",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xnx0lg/darkgenex_smash_summit_was_rigged/",
+          "source": "r/SSBM",
+          "published": "2026-11-04T19:13:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "smash summit"
+          ]
         }
       ]
     },
@@ -349,25 +412,9 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Challengers Showcase Playoffs Bracket",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnvt6f/challengers_showcase_playoffs_bracket/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-04T18:26:57.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",

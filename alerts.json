@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-04T20:00:27.733Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "VAC Live False positive when lagging?",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xny3yi/vac_live_false_positive_when_lagging/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "cheating*",
+        "vac"
+      ],
+      "summary": "Just clocked in for a post-work Premier game and somehow ended up VAC live'd. I had pretty bad upload packet loss which might have played a part here? Round Clip Pistol Rubber banding but somehow end up clutching with a 1v2 2 Bought a scout and hit some lucky shots https://medal.tv/games/counter-strike-2/clips/nRFSTjNzqKXJ1ZaXf 3 + 4 No demo or clip to go off but just playing mid with scout with a couple of kills 5 Connection is good again and hit a single AWP wallbang through site box after seeing the guy jump to site, leading to VAC Live immediately flagging this as irregular https://medal.tv/games/counter-strike-2/clips/nRFYCHAR6-XQNGTs2 Crazy stuff, it's just amazing how this never seems to work when I'm against blatent cheaters but can falsely flag me having a 'good' game. And now these guys genuinely think I'm cheating lol Thankfully it's only a 20 hour cooldown but just a tad annoying when I'm innocent 🤷 My Steam account: https://steamcommunity.com/id/Shubbler If you want to dig any deeper into my mediocre stats submitted by /u/Shubbler to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-04T19:55:57.000Z"
+    },
+    {
       "alertedAt": "2026-11-04T18:05:16.947Z",
       "level": "possible",
       "scene": "CS2",
