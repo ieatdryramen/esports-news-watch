@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-04T00:00:36.345Z",
+  "generatedAt": "2026-11-04T01:00:33.676Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
-        {
-          "title": "Will Fallen call off his retirement and renew with Furia?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xn0cky/will_fallen_call_off_his_retirement_and_renew/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-03T18:08:37.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "retirement",
-            "furia",
-            "pgl*",
-            "reddit only"
-          ]
-        },
         {
           "title": "FURIA outlast NAVI for Beijing playoffs",
           "url": "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
@@ -114,6 +100,17 @@
           ]
         },
         {
+          "title": "Karrigan and Frozen exchange before the game",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnakx1/karrigan_and_frozen_exchange_before_the_game/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T00:54:09.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "karrigan"
+          ]
+        },
+        {
           "title": "HLTV Prospects spotlight: xeedo, kashl1d and qw1nk1",
           "url": "https://www.hltv.org/news/45888/hltv-prospects-spotlight-xeedo-kashl1d-and-qw1nk1",
           "source": "HLTV news",
@@ -147,7 +144,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "BetBoom Team puts its Dota 2 division on hiatus",
@@ -194,35 +191,30 @@
             "record*",
             "history*"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "If Valve taunting us with the update button?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xn8qsc/if_valve_taunting_us_with_the_update_button/",
-          "source": "r/DotA2",
-          "published": "2026-11-03T23:31:29.000Z",
-          "score": 1,
+          "title": "CDL Major II returns to DreamHack Birmingham with double the seats",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmVGdEtUOTFqaUxwbVJJcUt5UTZQb041RFBPSzFwOHB6UV8zTXBYV1JZSWlUTzB5Z3ZIcWQ5NzhKY0lFR0RxMUJ2cVlVd1VfaTZhcG5mRFIydjdpX3RKd29VZVBmeVFzNUpSUEFFaWo0YWFhS1lCZ2JvZUJ0UEFzMkFTM19VQk1kUkdhUDlOSUU2R1NZb1VZS2xQSkg4TG90bW5BcTd4UkJYNVhVcVE?oc=5",
+          "source": "Google News: CoD (Inven Global)",
+          "published": "2026-11-03T17:39:14.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "update"
+            "returns"
           ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
-        {
-          "title": "Another food brand has entered the EVO Arena! As Airheads offers competitors something sweet to wash out the bitter taste of defeat!",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUhTMHNNaWdCRjNRV0xDSkx4Q2VOUVlUWTQ1aE9TeEY3cDY1djhkaUJtbXAwc2N3bUM5aUJoLWRTcTE2Ty1QYnNrMWFKa0lzTWx6ZXRxc0xreTNwSEt5THlkVm5VdEhQTkJ0QmxYZExwMUJYZk00SGg3a1dFWkFKa09HeG41S0xrWmNBZEE3VXMwVWZnQjhycC10cjJNdTRYcFV0R3FjV0NTMVVIUkZiYkFCTFM1akRFalc5U2MzRDdISHQtOEZuM3lrWWxrMk55Z0E3MS12TjJPN3d1VHVEMmVxRE9vUFBlbC1VY1JscGJvZEJt0gH6AUFVX3lxTE15eVVuMHA3NjVvQUZ3eE1OTnNOU0pmVnE1MHJlWWNmMGhPWlhLR3Q0Xy01ajQ1T0JyNHN6UTVxUVJsUGRseS1mbDZlbXQxQkZhdmdUcUlNX0t0VVBaQm9DM1NpaUZieExVekdpQUd3OGx2UmpzYm5nbmd4dG5WWEtVd0NsVjVnLW1TSTEyOFE5QnJlQnYyWXgwVW0wRW83RTcta1lGTnoxeklOUThpUFlUcHdwdU56UlVOVkVQaWgzSEZ1NWZ6QWRtTExpaWc1UnlBYkd1OF93NURLdFpWYm5wbW1pVlY0WDNrU2ZXcUdYbFZTeGNaVl9ZVkE?oc=5",
-          "source": "Google News: Tekken (Gaming Age)",
-          "published": "2026-11-03T01:07:37.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "evo"
-          ]
-        },
         {
           "title": "If you could get rid of only one character from the roster, who would it be?",
           "url": "https://www.reddit.com/r/Tekken/comments/1xn76jb/if_you_could_get_rid_of_only_one_character_from/",
@@ -271,41 +263,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "CDL Major II returns to DreamHack Birmingham with double the seats",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmVGdEtUOTFqaUxwbVJJcUt5UTZQb041RFBPSzFwOHB6UV8zTXBYV1JZSWlUTzB5Z3ZIcWQ5NzhKY0lFR0RxMUJ2cVlVd1VfaTZhcG5mRFIydjdpX3RKd29VZVBmeVFzNUpSUEFFaWo0YWFhS1lCZ2JvZUJ0UEFzMkFTM19VQk1kUkdhUDlOSUU2R1NZb1VZS2xQSkg4TG90bW5BcTd4UkJYNVhVcVE?oc=5",
-          "source": "Google News: CoD (Inven Global)",
-          "published": "2026-11-03T17:39:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "What would be acceptable QoL changes in BW?",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xmzpdi/what_would_be_acceptable_qol_changes_in_bw/",
-          "source": "r/broodwar",
-          "published": "2026-11-03T17:45:59.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "revealed*",
-            "bw"
-          ]
         }
       ]
     },
@@ -406,6 +363,7 @@
   ],
   "quiet": [
     "AoE2",
+    "Brood War",
     "Quake",
     "Halo"
   ]

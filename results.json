@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:30:19.968Z",
+  "generatedAt": "2026-11-04T01:00:24.434Z",
   "source": "start.gg",
   "completed": [
     {
@@ -194,19 +194,6 @@
   "live": [],
   "upcoming": [
     {
-      "eventId": "1743857",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #140",
-      "event": "Tekken 8",
-      "entrants": 202,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-04T01:00:00.000Z",
-      "endAt": "2026-11-04T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-140/event/tekken-8"
-    },
-    {
       "eventId": "1611249",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -322,6 +309,19 @@
       "startAt": "2026-11-07T21:00:00.000Z",
       "endAt": "2026-11-08T04:00:00.000Z",
       "url": "https://www.start.gg/tournament/no-god-no-neutral-offline-edition-003/event/3rd-strike"
+    },
+    {
+      "eventId": "1729356",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Asscadian 8",
+      "event": "Melee Singles",
+      "entrants": 64,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T23:00:00.000Z",
+      "endAt": "2026-11-08T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-asscadian-8/event/melee-singles"
     }
   ],
   "games": {
