@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-04T01:20:19.728Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "BC Game Signs Eva Elfie as Brand Ambassador Weeks Before s1mple's Team Heads to the Singapore Major",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzNaeEIwNHRLZEpUOUJOZS1KakxGYjFuNGMxTnZLV3NIZUFDNUphd05oaXFHcm9LeHJqcjNWQ1FCa2hrZTE4QlNGUkNCVUhMNXNNLUpQc2RoREFFd2E0UlJaOWF3aHB1cWFRb0k3OFRyM3JUaDRiNXd1aW5Lc09wWlZqOVNiUGJsNTFYQ2RR?oc=5",
+      "source": "Google News: CS2 (TalkEsport)",
+      "outlets": [
+        "TalkEsport"
+      ],
+      "score": 6,
+      "why": [
+        "signs",
+        "s1mple"
+      ],
+      "summary": "",
+      "published": "2026-11-03T20:48:58.000Z"
+    },
+    {
       "alertedAt": "2026-11-03T18:10:31.809Z",
       "level": "possible",
       "scene": "CS2",
