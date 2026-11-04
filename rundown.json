@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T22:00:24.125Z",
+  "generatedAt": "2026-11-04T22:55:35.315Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 18,
       "stories": [
         {
           "title": "NAVI became one of only four teams in history to complete a map with three players each having a rating of 2.00 or higher after their win vs Falcons",
@@ -152,7 +152,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -177,17 +177,6 @@
           ]
         },
         {
-          "title": "[Spoiler] has been eliminated from EPL Masters III",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnte60/spoiler_has_been_eliminated_from_epl_masters_iii/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T16:57:25.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "eliminated"
-          ]
-        },
-        {
           "title": "Yatoro effect is insane",
           "url": "https://www.reddit.com/r/DotA2/comments/1xnx3xb/yatoro_effect_is_insane/",
           "source": "r/DotA2",
@@ -199,22 +188,20 @@
           ]
         },
         {
-          "title": "No patch drives me crazy",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnt3t8/no_patch_drives_me_crazy/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T16:46:34.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "cheat*"
-          ]
-        },
-        {
           "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
           "source": "Google News: Dota (TalkEsport)",
           "published": "2026-11-04T20:24:38.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Valve ruined \"The Season of Gifting\"",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xo218b/valve_ruined_the_season_of_gifting/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T22:31:32.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -234,15 +221,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xnxki0/what_if_gaben_want_to_release_patch_at_wow/",
           "source": "r/DotA2",
           "published": "2026-11-04T19:34:47.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "The patch are the friends in the way",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnt5t6/the_patch_are_the_friends_in_the_way/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T16:48:34.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -278,8 +256,37 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-04T15:19:43.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "What's he making? Harada says he only has time to make \"one more game\" so he wanted \"to try something new\" ...",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xnwn27/whats_he_making_harada_says_he_only_has_time_to/",
+          "source": "r/Tekken",
+          "published": "2026-11-04T18:59:07.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "won*",
+            "harada"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "LAT official roster for 2026-27",
@@ -291,6 +298,17 @@
           "why": [
             "roster",
             "official"
+          ]
+        },
+        {
+          "title": "Wait What? One Shot In The Back Boys! - Shotzzy",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo2d8g/wait_what_one_shot_in_the_back_boys_shotzzy/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-04T22:45:49.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "shotzzy"
           ]
         },
         {
@@ -332,24 +350,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "What's he making? Harada says he only has time to make \"one more game\" so he wanted \"to try something new\" ...",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xnwn27/whats_he_making_harada_says_he_only_has_time_to/",
-          "source": "r/Tekken",
-          "published": "2026-11-04T18:59:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "won*",
-            "harada"
-          ]
         }
       ]
     },
