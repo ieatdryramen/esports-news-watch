@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T12:00:25.068Z",
+  "generatedAt": "2026-11-04T13:00:28.023Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,31 +7,32 @@
       "storyCount": 20,
       "stories": [
         {
-          "title": "Liquid vs BB / IEM Beijing 2026 - Group B Lower Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnkdy5/liquid_vs_bb_iem_beijing_2026_group_b_lower/",
+          "title": "The MongolZ vs FURIA / IEM Beijing 2026 - Group A Upper Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnna8l/the_mongolz_vs_furia_iem_beijing_2026_group_a/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-04T10:00:18.000Z",
+          "published": "2026-11-04T12:45:15.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "liquid",
+            "furia",
             "iem",
             "reddit only"
           ]
         },
         {
-          "title": "Liquid comeback on Nuke against BB",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnjdzm/liquid_comeback_on_nuke_against_bb/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T08:54:07.000Z",
+          "title": "The MongolZ join MOUZ in IEM Beijing semis after beating FURIA",
+          "url": "https://www.hltv.org/news/45913/the-mongolz-join-mouz-in-iem-beijing-semis-after-beating-furia",
+          "source": "HLTV news",
+          "published": "2026-11-04T12:49:00.000Z",
           "score": 5,
-          "level": "possible",
+          "level": null,
           "why": [
-            "comeback",
-            "liquid"
+            "mouz",
+            "furia",
+            "iem"
           ]
         },
         {
@@ -56,6 +57,18 @@
           "why": [
             "liquid",
             "iem"
+          ]
+        },
+        {
+          "title": "karrigan highlights vs. NAVI on Inferno",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnmsme/karrigan_highlights_vs_navi_on_inferno/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-04T12:20:13.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "karrigan",
+            "navi"
           ]
         },
         {
@@ -139,27 +152,16 @@
           "why": [
             "mouz"
           ]
-        },
-        {
-          "title": "Matchups set for last day of IEM Beijing groups",
-          "url": "https://www.hltv.org/news/45901/matchups-set-for-last-day-of-iem-beijing-groups",
-          "source": "HLTV news",
-          "published": "2026-11-03T14:21:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 7,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3U1QkVZbW9Tb3NZVUQwZUFSSGxWUWI4dmlrNW4yRzB0b0ZXTkc3Ym9jSG9PUTRHX2lRbVZ5MXpPNm56VWZjWmMtMjNYQVhEZldGRlNENGJUZHV3c09VVU5mWmJYYUdtZ05FN0x6eGhmaFZIYi1WckFDRjVQbko3TEx1TlJWUzRNTXJHZjgzak4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckN1Qk1zd1M2cW82U1FVY0VTMlBocDhSc0FHeGl6aVNiMUs5TnZPek5kT09TRGdlOHBTQlBfZlZ2UW95WDFDakdZckFPTjU1VWt1alAzeXYwNTNmSDQ5Q0djYk5xbk1CMGZRNE91bmtrbkR5S1pwempzSkxJY2ZoYXNXajB1czFSWEx4NnZaQ3luUQ?oc=5",
           "source": "Google News: Dota (RG.org)",
           "published": "2026-11-04T10:52:17.000Z",
           "score": 5,
@@ -180,6 +182,28 @@
           ]
         },
         {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnmf6m/removed_by_reddit/",
+          "source": "r/DotA2",
+          "published": "2026-11-04T12:00:47.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        },
+        {
+          "title": "Team Falcons sweep Heroic to earn NAVI rematch at IEM Beijing",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWjAxcEJRcW5GcVJNN1FjNFNjZnIxYXNPRTJZbmNnWnVmSTdMazFVMDBHWExkS2EteUVMNVE0bmZLdGd2dFJuTnVRUUJCN2dEVGJObEtJUTExRjVCaGpZOFd6NGRrcjJvYU5kVzFWQjAyZ0JNVDFxa1JpMm9QWUJGd0tkYzhLRDhFaUNMR1d3OW10ZjdqY01yenJJZjJLQTVkZ2c?oc=5",
+          "source": "Google News: Dota (Esports News UK)",
+          "published": "2026-11-04T08:17:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "falcons"
+          ]
+        },
+        {
           "title": "They won’t release a new patch or act 2 until GTA6 is out",
           "url": "https://www.reddit.com/r/DotA2/comments/1xnk981/they_wont_release_a_new_patch_or_act_2_until_gta6/",
           "source": "r/DotA2",
@@ -191,19 +215,19 @@
           ]
         },
         {
-          "title": "What do we think the PL nerf will be?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnl0r1/what_do_we_think_the_pl_nerf_will_be/",
+          "title": "Do you spend money to buy the dark carnival prize pack?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnn5sw/do_you_spend_money_to_buy_the_dark_carnival_prize/",
           "source": "r/DotA2",
-          "published": "2026-11-04T10:39:23.000Z",
+          "published": "2026-11-04T12:39:03.000Z",
           "score": 0,
           "level": null,
           "why": []
         },
         {
-          "title": "While waiting patch. This changes for those annoying hero is acceptable balance or not? and item.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xneety/while_waiting_patch_this_changes_for_those/",
+          "title": "What do we think the PL nerf will be?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xnl0r1/what_do_we_think_the_pl_nerf_will_be/",
           "source": "r/DotA2",
-          "published": "2026-11-04T04:02:26.000Z",
+          "published": "2026-11-04T10:39:23.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -258,13 +282,15 @@
       "storyCount": 1,
       "stories": [
         {
-          "title": "[Photo] Kim Heon-gon exits on third strike",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeG9mSWV5NW1ySElSQThLRVEzbG1vUjlVSFc1SmtoeUJPM08xc2E3RUNUTGZZeVN6eFdWekVpeDRta0EyTUpKei1DV0ZpTEtuOXYwVFVwMjhRd3lUb1JZTDI4bmN1SFJKU3ZjWWRlSktWZ01TMjFDaVlIT1BiMXFRM2ZPWE1zemR4VWdyR19Kb1pMb2NweTM00gGXAUFVX3lxTE54b2ZJZXk1bXJISVJBOEtFUTNsbW9SOVVIVzVKa2h5Qk8zTzFzYTdFQ1RMZll5U3p4V1Z6RWl4NG1rQTJNSkp6LUNXRmlMS245djBUVXAyOFF3eVRvUllMMjhuY3VIUkpTdmNZZGVKS1ZnTVMyMUNpWUhPUGIxcVEzZk9YTXN6ZHhVZ3JHX0pvWkxvY3B5MzQ?oc=5",
-          "source": "Google News: Street Fighter (Chosunbiz)",
-          "published": "2026-11-03T12:11:00.000Z",
-          "score": 1,
+          "title": "Street Fighter 6 - Official \"Winter Pocket Present\" Fighting Pass Trailer",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzhEOHNCdVNTZng1dktNTWRndl94VjMzQ01KeXQ1ZXIxWUxPN19WX2xyR285cjdaUFpJZ1Vpbzg4bUY5WS10ek5tVTRfV3JfUVpFVUtSd2xuTzlsWmh3b210RjN3QUppN0RlS3p5cU5rN3ZNc2hueVFyWVJscjkxa0VxN2R2dnZfSEd3QXBhZk5yQ1l3aTkyUjR1WXo?oc=5",
+          "source": "Google News: Street Fighter (IGN)",
+          "published": "2026-11-04T11:30:55.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "official"
+          ]
         }
       ]
     },
