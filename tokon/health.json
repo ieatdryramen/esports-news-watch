@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T16:40:33.894Z",
+  "generatedAt": "2026-11-04T17:40:36.289Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -14,7 +14,7 @@
       "ok": true,
       "skipped": false,
       "items": 50,
-      "newest": "2026-11-04T15:39:50.000Z",
+      "newest": "2026-11-04T16:48:28.000Z",
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-04T14:43:44.000Z",
+      "newest": "2026-11-04T17:19:12.000Z",
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-04T16:31:51.000Z",
+      "newest": "2026-11-04T17:09:03.000Z",
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-05T00:02:00.000Z",
+      "newest": "2026-11-05T00:52:00.000Z",
       "error": null
     },
     {
@@ -62,39 +62,39 @@
       "ok": true,
       "skipped": false,
       "items": 25,
-      "newest": "2026-11-04T16:00:00.000Z",
+      "newest": "2026-11-04T17:15:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Tokon",
       "ok": true,
       "skipped": false,
-      "items": 8,
-      "newest": "2026-11-04T16:18:37.000Z",
+      "items": 9,
+      "newest": "2026-11-04T17:30:49.000Z",
       "error": null
     },
     {
       "name": "Google News: Tokon competitive",
       "ok": true,
       "skipped": false,
-      "items": 0,
-      "newest": null,
+      "items": 1,
+      "newest": "2026-11-04T03:12:24.000Z",
       "error": null
     },
     {
       "name": "Google News: Tokon patches + DLC",
       "ok": true,
       "skipped": false,
-      "items": 7,
-      "newest": "2026-11-04T16:18:37.000Z",
+      "items": 9,
+      "newest": "2026-11-04T17:30:49.000Z",
       "error": null
     },
     {
       "name": "Google News: EventHubs/Dot/Dashfight",
       "ok": true,
       "skipped": false,
-      "items": 2,
-      "newest": "2026-11-04T15:15:00.000Z",
+      "items": 3,
+      "newest": "2026-11-04T17:30:49.000Z",
       "error": null
     },
     {

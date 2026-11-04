@@ -1,22 +1,11 @@
 {
-  "generatedAt": "2026-11-04T16:40:33.237Z",
+  "generatedAt": "2026-11-04T17:40:35.470Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
-        {
-          "title": "Marvel Rivals - Official 'Worthy Spider-Man' Costume Trailer",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelpUS2R3OC1XeWdRcDRGVU00cDJnVlBhQ0RoU0RGdTY2WlY0QlJGLU9DcjM0V0hFUWtuSWUwY01UVkxFTk9KT1JuRFhXdnJicER3ZTJncThMVVB4bVpybjdQYlJoandwSzVuNDBBOFpWY2Y2MnJhOElWVjF6aVo5MnE3aWxfUEZCYkJMNkdPNEQ3WHhOa1lXbmc5MW8?oc=5",
-          "source": "Google News: Rivals patches (IGN India)",
-          "published": "2026-11-03T16:59:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "official"
-          ]
-        },
         {
           "title": "Marvel Rivals ranks in order: Ranked system explained",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncml0NFFXd2FzSm5sR01mQ21ScnZULW9lb1BMNVE0elpYak15RHh1Uk1jX1Q2eGdyR1hRUU15VDBqRTcxZmFrc1ZYV3lMMThueEV6YldSTHRFYnRnZlB4NFJEem0?oc=5",
