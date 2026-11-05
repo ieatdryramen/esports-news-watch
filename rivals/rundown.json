@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-05T08:40:30.220Z",
+  "generatedAt": "2026-11-05T09:40:35.673Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 7,
       "stories": [
+        {
+          "title": "Marvel Rivals Version 20261105 Patch Notes",
+          "url": "https://store.steampowered.com/news/app/2767030/view/703284306606293040",
+          "source": "Steam: Marvel Rivals (official news + patch notes)",
+          "published": "2026-11-05T09:07:02.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "official*",
+            "patch notes"
+          ]
+        },
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
@@ -28,6 +40,15 @@
           "why": [
             "patch notes"
           ]
+        },
+        {
+          "title": "Art Vision Vol. 07 // Behind The Scenes (Part 3): Dedication and Passion",
+          "url": "https://store.steampowered.com/news/app/2767030/view/703284306606293042",
+          "source": "Steam: Marvel Rivals (official news + patch notes)",
+          "published": "2026-11-05T09:06:40.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "It's Cobbler Time! Marvel Rivals Drops Worthy Spider-Man And Cosmic Cook Thing Costumes Later This Week",
