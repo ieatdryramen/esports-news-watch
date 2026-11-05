@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-05T11:30:25.940Z",
+  "generatedAt": "2026-11-05T12:00:24.100Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 18,
       "stories": [
+        {
+          "title": "BLAST Rivals Season 2 talent announced",
+          "url": "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
+          "source": "HLTV news",
+          "published": "2026-11-05T11:48:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "announced",
+            "blast"
+          ]
+        },
         {
           "title": "IEM Beijing 2026 playoff bracket set",
           "url": "https://www.hltv.org/news/45914/iem-beijing-2026-playoff-bracket-set",
@@ -43,18 +55,6 @@
             "mouz",
             "furia",
             "iem"
-          ]
-        },
-        {
-          "title": "BLAST Rivals Hong Kong 2026 Talent Announced",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xog7nl/blast_rivals_hong_kong_2026_talent_announced/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-05T11:23:37.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "announced",
-            "blast"
           ]
         },
         {
@@ -143,7 +143,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Recent allegations against Blitz_DotA by Rosie about events that happened at a LAN",
@@ -177,6 +177,17 @@
           "level": null,
           "why": [
             "grand final"
+          ]
+        },
+        {
+          "title": "Somehow won game with min 0 AFK Jungling Centaur",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xogc95/somehow_won_game_with_min_0_afk_jungling_centaur/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T11:30:57.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
           ]
         },
         {
@@ -216,24 +227,6 @@
           "source": "esports.gg",
           "published": "2026-11-05T03:31:11.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
-          "source": "Google News: Dota (TalkEsport)",
-          "published": "2026-11-04T20:24:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "So, it's Wednesday night and no patch!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xo5z37/so_its_wednesday_night_and_no_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T01:28:55.000Z",
-          "score": 0,
           "level": null,
           "why": []
         },
@@ -287,8 +280,19 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "How big a deal would it be for you if the devs removed rotting entirely?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xogtcd/how_big_a_deal_would_it_be_for_you_if_the_devs/",
+          "source": "r/aoe2",
+          "published": "2026-11-05T11:58:11.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        },
         {
           "title": "Yes we WOLOLO Bears now...",
           "url": "https://www.reddit.com/r/aoe2/comments/1xodua1/yes_we_wololo_bears_now/",
@@ -309,23 +313,6 @@
           "level": null,
           "why": [
             "hera"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Street Fighter 6 - Official \"Winter Pocket Present\" Fighting Pass Trailer",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzhEOHNCdVNTZng1dktNTWRndl94VjMzQ01KeXQ1ZXIxWUxPN19WX2xyR285cjdaUFpJZ1Vpbzg4bUY5WS10ek5tVTRfV3JfUVpFVUtSd2xuTzlsWmh3b210RjN3QUppN0RlS3p5cU5rN3ZNc2hueVFyWVJscjkxa0VxN2R2dnZfSEd3QXBhZk5yQ1l3aTkyUjR1WXo?oc=5",
-          "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-04T11:30:55.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "official"
           ]
         }
       ]
@@ -369,6 +356,7 @@
     "Classic Tetris",
     "Brood War",
     "Trackmania",
+    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
