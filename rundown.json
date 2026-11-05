@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T18:35:41.179Z",
+  "generatedAt": "2026-11-05T19:35:18.880Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 16,
       "stories": [
         {
           "title": "apEX does 3x the damage per HE that donk does",
@@ -68,15 +68,14 @@
           ]
         },
         {
-          "title": "1win Team qualified for their first Major and the owner promised every player a Rolls-Royce if they win it",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xoigx6/1win_team_qualified_for_their_first_major_and_the/",
+          "title": "HLTV has announced the Hall of Fame nominees",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xor737/hltv_has_announced_the_hall_of_fame_nominees/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-05T13:20:36.000Z",
+          "published": "2026-11-05T19:03:19.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "roster*",
-            "spirit*"
+            "announced"
           ]
         },
         {
@@ -89,6 +88,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Hall of Fame: Unveiling the 10 nominees of 2026",
+          "url": "https://www.hltv.org/news/45912/hall-of-fame-unveiling-the-10-nominees-of-2026",
+          "source": "HLTV news",
+          "published": "2026-11-05T19:07:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Short news: Week 43",
@@ -129,114 +137,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Counter-Strike Prize Money: The Biggest CS Payouts",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fY09lWFViak80OGxhVUlQNERRYVlCWFpqaThvV0l0QVZ2NWQtQkYybzRuQTA3YzFRdmtaR2poSEMtX0RYWkg2STRiQm1UYWs1RUNtenRkWmJkdlVkQzl5T2dSb2ZIbE4ydE1FbkFqcWlVZFhG?oc=5",
-          "source": "Google News: CS2 (Shane the Gamer)",
-          "published": "2026-11-05T07:36:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Warcraft III",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Time Travel and Body swapping reaches W3Champions!",
-          "url": "https://www.reddit.com/r/WC3/comments/1xoi2qw/time_travel_and_body_swapping_reaches_w3champions/",
-          "source": "r/WC3",
-          "published": "2026-11-05T13:02:01.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "retiring*",
-            "happy*",
-            "w3champions"
-          ]
-        },
-        {
-          "title": "Wc3 reforged tournament hosted",
-          "url": "https://www.reddit.com/r/WC3/comments/1xomugs/wc3_reforged_tournament_hosted/",
-          "source": "r/WC3",
-          "published": "2026-11-05T16:19:30.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "champions*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 6,
-      "stories": [
-        {
-          "title": "Is anyone here gets banned by using secondary account? Like personal experience.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xoi4b7/is_anyone_here_gets_banned_by_using_secondary/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T13:03:58.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned"
-          ]
-        },
-        {
-          "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRleWNCZDA4bkJiTVBfdEpwWGstOU8weGVHLTl2NXNIUW9LRE9fam5Oa1ZuZk5qZFRkU1FXZl9yc2lkSS1hZGVhOUVIZjEwa1BpSzZ2R0pFUzN2N2l4cERBX0RTQ1Zqcm00MVNSWk9lVzB0dUN3Vk13cnJkVVdLREc4ZllaOTJ3Nms4?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-05T01:12:43.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "grand final"
-          ]
-        },
-        {
-          "title": "Finally. 7.42 tomorrow confirmed.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xopbnj/finally_742_tomorrow_confirmed/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T17:52:53.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update*",
-            "confirmed"
-          ]
-        },
-        {
-          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
-          "source": "Google News: Dota (Dot Esports)",
-          "published": "2026-11-05T08:46:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 1win Essence III: All teams, schedules, results",
-          "url": "https://esports.gg/news/dota-2/1win-essence-iii-dota-2-teams-schedule-results-standings/",
-          "source": "esports.gg",
-          "published": "2026-11-05T03:31:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - Hk, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdibUczYVVLSlNKRDBqR3F4YjVMdkpsS0FORUF4REVicnlNdXY3ZVBLU3dyYW9TemQxVVlHazZ1TS1yUnM0dmJ5aUN5UmJpQzNydGpGaEd1RVM5VmZNVVdUNVBZNUcxT01OdGY5blN1dnVyOTNsU3RNa242T3RZVUdQQmwyOU9kUXI3YUYtTkVEZmpZYlZrS0R4bFhRWnc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-05T15:52:24.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -260,7 +160,7 @@
           "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
           "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-05T13:09:06.000Z",
+          "published": "2026-11-05T13:34:03.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -268,15 +168,14 @@
           ]
         },
         {
-          "title": "Scrap claims everyone is terrified of him and Faze",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xohsib/scrap_claims_everyone_is_terrified_of_him_and_faze/",
+          "title": "All Monster Kickoff Roster",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xoqjt2/all_monster_kickoff_roster/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-05T12:48:20.000Z",
-          "score": 3,
+          "published": "2026-11-05T18:39:03.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "faze",
-            "simp*"
+            "roster"
           ]
         },
         {
@@ -316,6 +215,92 @@
             "upset*",
             "jmook*",
             "trif*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 6,
+      "stories": [
+        {
+          "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRleWNCZDA4bkJiTVBfdEpwWGstOU8weGVHLTl2NXNIUW9LRE9fam5Oa1ZuZk5qZFRkU1FXZl9yc2lkSS1hZGVhOUVIZjEwa1BpSzZ2R0pFUzN2N2l4cERBX0RTQ1Zqcm00MVNSWk9lVzB0dUN3Vk13cnJkVVdLREc4ZllaOTJ3Nms4?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-05T01:12:43.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand final"
+          ]
+        },
+        {
+          "title": "Finally. 7.42 tomorrow confirmed.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xopbnj/finally_742_tomorrow_confirmed/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T17:52:53.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update*",
+            "confirmed"
+          ]
+        },
+        {
+          "title": "Dota 2 Update for November 5, 2026",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xoryui/dota_2_update_for_november_5_2026/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T19:33:26.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
+          "source": "Google News: Dota (Dot Esports)",
+          "published": "2026-11-05T08:46:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 1win Essence III: All teams, schedules, results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-05T03:31:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - Hk, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdibUczYVVLSlNKRDBqR3F4YjVMdkpsS0FORUF4REVicnlNdXY3ZVBLU3dyYW9TemQxVVlHazZ1TS1yUnM0dmJ5aUN5UmJpQzNydGpGaEd1RVM5VmZNVVdUNVBZNUcxT01OdGY5blN1dnVyOTNsU3RNa242T3RZVUdQQmwyOU9kUXI3YUYtTkVEZmpZYlZrS0R4bFhRWnc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-05T15:52:24.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Wc3 reforged tournament hosted",
+          "url": "https://www.reddit.com/r/WC3/comments/1xomugs/wc3_reforged_tournament_hosted/",
+          "source": "r/WC3",
+          "published": "2026-11-05T16:19:30.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "champions*"
           ]
         }
       ]
