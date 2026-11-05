@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-05T15:45:25.058Z",
+  "generatedAt": "2026-11-05T16:40:39.551Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 16,
       "stories": [
+        {
+          "title": "apEX does 3x the damage per HE that donk does",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xomcad/apex_does_3x_the_damage_per_he_that_donk_does/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-05T16:00:13.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "donk",
+            "navi*",
+            "vitality*"
+          ]
+        },
         {
           "title": "BLAST Rivals Season 2 talent announced",
           "url": "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
@@ -54,17 +68,6 @@
           ]
         },
         {
-          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-04T16:25:30.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
           "title": "1win Team qualified for their first Major and the owner promised every player a Rolls-Royce if they win it",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xoigx6/1win_team_qualified_for_their_first_major_and_the/",
           "source": "r/GlobalOffensive",
@@ -74,17 +77,6 @@
           "why": [
             "roster*",
             "spirit*"
-          ]
-        },
-        {
-          "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-05T12:20:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
@@ -137,12 +129,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "zonic: \"When we get off to a bad start, it can destroy our entire game\"",
+          "url": "https://www.hltv.org/news/45917/zonic-when-we-get-off-to-a-bad-start-it-can-destroy-our-entire-game",
+          "source": "HLTV news",
+          "published": "2026-11-04T20:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Warcraft III",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Time Travel and Body swapping reaches W3Champions!",
@@ -156,12 +157,23 @@
             "happy*",
             "w3champions"
           ]
+        },
+        {
+          "title": "Wc3 reforged tournament hosted",
+          "url": "https://www.reddit.com/r/WC3/comments/1xomugs/wc3_reforged_tournament_hosted/",
+          "source": "r/WC3",
+          "published": "2026-11-05T16:19:30.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "champions*"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Is anyone here gets banned by using secondary account? Like personal experience.",
@@ -175,21 +187,9 @@
           ]
         },
         {
-          "title": "Froglings/LEGION Roster confusion.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xody5b/froglingslegion_roster_confusion/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T09:00:23.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster",
-            "dreamleague*"
-          ]
-        },
-        {
           "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
-          "url": "https://esports.gg/news/dota-2/dota-2-epl-masters-iii-gamerlegion-yellow-submarine/",
-          "source": "esports.gg",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRleWNCZDA4bkJiTVBfdEpwWGstOU8weGVHLTl2NXNIUW9LRE9fam5Oa1ZuZk5qZFRkU1FXZl9yc2lkSS1hZGVhOUVIZjEwa1BpSzZ2R0pFUzN2N2l4cERBX0RTQ1Zqcm00MVNSWk9lVzB0dUN3Vk13cnJkVVdLREc4ZllaOTJ3Nms4?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-05T01:12:43.000Z",
           "score": 3,
           "level": null,
@@ -207,17 +207,6 @@
           "why": []
         },
         {
-          "title": "Stop update Dota2 update DeadLock! now!!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xodhgp/stop_update_dota2_update_deadlock_now/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T08:28:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Dota 2 1win Essence III: All teams, schedules, results",
           "url": "https://esports.gg/news/dota-2/1win-essence-iii-dota-2-teams-schedule-results-standings/",
           "source": "esports.gg",
@@ -227,13 +216,15 @@
           "why": []
         },
         {
-          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
-          "source": "Google News: Dota (TalkEsport)",
-          "published": "2026-11-04T20:24:38.000Z",
-          "score": 1,
+          "title": "XE - Hk, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdibUczYVVLSlNKRDBqR3F4YjVMdkpsS0FORUF4REVicnlNdXY3ZVBLU3dyYW9TemQxVVlHazZ1TS1yUnM0dmJ5aUN5UmJpQzNydGpGaEd1RVM5VmZNVVdUNVBZNUcxT01OdGY5blN1dnVyOTNsU3RNa242T3RZVUdQQmwyOU9kUXI3YUYtTkVEZmpZYlZrS0R4bFhRWnc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-05T15:52:24.000Z",
+          "score": 0,
           "level": null,
-          "why": []
+          "why": [
+            "-stream"
+          ]
         },
         {
           "title": "What are your top 10 heroes of this patch, 7.41a-f?",
@@ -243,17 +234,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - oveA, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMENoeGtXMU9RcDl2WW9OcEp3dVpfa0R1MXZqSnAzSE0zc3liTmoxamZYdnROaDg1RDcwdzUxaTdiQWJMRUVFNldPUXMyNlF2WmtQX2pLUHBkazBnSDlsQ29sRmhnUWZpU1d6NDhBX2JpczZJMVY5Y2JMbENaa3M5R29tOUpMb0xHR21HR1F0Z2lJbFE0NnVxYnNVZWw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-04T21:19:10.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -335,29 +315,27 @@
       ]
     },
     {
-      "scene": "Melee",
+      "scene": "Tekken",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Fizzi's spiritual successor to Melee is released, what happens?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xod11f/fizzis_spiritual_successor_to_melee_is_released/",
-          "source": "r/SSBM",
-          "published": "2026-11-05T07:58:53.000Z",
-          "score": 2,
+          "title": "Tournament competition advice needed",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xomsxu/tournament_competition_advice_needed/",
+          "source": "r/Tekken",
+          "published": "2026-11-05T16:17:50.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "released"
-          ]
+          "why": []
         }
       ]
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Street Fighter",
-    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
