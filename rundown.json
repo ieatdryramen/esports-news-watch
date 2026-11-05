@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T03:45:19.339Z",
+  "generatedAt": "2026-11-05T04:45:18.077Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 16,
       "stories": [
         {
           "title": "IEM Beijing 2026 playoff bracket set",
@@ -253,6 +253,17 @@
           ]
         },
         {
+          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T04:23:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand finals"
+          ]
+        },
+        {
           "title": "M8 vs faze",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo3f3x/m8_vs_faze/",
           "source": "r/CoDCompetitive",
@@ -268,15 +279,6 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo49ou/optic_vs_falcons_scrim_results53_optic/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-05T00:09:10.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "One of the teams in Hitch's 15k Snd creator tournament tomorrow 3 CST. Crimsix Aches Zoomaa Kaysan.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnyanr/one_of_the_teams_in_hitchs_15k_snd_creator/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-04T20:02:31.000Z",
           "score": 0,
           "level": null,
           "why": []
