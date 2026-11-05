@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-05T20:30:30.727Z",
+  "generatedAt": "2026-11-05T21:30:22.371Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 16,
       "stories": [
+        {
+          "title": "G2 Esports Parts Ways With Head Coach Perkz Following Controversial Statements",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekRGOXRMRThpdWYwYVBGTXNKYUd3S19jLW5JZDVySzBHd3ZCckZ1WGFMODJKZDNSRlN5aFlOOXNMeURpTndkb2lVNGpMMVdvU3g1UzdaM2xYVF9nVGJpXzdvdXRUd3NicWFKaTVES3loYUgzVzgzYWRKTERJTWg4MQ?oc=5",
+          "source": "Google News: CS2 (Hotspawn)",
+          "published": "2026-11-05T15:43:09.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "parts ways",
+            "g2"
+          ]
+        },
         {
           "title": "apEX does 3x the damage per HE that donk does",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xomcad/apex_does_3x_the_damage_per_he_that_donk_does/",
@@ -45,6 +57,17 @@
           ]
         },
         {
+          "title": "The EVPs and All-Stars of PGL Masters Bucharest",
+          "url": "https://www.hltv.org/news/45920/the-evps-and-all-stars-of-pgl-masters-bucharest",
+          "source": "HLTV news",
+          "published": "2026-11-05T20:55:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "HLTV Prospects ranking: November 2026",
           "url": "https://www.hltv.org/news/45899/hltv-prospects-ranking-november-2026",
           "source": "HLTV news",
@@ -66,6 +89,26 @@
           "why": [
             "announced"
           ]
+        },
+        {
+          "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-05T12:20:06.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Falcons Pause CS2 Academy Falcons Force",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFFvNldmbjh6bDFpX01yVURyVVg0QURRNG0xZm5IaHVNWllRekdESzNjOTRheWp3UWVqYmpCMjNwME5CUWRiaTAwQ0NJVUlLSnczMS1PZVRRanROajZVVlF3REpvMFhsS1J5SXR4WmJOTzloNzBKc1JqM09xZENWZ2JfZjhOd25F?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-05T20:00:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Hall of Fame: Unveiling the 10 nominees of 2026",
@@ -93,25 +136,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "w0nderful and b1t surge in popularity for IEM Beijing Playoffs Fantasy",
-          "url": "https://www.hltv.org/news/45919/w0nderful-and-b1t-surge-in-popularity-for-iem-beijing-playoffs-fantasy",
-          "source": "HLTV news",
-          "published": "2026-11-05T12:34:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "b1t",
-            "iem",
-            "-fantasy"
-          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "M80 Boston announces their roster.",
@@ -123,6 +153,17 @@
           "why": [
             "roster",
             "announces"
+          ]
+        },
+        {
+          "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-05T13:34:03.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "la thieves"
           ]
         },
         {
@@ -180,6 +221,82 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 7,
+      "stories": [
+        {
+          "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRleWNCZDA4bkJiTVBfdEpwWGstOU8weGVHLTl2NXNIUW9LRE9fam5Oa1ZuZk5qZFRkU1FXZl9yc2lkSS1hZGVhOUVIZjEwa1BpSzZ2R0pFUzN2N2l4cERBX0RTQ1Zqcm00MVNSWk9lVzB0dUN3Vk13cnJkVVdLREc4ZllaOTJ3Nms4?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-05T01:12:43.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand final"
+          ]
+        },
+        {
+          "title": "Finally. 7.42 tomorrow confirmed.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xopbnj/finally_742_tomorrow_confirmed/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T17:52:53.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update*",
+            "confirmed"
+          ]
+        },
+        {
+          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
+          "source": "Google News: Dota (Dot Esports)",
+          "published": "2026-11-05T08:46:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 1win Essence III: All teams, schedules, results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-05T03:31:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Maybe they be crafting a patch.. TODAY?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xou3ju/maybe_they_be_crafting_a_patch_today/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T20:58:40.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Patch today?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xot90d/patch_today/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T20:24:13.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - Hk, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdibUczYVVLSlNKRDBqR3F4YjVMdkpsS0FORUF4REVicnlNdXY3ZVBLU3dyYW9TemQxVVlHazZ1TS1yUnM0dmJ5aUN5UmJpQzNydGpGaEd1RVM5VmZNVVdUNVBZNUcxT01OdGY5blN1dnVyOTNsU3RNa242T3RZVUdQQmwyOU9kUXI3YUYtTkVEZmpZYlZrS0R4bFhRWnc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-05T15:52:24.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 2,
       "stories": [
@@ -200,33 +317,6 @@
           "source": "Dexerto",
           "published": "2026-11-05T19:37:27.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Finally. 7.42 tomorrow confirmed.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xopbnj/finally_742_tomorrow_confirmed/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T17:52:53.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update*",
-            "confirmed"
-          ]
-        },
-        {
-          "title": "Patch today?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xot90d/patch_today/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T20:24:13.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
