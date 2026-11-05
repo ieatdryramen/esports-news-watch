@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:00:27.947Z",
+  "generatedAt": "2026-11-05T23:00:27.530Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -79,7 +79,7 @@
           "title": "Falcons Pause CS2 Academy Falcons Force",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFFvNldmbjh6bDFpX01yVURyVVg0QURRNG0xZm5IaHVNWllRekdESzNjOTRheWp3UWVqYmpCMjNwME5CUWRiaTAwQ0NJVUlLSnczMS1PZVRRanROajZVVlF3REpvMFhsS1J5SXR4WmJOTzloNzBKc1JqM09xZENWZ2JfZjhOd25F?oc=5",
           "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-05T20:00:37.000Z",
+          "published": "2026-11-05T19:53:23.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -137,7 +137,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "M80 Boston announces their roster.",
@@ -205,6 +205,15 @@
           "why": [
             "roster"
           ]
+        },
+        {
+          "title": "Zoomaa's Team is CRASHING OUT during the 15K SnD Tournament",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xowv9o/zoomaas_team_is_crashing_out_during_the_15k_snd/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T22:53:07.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -229,8 +238,19 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 12,
       "stories": [
+        {
+          "title": "Trying to comeback (unsuccesful T.T) with a way worse draft vs a typical pubstomp team",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xow48p/trying_to_comeback_unsuccesful_tt_with_a_way/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T22:19:57.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
+          ]
+        },
         {
           "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRleWNCZDA4bkJiTVBfdEpwWGstOU8weGVHLTl2NXNIUW9LRE9fam5Oa1ZuZk5qZFRkU1FXZl9yc2lkSS1hZGVhOUVIZjEwa1BpSzZ2R0pFUzN2N2l4cERBX0RTQ1Zqcm00MVNSWk9lVzB0dUN3Vk13cnJkVVdLREc4ZllaOTJ3Nms4?oc=5",
@@ -240,6 +260,40 @@
           "level": null,
           "why": [
             "grand final"
+          ]
+        },
+        {
+          "title": "Dota 2 will be joining TF2 when Deadlock gets released.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xovutk/dota_2_will_be_joining_tf2_when_deadlock_gets/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T22:09:06.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
+          ]
+        },
+        {
+          "title": "Congratz to the winner of EPL Masters 3",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xowz8v/congratz_to_the_winner_of_epl_masters_3/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T22:58:09.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "champions*"
+          ]
+        },
+        {
+          "title": "Don’t blame the players for being so passionate about a “video game update”",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xowhlw/dont_blame_the_players_for_being_so_passionate/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T22:36:10.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update",
+            "return*"
           ]
         },
         {
@@ -253,6 +307,15 @@
             "update*",
             "confirmed"
           ]
+        },
+        {
+          "title": "All Dota 2 BLAST Slam Winners – Full List",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-05T20:42:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
@@ -328,38 +391,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Warcraft III",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Wc3 reforged tournament hosted",
-          "url": "https://www.reddit.com/r/WC3/comments/1xomugs/wc3_reforged_tournament_hosted/",
-          "source": "r/WC3",
-          "published": "2026-11-05T16:19:30.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "champions*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Tournament competition advice needed",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xomsxu/tournament_competition_advice_needed/",
-          "source": "r/Tekken",
-          "published": "2026-11-05T16:17:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -367,6 +398,8 @@
     "Classic Tetris",
     "Brood War",
     "Trackmania",
+    "Warcraft III",
+    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
