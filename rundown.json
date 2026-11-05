@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T01:50:19.053Z",
+  "generatedAt": "2026-11-05T02:45:21.508Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 16,
       "stories": [
         {
           "title": "VAC Live False positive when lagging?",
@@ -144,7 +144,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -158,17 +158,6 @@
           ]
         },
         {
-          "title": "Most of the time, its always these Chinese players (smurfing, cheating, win-trading)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnx2kk/most_of_the_time_its_always_these_chinese_players/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T19:15:27.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
-        },
-        {
           "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
           "url": "https://esports.gg/news/dota-2/dota-2-epl-masters-iii-gamerlegion-yellow-submarine/",
           "source": "esports.gg",
@@ -177,17 +166,6 @@
           "level": null,
           "why": [
             "grand final"
-          ]
-        },
-        {
-          "title": "Yatoro effect is insane",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xnx3xb/yatoro_effect_is_insane/",
-          "source": "r/DotA2",
-          "published": "2026-11-04T19:16:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "yatoro"
           ]
         },
         {
@@ -315,34 +293,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "zain reads a positive chatters comment",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xo5ukx/zain_reads_a_positive_chatters_comment/",
-          "source": "r/SSBM",
-          "published": "2026-11-05T01:22:33.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        },
-        {
-          "title": "[DarkGenex] Smash Summit Was Rigged",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xnx0lg/darkgenex_smash_summit_was_rigged/",
-          "source": "r/SSBM",
-          "published": "2026-11-04T19:13:28.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "smash summit"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -355,6 +305,23 @@
           "level": null,
           "why": [
             "official"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "zain reads a positive chatters comment",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xo5ukx/zain_reads_a_positive_chatters_comment/",
+          "source": "r/SSBM",
+          "published": "2026-11-05T01:22:33.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
           ]
         }
       ]
