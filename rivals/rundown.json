@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T09:40:35.673Z",
+  "generatedAt": "2026-11-05T10:40:31.484Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Marvel Rivals Version 20261105 Patch Notes",
@@ -39,6 +39,17 @@
           "level": null,
           "why": [
             "patch notes"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Teams Up with RESPAWN By Razer",
+          "url": "https://store.steampowered.com/news/app/2767030/view/703283562262039667",
+          "source": "Steam: Marvel Rivals (official news + patch notes)",
+          "published": "2026-11-05T09:43:08.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "announced*"
           ]
         },
         {
