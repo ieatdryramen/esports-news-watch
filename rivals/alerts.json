@@ -1,3 +1,22 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "alertedAt": "2026-11-05T17:10:34.859Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Season 11 Release Date, Start Times & New Heroes",
+      "url": "https://insider-gaming.com/marvel-rivals-season-11-release-date-start-times-new-heroes/",
+      "source": "Insider Gaming",
+      "outlets": [
+        "Insider Gaming"
+      ],
+      "score": 6,
+      "why": [
+        "new heroes",
+        "season"
+      ],
+      "summary": "Marvel Rivals Season 11 is just around the corner, so here's when you can expect to dive in, as well as which Heroes are on the way. The post Marvel Rivals Season 11 Release Date, Start Times & New Heroes appeared first on Insider Gaming .",
+      "published": "2026-11-05T17:08:14.000Z"
+    }
+  ]
 }

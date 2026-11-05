@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-05T16:10:51.805Z",
+  "generatedAt": "2026-11-05T17:10:35.143Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
+        {
+          "title": "Marvel Rivals Season 11 Release Date, Start Times & New Heroes",
+          "url": "https://insider-gaming.com/marvel-rivals-season-11-release-date-start-times-new-heroes/",
+          "source": "Insider Gaming",
+          "published": "2026-11-05T17:08:14.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "new heroes",
+            "season"
+          ]
+        },
         {
           "title": "Marvel Rivals Update 20261105 Patch Notes",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iMkxqYkZQaU9zVVBEeHNTVTJFTlIwVW45QzlFckxoQ2RBekFjZnhKcmpTcHdPbjlNd3B1Q1hqb045Vnl0ZHM4ZEhINDFJcWc2cmlGWHBBajRtTklGemc0UjQ2bjF5Z25uajhXSENReUNnZ25pa3c?oc=5",
@@ -39,6 +51,17 @@
           "level": null,
           "why": [
             "patch notes"
+          ]
+        },
+        {
+          "title": "How to ACTUALLY Play COVER | Marvel Rivals Season 10.5",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UQ004VGJmQzViMkpvNWZpdGhxZ09FUGlkX0VWMjNVajVNS0JrTlZZblVuaTBKZVRXcGQtTFZMZ1dnUQ?oc=5",
+          "source": "Google News: Rivals patches (YouTube)",
+          "published": "2026-11-05T13:22:47.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
           ]
         },
         {
