@@ -1,3 +1,22 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "alertedAt": "2026-11-05T11:50:25.709Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Smurfs will never be banned because this game enables it.",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xogf1l/smurfs_will_never_be_banned_because_this_game/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "banned",
+        "ban*"
+      ],
+      "summary": "I think it should be genuienly said that one of the biggest reasons this game has such a huge smurfing problem is because of the amount of times they enable it, along with how often none of the reports ever really go through. One of the biggest things that shows this are Streamers. They get to do it without facing any sort of penalty for 'content', it gives the idea that players can do the same within lower ranks as well, and NetEase will keep enabling it over, and over, and over again. I don't even get why​ smurfing is even a option in reports, it might as well just be there for the sake of being there because I have reported at least about 30ish smurf accounts, and I've never gotten a single one that shown any action was taken against them as they let em off free without any warning or ban. And the thing is that if they did ban smurfs, then that'll make streamers feel more prilveged and outrage, so instead of making it a zero tolerance policy for anyone regardless if you're popular or not, they just.. kick back and do absolutely nothing. Jay3, Kingsman, ​Necros, and much more streamers and players should be held accountable as more eyes are on them, yet they get a golden ticket to pass with it in the name of content which is ridiculous. This game enables smurfing so much that it takes away from the player experience greatly competitive wise. submitted by /u/JonnyEleven07 to r/marvelrivals [link] [comments]",
+      "published": "2026-11-05T11:35:27.000Z"
+    }
+  ]
 }
