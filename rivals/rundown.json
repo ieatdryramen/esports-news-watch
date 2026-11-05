@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T06:40:30.694Z",
+  "generatedAt": "2026-11-05T07:40:39.275Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -52,15 +52,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncml0NFFXd2FzSm5sR01mQ21ScnZULW9lb1BMNVE0elpYak15RHh1Uk1jX1Q2eGdyR1hRUU15VDBqRTcxZmFrc1ZYV3lMMThueEV6YldSTHRFYnRnZlB4NFJEem0?oc=5",
           "source": "Google News: Rivals patches (FRVR)",
           "published": "2026-11-04T12:58:34.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals: All Launch Characters",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tT2lGak9RLVhxem1PMUItbkVNLWdQLXJ2M29KdTk2aFVKeGMxWGZiSi15cTI4eGFRNGdKXzRFUnUwTG5FMFpDV3plMFVtOWd6QUxoaGNDWEhrbUo2VGFWWjZFVy1SWEpnd04taFNMTlpDcTJ3cEZqNw?oc=5",
-          "source": "Google News: Rivals patches (Push Square)",
-          "published": "2026-11-04T11:29:25.000Z",
           "score": 1,
           "level": null,
           "why": []
