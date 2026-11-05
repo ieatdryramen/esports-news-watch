@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T08:30:20.437Z",
+  "generatedAt": "2026-11-05T09:30:24.113Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 20,
       "stories": [
         {
           "title": "IEM Beijing 2026 playoff bracket set",
@@ -124,19 +124,19 @@
           ]
         },
         {
-          "title": "Gothic CS2 Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZTY4THdNQVFNbWlhUlFNNTBMenJGNnlkeHVlZjRRLUhjWm1RS01aODdlWnpOS2hMc2FJUXRGRDZSelQ0aHpYeVp6Vl9YdzA?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-04T22:35:18.000Z",
+          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
+          "source": "Google News: CS2 (Dot Esports)",
+          "published": "2026-11-05T08:46:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "zonic: \"When we get off to a bad start, it can destroy our entire game\"",
-          "url": "https://www.hltv.org/news/45917/zonic-when-we-get-off-to-a-bad-start-it-can-destroy-our-entire-game",
-          "source": "HLTV news",
-          "published": "2026-11-04T20:00:00.000Z",
+          "title": "Gothic CS2 Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZTY4THdNQVFNbWlhUlFNNTBMenJGNnlkeHVlZjRRLUhjWm1RS01aODdlWnpOS2hMc2FJUXRGRDZSelQ0aHpYeVp6Vl9YdzA?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-04T22:35:18.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -145,19 +145,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
-        {
-          "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckN1Qk1zd1M2cW82U1FVY0VTMlBocDhSc0FHeGl6aVNiMUs5TnZPek5kT09TRGdlOHBTQlBfZlZ2UW95WDFDakdZckFPTjU1VWt1alAzeXYwNTNmSDQ5Q0djYk5xbk1CMGZRNE91bmtrbkR5S1pwempzSkxJY2ZoYXNXajB1czFSWEx4NnZaQ3luUQ?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-04T10:52:17.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "benched"
-          ]
-        },
         {
           "title": "Recent allegations against Blitz_DotA by Rosie about events that happened at a LAN",
           "url": "https://www.reddit.com/r/DotA2/comments/1xocg2v/recent_allegations_against_blitz_dota_by_rosie/",
@@ -167,6 +156,18 @@
           "level": null,
           "why": [
             "allegations"
+          ]
+        },
+        {
+          "title": "Froglings/LEGION Roster confusion.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xody5b/froglingslegion_roster_confusion/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T09:00:23.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster",
+            "dreamleague*"
           ]
         },
         {
@@ -190,6 +191,15 @@
           "why": [
             "miracle"
           ]
+        },
+        {
+          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
+          "source": "Google News: Dota (Dot Esports)",
+          "published": "2026-11-05T08:46:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Stop update Dota2 update DeadLock! now!!",
@@ -269,43 +279,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T04:23:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand finals"
-          ]
-        },
-        {
-          "title": "M8 vs faze",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo3f3x/m8_vs_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-04T23:31:26.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "OpTic vs Falcons Scrim Results!📝5-3 OpTic",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo49ou/optic_vs_falcons_scrim_results53_optic/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T00:09:10.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 2,
       "stories": [
@@ -330,6 +303,32 @@
           "why": [
             "zain"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T04:23:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand finals"
+          ]
+        },
+        {
+          "title": "OpTic vs Falcons Scrim Results!📝5-3 OpTic",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo49ou/optic_vs_falcons_scrim_results53_optic/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T00:09:10.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
