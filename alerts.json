@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-05T19:05:15.425Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "G2 Esports Parts Ways With Head Coach Perkz Following Controversial Statements",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekRGOXRMRThpdWYwYVBGTXNKYUd3S19jLW5JZDVySzBHd3ZCckZ1WGFMODJKZDNSRlN5aFlOOXNMeURpTndkb2lVNGpMMVdvU3g1UzdaM2xYVF9nVGJpXzdvdXRUd3NicWFKaTVES3loYUgzVzgzYWRKTERJTWg4MQ?oc=5",
+      "source": "Google News: CS2 (Hotspawn)",
+      "outlets": [
+        "Hotspawn"
+      ],
+      "score": 7,
+      "why": [
+        "parts ways",
+        "g2"
+      ],
+      "summary": "",
+      "published": "2026-11-05T15:33:45.000Z"
+    },
+    {
       "alertedAt": "2026-11-05T16:00:30.819Z",
       "level": "possible",
       "scene": "CS2",
