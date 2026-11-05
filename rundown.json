@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:00:24.100Z",
+  "generatedAt": "2026-11-05T12:55:24.955Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -45,19 +45,6 @@
           ]
         },
         {
-          "title": "The MongolZ join MOUZ in IEM Beijing semis after beating FURIA",
-          "url": "https://www.hltv.org/news/45913/the-mongolz-join-mouz-in-iem-beijing-semis-after-beating-furia",
-          "source": "HLTV news",
-          "published": "2026-11-04T12:49:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
-            "furia",
-            "iem"
-          ]
-        },
-        {
           "title": "Lyncas Set to Join G2 Esports for LEC 2027, Replacing Spring Finals MVP SkewMond",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ya1p6eVpMMzFORmhSVmx3MjNVcERUV1VwOHV3aFo5MjlPTEp4aGVibndyX0RGVklVdkd4MW9ocFpyQmxDT0U0Vk9OVUR5bF9hZFZXbFpiU1ZVWE9VU3NJNTE0NWczLW51STROb29fOVFiWUllXzFLc3VUOFI?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -91,14 +78,14 @@
           ]
         },
         {
-          "title": "Team Liquid Genius Ancient Duo Donut CT Setup",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xo8ns8/team_liquid_genius_ancient_duo_donut_ct_setup/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-05T03:41:56.000Z",
+          "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-05T12:20:06.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "liquid"
+            "update"
           ]
         },
         {
@@ -110,6 +97,19 @@
           "level": null,
           "why": [
             "revealed*"
+          ]
+        },
+        {
+          "title": "w0nderful and b1t surge in popularity for IEM Beijing Playoffs Fantasy",
+          "url": "https://www.hltv.org/news/45919/w0nderful-and-b1t-surge-in-popularity-for-iem-beijing-playoffs-fantasy",
+          "source": "HLTV news",
+          "published": "2026-11-05T12:34:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "b1t",
+            "iem",
+            "-fantasy"
           ]
         },
         {
@@ -143,7 +143,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Recent allegations against Blitz_DotA by Rosie about events that happened at a LAN",
@@ -227,6 +227,24 @@
           "source": "esports.gg",
           "published": "2026-11-05T03:31:11.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-04T20:24:38.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "What are your top 10 heroes of this patch, 7.41a-f?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xohech/what_are_your_top_10_heroes_of_this_patch_741af/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T12:28:02.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -318,6 +336,35 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Scrap claims everyone is terrified of him and Faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xohsib/scrap_claims_everyone_is_terrified_of_him_and_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T12:48:20.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "faze",
+            "simp*"
+          ]
+        },
+        {
+          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T04:23:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand finals"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -330,23 +377,6 @@
           "level": null,
           "why": [
             "released"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T04:23:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand finals"
           ]
         }
       ]
