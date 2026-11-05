@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T17:40:34.248Z",
+  "generatedAt": "2026-11-05T18:35:41.179Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 17,
       "stories": [
         {
           "title": "apEX does 3x the damage per HE that donk does",
@@ -80,15 +80,24 @@
           ]
         },
         {
-          "title": "zorte: \"We just need to focus on how we play as a team\"",
-          "url": "https://www.hltv.org/news/45907/zorte-we-just-need-to-focus-on-how-we-play-as-a-team",
-          "source": "HLTV news",
-          "published": "2026-11-04T18:05:00.000Z",
+          "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-05T12:20:06.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "revealed*"
+            "update"
           ]
+        },
+        {
+          "title": "Short news: Week 43",
+          "url": "https://www.hltv.org/news/45887/short-news-week-43",
+          "source": "HLTV news",
+          "published": "2026-11-05T18:24:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Falcons put academy team on hold",
@@ -122,19 +131,10 @@
           "why": []
         },
         {
-          "title": "Gothic CS2 Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZTY4THdNQVFNbWlhUlFNNTBMenJGNnlkeHVlZjRRLUhjWm1RS01aODdlWnpOS2hMc2FJUXRGRDZSelQ0aHpYeVp6Vl9YdzA?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-04T22:35:18.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "zonic: \"When we get off to a bad start, it can destroy our entire game\"",
-          "url": "https://www.hltv.org/news/45917/zonic-when-we-get-off-to-a-bad-start-it-can-destroy-our-entire-game",
-          "source": "HLTV news",
-          "published": "2026-11-04T20:00:00.000Z",
+          "title": "Counter-Strike Prize Money: The Biggest CS Payouts",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fY09lWFViak80OGxhVUlQNERRYVlCWFpqaThvV0l0QVZ2NWQtQkYybzRuQTA3YzFRdmtaR2poSEMtX0RYWkg2STRiQm1UYWs1RUNtenRkWmJkdlVkQzl5T2dSb2ZIbE4ydE1FbkFqcWlVZFhG?oc=5",
+          "source": "Google News: CS2 (Shane the Gamer)",
+          "published": "2026-11-05T07:36:59.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -198,6 +198,18 @@
           ]
         },
         {
+          "title": "Finally. 7.42 tomorrow confirmed.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xopbnj/finally_742_tomorrow_confirmed/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T17:52:53.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update*",
+            "confirmed"
+          ]
+        },
+        {
           "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
           "source": "Google News: Dota (Dot Esports)",
@@ -225,22 +237,25 @@
           "why": [
             "-stream"
           ]
-        },
-        {
-          "title": "What are your top 10 heroes of this patch, 7.41a-f?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xohech/what_are_your_top_10_heroes_of_this_patch_741af/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T12:28:02.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
+        {
+          "title": "M80 Boston announces their roster.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xophrg/m80_boston_announces_their_roster/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T17:59:12.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster",
+            "announces"
+          ]
+        },
         {
           "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
@@ -265,6 +280,17 @@
           ]
         },
         {
+          "title": "M80 Roster Announcement Video",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xopyco/m80_roster_announcement_video/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T18:16:31.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
           "title": "Throwback to Scrap crashing out last season because Ben mentioned LAT were late to scrims multiple times",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xokhx9/throwback_to_scrap_crashing_out_last_season/",
           "source": "r/CoDCompetitive",
@@ -276,35 +302,20 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "How big a deal would it be for you if the devs removed rotting entirely?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xogtcd/how_big_a_deal_would_it_be_for_you_if_the_devs/",
-          "source": "r/aoe2",
-          "published": "2026-11-05T11:58:11.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Sonix gets puff’d on | HungryBox",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xoonwc/sonix_gets_puffd_on_hungrybox/",
+          "title": "Centerstage Top 16 Projections",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xopf80/centerstage_top_16_projections/",
           "source": "r/SSBM",
-          "published": "2026-11-05T17:28:17.000Z",
-          "score": 2,
+          "published": "2026-11-05T17:56:33.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "hungrybox"
+            "upset*",
+            "jmook*",
+            "trif*"
           ]
         }
       ]
@@ -326,6 +337,7 @@
     }
   ],
   "quiet": [
+    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
