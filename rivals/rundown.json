@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T17:10:35.143Z",
+  "generatedAt": "2026-11-05T18:10:35.089Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Release Date, Start Times & New Heroes",
@@ -40,17 +40,6 @@
           "why": [
             "season",
             "mrc"
-          ]
-        },
-        {
-          "title": "Marvel Rivals November 5 Patch Notes: New Skins, Hero Fixes, and More",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMXJiV09lVnJvZ2Uzc1FBR0djWTF5R1pSTDlmczd2eGxxMWpNWmRBNXRlU3RyQ0lfTmZpM1pSZXc0YUJjSE5nYmdwc05tN09ONnY4NFhPaWRMMzFJUzduSDlVNUczSjg?oc=5",
-          "source": "Google News: Rivals patches (Beebom)",
-          "published": "2026-11-04T17:37:01.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "patch notes"
           ]
         },
         {
