@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T05:40:27.578Z",
+  "generatedAt": "2026-11-05T06:35:19.115Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
         {
           "title": "IEM Beijing 2026 playoff bracket set",
@@ -146,7 +146,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -171,19 +171,32 @@
           ]
         },
         {
+          "title": "Miracle iconic games suggestions",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xob65v/miracle_iconic_games_suggestions/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T06:01:03.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "miracle"
+          ]
+        },
+        {
+          "title": "Stop update DeadLock！update Dota2 now！！",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xobqhc/stop_update_deadlockupdate_dota2_now/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T06:34:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "Dota 2 1win Essence III: All teams, schedules, results",
           "url": "https://esports.gg/news/dota-2/1win-essence-iii-dota-2-teams-schedule-results-standings/",
           "source": "esports.gg",
           "published": "2026-11-05T03:31:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
-          "source": "Google News: Dota (TalkEsport)",
-          "published": "2026-11-04T20:24:38.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -238,20 +251,8 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "LAT official roster for 2026-27",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo0pu6/lat_official_roster_for_202627/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-04T21:37:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster",
-            "official"
-          ]
-        },
         {
           "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
@@ -321,17 +322,8 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "New patch wall bug - Scout walks through palisade wall in ranked game",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xnturg/new_patch_wall_bug_scout_walks_through_palisade/",
-          "source": "r/aoe2",
-          "published": "2026-11-04T17:14:09.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
         {
           "title": "This clip is for Daut ! Yes you can kill deers in dark age with scout, how ? I don't know !!!",
           "url": "https://www.reddit.com/r/aoe2/comments/1xnkyqo/this_clip_is_for_daut_yes_you_can_kill_deers_in/",
