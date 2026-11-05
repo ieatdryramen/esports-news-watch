@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T00:40:20.964Z",
+  "generatedAt": "2026-11-05T01:10:22.299Z",
   "source": "start.gg",
   "completed": [
     {
@@ -99,32 +99,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1744880",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #171",
-      "event": "Street Fighter 6",
-      "entrants": 148,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-05T01:00:00.000Z",
-      "endAt": "2026-11-05T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-171/event/street-fighter-6"
-    },
-    {
-      "eventId": "1749435",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Run The Se.T! #130",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 20,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-05T01:00:00.000Z",
-      "endAt": "2026-11-05T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/run-the-se-t-130/event/street-fighter-iii-3rd-strike"
-    },
     {
       "eventId": "1611249",
       "scene": "melee",
