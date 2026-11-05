@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:40:37.011Z",
+  "generatedAt": "2026-11-05T12:40:29.879Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,18 +7,13 @@
       "storyCount": 1,
       "stories": [
         {
-          "title": "Marvel Tokon's Magik Gets Fired Up with Free New Costume for All Players",
-          "url": "https://www.pushsquare.com/news/2026/11/marvel-tokons-magik-gets-fired-up-with-free-new-costume-for-all-players",
-          "source": "Push Square",
-          "published": "2026-11-04T12:15:00.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "fired",
-            "roster*",
-            "dlc*",
-            "-costume"
-          ]
+          "title": "Marvel Tokon - Phoenix Cyclops Combos",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kZE9SeklSZEwyQUlfbDhmR2RSMFlFX0UycFRSVHFiQ3JfeXppYmc4Z3cwcENVX28wcDh3X18wVzNrUHMwSHdwOW1DWFFqWmVrMklBcG9VYXdDTVVi?oc=5",
+          "source": "Google News: Tokon (YouTube)",
+          "published": "2026-11-05T01:08:19.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
