@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T12:55:24.955Z",
+  "generatedAt": "2026-11-05T13:55:17.790Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 15,
       "stories": [
         {
           "title": "BLAST Rivals Season 2 talent announced",
@@ -16,32 +16,6 @@
           "why": [
             "announced",
             "blast"
-          ]
-        },
-        {
-          "title": "IEM Beijing 2026 playoff bracket set",
-          "url": "https://www.hltv.org/news/45914/iem-beijing-2026-playoff-bracket-set",
-          "source": "HLTV news",
-          "published": "2026-11-04T13:25:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "navi*",
-            "iem"
-          ]
-        },
-        {
-          "title": "NAVI send Falcons home from IEM Beijing after 12-0 T side on map three",
-          "url": "https://www.hltv.org/news/45911/navi-send-falcons-home-from-iem-beijing-after-12-0-t-side-on-map-three",
-          "source": "HLTV news",
-          "published": "2026-11-04T13:06:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "b1t*",
-            "navi",
-            "iem"
           ]
         },
         {
@@ -67,25 +41,26 @@
           ]
         },
         {
-          "title": "The best highlights from IEM Beijing group stage",
-          "url": "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
-          "source": "HLTV news",
-          "published": "2026-11-04T13:17:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-05T12:20:06.000Z",
+          "title": "1win Team qualified for their first Major and the owner promised every player a Rolls-Royce if they win it",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xoigx6/1win_team_qualified_for_their_first_major_and_the/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-05T13:20:36.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "update"
+            "roster*",
+            "spirit*"
+          ]
+        },
+        {
+          "title": "Team Liquid Genius Ancient Duo Donut CT Setup",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xo8ns8/team_liquid_genius_ancient_duo_donut_ct_setup/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-05T03:41:56.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid"
           ]
         },
         {
@@ -131,10 +106,28 @@
           "why": []
         },
         {
-          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
+          "title": "zonic: \"When we get off to a bad start, it can destroy our entire game\"",
+          "url": "https://www.hltv.org/news/45917/zonic-when-we-get-off-to-a-bad-start-it-can-destroy-our-entire-game",
+          "source": "HLTV news",
+          "published": "2026-11-04T20:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "FISSURE CEO: \"Around half of our CS2 debt has already been paid\"",
+          "url": "https://www.hltv.org/news/45916/fissure-ceo-around-half-of-our-cs2-debt-has-already-been-paid",
+          "source": "HLTV news",
+          "published": "2026-11-04T19:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "FACEIT Is Scrapping Manual Server Picks in CS2, Automatic Server Matching Arrives",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVNvSlcxZ1hnTHFHaFg0ZzJWb2N5VmM4RTRibElHaXZNV1FtcmJPcWhQLWRJQ3BDalYySzNfNHRtX0hLamxRUzg1VkZLdHBSWmJlQnhWSGE2T2NzcVRrZDVfcExCTmVkV00teU0zYnp4UWtSRURhcWhSaF84YW9IVEp1dUliYjRGMzE0?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-04T20:24:38.000Z",
+          "published": "2026-11-04T17:51:11.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -142,18 +135,49 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 11,
+      "scene": "Warcraft III",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Recent allegations against Blitz_DotA by Rosie about events that happened at a LAN",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xocg2v/recent_allegations_against_blitz_dota_by_rosie/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T07:19:30.000Z",
+          "title": "Time Travel and Body swapping reaches W3Champions!",
+          "url": "https://www.reddit.com/r/WC3/comments/1xoi2qw/time_travel_and_body_swapping_reaches_w3champions/",
+          "source": "r/WC3",
+          "published": "2026-11-05T13:02:01.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "retiring*",
+            "happy*",
+            "w3champions"
+          ]
+        },
+        {
+          "title": "3000€ LAN in Sofia this Weekend ft Sok, LawLiet, Knoff & more - Streaming starts 10am CET on Friday",
+          "url": "https://www.reddit.com/r/WC3/comments/1xocb0g/3000_lan_in_sofia_this_weekend_ft_sok_lawliet/",
+          "source": "r/WC3",
+          "published": "2026-11-05T07:10:37.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "allegations"
+            "sok",
+            "lawliet"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 10,
+      "stories": [
+        {
+          "title": "Is anyone here gets banned by using secondary account? Like personal experience.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xoi4b7/is_anyone_here_gets_banned_by_using_secondary/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T13:03:58.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "banned"
           ]
         },
         {
@@ -177,17 +201,6 @@
           "level": null,
           "why": [
             "grand final"
-          ]
-        },
-        {
-          "title": "Somehow won game with min 0 AFK Jungling Centaur",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xogc95/somehow_won_game_with_min_0_afk_jungling_centaur/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T11:30:57.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
           ]
         },
         {
@@ -279,19 +292,41 @@
       ]
     },
     {
-      "scene": "Warcraft III",
-      "storyCount": 1,
+      "scene": "CoD",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "3000€ LAN in Sofia this Weekend ft Sok, LawLiet, Knoff & more - Streaming starts 10am CET on Friday",
-          "url": "https://www.reddit.com/r/WC3/comments/1xocb0g/3000_lan_in_sofia_this_weekend_ft_sok_lawliet/",
-          "source": "r/WC3",
-          "published": "2026-11-05T07:10:37.000Z",
-          "score": 4,
+          "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-05T13:09:06.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "sok",
-            "lawliet"
+            "la thieves"
+          ]
+        },
+        {
+          "title": "Scrap claims everyone is terrified of him and Faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xohsib/scrap_claims_everyone_is_terrified_of_him_and_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T12:48:20.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "faze",
+            "simp*"
+          ]
+        },
+        {
+          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T04:23:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand finals"
           ]
         }
       ]
@@ -331,35 +366,6 @@
           "level": null,
           "why": [
             "hera"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Scrap claims everyone is terrified of him and Faze",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xohsib/scrap_claims_everyone_is_terrified_of_him_and_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T12:48:20.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "faze",
-            "simp*"
-          ]
-        },
-        {
-          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T04:23:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand finals"
           ]
         }
       ]
