@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T16:40:39.551Z",
+  "generatedAt": "2026-11-05T17:40:34.248Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
         {
           "title": "apEX does 3x the damage per HE that donk does",
@@ -277,7 +277,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 3,
+      "storyCount": 1,
       "stories": [
         {
           "title": "How big a deal would it be for you if the devs removed rotting entirely?",
@@ -289,27 +289,22 @@
           "why": [
             "removed"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "Yes we WOLOLO Bears now...",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xodua1/yes_we_wololo_bears_now/",
-          "source": "r/aoe2",
-          "published": "2026-11-05T08:53:03.000Z",
+          "title": "Sonix gets puff’d on | HungryBox",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xoonwc/sonix_gets_puffd_on_hungrybox/",
+          "source": "r/SSBM",
+          "published": "2026-11-05T17:28:17.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "wololo"
-          ]
-        },
-        {
-          "title": "Somehow got a TG with Hera in the enemy team but couldn't play because one of my teammates was afk",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xo89qg/somehow_got_a_tg_with_hera_in_the_enemy_team_but/",
-          "source": "r/aoe2",
-          "published": "2026-11-05T03:22:08.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "hera"
+            "hungrybox"
           ]
         }
       ]
@@ -331,7 +326,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
