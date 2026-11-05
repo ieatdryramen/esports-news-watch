@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-05T00:30:24.583Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Irregular Gameplay FFlag",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xo4nbb/irregular_gameplay_fflag/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "ban*",
+        "vac*",
+        "cancelled*"
+      ],
+      "summary": "i've received 5(?) VACNet related cooldowns so far. 20 hours (x2), 7 days (x2), and a 1 month ban.(ongoing(my chicken is not happy)) i'm okay with waiting out the cooldown, as frustrating it is, but i'm hoping things might get fixed in a way or another. though, my trust factor will be rock bottom still trying to figure out if its something about my gameplay or a background software issue. i've emailed valve at csgoteamfeedback, & contacted support but nothing heard back so far. + its funny seeing everyone doubt the possibility of these recent false flags, more than happy to post additional info, such as demos (though i've yet to figure out where i can find vac cancelled matches for download) submitted by /u/Luca-sama to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-05T00:26:28.000Z"
+    },
+    {
       "alertedAt": "2026-11-04T20:00:27.733Z",
       "level": "possible",
       "scene": "CS2",
