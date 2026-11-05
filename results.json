@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:10:19.984Z",
+  "generatedAt": "2026-11-05T18:40:20.682Z",
   "source": "start.gg",
   "completed": [
     {
@@ -238,7 +238,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Frame 19",
       "event": "Melee Singles",
-      "entrants": 117,
+      "entrants": 116,
       "online": false,
       "major": false,
       "startAt": "2026-11-07T16:00:00.000Z",
