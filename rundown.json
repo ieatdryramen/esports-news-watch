@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T19:35:18.880Z",
+  "generatedAt": "2026-11-05T20:30:30.727Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 9,
       "stories": [
         {
           "title": "apEX does 3x the damage per HE that donk does",
@@ -57,17 +57,6 @@
           ]
         },
         {
-          "title": "Lyncas Set to Join G2 Esports for LEC 2027, Replacing Spring Finals MVP SkewMond",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ya1p6eVpMMzFORmhSVmx3MjNVcERUV1VwOHV3aFo5MjlPTEp4aGVibndyX0RGVklVdkd4MW9ocFpyQmxDT0U0Vk9OVUR5bF9hZFZXbFpiU1ZVWE9VU3NJNTE0NWczLW51STROb29fOVFiWUllXzFLc3VUOFI?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-04T19:46:47.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "g2"
-          ]
-        },
-        {
           "title": "HLTV has announced the Hall of Fame nominees",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xor737/hltv_has_announced_the_hall_of_fame_nominees/",
           "source": "r/GlobalOffensive",
@@ -76,17 +65,6 @@
           "level": null,
           "why": [
             "announced"
-          ]
-        },
-        {
-          "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-05T12:20:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
@@ -128,21 +106,12 @@
             "iem",
             "-fantasy"
           ]
-        },
-        {
-          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
-          "source": "Google News: CS2 (Dot Esports)",
-          "published": "2026-11-05T08:46:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "M80 Boston announces their roster.",
@@ -157,14 +126,14 @@
           ]
         },
         {
-          "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-05T13:34:03.000Z",
-          "score": 3,
+          "title": "Pred on the C9 announcement photo",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xot5zz/pred_on_the_c9_announcement_photo/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T20:20:51.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "la thieves"
+            "pred"
           ]
         },
         {
@@ -188,15 +157,6 @@
           "why": [
             "roster"
           ]
-        },
-        {
-          "title": "Throwback to Scrap crashing out last season because Ben mentioned LAT were late to scrims multiple times",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xokhx9/throwback_to_scrap_crashing_out_last_season/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T14:47:45.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -220,20 +180,35 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 6,
+      "scene": "Street Fighter",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRleWNCZDA4bkJiTVBfdEpwWGstOU8weGVHLTl2NXNIUW9LRE9fam5Oa1ZuZk5qZFRkU1FXZl9yc2lkSS1hZGVhOUVIZjEwa1BpSzZ2R0pFUzN2N2l4cERBX0RTQ1Zqcm00MVNSWk9lVzB0dUN3Vk13cnJkVVdLREc4ZllaOTJ3Nms4?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-05T01:12:43.000Z",
-          "score": 3,
+          "title": "Vxbao qualified for CapcomCup with Arjun, speedrunning grand finals in 7min",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xosrvs/vxbao_qualified_for_capcomcup_with_arjun/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-05T20:05:17.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "grand final"
+            "grand finals"
           ]
         },
+        {
+          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
+          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
+          "source": "Dexerto",
+          "published": "2026-11-05T19:37:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 2,
+      "stories": [
         {
           "title": "Finally. 7.42 tomorrow confirmed.",
           "url": "https://www.reddit.com/r/DotA2/comments/1xopbnj/finally_742_tomorrow_confirmed/",
@@ -247,44 +222,13 @@
           ]
         },
         {
-          "title": "Dota 2 Update for November 5, 2026",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xoryui/dota_2_update_for_november_5_2026/",
+          "title": "Patch today?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xot90d/patch_today/",
           "source": "r/DotA2",
-          "published": "2026-11-05T19:33:26.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
-          "source": "Google News: Dota (Dot Esports)",
-          "published": "2026-11-05T08:46:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 1win Essence III: All teams, schedules, results",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-05T03:31:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - Hk, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdibUczYVVLSlNKRDBqR3F4YjVMdkpsS0FORUF4REVicnlNdXY3ZVBLU3dyYW9TemQxVVlHazZ1TS1yUnM0dmJ5aUN5UmJpQzNydGpGaEd1RVM5VmZNVVdUNVBZNUcxT01OdGY5blN1dnVyOTNsU3RNa242T3RZVUdQQmwyOU9kUXI3YUYtTkVEZmpZYlZrS0R4bFhRWnc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-05T15:52:24.000Z",
+          "published": "2026-11-05T20:24:13.000Z",
           "score": 0,
           "level": null,
-          "why": [
-            "-stream"
-          ]
+          "why": []
         }
       ]
     },
@@ -326,7 +270,6 @@
     "Classic Tetris",
     "Brood War",
     "Trackmania",
-    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
