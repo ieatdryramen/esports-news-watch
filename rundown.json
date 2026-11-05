@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T23:55:17.505Z",
+  "generatedAt": "2026-11-05T00:50:19.348Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 16,
       "stories": [
         {
           "title": "VAC Live False positive when lagging?",
@@ -58,17 +58,6 @@
           ]
         },
         {
-          "title": "I’ve been flagged twice now for irregular gameplay and I do not cheat! As anyone else being having this problem !?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xny4bm/ive_been_flagged_twice_now_for_irregular_gameplay/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T19:56:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cheat"
-          ]
-        },
-        {
           "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -102,17 +91,6 @@
           ]
         },
         {
-          "title": "Spirit are the worst flashers in the CS pro scene according to nades ai",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnvapa/spirit_are_the_worst_flashers_in_the_cs_pro_scene/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-04T18:07:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "spirit"
-          ]
-        },
-        {
           "title": "zorte: \"We just need to focus on how we play as a team\"",
           "url": "https://www.hltv.org/news/45907/zorte-we-just-need-to-focus-on-how-we-play-as-a-team",
           "source": "HLTV news",
@@ -122,6 +100,15 @@
           "why": [
             "revealed*"
           ]
+        },
+        {
+          "title": "Gothic CS2 Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZTY4THdNQVFNbWlhUlFNNTBMenJGNnlkeHVlZjRRLUhjWm1RS01aODdlWnpOS2hMc2FJUXRGRDZSelQ0aHpYeVp6Vl9YdzA?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-04T22:35:18.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "zonic: \"When we get off to a bad start, it can destroy our entire game\"",
@@ -137,6 +124,15 @@
           "url": "https://www.hltv.org/news/45916/fissure-ceo-around-half-of-our-cs2-debt-has-already-been-paid",
           "source": "HLTV news",
           "published": "2026-11-04T19:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "iM: \"On Inferno, we were like four kids in w0nderful's backpack\"",
+          "url": "https://www.hltv.org/news/45915/im-on-inferno-we-were-like-four-kids-in-w0nderfuls-backpack",
+          "source": "HLTV news",
+          "published": "2026-11-04T17:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -217,34 +213,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Cheater? Give me your thoughts.",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xnvf7f/cheater_give_me_your_thoughts/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-04T18:12:22.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
-          "title": "Street Fighter 6 - Official \"Winter Pocket Present\" Fighting Pass Trailer",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzhEOHNCdVNTZng1dktNTWRndl94VjMzQ01KeXQ1ZXIxWUxPN19WX2xyR285cjdaUFpJZ1Vpbzg4bUY5WS10ek5tVTRfV3JfUVpFVUtSd2xuTzlsWmh3b210RjN3QUppN0RlS3p5cU5rN3ZNc2hueVFyWVJscjkxa0VxN2R2dnZfSEd3QXBhZk5yQ1l3aTkyUjR1WXo?oc=5",
-          "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-04T11:30:55.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "official"
-          ]
         }
       ]
     },
@@ -338,6 +306,15 @@
           ]
         },
         {
+          "title": "OpTic vs Falcons Scrim Results!📝5-3 OpTic",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo49ou/optic_vs_falcons_scrim_results53_optic/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T00:09:10.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "One of the teams in Hitch's 15k Snd creator tournament tomorrow 3 CST. Crimsix Aches Zoomaa Kaysan.",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnyanr/one_of_the_teams_in_hitchs_15k_snd_creator/",
           "source": "r/CoDCompetitive",
@@ -345,15 +322,23 @@
           "score": 0,
           "level": null,
           "why": []
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "Challengers Showcase Playoffs Bracket",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnvt6f/challengers_showcase_playoffs_bracket/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-04T18:26:57.000Z",
-          "score": 0,
+          "title": "Street Fighter 6 - Official \"Winter Pocket Present\" Fighting Pass Trailer",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzhEOHNCdVNTZng1dktNTWRndl94VjMzQ01KeXQ1ZXIxWUxPN19WX2xyR285cjdaUFpJZ1Vpbzg4bUY5WS10ek5tVTRfV3JfUVpFVUtSd2xuTzlsWmh3b210RjN3QUppN0RlS3p5cU5rN3ZNc2hueVFyWVJscjkxa0VxN2R2dnZfSEd3QXBhZk5yQ1l3aTkyUjR1WXo?oc=5",
+          "source": "Google News: Street Fighter (IGN)",
+          "published": "2026-11-04T11:30:55.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "official"
+          ]
         }
       ]
     },
