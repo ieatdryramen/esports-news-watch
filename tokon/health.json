@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:10:36.236Z",
+  "generatedAt": "2026-11-05T20:10:37.584Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -14,7 +14,7 @@
       "ok": true,
       "skipped": false,
       "items": 50,
-      "newest": "2026-11-05T18:30:18.000Z",
+      "newest": "2026-11-05T19:37:27.000Z",
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-05T16:25:50.000Z",
+      "newest": "2026-11-05T19:26:00.000Z",
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-05T19:07:48.000Z",
+      "newest": "2026-11-05T19:59:05.000Z",
       "error": null
     },
     {
@@ -77,15 +77,15 @@
       "name": "Google News: Tokon competitive",
       "ok": true,
       "skipped": false,
-      "items": 1,
-      "newest": "2026-11-04T19:30:14.000Z",
+      "items": 0,
+      "newest": null,
       "error": null
     },
     {
       "name": "Google News: Tokon patches + DLC",
       "ok": true,
       "skipped": false,
-      "items": 8,
+      "items": 7,
       "newest": "2026-11-05T18:29:04.000Z",
       "error": null
     },
@@ -93,7 +93,7 @@
       "name": "Google News: EventHubs/Dot/Dashfight",
       "ok": true,
       "skipped": false,
-      "items": 2,
+      "items": 1,
       "newest": "2026-11-04T22:08:37.000Z",
       "error": null
     },
