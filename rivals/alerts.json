@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-05T13:40:54.342Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Update 20261105 Patch Notes",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iMkxqYkZQaU9zVVBEeHNTVTJFTlIwVW45QzlFckxoQ2RBekFjZnhKcmpTcHdPbjlNd3B1Q1hqb045Vnl0ZHM4ZEhINDFJcWc2cmlGWHBBajRtTklGemc0UjQ2bjF5Z25uajhXSENReUNnZ25pa3c?oc=5",
+      "source": "Google News: Rivals patches (TwistedVoxel)",
+      "outlets": [
+        "IGN",
+        "TwistedVoxel"
+      ],
+      "score": 5,
+      "why": [
+        "update",
+        "patch notes"
+      ],
+      "summary": "",
+      "published": "2026-11-05T13:34:49.000Z"
+    },
+    {
       "alertedAt": "2026-11-05T11:50:25.709Z",
       "level": "possible",
       "scene": "Marvel Rivals",

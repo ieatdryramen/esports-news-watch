@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-05T12:40:28.880Z",
+  "generatedAt": "2026-11-05T13:40:54.629Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
-          "title": "Marvel Rivals Version 20261105 Patch Notes",
-          "url": "https://store.steampowered.com/news/app/2767030/view/703284306606293040",
-          "source": "Steam: Marvel Rivals (official news + patch notes)",
-          "published": "2026-11-05T09:07:02.000Z",
-          "score": 4.5,
-          "level": null,
+          "title": "Marvel Rivals Update 20261105 Patch Notes",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iMkxqYkZQaU9zVVBEeHNTVTJFTlIwVW45QzlFckxoQ2RBekFjZnhKcmpTcHdPbjlNd3B1Q1hqb045Vnl0ZHM4ZEhINDFJcWc2cmlGWHBBajRtTklGemc0UjQ2bjF5Z25uajhXSENReUNnZ25pa3c?oc=5",
+          "source": "Google News: Rivals patches (TwistedVoxel)",
+          "published": "2026-11-05T13:34:49.000Z",
+          "score": 5,
+          "level": "possible",
           "why": [
-            "official*",
+            "update",
             "patch notes"
           ]
         },
@@ -84,15 +84,6 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckVPdFg4OWJoTWhoQzZIRTRJVUJMdjZyaDExUVdXUVA5dHpySDVSdkxCaXRBYUp2QWhwMjFRUE55bmowVnRPbXpZVkpmMDdvQ2Q4Q040RlA4Q0FiS21xdjJtbGlXVkFRaFVZWlhJbFV3aDZBTEpkTS1JWkxrZTR3bnlFZE1EdVJ0Q0VEZWhn?oc=5",
           "source": "Google News: Rivals esports (TalkEsport)",
           "published": "2026-11-04T18:43:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals ranks in order: Ranked system explained",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncml0NFFXd2FzSm5sR01mQ21ScnZULW9lb1BMNVE0elpYak15RHh1Uk1jX1Q2eGdyR1hRUU15VDBqRTcxZmFrc1ZYV3lMMThueEV6YldSTHRFYnRnZlB4NFJEem0?oc=5",
-          "source": "Google News: Rivals patches (FRVR)",
-          "published": "2026-11-04T12:58:34.000Z",
           "score": 1,
           "level": null,
           "why": []
