@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-05T03:40:29.342Z",
+  "generatedAt": "2026-11-05T04:40:28.140Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-05T02:26:31.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "season",
+            "mrc"
+          ]
+        },
         {
           "title": "Marvel Rivals November 5 Patch Notes: New Skins, Hero Fixes, and More",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMXJiV09lVnJvZ2Uzc1FBR0djWTF5R1pSTDlmczd2eGxxMWpNWmRBNXRlU3RyQ0lfTmZpM1pSZXc0YUJjSE5nYmdwc05tN09ONnY4NFhPaWRMMzFJUzduSDlVNUczSjg?oc=5",
