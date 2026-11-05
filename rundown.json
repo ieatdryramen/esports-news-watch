@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T10:30:22.885Z",
+  "generatedAt": "2026-11-05T11:30:25.940Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -46,6 +46,18 @@
           ]
         },
         {
+          "title": "BLAST Rivals Hong Kong 2026 Talent Announced",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xog7nl/blast_rivals_hong_kong_2026_talent_announced/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-05T11:23:37.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "announced",
+            "blast"
+          ]
+        },
+        {
           "title": "Lyncas Set to Join G2 Esports for LEC 2027, Replacing Spring Finals MVP SkewMond",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ya1p6eVpMMzFORmhSVmx3MjNVcERUV1VwOHV3aFo5MjlPTEp4aGVibndyX0RGVklVdkd4MW9ocFpyQmxDT0U0Vk9OVUR5bF9hZFZXbFpiU1ZVWE9VU3NJNTE0NWczLW51STROb29fOVFiWUllXzFLc3VUOFI?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -76,18 +88,6 @@
           "level": null,
           "why": [
             "iem"
-          ]
-        },
-        {
-          "title": "Counter-Strike 2 Update for 11/05/2026",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xo594v/counterstrike_2_update_for_11052026/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-05T00:54:29.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "update",
-            "removed*"
           ]
         },
         {
@@ -145,17 +145,6 @@
       "scene": "Dota",
       "storyCount": 10,
       "stories": [
-        {
-          "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckN1Qk1zd1M2cW82U1FVY0VTMlBocDhSc0FHeGl6aVNiMUs5TnZPek5kT09TRGdlOHBTQlBfZlZ2UW95WDFDakdZckFPTjU1VWt1alAzeXYwNTNmSDQ5Q0djYk5xbk1CMGZRNE91bmtrbkR5S1pwempzSkxJY2ZoYXNXajB1czFSWEx4NnZaQ3luUQ?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-04T10:52:17.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "benched"
-          ]
-        },
         {
           "title": "Recent allegations against Blitz_DotA by Rosie about events that happened at a LAN",
           "url": "https://www.reddit.com/r/DotA2/comments/1xocg2v/recent_allegations_against_blitz_dota_by_rosie/",
@@ -226,6 +215,15 @@
           "url": "https://esports.gg/news/dota-2/1win-essence-iii-dota-2-teams-schedule-results-standings/",
           "source": "esports.gg",
           "published": "2026-11-05T03:31:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-04T20:24:38.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -316,34 +314,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Fizzi's spiritual successor to Melee is released, what happens?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xod11f/fizzis_spiritual_successor_to_melee_is_released/",
-          "source": "r/SSBM",
-          "published": "2026-11-05T07:58:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        },
-        {
-          "title": "zain reads a positive chatters comment",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xo5ukx/zain_reads_a_positive_chatters_comment/",
-          "source": "r/SSBM",
-          "published": "2026-11-05T01:22:33.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -356,6 +326,23 @@
           "level": null,
           "why": [
             "official"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Fizzi's spiritual successor to Melee is released, what happens?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xod11f/fizzis_spiritual_successor_to_melee_is_released/",
+          "source": "r/SSBM",
+          "published": "2026-11-05T07:58:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
           ]
         }
       ]
