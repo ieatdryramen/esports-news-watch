@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T09:30:24.113Z",
+  "generatedAt": "2026-11-05T10:30:22.885Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 19,
       "stories": [
         {
           "title": "IEM Beijing 2026 playoff bracket set",
@@ -79,17 +79,6 @@
           ]
         },
         {
-          "title": "BETBOOM edge past Liquid to reach playoffs",
-          "url": "https://www.hltv.org/news/45910/betboom-edge-past-liquid-to-reach-playoffs",
-          "source": "HLTV news",
-          "published": "2026-11-04T10:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "liquid"
-          ]
-        },
-        {
           "title": "Counter-Strike 2 Update for 11/05/2026",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xo594v/counterstrike_2_update_for_11052026/",
           "source": "r/GlobalOffensive",
@@ -140,13 +129,33 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-04T20:24:38.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
+        {
+          "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckN1Qk1zd1M2cW82U1FVY0VTMlBocDhSc0FHeGl6aVNiMUs5TnZPek5kT09TRGdlOHBTQlBfZlZ2UW95WDFDakdZckFPTjU1VWt1alAzeXYwNTNmSDQ5Q0djYk5xbk1CMGZRNE91bmtrbkR5S1pwempzSkxJY2ZoYXNXajB1czFSWEx4NnZaQ3luUQ?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-04T10:52:17.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "benched"
+          ]
+        },
         {
           "title": "Recent allegations against Blitz_DotA by Rosie about events that happened at a LAN",
           "url": "https://www.reddit.com/r/DotA2/comments/1xocg2v/recent_allegations_against_blitz_dota_by_rosie/",
@@ -279,6 +288,34 @@
       ]
     },
     {
+      "scene": "AoE2",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Yes we WOLOLO Bears now...",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xodua1/yes_we_wololo_bears_now/",
+          "source": "r/aoe2",
+          "published": "2026-11-05T08:53:03.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "wololo"
+          ]
+        },
+        {
+          "title": "Somehow got a TG with Hera in the enemy team but couldn't play because one of my teammates was afk",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xo89qg/somehow_got_a_tg_with_hera_in_the_enemy_team_but/",
+          "source": "r/aoe2",
+          "published": "2026-11-05T03:22:08.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "hera"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 2,
       "stories": [
@@ -307,32 +344,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T04:23:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand finals"
-          ]
-        },
-        {
-          "title": "OpTic vs Falcons Scrim Results!📝5-3 OpTic",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo49ou/optic_vs_falcons_scrim_results53_optic/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T00:09:10.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -348,10 +359,26 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T04:23:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand finals"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
