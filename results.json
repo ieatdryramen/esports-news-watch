@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-05T04:40:17.131Z",
+  "generatedAt": "2026-11-05T05:10:22.253Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1749435",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Run The Se.T! #130",
+      "event": "Street Fighter III: 3rd Strike",
+      "entrants": 23,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-05T01:00:00.000Z",
+      "endAt": "2026-11-05T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/run-the-se-t-130/event/street-fighter-iii-3rd-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "3SO | Sunny"
+        },
+        {
+          "placement": 2,
+          "name": "4077 | SkipperNLW"
+        },
+        {
+          "placement": 3,
+          "name": "BL | | Dagger_G"
+        },
+        {
+          "placement": 4,
+          "name": "Wifikai | EnV"
+        },
+        {
+          "placement": 5,
+          "name": "Nero"
+        },
+        {
+          "placement": 5,
+          "name": "ABARI | Bash Mac"
+        },
+        {
+          "placement": 7,
+          "name": "Good Fighters | Stressedin"
+        },
+        {
+          "placement": 7,
+          "name": "Devilmaycats | MrPomegranX"
+        }
+      ]
+    },
     {
       "eventId": "1743857",
       "scene": "tekken",
@@ -97,7 +144,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1744880",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TNS Street Fighter 6 #171",
+      "event": "Street Fighter 6",
+      "entrants": 148,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-05T01:00:00.000Z",
+      "endAt": "2026-11-05T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-street-fighter-6-171/event/street-fighter-6"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1611249",
