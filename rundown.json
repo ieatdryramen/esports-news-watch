@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T00:50:19.348Z",
+  "generatedAt": "2026-11-05T01:50:19.053Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 17,
       "stories": [
         {
           "title": "VAC Live False positive when lagging?",
@@ -91,6 +91,18 @@
           ]
         },
         {
+          "title": "Counter-Strike 2 Update for 11/05/2026",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xo594v/counterstrike_2_update_for_11052026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-05T00:54:29.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "update",
+            "removed*"
+          ]
+        },
+        {
           "title": "zorte: \"We just need to focus on how we play as a team\"",
           "url": "https://www.hltv.org/news/45907/zorte-we-just-need-to-focus-on-how-we-play-as-a-team",
           "source": "HLTV news",
@@ -127,21 +139,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "iM: \"On Inferno, we were like four kids in w0nderful's backpack\"",
-          "url": "https://www.hltv.org/news/45915/im-on-inferno-we-were-like-four-kids-in-w0nderfuls-backpack",
-          "source": "HLTV news",
-          "published": "2026-11-04T17:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -166,6 +169,17 @@
           ]
         },
         {
+          "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
+          "url": "https://esports.gg/news/dota-2/dota-2-epl-masters-iii-gamerlegion-yellow-submarine/",
+          "source": "esports.gg",
+          "published": "2026-11-05T01:12:43.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand final"
+          ]
+        },
+        {
           "title": "Yatoro effect is insane",
           "url": "https://www.reddit.com/r/DotA2/comments/1xnx3xb/yatoro_effect_is_insane/",
           "source": "r/DotA2",
@@ -182,6 +196,15 @@
           "source": "Google News: Dota (TalkEsport)",
           "published": "2026-11-04T20:24:38.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "So, it's Wednesday night and no patch!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xo5z37/so_its_wednesday_night_and_no_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T01:28:55.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -218,7 +241,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -230,24 +253,12 @@
           "why": [
             "wins"
           ]
-        },
-        {
-          "title": "What's he making? Harada says he only has time to make \"one more game\" so he wanted \"to try something new\" ...",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xnwn27/whats_he_making_harada_says_he_only_has_time_to/",
-          "source": "r/Tekken",
-          "published": "2026-11-04T18:59:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "won*",
-            "harada"
-          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 7,
+      "storyCount": 5,
       "stories": [
         {
           "title": "LAT official roster for 2026-27",
@@ -284,28 +295,6 @@
           ]
         },
         {
-          "title": "Miami Heretics 2027 CDL Tierlist",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnww51/miami_heretics_2027_cdl_tierlist/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-04T19:08:42.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "miami heretics"
-          ]
-        },
-        {
-          "title": "First Pred C9 tweet - streaming scrims with new squad",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xnwofx/first_pred_c9_tweet_streaming_scrims_with_new/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-04T19:00:35.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pred"
-          ]
-        },
-        {
           "title": "OpTic vs Falcons Scrim Results!📝5-3 OpTic",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo49ou/optic_vs_falcons_scrim_results53_optic/",
           "source": "r/CoDCompetitive",
@@ -326,6 +315,34 @@
       ]
     },
     {
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "zain reads a positive chatters comment",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xo5ukx/zain_reads_a_positive_chatters_comment/",
+          "source": "r/SSBM",
+          "published": "2026-11-05T01:22:33.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
+          ]
+        },
+        {
+          "title": "[DarkGenex] Smash Summit Was Rigged",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xnx0lg/darkgenex_smash_summit_was_rigged/",
+          "source": "r/SSBM",
+          "published": "2026-11-04T19:13:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "smash summit"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -338,23 +355,6 @@
           "level": null,
           "why": [
             "official"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "[DarkGenex] Smash Summit Was Rigged",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xnx0lg/darkgenex_smash_summit_was_rigged/",
-          "source": "r/SSBM",
-          "published": "2026-11-04T19:13:28.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "smash summit"
           ]
         }
       ]
