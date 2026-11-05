@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-05T13:55:17.790Z",
+  "generatedAt": "2026-11-05T14:50:18.960Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 15,
       "stories": [
+        {
+          "title": "Got a 31-day VAC restriction for no reason, missed my tournament, and support completely ignored me",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xojig4/got_a_31day_vac_restriction_for_no_reason_missed/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-05T14:06:52.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "ban*",
+            "vac",
+            "history*"
+          ]
+        },
         {
           "title": "BLAST Rivals Season 2 talent announced",
           "url": "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
@@ -53,17 +66,6 @@
           ]
         },
         {
-          "title": "Team Liquid Genius Ancient Duo Donut CT Setup",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xo8ns8/team_liquid_genius_ancient_duo_donut_ct_setup/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-05T03:41:56.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "liquid"
-          ]
-        },
-        {
           "title": "zorte: \"We just need to focus on how we play as a team\"",
           "url": "https://www.hltv.org/news/45907/zorte-we-just-need-to-focus-on-how-we-play-as-a-team",
           "source": "HLTV news",
@@ -106,6 +108,15 @@
           "why": []
         },
         {
+          "title": "FISSURE CEO Admits It Still Owes CS2 and Dota 2 Prize Money, Eyes Q1 2027 for Next Big Payout",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRUGdhbkVCY05pc3JZdFlQaWpaS0FlaXJRbnpSM1oxS3ZqTE1IYllEamdHSGpxSW1jOHZYWHp6M1ZwbDVEcWs5TDlVQkRueWZfamNUVUk2NGpHN1J3MDBndzJxeXo0WHBmNzJjZXlKdG5jdzlqVkgwdmN5b0V6UQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-04T20:24:38.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "zonic: \"When we get off to a bad start, it can destroy our entire game\"",
           "url": "https://www.hltv.org/news/45917/zonic-when-we-get-off-to-a-bad-start-it-can-destroy-our-entire-game",
           "source": "HLTV news",
@@ -119,15 +130,6 @@
           "url": "https://www.hltv.org/news/45916/fissure-ceo-around-half-of-our-cs2-debt-has-already-been-paid",
           "source": "HLTV news",
           "published": "2026-11-04T19:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "FACEIT Is Scrapping Manual Server Picks in CS2, Automatic Server Matching Arrives",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVNvSlcxZ1hnTHFHaFg0ZzJWb2N5VmM4RTRibElHaXZNV1FtcmJPcWhQLWRJQ3BDalYySzNfNHRtX0hLamxRUzg1VkZLdHBSWmJlQnhWSGE2T2NzcVRrZDVfcExCTmVkV00teU0zYnp4UWtSRURhcWhSaF84YW9IVEp1dUliYjRGMzE0?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-04T17:51:11.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -265,7 +267,7 @@
           "title": "XE - oveA, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMENoeGtXMU9RcDl2WW9OcEp3dVpfa0R1MXZqSnAzSE0zc3liTmoxamZYdnROaDg1RDcwdzUxaTdiQWJMRUVFNldPUXMyNlF2WmtQX2pLUHBkazBnSDlsQ29sRmhnUWZpU1d6NDhBX2JpczZJMVY5Y2JMbENaa3M5R29tOUpMb0xHR21HR1F0Z2lJbFE0NnVxYnNVZWw?oc=5",
           "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-04T21:23:11.000Z",
+          "published": "2026-11-04T21:19:10.000Z",
           "score": 0,
           "level": null,
           "why": [
@@ -319,15 +321,13 @@
           ]
         },
         {
-          "title": "Challengers Showcase Grand Finals Stats - Huntsmen 4-2 OMiT Brooklyn",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xo9gve/challengers_showcase_grand_finals_stats_huntsmen/",
+          "title": "Throwback to Scrap crashing out last season because Ben mentioned LAT were late to scrims multiple times",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xokhx9/throwback_to_scrap_crashing_out_last_season/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-05T04:23:39.000Z",
-          "score": 2,
+          "published": "2026-11-05T14:47:45.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "grand finals"
-          ]
+          "why": []
         }
       ]
     },
