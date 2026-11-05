@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-05T14:10:19.888Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Got a 31-day VAC restriction for no reason, missed my tournament, and support completely ignored me",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xojig4/got_a_31day_vac_restriction_for_no_reason_missed/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "ban*",
+        "vac",
+        "history*"
+      ],
+      "summary": "I need to vent because I’m completely heartbroken and just want to quit CS2 for good. Here is the full story. First, I got a 20-hour cooldown by accident because of people who were purposely standing in a line/griefing. Then, I was playing with a friend. I didn't have any crazy stats or a suspiciously good game, but he suddenly got hit with a VAC error (the \"unexpected error\" one). The worst part? Because of his VAC issue, I got slapped with a 31-day restriction. I had a tournament scheduled, and I missed it because of this. I tried everything. I reached out to every community I could, contacted Steam Support, and sent them all my CS stats, my match history, and the exact match ID where this happened. And you know what the craziest part is? In the very last match we played before the ban, we were actually playing against cheaters using wallhacks. I still have the demo saved. It’s just so frustrating. I understand that VAC has its issues, but why couldn't they just make VAC-Net available so I could play on Faceit or take some other measures? Instead, I waited for a response for a long time and got zero help. Right now, my mood is completely ruined. I have zero desire to ever play CS2 again and I’m probably just going to uninstall it. Has anyone else dealt with this absolute nonsense? submitted by /u/Availablegk to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-05T14:06:52.000Z"
+    },
+    {
       "alertedAt": "2026-11-05T13:05:20.140Z",
       "level": "possible",
       "scene": "Warcraft III",
