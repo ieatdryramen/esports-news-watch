@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T21:30:22.371Z",
+  "generatedAt": "2026-11-05T22:00:27.947Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "G2 Esports Parts Ways With Head Coach Perkz Following Controversial Statements",
@@ -19,20 +19,6 @@
           ]
         },
         {
-          "title": "apEX does 3x the damage per HE that donk does",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xomcad/apex_does_3x_the_damage_per_he_that_donk_does/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-05T16:00:13.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "donk",
-            "navi*",
-            "vitality*"
-          ]
-        },
-        {
           "title": "BLAST Rivals Season 2 talent announced",
           "url": "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
           "source": "HLTV news",
@@ -42,18 +28,6 @@
           "why": [
             "announced",
             "blast"
-          ]
-        },
-        {
-          "title": "Would Valve allow G2 to make a roster change before the major? -r1nkle +mo0N",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xolnnj/would_valve_allow_g2_to_make_a_roster_change/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-05T15:32:48.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "roster",
-            "g2"
           ]
         },
         {
@@ -136,12 +110,34 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "w0nderful and b1t surge in popularity for IEM Beijing Playoffs Fantasy",
+          "url": "https://www.hltv.org/news/45919/w0nderful-and-b1t-surge-in-popularity-for-iem-beijing-playoffs-fantasy",
+          "source": "HLTV news",
+          "published": "2026-11-05T12:34:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "b1t",
+            "iem",
+            "-fantasy"
+          ]
+        },
+        {
+          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
+          "source": "Google News: CS2 (Dot Esports)",
+          "published": "2026-11-05T08:46:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "M80 Boston announces their roster.",
@@ -164,6 +160,17 @@
           "level": null,
           "why": [
             "la thieves"
+          ]
+        },
+        {
+          "title": "What happened to Scump?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xouwsc/what_happened_to_scump/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-05T21:30:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "scump"
           ]
         },
         {
