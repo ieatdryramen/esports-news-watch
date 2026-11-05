@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:35:19.115Z",
+  "generatedAt": "2026-11-05T07:30:24.079Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -146,7 +146,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "BetBoom's Benched Dota 2 Players Form DO KONCA",
@@ -157,6 +157,17 @@
           "level": "possible",
           "why": [
             "benched"
+          ]
+        },
+        {
+          "title": "Recent allegations against Blitz_DotA by Rosie about events that happened at a LAN",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xocg2v/recent_allegations_against_blitz_dota_by_rosie/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T07:19:30.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "allegations"
           ]
         },
         {
@@ -250,6 +261,24 @@
       ]
     },
     {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "3000€ LAN in Sofia this Weekend ft Sok, LawLiet, Knoff & more - Streaming starts 10am CET on Friday",
+          "url": "https://www.reddit.com/r/WC3/comments/1xocb0g/3000_lan_in_sofia_this_weekend_ft_sok_lawliet/",
+          "source": "r/WC3",
+          "published": "2026-11-05T07:10:37.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "sok",
+            "lawliet"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 3,
       "stories": [
@@ -319,31 +348,13 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "This clip is for Daut ! Yes you can kill deers in dark age with scout, how ? I don't know !!!",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xnkyqo/this_clip_is_for_daut_yes_you_can_kill_deers_in/",
-          "source": "r/aoe2",
-          "published": "2026-11-04T10:35:52.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "daut",
-            "-clip"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
+    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
-    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
