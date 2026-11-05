@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:10:21.547Z",
+  "generatedAt": "2026-11-05T09:40:20.837Z",
   "source": "start.gg",
   "completed": [
     {
@@ -251,7 +251,7 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "GatorLAN Fall 2026",
       "event": "Street Fighter III: 3rd Strike ($50 pot+$50 if >=32 entrants)",
-      "entrants": 17,
+      "entrants": 18,
       "online": false,
       "major": false,
       "startAt": "2026-11-07T16:30:00.000Z",
