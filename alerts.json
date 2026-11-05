@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-05T11:50:19.845Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "BLAST Rivals Season 2 talent announced",
+      "url": "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
+      "source": "HLTV news",
+      "outlets": [
+        "Reddit",
+        "HLTV news"
+      ],
+      "score": 5,
+      "why": [
+        "announced",
+        "blast"
+      ],
+      "summary": "A ten-person crew will bring the show live from Hong Kong.",
+      "published": "2026-11-05T11:48:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-05T00:30:24.583Z",
       "level": "possible",
       "scene": "CS2",
