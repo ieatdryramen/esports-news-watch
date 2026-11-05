@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-05T16:00:30.819Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "apEX does 3x the damage per HE that donk does",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xomcad/apex_does_3x_the_damage_per_he_that_donk_does/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "the last*",
+        "donk",
+        "navi*",
+        "vitality*"
+      ],
+      "summary": "every HE thrown in the last 3 months. players on the top 10 teams with 20+ maps, median across all 250 ranked pros is 8.1 crazy that vitality have 2 in the top 5 and navi have 3 in the bottom 5 not a skill rating, some guys throw a lot of HEs just to break smokes full board: https://nades.ai/leaderboards/he-damage submitted by /u/sl1ha to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-05T16:00:13.000Z"
+    },
+    {
       "alertedAt": "2026-11-05T14:10:19.888Z",
       "level": "possible",
       "scene": "CS2",
