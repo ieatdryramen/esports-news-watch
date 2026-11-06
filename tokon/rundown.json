@@ -1,8 +1,33 @@
 {
-  "generatedAt": "2026-11-06T00:05:52.729Z",
+  "generatedAt": "2026-11-06T01:05:19.271Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Phoenix Cyclops, patch notes now available for Marvel Tokon: Fighting Souls",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1pOQzJtN2VIZWtYZnlVRG5TY1Y5aHc0akQ4WFUwSVpkQmNKSllkOWMwUlFmNVlaZ2lwaWtUa3M2Q0xMWGw2Z19LbWdjT2lhbGFKWlRMNzNmSlJXaHE3Wmw1d1NoRHhjRjhwN2xwOXZJTWY2ZlVzSXJreWNBWGxxMG1IOGRTemc1QkQ4YjVnLXRPMW9SWUpoVkRoZ3RuLTdmZzYwSlB4TTZOMVBvN3pYVVpaNTlndw?oc=5",
+          "source": "Google News: Tokon (Gaming Nexus)",
+          "published": "2026-11-05T18:27:39.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "patch notes"
+          ]
+        },
+        {
+          "title": "Marvel Tokon - Phoenix Cyclops Combos",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kZE9SeklSZEwyQUlfbDhmR2RSMFlFX0UycFRSVHFiQ3JfeXppYmc4Z3cwcENVX28wcDh3X18wVzNrUHMwSHdwOW1DWFFqWmVrMklBcG9VYXdDTVVi?oc=5",
+          "source": "Google News: Tokon (YouTube)",
+          "published": "2026-11-05T01:08:19.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }

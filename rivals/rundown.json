@@ -1,21 +1,56 @@
 {
-  "generatedAt": "2026-11-06T00:05:43.117Z",
+  "generatedAt": "2026-11-06T01:05:18.452Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 7,
       "stories": [
         {
-          "title": "Marvel Rivals Version 20261105 Patch Notes",
-          "url": "https://store.steampowered.com/news/app/2767030/view/703284306606293040",
-          "source": "Steam: Marvel Rivals (official news + patch notes)",
-          "published": "2026-11-05T09:07:02.000Z",
-          "score": 4.5,
+          "title": "Marvel Rivals Season 11 Release Date, Start Times & New Heroes",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUZyTUVMU3BxSlNQazdnUHFSMldfT3o0Q0FacENuakYycThvZDhpeWFvdmpja1pIZ3IycUdMT3gtNGJHVzdGVGp6cnFoV3c4N182MDR2aVp4bmdkcnFGR0lFcUZLOTVWM0dYUUFjbmxPcEpDNGdSd0M1WHpEZmtCWWNCTnZ2Mmw1Rk0wTFBaY3E?oc=5",
+          "source": "Google News: Rivals patches (Insider Gaming)",
+          "published": "2026-11-05T17:08:14.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "new heroes",
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Update 20261105 Patch Notes",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iMkxqYkZQaU9zVVBEeHNTVTJFTlIwVW45QzlFckxoQ2RBekFjZnhKcmpTcHdPbjlNd3B1Q1hqb045Vnl0ZHM4ZEhINDFJcWc2cmlGWHBBajRtTklGemc0UjQ2bjF5Z25uajhXSENReUNnZ25pa3c?oc=5",
+          "source": "Google News: Rivals patches (TwistedVoxel)",
+          "published": "2026-11-05T13:34:49.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "update",
+            "patch notes"
+          ]
+        },
+        {
+          "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-05T06:41:03.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "official*",
-            "patch notes"
+            "season",
+            "mrc"
+          ]
+        },
+        {
+          "title": "How to ACTUALLY Play COVER | Marvel Rivals Season 10.5",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UQ004VGJmQzViMkpvNWZpdGhxZ09FUGlkX0VWMjNVajVNS0JrTlZZblVuaTBKZVRXcGQtTFZMZ1dnUQ?oc=5",
+          "source": "Google News: Rivals patches (YouTube)",
+          "published": "2026-11-05T13:22:47.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
           ]
         },
         {
@@ -28,6 +63,15 @@
           "why": [
             "announced*"
           ]
+        },
+        {
+          "title": "Marvel Rivals Intervarsity Gauntlet 2026",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NSkJDSVFWM21UX016TUxFUi1yYWZMNS1fTi1oYVI5ZjZfV3dmdlZZV0RiNXBaM3V5X1l6Z0g3SERPUEZrWUU1Qmd3blVMWFBVRjZHQTR6VU9mTF9kaWFSX3lLNkVaa2dU?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-05T10:11:46.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Art Vision Vol. 07 // Behind The Scenes (Part 3): Dedication and Passion",
