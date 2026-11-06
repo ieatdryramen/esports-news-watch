@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-06T07:00:23.654Z",
+  "generatedAt": "2026-11-06T08:00:26.596Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
+        {
+          "title": "G2 Esports Parts Ways With Head Coach Perkz Following Controversial Statements",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekRGOXRMRThpdWYwYVBGTXNKYUd3S19jLW5JZDVySzBHd3ZCckZ1WGFMODJKZDNSRlN5aFlOOXNMeURpTndkb2lVNGpMMVdvU3g1UzdaM2xYVF9nVGJpXzdvdXRUd3NicWFKaTVES3loYUgzVzgzYWRKTERJTWg4MQ?oc=5",
+          "source": "Google News: CS2 (Hotspawn)",
+          "published": "2026-11-05T15:43:09.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "parts ways",
+            "g2"
+          ]
+        },
         {
           "title": "The Singapore Major is coming , so here are some fun fact:Navi (Born To Win) and Vitality are the only two organization that have won a major without dropping a map",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp64ui/the_singapore_major_is_coming_so_here_are_some/",
@@ -29,6 +41,17 @@
           "why": [
             "announced",
             "blast"
+          ]
+        },
+        {
+          "title": "Monte Signs Rocketbet as CS2 Title Partner a Day After CCT Europe Win",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdENlNnJnMkZuc0ljcHlsdFZodGVrRnRvU2E1WEdlUFNnN2VhdDluZ3ljNmFKU2pSb1gyb21MSWcyUnNQRllESUc3Zk9nWGdLZWpGcFpOanh1dzZzWFhDM0xieVJTWUpHVHdSeHBXRGlCY1ZYNVdzVFhUUUVLN2hmN0RDek13dE5MbTBEaGtZVE5MVjlNWGxvdkZCTDh4ai1ycjlrRzNLUE8?oc=5",
+          "source": "Google News: CS2 (Shane the Gamer)",
+          "published": "2026-11-05T16:15:59.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "signs"
           ]
         },
         {
@@ -113,34 +136,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Falcons put academy team on hold",
-          "url": "https://www.hltv.org/news/45921/falcons-put-academy-team-on-hold",
-          "source": "HLTV news",
-          "published": "2026-11-05T14:49:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "w0nderful and b1t surge in popularity for IEM Beijing Playoffs Fantasy",
-          "url": "https://www.hltv.org/news/45919/w0nderful-and-b1t-surge-in-popularity-for-iem-beijing-playoffs-fantasy",
-          "source": "HLTV news",
-          "published": "2026-11-05T12:34:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "b1t",
-            "iem",
-            "-fantasy"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Unofficial World Record Hero Healing",
@@ -152,18 +153,6 @@
           "why": [
             "world record",
             "record"
-          ]
-        },
-        {
-          "title": "Why the duck is dota crashing after you accept the match i have 1 year ban now",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp2pj6/why_the_duck_is_dota_crashing_after_you_accept/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T03:31:05.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "ban"
           ]
         },
         {
@@ -188,6 +177,17 @@
           "why": [
             "comeback",
             "won*"
+          ]
+        },
+        {
+          "title": "Why the duck is dota crashing after you accept the match i have 1 year ban now",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp2pj6/why_the_duck_is_dota_crashing_after_you_accept/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T03:31:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ban"
           ]
         },
         {
@@ -236,18 +236,6 @@
           ]
         },
         {
-          "title": "Don’t blame the players for being so passionate about a “video game update”",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xowhlw/dont_blame_the_players_for_being_so_passionate/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T22:36:10.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update",
-            "return*"
-          ]
-        },
-        {
           "title": "All Dota 2 BLAST Slam Winners – Full List",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
           "source": "Google News: Dota (Hotspawn)",
@@ -275,41 +263,12 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Ravens announced their contractually obligated roster if anyone still gives a shit",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp3hag/ravens_announced_their_contractually_obligated/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T04:12:18.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "roster",
-            "announced"
-          ]
         },
         {
-          "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-05T13:34:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "la thieves"
-          ]
-        },
-        {
-          "title": "Zoomaa's Team is CRASHING OUT during the 15K SnD Tournament",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xowv9o/zoomaas_team_is_crashing_out_during_the_15k_snd/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T22:53:07.000Z",
+          "title": "Where patch Valve?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp0gyx/where_patch_valve/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T01:39:45.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -339,6 +298,35 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Ravens announced their contractually obligated roster if anyone still gives a shit",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp3hag/ravens_announced_their_contractually_obligated/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T04:12:18.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster",
+            "announced"
+          ]
+        },
+        {
+          "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-05T13:34:03.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "la thieves"
+          ]
         }
       ]
     },
