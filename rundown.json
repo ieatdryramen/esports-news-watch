@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T11:00:28.225Z",
+  "generatedAt": "2026-11-06T12:00:24.988Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 21,
       "stories": [
         {
           "title": "VISION vs Natus Vincere / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
@@ -78,18 +78,6 @@
           ]
         },
         {
-          "title": "BLAST Rivals Season 2 talent announced",
-          "url": "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
-          "source": "HLTV news",
-          "published": "2026-11-05T11:48:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "announced",
-            "blast"
-          ]
-        },
-        {
           "title": "Monte Signs Rocketbet as CS2 Title Partner a Day After CCT Europe Win",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdENlNnJnMkZuc0ljcHlsdFZodGVrRnRvU2E1WEdlUFNnN2VhdDluZ3ljNmFKU2pSb1gyb21MSWcyUnNQRllESUc3Zk9nWGdLZWpGcFpOanh1dzZzWFhDM0xieVJTWUpHVHdSeHBXRGlCY1ZYNVdzVFhUUUVLN2hmN0RDek13dE5MbTBEaGtZVE5MVjlNWGxvdkZCTDh4ai1ycjlrRzNLUE8?oc=5",
           "source": "Google News: CS2 (Shane the Gamer)",
@@ -134,17 +122,6 @@
           ]
         },
         {
-          "title": "G2's 2027 Rebuild: No Head Coach, SkewMond Stuck on a Buyout and Two Starters Days From Free Agency",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjJNLXJBNDdDMVlOVklia0NkYnBUWThTY1NRVlRNcEZsUVk5UkItQVdKWVAyeGZjNVowdndYZFVmYW1CdWVfbGNxUy1CUXZ1ekRtUkJfQjRkWDQ2eVlLbzN2VFRLVGtjZ2VfZnJKc0w0Q0xBZXNqenJJWVlQcFVlcmlFUWk0RldrZVF1Q3VR?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-06T06:34:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "g2"
-          ]
-        },
-        {
           "title": "The EVPs and All-Stars of PGL Masters Bucharest",
           "url": "https://www.hltv.org/news/45920/the-evps-and-all-stars-of-pgl-masters-bucharest",
           "source": "HLTV news",
@@ -154,12 +131,35 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "HLTV Prospects ranking: November 2026",
+          "url": "https://www.hltv.org/news/45899/hltv-prospects-ranking-november-2026",
+          "source": "HLTV news",
+          "published": "2026-11-05T15:33:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand final*",
+            "pgl*"
+          ]
+        },
+        {
+          "title": "Stake Pulse 2027: Six CS2 Events Announced By Stake And BME",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1RTOWdhLUxka2wtR3VDQjhOVEJySjhYNGJaR29VLXZMMkhuVVdGbi1qSm0wQjVyYU9MRnJZVzFGdDNHME8xRHV6c3dBYzZpMGJaMmZud2NEYVQtYjlWc0R1MFVZaVJlTXVwY2pybmhoOWlsMkx5LW5xeUlLaUhJM2pBMWs4WHotbklkLXBSS3JmektuOURFVXRPeFE?oc=5",
+          "source": "Google News: CS2 (Gambling.com)",
+          "published": "2026-11-05T13:18:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "announced"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Unofficial World Record Hero Healing",
@@ -186,6 +186,17 @@
           ]
         },
         {
+          "title": "Cheater confirm or not",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpa6sd/cheater_confirm_or_not/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T11:08:35.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheater"
+          ]
+        },
+        {
           "title": "caught another cheater again",
           "url": "https://www.reddit.com/r/DotA2/comments/1xp8o68/caught_another_cheater_again/",
           "source": "r/DotA2",
@@ -197,14 +208,15 @@
           ]
         },
         {
-          "title": "Why the duck is dota crashing after you accept the match i have 1 year ban now",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp2pj6/why_the_duck_is_dota_crashing_after_you_accept/",
+          "title": "EPL Southeast Tournament winner",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpadfg/epl_southeast_tournament_winner/",
           "source": "r/DotA2",
-          "published": "2026-11-06T03:31:05.000Z",
-          "score": 3,
+          "published": "2026-11-06T11:19:49.000Z",
+          "score": 2.5,
           "level": null,
           "why": [
-            "ban"
+            "ban*",
+            "won*"
           ]
         },
         {
@@ -219,14 +231,15 @@
           ]
         },
         {
-          "title": "I won two games in a row.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp24ja/i_won_two_games_in_a_row/",
+          "title": "What happened to DreamLeague Div2 Season 5 stream today?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpabwj/what_happened_to_dreamleague_div2_season_5_stream/",
           "source": "r/DotA2",
-          "published": "2026-11-06T03:01:28.000Z",
-          "score": 2,
+          "published": "2026-11-06T11:17:14.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "won"
+            "dreamleague",
+            "-stream"
           ]
         },
         {
@@ -342,35 +355,9 @@
       ]
     },
     {
-      "scene": "Quake",
+      "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
-        {
-          "title": "Quake Champions: id’s Tim Willits on why id Tech 5 and Saber Interactive are a perfect fit",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtNjZ2aFMyRE1YTzVURGJod0o5R01fb2JYYm1Gb3VpeFBuUU1SMEgyV0VCaGVSR0w1RTUxUHhIVmRNcFl2RjJ3NVRIZnFlcWUyNkVmUGZhMFdaWWZGRlhpQWliaTJQaFptOURLQ1gzbDdKN18wZEM2RHowUV93V01BcUt0MG5qUzY1X2E4cXZ6QXduQlpkdEVjTFIyU0d3Tk83eFByTm1pUmZhdlJQMHduaw?oc=5",
-          "source": "Google News: Quake (Stevivor)",
-          "published": "2026-11-05T16:27:51.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "「CAPCOM CUP 13」「SFL ワールドチャンピオンシップ 2026」会場観戦チケットが先着販売開始！11月9日19:00から",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETdIBgwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETQ?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-06T08:50:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
         {
           "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
           "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
@@ -408,6 +395,7 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
+    "Quake",
     "Halo"
   ]
 }
