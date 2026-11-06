@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-06T16:10:20.085Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Gaimin Gladiators tease possible comeback to Dota 2 for first time after scandalous TI14 withdrawal",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRllkeW5jNV9YYmVwYm9mTXVSaVBUMzY5MnZFSTgwWGNCb2JuYVFsTmNnaU9oZGZtZ0I4RjY3U2o2Y01Nb0U2QTdnUGFlSFpGa0dZN3hQVzJkcU85YlZSV0ZmWG1aazVkUTBSZTZsd05xVzBDX3dqUWxGaG8zTFZIWVdLbmo3a1VweUtQbVFQN2lxUk8zcXoyM09GYURNY216Y0xXYTRHal9WajBteUg3ZmdYcHVfUXM2b3lvcXdrVElSbjZLWC1VTDBqYnJ4c1pWSGY4M1Bnd2NTM1E?oc=5",
+      "source": "Google News: Dota (escorenews.com)",
+      "outlets": [
+        "escorenews.com"
+      ],
+      "score": 6,
+      "why": [
+        "comeback",
+        "gaimin gladiators"
+      ],
+      "summary": "",
+      "published": "2026-11-06T10:17:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-06T15:40:25.070Z",
       "level": "possible",
       "scene": "CS2",
