@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T21:40:31.311Z",
+  "generatedAt": "2026-11-06T22:40:32.129Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -27,6 +27,17 @@
           "level": "possible",
           "why": [
             "new heroes",
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Exact Release Date & Start Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjlxVXI3aE5sZUZiMXBCYkdYdlFyNDFuXzFFc2RwNzk5MnNERnRPMS1oYUhTMUdrWTdYeWFCUWtfeEhtRU9yN3E0NW9IY1ltQVlsVi01ODNJRU5acURUS3ZHME83Z0Q1bS1oNWZZSXVkMWdnN3pJb1lQaUdvbHRiMA?oc=5",
+          "source": "Google News: Rivals patches (games.gg)",
+          "published": "2026-11-06T21:18:23.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
             "season"
           ]
         },
