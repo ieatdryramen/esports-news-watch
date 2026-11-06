@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-06T03:00:31.654Z",
+  "generatedAt": "2026-11-06T04:00:26.136Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
       "storyCount": 16,
       "stories": [
+        {
+          "title": "Why the duck is dota crashing after you accept the match i have 1 year ban now",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp2pj6/why_the_duck_is_dota_crashing_after_you_accept/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T03:31:05.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "ban"
+          ]
+        },
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
           "url": "https://esports.gg/news/dota-2/natus-vincere-wins-dota-2-epl-masters-iii/",
@@ -51,6 +63,17 @@
           "why": [
             "ending",
             "official*"
+          ]
+        },
+        {
+          "title": "I won two games in a row.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp24ja/i_won_two_games_in_a_row/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T03:01:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
           ]
         },
         {
@@ -117,24 +140,6 @@
           "why": [
             "grand finals*"
           ]
-        },
-        {
-          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
-          "source": "Google News: Dota (Dot Esports)",
-          "published": "2026-11-05T08:46:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 1win Essence III: All teams, schedules, results",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-05T03:31:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -175,6 +180,17 @@
           "why": [
             "grand final*",
             "pgl*"
+          ]
+        },
+        {
+          "title": "Stake Pulse 2027: Six CS2 Events Announced By Stake And BME",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1RTOWdhLUxka2wtR3VDQjhOVEJySjhYNGJaR29VLXZMMkhuVVdGbi1qSm0wQjVyYU9MRnJZVzFGdDNHME8xRHV6c3dBYzZpMGJaMmZud2NEYVQtYjlWc0R1MFVZaVJlTXVwY2pybmhoOWlsMkx5LW5xeUlLaUhJM2pBMWs4WHotbklkLXBSS3JmektuOURFVXRPeFE?oc=5",
+          "source": "Google News: CS2 (Gambling.com)",
+          "published": "2026-11-05T13:18:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "announced"
           ]
         },
         {
@@ -254,24 +270,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "1xBet brings esports betting to IEM Beijing 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnB4RUJuaEN0UnF1UjItbktIeUNKU3NldmYteVBieHJ6MXQ3TVIzLWM3OGhJMERscnZaeXdzbl91ekx6TWsxQk5aUURHSXBibVF2dFkwMHQtQjMwcTdvSXJUR1hac3hPWWlmY1ZfcWh0aGQ3a0RhM2tZOTdKWGtpclRkLU1TQUdU?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-05T03:50:54.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "iem",
-            "-betting"
-          ]
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "I was accused of smurfing",
@@ -282,17 +286,6 @@
           "level": null,
           "why": [
             "accused"
-          ]
-        },
-        {
-          "title": "Vxbao qualified for CapcomCup with Arjun, speedrunning grand finals in 7min",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xosrvs/vxbao_qualified_for_capcomcup_with_arjun/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-05T20:05:17.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand finals"
           ]
         },
         {
@@ -325,7 +318,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
@@ -347,17 +340,6 @@
           "level": null,
           "why": [
             "scump"
-          ]
-        },
-        {
-          "title": "Pred on the C9 announcement photo",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xot5zz/pred_on_the_c9_announcement_photo/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T20:20:51.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pred"
           ]
         },
         {
