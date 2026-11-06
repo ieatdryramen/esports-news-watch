@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T21:45:20.924Z",
+  "generatedAt": "2026-11-06T22:00:24.389Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 17,
       "stories": [
         {
           "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
@@ -90,17 +90,6 @@
           ]
         },
         {
-          "title": "Singapore Regulators crackdown on PGL Major over gambling concerns",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWk1hZUZVVGZSNENuVzhZQWlIeVJXQXVDX3MyWG1EdFZob21tZ04zeTNGSFdremE1R091QnZtSjhPNEJ3WXc3T1NXVExqZ2hIRzRZcXd5TFBMX25zc01WblRMeTBLWFRlQTZrbHRueUJEM3k1UVdsRzFncWhfakN1Z2Q2cS1QZ0pDMHNVVTRReGJsTzM5T1YzT1phcGlQTmJhNUhfQ1hVYnpQSnJJ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-06T17:58:30.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "Media: history to play for 9z at Singapore Major",
           "url": "https://www.hltv.org/news/45930/media-history-to-play-for-9z-at-singapore-major",
           "source": "HLTV news",
@@ -143,12 +132,23 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "PGL add anti-withdrawal fines to rulebook: \"This is done to create a more professional scene\"",
+          "url": "https://www.hltv.org/news/45924/pgl-add-anti-withdrawal-fines-to-rulebook-this-is-done-to-create-a-more-professional-scene",
+          "source": "HLTV news",
+          "published": "2026-11-06T12:29:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
@@ -160,17 +160,6 @@
           "why": [
             "wins",
             "grand final*"
-          ]
-        },
-        {
-          "title": "The International 2026 and Competitive Season Recap",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpho62/the_international_2026_and_competitive_season/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T16:49:33.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "the international"
           ]
         },
         {
@@ -336,8 +325,19 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "What if Street Fighter eliminated fireballs all together",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xppfab/what_if_street_fighter_eliminated_fireballs_all/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-06T21:58:33.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "eliminated"
+          ]
+        },
         {
           "title": "Rival Battles were fun and added a lot of flavor to Street Fighter. I hope they make a comeback someday",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xpizfi/rival_battles_were_fun_and_added_a_lot_of_flavor/",
@@ -371,24 +371,13 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "My response to Hera's comments on Golden Age",
           "url": "https://www.reddit.com/r/aoe2/comments/1xpkgfo/my_response_to_heras_comments_on_golden_age/",
           "source": "r/aoe2",
           "published": "2026-11-06T18:36:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "hera"
-          ]
-        },
-        {
-          "title": "If Viper is Jordan, is Hera LeBron?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xphvot/if_viper_is_jordan_is_hera_lebron/",
-          "source": "r/aoe2",
-          "published": "2026-11-06T16:57:48.000Z",
           "score": 2,
           "level": null,
           "why": [
