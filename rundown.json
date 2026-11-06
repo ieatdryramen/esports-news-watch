@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T17:55:17.278Z",
+  "generatedAt": "2026-11-06T18:50:19.343Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 23,
       "stories": [
         {
           "title": "FURIA vs BB / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
@@ -20,18 +20,6 @@
             "mouz*",
             "furia",
             "iem"
-          ]
-        },
-        {
-          "title": "Ukraine's NAVI beat Russian team in CS2 comeback to reach Beijing semifinals",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFdMTlR2ODktYXRBTVNEZ0owNXBFNG1KNDgya1pmVDl4dGhGTVBKZXNzQzBVeUdpVjU1SjNYVEtGRV81S0wwRzVkejgzNnhUZlZsTER5NUN3UVAzMlVyckx3MlpqVE52SXBTU21SSGx5Y3d4Yjd3R2xPMzJyRlIyckNoazZ0TUVVSWdXRWdGZjk0ek5XMWxNOHdPOEVmS3VBWWFQckl6LWlUMkZRSkkwX1JzS0JHSVnSAbcBQVVfeXFMT0xXTE5Udjg5LWF0QU1TRGdKMDVwRTRtSjQ4MmtaZlQ5eHRoRk1QSmVzc0MwVXlHaVY1NUozWFRLRkVfNUtMMEc1ZHo4MzZ4VGZWbExEeTVDd1FQMzJVcnJMdzJaalROdklwU1NtUkhseWN3eGI3d0dsTzMyckZSMnJDaGs2dE1FVUlnV0VnRmY5NHpOVzFsTTh3TzhFZkt1QVlhUHJJei1pVDJGUUpJMF9Sc0tCR0lZ?oc=5",
-          "source": "Google News: CS2 (Hromadske)",
-          "published": "2026-11-06T14:10:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "comeback",
-            "navi"
           ]
         },
         {
@@ -56,6 +44,18 @@
           "why": [
             "history",
             "esl pro league"
+          ]
+        },
+        {
+          "title": "Field of View for the IEM Cologne Major 2026 coming November 8th",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xpkomq/field_of_view_for_the_iem_cologne_major_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-06T18:45:05.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "iem",
+            "cologne major"
           ]
         },
         {
@@ -107,6 +107,28 @@
           ]
         },
         {
+          "title": "Magnojez: \"Another cinema game versus FURIA; no one beats BETBOOM six times\"",
+          "url": "https://www.hltv.org/news/45928/magnojez-another-cinema-game-versus-furia-no-one-beats-betboom-six-times",
+          "source": "HLTV news",
+          "published": "2026-11-06T18:35:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia"
+          ]
+        },
+        {
+          "title": "Singapore Regulators crackdown on PGL Major over gambling concerns",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWk1hZUZVVGZSNENuVzhZQWlIeVJXQXVDX3MyWG1EdFZob21tZ04zeTNGSFdremE1R091QnZtSjhPNEJ3WXc3T1NXVExqZ2hIRzRZcXd5TFBMX25zc01WblRMeTBLWFRlQTZrbHRueUJEM3k1UVdsRzFncWhfakN1Z2Q2cS1QZ0pDMHNVVTRReGJsTzM5T1YzT1phcGlQTmJhNUhfQ1hVYnpQSnJJ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-06T17:58:30.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Media: history to play for 9z at Singapore Major",
           "url": "https://www.hltv.org/news/45930/media-history-to-play-for-9z-at-singapore-major",
           "source": "HLTV news",
@@ -127,34 +149,12 @@
           "why": [
             "astralis"
           ]
-        },
-        {
-          "title": "PGL Will Fine CS2 Teams $30,000 for Withdrawing From Its Events",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUYtcFZOTm84UXl5eEdDczdqVzUyUmpad1pEd25GcVpPSkd1OVpJaHprLUkxVFZGOXFnSkg5WHFVaDNYc3N5Mm81c1pNZm4zeHdjVUdZclB5Q1pCemlGSE5DejhRdU9sZ0xJWk02MFhaS1lHd041MjRaNkR5YkFfdC12YWNrOXM?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-06T14:55:12.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL add anti-withdrawal fines to rulebook: \"This is done to create a more professional scene\"",
-          "url": "https://www.hltv.org/news/45924/pgl-add-anti-withdrawal-fines-to-rulebook-this-is-done-to-create-a-more-professional-scene",
-          "source": "HLTV news",
-          "published": "2026-11-06T12:29:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Gaimin Gladiators tease possible comeback to Dota 2 for first time after scandalous TI14 withdrawal",
@@ -192,18 +192,6 @@
           ]
         },
         {
-          "title": "EPL Southeast Tournament winner",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpadfg/epl_southeast_tournament_winner/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T11:19:49.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "ban*",
-            "won*"
-          ]
-        },
-        {
           "title": "The International 2026 and Competitive Season Recap",
           "url": "https://www.reddit.com/r/DotA2/comments/1xpho62/the_international_2026_and_competitive_season/",
           "source": "r/DotA2",
@@ -235,18 +223,6 @@
           ]
         },
         {
-          "title": "What happened to DreamLeague Div2 Season 5 stream today?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpabwj/what_happened_to_dreamleague_div2_season_5_stream/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T11:17:14.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "dreamleague",
-            "-stream"
-          ]
-        },
-        {
           "title": "All Dota 2 BLAST Slam Winners – Full List",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
           "source": "Google News: Dota (Hotspawn)",
@@ -256,15 +232,13 @@
           "why": []
         },
         {
-          "title": "No patch this week boys and girls- try again next week",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpba7u/no_patch_this_week_boys_and_girls_try_again_next/",
+          "title": "No patch + Lower bracket is full of smurfs",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpk0d6/no_patch_lower_bracket_is_full_of_smurfs/",
           "source": "r/DotA2",
-          "published": "2026-11-06T12:12:30.000Z",
-          "score": 0.5,
+          "published": "2026-11-06T18:18:59.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "confirmed*"
-          ]
+          "why": []
         },
         {
           "title": "Can the vibration guy tell us when the patch is coming?",
@@ -289,18 +263,106 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 1 | Official Discussion Thread",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpij74/call_of_duty_league_2027_monster_energy_launch/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T17:22:08.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "official",
+            "prize pool*",
+            "optic texas*",
+            "faze*",
+            "la thieves*",
+            "miami heretics*"
+          ]
+        },
+        {
+          "title": "M80 Boston Reveals 2027 CDL Roster Ahead of Monster Energy Launch Invitational",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWNrcm0wOFg4bG9aZl9qMUlYb2F3bHBYUXFzeGVNRlZnWjZOQnRGR1RBUFRPZXFaQ1FFaUE2MEhyVURlNXZWYU9ueTVqdHlZd3RvTDlMcHB3RE9vajdPVXRMczFMOUl0OVFkeVMtM1hldjk3VERRWGlzWVVmTFdPVFZhdEk1Z2hDLVNncGZQRUhGYklIMzdJUzhCeV92bDB2M1A0Tg?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-06T10:13:46.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "Black Ops 3 was released 11 years ago today…",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpkf82/black_ops_3_was_released_11_years_ago_today/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T18:34:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "Rival Battles were fun and added a lot of flavor to Street Fighter. I hope they make a comeback someday",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpizfi/rival_battles_were_fun_and_added_a_lot_of_flavor/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-06T17:39:30.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
+          ]
+        },
+        {
+          "title": "CAPCOM CUP 13 and STREET FIGHTER LEAGUE WORLD CHAMPIONSHIP 2026 Venue Tickets Go on Sale November 9 for March 2027 Events at Ryogoku Kokugikan - www.haveagood-holiday.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFlVLWlSaTE0aDhJQ3hsaGNuZUtLSmdaenhLSjA5NTFJdk1md3djZFJQbEhrQW5ZQXdGc0tCT01JR2IzVGpsb3ZQdXNyVnBaWTVKRnZiRFA2aVpvM1RjX09yN3VRVklFU3B3ZG52S2dhbWxtTl9GSnJkUDNWOUZIM2pkUk01UGVSOHpDd0tfdk4yRHFxYTNpUU9xVWV4ZFB1RWxBU0pOWVFBVldBcktaT2RCVjgyV2FoUnNJ?oc=5",
+          "source": "Google News: Street Fighter",
+          "published": "2026-11-06T15:39:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "「CAPCOM CUP 13」「SFL ワールドチャンピオンシップ 2026」会場観戦チケットが先着販売開始！11月9日19:00から",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETdIBgwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETQ?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-06T08:50:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
+          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
+          "source": "Dexerto",
+          "published": "2026-11-05T19:37:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "AoE2",
       "storyCount": 4,
       "stories": [
         {
-          "title": "Blocking Toxic Player or cheater",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xpblyo/blocking_toxic_player_or_cheater/",
+          "title": "My response to Hera's comments on Golden Age",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xpkgfo/my_response_to_heras_comments_on_golden_age/",
           "source": "r/aoe2",
-          "published": "2026-11-06T12:29:57.000Z",
-          "score": 4,
+          "published": "2026-11-06T18:36:06.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "cheater"
+            "hera"
           ]
         },
         {
@@ -331,74 +393,6 @@
           "source": "r/aoe2",
           "published": "2026-11-06T15:02:26.000Z",
           "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 1 | Official Discussion Thread",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpij74/call_of_duty_league_2027_monster_energy_launch/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T17:22:08.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "official",
-            "prize pool*",
-            "optic texas*",
-            "faze*",
-            "la thieves*",
-            "miami heretics*"
-          ]
-        },
-        {
-          "title": "M80 Boston Reveals 2027 CDL Roster Ahead of Monster Energy Launch Invitational",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWNrcm0wOFg4bG9aZl9qMUlYb2F3bHBYUXFzeGVNRlZnWjZOQnRGR1RBUFRPZXFaQ1FFaUE2MEhyVURlNXZWYU9ueTVqdHlZd3RvTDlMcHB3RE9vajdPVXRMczFMOUl0OVFkeVMtM1hldjk3VERRWGlzWVVmTFdPVFZhdEk1Z2hDLVNncGZQRUhGYklIMzdJUzhCeV92bDB2M1A0Tg?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-06T10:13:46.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Rival Battles were fun and added a lot of flavor to Street Fighter. I hope they make a comeback someday",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpizfi/rival_battles_were_fun_and_added_a_lot_of_flavor/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-06T17:39:30.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "comeback"
-          ]
-        },
-        {
-          "title": "「CAPCOM CUP 13」「SFL ワールドチャンピオンシップ 2026」会場観戦チケットが先着販売開始！11月9日19:00から",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETdIBgwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETQ?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-06T08:50:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
-          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
-          "source": "Dexerto",
-          "published": "2026-11-05T19:37:27.000Z",
-          "score": 1,
           "level": null,
           "why": []
         }
