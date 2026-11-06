@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T02:00:26.132Z",
+  "generatedAt": "2026-11-06T03:00:31.654Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
@@ -16,6 +16,18 @@
           "why": [
             "wins",
             "grand final*"
+          ]
+        },
+        {
+          "title": "Is this comeback because of draft?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp0xqy/is_this_comeback_because_of_draft/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T02:02:25.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "comeback",
+            "won*"
           ]
         },
         {
@@ -123,15 +135,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Where patch Valve?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp0gyx/where_patch_valve/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T01:39:45.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -175,17 +178,6 @@
           ]
         },
         {
-          "title": "HLTV has announced the Hall of Fame nominees",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xor737/hltv_has_announced_the_hall_of_fame_nominees/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-05T19:03:19.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "announced"
-          ]
-        },
-        {
           "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -195,6 +187,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Falcons Pause CS2 Academy Falcons Force",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFFvNldmbjh6bDFpX01yVURyVVg0QURRNG0xZm5IaHVNWllRekdESzNjOTRheWp3UWVqYmpCMjNwME5CUWRiaTAwQ0NJVUlLSnczMS1PZVRRanROajZVVlF3REpvMFhsS1J5SXR4WmJOTzloNzBKc1JqM09xZENWZ2JfZjhOd25F?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-05T20:01:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Hall of Fame: Unveiling the 10 nominees of 2026",
@@ -269,6 +270,43 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "I was accused of smurfing",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xp0yom/i_was_accused_of_smurfing/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-06T02:03:47.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "accused"
+          ]
+        },
+        {
+          "title": "Vxbao qualified for CapcomCup with Arjun, speedrunning grand finals in 7min",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xosrvs/vxbao_qualified_for_capcomcup_with_arjun/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-05T20:05:17.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand finals"
+          ]
+        },
+        {
+          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
+          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
+          "source": "Dexerto",
+          "published": "2026-11-05T19:37:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
       "storyCount": 1,
       "stories": [
@@ -287,7 +325,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
@@ -323,17 +361,6 @@
           ]
         },
         {
-          "title": "All Monster Kickoff Roster",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xoqjt2/all_monster_kickoff_roster/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T18:39:03.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
           "title": "Zoomaa's Team is CRASHING OUT during the 15K SnD Tournament",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xowv9o/zoomaas_team_is_crashing_out_during_the_15k_snd/",
           "source": "r/CoDCompetitive",
@@ -358,32 +385,6 @@
           "why": [
             "champions"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Vxbao qualified for CapcomCup with Arjun, speedrunning grand finals in 7min",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xosrvs/vxbao_qualified_for_capcomcup_with_arjun/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-05T20:05:17.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand finals"
-          ]
-        },
-        {
-          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
-          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
-          "source": "Dexerto",
-          "published": "2026-11-05T19:37:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
