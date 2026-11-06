@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:00:26.136Z",
+  "generatedAt": "2026-11-06T05:00:22.041Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -145,7 +145,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "BLAST Rivals Season 2 talent announced",
@@ -261,65 +261,25 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Counter-Strike Prize Money: The Biggest CS Payouts",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fY09lWFViak80OGxhVUlQNERRYVlCWFpqaThvV0l0QVZ2NWQtQkYybzRuQTA3YzFRdmtaR2poSEMtX0RYWkg2STRiQm1UYWs1RUNtenRkWmJkdlVkQzl5T2dSb2ZIbE4ydE1FbkFqcWlVZFhG?oc=5",
-          "source": "Google News: CS2 (Shane the Gamer)",
-          "published": "2026-11-05T07:36:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "I was accused of smurfing",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xp0yom/i_was_accused_of_smurfing/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-06T02:03:47.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "accused"
-          ]
-        },
-        {
-          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
-          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
-          "source": "Dexerto",
-          "published": "2026-11-05T19:37:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-05T06:53:43.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Ravens announced their contractually obligated roster if anyone still gives a shit",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp3hag/ravens_announced_their_contractually_obligated/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T04:12:18.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster",
+            "announced"
+          ]
+        },
         {
           "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
@@ -354,9 +314,46 @@
       ]
     },
     {
-      "scene": "Quake",
-      "storyCount": 1,
+      "scene": "Street Fighter",
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "I was accused of smurfing",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xp0yom/i_was_accused_of_smurfing/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-06T02:03:47.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "accused"
+          ]
+        },
+        {
+          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
+          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
+          "source": "Dexerto",
+          "published": "2026-11-05T19:37:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Quake",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Quake Champions: id’s Tim Willits on why id Tech 5 and Saber Interactive are a perfect fit",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtNjZ2aFMyRE1YTzVURGJod0o5R01fb2JYYm1Gb3VpeFBuUU1SMEgyV0VCaGVSR0w1RTUxUHhIVmRNcFl2RjJ3NVRIZnFlcWUyNkVmUGZhMFdaWWZGRlhpQWliaTJQaFptOURLQ1gzbDdKN18wZEM2RHowUV93V01BcUt0MG5qUzY1X2E4cXZ6QXduQlpkdEVjTFIyU0d3Tk83eFByTm1pUmZhdlJQMHduaw?oc=5",
+          "source": "Google News: Quake (Stevivor)",
+          "published": "2026-11-05T16:27:51.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "champions"
+          ]
+        },
         {
           "title": "[UT2004] Sacrifice — Inspired by Quake Champions",
           "url": "https://www.reddit.com/r/QuakeChampions/comments/1xp008i/ut2004_sacrifice_inspired_by_quake_champions/",
@@ -366,6 +363,23 @@
           "level": null,
           "why": [
             "champions"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-05T06:53:43.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
           ]
         }
       ]
