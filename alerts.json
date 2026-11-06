@@ -1,6 +1,28 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-06T10:10:20.258Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Which changes do you expect if they lose the Major?",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp96jx/which_changes_do_you_expect_if_they_lose_the_major/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "retiring*",
+        "vitality*",
+        "g2*",
+        "spirit*",
+        "mouz*",
+        "furia*"
+      ],
+      "summary": "For teams like Vitality, Spirit, Falcons, Mouz. Or let's say Aurora, G2. I kind of expect Mouz and Aurora to not change much unless it's a really bad result or a huge opportunity comes. Furia is obviously going to do changes either-way because of falleN retiring. submitted by /u/HonkyTonkBluesYEAH to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-06T10:05:20.000Z"
+    },
+    {
       "alertedAt": "2026-11-06T09:45:24.290Z",
       "level": "possible",
       "scene": "CS2",
