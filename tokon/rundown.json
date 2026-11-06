@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T14:00:37.844Z",
+  "generatedAt": "2026-11-06T15:00:34.732Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Miles Morales Hinted As Year 2 DLC Character For Marvel Tokon",
@@ -27,6 +27,17 @@
           "level": null,
           "why": [
             "patch notes"
+          ]
+        },
+        {
+          "title": "97% damage combo already found as Phoenix Cyclops blasts onto the scene in Marvel Tokon: Fighting Souls",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc215YWNkZXNobTdWSHdyYW8xSXQ2aV8zVWIwT0FRSFViVGtDX3JWaGktY2VsZjNvdDhqUWowNVNsM1UxYnljTnByR2hkb1FUWW0tQld3cHczRWlPMnI4SE1UVkVvNDhCazNJa0VSeW1ZTko0ZWJLNlBONWtRSDlWaHZ6N2w?oc=5",
+          "source": "Google News: Tokon (EventHubs)",
+          "published": "2026-11-06T14:20:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "combo"
           ]
         },
         {
