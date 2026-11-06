@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T15:00:28.343Z",
+  "generatedAt": "2026-11-06T16:00:25.280Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "FURIA vs BB / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
@@ -20,6 +20,18 @@
             "mouz*",
             "furia",
             "iem"
+          ]
+        },
+        {
+          "title": "Ukraine's NAVI beat Russian team in CS2 comeback to reach Beijing semifinals",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFdMTlR2ODktYXRBTVNEZ0owNXBFNG1KNDgya1pmVDl4dGhGTVBKZXNzQzBVeUdpVjU1SjNYVEtGRV81S0wwRzVkejgzNnhUZlZsTER5NUN3UVAzMlVyckx3MlpqVE52SXBTU21SSGx5Y3d4Yjd3R2xPMzJyRlIyckNoazZ0TUVVSWdXRWdGZjk0ek5XMWxNOHdPOEVmS3VBWWFQckl6LWlUMkZRSkkwX1JzS0JHSVnSAbcBQVVfeXFMT0xXTE5Udjg5LWF0QU1TRGdKMDVwRTRtSjQ4MmtaZlQ5eHRoRk1QSmVzc0MwVXlHaVY1NUozWFRLRkVfNUtMMEc1ZHo4MzZ4VGZWbExEeTVDd1FQMzJVcnJMdzJaalROdklwU1NtUkhseWN3eGI3d0dsTzMyckZSMnJDaGs2dE1FVUlnV0VnRmY5NHpOVzFsTTh3TzhFZkt1QVlhUHJJei1pVDJGUUpJMF9Sc0tCR0lZ?oc=5",
+          "source": "Google News: CS2 (Hromadske)",
+          "published": "2026-11-06T14:10:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "comeback",
+            "navi"
           ]
         },
         {
@@ -65,6 +77,18 @@
           ]
         },
         {
+          "title": "What Is ESL Pro League? Format, Teams, History and Prize Money",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VNGQ3dXoxa09RTXowT0lmQnRWUzFVOTZwcTJ4bDV2ZFJmRFhxM1J1RTYtTWtCRXplUW9VV3E5SFBxVmcwU2xKTG1DZTNDcnRBQ0hGdzgtbWY3Zzl0WUJicTNxekJtS0FSM1FMbDJsZkRUd2lNZHc?oc=5",
+          "source": "Google News: CS2 (Chase Your Sport)",
+          "published": "2026-11-06T09:27:22.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "history",
+            "esl pro league"
+          ]
+        },
+        {
           "title": "BETBOOM reach Beijing semi-finals over FURIA",
           "url": "https://www.hltv.org/news/45926/betboom-reach-beijing-semi-finals-over-furia",
           "source": "HLTV news",
@@ -86,6 +110,17 @@
           "why": [
             "free agent*",
             "spirit"
+          ]
+        },
+        {
+          "title": "PGL Will Fine CS2 Teams $30,000 for Withdrawing From Its Events",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUYtcFZOTm84UXl5eEdDczdqVzUyUmpad1pEd25GcVpPSkd1OVpJaHprLUkxVFZGOXFnSkg5WHFVaDNYc3N5Mm81c1pNZm4zeHdjVUdZclB5Q1pCemlGSE5DejhRdU9sZ0xJWk02MFhaS1lHd041MjRaNkR5YkFfdC12YWNrOXM?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-06T14:55:12.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -120,45 +155,12 @@
           "why": [
             "knocked out"
           ]
-        },
-        {
-          "title": "The best highlights from IEM Beijing playoffs",
-          "url": "https://www.hltv.org/news/45922/the-best-highlights-from-iem-beijing-playoffs",
-          "source": "HLTV news",
-          "published": "2026-11-06T06:49:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "G2's 2027 Rebuild: No Head Coach, SkewMond Stuck on a Buyout and Two Starters Days From Free Agency",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjJNLXJBNDdDMVlOVklia0NkYnBUWThTY1NRVlRNcEZsUVk5UkItQVdKWVAyeGZjNVowdndYZFVmYW1CdWVfbGNxUy1CUXZ1ekRtUkJfQjRkWDQ2eVlLbzN2VFRLVGtjZ2VfZnJKc0w0Q0xBZXNqenJJWVlQcFVlcmlFUWk0RldrZVF1Q3VR?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-06T06:34:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "g2"
-          ]
-        },
-        {
-          "title": "The EVPs and All-Stars of PGL Masters Bucharest",
-          "url": "https://www.hltv.org/news/45920/the-evps-and-all-stars-of-pgl-masters-bucharest",
-          "source": "HLTV news",
-          "published": "2026-11-05T20:55:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
@@ -205,6 +207,15 @@
           "why": [
             "won"
           ]
+        },
+        {
+          "title": "FISSURE’s unpaid CS2, Dota 2 prize debt explained as CEO addresses financial struggles",
+          "url": "https://esports.gg/news/counter-strike-2/fissure-prize-debts-ceo-statement-explanation/",
+          "source": "esports.gg",
+          "published": "2026-11-06T15:48:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Update: full item builds by game phase, smarter search, and a new Top Players page",
@@ -284,7 +295,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Blocking Toxic Player or cheater",
@@ -295,6 +306,43 @@
           "level": null,
           "why": [
             "cheater"
+          ]
+        },
+        {
+          "title": "For the 2nd Time Hera fails to complete Subathon",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xpfzdc/for_the_2nd_time_hera_fails_to_complete_subathon/",
+          "source": "r/aoe2",
+          "published": "2026-11-06T15:43:27.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "hera"
+          ]
+        },
+        {
+          "title": "Saracens could really do with a small buff, what about 0% trade fee?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xpeymu/saracens_could_really_do_with_a_small_buff_what/",
+          "source": "r/aoe2",
+          "published": "2026-11-06T15:02:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Quake",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Quake Champions: id’s Tim Willits on why id Tech 5 and Saber Interactive are a perfect fit",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtNjZ2aFMyRE1YTzVURGJod0o5R01fb2JYYm1Gb3VpeFBuUU1SMEgyV0VCaGVSR0w1RTUxUHhIVmRNcFl2RjJ3NVRIZnFlcWUyNkVmUGZhMFdaWWZGRlhpQWliaTJQaFptOURLQ1gzbDdKN18wZEM2RHowUV93V01BcUt0MG5qUzY1X2E4cXZ6QXduQlpkdEVjTFIyU0d3Tk83eFByTm1pUmZhdlJQMHduaw?oc=5",
+          "source": "Google News: Quake (Stevivor)",
+          "published": "2026-11-05T16:27:51.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "champions"
           ]
         }
       ]
@@ -388,7 +436,6 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "Quake",
     "Halo"
   ]
 }
