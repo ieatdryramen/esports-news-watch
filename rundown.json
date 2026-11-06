@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:00:27.530Z",
+  "generatedAt": "2026-11-06T00:00:28.365Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -238,7 +238,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Trying to comeback (unsuccesful T.T) with a way worse draft vs a typical pubstomp team",
@@ -260,6 +260,18 @@
           "level": null,
           "why": [
             "grand final"
+          ]
+        },
+        {
+          "title": "Why is dota 2 ending?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xoxt4m/why_is_dota_2_ending/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T23:34:53.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "ending",
+            "official*"
           ]
         },
         {
@@ -312,10 +324,21 @@
           "title": "All Dota 2 BLAST Slam Winners – Full List",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-05T20:42:07.000Z",
+          "published": "2026-11-05T23:37:30.000Z",
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "[SPOILER] Are the winners of EPL Masters III",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xox1dg/spoiler_are_the_winners_of_epl_masters_iii/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T23:00:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "grand finals*"
+          ]
         },
         {
           "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
@@ -343,26 +366,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Patch today?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xot90d/patch_today/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T20:24:13.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - Hk, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdibUczYVVLSlNKRDBqR3F4YjVMdkpsS0FORUF4REVicnlNdXY3ZVBLU3dyYW9TemQxVVlHazZ1TS1yUnM0dmJ5aUN5UmJpQzNydGpGaEd1RVM5VmZNVVdUNVBZNUcxT01OdGY5blN1dnVyOTNsU3RNa242T3RZVUdQQmwyOU9kUXI3YUYtTkVEZmpZYlZrS0R4bFhRWnc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-05T15:52:24.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
