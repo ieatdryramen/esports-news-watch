@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-06T20:45:23.456Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFp1eFFranZLQkg3bE5teHFobW1Ydkc0aUJTUV84RjRwZF90a1dWTHc5M2F4VXNiREphR2xYcXZidGN5b2wzVG1hc2tHTHctcWhpUzc4TzB6Q1ZYUEVnbHdoTHp3SGtBV1JLa3BvNUpyTExsYVZwZXEzME1lMjg0cg?oc=5",
+      "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+      "outlets": [
+        "Liquipedia"
+      ],
+      "score": 6,
+      "why": [
+        "grand finals",
+        "grand finals"
+      ],
+      "summary": "",
+      "published": "2026-11-06T20:24:04.000Z"
+    },
+    {
       "alertedAt": "2026-11-06T05:28:03.054Z",
       "level": "possible",
       "scene": "Marvel Rivals",
