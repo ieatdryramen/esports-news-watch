@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-06T15:40:25.070Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Ukraine's NAVI beat Russian team in CS2 comeback to reach Beijing semifinals",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFdMTlR2ODktYXRBTVNEZ0owNXBFNG1KNDgya1pmVDl4dGhGTVBKZXNzQzBVeUdpVjU1SjNYVEtGRV81S0wwRzVkejgzNnhUZlZsTER5NUN3UVAzMlVyckx3MlpqVE52SXBTU21SSGx5Y3d4Yjd3R2xPMzJyRlIyckNoazZ0TUVVSWdXRWdGZjk0ek5XMWxNOHdPOEVmS3VBWWFQckl6LWlUMkZRSkkwX1JzS0JHSVnSAbcBQVVfeXFMT0xXTE5Udjg5LWF0QU1TRGdKMDVwRTRtSjQ4MmtaZlQ5eHRoRk1QSmVzc0MwVXlHaVY1NUozWFRLRkVfNUtMMEc1ZHo4MzZ4VGZWbExEeTVDd1FQMzJVcnJMdzJaalROdklwU1NtUkhseWN3eGI3d0dsTzMyckZSMnJDaGs2dE1FVUlnV0VnRmY5NHpOVzFsTTh3TzhFZkt1QVlhUHJJei1pVDJGUUpJMF9Sc0tCR0lZ?oc=5",
+      "source": "Google News: CS2 (Hromadske)",
+      "outlets": [
+        "Hromadske"
+      ],
+      "score": 6,
+      "why": [
+        "comeback",
+        "navi"
+      ],
+      "summary": "",
+      "published": "2026-11-06T14:10:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-06T15:25:17.665Z",
       "level": "possible",
       "scene": "CS2",
