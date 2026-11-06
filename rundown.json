@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T05:00:22.041Z",
+  "generatedAt": "2026-11-06T06:00:27.803Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Why the duck is dota crashing after you accept the match i have 1 year ban now",
@@ -125,7 +125,7 @@
           "title": "All Dota 2 BLAST Slam Winners – Full List",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-05T23:37:30.000Z",
+          "published": "2026-11-05T23:41:27.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -145,7 +145,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "BLAST Rivals Season 2 talent announced",
@@ -261,12 +261,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Counter-Strike Prize Money: The Biggest CS Payouts",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fY09lWFViak80OGxhVUlQNERRYVlCWFpqaThvV0l0QVZ2NWQtQkYybzRuQTA3YzFRdmtaR2poSEMtX0RYWkg2STRiQm1UYWs1RUNtenRkWmJkdlVkQzl5T2dSb2ZIbE4ydE1FbkFqcWlVZFhG?oc=5",
+          "source": "Google News: CS2 (Shane the Gamer)",
+          "published": "2026-11-05T07:36:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Ravens announced their contractually obligated roster if anyone still gives a shit",
@@ -289,17 +298,6 @@
           "level": null,
           "why": [
             "la thieves"
-          ]
-        },
-        {
-          "title": "What happened to Scump?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xouwsc/what_happened_to_scump/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T21:30:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "scump"
           ]
         },
         {
@@ -340,34 +338,6 @@
       ]
     },
     {
-      "scene": "Quake",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Quake Champions: id’s Tim Willits on why id Tech 5 and Saber Interactive are a perfect fit",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtNjZ2aFMyRE1YTzVURGJod0o5R01fb2JYYm1Gb3VpeFBuUU1SMEgyV0VCaGVSR0w1RTUxUHhIVmRNcFl2RjJ3NVRIZnFlcWUyNkVmUGZhMFdaWWZGRlhpQWliaTJQaFptOURLQ1gzbDdKN18wZEM2RHowUV93V01BcUt0MG5qUzY1X2E4cXZ6QXduQlpkdEVjTFIyU0d3Tk83eFByTm1pUmZhdlJQMHduaw?oc=5",
-          "source": "Google News: Quake (Stevivor)",
-          "published": "2026-11-05T16:27:51.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        },
-        {
-          "title": "[UT2004] Sacrifice — Inspired by Quake Champions",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xp008i/ut2004_sacrifice_inspired_by_quake_champions/",
-          "source": "r/QuakeChampions",
-          "published": "2026-11-06T01:16:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 1,
       "stories": [
@@ -380,6 +350,23 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Quake",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "[UT2004] Sacrifice — Inspired by Quake Champions",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xp008i/ut2004_sacrifice_inspired_by_quake_champions/",
+          "source": "r/QuakeChampions",
+          "published": "2026-11-06T01:16:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champions"
           ]
         }
       ]
