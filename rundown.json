@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T16:55:26.244Z",
+  "generatedAt": "2026-11-06T17:55:17.278Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 20,
       "stories": [
         {
           "title": "FURIA vs BB / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
@@ -35,36 +35,6 @@
           ]
         },
         {
-          "title": "Which changes do you expect if they lose the Major?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp96jx/which_changes_do_you_expect_if_they_lose_the_major/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-06T10:05:20.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "retiring*",
-            "vitality*",
-            "g2*",
-            "spirit*",
-            "mouz*",
-            "furia*"
-          ]
-        },
-        {
-          "title": "Does any other org compare to Navi's track record of amazing AWPers (or just players all in the same role) that played for their team?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp8tj0/does_any_other_org_compare_to_navis_track_record/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-06T09:42:21.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "record",
-            "history*",
-            "m0nesy*",
-            "navi"
-          ]
-        },
-        {
           "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1R3WTlPRHVTOElJSFN1a3dER2FSNTRKRHBJblJHQWRxak1FUlZYNGRTV1VfMVQxaU1lLTQya09tWFZnRG9UTDVDVWZYUmlhRUF1STY5RTJ5UzlGSUpRNWNYcHFMSC01M0ZOaXdBdnhlQklHSUlxUlJtQ2VWXy1MRGpMSQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -89,6 +59,30 @@
           ]
         },
         {
+          "title": "4 months after Mzinho leaves for BCG and the Mongolz are outperforming them in every way",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xpivp3/4_months_after_mzinho_leaves_for_bcg_and_the/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-06T17:35:29.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster*",
+            "leaves"
+          ]
+        },
+        {
+          "title": "b1t: \"I'm enjoying a lot when we are playing good Counter-Strike\"",
+          "url": "https://www.hltv.org/news/45927/b1t-im-enjoying-a-lot-when-we-are-playing-good-counter-strike",
+          "source": "HLTV news",
+          "published": "2026-11-06T17:18:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "b1t",
+            "navi*"
+          ]
+        },
+        {
           "title": "BETBOOM reach Beijing semi-finals over FURIA",
           "url": "https://www.hltv.org/news/45926/betboom-reach-beijing-semi-finals-over-furia",
           "source": "HLTV news",
@@ -110,6 +104,17 @@
           "why": [
             "free agent*",
             "spirit"
+          ]
+        },
+        {
+          "title": "Media: history to play for 9z at Singapore Major",
+          "url": "https://www.hltv.org/news/45930/media-history-to-play-for-9z-at-singapore-major",
+          "source": "HLTV news",
+          "published": "2026-11-06T17:48:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "history"
           ]
         },
         {
@@ -144,23 +149,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "NAVI reverse-sweep PARIVISION to make the semi-finals in Beijing",
-          "url": "https://www.hltv.org/news/45923/navi-reverse-sweep-parivision-to-make-the-semi-finals-in-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-06T10:24:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "navi"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 15,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Gaimin Gladiators tease possible comeback to Dota 2 for first time after scandalous TI14 withdrawal",
@@ -191,17 +185,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xphnpp/i_caught_another_cheater/",
           "source": "r/DotA2",
           "published": "2026-11-06T16:49:06.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
-          "title": "Cheater confirm or not",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpa6sd/cheater_confirm_or_not/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T11:08:35.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -284,56 +267,30 @@
           ]
         },
         {
-          "title": "Will all those characters from the Quatero''s Curio and the other event become Heroes?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp9ldb/will_all_those_characters_from_the_quateros_curio/",
+          "title": "Can the vibration guy tell us when the patch is coming?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xph6fx/can_the_vibration_guy_tell_us_when_the_patch_is/",
           "source": "r/DotA2",
-          "published": "2026-11-06T10:31:12.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "return*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Alex consang Winger banned for UK players starting from early November",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xph4hk/alex_consang_winger_banned_for_uk_players/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-06T16:28:13.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned"
-          ]
-        },
-        {
-          "title": "「CAPCOM CUP 13」「SFL ワールドチャンピオンシップ 2026」会場観戦チケットが先着販売開始！11月9日19:00から",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETdIBgwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETQ?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-06T08:50:50.000Z",
-          "score": 1,
+          "published": "2026-11-06T16:30:17.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
         {
-          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
-          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
-          "source": "Dexerto",
-          "published": "2026-11-05T19:37:27.000Z",
-          "score": 1,
+          "title": "XE - PR, November 7, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNazVJNG1aa09LLTRTV1czZzl0NThXVTF0NVVMa01Xc0RzeGgzRGgwS2d2WFRMWFRPRmtIalpXUVV3Z1hqY2FzREduN1ZnMDR6a2lBb1lES0NMODBkNlJ2azN2UkxqY3UyUmxUU0JENzY5MnJNVFVMWTdEckJHbEo0bWp5cXhycmlpOHNvWDQyei1jOUtmLUhDaUtrWWFtb0ZQRXFoR1FYZFd2VkJPT2c?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-06T14:16:50.000Z",
+          "score": 0,
           "level": null,
-          "why": []
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
     {
       "scene": "AoE2",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Blocking Toxic Player or cheater",
@@ -344,6 +301,17 @@
           "level": null,
           "why": [
             "cheater"
+          ]
+        },
+        {
+          "title": "If Viper is Jordan, is Hera LeBron?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xphvot/if_viper_is_jordan_is_hera_lebron/",
+          "source": "r/aoe2",
+          "published": "2026-11-06T16:57:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "hera"
           ]
         },
         {
@@ -370,8 +338,24 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 1 | Official Discussion Thread",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpij74/call_of_duty_league_2027_monster_energy_launch/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T17:22:08.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "official",
+            "prize pool*",
+            "optic texas*",
+            "faze*",
+            "la thieves*",
+            "miami heretics*"
+          ]
+        },
         {
           "title": "M80 Boston Reveals 2027 CDL Roster Ahead of Monster Energy Launch Invitational",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWNrcm0wOFg4bG9aZl9qMUlYb2F3bHBYUXFzeGVNRlZnWjZOQnRGR1RBUFRPZXFaQ1FFaUE2MEhyVURlNXZWYU9ueTVqdHlZd3RvTDlMcHB3RE9vajdPVXRMczFMOUl0OVFkeVMtM1hldjk3VERRWGlzWVVmTFdPVFZhdEk1Z2hDLVNncGZQRUhGYklIMzdJUzhCeV92bDB2M1A0Tg?oc=5",
@@ -382,6 +366,41 @@
           "why": [
             "roster"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Rival Battles were fun and added a lot of flavor to Street Fighter. I hope they make a comeback someday",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpizfi/rival_battles_were_fun_and_added_a_lot_of_flavor/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-06T17:39:30.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
+          ]
+        },
+        {
+          "title": "「CAPCOM CUP 13」「SFL ワールドチャンピオンシップ 2026」会場観戦チケットが先着販売開始！11月9日19:00から",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETdIBgwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETQ?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-06T08:50:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
+          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
+          "source": "Dexerto",
+          "published": "2026-11-05T19:37:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
