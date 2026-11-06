@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T17:55:22.171Z",
+  "generatedAt": "2026-11-06T18:50:24.128Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Miles Morales Hinted As Year 2 DLC Character For Marvel Tokon",
@@ -16,17 +16,6 @@
           "why": [
             "dlc",
             "dlc character"
-          ]
-        },
-        {
-          "title": "Phoenix Cyclops, patch notes now available for Marvel Tokon: Fighting Souls",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1pOQzJtN2VIZWtYZnlVRG5TY1Y5aHc0akQ4WFUwSVpkQmNKSllkOWMwUlFmNVlaZ2lwaWtUa3M2Q0xMWGw2Z19LbWdjT2lhbGFKWlRMNzNmSlJXaHE3Wmw1d1NoRHhjRjhwN2xwOXZJTWY2ZlVzSXJreWNBWGxxMG1IOGRTemc1QkQ4YjVnLXRPMW9SWUpoVkRoZ3RuLTdmZzYwSlB4TTZOMVBvN3pYVVpaNTlndw?oc=5",
-          "source": "Google News: Tokon (Gaming Nexus)",
-          "published": "2026-11-05T18:27:39.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "patch notes"
           ]
         },
         {
