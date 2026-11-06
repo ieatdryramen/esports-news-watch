@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T08:00:32.650Z",
+  "generatedAt": "2026-11-06T09:00:29.166Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Phoenix Cyclops, patch notes now available for Marvel Tokon: Fighting Souls",
@@ -16,6 +16,15 @@
           "why": [
             "patch notes"
           ]
+        },
+        {
+          "title": "Marvel Tokon stories",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YQWFQZFVLblRQWU1YVDhIY0ZYOWlGM1RlSGtKZnJNOGprTGVHWTBUZUJRMWtQVlRLUmNDSUd5NTN1anpveVlyRW1URDNORWdTNTlpVmo5ckdscDN3and4NDBUR2o?oc=5",
+          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
+          "published": "2026-11-06T06:07:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
