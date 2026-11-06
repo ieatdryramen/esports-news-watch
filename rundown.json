@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T09:00:24.136Z",
+  "generatedAt": "2026-11-06T10:00:23.343Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 19,
       "stories": [
         {
           "title": "G2 Esports Parts Ways With Head Coach Perkz Following Controversial Statements",
@@ -16,6 +16,20 @@
           "why": [
             "parts ways",
             "g2"
+          ]
+        },
+        {
+          "title": "Does any other org compare to Navi's track record of amazing AWPers (or just players all in the same role) that played for their team?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp8tj0/does_any_other_org_compare_to_navis_track_record/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-06T09:42:21.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "record",
+            "history*",
+            "m0nesy*",
+            "navi"
           ]
         },
         {
@@ -55,6 +69,17 @@
           ]
         },
         {
+          "title": "bro got knocked out so early he’s doing side quests 😭😭",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp8ekz/bro_got_knocked_out_so_early_hes_doing_side_quests/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-06T09:14:23.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "knocked out"
+          ]
+        },
+        {
           "title": "The best highlights from IEM Beijing playoffs",
           "url": "https://www.hltv.org/news/45922/the-best-highlights-from-iem-beijing-playoffs",
           "source": "HLTV news",
@@ -63,6 +88,17 @@
           "level": null,
           "why": [
             "iem"
+          ]
+        },
+        {
+          "title": "G2's 2027 Rebuild: No Head Coach, SkewMond Stuck on a Buyout and Two Starters Days From Free Agency",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjJNLXJBNDdDMVlOVklia0NkYnBUWThTY1NRVlRNcEZsUVk5UkItQVdKWVAyeGZjNVowdndYZFVmYW1CdWVfbGNxUy1CUXZ1ekRtUkJfQjRkWDQ2eVlLbzN2VFRLVGtjZ2VfZnJKc0w0Q0xBZXNqenJJWVlQcFVlcmlFUWk0RldrZVF1Q3VR?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-06T06:34:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "g2"
           ]
         },
         {
@@ -100,50 +136,21 @@
           ]
         },
         {
-          "title": "IEM Cologne 2027 Wave 2 tickets",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp7r1p/iem_cologne_2027_wave_2_tickets/",
+          "title": "Life of every Navi awper",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp888c/life_of_every_navi_awper/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-06T08:30:57.000Z",
+          "published": "2026-11-06T09:02:53.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "iem"
+            "navi"
           ]
-        },
-        {
-          "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-05T12:20:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Falcons Pause CS2 Academy Falcons Force",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFFvNldmbjh6bDFpX01yVURyVVg0QURRNG0xZm5IaHVNWllRekdESzNjOTRheWp3UWVqYmpCMjNwME5CUWRiaTAwQ0NJVUlLSnczMS1PZVRRanROajZVVlF3REpvMFhsS1J5SXR4WmJOTzloNzBKc1JqM09xZENWZ2JfZjhOd25F?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-05T20:01:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Hall of Fame: Unveiling the 10 nominees of 2026",
-          "url": "https://www.hltv.org/news/45912/hall-of-fame-unveiling-the-10-nominees-of-2026",
-          "source": "HLTV news",
-          "published": "2026-11-05T19:07:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Unofficial World Record Hero Healing",
@@ -170,6 +177,17 @@
           ]
         },
         {
+          "title": "caught another cheater again",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp8o68/caught_another_cheater_again/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T09:32:20.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheater"
+          ]
+        },
+        {
           "title": "Is this comeback because of draft?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xp0xqy/is_this_comeback_because_of_draft/",
           "source": "r/DotA2",
@@ -193,15 +211,14 @@
           ]
         },
         {
-          "title": "Why is dota 2 ending?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xoxt4m/why_is_dota_2_ending/",
+          "title": "almost won all games as support",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp881s/almost_won_all_games_as_support/",
           "source": "r/DotA2",
-          "published": "2026-11-05T23:34:53.000Z",
-          "score": 2.5,
+          "published": "2026-11-06T09:02:33.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "ending",
-            "official*"
+            "won"
           ]
         },
         {
@@ -216,22 +233,20 @@
           ]
         },
         {
-          "title": "A grim reminder that in just two weeks, we will make History.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xozkqp/a_grim_reminder_that_in_just_two_weeks_we_will/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T00:56:04.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "history"
-          ]
-        },
-        {
           "title": "All Dota 2 BLAST Slam Winners – Full List",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
           "source": "Google News: Dota (Hotspawn)",
           "published": "2026-11-05T23:41:27.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Real reason we have not recieved patch yet.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp90y2/real_reason_we_have_not_recieved_patch_yet/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T09:55:54.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -305,20 +320,26 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 2,
+      "scene": "Quake",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "I was accused of smurfing",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xp0yom/i_was_accused_of_smurfing/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-06T02:03:47.000Z",
+          "title": "Quake Champions: id’s Tim Willits on why id Tech 5 and Saber Interactive are a perfect fit",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtNjZ2aFMyRE1YTzVURGJod0o5R01fb2JYYm1Gb3VpeFBuUU1SMEgyV0VCaGVSR0w1RTUxUHhIVmRNcFl2RjJ3NVRIZnFlcWUyNkVmUGZhMFdaWWZGRlhpQWliaTJQaFptOURLQ1gzbDdKN18wZEM2RHowUV93V01BcUt0MG5qUzY1X2E4cXZ6QXduQlpkdEVjTFIyU0d3Tk83eFByTm1pUmZhdlJQMHduaw?oc=5",
+          "source": "Google News: Quake (Stevivor)",
+          "published": "2026-11-05T16:27:51.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "accused"
+            "champions"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
         {
           "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
           "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
@@ -331,18 +352,18 @@
       ]
     },
     {
-      "scene": "Quake",
+      "scene": "Tekken",
       "storyCount": 1,
       "stories": [
         {
-          "title": "[UT2004] Sacrifice — Inspired by Quake Champions",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xp008i/ut2004_sacrifice_inspired_by_quake_champions/",
-          "source": "r/QuakeChampions",
-          "published": "2026-11-06T01:16:49.000Z",
-          "score": 3,
+          "title": "Official Roger Jr.'s Character Panels for Tekken 8",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xp87r3/official_roger_jrs_character_panels_for_tekken_8/",
+          "source": "r/Tekken",
+          "published": "2026-11-06T09:02:03.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "champions"
+            "official"
           ]
         }
       ]
@@ -369,7 +390,6 @@
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
     "Halo"
   ]
