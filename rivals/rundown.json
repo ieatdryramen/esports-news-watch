@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T13:00:32.085Z",
+  "generatedAt": "2026-11-06T14:00:36.674Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 - Release, timings, new heroes & more details",
@@ -19,22 +19,10 @@
           ]
         },
         {
-          "title": "Marvel Rivals Update 20261105 Patch Notes",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iMkxqYkZQaU9zVVBEeHNTVTJFTlIwVW45QzlFckxoQ2RBekFjZnhKcmpTcHdPbjlNd3B1Q1hqb045Vnl0ZHM4ZEhINDFJcWc2cmlGWHBBajRtTklGemc0UjQ2bjF5Z25uajhXSENReUNnZ25pa3c?oc=5",
-          "source": "Google News: Rivals patches (TwistedVoxel)",
-          "published": "2026-11-05T13:34:49.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "update",
-            "patch notes"
-          ]
-        },
-        {
-          "title": "How to ACTUALLY Play COVER | Marvel Rivals Season 10.5",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UQ004VGJmQzViMkpvNWZpdGhxZ09FUGlkX0VWMjNVajVNS0JrTlZZblVuaTBKZVRXcGQtTFZMZ1dnUQ?oc=5",
-          "source": "Google News: Rivals patches (YouTube)",
-          "published": "2026-11-05T13:22:47.000Z",
+          "title": "When Does Marvel Rivals Season 11 Start?",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LWFlUY25nUm5DN2hMTDdZZHBTYVNSQVJ4ZWtsQkNMMF9XYTNoOFdTMUM4ejQxaEZUU2N1a0xCUG84aWt0TTJ3VHFNeTljNUxwTVFDRjdMRkFSbUJWelVNUzVUY0otWUFYUFE?oc=5",
+          "source": "Google News: Rivals patches (Beebom)",
+          "published": "2026-11-06T10:05:02.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -44,7 +32,7 @@
         {
           "title": "Marvel Rivals Yellow Jackets face harsh loss against Winthrop",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1dnYklkS3V3TEN4c2dBRkJ4MjdQVjlROU9hRXlYRVdmaXRacXJjWnk0c3Q5cm54X3ZacHl2MHZHZ0E3T0ticXA1VlppNXpFT1M0WV9GcFNHWXN0aUJLLVRReUgtdExySkM2OVFZT1FGTHRFWHpJYUVIakJKT25JVEpTdzcxeXdFQXRZS1F2VTQxYzMwekdfSXhaYjFSYUJqZFE?oc=5",
-          "source": "Google News: Rivals patches (Cedarville University)",
+          "source": "Google News: Rivals esports (Cedarville University)",
           "published": "2026-11-06T03:58:53.000Z",
           "score": 1,
           "level": null,
