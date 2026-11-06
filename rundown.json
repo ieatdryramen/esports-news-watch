@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-06T00:00:28.365Z",
+  "generatedAt": "2026-11-06T01:00:23.802Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 12,
       "stories": [
-        {
-          "title": "G2 Esports Parts Ways With Head Coach Perkz Following Controversial Statements",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekRGOXRMRThpdWYwYVBGTXNKYUd3S19jLW5JZDVySzBHd3ZCckZ1WGFMODJKZDNSRlN5aFlOOXNMeURpTndkb2lVNGpMMVdvU3g1UzdaM2xYVF9nVGJpXzdvdXRUd3NicWFKaTVES3loYUgzVzgzYWRKTERJTWg4MQ?oc=5",
-          "source": "Google News: CS2 (Hotspawn)",
-          "published": "2026-11-05T15:43:09.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "parts ways",
-            "g2"
-          ]
-        },
         {
           "title": "BLAST Rivals Season 2 talent announced",
           "url": "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
@@ -76,15 +64,6 @@
           ]
         },
         {
-          "title": "Falcons Pause CS2 Academy Falcons Force",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFFvNldmbjh6bDFpX01yVURyVVg0QURRNG0xZm5IaHVNWllRekdESzNjOTRheWp3UWVqYmpCMjNwME5CUWRiaTAwQ0NJVUlLSnczMS1PZVRRanROajZVVlF3REpvMFhsS1J5SXR4WmJOTzloNzBKc1JqM09xZENWZ2JfZjhOd25F?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-05T19:53:23.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Hall of Fame: Unveiling the 10 nominees of 2026",
           "url": "https://www.hltv.org/news/45912/hall-of-fame-unveiling-the-10-nominees-of-2026",
           "source": "HLTV news",
@@ -132,6 +111,27 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Counter-Strike Prize Money: The Biggest CS Payouts",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fY09lWFViak80OGxhVUlQNERRYVlCWFpqaThvV0l0QVZ2NWQtQkYybzRuQTA3YzFRdmtaR2poSEMtX0RYWkg2STRiQm1UYWs1RUNtenRkWmJkdlVkQzl5T2dSb2ZIbE4ydE1FbkFqcWlVZFhG?oc=5",
+          "source": "Google News: CS2 (Shane the Gamer)",
+          "published": "2026-11-05T07:36:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "1xBet brings esports betting to IEM Beijing 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnB4RUJuaEN0UnF1UjItbktIeUNKU3NldmYteVBieHJ6MXQ3TVIzLWM3OGhJMERscnZaeXdzbl91ekx6TWsxQk5aUURHSXBibVF2dFkwMHQtQjMwcTdvSXJUR1hac3hPWWlmY1ZfcWh0aGQ3a0RhM2tZOTdKWGtpclRkLU1TQUdU?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-05T03:50:54.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "iem",
+            "-betting"
+          ]
         }
       ]
     },
@@ -238,7 +238,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Trying to comeback (unsuccesful T.T) with a way worse draft vs a typical pubstomp team",
@@ -272,6 +272,17 @@
           "why": [
             "ending",
             "official*"
+          ]
+        },
+        {
+          "title": "A grim reminder that in just two weeks, we will make History.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xozkqp/a_grim_reminder_that_in_just_two_weeks_we_will/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T00:56:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "history"
           ]
         },
         {
@@ -355,15 +366,6 @@
           "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-05T03:31:11.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Maybe they be crafting a patch.. TODAY?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xou3ju/maybe_they_be_crafting_a_patch_today/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T20:58:40.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
