@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T14:00:31.790Z",
+  "generatedAt": "2026-11-06T15:00:28.343Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,19 +7,19 @@
       "storyCount": 18,
       "stories": [
         {
-          "title": "VISION vs Natus Vincere / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp9crm/vision_vs_natus_vincere_iem_beijing_2026/",
+          "title": "FURIA vs BB / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xpe4ao/furia_vs_bb_iem_beijing_2026_quarterfinal/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-06T10:16:12.000Z",
+          "published": "2026-11-06T14:26:42.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "aleksib*",
-            "b1t*",
-            "natus vincere"
+            "mouz*",
+            "furia",
+            "iem"
           ]
         },
         {
@@ -53,16 +53,27 @@
           ]
         },
         {
-          "title": "The Singapore Major is coming , so here are some fun fact:Navi (Born To Win) and Vitality are the only two organization that have won a major without dropping a map",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp64ui/the_singapore_major_is_coming_so_here_are_some/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-06T06:45:17.000Z",
-          "score": 6,
-          "level": "possible",
+          "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1R3WTlPRHVTOElJSFN1a3dER2FSNTRKRHBJblJHQWRxak1FUlZYNGRTV1VfMVQxaU1lLTQya09tWFZnRG9UTDVDVWZYUmlhRUF1STY5RTJ5UzlGSUpRNWNYcHFMSC01M0ZOaXdBdnhlQklHSUlxUlJtQ2VWXy1MRGpMSQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-06T14:48:29.000Z",
+          "score": 5,
+          "level": null,
           "why": [
-            "won",
             "navi",
-            "vitality"
+            "iem"
+          ]
+        },
+        {
+          "title": "BETBOOM reach Beijing semi-finals over FURIA",
+          "url": "https://www.hltv.org/news/45926/betboom-reach-beijing-semi-finals-over-furia",
+          "source": "HLTV news",
+          "published": "2026-11-06T14:42:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "mouz*",
+            "furia"
           ]
         },
         {
@@ -142,37 +153,13 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "HLTV Prospects ranking: November 2026",
-          "url": "https://www.hltv.org/news/45899/hltv-prospects-ranking-november-2026",
-          "source": "HLTV news",
-          "published": "2026-11-05T15:33:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "grand final*",
-            "pgl*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
-        {
-          "title": "Unofficial World Record Hero Healing",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp67lz/unofficial_world_record_hero_healing/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T06:50:06.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "world record",
-            "record"
-          ]
-        },
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
           "url": "https://esports.gg/news/dota-2/natus-vincere-wins-dota-2-epl-masters-iii/",
@@ -274,6 +261,17 @@
           ]
         },
         {
+          "title": "XE - PR, November 7, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNazVJNG1aa09LLTRTV1czZzl0NThXVTF0NVVMa01Xc0RzeGgzRGgwS2d2WFRMWFRPRmtIalpXUVV3Z1hqY2FzREduN1ZnMDR6a2lBb1lES0NMODBkNlJ2azN2UkxqY3UyUmxUU0JENzY5MnJNVFVMWTdEckJHbEo0bWp5cXhycmlpOHNvWDQyei1jOUtmLUhDaUtrWWFtb0ZQRXFoR1FYZFd2VkJPT2c?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-06T14:16:50.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
           "title": "Real reason we have not recieved patch yet.",
           "url": "https://www.reddit.com/r/DotA2/comments/1xp90y2/real_reason_we_have_not_recieved_patch_yet/",
           "source": "r/DotA2",
@@ -281,34 +279,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - Hk, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdibUczYVVLSlNKRDBqR3F4YjVMdkpsS0FORUF4REVicnlNdXY3ZVBLU3dyYW9TemQxVVlHazZ1TS1yUnM0dmJ5aUN5UmJpQzNydGpGaEd1RVM5VmZNVVdUNVBZNUcxT01OdGY5blN1dnVyOTNsU3RNa242T3RZVUdQQmwyOU9kUXI3YUYtTkVEZmpZYlZrS0R4bFhRWnc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-05T15:52:24.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Quake",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Quake Champions: id’s Tim Willits on why id Tech 5 and Saber Interactive are a perfect fit",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtNjZ2aFMyRE1YTzVURGJod0o5R01fb2JYYm1Gb3VpeFBuUU1SMEgyV0VCaGVSR0w1RTUxUHhIVmRNcFl2RjJ3NVRIZnFlcWUyNkVmUGZhMFdaWWZGRlhpQWliaTJQaFptOURLQ1gzbDdKN18wZEM2RHowUV93V01BcUt0MG5qUzY1X2E4cXZ6QXduQlpkdEVjTFIyU0d3Tk83eFByTm1pUmZhdlJQMHduaw?oc=5",
-          "source": "Google News: Quake (Stevivor)",
-          "published": "2026-11-05T16:27:51.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "champions"
-          ]
         }
       ]
     },
@@ -418,6 +388,7 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
+    "Quake",
     "Halo"
   ]
 }
