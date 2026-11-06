@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:00:26.596Z",
+  "generatedAt": "2026-11-06T09:00:24.136Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -100,6 +100,17 @@
           ]
         },
         {
+          "title": "IEM Cologne 2027 Wave 2 tickets",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp7r1p/iem_cologne_2027_wave_2_tickets/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-06T08:30:57.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
           "title": "CS2 Retakes Update Adds Instant Defuse and Shorter Round Delays",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YSkdOTGdtTHEycDBRRE9pM0o3c09MZEhLbS1VNUNMb3NEQjctc2pUTUtJdGRHV0luRlRxMWFCclJRLVFUZ2wtRlhQUG9DWmNXYTF1akRHbkkxeUNsY2ZtVkdncXM4X1NLZDRhLXFmZWItb1lMcGVpOTNB?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -127,21 +138,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Short news: Week 43",
-          "url": "https://www.hltv.org/news/45887/short-news-week-43",
-          "source": "HLTV news",
-          "published": "2026-11-05T18:24:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Unofficial World Record Hero Healing",
@@ -225,17 +227,6 @@
           ]
         },
         {
-          "title": "Congratz to the winner of EPL Masters 3",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xowz8v/congratz_to_the_winner_of_epl_masters_3/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T22:58:09.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "champions*"
-          ]
-        },
-        {
           "title": "All Dota 2 BLAST Slam Winners – Full List",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
           "source": "Google News: Dota (Hotspawn)",
@@ -245,22 +236,11 @@
           "why": []
         },
         {
-          "title": "[SPOILER] Are the winners of EPL Masters III",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xox1dg/spoiler_are_the_winners_of_epl_masters_iii/",
+          "title": "Congratulations to the winner of EPL Masters III",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp4afa/congratulations_to_the_winner_of_epl_masters_iii/",
           "source": "r/DotA2",
-          "published": "2026-11-05T23:00:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "grand finals*"
-          ]
-        },
-        {
-          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
-          "source": "Google News: Dota (Dot Esports)",
-          "published": "2026-11-05T08:46:00.000Z",
-          "score": 1,
+          "published": "2026-11-06T04:57:38.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -269,6 +249,55 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xp0gyx/where_patch_valve/",
           "source": "r/DotA2",
           "published": "2026-11-06T01:39:45.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - Hk, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdibUczYVVLSlNKRDBqR3F4YjVMdkpsS0FORUF4REVicnlNdXY3ZVBLU3dyYW9TemQxVVlHazZ1TS1yUnM0dmJ5aUN5UmJpQzNydGpGaEd1RVM5VmZNVVdUNVBZNUcxT01OdGY5blN1dnVyOTNsU3RNa242T3RZVUdQQmwyOU9kUXI3YUYtTkVEZmpZYlZrS0R4bFhRWnc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-05T15:52:24.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Ravens announced their contractually obligated roster if anyone still gives a shit",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp3hag/ravens_announced_their_contractually_obligated/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T04:12:18.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster",
+            "announced"
+          ]
+        },
+        {
+          "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-05T13:34:03.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "la thieves"
+          ]
+        },
+        {
+          "title": "Any other Scottish people going to Birmingham major? Id feel safer going with people than on my own thank you",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp7qt4/any_other_scottish_people_going_to_birmingham/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T08:30:30.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -302,49 +331,9 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Ravens announced their contractually obligated roster if anyone still gives a shit",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp3hag/ravens_announced_their_contractually_obligated/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T04:12:18.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "roster",
-            "announced"
-          ]
-        },
-        {
-          "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-05T13:34:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "la thieves"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Quake",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Quake Champions: id’s Tim Willits on why id Tech 5 and Saber Interactive are a perfect fit",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtNjZ2aFMyRE1YTzVURGJod0o5R01fb2JYYm1Gb3VpeFBuUU1SMEgyV0VCaGVSR0w1RTUxUHhIVmRNcFl2RjJ3NVRIZnFlcWUyNkVmUGZhMFdaWWZGRlhpQWliaTJQaFptOURLQ1gzbDdKN18wZEM2RHowUV93V01BcUt0MG5qUzY1X2E4cXZ6QXduQlpkdEVjTFIyU0d3Tk83eFByTm1pUmZhdlJQMHduaw?oc=5",
-          "source": "Google News: Quake (Stevivor)",
-          "published": "2026-11-05T16:27:51.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        },
         {
           "title": "[UT2004] Sacrifice — Inspired by Quake Champions",
           "url": "https://www.reddit.com/r/QuakeChampions/comments/1xp008i/ut2004_sacrifice_inspired_by_quake_champions/",
