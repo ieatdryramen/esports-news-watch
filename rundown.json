@@ -1,7 +1,140 @@
 {
-  "generatedAt": "2026-11-06T01:00:23.802Z",
+  "generatedAt": "2026-11-06T02:00:26.132Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "Dota",
+      "storyCount": 15,
+      "stories": [
+        {
+          "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
+          "url": "https://esports.gg/news/dota-2/natus-vincere-wins-dota-2-epl-masters-iii/",
+          "source": "esports.gg",
+          "published": "2026-11-06T01:10:10.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "wins",
+            "grand final*"
+          ]
+        },
+        {
+          "title": "Trying to comeback (unsuccesful T.T) with a way worse draft vs a typical pubstomp team",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xow48p/trying_to_comeback_unsuccesful_tt_with_a_way/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T22:19:57.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
+          ]
+        },
+        {
+          "title": "Why is dota 2 ending?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xoxt4m/why_is_dota_2_ending/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T23:34:53.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "ending",
+            "official*"
+          ]
+        },
+        {
+          "title": "A grim reminder that in just two weeks, we will make History.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xozkqp/a_grim_reminder_that_in_just_two_weeks_we_will/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T00:56:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "history"
+          ]
+        },
+        {
+          "title": "Dota 2 will be joining TF2 when Deadlock gets released.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xovutk/dota_2_will_be_joining_tf2_when_deadlock_gets/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T22:09:06.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
+          ]
+        },
+        {
+          "title": "Congratz to the winner of EPL Masters 3",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xowz8v/congratz_to_the_winner_of_epl_masters_3/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T22:58:09.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "champions*"
+          ]
+        },
+        {
+          "title": "Don’t blame the players for being so passionate about a “video game update”",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xowhlw/dont_blame_the_players_for_being_so_passionate/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T22:36:10.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update",
+            "return*"
+          ]
+        },
+        {
+          "title": "All Dota 2 BLAST Slam Winners – Full List",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-05T23:37:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "[SPOILER] Are the winners of EPL Masters III",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xox1dg/spoiler_are_the_winners_of_epl_masters_iii/",
+          "source": "r/DotA2",
+          "published": "2026-11-05T23:00:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "grand finals*"
+          ]
+        },
+        {
+          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
+          "source": "Google News: Dota (Dot Esports)",
+          "published": "2026-11-05T08:46:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 1win Essence III: All teams, schedules, results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-05T03:31:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Where patch Valve?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp0gyx/where_patch_valve/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T01:39:45.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
     {
       "scene": "CS2",
       "storyCount": 12,
@@ -136,21 +269,26 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 7,
+      "scene": "Tekken",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "M80 Boston announces their roster.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xophrg/m80_boston_announces_their_roster/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T17:59:12.000Z",
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-05T06:53:43.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "roster",
-            "announces"
+            "wins"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 5,
+      "stories": [
         {
           "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
@@ -196,17 +334,6 @@
           ]
         },
         {
-          "title": "M80 Roster Announcement Video",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xopyco/m80_roster_announcement_video/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-05T18:16:31.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
           "title": "Zoomaa's Team is CRASHING OUT during the 15K SnD Tournament",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xowv9o/zoomaas_team_is_crashing_out_during_the_15k_snd/",
           "source": "r/CoDCompetitive",
@@ -218,156 +345,19 @@
       ]
     },
     {
-      "scene": "Melee",
+      "scene": "Quake",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Centerstage Top 16 Projections",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xopf80/centerstage_top_16_projections/",
-          "source": "r/SSBM",
-          "published": "2026-11-05T17:56:33.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "upset*",
-            "jmook*",
-            "trif*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 15,
-      "stories": [
-        {
-          "title": "Trying to comeback (unsuccesful T.T) with a way worse draft vs a typical pubstomp team",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xow48p/trying_to_comeback_unsuccesful_tt_with_a_way/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T22:19:57.000Z",
+          "title": "[UT2004] Sacrifice — Inspired by Quake Champions",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xp008i/ut2004_sacrifice_inspired_by_quake_champions/",
+          "source": "r/QuakeChampions",
+          "published": "2026-11-06T01:16:49.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "comeback"
+            "champions"
           ]
-        },
-        {
-          "title": "GamerLegion and Yellow Submarine battle for the final spot at Dota 2 EPL Masters III grand final",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRleWNCZDA4bkJiTVBfdEpwWGstOU8weGVHLTl2NXNIUW9LRE9fam5Oa1ZuZk5qZFRkU1FXZl9yc2lkSS1hZGVhOUVIZjEwa1BpSzZ2R0pFUzN2N2l4cERBX0RTQ1Zqcm00MVNSWk9lVzB0dUN3Vk13cnJkVVdLREc4ZllaOTJ3Nms4?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-05T01:12:43.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "grand final"
-          ]
-        },
-        {
-          "title": "Why is dota 2 ending?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xoxt4m/why_is_dota_2_ending/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T23:34:53.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "ending",
-            "official*"
-          ]
-        },
-        {
-          "title": "A grim reminder that in just two weeks, we will make History.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xozkqp/a_grim_reminder_that_in_just_two_weeks_we_will/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T00:56:04.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "history"
-          ]
-        },
-        {
-          "title": "Dota 2 will be joining TF2 when Deadlock gets released.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xovutk/dota_2_will_be_joining_tf2_when_deadlock_gets/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T22:09:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        },
-        {
-          "title": "Congratz to the winner of EPL Masters 3",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xowz8v/congratz_to_the_winner_of_epl_masters_3/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T22:58:09.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "champions*"
-          ]
-        },
-        {
-          "title": "Don’t blame the players for being so passionate about a “video game update”",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xowhlw/dont_blame_the_players_for_being_so_passionate/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T22:36:10.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update",
-            "return*"
-          ]
-        },
-        {
-          "title": "Finally. 7.42 tomorrow confirmed.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xopbnj/finally_742_tomorrow_confirmed/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T17:52:53.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update*",
-            "confirmed"
-          ]
-        },
-        {
-          "title": "All Dota 2 BLAST Slam Winners – Full List",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-05T23:37:30.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "[SPOILER] Are the winners of EPL Masters III",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xox1dg/spoiler_are_the_winners_of_epl_masters_iii/",
-          "source": "r/DotA2",
-          "published": "2026-11-05T23:00:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "grand finals*"
-          ]
-        },
-        {
-          "title": "FISSURE confirms plans to repay outstanding CS2 & Dota 2 prize money",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbFNuN21rNGlrNkU4ajRIdm5VYjhFb3JTWG15MzgzdzJDWjBKN3NqSlpKWXhqRl9fc2wyVVBHalBKTm82S1d6TXNDNzhaUUc1eEpxdW1rbEtlSnc0ajNCU3JPeU8wTGpUTTlkUlVRNEFvbi1UVGw0SUFGLTlldw?oc=5",
-          "source": "Google News: Dota (Dot Esports)",
-          "published": "2026-11-05T08:46:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 1win Essence III: All teams, schedules, results",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-05T03:31:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -396,17 +386,30 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "First season ever where I get AT on every campaign track, just because the black AT's suddenly was way easier. But a win is a win!",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xp0mcf/first_season_ever_where_i_get_at_on_every/",
+          "source": "r/TrackMania",
+          "published": "2026-11-06T01:47:01.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
-    "Trackmania",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
-    "Quake",
     "Halo"
   ]
 }
