@@ -1,23 +1,9 @@
 {
-  "generatedAt": "2026-11-06T00:40:37.746Z",
+  "generatedAt": "2026-11-06T01:10:42.546Z",
   "source": "start.gg",
   "completed": [],
   "live": [],
-  "upcoming": [
-    {
-      "eventId": "1746373",
-      "scene": "tokon",
-      "game": "Fighting Souls",
-      "tournament": "MA: MARVEL Tōkon Fighting Souls NA #13 (PC/PS5) PHOENIX CYCLOPS IS HERE!",
-      "event": "MA: MARVEL Tōkon Fighting Souls NA #13 (PC/PS5) PHOENIX CYCLOPS IS HERE!",
-      "entrants": 55,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-06T01:00:00.000Z",
-      "endAt": "2026-11-07T01:00:00.000Z",
-      "url": "https://www.start.gg/tournament/ma-marvel-t-kon-fighting-souls-na-13-pc-ps5-phoenix-cyclops-is-here/event/ma-marvel-t-kon-fighting-souls-na-13-pc-ps5-phoenix-cyclops-is-here"
-    }
-  ],
+  "upcoming": [],
   "games": {
     "Fighting Souls": [
       {
