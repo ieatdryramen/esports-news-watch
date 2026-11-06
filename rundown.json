@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:00:27.946Z",
+  "generatedAt": "2026-11-06T14:00:31.790Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -63,6 +63,18 @@
             "won",
             "navi",
             "vitality"
+          ]
+        },
+        {
+          "title": "chopper has left Spirit",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xpcdfz/chopper_has_left_spirit/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-06T13:08:12.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "free agent*",
+            "spirit"
           ]
         },
         {
@@ -142,17 +154,6 @@
             "grand final*",
             "pgl*"
           ]
-        },
-        {
-          "title": "Stake Pulse 2027: Six CS2 Events Announced By Stake And BME",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1RTOWdhLUxka2wtR3VDQjhOVEJySjhYNGJaR29VLXZMMkhuVVdGbi1qSm0wQjVyYU9MRnJZVzFGdDNHME8xRHV6c3dBYzZpMGJaMmZud2NEYVQtYjlWc0R1MFVZaVJlTXVwY2pybmhoOWlsMkx5LW5xeUlLaUhJM2pBMWs4WHotbklkLXBSS3JmektuOURFVXRPeFE?oc=5",
-          "source": "Google News: CS2 (Gambling.com)",
-          "published": "2026-11-05T13:18:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "announced"
-          ]
         }
       ]
     },
@@ -219,6 +220,17 @@
           ]
         },
         {
+          "title": "Update: full item builds by game phase, smarter search, and a new Top Players page",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpdg1v/update_full_item_builds_by_game_phase_smarter/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T13:58:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "What happened to DreamLeague Div2 Season 5 stream today?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xpabwj/what_happened_to_dreamleague_div2_season_5_stream/",
           "source": "r/DotA2",
@@ -240,6 +252,17 @@
           "why": []
         },
         {
+          "title": "No patch this week boys and girls- try again next week",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpba7u/no_patch_this_week_boys_and_girls_try_again_next/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T12:12:30.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "confirmed*"
+          ]
+        },
+        {
           "title": "Will all those characters from the Quatero''s Curio and the other event become Heroes?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xp9ldb/will_all_those_characters_from_the_quateros_curio/",
           "source": "r/DotA2",
@@ -251,28 +274,10 @@
           ]
         },
         {
-          "title": "No patch this week boys and girls- try again next week",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpba7u/no_patch_this_week_boys_and_girls_try_again_next/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T12:12:30.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Real reason we have not recieved patch yet.",
           "url": "https://www.reddit.com/r/DotA2/comments/1xp90y2/real_reason_we_have_not_recieved_patch_yet/",
           "source": "r/DotA2",
           "published": "2026-11-06T09:55:54.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Congratulations to the winner of EPL Masters III",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp4afa/congratulations_to_the_winner_of_epl_masters_iii/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T04:57:38.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -326,7 +331,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "M80 Boston Reveals 2027 CDL Roster Ahead of Monster Energy Launch Invitational",
@@ -337,17 +342,6 @@
           "level": null,
           "why": [
             "roster"
-          ]
-        },
-        {
-          "title": "CDL Launch Invitational Preview: LA Thieves in Group of Death",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnYwWHhDa1I4R2p5amU3YXpHS19VOEppdUVoTWd1ZXNwUXo3bEh4VE9ZRnhaWEhWVUdVM3pyY1dkVEVGSFpKLVFVdXV4TjRKVVlQTWZkVTdQVHR5TDk1dWo3S01SLWtVRjN6X1Q4NGNkUEpNLUNvaEtneXBobVBybTFZZE1fcGl6a3FraTFKTTh2QTFlS3hNa2xuTWNSZzEyRkxJbk1fZ2RnZEY3bWlRUEE0bnBrdw?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-05T13:34:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "la thieves"
           ]
         },
         {
