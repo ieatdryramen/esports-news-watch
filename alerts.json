@@ -375,26 +375,6 @@
       ],
       "summary": "submitted by /u/maturedumbass to r/GlobalOffensive [link] [comments]",
       "published": "2026-11-04T08:54:07.000Z"
-    },
-    {
-      "alertedAt": "2026-11-04T08:00:27.809Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "How did I get flagged by VAC for cheating? I'm not cheating and am playing like absolute doodoo. Can ya'll identify what about my gameplay made the anticheat go off?",
-      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xnijf6/how_did_i_get_flagged_by_vac_for_cheating_im_not/",
-      "source": "r/GlobalOffensive",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 9,
-      "why": [
-        "cheating",
-        "vac",
-        "canceled*",
-        "reddit only"
-      ],
-      "summary": "This my first game after playing a lot of Siege. For some reason, after this round, the match got canceled and i got put on a 28hr cooldown by VAC. Do yall notice anything that could set it off? Do I have to worry about it going off again, or is there something I can do to prevent this issue? I hope this doesn't break rule 3, since this doesn't really seem like a hardware thing. submitted by /u/forkaerospace to r/GlobalOffensive [link] [comments]",
-      "published": "2026-11-04T07:58:58.000Z"
     }
   ]
 }
