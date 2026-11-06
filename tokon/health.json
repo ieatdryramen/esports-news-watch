@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:10:36.336Z",
+  "generatedAt": "2026-11-06T00:05:52.704Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -14,7 +14,7 @@
       "ok": true,
       "skipped": false,
       "items": 50,
-      "newest": "2026-11-05T21:09:30.000Z",
+      "newest": "2026-11-05T21:19:51.000Z",
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-05T19:26:00.000Z",
+      "newest": "2026-11-05T23:14:58.000Z",
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-05T23:07:24.000Z",
+      "newest": "2026-11-05T23:52:19.000Z",
       "error": null
     },
     {
@@ -62,40 +62,40 @@
       "ok": true,
       "skipped": false,
       "items": 25,
-      "newest": "2026-11-05T18:30:00.000Z",
+      "newest": "2026-11-06T00:00:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Tokon",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "items": 5,
-      "newest": "2026-11-05T18:29:04.000Z",
-      "error": null
+      "items": 0,
+      "newest": null,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: Tokon competitive",
-      "ok": true,
+      "ok": false,
       "skipped": false,
       "items": 0,
       "newest": null,
-      "error": null
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: Tokon patches + DLC",
-      "ok": true,
-      "skipped": false,
-      "items": 7,
-      "newest": "2026-11-05T18:29:04.000Z",
-      "error": null
-    },
-    {
-      "name": "Google News: EventHubs/Dot/Dashfight",
-      "ok": true,
+      "ok": false,
       "skipped": false,
       "items": 0,
       "newest": null,
-      "error": null
+      "error": "HTTP 503"
+    },
+    {
+      "name": "Google News: EventHubs/Dot/Dashfight",
+      "ok": false,
+      "skipped": false,
+      "items": 0,
+      "newest": null,
+      "error": "HTTP 503"
     },
     {
       "name": "Reddit (2 subs, public feed)",
