@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-06T10:25:15.855Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "NAVI reverse sweep PARIVISION to make the semi-finals in Beijing",
+      "url": "https://www.hltv.org/news/45923/navi-reverse-sweep-parivision-to-make-the-semi-finals-in-beijing",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 7,
+      "why": [
+        "reverse sweep",
+        "navi"
+      ],
+      "summary": "NAVI's late-season resurgence reaches new heights with a semi-finals appearance in China.",
+      "published": "2026-11-06T10:24:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-06T10:20:18.094Z",
       "level": "possible",
       "scene": "CS2",
