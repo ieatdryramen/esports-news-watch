@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:40:22.625Z",
+  "generatedAt": "2026-11-06T01:10:21.339Z",
   "source": "start.gg",
   "completed": [
     {
@@ -142,53 +142,6 @@
           "name": "MØB | The Chamberlain"
         }
       ]
-    },
-    {
-      "eventId": "1743628",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "TNS Guilty Gear Strive #229",
-      "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 112,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-03T01:00:00.000Z",
-      "endAt": "2026-11-03T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-229/event/guilty-gear-strive-crossplay",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "UMISHO"
-        },
-        {
-          "placement": 2,
-          "name": "ONi | RedIAmNot"
-        },
-        {
-          "placement": 3,
-          "name": "Classified"
-        },
-        {
-          "placement": 4,
-          "name": "Gamer Supps | FubukiVr"
-        },
-        {
-          "placement": 5,
-          "name": "SQ"
-        },
-        {
-          "placement": 5,
-          "name": "UNF | CloverDragon"
-        },
-        {
-          "placement": 7,
-          "name": "iDom"
-        },
-        {
-          "placement": 7,
-          "name": "Deafheaven"
-        }
-      ]
     }
   ],
   "live": [],
@@ -212,7 +165,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Frame 19",
       "event": "Melee Singles",
-      "entrants": 115,
+      "entrants": 116,
       "online": false,
       "major": false,
       "startAt": "2026-11-07T16:00:00.000Z",

@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-06T01:10:21.339Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
+      "url": "https://esports.gg/news/dota-2/natus-vincere-wins-dota-2-epl-masters-iii/",
+      "source": "esports.gg",
+      "outlets": [
+        "esports.gg"
+      ],
+      "score": 5,
+      "why": [
+        "wins",
+        "grand final*"
+      ],
+      "summary": "Natus Vincere ended their EPL Masters III campaign with a clean slate in the upper bracket, defeating GamerLegion in the grand final.",
+      "published": "2026-11-06T01:10:10.000Z"
+    },
+    {
       "alertedAt": "2026-11-05T19:05:15.425Z",
       "level": "breaking",
       "scene": "CS2",
