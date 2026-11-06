@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-06T10:00:23.343Z",
+  "generatedAt": "2026-11-06T11:00:28.225Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 23,
       "stories": [
+        {
+          "title": "VISION vs Natus Vincere / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp9crm/vision_vs_natus_vincere_iem_beijing_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-06T10:16:12.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "aleksib*",
+            "b1t*",
+            "natus vincere"
+          ]
+        },
         {
           "title": "G2 Esports Parts Ways With Head Coach Perkz Following Controversial Statements",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekRGOXRMRThpdWYwYVBGTXNKYUd3S19jLW5JZDVySzBHd3ZCckZ1WGFMODJKZDNSRlN5aFlOOXNMeURpTndkb2lVNGpMMVdvU3g1UzdaM2xYVF9nVGJpXzdvdXRUd3NicWFKaTVES3loYUgzVzgzYWRKTERJTWg4MQ?oc=5",
@@ -16,6 +32,22 @@
           "why": [
             "parts ways",
             "g2"
+          ]
+        },
+        {
+          "title": "Which changes do you expect if they lose the Major?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp96jx/which_changes_do_you_expect_if_they_lose_the_major/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-06T10:05:20.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "retiring*",
+            "vitality*",
+            "g2*",
+            "spirit*",
+            "mouz*",
+            "furia*"
           ]
         },
         {
@@ -69,6 +101,17 @@
           ]
         },
         {
+          "title": "NAVI reverse-sweep PARIVISION to make the semi-finals in Beijing",
+          "url": "https://www.hltv.org/news/45923/navi-reverse-sweep-parivision-to-make-the-semi-finals-in-beijing",
+          "source": "HLTV news",
+          "published": "2026-11-06T10:24:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "navi"
+          ]
+        },
+        {
           "title": "bro got knocked out so early he’s doing side quests 😭😭",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp8ekz/bro_got_knocked_out_so_early_hes_doing_side_quests/",
           "source": "r/GlobalOffensive",
@@ -111,46 +154,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "HLTV Prospects ranking: November 2026",
-          "url": "https://www.hltv.org/news/45899/hltv-prospects-ranking-november-2026",
-          "source": "HLTV news",
-          "published": "2026-11-05T15:33:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "grand final*",
-            "pgl*"
-          ]
-        },
-        {
-          "title": "Stake Pulse 2027: Six CS2 Events Announced By Stake And BME",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1RTOWdhLUxka2wtR3VDQjhOVEJySjhYNGJaR29VLXZMMkhuVVdGbi1qSm0wQjVyYU9MRnJZVzFGdDNHME8xRHV6c3dBYzZpMGJaMmZud2NEYVQtYjlWc0R1MFVZaVJlTXVwY2pybmhoOWlsMkx5LW5xeUlLaUhJM2pBMWs4WHotbklkLXBSS3JmektuOURFVXRPeFE?oc=5",
-          "source": "Google News: CS2 (Gambling.com)",
-          "published": "2026-11-05T13:18:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "announced"
-          ]
-        },
-        {
-          "title": "Life of every Navi awper",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xp888c/life_of_every_navi_awper/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-06T09:02:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "navi"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Unofficial World Record Hero Healing",
@@ -185,18 +194,6 @@
           "level": null,
           "why": [
             "cheater"
-          ]
-        },
-        {
-          "title": "Is this comeback because of draft?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp0xqy/is_this_comeback_because_of_draft/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T02:02:25.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "comeback",
-            "won*"
           ]
         },
         {
@@ -242,6 +239,17 @@
           "why": []
         },
         {
+          "title": "Will all those characters from the Quatero''s Curio and the other event become Heroes?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xp9ldb/will_all_those_characters_from_the_quateros_curio/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T10:31:12.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "return*"
+          ]
+        },
+        {
           "title": "Real reason we have not recieved patch yet.",
           "url": "https://www.reddit.com/r/DotA2/comments/1xp90y2/real_reason_we_have_not_recieved_patch_yet/",
           "source": "r/DotA2",
@@ -255,15 +263,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xp4afa/congratulations_to_the_winner_of_epl_masters_iii/",
           "source": "r/DotA2",
           "published": "2026-11-06T04:57:38.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Where patch Valve?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp0gyx/where_patch_valve/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T01:39:45.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -283,7 +282,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Ravens announced their contractually obligated roster if anyone still gives a shit",
@@ -295,6 +294,29 @@
           "why": [
             "roster",
             "announced"
+          ]
+        },
+        {
+          "title": "Faze missed the opportunity",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp9xqt/faze_missed_the_opportunity/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T10:53:11.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster*",
+            "faze"
+          ]
+        },
+        {
+          "title": "M80 Boston Reveals 2027 CDL Roster Ahead of Monster Energy Launch Invitational",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWNrcm0wOFg4bG9aZl9qMUlYb2F3bHBYUXFzeGVNRlZnWjZOQnRGR1RBUFRPZXFaQ1FFaUE2MEhyVURlNXZWYU9ueTVqdHlZd3RvTDlMcHB3RE9vajdPVXRMczFMOUl0OVFkeVMtM1hldjk3VERRWGlzWVVmTFdPVFZhdEk1Z2hDLVNncGZQRUhGYklIMzdJUzhCeV92bDB2M1A0Tg?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-06T10:12:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
           ]
         },
         {
@@ -338,8 +360,17 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "「CAPCOM CUP 13」「SFL ワールドチャンピオンシップ 2026」会場観戦チケットが先着販売開始！11月9日19:00から",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETdIBgwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETQ?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-06T08:50:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
           "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
@@ -367,21 +398,6 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "First season ever where I get AT on every campaign track, just because the black AT's suddenly was way easier. But a win is a win!",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xp0mcf/first_season_ever_where_i_get_at_on_every/",
-          "source": "r/TrackMania",
-          "published": "2026-11-06T01:47:01.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -389,6 +405,7 @@
     "AoE2",
     "Classic Tetris",
     "Brood War",
+    "Trackmania",
     "Warcraft III",
     "Legacy FGC",
     "Halo"
