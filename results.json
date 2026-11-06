@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:40:20.376Z",
+  "generatedAt": "2026-11-06T07:10:18.104Z",
   "source": "start.gg",
   "completed": [
     {
@@ -146,19 +146,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1611249",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Wave Land 2026",
-      "event": "Melee Singles",
-      "entrants": 104,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T02:00:00.000Z",
-      "endAt": "2026-11-08T10:30:00.000Z",
-      "url": "https://www.start.gg/tournament/wave-land-2026/event/melee-singles"
-    },
     {
       "eventId": "1687062",
       "scene": "melee",
