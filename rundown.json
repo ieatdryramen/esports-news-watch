@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T18:50:19.343Z",
+  "generatedAt": "2026-11-06T19:45:25.622Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 21,
       "stories": [
         {
           "title": "FURIA vs BB / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
@@ -95,18 +95,6 @@
           ]
         },
         {
-          "title": "chopper has left Spirit",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xpcdfz/chopper_has_left_spirit/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-06T13:08:12.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "free agent*",
-            "spirit"
-          ]
-        },
-        {
           "title": "Magnojez: \"Another cinema game versus FURIA; no one beats BETBOOM six times\"",
           "url": "https://www.hltv.org/news/45928/magnojez-another-cinema-game-versus-furia-no-one-beats-betboom-six-times",
           "source": "HLTV news",
@@ -115,17 +103,6 @@
           "level": null,
           "why": [
             "furia"
-          ]
-        },
-        {
-          "title": "Singapore Regulators crackdown on PGL Major over gambling concerns",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWk1hZUZVVGZSNENuVzhZQWlIeVJXQXVDX3MyWG1EdFZob21tZ04zeTNGSFdremE1R091QnZtSjhPNEJ3WXc3T1NXVExqZ2hIRzRZcXd5TFBMX25zc01WblRMeTBLWFRlQTZrbHRueUJEM3k1UVdsRzFncWhfakN1Z2Q2cS1QZ0pDMHNVVTRReGJsTzM5T1YzT1phcGlQTmJhNUhfQ1hVYnpQSnJJ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-06T17:58:30.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -149,25 +126,35 @@
           "why": [
             "astralis"
           ]
+        },
+        {
+          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-06T16:13:07.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "PGL Will Fine CS2 Teams $30,000 for Withdrawing From Its Events",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUYtcFZOTm84UXl5eEdDczdqVzUyUmpad1pEd25GcVpPSkd1OVpJaHprLUkxVFZGOXFnSkg5WHFVaDNYc3N5Mm81c1pNZm4zeHdjVUdZclB5Q1pCemlGSE5DejhRdU9sZ0xJWk02MFhaS1lHd041MjRaNkR5YkFfdC12YWNrOXM?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-06T14:55:12.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
-        {
-          "title": "Gaimin Gladiators tease possible comeback to Dota 2 for first time after scandalous TI14 withdrawal",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRllkeW5jNV9YYmVwYm9mTXVSaVBUMzY5MnZFSTgwWGNCb2JuYVFsTmNnaU9oZGZtZ0I4RjY3U2o2Y01Nb0U2QTdnUGFlSFpGa0dZN3hQVzJkcU85YlZSV0ZmWG1aazVkUTBSZTZsd05xVzBDX3dqUWxGaG8zTFZIWVdLbmo3a1VweUtQbVFQN2lxUk8zcXoyM09GYURNY216Y0xXYTRHal9WajBteUg3ZmdYcHVfUXM2b3lvcXdrVElSbjZLWC1VTDBqYnJ4c1pWSGY4M1Bnd2NTM1E?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-06T10:17:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "comeback",
-            "gaimin gladiators"
-          ]
-        },
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
           "url": "https://esports.gg/news/dota-2/natus-vincere-wins-dota-2-epl-masters-iii/",
@@ -232,6 +219,17 @@
           "why": []
         },
         {
+          "title": "LVLUP.A - XE, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamhIdmk2UWp3OG1WdEtNUGdoMXhwSTU1ZlVNNGJOYnVtTHFPeUtCS3IzMXFfWi0xb0hQWFI4bllkV0ozbno1MWN5aTRpMlBHSGRKb3VPMUdBcW1XUFNicXVGYmZVeEtXQUlEQldVMmdPZ084NEg0dnVQZk1VYUpYd19EajVpSGZNX1BBanI0OU5TSU1Na3BXUDBTOERNYm8yRTFRZW45VE0?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-06T18:45:00.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
           "title": "No patch + Lower bracket is full of smurfs",
           "url": "https://www.reddit.com/r/DotA2/comments/1xpk0d6/no_patch_lower_bracket_is_full_of_smurfs/",
           "source": "r/DotA2",
@@ -248,17 +246,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - PR, November 7, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNazVJNG1aa09LLTRTV1czZzl0NThXVTF0NVVMa01Xc0RzeGgzRGgwS2d2WFRMWFRPRmtIalpXUVV3Z1hqY2FzREduN1ZnMDR6a2lBb1lES0NMODBkNlJ2azN2UkxqY3UyUmxUU0JENzY5MnJNVFVMWTdEckJHbEo0bWp5cXhycmlpOHNvWDQyei1jOUtmLUhDaUtrWWFtb0ZQRXFoR1FYZFd2VkJPT2c?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-06T14:16:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -308,7 +295,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Rival Battles were fun and added a lot of flavor to Street Fighter. I hope they make a comeback someday",
@@ -335,15 +322,6 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETdIBgwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETQ?oc=5",
           "source": "Google News: Street Fighter (Saiga NAK)",
           "published": "2026-11-06T08:50:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
-          "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
-          "source": "Dexerto",
-          "published": "2026-11-05T19:37:27.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -397,24 +375,10 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Was the Hax tournament basically rigged for M2K to win?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xpbywz/was_the_hax_tournament_basically_rigged_for_m2k/",
-          "source": "r/SSBM",
-          "published": "2026-11-06T12:48:31.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
