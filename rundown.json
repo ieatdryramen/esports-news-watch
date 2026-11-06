@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T20:45:18.802Z",
+  "generatedAt": "2026-11-06T21:45:20.924Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 18,
       "stories": [
         {
           "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
@@ -90,6 +90,17 @@
           ]
         },
         {
+          "title": "Singapore Regulators crackdown on PGL Major over gambling concerns",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWk1hZUZVVGZSNENuVzhZQWlIeVJXQXVDX3MyWG1EdFZob21tZ04zeTNGSFdremE1R091QnZtSjhPNEJ3WXc3T1NXVExqZ2hIRzRZcXd5TFBMX25zc01WblRMeTBLWFRlQTZrbHRueUJEM3k1UVdsRzFncWhfakN1Z2Q2cS1QZ0pDMHNVVTRReGJsTzM5T1YzT1phcGlQTmJhNUhfQ1hVYnpQSnJJ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-06T17:58:30.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Media: history to play for 9z at Singapore Major",
           "url": "https://www.hltv.org/news/45930/media-history-to-play-for-9z-at-singapore-major",
           "source": "HLTV news",
@@ -132,17 +143,6 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "PGL add anti-withdrawal fines to rulebook: \"This is done to create a more professional scene\"",
-          "url": "https://www.hltv.org/news/45924/pgl-add-anti-withdrawal-fines-to-rulebook-this-is-done-to-create-a-more-professional-scene",
-          "source": "HLTV news",
-          "published": "2026-11-06T12:29:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
@@ -163,17 +163,6 @@
           ]
         },
         {
-          "title": "i caught another cheater",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xphnpp/i_caught_another_cheater/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T16:49:06.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
           "title": "The International 2026 and Competitive Season Recap",
           "url": "https://www.reddit.com/r/DotA2/comments/1xpho62/the_international_2026_and_competitive_season/",
           "source": "r/DotA2",
@@ -182,6 +171,17 @@
           "level": null,
           "why": [
             "the international"
+          ]
+        },
+        {
+          "title": "How do you even counter Techies this patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpoae6/how_do_you_even_counter_techies_this_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T21:10:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
           ]
         },
         {
@@ -226,7 +226,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 1 | Official Discussion Thread",
@@ -256,6 +256,28 @@
           ]
         },
         {
+          "title": "Post Match Thread: Miami Heretics vs. Vancouver Surge | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnzrf/post_match_thread_miami_heretics_vs_vancouver/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T20:58:50.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "miami heretics"
+          ]
+        },
+        {
+          "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnrkx/post_match_thread_g2_minnesota_vs_carolina_royal/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T20:49:17.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "carolina royal ravens"
+          ]
+        },
+        {
           "title": "Pred in C9 losses",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnije/pred_in_c9_losses/",
           "source": "r/CoDCompetitive",
@@ -264,17 +286,6 @@
           "level": null,
           "why": [
             "pred"
-          ]
-        },
-        {
-          "title": "Post Match Thread: OpTic Texas vs. Stallions | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnh92/post_match_thread_optic_texas_vs_stallions/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T20:37:28.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "optic texas"
           ]
         },
         {
