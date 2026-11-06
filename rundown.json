@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T12:00:24.988Z",
+  "generatedAt": "2026-11-06T13:00:27.946Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 18,
       "stories": [
         {
           "title": "VISION vs Natus Vincere / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
@@ -20,18 +20,6 @@
             "aleksib*",
             "b1t*",
             "natus vincere"
-          ]
-        },
-        {
-          "title": "G2 Esports Parts Ways With Head Coach Perkz Following Controversial Statements",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekRGOXRMRThpdWYwYVBGTXNKYUd3S19jLW5JZDVySzBHd3ZCckZ1WGFMODJKZDNSRlN5aFlOOXNMeURpTndkb2lVNGpMMVdvU3g1UzdaM2xYVF9nVGJpXzdvdXRUd3NicWFKaTVES3loYUgzVzgzYWRKTERJTWg4MQ?oc=5",
-          "source": "Google News: CS2 (Hotspawn)",
-          "published": "2026-11-05T15:43:09.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "parts ways",
-            "g2"
           ]
         },
         {
@@ -78,14 +66,14 @@
           ]
         },
         {
-          "title": "Monte Signs Rocketbet as CS2 Title Partner a Day After CCT Europe Win",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdENlNnJnMkZuc0ljcHlsdFZodGVrRnRvU2E1WEdlUFNnN2VhdDluZ3ljNmFKU2pSb1gyb21MSWcyUnNQRllESUc3Zk9nWGdLZWpGcFpOanh1dzZzWFhDM0xieVJTWUpHVHdSeHBXRGlCY1ZYNVdzVFhUUUVLN2hmN0RDek13dE5MbTBEaGtZVE5MVjlNWGxvdkZCTDh4ai1ycjlrRzNLUE8?oc=5",
-          "source": "Google News: CS2 (Shane the Gamer)",
-          "published": "2026-11-05T16:15:59.000Z",
-          "score": 4,
+          "title": "PGL add anti-withdrawal fines to rulebook: \"This is done to create a more professional scene\"",
+          "url": "https://www.hltv.org/news/45924/pgl-add-anti-withdrawal-fines-to-rulebook-this-is-done-to-create-a-more-professional-scene",
+          "source": "HLTV news",
+          "published": "2026-11-06T12:29:00.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "signs"
+            "pgl"
           ]
         },
         {
@@ -119,6 +107,17 @@
           "level": null,
           "why": [
             "iem"
+          ]
+        },
+        {
+          "title": "G2's 2027 Rebuild: No Head Coach, SkewMond Stuck on a Buyout and Two Starters Days From Free Agency",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjJNLXJBNDdDMVlOVklia0NkYnBUWThTY1NRVlRNcEZsUVk5UkItQVdKWVAyeGZjNVowdndYZFVmYW1CdWVfbGNxUy1CUXZ1ekRtUkJfQjRkWDQ2eVlLbzN2VFRLVGtjZ2VfZnJKc0w0Q0xBZXNqenJJWVlQcFVlcmlFUWk0RldrZVF1Q3VR?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-06T06:34:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "g2"
           ]
         },
         {
@@ -197,17 +196,6 @@
           ]
         },
         {
-          "title": "caught another cheater again",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xp8o68/caught_another_cheater_again/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T09:32:20.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
           "title": "EPL Southeast Tournament winner",
           "url": "https://www.reddit.com/r/DotA2/comments/1xpadfg/epl_southeast_tournament_winner/",
           "source": "r/DotA2",
@@ -263,6 +251,15 @@
           ]
         },
         {
+          "title": "No patch this week boys and girls- try again next week",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpba7u/no_patch_this_week_boys_and_girls_try_again_next/",
+          "source": "r/DotA2",
+          "published": "2026-11-06T12:12:30.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Real reason we have not recieved patch yet.",
           "url": "https://www.reddit.com/r/DotA2/comments/1xp90y2/real_reason_we_have_not_recieved_patch_yet/",
           "source": "r/DotA2",
@@ -294,33 +291,43 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 5,
+      "scene": "Quake",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Ravens announced their contractually obligated roster if anyone still gives a shit",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp3hag/ravens_announced_their_contractually_obligated/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T04:12:18.000Z",
+          "title": "Quake Champions: id’s Tim Willits on why id Tech 5 and Saber Interactive are a perfect fit",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtNjZ2aFMyRE1YTzVURGJod0o5R01fb2JYYm1Gb3VpeFBuUU1SMEgyV0VCaGVSR0w1RTUxUHhIVmRNcFl2RjJ3NVRIZnFlcWUyNkVmUGZhMFdaWWZGRlhpQWliaTJQaFptOURLQ1gzbDdKN18wZEM2RHowUV93V01BcUt0MG5qUzY1X2E4cXZ6QXduQlpkdEVjTFIyU0d3Tk83eFByTm1pUmZhdlJQMHduaw?oc=5",
+          "source": "Google News: Quake (Stevivor)",
+          "published": "2026-11-05T16:27:51.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "roster",
-            "announced"
+            "champions"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "Faze missed the opportunity",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xp9xqt/faze_missed_the_opportunity/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T10:53:11.000Z",
-          "score": 3,
+          "title": "Blocking Toxic Player or cheater",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xpblyo/blocking_toxic_player_or_cheater/",
+          "source": "r/aoe2",
+          "published": "2026-11-06T12:29:57.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "roster*",
-            "faze"
+            "cheater"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
         {
           "title": "M80 Boston Reveals 2027 CDL Roster Ahead of Monster Energy Launch Invitational",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWNrcm0wOFg4bG9aZl9qMUlYb2F3bHBYUXFzeGVNRlZnWjZOQnRGR1RBUFRPZXFaQ1FFaUE2MEhyVURlNXZWYU9ueTVqdHlZd3RvTDlMcHB3RE9vajdPVXRMczFMOUl0OVFkeVMtM1hldjk3VERRWGlzWVVmTFdPVFZhdEk1Z2hDLVNncGZQRUhGYklIMzdJUzhCeV92bDB2M1A0Tg?oc=5",
@@ -356,8 +363,17 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "「CAPCOM CUP 13」「SFL ワールドチャンピオンシップ 2026」会場観戦チケットが先着販売開始！11月9日19:00から",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETdIBgwFBVV95cUxQdEFjT01iS1Q0SHMwVGFjUW5XcVZiS0NaN0tacW1Ha2R2RE1ZRmxkVE95MUlUQzBDSTZCdHVsR0JHZzIxV09OVDhXT2pkd1R6X3NCWXRhWTRQYnpDMURPSmlBYUFZMlBpYlE3TWFEUGwzNl9VckdkSFVsaVUzb0NkMFNETQ?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-06T08:50:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Drinkable Street Fighter trading cards have baffled fans predicting Pokemon & Yu-Gi-Oh versions",
           "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/",
@@ -385,17 +401,29 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Was the Hax tournament basically rigged for M2K to win?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xpbywz/was_the_hax_tournament_basically_rigged_for_m2k/",
+          "source": "r/SSBM",
+          "published": "2026-11-06T12:48:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
-    "Melee",
-    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "Quake",
     "Halo"
   ]
 }
