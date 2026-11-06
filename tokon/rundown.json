@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T11:00:33.333Z",
+  "generatedAt": "2026-11-06T12:00:31.681Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Phoenix Cyclops, patch notes now available for Marvel Tokon: Fighting Souls",
@@ -16,6 +16,15 @@
           "why": [
             "patch notes"
           ]
+        },
+        {
+          "title": "Marvel Tokon adds Phoenix Cyclops, The Division 2 opens Central Park, Genshin Impact launches v7.2, and this week’s free games.",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZG8tWHZLaTNHNG1NSW9lVzcyXzlEYUV1eGR5RDBwWjJyVGY1bC00dENVdkwtcFdFa2FaZDVXM3gwQl91cVB4TmtqMHZRX2tfMWNpWS1lYVJscEoxdEpSbjN2bW13TDdneGtkSk9CanpNNHBQSEtqbEgwOEVkbGFJM2dYcWZfdw?oc=5",
+          "source": "Google News: Tokon (Epic Games)",
+          "published": "2026-11-06T11:17:47.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Tokon stories",

@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-06T11:00:32.450Z",
+  "generatedAt": "2026-11-06T12:00:30.494Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
-          "title": "Marvel Rivals Season 11 Release Date, Start Times & New Heroes",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUZyTUVMU3BxSlNQazdnUHFSMldfT3o0Q0FacENuakYycThvZDhpeWFvdmpja1pIZ3IycUdMT3gtNGJHVzdGVGp6cnFoV3c4N182MDR2aVp4bmdkcnFGR0lFcUZLOTVWM0dYUUFjbmxPcEpDNGdSd0M1WHpEZmtCWWNCTnZ2Mmw1Rk0wTFBaY3E?oc=5",
-          "source": "Google News: Rivals patches (Insider Gaming)",
-          "published": "2026-11-05T17:08:14.000Z",
+          "title": "Marvel Rivals Season 11 - Release, timings, new heroes & more details",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCdDR5azNqLW03UzlnOGtGZlZjVm9NRTV0VFM0VVFONi1OZC1oWGZEaWRqQTRZM3JHZ0owX2stTERfT3plbXlUUjV5V1RmU1AyS0V6VTRGVS1IdWEyZnpmVTJ0bGEzY05Wdm05YTc1QnpLWmRBSzNSUXc4Z0JDUQ?oc=5",
+          "source": "Google News: Rivals patches (Khel Now)",
+          "published": "2026-11-06T11:30:00.000Z",
           "score": 6,
           "level": "possible",
           "why": [
@@ -40,6 +40,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Marvel Rivals Yellow Jackets face harsh loss against Winthrop",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1dnYklkS3V3TEN4c2dBRkJ4MjdQVjlROU9hRXlYRVdmaXRacXJjWnk0c3Q5cm54X3ZacHl2MHZHZ0E3T0ticXA1VlppNXpFT1M0WV9GcFNHWXN0aUJLLVRReUgtdExySkM2OVFZT1FGTHRFWHpJYUVIakJKT25JVEpTdzcxeXdFQXRZS1F2VTQxYzMwekdfSXhaYjFSYUJqZFE?oc=5",
+          "source": "Google News: Rivals patches (Cedarville University)",
+          "published": "2026-11-06T03:58:53.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
