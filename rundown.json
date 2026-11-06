@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-11-06T19:45:25.622Z",
+  "generatedAt": "2026-11-06T20:45:18.802Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 19,
       "stories": [
-        {
-          "title": "FURIA vs BB / IEM Beijing 2026 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xpe4ao/furia_vs_bb_iem_beijing_2026_quarterfinal/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-06T14:26:42.000Z",
-          "score": 7.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "mouz*",
-            "furia",
-            "iem"
-          ]
-        },
         {
           "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1R3WTlPRHVTOElJSFN1a3dER2FSNTRKRHBJblJHQWRxak1FUlZYNGRTV1VfMVQxaU1lLTQya09tWFZnRG9UTDVDVWZYUmlhRUF1STY5RTJ5UzlGSUpRNWNYcHFMSC01M0ZOaXdBdnhlQklHSUlxUlJtQ2VWXy1MRGpMSQ?oc=5",
@@ -148,12 +132,23 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "PGL add anti-withdrawal fines to rulebook: \"This is done to create a more professional scene\"",
+          "url": "https://www.hltv.org/news/45924/pgl-add-anti-withdrawal-fines-to-rulebook-this-is-done-to-create-a-more-professional-scene",
+          "source": "HLTV news",
+          "published": "2026-11-06T12:29:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
@@ -199,17 +194,6 @@
           "why": []
         },
         {
-          "title": "Update: full item builds by game phase, smarter search, and a new Top Players page",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpdg1v/update_full_item_builds_by_game_phase_smarter/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T13:58:12.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "All Dota 2 BLAST Slam Winners – Full List",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
           "source": "Google News: Dota (Hotspawn)",
@@ -237,21 +221,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Can the vibration guy tell us when the patch is coming?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xph6fx/can_the_vibration_guy_tell_us_when_the_patch_is/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T16:30:17.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 1 | Official Discussion Thread",
@@ -278,6 +253,61 @@
           "level": null,
           "why": [
             "roster"
+          ]
+        },
+        {
+          "title": "Pred in C9 losses",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnije/pred_in_c9_losses/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T20:39:01.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pred"
+          ]
+        },
+        {
+          "title": "Post Match Thread: OpTic Texas vs. Stallions | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnh92/post_match_thread_optic_texas_vs_stallions/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T20:37:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "optic texas"
+          ]
+        },
+        {
+          "title": "Swooty to Scrap after FaZe pulled it back to 5-5",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpne3q/swooty_to_scrap_after_faze_pulled_it_back_to_55/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T20:33:47.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "FaZe after losing to the Huntsmen",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpmyhq/faze_after_losing_to_the_huntsmen/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T20:15:35.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Swooty after the Win vs Faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpmcar/swooty_after_the_win_vs_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T19:50:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
@@ -330,7 +360,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 4,
+      "storyCount": 2,
       "stories": [
         {
           "title": "My response to Hera's comments on Golden Age",
@@ -353,23 +383,18 @@
           "why": [
             "hera"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "For the 2nd Time Hera fails to complete Subathon",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xpfzdc/for_the_2nd_time_hera_fails_to_complete_subathon/",
-          "source": "r/aoe2",
-          "published": "2026-11-06T15:43:27.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "hera"
-          ]
-        },
-        {
-          "title": "Saracens could really do with a small buff, what about 0% trade fee?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xpeymu/saracens_could_really_do_with_a_small_buff_what/",
-          "source": "r/aoe2",
-          "published": "2026-11-06T15:02:26.000Z",
+          "title": "Is there a Tekken Tag Tournament 1 PS2 recomp?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xpn9sv/is_there_a_tekken_tag_tournament_1_ps2_recomp/",
+          "source": "r/Tekken",
+          "published": "2026-11-06T20:28:40.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -383,7 +408,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
