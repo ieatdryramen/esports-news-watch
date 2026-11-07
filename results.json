@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:25:17.472Z",
+  "generatedAt": "2026-11-07T09:55:18.406Z",
   "source": "start.gg",
   "completed": [
     {
@@ -146,19 +146,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1737677",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "NYESPLA! #11",
-      "event": "STREET FIGHTER III: THIRD STRIKE",
-      "entrants": 16,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T15:00:00.000Z",
-      "endAt": "2026-11-07T19:00:00.000Z",
-      "url": "https://www.start.gg/tournament/nyespla-11/event/street-fighter-iii-third-strike"
-    },
     {
       "eventId": "1687062",
       "scene": "melee",
