@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-07T11:00:25.570Z",
+  "generatedAt": "2026-11-07T12:00:23.825Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
-          "title": "The MongolZ vs Natus Vincere / IEM Beijing 2026 - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq1rpj/the_mongolz_vs_natus_vincere_iem_beijing_2026/",
+          "title": "MOUZ vs BB / IEM Beijing 2026 - Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq4cmu/mouz_vs_bb_iem_beijing_2026_semifinal_postmatch/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-07T08:48:35.000Z",
+          "published": "2026-11-07T11:37:44.000Z",
           "score": 8.5,
           "level": "possible",
           "why": [
@@ -18,8 +18,8 @@
             "roster*",
             "grand final*",
             "official*",
-            "aleksib*",
-            "b1t*"
+            "mouz",
+            "iem"
           ]
         },
         {
@@ -83,6 +83,17 @@
           ]
         },
         {
+          "title": "MOUZ ease past BETBOOM into Beijing final",
+          "url": "https://www.hltv.org/news/45936/mouz-ease-past-betboom-into-beijing-final",
+          "source": "HLTV news",
+          "published": "2026-11-07T11:42:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mouz"
+          ]
+        },
+        {
           "title": "Live updates from IEM Beijing semi-finals",
           "url": "https://www.hltv.org/news/45932/live-updates-from-iem-beijing-semi-finals",
           "source": "HLTV news",
@@ -136,17 +147,6 @@
           "why": [
             "iem"
           ]
-        },
-        {
-          "title": "PGL add anti-withdrawal fines to rulebook: \"This is done to create a more professional scene\"",
-          "url": "https://www.hltv.org/news/45924/pgl-add-anti-withdrawal-fines-to-rulebook-this-is-done-to-create-a-more-professional-scene",
-          "source": "HLTV news",
-          "published": "2026-11-06T12:29:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
@@ -173,7 +173,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
@@ -247,15 +247,6 @@
           "why": []
         },
         {
-          "title": "Everyone is all antsy about a patch, so what are yalls highest priority fixes?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xput6k/everyone_is_all_antsy_about_a_patch_so_what_are/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T02:09:57.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "LVLUP.A - XE, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamhIdmk2UWp3OG1WdEtNUGdoMXhwSTU1ZlVNNGJOYnVtTHFPeUtCS3IzMXFfWi0xb0hQWFI4bllkV0ozbno1MWN5aTRpMlBHSGRKb3VPMUdBcW1XUFNicXVGYmZVeEtXQUlEQldVMmdPZ084NEg0dnVQZk1VYUpYd19EajVpSGZNX1BBanI0OU5TSU1Na3BXUDBTOERNYm8yRTFRZW45VE0?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -296,7 +287,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
@@ -329,17 +320,6 @@
           "level": null,
           "why": [
             "cloud9"
-          ]
-        },
-        {
-          "title": "\"Whatever integrity I had, they destroyed it\" ~ Dashy LOL",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpv5yz/whatever_integrity_i_had_they_destroyed_it_dashy/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T02:27:55.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
           ]
         },
         {
@@ -389,15 +369,13 @@
           "why": []
         },
         {
-          "title": "Shouldn't there be a minor balance patch on December?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpw1bh/shouldnt_there_be_a_minor_balance_patch_on/",
+          "title": "Training Mode vs. Replay Takeover & DLC Characters' Worth",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xq4fj5/training_mode_vs_replay_takeover_dlc_characters/",
           "source": "r/StreetFighter",
-          "published": "2026-11-07T03:13:13.000Z",
-          "score": 0.5,
+          "published": "2026-11-07T11:42:43.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "update*"
-          ]
+          "why": []
         }
       ]
     },
