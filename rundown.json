@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-07T16:00:23.397Z",
+  "generatedAt": "2026-11-07T17:00:27.596Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 16,
       "stories": [
+        {
+          "title": "Official: Anlelele joins Astralis on loan for Major",
+          "url": "https://www.hltv.org/news/45939/official-anlelele-joins-astralis-on-loan-for-major",
+          "source": "HLTV news",
+          "published": "2026-11-07T16:37:00.000Z",
+          "score": 9,
+          "level": "breaking",
+          "why": [
+            "final event*",
+            "joins",
+            "official",
+            "astralis"
+          ]
+        },
         {
           "title": "MOUZ vs BB / IEM Beijing 2026 - Semi-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq4cmu/mouz_vs_bb_iem_beijing_2026_semifinal_postmatch/",
@@ -138,17 +152,6 @@
           "why": [
             "history"
           ]
-        },
-        {
-          "title": "Sources: Astralis register Anlelele in Major lineup",
-          "url": "https://www.hltv.org/news/45929/sources-astralis-register-anlelele-in-major-lineup",
-          "source": "HLTV news",
-          "published": "2026-11-06T16:29:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "astralis"
-          ]
         }
       ]
     },
@@ -278,40 +281,14 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Don’t sleep on burrow rush",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xq0y7n/dont_sleep_on_burrow_rush/",
-          "source": "r/broodwar",
-          "published": "2026-11-07T07:56:20.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "rush"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 5,
       "stories": [
         {
           "title": "The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off Today: LAN Final in Lviv Ahead",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLU5XUzRaRGNZbG8xUU9xeHFuaG1ydXVjVWFlYTV1UEJpNDY3ak5fRTVicWRLdlZ6ejJtbS1oMlZBM1NSTXp3V01wSF8wNDdvYWY1Slo1RkNrUDZYVDN0VG50bDdrcHo2NEtJX2EtZW9xc1FNVmoyWFkwTjdZeTNIMFdQLWJnQS1OZ0ZkWUxDU2ZoSGlNUW9MdVp5N0ZmdC00RWU1dVVHSktoZ3Q5THo1MXdMSFdqR0taNFgtcEZURXhkaVRJ0gHMAUFVX3lxTE9TZEhFSDVyRTlDdnkxdUswQXRFUzA5M0psMFRWZS1tbTVIdFFrZWZrSnFiV1BBc1l3NzVKczk1YXVVZGIxVEUzVUZDZDdLdmY2UkZyQV9hSGk4eUNMU3NtdDl5RnpnZEV3ZkZsZzdCQXNPa3plSFVLUGt3R0Q2OEVSemZZOFlKZkZlZGEtdXBEdGtsb1lfSHFWaXM4WFFYUjNoR1A1WFN0XzRhNjBFMnhTY0Nncm0zMGRzVWQteTQ1X0VUOFZLbFdYdEIwRQ?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-07T11:18:15.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "FISSURE’s unpaid CS2, Dota 2 prize debt explained as CEO addresses financial struggles",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVFveXNpT0NicHAyZTAwaHVuMTRpWjZXbzdkWDN0NV9YSDZDMHRQZHhhNkNHYkkwTTJmbzJ4WWtvbmlveEl4c19ZR3ZvcW9EeGdLY0pMZjdxdGZYZjJza2JpaV80aWRXT2ZYMjlyZ1p2QTNOOUxDdnZzeXh6XzJCbXlBcnRjUTRWV2FCNmt6TUI?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-06T16:18:08.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -339,15 +316,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xq3iik/i_hope_techies_does_not_get_butchered_on_nerfs/",
           "source": "r/DotA2",
           "published": "2026-11-07T10:44:20.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New Nigma might have disbanded as they pulled out of the 1win tournament today",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xq11p6/new_nigma_might_have_disbanded_as_they_pulled_out/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T08:01:37.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -409,6 +377,7 @@
   ],
   "quiet": [
     "Melee",
+    "Brood War",
     "Trackmania",
     "Legacy FGC",
     "Quake",
