@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T23:00:25.519Z",
+  "generatedAt": "2026-11-07T00:00:24.024Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 17,
       "stories": [
         {
           "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
@@ -78,6 +78,17 @@
           ]
         },
         {
+          "title": "Singapore Regulators crackdown on PGL Major over gambling concerns",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWk1hZUZVVGZSNENuVzhZQWlIeVJXQXVDX3MyWG1EdFZob21tZ04zeTNGSFdremE1R091QnZtSjhPNEJ3WXc3T1NXVExqZ2hIRzRZcXd5TFBMX25zc01WblRMeTBLWFRlQTZrbHRueUJEM3k1UVdsRzFncWhfakN1Z2Q2cS1QZ0pDMHNVVTRReGJsTzM5T1YzT1phcGlQTmJhNUhfQ1hVYnpQSnJJ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-06T17:58:30.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Media: history to play for 9z at Singapore Major",
           "url": "https://www.hltv.org/news/45930/media-history-to-play-for-9z-at-singapore-major",
           "source": "HLTV news",
@@ -131,23 +142,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "NAVI reverse-sweep PARIVISION to make the semi-finals in Beijing",
-          "url": "https://www.hltv.org/news/45923/navi-reverse-sweep-parivision-to-make-the-semi-finals-in-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-06T10:24:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "navi"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
@@ -182,15 +182,6 @@
           "why": []
         },
         {
-          "title": "All Dota 2 BLAST Slam Winners – Full List",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1xSl81VFVUdktwcUtTZDVpY0VfN3lPR0Z3b05MemxmUW5heFRrSEwtT2JWbVhrQjkzRW0tTlhuWmx1TEdTeENwRi1LNFp5Q1BDc2JrbzVoYXZ4U2xaRlNCbFFBVEZoSFFURFJoSndtVU5kdnJld0ZMUUdoNUFTNw?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-05T23:41:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "LVLUP.A - XE, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamhIdmk2UWp3OG1WdEtNUGdoMXhwSTU1ZlVNNGJOYnVtTHFPeUtCS3IzMXFfWi0xb0hQWFI4bllkV0ozbno1MWN5aTRpMlBHSGRKb3VPMUdBcW1XUFNicXVGYmZVeEtXQUlEQldVMmdPZ084NEg0dnVQZk1VYUpYd19EajVpSGZNX1BBanI0OU5TSU1Na3BXUDBTOERNYm8yRTFRZW45VE0?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -214,7 +205,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Can they please change some of these team colors for map wins? You need x ray vision to see the map count for some of these teams!",
@@ -239,14 +230,25 @@
           ]
         },
         {
-          "title": "Post Match Thread: OpTic Texas vs. G2 Minnesota | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpqq1l/post_match_thread_optic_texas_vs_g2_minnesota/",
+          "title": "Post Match Thread: Riyadh Falcons vs. Miami Heretics | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpqukb/post_match_thread_riyadh_falcons_vs_miami/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-06T22:54:41.000Z",
+          "published": "2026-11-06T23:00:24.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "optic texas"
+            "miami heretics"
+          ]
+        },
+        {
+          "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnrkx/post_match_thread_g2_minnesota_vs_carolina_royal/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-06T20:49:17.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "carolina royal ravens"
           ]
         },
         {
