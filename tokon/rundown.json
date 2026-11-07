@@ -1,8 +1,22 @@
 {
-  "generatedAt": "2026-11-07T20:25:30.354Z",
+  "generatedAt": "2026-11-07T21:25:29.007Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "MARVEL TOKON: Why Does Everyone Hate This Game? + PHOENIX CYCLOPS REVIEW - YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1kMFZTX0RicW9STjJwU3Q5MXVRaDJBaG9QRXNhc2VhUlJYeTU5Yi1YR183akJnMER1Q0Ew?oc=5",
+          "source": "Google News: Tokon (Howl.Link)",
+          "published": "2026-11-07T19:32:02.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
