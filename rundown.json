@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T02:00:24.696Z",
+  "generatedAt": "2026-11-07T03:00:22.754Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -195,6 +195,28 @@
           ]
         },
         {
+          "title": "\"Whatever integrity I had, they destroyed it\" ~ Dashy LOL",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpv5yz/whatever_integrity_i_had_they_destroyed_it_dashy/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T02:27:55.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dashy"
+          ]
+        },
+        {
+          "title": "Post Match Thread: Los Angeles Thieves vs. Cloud9 New York | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpuour/post_match_thread_los_angeles_thieves_vs_cloud9/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T02:03:57.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "cloud9"
+          ]
+        },
+        {
           "title": "Dan “Crybaby” Ghosty’s crouch button gets stuck whilst in a 1v1 against Jamie “The Iron Giant” Craven",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xptjjk/dan_crybaby_ghostys_crouch_button_gets_stuck/",
           "source": "r/CoDCompetitive",
@@ -237,34 +259,12 @@
           "why": [
             "pred"
           ]
-        },
-        {
-          "title": "Swooty to Scrap after FaZe pulled it back to 5-5",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpne3q/swooty_to_scrap_after_faze_pulled_it_back_to_55/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T20:33:47.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "FaZe after losing to the Huntsmen",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpmyhq/faze_after_losing_to_the_huntsmen/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T20:15:35.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "I Analyzed Team Spirit vs Yandex – Here's What You Can Learn",
@@ -307,6 +307,24 @@
           "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-06T16:18:08.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Everyone is all antsy about a patch, so what are yalls highest priority fixes?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xput6k/everyone_is_all_antsy_about_a_patch_so_what_are/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T02:09:57.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Hot take: The next patch doesn't need to change that much",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpumf1/hot_take_the_next_patch_doesnt_need_to_change/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T02:00:36.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -403,21 +421,6 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Is there a Tekken Tag Tournament 1 PS2 recomp?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xpn9sv/is_there_a_tekken_tag_tournament_1_ps2_recomp/",
-          "source": "r/Tekken",
-          "published": "2026-11-06T20:28:40.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -426,6 +429,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
