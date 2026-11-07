@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-07T19:25:29.954Z",
+  "generatedAt": "2026-11-07T20:25:28.500Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
-        {
-          "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFp1eFFranZLQkg3bE5teHFobW1Ydkc0aUJTUV84RjRwZF90a1dWTHc5M2F4VXNiREphR2xYcXZidGN5b2wzVG1hc2tHTHctcWhpUzc4TzB6Q1ZYUEVnbHdoTHp3SGtBV1JLa3BvNUpyTExsYVZwZXEzME1lMjg0cg?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-06T20:24:04.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "grand finals",
-            "grand finals"
-          ]
-        },
         {
           "title": "Marvel Rivals Season 11 Exact Release Date & Start Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjlxVXI3aE5sZUZiMXBCYkdYdlFyNDFuXzFFc2RwNzk5MnNERnRPMS1oYUhTMUdrWTdYeWFCUWtfeEhtRU9yN3E0NW9IY1ltQVlsVi01ODNJRU5acURUS3ZHME83Z0Q1bS1oNWZZSXVkMWdnN3pJb1lQaUdvbHRiMA?oc=5",
