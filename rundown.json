@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T03:00:22.754Z",
+  "generatedAt": "2026-11-07T04:00:23.576Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
@@ -146,7 +146,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "I look forward to Ghosty keeping the same energy about setting a precedent for punishing GA breaking and hopefully he'll be starting a vote for Thieves soon",
@@ -195,6 +195,17 @@
           ]
         },
         {
+          "title": "Post Match Thread: OMiT vs. Cloud9 New York | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpwvs6/post_match_thread_omit_vs_cloud9_new_york_monster/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T03:58:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "cloud9"
+          ]
+        },
+        {
           "title": "\"Whatever integrity I had, they destroyed it\" ~ Dashy LOL",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpv5yz/whatever_integrity_i_had_they_destroyed_it_dashy/",
           "source": "r/CoDCompetitive",
@@ -203,17 +214,6 @@
           "level": null,
           "why": [
             "dashy"
-          ]
-        },
-        {
-          "title": "Post Match Thread: Los Angeles Thieves vs. Cloud9 New York | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpuour/post_match_thread_los_angeles_thieves_vs_cloud9/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T02:03:57.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cloud9"
           ]
         },
         {
@@ -228,43 +228,19 @@
           ]
         },
         {
-          "title": "Post Match Thread: Riyadh Falcons vs. Miami Heretics | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpqukb/post_match_thread_riyadh_falcons_vs_miami/",
+          "title": "Bracket for Day 2 of the Monster Invitational",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpvsrc/bracket_for_day_2_of_the_monster_invitational/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-06T23:00:24.000Z",
-          "score": 2,
+          "published": "2026-11-07T03:00:38.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "miami heretics"
-          ]
-        },
-        {
-          "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnrkx/post_match_thread_g2_minnesota_vs_carolina_royal/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T20:49:17.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "carolina royal ravens"
-          ]
-        },
-        {
-          "title": "Pred in C9 losses",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpnije/pred_in_c9_losses/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T20:39:01.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pred"
-          ]
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "I Analyzed Team Spirit vs Yandex – Here's What You Can Learn",
@@ -288,17 +264,6 @@
           "why": [
             "return",
             "gaimin gladiators"
-          ]
-        },
-        {
-          "title": "How do you even counter Techies this patch?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpoae6/how_do_you_even_counter_techies_this_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T21:10:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
           ]
         },
         {
@@ -361,17 +326,28 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
         {
-          "title": "What if Street Fighter eliminated fireballs all together",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xppfab/what_if_street_fighter_eliminated_fireballs_all/",
+          "title": "Bloo vs Punk",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpwqrp/bloo_vs_punk/",
           "source": "r/StreetFighter",
-          "published": "2026-11-06T21:58:33.000Z",
-          "score": 3,
+          "published": "2026-11-07T03:50:50.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "eliminated"
+            "punk"
+          ]
+        },
+        {
+          "title": "You can record 3 replays at once",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpw3vf/you_can_record_3_replays_at_once/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-07T03:16:51.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "record"
           ]
         },
         {
@@ -391,6 +367,17 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Shouldn't there be a minor balance patch on December?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpw1bh/shouldnt_there_be_a_minor_balance_patch_on/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-07T03:13:13.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "update*"
+          ]
         }
       ]
     },
