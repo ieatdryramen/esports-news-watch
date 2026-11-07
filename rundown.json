@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-07T21:00:22.862Z",
+  "generatedAt": "2026-11-07T22:00:23.614Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 15,
       "stories": [
+        {
+          "title": "9z bench meyern; add history as Major stand-in",
+          "url": "https://www.hltv.org/news/45940/9z-bench-meyern-add-history-as-major-stand-in",
+          "source": "HLTV news",
+          "published": "2026-11-07T18:31:00.000Z",
+          "score": 10,
+          "level": "breaking",
+          "why": [
+            "bench",
+            "stand-in",
+            "history",
+            "ending*"
+          ]
+        },
         {
           "title": "Official: Anlelele joins Astralis on loan for Major",
           "url": "https://www.hltv.org/news/45939/official-anlelele-joins-astralis-on-loan-for-major",
@@ -34,15 +48,14 @@
           ]
         },
         {
-          "title": "9z bench meyern ahead of Singapore Major",
-          "url": "https://www.hltv.org/news/45940/9z-bench-meyern-ahead-of-singapore-major",
-          "source": "HLTV news",
-          "published": "2026-11-07T18:31:00.000Z",
+          "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-07T15:04:46.000Z",
           "score": 5,
           "level": "possible",
           "why": [
-            "bench",
-            "ending*"
+            "allegations"
           ]
         },
         {
@@ -91,6 +104,28 @@
           ]
         },
         {
+          "title": "ESL needs to take a page from Blast on halftime music",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqhw7t/esl_needs_to_take_a_page_from_blast_on_halftime/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-07T21:49:55.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
+          "title": "NAVI Inferno Utility for Aggro CT Banana Control",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqhfhm/navi_inferno_utility_for_aggro_ct_banana_control/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-07T21:28:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "navi"
+          ]
+        },
+        {
           "title": "FL1T: \"This loss was very frustrating, but overall, I'm glad that we're growing as a team\"",
           "url": "https://www.hltv.org/news/45931/fl1t-this-loss-was-very-frustrating-but-overall-im-glad-that-were-growing-as-a-team",
           "source": "HLTV news",
@@ -109,47 +144,108 @@
           "score": 1,
           "level": null,
           "why": []
-        },
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 8,
+      "stories": [
         {
-          "title": "nin9: \"We're still getting used to each other\"",
-          "url": "https://www.hltv.org/news/45935/nin9-were-still-getting-used-to-each-other",
-          "source": "HLTV news",
-          "published": "2026-11-07T11:07:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "IEM Beijing 2026 - CS2 - Viewership, Overview, Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSF9HRWlmVUw5TDQ4ZncyaHduWVdRcmRMWkNyMERwTlFNd0s2bmo3bXNUQWRwZFVjWFFvcjZfNHpGVHRnSnVnTU9UbnRybWhOUWJJdVFMU1ZvQWQxak9lYUE3SEtJcTdCXzJ1bmlxeE5QMnRCRFVDcDRlRG0?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-07T12:08:28.000Z",
-          "score": 0,
+          "title": "Scrap & HyDra After Successfully Finessing $350k Each From FaZe Clan",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqi20y/scrap_hydra_after_successfully_finessing_350k/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T21:57:34.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "prize pool",
-            "iem",
-            "-viewership, overview"
+            "faze",
+            "hydra"
           ]
+        },
+        {
+          "title": "Kenny says FaZe WANTED Draz and that money was the issue?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqgayc/kenny_says_faze_wanted_draz_and_that_money_was/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T20:38:15.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze",
+            "kenny"
+          ]
+        },
+        {
+          "title": "Post Match Thread: FaZe Vegas vs. Miami Heretics | Monster Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqen0v/post_match_thread_faze_vegas_vs_miami_heretics/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T19:25:52.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze",
+            "miami heretics"
+          ]
+        },
+        {
+          "title": "Drazah going from CEO to Faze Killer..",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqhiyq/drazah_going_from_ceo_to_faze_killer/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T21:32:42.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Drazah not getting the salary he asked for on FaZe",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqhfu3/drazah_not_getting_the_salary_he_asked_for_on_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T21:28:56.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Faze CEO (Drazah) clutches the round 11 for M8s",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqgrwn/faze_ceo_drazah_clutches_the_round_11_for_m8s/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T20:59:26.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Post Match Thread: Optic Texas vs. C9 New York | Monster Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqfgo9/post_match_thread_optic_texas_vs_c9_new_york/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T20:01:01.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "optic texas"
+          ]
+        },
+        {
+          "title": "Hot take (maybe): The Vel-46 needs a slight nerf",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqf0kc/hot_take_maybe_the_vel46_needs_a_slight_nerf/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T19:42:07.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 5,
       "stories": [
-        {
-          "title": "Gaimin Gladiators Hints at a Return to Professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NFJIeURuaVZVQVBFT3JKSTZGMVRYUldIYXE3U1dRSU5mcUhVZmRXT0J0cnJiZDlOenctRUh4NlNvTXBpQjU4d3QwZXNXV1ItS2xva3pWMVQtYVplbzR5YmNncEk5S2hTaXhFMXc0TF9nMHBpdlQ2dGI0dXRaLUk?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-07T11:33:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
-        },
         {
           "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
           "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
@@ -200,140 +296,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Guys Hear Me Out (Patch Discussion) 220+ Days",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xq9jha/guys_hear_me_out_patch_discussion_220_days/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T15:51:16.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "Kenny says FaZe WANTED Draz and that money was the issue?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqgayc/kenny_says_faze_wanted_draz_and_that_money_was/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T20:38:15.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "faze",
-            "kenny"
-          ]
-        },
-        {
-          "title": "Post Match Thread: FaZe Vegas vs. Miami Heretics | Monster Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqen0v/post_match_thread_faze_vegas_vs_miami_heretics/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T19:25:52.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "faze",
-            "miami heretics"
-          ]
-        },
-        {
-          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 2 | Official Discussion Thread",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqb7kn/call_of_duty_league_2027_monster_energy_launch/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T17:01:32.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "official",
-            "optic texas*",
-            "faze*",
-            "miami heretics*",
-            "cloud9*",
-            "-discussion thread"
-          ]
-        },
-        {
-          "title": "Faze CEO (Drazah) clutches the round 11 for M8s",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqgrwn/faze_ceo_drazah_clutches_the_round_11_for_m8s/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T20:59:26.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Post Match Thread: Optic Texas vs. C9 New York | Monster Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqfgo9/post_match_thread_optic_texas_vs_c9_new_york/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T20:01:01.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "optic texas"
-          ]
-        },
-        {
-          "title": "Hot take (maybe): The Vel-46 needs a slight nerf",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqf0kc/hot_take_maybe_the_vel46_needs_a_slight_nerf/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T19:42:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Monster invitational bracket",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq9e29/monster_invitational_bracket/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:44:56.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Was tired of eating hell sweeps so I made him eat TJUs",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xqbi57/was_tired_of_eating_hell_sweeps_so_i_made_him_eat/",
-          "source": "r/Tekken",
-          "published": "2026-11-07T17:13:41.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "sweeps"
-          ]
-        },
-        {
-          "title": "Do you consider Tekken 7's original characters a \"failure\"? (Base Roster only, NOT DLC)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xqedgk/do_you_consider_tekken_7s_original_characters_a/",
-          "source": "r/Tekken",
-          "published": "2026-11-07T19:14:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "Is it me or without Harada there's a deafening silence that makes Tekken seem empty?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xqb6to/is_it_me_or_without_harada_theres_a_deafening/",
-          "source": "r/Tekken",
-          "published": "2026-11-07T17:00:45.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "harada"
-          ]
         }
       ]
     },
@@ -378,6 +340,23 @@
           "level": null,
           "why": [
             "breaking"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Do you consider Tekken 7's original characters a \"failure\"? (Base Roster only, NOT DLC)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xqedgk/do_you_consider_tekken_7s_original_characters_a/",
+          "source": "r/Tekken",
+          "published": "2026-11-07T19:14:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
           ]
         }
       ]
