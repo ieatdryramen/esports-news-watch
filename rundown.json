@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T07:00:25.734Z",
+  "generatedAt": "2026-11-07T08:00:25.943Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -251,7 +251,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Please ban this Party Down rank. They are wasting everyone's time",
@@ -274,18 +274,6 @@
           "why": [
             "grand finals*",
             "team spirit"
-          ]
-        },
-        {
-          "title": "Gaimin Gladiators may return to Dota 2",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpsbuw/gaimin_gladiators_may_return_to_dota_2/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T00:08:25.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
           ]
         },
         {
@@ -415,6 +403,23 @@
       ]
     },
     {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Don’t sleep on burrow rush",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xq0y7n/dont_sleep_on_burrow_rush/",
+          "source": "r/broodwar",
+          "published": "2026-11-07T07:56:20.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "rush"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -435,7 +440,6 @@
   "quiet": [
     "AoE2",
     "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Tekken",
