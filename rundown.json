@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T19:00:22.781Z",
+  "generatedAt": "2026-11-07T20:00:24.298Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Official: Anlelele joins Astralis on loan for Major",
@@ -117,14 +117,14 @@
           ]
         },
         {
-          "title": "Vitality’s lineup smokes A site with support flash",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq5vcg/vitalitys_lineup_smokes_a_site_with_support_flash/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-07T13:02:57.000Z",
+          "title": "FL1T: \"This loss was very frustrating, but overall, I'm glad that we're growing as a team\"",
+          "url": "https://www.hltv.org/news/45931/fl1t-this-loss-was-very-frustrating-but-overall-im-glad-that-were-growing-as-a-team",
+          "source": "HLTV news",
+          "published": "2026-11-07T19:00:00.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "vitality"
+            "navi*"
           ]
         },
         {
@@ -137,11 +137,102 @@
           "why": []
         },
         {
-          "title": "Short news: Week 43",
-          "url": "https://www.hltv.org/news/45887/short-news-week-43",
-          "source": "HLTV news",
-          "published": "2026-11-06T19:09:00.000Z",
-          "score": 1,
+          "title": "IEM Beijing 2026 - CS2 - Viewership, Overview, Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSF9HRWlmVUw5TDQ4ZncyaHduWVdRcmRMWkNyMERwTlFNd0s2bmo3bXNUQWRwZFVjWFFvcjZfNHpGVHRnSnVnTU9UbnRybWhOUWJJdVFMU1ZvQWQxak9lYUE3SEtJcTdCXzJ1bmlxeE5QMnRCRFVDcDRlRG0?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-07T12:08:28.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "prize pool",
+            "iem",
+            "-viewership, overview"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 7,
+      "stories": [
+        {
+          "title": "Post Match Thread: FaZe Vegas vs. Miami Heretics | Monster Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqen0v/post_match_thread_faze_vegas_vs_miami_heretics/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T19:25:52.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze",
+            "miami heretics"
+          ]
+        },
+        {
+          "title": "Hydra and Simp when they are flowing might be unstoppable in this game",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8vtl/hydra_and_simp_when_they_are_flowing_might_be/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T15:22:46.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "simp",
+            "hydra"
+          ]
+        },
+        {
+          "title": "Formal and Dashy discuss this FaZe interaction",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8ikj/formal_and_dashy_discuss_this_faze_interaction/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T15:06:52.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze",
+            "dashy"
+          ]
+        },
+        {
+          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 2 | Official Discussion Thread",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqb7kn/call_of_duty_league_2027_monster_energy_launch/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T17:01:32.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "official",
+            "optic texas*",
+            "faze*",
+            "miami heretics*",
+            "cloud9*",
+            "-discussion thread"
+          ]
+        },
+        {
+          "title": "Insane HP ending between Ravens and G2",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8r9a/insane_hp_ending_between_ravens_and_g2/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T15:17:31.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ending"
+          ]
+        },
+        {
+          "title": "Hot take (maybe): The Vel-46 needs a slight nerf",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqf0kc/hot_take_maybe_the_vel46_needs_a_slight_nerf/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T19:42:07.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Monster invitational bracket",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq9e29/monster_invitational_bracket/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T15:44:56.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -201,74 +292,8 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Hydra and Simp when they are flowing might be unstoppable in this game",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8vtl/hydra_and_simp_when_they_are_flowing_might_be/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:22:46.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "simp",
-            "hydra"
-          ]
-        },
-        {
-          "title": "Formal and Dashy discuss this FaZe interaction",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8ikj/formal_and_dashy_discuss_this_faze_interaction/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:06:52.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "faze",
-            "dashy"
-          ]
-        },
-        {
-          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 2 | Official Discussion Thread",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqb7kn/call_of_duty_league_2027_monster_energy_launch/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T17:01:32.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "official",
-            "optic texas*",
-            "faze*",
-            "miami heretics*",
-            "cloud9*",
-            "-discussion thread"
-          ]
-        },
-        {
-          "title": "Insane HP ending between Ravens and G2",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8r9a/insane_hp_ending_between_ravens_and_g2/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:17:31.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        },
-        {
-          "title": "Monster invitational bracket",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq9e29/monster_invitational_bracket/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:44:56.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Was tired of eating hell sweeps so I made him eat TJUs",
@@ -282,6 +307,17 @@
           ]
         },
         {
+          "title": "Do you consider Tekken 7's original characters a \"failure\"? (Base Roster only, NOT DLC)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xqedgk/do_you_consider_tekken_7s_original_characters_a/",
+          "source": "r/Tekken",
+          "published": "2026-11-07T19:14:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
           "title": "Is it me or without Harada there's a deafening silence that makes Tekken seem empty?",
           "url": "https://www.reddit.com/r/Tekken/comments/1xqb6to/is_it_me_or_without_harada_theres_a_deafening/",
           "source": "r/Tekken",
@@ -290,6 +326,23 @@
           "level": null,
           "why": [
             "harada"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Breaking News: Fox is actually fair and balanced!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xqew5p/breaking_news_fox_is_actually_fair_and_balanced/",
+          "source": "r/SSBM",
+          "published": "2026-11-07T19:36:48.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "breaking"
           ]
         }
       ]
@@ -330,19 +383,8 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Did they buff the AI recently or do I just suck",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xq5an0/did_they_buff_the_ai_recently_or_do_i_just_suck/",
-          "source": "r/aoe2",
-          "published": "2026-11-07T12:32:28.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "record*"
-          ]
-        },
         {
           "title": "Unfortunate balance of Champi civs. [1450 elo opinion]",
           "url": "https://www.reddit.com/r/aoe2/comments/1xq8bex/unfortunate_balance_of_champi_civs_1450_elo/",
@@ -356,7 +398,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "Brood War",
     "Trackmania",
     "Warcraft III",
