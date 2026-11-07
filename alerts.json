@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-07T09:10:18.041Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "VAC banning player still playing on Faceit",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq222x/vac_banning_player_still_playing_on_faceit/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "banned*",
+        "vac"
+      ],
+      "summary": "Hi guys, Is there allow vac banned player playing on Faceit server? I saw a player was vac banned, but he still playing on Faceit. And I couldn't watch any of his matches demo. submitted by /u/Ok_Salamander223 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-07T09:07:36.000Z"
+    },
+    {
       "alertedAt": "2026-11-07T09:05:16.151Z",
       "level": "possible",
       "scene": "CS2",
