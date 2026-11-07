@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T14:00:23.843Z",
+  "generatedAt": "2026-11-07T15:00:25.884Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 17,
       "stories": [
         {
           "title": "MOUZ vs BB / IEM Beijing 2026 - Semi-Final / Post-Match Discussion",
@@ -47,15 +47,40 @@
           ]
         },
         {
-          "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1R3WTlPRHVTOElJSFN1a3dER2FSNTRKRHBJblJHQWRxak1FUlZYNGRTV1VfMVQxaU1lLTQya09tWFZnRG9UTDVDVWZYUmlhRUF1STY5RTJ5UzlGSUpRNWNYcHFMSC01M0ZOaXdBdnhlQklHSUlxUlJtQ2VWXy1MRGpMSQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-06T14:48:29.000Z",
-          "score": 5,
+          "title": "s1mple: \"Senzu could surpass donk. I can easily make the Top 20 next year.\"",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq84jg/s1mple_senzu_could_surpass_donk_i_can_easily_make/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-07T14:49:53.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "navi",
-            "iem"
+            "s1mple",
+            "donk"
+          ]
+        },
+        {
+          "title": "BLAST Rivals 2026 Season 2",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq7nxw/blast_rivals_2026_season_2/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-07T14:28:55.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "vitality*",
+            "g2*",
+            "mouz*",
+            "blast"
+          ]
+        },
+        {
+          "title": "NBK- joins Phantom as head coach",
+          "url": "https://www.hltv.org/news/45937/nbk-joins-phantom-as-head-coach",
+          "source": "HLTV news",
+          "published": "2026-11-07T14:25:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "joins"
           ]
         },
         {
@@ -68,18 +93,6 @@
           "why": [
             "b1t",
             "navi*"
-          ]
-        },
-        {
-          "title": "BETBOOM reach Beijing semi-finals over FURIA",
-          "url": "https://www.hltv.org/news/45926/betboom-reach-beijing-semi-finals-over-furia",
-          "source": "HLTV news",
-          "published": "2026-11-06T14:42:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "mouz*",
-            "furia"
           ]
         },
         {
@@ -136,17 +149,6 @@
           "why": [
             "astralis"
           ]
-        },
-        {
-          "title": "IEM Beijing 2026 overview and results: New CS2 legends vs heavy hitters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJ4dG8zLTBWTmlFaWJrME9rUl95dnczVm8zNHRjN01FMl96OUx4VllZd05Jc1hhV2UxWmNvTzZDbnprbWRNSG1JaVhrNm5Bck1sWWI1R29EbUZ3VUVqNE0yeDV4YzRyVjh1RnI4LVVWV01aUGhJQWtOMEo0eXp6VzgzbzRwQQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-06T16:13:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
         }
       ]
     },
@@ -173,8 +175,19 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
+        {
+          "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-07T03:31:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "champions"
+          ]
+        },
         {
           "title": "Please ban this Party Down rank. They are wasting everyone's time",
           "url": "https://www.reddit.com/r/DotA2/comments/1xpymzn/please_ban_this_party_down_rank_they_are_wasting/",
@@ -207,22 +220,20 @@
           ]
         },
         {
-          "title": "I got tired of waiting for a new update so I designed one of my own",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpx6i9/i_got_tired_of_waiting_for_a_new_update_so_i/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T04:14:28.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "FISSURE’s unpaid CS2, Dota 2 prize debt explained as CEO addresses financial struggles",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVFveXNpT0NicHAyZTAwaHVuMTRpWjZXbzdkWDN0NV9YSDZDMHRQZHhhNkNHYkkwTTJmbzJ4WWtvbmlveEl4c19ZR3ZvcW9EeGdLY0pMZjdxdGZYZjJza2JpaV80aWRXT2ZYMjlyZ1p2QTNOOUxDdnZzeXh6XzJCbXlBcnRjUTRWV2FCNmt6TUI?oc=5",
           "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-06T16:18:08.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "new patch WHEN???",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xq7f09/new_patch_when/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T14:17:29.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -284,43 +295,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpx4vl/post_match_thread_g2_minnesota_vs_carolina_royal/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T04:11:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "carolina royal ravens"
-          ]
-        },
-        {
-          "title": "Do sens feel different in MW4 after S1 update for you?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq2gzj/do_sens_feel_different_in_mw4_after_s1_update_for/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T09:34:51.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Bracket for Day 2 Monster Invitational",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpxk4v/bracket_for_day_2_monster_invitational/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T04:35:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -363,7 +337,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Did they buff the AI recently or do I just suck",
@@ -374,6 +348,32 @@
           "level": null,
           "why": [
             "record*"
+          ]
+        },
+        {
+          "title": "Unfortunate balance of Champi civs. [1450 elo opinion]",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xq8bex/unfortunate_balance_of_champi_civs_1450_elo/",
+          "source": "r/aoe2",
+          "published": "2026-11-07T14:58:34.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Do sens feel different in MW4 after S1 update for you?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq2gzj/do_sens_feel_different_in_mw4_after_s1_update_for/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T09:34:51.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         }
       ]
