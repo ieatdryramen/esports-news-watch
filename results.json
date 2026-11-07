@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T05:40:21.173Z",
+  "generatedAt": "2026-11-07T06:10:17.157Z",
   "source": "start.gg",
   "completed": [
     {
@@ -215,6 +215,19 @@
       "startAt": "2026-11-08T21:00:00.000Z",
       "endAt": "2026-11-09T02:59:00.000Z",
       "url": "https://www.start.gg/tournament/tekken-8-low-tier-rumble/event/tekken-8-low-tier-rumble"
+    },
+    {
+      "eventId": "1725717",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
+      "event": "Melee Singles",
+      "entrants": 64,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T00:00:00.000Z",
+      "endAt": "2026-11-14T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/big-dawg-xd-the-port-priority-dx-prelocal/event/melee-singles"
     }
   ],
   "games": {
