@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:00:23.661Z",
+  "generatedAt": "2026-11-07T10:00:26.597Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -23,6 +23,30 @@
           ]
         },
         {
+          "title": "VAC banning player still playing on Faceit",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq222x/vac_banning_player_still_playing_on_faceit/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-07T09:07:36.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "vac"
+          ]
+        },
+        {
+          "title": "The MongolZ beat NAVI to secure first Big Event grand final appearance in 14 months",
+          "url": "https://www.hltv.org/news/45933/the-mongolz-beat-navi-to-secure-first-big-event-grand-final-appearance-in-14-months",
+          "source": "HLTV news",
+          "published": "2026-11-07T09:03:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "grand final",
+            "navi"
+          ]
+        },
+        {
           "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1R3WTlPRHVTOElJSFN1a3dER2FSNTRKRHBJblJHQWRxak1FUlZYNGRTV1VfMVQxaU1lLTQya09tWFZnRG9UTDVDVWZYUmlhRUF1STY5RTJ5UzlGSUpRNWNYcHFMSC01M0ZOaXdBdnhlQklHSUlxUlJtQ2VWXy1MRGpMSQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -32,18 +56,6 @@
           "why": [
             "navi",
             "iem"
-          ]
-        },
-        {
-          "title": "What Is ESL Pro League? Format, Teams, History and Prize Money",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VNGQ3dXoxa09RTXowT0lmQnRWUzFVOTZwcTJ4bDV2ZFJmRFhxM1J1RTYtTWtCRXplUW9VV3E5SFBxVmcwU2xKTG1DZTNDcnRBQ0hGdzgtbWY3Zzl0WUJicTNxekJtS0FSM1FMbDJsZkRUd2lNZHc?oc=5",
-          "source": "Google News: CS2 (Chase Your Sport)",
-          "published": "2026-11-06T09:27:22.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "history",
-            "esl pro league"
           ]
         },
         {
@@ -135,23 +147,33 @@
           "why": [
             "pgl"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "NAVI reverse-sweep PARIVISION to make the semi-finals in Beijing",
-          "url": "https://www.hltv.org/news/45923/navi-reverse-sweep-parivision-to-make-the-semi-finals-in-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-06T10:24:00.000Z",
-          "score": 3,
-          "level": null,
+          "title": "W3Champions statement: the fee for three Happy show matches, the 10% claims, and how our event policy works",
+          "url": "https://www.reddit.com/r/WC3/comments/1xq2mh3/w3champions_statement_the_fee_for_three_happy/",
+          "source": "r/WC3",
+          "published": "2026-11-07T09:45:13.000Z",
+          "score": 6.5,
+          "level": "possible",
           "why": [
-            "navi"
+            "statement",
+            "prize pool*",
+            "happy",
+            "colorful*",
+            "w3champions"
           ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "I look forward to Ghosty keeping the same energy about setting a precedent for punishing GA breaking and hopefully he'll be starting a vote for Thieves soon",
@@ -221,6 +243,17 @@
           ]
         },
         {
+          "title": "Do sens feel different in MW4 after S1 update for you?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq2gzj/do_sens_feel_different_in_mw4_after_s1_update_for/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T09:34:51.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "Bracket for Day 2 Monster Invitational",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpxk4v/bracket_for_day_2_monster_invitational/",
           "source": "r/CoDCompetitive",
@@ -233,7 +266,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
@@ -325,15 +358,6 @@
           "why": []
         },
         {
-          "title": "Not even a small balance patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpts2b/not_even_a_small_balance_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T01:17:53.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "LVLUP.A - XE, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamhIdmk2UWp3OG1WdEtNUGdoMXhwSTU1ZlVNNGJOYnVtTHFPeUtCS3IzMXFfWi0xb0hQWFI4bllkV0ozbno1MWN5aTRpMlBHSGRKb3VPMUdBcW1XUFNicXVGYmZVeEtXQUlEQldVMmdPZ084NEg0dnVQZk1VYUpYd19EajVpSGZNX1BBanI0OU5TSU1Na3BXUDBTOERNYm8yRTFRZW45VE0?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -343,6 +367,32 @@
           "why": [
             "-stream"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Wth 11k wins",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xq2ej5/wth_11k_wins/",
+          "source": "r/Tekken",
+          "published": "2026-11-07T09:30:24.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Just started Tekken Tag Tournament 2",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xq2o4d/just_started_tekken_tag_tournament_2/",
+          "source": "r/Tekken",
+          "published": "2026-11-07T09:48:27.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -406,8 +456,6 @@
     "AoE2",
     "Classic Tetris",
     "Trackmania",
-    "Warcraft III",
-    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
