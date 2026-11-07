@@ -384,25 +384,6 @@
       ],
       "summary": "Today W3Champions is happy to announce the first stage of time travel and body swapping ! With the release of W3Champions 1.6.26, you will now be able to take a replay (from the same game version), load it into a custom game, select a time and continue the match from any point together with your friends. It also doesn't have to be your own replay - take any kind of pro-match, upload it and put yourself into their shoes! In order to make matches with players of different skill levels more enjoyable, we are also adding support for handicaps to custom games . In Warcraft III, they scale the health of the players units between 50% and 100%. In the top right of the Custom Game Options, the host will now be able to enable handicaps. Once enabled, click on your own name and select your preferred adjustment. Under the hood, we have also rewritten the way we interact with the game. We have thoroughly tested things, but if you encounter any issues, please let us know! As part of this change, we are retiring the Legacy Launch Mode on Windows, which means BattleNet is now always required . We have temporarily disabled the game start countdown while we are working on some improvements - they were not ready in time for the release, so we've turned them off for now. We have also heard your feedback - while some players absolutely love it because it reduces the impact of lags while the game is starting, people who don't suffer from these problems consider it annoying. In future there will be",
       "published": "2026-11-05T13:02:01.000Z"
-    },
-    {
-      "alertedAt": "2026-11-05T11:50:19.845Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "BLAST Rivals Season 2 talent announced",
-      "url": "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
-      "source": "HLTV news",
-      "outlets": [
-        "Reddit",
-        "HLTV news"
-      ],
-      "score": 5,
-      "why": [
-        "announced",
-        "blast"
-      ],
-      "summary": "A ten-person crew will bring the show live from Hong Kong.",
-      "published": "2026-11-05T11:48:00.000Z"
     }
   ]
 }
