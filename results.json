@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:55:21.879Z",
+  "generatedAt": "2026-11-07T17:25:17.136Z",
   "source": "start.gg",
   "completed": [
     {
@@ -147,32 +147,6 @@
   "live": [],
   "upcoming": [
     {
-      "eventId": "1737320",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Jazzy Chillán 2026",
-      "event": "Jazzy Chillan 2026 Street Fighter III Third Strike",
-      "entrants": 59,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T17:00:00.000Z",
-      "endAt": "2026-11-07T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/jazzy-chill-n-2026/event/jazzy-chillan-2026-street-fighter-iii-third-strike"
-    },
-    {
-      "eventId": "1660228",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Center Stage 2026",
-      "event": "Melee Singles",
-      "entrants": 136,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T18:00:00.000Z",
-      "endAt": "2026-11-08T03:00:00.000Z",
-      "url": "https://www.start.gg/tournament/center-stage-2026/event/melee-singles"
-    },
-    {
       "eventId": "1683221",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -184,19 +158,6 @@
       "startAt": "2026-11-07T20:30:00.000Z",
       "endAt": "2026-11-08T06:00:00.000Z",
       "url": "https://www.start.gg/tournament/socal-sweep-2/event/melee-singles"
-    },
-    {
-      "eventId": "1691983",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "No God No Neutral Offline Edition #003",
-      "event": "3rd Strike",
-      "entrants": 31,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T21:00:00.000Z",
-      "endAt": "2026-11-08T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/no-god-no-neutral-offline-edition-003/event/3rd-strike"
     },
     {
       "eventId": "1729356",
