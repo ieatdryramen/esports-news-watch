@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:00:23.576Z",
+  "generatedAt": "2026-11-07T05:00:24.433Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -146,7 +146,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
         {
           "title": "I look forward to Ghosty keeping the same energy about setting a precedent for punishing GA breaking and hopefully he'll be starting a vote for Thieves soon",
@@ -195,10 +195,32 @@
           ]
         },
         {
-          "title": "Post Match Thread: OMiT vs. Cloud9 New York | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpwvs6/post_match_thread_omit_vs_cloud9_new_york_monster/",
+          "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpx4vl/post_match_thread_g2_minnesota_vs_carolina_royal/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-07T03:58:28.000Z",
+          "published": "2026-11-07T04:11:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "carolina royal ravens"
+          ]
+        },
+        {
+          "title": "Post Match Thread: FaZe Vegas vs. M80 Boston | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpwu26/post_match_thread_faze_vegas_vs_m80_boston/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T03:55:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Post Match Thread: Paris Gentle Mates vs. Cloud9 New York | Monster Energy Launch Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpwp6m/post_match_thread_paris_gentle_mates_vs_cloud9/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T03:48:21.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -228,10 +250,10 @@
           ]
         },
         {
-          "title": "Bracket for Day 2 of the Monster Invitational",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpvsrc/bracket_for_day_2_of_the_monster_invitational/",
+          "title": "Bracket for Day 2 Monster Invitational",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpxk4v/bracket_for_day_2_monster_invitational/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-07T03:00:38.000Z",
+          "published": "2026-11-07T04:35:07.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -240,7 +262,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "I Analyzed Team Spirit vs Yandex – Here's What You Can Learn",
@@ -264,6 +286,17 @@
           "why": [
             "return",
             "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "I got tired of waiting for a new update so I designed one of my own",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpx6i9/i_got_tired_of_waiting_for_a_new_update_so_i/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T04:14:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -326,7 +359,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Bloo vs Punk",
@@ -337,17 +370,6 @@
           "level": null,
           "why": [
             "punk"
-          ]
-        },
-        {
-          "title": "You can record 3 replays at once",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpw3vf/you_can_record_3_replays_at_once/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-07T03:16:51.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "record"
           ]
         },
         {
