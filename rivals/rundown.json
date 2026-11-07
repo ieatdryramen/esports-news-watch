@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T06:40:33.836Z",
+  "generatedAt": "2026-11-07T07:40:40.665Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -51,6 +51,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Does Marvel Rivals have crossplay? Answered",
+          "url": "https://esports.gg/news/marvel-rivals/is-marvel-rivals-crossplay/",
+          "source": "esports.gg",
+          "published": "2026-11-07T06:59:01.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Overwatch Has Just Copied Marvel Rivals' Homework Yet Again",
