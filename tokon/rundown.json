@@ -1,34 +1,11 @@
 {
-  "generatedAt": "2026-11-07T13:30:24.339Z",
+  "generatedAt": "2026-11-07T14:25:34.292Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 3,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Miles Morales Hinted As Year 2 DLC Character For Marvel Tokon",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JNVhKazVMYXA3cVNrVWk0azFhUkpqYm9rLVlSOTN3dEdQMnZWQkl2OHJPSklPVTF0ZTBZSXBRNnNGc0lCWlRqUFhzcUdnYWNkVzBSTXJrMEhTT0xxaTZpNDJiT1lKSjJQTHN2VTduZ2NIc1ZQeURzY2tXbFZkdw?oc=5",
-          "source": "Google News: Tokon (TwistedVoxel)",
-          "published": "2026-11-06T13:43:20.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "dlc",
-            "dlc character"
-          ]
-        },
-        {
-          "title": "97% damage combo already found as Phoenix Cyclops blasts onto the scene in Marvel Tokon: Fighting Souls",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc215YWNkZXNobTdWSHdyYW8xSXQ2aV8zVWIwT0FRSFViVGtDX3JWaGktY2VsZjNvdDhqUWowNVNsM1UxYnljTnByR2hkb1FUWW0tQld3cHczRWlPMnI4SE1UVkVvNDhCazNJa0VSeW1ZTko0ZWJLNlBONWtRSDlWaHZ6N2w?oc=5",
-          "source": "Google News: Tokon (EventHubs)",
-          "published": "2026-11-06T14:20:28.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "combo"
-          ]
-        },
         {
           "title": "Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm1BVlpKY0tSZWh5YTFaXzdiQWJmZnFjbjVSRGpvTFRpNjhQUVlKMGFUNkhaZXBjT1NScWdCeFMySGdRRWxyX0dFRE91WFIzQ1l3Q0JkV3l0WnpSV3ZPZFZyaGUtaFJBOVRCOHdncUJBdzBXeERralUtbGNrYXRIUkF4THlLOXRhR3EwckdEYnhpMXA2X2xXNE5qMWpXblJLeDhJYVhEM01COWs5N0pLQW5yRm4?oc=5",
