@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-07T18:55:18.049Z",
+  "generatedAt": "2026-11-07T19:25:16.396Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1737677",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "NYESPLA! #11",
+      "event": "STREET FIGHTER III: THIRD STRIKE",
+      "entrants": 16,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T15:00:00.000Z",
+      "endAt": "2026-11-07T19:00:00.000Z",
+      "url": "https://www.start.gg/tournament/nyespla-11/event/street-fighter-iii-third-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "HieN | HieN"
+        },
+        {
+          "placement": 2,
+          "name": "LA CAMA"
+        },
+        {
+          "placement": 3,
+          "name": "ColdMill"
+        },
+        {
+          "placement": 4,
+          "name": "Capi"
+        },
+        {
+          "placement": 5,
+          "name": "Panda Yeux"
+        },
+        {
+          "placement": 5,
+          "name": "CSFGC | Soler"
+        },
+        {
+          "placement": 7,
+          "name": "JPantoja"
+        },
+        {
+          "placement": 7,
+          "name": "Sairon"
+        }
+      ]
+    },
     {
       "eventId": "1737253",
       "scene": "streetfighter",
@@ -165,7 +212,7 @@
       "game": "Tekken 8",
       "tournament": "TEKKEN 8 - LOW TIER RUMBLE",
       "event": "TEKKEN 8 - LOW TIER RUMBLE",
-      "entrants": 71,
+      "entrants": 72,
       "online": true,
       "major": false,
       "startAt": "2026-11-08T21:00:00.000Z",
