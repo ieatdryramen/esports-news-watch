@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T10:00:26.597Z",
+  "generatedAt": "2026-11-07T11:00:25.570Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "The MongolZ vs Natus Vincere / IEM Beijing 2026 - Semi-Final / Post-Match Discussion",
@@ -172,32 +172,132 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 8,
+      "scene": "Dota",
+      "storyCount": 9,
       "stories": [
         {
-          "title": "I look forward to Ghosty keeping the same energy about setting a precedent for punishing GA breaking and hopefully he'll be starting a vote for Thieves soon",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpul7i/i_look_forward_to_ghosty_keeping_the_same_energy/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T01:58:56.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-07T03:31:00.000Z",
+          "score": 4,
+          "level": null,
           "why": [
-            "breaking",
-            "ghosty"
+            "champions"
           ]
         },
         {
-          "title": "M80 Boston Reveals 2027 CDL Roster Ahead of Monster Energy Launch Invitational",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWNrcm0wOFg4bG9aZl9qMUlYb2F3bHBYUXFzeGVNRlZnWjZOQnRGR1RBUFRPZXFaQ1FFaUE2MEhyVURlNXZWYU9ueTVqdHlZd3RvTDlMcHB3RE9vajdPVXRMczFMOUl0OVFkeVMtM1hldjk3VERRWGlzWVVmTFdPVFZhdEk1Z2hDLVNncGZQRUhGYklIMzdJUzhCeV92bDB2M1A0Tg?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-06T10:13:46.000Z",
+          "title": "Please ban this Party Down rank. They are wasting everyone's time",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpymzn/please_ban_this_party_down_rank_they_are_wasting/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T05:34:58.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "roster"
+            "ban"
           ]
         },
+        {
+          "title": "can we get new patch before gta 6?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpyhh4/can_we_get_new_patch_before_gta_6/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T05:26:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "released*"
+          ]
+        },
+        {
+          "title": "I got tired of waiting for a new update so I designed one of my own",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpx6i9/i_got_tired_of_waiting_for_a_new_update_so_i/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T04:14:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "FISSURE’s unpaid CS2, Dota 2 prize debt explained as CEO addresses financial struggles",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVFveXNpT0NicHAyZTAwaHVuMTRpWjZXbzdkWDN0NV9YSDZDMHRQZHhhNkNHYkkwTTJmbzJ4WWtvbmlveEl4c19ZR3ZvcW9EeGdLY0pMZjdxdGZYZjJza2JpaV80aWRXT2ZYMjlyZ1p2QTNOOUxDdnZzeXh6XzJCbXlBcnRjUTRWV2FCNmt6TUI?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-06T16:18:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "I hope Techies does not get butchered on nerfs for upcoming patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xq3iik/i_hope_techies_does_not_get_butchered_on_nerfs/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T10:44:20.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "New Nigma might have disbanded as they pulled out of the 1win tournament today",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xq11p6/new_nigma_might_have_disbanded_as_they_pulled_out/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T08:01:37.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Everyone is all antsy about a patch, so what are yalls highest priority fixes?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xput6k/everyone_is_all_antsy_about_a_patch_so_what_are/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T02:09:57.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "LVLUP.A - XE, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamhIdmk2UWp3OG1WdEtNUGdoMXhwSTU1ZlVNNGJOYnVtTHFPeUtCS3IzMXFfWi0xb0hQWFI4bllkV0ozbno1MWN5aTRpMlBHSGRKb3VPMUdBcW1XUFNicXVGYmZVeEtXQUlEQldVMmdPZ084NEg0dnVQZk1VYUpYd19EajVpSGZNX1BBanI0OU5TSU1Na3BXUDBTOERNYm8yRTFRZW45VE0?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-06T18:45:00.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Wth 11k wins",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xq2ej5/wth_11k_wins/",
+          "source": "r/Tekken",
+          "published": "2026-11-07T09:30:24.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Just started Tekken Tag Tournament 2",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xq2o4d/just_started_tekken_tag_tournament_2/",
+          "source": "r/Tekken",
+          "published": "2026-11-07T09:48:27.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 6,
+      "stories": [
         {
           "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpx4vl/post_match_thread_g2_minnesota_vs_carolina_royal/",
@@ -258,138 +358,6 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpxk4v/bracket_for_day_2_monster_invitational/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-07T04:35:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 10,
-      "stories": [
-        {
-          "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-07T03:31:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        },
-        {
-          "title": "Please ban this Party Down rank. They are wasting everyone's time",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpymzn/please_ban_this_party_down_rank_they_are_wasting/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T05:34:58.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        },
-        {
-          "title": "can we get new patch before gta 6?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpyhh4/can_we_get_new_patch_before_gta_6/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T05:26:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "released*"
-          ]
-        },
-        {
-          "title": "I got tired of waiting for a new update so I designed one of my own",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpx6i9/i_got_tired_of_waiting_for_a_new_update_so_i/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T04:14:28.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "FISSURE’s unpaid CS2, Dota 2 prize debt explained as CEO addresses financial struggles",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVFveXNpT0NicHAyZTAwaHVuMTRpWjZXbzdkWDN0NV9YSDZDMHRQZHhhNkNHYkkwTTJmbzJ4WWtvbmlveEl4c19ZR3ZvcW9EeGdLY0pMZjdxdGZYZjJza2JpaV80aWRXT2ZYMjlyZ1p2QTNOOUxDdnZzeXh6XzJCbXlBcnRjUTRWV2FCNmt6TUI?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-06T16:18:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New Nigma might have disbanded as they pulled out of the 1win tournament today",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xq11p6/new_nigma_might_have_disbanded_as_they_pulled_out/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T08:01:37.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Everyone is all antsy about a patch, so what are yalls highest priority fixes?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xput6k/everyone_is_all_antsy_about_a_patch_so_what_are/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T02:09:57.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Hot take: The next patch doesn't need to change that much",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpumf1/hot_take_the_next_patch_doesnt_need_to_change/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T02:00:36.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "2nd free arcana from Dark Carnival event. 1st one was PA like 4 months ago.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpui4m/2nd_free_arcana_from_dark_carnival_event_1st_one/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T01:54:40.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "LVLUP.A - XE, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamhIdmk2UWp3OG1WdEtNUGdoMXhwSTU1ZlVNNGJOYnVtTHFPeUtCS3IzMXFfWi0xb0hQWFI4bllkV0ozbno1MWN5aTRpMlBHSGRKb3VPMUdBcW1XUFNicXVGYmZVeEtXQUlEQldVMmdPZ084NEg0dnVQZk1VYUpYd19EajVpSGZNX1BBanI0OU5TSU1Na3BXUDBTOERNYm8yRTFRZW45VE0?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-06T18:45:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Wth 11k wins",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xq2ej5/wth_11k_wins/",
-          "source": "r/Tekken",
-          "published": "2026-11-07T09:30:24.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Just started Tekken Tag Tournament 2",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xq2o4d/just_started_tekken_tag_tournament_2/",
-          "source": "r/Tekken",
-          "published": "2026-11-07T09:48:27.000Z",
           "score": 0,
           "level": null,
           "why": []
