@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:55:14.936Z",
+  "generatedAt": "2026-11-07T16:25:16.246Z",
   "source": "start.gg",
   "completed": [
     {
@@ -146,19 +146,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1687062",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Frame 19",
-      "event": "Melee Singles",
-      "entrants": 117,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T16:00:00.000Z",
-      "endAt": "2026-11-08T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/frame-19/event/melee-singles"
-    },
     {
       "eventId": "1737320",
       "scene": "streetfighter",
