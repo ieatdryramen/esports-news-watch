@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T22:00:23.614Z",
+  "generatedAt": "2026-11-07T23:00:23.346Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -82,6 +82,18 @@
           ]
         },
         {
+          "title": "KSCERATO and his team history",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqj38u/kscerato_and_his_team_history/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-07T22:44:57.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "history",
+            "furia*"
+          ]
+        },
+        {
           "title": "IEM Beijing semi-finals as they happened",
           "url": "https://www.hltv.org/news/45932/iem-beijing-semi-finals-as-they-happened",
           "source": "HLTV news",
@@ -135,21 +147,12 @@
           "why": [
             "navi*"
           ]
-        },
-        {
-          "title": "xelex: \"I'm not performing at the highest level [on stage], that's one thing I'm trying to work on\"",
-          "url": "https://www.hltv.org/news/45938/xelex-im-not-performing-at-the-highest-level-on-stage-thats-one-thing-im-trying-to-work-on",
-          "source": "HLTV news",
-          "published": "2026-11-07T20:15:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Scrap & HyDra After Successfully Finessing $350k Each From FaZe Clan",
@@ -188,6 +191,28 @@
           ]
         },
         {
+          "title": "Post Match Thread: Toronto KOI vs. Optic Texas | Monster Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqjcf5/post_match_thread_toronto_koi_vs_optic_texas/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T22:57:19.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "optic texas"
+          ]
+        },
+        {
+          "title": "Entire community getting ready to spam \"Hydra\" in the OpTic watch party live chat.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqiuau/entire_community_getting_ready_to_spam_hydra_in/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T22:33:13.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "hydra"
+          ]
+        },
+        {
           "title": "Drazah going from CEO to Faze Killer..",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqhiyq/drazah_going_from_ceo_to_faze_killer/",
           "source": "r/CoDCompetitive",
@@ -221,17 +246,6 @@
           ]
         },
         {
-          "title": "Post Match Thread: Optic Texas vs. C9 New York | Monster Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqfgo9/post_match_thread_optic_texas_vs_c9_new_york/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T20:01:01.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "optic texas"
-          ]
-        },
-        {
           "title": "Hot take (maybe): The Vel-46 needs a slight nerf",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqf0kc/hot_take_maybe_the_vel46_needs_a_slight_nerf/",
           "source": "r/CoDCompetitive",
@@ -246,6 +260,18 @@
       "scene": "Dota",
       "storyCount": 5,
       "stories": [
+        {
+          "title": "Gaimin Gladiators Hints at a Return to Professional Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NFJIeURuaVZVQVBFT3JKSTZGMVRYUldIYXE3U1dRSU5mcUhVZmRXT0J0cnJiZDlOenctRUh4NlNvTXBpQjU4d3QwZXNXV1ItS2xva3pWMVQtYVplbzR5YmNncEk5S2hTaXhFMXc0TF9nMHBpdlQ2dGI0dXRaLUk?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-07T11:33:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "gaimin gladiators"
+          ]
+        },
         {
           "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
           "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
@@ -269,17 +295,6 @@
           ]
         },
         {
-          "title": "LEGION debuts with new roster at 1win Essence III",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqfoht/legion_debuts_with_new_roster_at_1win_essence_iii/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T20:10:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
           "title": "The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off Today: LAN Final in Lviv Ahead",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLU5XUzRaRGNZbG8xUU9xeHFuaG1ydXVjVWFlYTV1UEJpNDY3ak5fRTVicWRLdlZ6ejJtbS1oMlZBM1NSTXp3V01wSF8wNDdvYWY1Slo1RkNrUDZYVDN0VG50bDdrcHo2NEtJX2EtZW9xc1FNVmoyWFkwTjdZeTNIMFdQLWJnQS1OZ0ZkWUxDU2ZoSGlNUW9MdVp5N0ZmdC00RWU1dVVHSktoZ3Q5THo1MXdMSFdqR0taNFgtcEZURXhkaVRJ0gHMAUFVX3lxTE9TZEhFSDVyRTlDdnkxdUswQXRFUzA5M0psMFRWZS1tbTVIdFFrZWZrSnFiV1BBc1l3NzVKczk1YXVVZGIxVEUzVUZDZDdLdmY2UkZyQV9hSGk4eUNMU3NtdDl5RnpnZEV3ZkZsZzdCQXNPa3plSFVLUGt3R0Q2OEVSemZZOFlKZkZlZGEtdXBEdGtsb1lfSHFWaXM4WFFYUjNoR1A1WFN0XzRhNjBFMnhTY0Nncm0zMGRzVWQteTQ1X0VUOFZLbFdYdEIwRQ?oc=5",
           "source": "Google News: Dota (Players)",
@@ -289,10 +304,10 @@
           "why": []
         },
         {
-          "title": "WHY IS INVOKER SO HARD TO PLAY THIS PATCH OR Am I DOING IT WRONG?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqd69n/why_is_invoker_so_hard_to_play_this_patch_or_am_i/",
+          "title": "Matchmaking down? PATCH?!?!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xqihsu/matchmaking_down_patch/",
           "source": "r/DotA2",
-          "published": "2026-11-07T18:23:52.000Z",
+          "published": "2026-11-07T22:17:10.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -345,6 +360,23 @@
       ]
     },
     {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "How to Survive a Drone Rush, Lings, and Mutas as Terran | Artosis vs Teacherhaiji",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xqj31e/how_to_survive_a_drone_rush_lings_and_mutas_as/",
+          "source": "r/broodwar",
+          "published": "2026-11-07T22:44:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "rush"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
       "storyCount": 1,
       "stories": [
@@ -365,7 +397,6 @@
   "quiet": [
     "AoE2",
     "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
