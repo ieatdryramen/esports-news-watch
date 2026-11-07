@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T20:00:24.298Z",
+  "generatedAt": "2026-11-07T21:00:22.862Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Official: Anlelele joins Astralis on loan for Major",
@@ -58,32 +58,6 @@
           ]
         },
         {
-          "title": "s1mple: \"Senzu could surpass donk. I can easily make the Top 20 next year.\"",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq84jg/s1mple_senzu_could_surpass_donk_i_can_easily_make/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-07T14:49:53.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "s1mple",
-            "donk"
-          ]
-        },
-        {
-          "title": "BLAST Rivals 2026 Season 2",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq7nxw/blast_rivals_2026_season_2/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-07T14:28:55.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "vitality*",
-            "g2*",
-            "mouz*",
-            "blast"
-          ]
-        },
-        {
           "title": "NBK- joins Phantom as head coach",
           "url": "https://www.hltv.org/news/45937/nbk-joins-phantom-as-head-coach",
           "source": "HLTV news",
@@ -128,6 +102,15 @@
           ]
         },
         {
+          "title": "xelex: \"I'm not performing at the highest level [on stage], that's one thing I'm trying to work on\"",
+          "url": "https://www.hltv.org/news/45938/xelex-im-not-performing-at-the-highest-level-on-stage-thats-one-thing-im-trying-to-work-on",
+          "source": "HLTV news",
+          "published": "2026-11-07T20:15:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "nin9: \"We're still getting used to each other\"",
           "url": "https://www.hltv.org/news/45935/nin9-were-still-getting-used-to-each-other",
           "source": "HLTV news",
@@ -152,96 +135,21 @@
       ]
     },
     {
-      "scene": "CoD",
+      "scene": "Dota",
       "storyCount": 7,
       "stories": [
         {
-          "title": "Post Match Thread: FaZe Vegas vs. Miami Heretics | Monster Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqen0v/post_match_thread_faze_vegas_vs_miami_heretics/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T19:25:52.000Z",
+          "title": "Gaimin Gladiators Hints at a Return to Professional Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NFJIeURuaVZVQVBFT3JKSTZGMVRYUldIYXE3U1dRSU5mcUhVZmRXT0J0cnJiZDlOenctRUh4NlNvTXBpQjU4d3QwZXNXV1ItS2xva3pWMVQtYVplbzR5YmNncEk5S2hTaXhFMXc0TF9nMHBpdlQ2dGI0dXRaLUk?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-07T11:33:00.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "faze",
-            "miami heretics"
+            "return",
+            "gaimin gladiators"
           ]
         },
-        {
-          "title": "Hydra and Simp when they are flowing might be unstoppable in this game",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8vtl/hydra_and_simp_when_they_are_flowing_might_be/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:22:46.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "simp",
-            "hydra"
-          ]
-        },
-        {
-          "title": "Formal and Dashy discuss this FaZe interaction",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8ikj/formal_and_dashy_discuss_this_faze_interaction/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:06:52.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "faze",
-            "dashy"
-          ]
-        },
-        {
-          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 2 | Official Discussion Thread",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqb7kn/call_of_duty_league_2027_monster_energy_launch/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T17:01:32.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "official",
-            "optic texas*",
-            "faze*",
-            "miami heretics*",
-            "cloud9*",
-            "-discussion thread"
-          ]
-        },
-        {
-          "title": "Insane HP ending between Ravens and G2",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq8r9a/insane_hp_ending_between_ravens_and_g2/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:17:31.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        },
-        {
-          "title": "Hot take (maybe): The Vel-46 needs a slight nerf",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqf0kc/hot_take_maybe_the_vel46_needs_a_slight_nerf/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T19:42:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Monster invitational bracket",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq9e29/monster_invitational_bracket/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T15:44:56.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 5,
-      "stories": [
         {
           "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
           "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
@@ -251,6 +159,28 @@
           "level": null,
           "why": [
             "champions"
+          ]
+        },
+        {
+          "title": "Team Liquid Co-Founder Defends New Valorant Partnership Model and Evaluates the State of Esports in 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1d4dnRMNmU1UWZESzBPaENTZmFEMnN3MExVM1ZDVHc1Zmk3VnFjbVphSWxoaVpQOF93ZDczZTJLVWRfR1g4WFBqTWJGWTY1WFV4M3AzSzN5UWQxQXg2ZGN5dTY1emdwUHlrZGNuOW0xVGNRVmRCOFZHb25yZUt6c1NlUWlyR0dkRWhrWnJDZ0ZFeVVET1lwTGo5cXhRY1FwSlNubFlBRjlIMmp0V0NNRlMxZkJaQjBzZmo4cEstLWZyTWJ3aXF5U2E3ckdiWjJReVHSAdoBQVVfeXFMT0lmSDdGeHVDNnkwenVBVDlJenVndEYwR3ZETmYwT3Y1d3BkYzllcFQwQXU2SFJaamNYRm9oanRwMVRoRDRiYkE2UWV0U0M5dXc2WkNvRXVoLUtwaFhMLUkyOXpiVHlQVFhUUmZWek1FNVUzNXl0ZDZUUmxWRkJid0g3Z2o0Ri04ZV9IVEs5OU9ZSG9Mam96TThfNGJDYXg2NDRGRndhWk9CVlRsSmZ5anAyV1FvMDJWUTFqdDRjZVFSVmJoVTIyRGxneW1IaU5LaHc2Nk9lWE9aRVE?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-07T16:22:06.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
+          "title": "LEGION debuts with new roster at 1win Essence III",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xqfoht/legion_debuts_with_new_roster_at_1win_essence_iii/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T20:10:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
           ]
         },
         {
@@ -279,12 +209,89 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 7,
+      "stories": [
+        {
+          "title": "Kenny says FaZe WANTED Draz and that money was the issue?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqgayc/kenny_says_faze_wanted_draz_and_that_money_was/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T20:38:15.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze",
+            "kenny"
+          ]
         },
         {
-          "title": "new patch WHEN???",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xq7f09/new_patch_when/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T14:17:29.000Z",
+          "title": "Post Match Thread: FaZe Vegas vs. Miami Heretics | Monster Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqen0v/post_match_thread_faze_vegas_vs_miami_heretics/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T19:25:52.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze",
+            "miami heretics"
+          ]
+        },
+        {
+          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 2 | Official Discussion Thread",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqb7kn/call_of_duty_league_2027_monster_energy_launch/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T17:01:32.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "official",
+            "optic texas*",
+            "faze*",
+            "miami heretics*",
+            "cloud9*",
+            "-discussion thread"
+          ]
+        },
+        {
+          "title": "Faze CEO (Drazah) clutches the round 11 for M8s",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqgrwn/faze_ceo_drazah_clutches_the_round_11_for_m8s/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T20:59:26.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Post Match Thread: Optic Texas vs. C9 New York | Monster Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqfgo9/post_match_thread_optic_texas_vs_c9_new_york/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T20:01:01.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "optic texas"
+          ]
+        },
+        {
+          "title": "Hot take (maybe): The Vel-46 needs a slight nerf",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqf0kc/hot_take_maybe_the_vel46_needs_a_slight_nerf/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T19:42:07.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Monster invitational bracket",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xq9e29/monster_invitational_bracket/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T15:44:56.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -331,6 +338,34 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Not sure why Overdrive Cyclone refuses to come out after I do the MP->HK here",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqfzfx/not_sure_why_overdrive_cyclone_refuses_to_come/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-07T20:23:53.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "refuses"
+          ]
+        },
+        {
+          "title": "This ending gave me a dopamine rush",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqdf5o/this_ending_gave_me_a_dopamine_rush/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-07T18:34:07.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ending"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -346,58 +381,11 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "This ending gave me a dopamine rush",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqdf5o/this_ending_gave_me_a_dopamine_rush/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-07T18:34:07.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Wanted to share a tetromino roguelike that will be released early next year on Steam",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xq9bmo/wanted_to_share_a_tetromino_roguelike_that_will/",
-          "source": "r/Tetris",
-          "published": "2026-11-07T15:42:02.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Unfortunate balance of Champi civs. [1450 elo opinion]",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xq8bex/unfortunate_balance_of_champi_civs_1450_elo/",
-          "source": "r/aoe2",
-          "published": "2026-11-07T14:58:34.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "AoE2",
+    "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
