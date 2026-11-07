@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T09:40:23.430Z",
+  "generatedAt": "2026-11-07T10:40:20.367Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -35,17 +35,6 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjlxVXI3aE5sZUZiMXBCYkdYdlFyNDFuXzFFc2RwNzk5MnNERnRPMS1oYUhTMUdrWTdYeWFCUWtfeEhtRU9yN3E0NW9IY1ltQVlsVi01ODNJRU5acURUS3ZHME83Z0Q1bS1oNWZZSXVkMWdnN3pJb1lQaUdvbHRiMA?oc=5",
           "source": "Google News: Rivals patches (games.gg)",
           "published": "2026-11-06T21:18:23.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "When Does Marvel Rivals Season 11 Start?",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94S3c3aDIyS0ZIZHE5RXR2dVY5ajBVcjd5TGlpSDZNU2VpLWRJZm9KRUtiYlN4YzQxUHlqMEpGQ3dKRGtPZm1tcTdSb19sOHVNOXpkN0U2a3hITVE1S3JlOU9oYWo?oc=5",
-          "source": "Google News: Rivals patches (Beebom)",
-          "published": "2026-11-06T10:05:02.000Z",
           "score": 2,
           "level": null,
           "why": [
