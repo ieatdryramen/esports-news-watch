@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T00:00:24.024Z",
+  "generatedAt": "2026-11-07T01:00:23.612Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 14,
       "stories": [
         {
           "title": "IEM Beijing Quarterfinals Recap: NAVI and BetBoom Advance to Semifinals",
@@ -28,18 +28,6 @@
           "why": [
             "history",
             "esl pro league"
-          ]
-        },
-        {
-          "title": "Field of View for the IEM Cologne Major 2026 coming November 8th",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xpkomq/field_of_view_for_the_iem_cologne_major_2026/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-06T18:45:05.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "iem",
-            "cologne major"
           ]
         },
         {
@@ -78,17 +66,6 @@
           ]
         },
         {
-          "title": "Singapore Regulators crackdown on PGL Major over gambling concerns",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWk1hZUZVVGZSNENuVzhZQWlIeVJXQXVDX3MyWG1EdFZob21tZ04zeTNGSFdremE1R091QnZtSjhPNEJ3WXc3T1NXVExqZ2hIRzRZcXd5TFBMX25zc01WblRMeTBLWFRlQTZrbHRueUJEM3k1UVdsRzFncWhfakN1Z2Q2cS1QZ0pDMHNVVTRReGJsTzM5T1YzT1phcGlQTmJhNUhfQ1hVYnpQSnJJ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-06T17:58:30.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "Media: history to play for 9z at Singapore Major",
           "url": "https://www.hltv.org/news/45930/media-history-to-play-for-9z-at-singapore-major",
           "source": "HLTV news",
@@ -122,17 +99,6 @@
           ]
         },
         {
-          "title": "PGL Will Fine CS2 Teams $30,000 for Withdrawing From Its Events",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUYtcFZOTm84UXl5eEdDczdqVzUyUmpad1pEd25GcVpPSkd1OVpJaHprLUkxVFZGOXFnSkg5WHFVaDNYc3N5Mm81c1pNZm4zeHdjVUdZclB5Q1pCemlGSE5DejhRdU9sZ0xJWk02MFhaS1lHd041MjRaNkR5YkFfdC12YWNrOXM?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-06T14:55:12.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "PGL add anti-withdrawal fines to rulebook: \"This is done to create a more professional scene\"",
           "url": "https://www.hltv.org/news/45924/pgl-add-anti-withdrawal-fines-to-rulebook-this-is-done-to-create-a-more-professional-scene",
           "source": "HLTV news",
@@ -142,12 +108,43 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "NAVI reverse-sweep PARIVISION to make the semi-finals in Beijing",
+          "url": "https://www.hltv.org/news/45923/navi-reverse-sweep-parivision-to-make-the-semi-finals-in-beijing",
+          "source": "HLTV news",
+          "published": "2026-11-06T10:24:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "navi"
+          ]
+        },
+        {
+          "title": "The best highlights from IEM Beijing playoffs",
+          "url": "https://www.hltv.org/news/45922/the-best-highlights-from-iem-beijing-playoffs",
+          "source": "HLTV news",
+          "published": "2026-11-06T06:49:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "Short news: Week 43",
+          "url": "https://www.hltv.org/news/45887/short-news-week-43",
+          "source": "HLTV news",
+          "published": "2026-11-06T19:09:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Natus Vincere emerge victorious over GamerLegion, wins Dota 2 EPL Masters III",
@@ -159,6 +156,30 @@
           "why": [
             "wins",
             "grand final*"
+          ]
+        },
+        {
+          "title": "I Analyzed Team Spirit vs Yandex – Here's What You Can Learn",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpt5aj/i_analyzed_team_spirit_vs_yandex_heres_what_you/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T00:47:58.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "grand finals*",
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Gaimin Gladiators may return to Dota 2",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpsbuw/gaimin_gladiators_may_return_to_dota_2/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T00:08:25.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "return",
+            "gaimin gladiators"
           ]
         },
         {
@@ -174,9 +195,9 @@
         },
         {
           "title": "FISSURE’s unpaid CS2, Dota 2 prize debt explained as CEO addresses financial struggles",
-          "url": "https://esports.gg/news/counter-strike-2/fissure-prize-debts-ceo-statement-explanation/",
-          "source": "esports.gg",
-          "published": "2026-11-06T15:48:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVFveXNpT0NicHAyZTAwaHVuMTRpWjZXbzdkWDN0NV9YSDZDMHRQZHhhNkNHYkkwTTJmbzJ4WWtvbmlveEl4c19ZR3ZvcW9EeGdLY0pMZjdxdGZYZjJza2JpaV80aWRXT2ZYMjlyZ1p2QTNOOUxDdnZzeXh6XzJCbXlBcnRjUTRWV2FCNmt6TUI?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-06T16:18:08.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -191,15 +212,6 @@
           "why": [
             "-stream"
           ]
-        },
-        {
-          "title": "No patch + Lower bracket is full of smurfs",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xpk0d6/no_patch_lower_bracket_is_full_of_smurfs/",
-          "source": "r/DotA2",
-          "published": "2026-11-06T18:18:59.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -207,6 +219,18 @@
       "scene": "CoD",
       "storyCount": 9,
       "stories": [
+        {
+          "title": "Faze get their getback on the Huntsmen | Scrap and Simp have some words for Swooty",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpt7ki/faze_get_their_getback_on_the_huntsmen_scrap_and/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T00:51:05.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze",
+            "simp"
+          ]
+        },
         {
           "title": "Can they please change some of these team colors for map wins? You need x ray vision to see the map count for some of these teams!",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpqpuo/can_they_please_change_some_of_these_team_colors/",
@@ -294,17 +318,6 @@
           "why": [
             "faze"
           ]
-        },
-        {
-          "title": "Black Ops 3 was released 11 years ago today…",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpkf82/black_ops_3_was_released_11_years_ago_today/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T18:34:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
         }
       ]
     },
@@ -345,8 +358,19 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Does Moky Mog?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xptczc/does_moky_mog/",
+          "source": "r/SSBM",
+          "published": "2026-11-07T00:58:27.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "moky"
+          ]
+        },
         {
           "title": "Zain finds his old campaign post for Summit 6",
           "url": "https://www.reddit.com/r/SSBM/comments/1xpqqbw/zain_finds_his_old_campaign_post_for_summit_6/",
@@ -356,23 +380,6 @@
           "level": null,
           "why": [
             "zain"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "My response to Hera's comments on Golden Age",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xpkgfo/my_response_to_heras_comments_on_golden_age/",
-          "source": "r/aoe2",
-          "published": "2026-11-06T18:36:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "hera"
           ]
         }
       ]
@@ -394,6 +401,7 @@
     }
   ],
   "quiet": [
+    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
