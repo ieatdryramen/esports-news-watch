@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T03:40:34.813Z",
+  "generatedAt": "2026-11-07T04:40:37.134Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -66,15 +66,6 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UGM3Y3MtMHFEZjJiVVgtNW9VQ1YySmRka0lleVN6WkdqYnpTSDVZRGJMNEpGQXg5MXdfYUNJQjBaRjU1VFNFUVVvbmg0TFRhOVZEZGFGa3FVMjRzZzcwdjE4eVFpUGZCVWowcHdqZkI?oc=5",
           "source": "Google News: Rivals patches (GameSpot)",
           "published": "2026-11-06T17:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Yellow Jackets face harsh loss against Winthrop",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1dnYklkS3V3TEN4c2dBRkJ4MjdQVjlROU9hRXlYRVdmaXRacXJjWnk0c3Q5cm54X3ZacHl2MHZHZ0E3T0ticXA1VlppNXpFT1M0WV9GcFNHWXN0aUJLLVRReUgtdExySkM2OVFZT1FGTHRFWHpJYUVIakJKT25JVEpTdzcxeXdFQXRZS1F2VTQxYzMwekdfSXhaYjFSYUJqZFE?oc=5",
-          "source": "Google News: Rivals esports (Cedarville University)",
-          "published": "2026-11-06T03:58:53.000Z",
           "score": 1,
           "level": null,
           "why": []
