@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-07T18:35:15.820Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "9z bench meyern ahead of Singapore Major",
+      "url": "https://www.hltv.org/news/45940/9z-bench-meyern-ahead-of-singapore-major",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 5,
+      "why": [
+        "bench",
+        "ending*"
+      ],
+      "summary": "The South American team will be without the Argentinian AWPer for the season-ending event.",
+      "published": "2026-11-07T18:31:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-07T17:47:03.118Z",
       "level": "breaking",
       "scene": "CS2",
