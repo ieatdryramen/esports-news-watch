@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:00:26.189Z",
+  "generatedAt": "2026-11-07T07:00:25.734Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -52,6 +52,17 @@
           "why": [
             "mouz*",
             "furia"
+          ]
+        },
+        {
+          "title": "Live updates from IEM Beijing semi-finals",
+          "url": "https://www.hltv.org/news/45932/live-updates-from-iem-beijing-semi-finals",
+          "source": "HLTV news",
+          "published": "2026-11-07T06:28:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
           ]
         },
         {
@@ -118,17 +129,6 @@
           "level": null,
           "why": [
             "navi"
-          ]
-        },
-        {
-          "title": "The best highlights from IEM Beijing playoffs",
-          "url": "https://www.hltv.org/news/45922/the-best-highlights-from-iem-beijing-playoffs",
-          "source": "HLTV news",
-          "published": "2026-11-06T06:49:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
           ]
         },
         {
