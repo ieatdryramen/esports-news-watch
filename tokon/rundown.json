@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T05:40:40.333Z",
+  "generatedAt": "2026-11-07T06:40:37.599Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Miles Morales Hinted As Year 2 DLC Character For Marvel Tokon",
@@ -43,15 +43,6 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcmZ2bS10MHBFNnFmSmltLWFycGJRSHBHX1NSRVR6SFFFXzIwYmxxUUpLV2xxblFXMGRoNDgwSXFHclV5SXZRNUVzYlBOZ1h5MkpXNHMzN2NsRmpsaWRhMldiU0pxT3Z5YlpiZDRPa1FYQVktbERldzNrNm84Q05sR3dFWmNhZw?oc=5",
           "source": "Google News: Tokon (Epic Games)",
           "published": "2026-11-06T13:23:31.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Tokon stories",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YQWFQZFVLblRQWU1YVDhIY0ZYOWlGM1RlSGtKZnJNOGprTGVHWTBUZUJRMWtQVlRLUmNDSUd5NTN1anpveVlyRW1URDNORWdTNTlpVmo5ckdscDN3and4NDBUR2o?oc=5",
-          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
-          "published": "2026-11-06T06:07:17.000Z",
           "score": 1,
           "level": null,
           "why": []
