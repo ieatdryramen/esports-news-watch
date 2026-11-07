@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-07T07:40:21.411Z",
+  "generatedAt": "2026-11-07T08:23:23.058Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1737253",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Don's of 3rd Strike Monthly 4",
+      "event": "3rd Strike (Astro City)",
+      "entrants": 29,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T05:00:00.000Z",
+      "endAt": "2026-11-07T07:59:00.000Z",
+      "url": "https://www.start.gg/tournament/don-s-of-3rd-strike-monthly-4/event/3rd-strike-astro-city",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "GREGSPORTS | BTran"
+        },
+        {
+          "placement": 2,
+          "name": "3sk"
+        },
+        {
+          "placement": 3,
+          "name": "RudeAwakening | Morro"
+        },
+        {
+          "placement": 4,
+          "name": "dertbag"
+        },
+        {
+          "placement": 5,
+          "name": "Dabs&Cabs | database"
+        },
+        {
+          "placement": 5,
+          "name": "DTGC | KS"
+        },
+        {
+          "placement": 7,
+          "name": "ericturbo"
+        },
+        {
+          "placement": 7,
+          "name": "BROKEBOYS/PPM | Combofiend"
+        }
+      ]
+    },
     {
       "eventId": "1744880",
       "scene": "streetfighter",
