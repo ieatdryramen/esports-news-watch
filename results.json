@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:55:15.927Z",
+  "generatedAt": "2026-11-07T23:25:25.385Z",
   "source": "start.gg",
   "completed": [
     {
@@ -191,21 +191,22 @@
       ]
     }
   ],
-  "live": [],
-  "upcoming": [
+  "live": [
     {
-      "eventId": "1729356",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "The Asscadian 8",
-      "event": "Melee Singles",
-      "entrants": 64,
+      "eventId": "1737320",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Jazzy Chillán 2026",
+      "event": "Jazzy Chillan 2026 Street Fighter III Third Strike",
+      "entrants": 59,
       "online": false,
       "major": false,
-      "startAt": "2026-11-07T23:00:00.000Z",
-      "endAt": "2026-11-08T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-asscadian-8/event/melee-singles"
-    },
+      "startAt": "2026-11-07T17:00:00.000Z",
+      "endAt": "2026-11-07T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/jazzy-chill-n-2026/event/jazzy-chillan-2026-street-fighter-iii-third-strike"
+    }
+  ],
+  "upcoming": [
     {
       "eventId": "1738271",
       "scene": "tekken",
