@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T10:40:20.367Z",
+  "generatedAt": "2026-11-07T11:35:28.515Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -16,18 +16,6 @@
           "why": [
             "grand finals",
             "grand finals"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 - Release, timings, new heroes & more details",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCdDR5azNqLW03UzlnOGtGZlZjVm9NRTV0VFM0VVFONi1OZC1oWGZEaWRqQTRZM3JHZ0owX2stTERfT3plbXlUUjV5V1RmU1AyS0V6VTRGVS1IdWEyZnpmVTJ0bGEzY05Wdm05YTc1QnpLWmRBSzNSUXc4Z0JDUQ?oc=5",
-          "source": "Google News: Rivals patches (Khel Now)",
-          "published": "2026-11-06T11:30:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "new heroes",
-            "season"
           ]
         },
         {
