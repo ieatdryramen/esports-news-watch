@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:00:23.825Z",
+  "generatedAt": "2026-11-07T13:00:23.049Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -83,6 +83,17 @@
           ]
         },
         {
+          "title": "IEM Beijing semi-finals as they happened",
+          "url": "https://www.hltv.org/news/45932/iem-beijing-semi-finals-as-they-happened",
+          "source": "HLTV news",
+          "published": "2026-11-07T12:05:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
           "title": "MOUZ ease past BETBOOM into Beijing final",
           "url": "https://www.hltv.org/news/45936/mouz-ease-past-betboom-into-beijing-final",
           "source": "HLTV news",
@@ -91,17 +102,6 @@
           "level": null,
           "why": [
             "mouz"
-          ]
-        },
-        {
-          "title": "Live updates from IEM Beijing semi-finals",
-          "url": "https://www.hltv.org/news/45932/live-updates-from-iem-beijing-semi-finals",
-          "source": "HLTV news",
-          "published": "2026-11-07T06:28:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
           ]
         },
         {
@@ -173,7 +173,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
@@ -196,6 +196,15 @@
           "why": [
             "ban"
           ]
+        },
+        {
+          "title": "The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off Today: LAN Final in Lviv Ahead",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2RIRUg1ckU5Q3Z5MXVLMEF0RVMwOTNKbDBUVmUtbW01SHRRa2Vma0pxYldQQXNZdzc1SnM5NWF1VWRiMVRFM1VGQ2Q3S3ZmNlJGckFfYUhpOHlDTFNzbXQ5eUZ6Z2RFd2ZGbGc3QkFzT2t6ZUhVS1Brd0dENjhFUnpmWThZSmZGZWRhLXVwRHRrbG9ZX0hxVmlzOFhRWFIzaEdQNVhTdF80YTYwRTJ4U2NDZ3JtMzBkc1VkLXk0NV9FVDhWS2xXWHRCMEXSAcwBQVVfeXFMT1NkSEVINXJFOUN2eTF1SzBBdEVTMDkzSmwwVFZlLW1tNUh0UWtlZmtKcWJXUEFzWXc3NUpzOTVhdVVkYjFURTNVRkNkN0t2ZjZSRnJBX2FIaTh5Q0xTc210OXlGemdkRXdmRmxnN0JBc09remVIVUtQa3dHRDY4RVJ6Zlk4WUpmRmVkYS11cER0a2xvWV9IcVZpczhYUVhSM2hHUDVYU3RfNGE2MEUyeFNjQ2dybTMwZHNVZC15NDVfRVQ4VktsV1h0QjBF?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-07T11:18:15.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "can we get new patch before gta 6?",
@@ -287,7 +296,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
@@ -309,17 +318,6 @@
           "level": null,
           "why": [
             "faze"
-          ]
-        },
-        {
-          "title": "Post Match Thread: Paris Gentle Mates vs. Cloud9 New York | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpwp6m/post_match_thread_paris_gentle_mates_vs_cloud9/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T03:48:21.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cloud9"
           ]
         },
         {
@@ -395,11 +393,27 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Did they buff the AI recently or do I just suck",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xq5an0/did_they_buff_the_ai_recently_or_do_i_just_suck/",
+          "source": "r/aoe2",
+          "published": "2026-11-07T12:32:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "record*"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
     "Melee",
-    "AoE2",
     "Classic Tetris",
     "Trackmania",
     "Legacy FGC",
