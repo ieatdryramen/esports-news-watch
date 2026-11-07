@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T13:00:23.049Z",
+  "generatedAt": "2026-11-07T14:00:23.843Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "MOUZ vs BB / IEM Beijing 2026 - Semi-Final / Post-Match Discussion",
@@ -173,19 +173,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
-        {
-          "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-07T03:31:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        },
         {
           "title": "Please ban this Party Down rank. They are wasting everyone's time",
           "url": "https://www.reddit.com/r/DotA2/comments/1xpymzn/please_ban_this_party_down_rank_they_are_wasting/",
@@ -199,7 +188,7 @@
         },
         {
           "title": "The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off Today: LAN Final in Lviv Ahead",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2RIRUg1ckU5Q3Z5MXVLMEF0RVMwOTNKbDBUVmUtbW01SHRRa2Vma0pxYldQQXNZdzc1SnM5NWF1VWRiMVRFM1VGQ2Q3S3ZmNlJGckFfYUhpOHlDTFNzbXQ5eUZ6Z2RFd2ZGbGc3QkFzT2t6ZUhVS1Brd0dENjhFUnpmWThZSmZGZWRhLXVwRHRrbG9ZX0hxVmlzOFhRWFIzaEdQNVhTdF80YTYwRTJ4U2NDZ3JtMzBkc1VkLXk0NV9FVDhWS2xXWHRCMEXSAcwBQVVfeXFMT1NkSEVINXJFOUN2eTF1SzBBdEVTMDkzSmwwVFZlLW1tNUh0UWtlZmtKcWJXUEFzWXc3NUpzOTVhdVVkYjFURTNVRkNkN0t2ZjZSRnJBX2FIaTh5Q0xTc210OXlGemdkRXdmRmxnN0JBc09remVIVUtQa3dHRDY4RVJ6Zlk4WUpmRmVkYS11cER0a2xvWV9IcVZpczhYUVhSM2hHUDVYU3RfNGE2MEUyeFNjQ2dybTMwZHNVZC15NDVfRVQ4VktsV1h0QjBF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLU5XUzRaRGNZbG8xUU9xeHFuaG1ydXVjVWFlYTV1UEJpNDY3ak5fRTVicWRLdlZ6ejJtbS1oMlZBM1NSTXp3V01wSF8wNDdvYWY1Slo1RkNrUDZYVDN0VG50bDdrcHo2NEtJX2EtZW9xc1FNVmoyWFkwTjdZeTNIMFdQLWJnQS1OZ0ZkWUxDU2ZoSGlNUW9MdVp5N0ZmdC00RWU1dVVHSktoZ3Q5THo1MXdMSFdqR0taNFgtcEZURXhkaVRJ0gHMAUFVX3lxTE9TZEhFSDVyRTlDdnkxdUswQXRFUzA5M0psMFRWZS1tbTVIdFFrZWZrSnFiV1BBc1l3NzVKczk1YXVVZGIxVEUzVUZDZDdLdmY2UkZyQV9hSGk4eUNMU3NtdDl5RnpnZEV3ZkZsZzdCQXNPa3plSFVLUGt3R0Q2OEVSemZZOFlKZkZlZGEtdXBEdGtsb1lfSHFWaXM4WFFYUjNoR1A1WFN0XzRhNjBFMnhTY0Nncm0zMGRzVWQteTQ1X0VUOFZLbFdYdEIwRQ?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-07T11:18:15.000Z",
           "score": 1,
@@ -296,7 +285,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Post Match Thread: G2 Minnesota vs. Carolina Royal Ravens | Monster Energy Launch Invitational | @GGBreakingPoint",
@@ -307,17 +296,6 @@
           "level": null,
           "why": [
             "carolina royal ravens"
-          ]
-        },
-        {
-          "title": "Post Match Thread: FaZe Vegas vs. M80 Boston | Monster Energy Launch Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpwu26/post_match_thread_faze_vegas_vs_m80_boston/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T03:55:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
           ]
         },
         {
@@ -343,20 +321,26 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 3,
+      "scene": "Brood War",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Bloo vs Punk",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xpwqrp/bloo_vs_punk/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-07T03:50:50.000Z",
+          "title": "Don’t sleep on burrow rush",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xq0y7n/dont_sleep_on_burrow_rush/",
+          "source": "r/broodwar",
+          "published": "2026-11-07T07:56:20.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "punk"
+            "rush"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
         {
           "title": "CAPCOM CUP 13 and STREET FIGHTER LEAGUE WORLD CHAMPIONSHIP 2026 Venue Tickets Go on Sale November 9 for March 2027 Events at Ryogoku Kokugikan - www.haveagood-holiday.com",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFlVLWlSaTE0aDhJQ3hsaGNuZUtLSmdaenhLSjA5NTFJdk1md3djZFJQbEhrQW5ZQXdGc0tCT01JR2IzVGpsb3ZQdXNyVnBaWTVKRnZiRFA2aVpvM1RjX09yN3VRVklFU3B3ZG52S2dhbWxtTl9GSnJkUDNWOUZIM2pkUk01UGVSOHpDd0tfdk4yRHFxYTNpUU9xVWV4ZFB1RWxBU0pOWVFBVldBcktaT2RCVjgyV2FoUnNJ?oc=5",
@@ -374,23 +358,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Don’t sleep on burrow rush",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xq0y7n/dont_sleep_on_burrow_rush/",
-          "source": "r/broodwar",
-          "published": "2026-11-07T07:56:20.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "rush"
-          ]
         }
       ]
     },
