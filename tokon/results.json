@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:25:34.652Z",
+  "generatedAt": "2026-11-07T22:55:29.215Z",
   "source": "start.gg",
   "completed": [
     {
@@ -51,7 +51,21 @@
     }
   ],
   "live": [],
-  "upcoming": [],
+  "upcoming": [
+    {
+      "eventId": "1746592",
+      "scene": "tokon",
+      "game": "Fighting Souls",
+      "tournament": "TNS Marvel Tokon #12 (PS5/PC)",
+      "event": "Marvel Tokon",
+      "entrants": 50,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-08T01:00:00.000Z",
+      "endAt": "2026-11-08T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-marvel-tokon-12-ps5-pc/event/marvel-tokon"
+    }
+  ],
   "games": {
     "Fighting Souls": [
       {
