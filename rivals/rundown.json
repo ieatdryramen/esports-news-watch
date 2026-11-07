@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T18:25:34.468Z",
+  "generatedAt": "2026-11-07T19:25:29.954Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -34,15 +34,6 @@
           "url": "https://esports.gg/news/marvel-rivals/is-marvel-rivals-crossplay/",
           "source": "esports.gg",
           "published": "2026-11-07T06:59:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Overwatch Has Just Copied Marvel Rivals' Homework Yet Again",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqYm5Ja2xheFlRWkhaODRWQlBNTDBrNU1NZkhZN1FxRjdyTnhFWFRZVkFTY05KT2NmTVhIOTFaWmZ0UnFzajJTZFNoLWtSMjhyZEZwVTFFMThLYnFsMThOWlF1ei1RSHVqbFlWbW8tTjg?oc=5",
-          "source": "Google News: Rivals rosters (GameRant)",
-          "published": "2026-11-06T18:28:14.000Z",
           "score": 1,
           "level": null,
           "why": []
