@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T00:40:41.177Z",
+  "generatedAt": "2026-11-07T01:40:34.442Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Miles Morales Hinted As Year 2 DLC Character For Marvel Tokon",
@@ -52,6 +52,15 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YQWFQZFVLblRQWU1YVDhIY0ZYOWlGM1RlSGtKZnJNOGprTGVHWTBUZUJRMWtQVlRLUmNDSUd5NTN1anpveVlyRW1URDNORWdTNTlpVmo5ckdscDN3and4NDBUR2o?oc=5",
           "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
           "published": "2026-11-06T06:07:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "MARVEL Tōkon Phoenix Cyclops All Shards bacwards beam",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHazRSMHk4eGxmV29mdEZOMkdiYWxfYm1iZmtxeTB5VnNiOEV2RmtSRzU3a3hITmkxbHVpQzlkbTYyaE4wMnNvVHIwQ2pGZERvRVg0X0JyZlB5TFUz?oc=5",
+          "source": "Google News: Tokon (YouTube)",
+          "published": "2026-11-06T02:43:50.000Z",
           "score": 1,
           "level": null,
           "why": []
