@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:55:21.039Z",
+  "generatedAt": "2026-11-07T15:25:16.069Z",
   "source": "start.gg",
   "completed": [
     {
@@ -160,19 +160,6 @@
       "url": "https://www.start.gg/tournament/frame-19/event/melee-singles"
     },
     {
-      "eventId": "1714477",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "GatorLAN Fall 2026",
-      "event": "Street Fighter III: 3rd Strike ($50 pot+$50 if >=32 entrants)",
-      "entrants": 18,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T16:30:00.000Z",
-      "endAt": "2026-11-09T03:00:00.000Z",
-      "url": "https://www.start.gg/tournament/gatorlan-fall-2026/event/street-fighter-iii-3rd-strike-50-pot-50-if-32-entrants"
-    },
-    {
       "eventId": "1737320",
       "scene": "streetfighter",
       "game": "Street Fighter III: 3rd Strike",
@@ -243,7 +230,7 @@
       "game": "Tekken 8",
       "tournament": "TEKKEN 8 - LOW TIER RUMBLE",
       "event": "TEKKEN 8 - LOW TIER RUMBLE",
-      "entrants": 70,
+      "entrants": 71,
       "online": true,
       "major": false,
       "startAt": "2026-11-08T21:00:00.000Z",
