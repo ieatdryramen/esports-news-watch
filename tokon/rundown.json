@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T23:40:36.195Z",
+  "generatedAt": "2026-11-07T00:40:41.177Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Miles Morales Hinted As Year 2 DLC Character For Marvel Tokon",
@@ -28,6 +28,15 @@
           "why": [
             "combo"
           ]
+        },
+        {
+          "title": "Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm1BVlpKY0tSZWh5YTFaXzdiQWJmZnFjbjVSRGpvTFRpNjhQUVlKMGFUNkhaZXBjT1NScWdCeFMySGdRRWxyX0dFRE91WFIzQ1l3Q0JkV3l0WnpSV3ZPZFZyaGUtaFJBOVRCOHdncUJBdzBXeERralUtbGNrYXRIUkF4THlLOXRhR3EwckdEYnhpMXA2X2xXNE5qMWpXblJLeDhJYVhEM01COWs5N0pLQW5yRm4?oc=5",
+          "source": "Google News: Tokon (Push Square)",
+          "published": "2026-11-06T15:34:15.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Tokon adds Phoenix Cyclops, The Division 2 opens Central Park, Genshin Impact launches v7.2, and this week’s free games.",
