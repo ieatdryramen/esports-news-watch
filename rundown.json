@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T18:00:26.816Z",
+  "generatedAt": "2026-11-07T19:00:22.781Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Official: Anlelele joins Astralis on loan for Major",
@@ -21,22 +21,6 @@
           ]
         },
         {
-          "title": "MOUZ vs BB / IEM Beijing 2026 - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq4cmu/mouz_vs_bb_iem_beijing_2026_semifinal_postmatch/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-07T11:37:44.000Z",
-          "score": 8.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "grand final*",
-            "official*",
-            "mouz",
-            "iem"
-          ]
-        },
-        {
           "title": "chopper announces retirement",
           "url": "https://www.hltv.org/news/45925/chopper-announces-retirement",
           "source": "HLTV news",
@@ -47,6 +31,18 @@
             "retirement",
             "return*",
             "announces"
+          ]
+        },
+        {
+          "title": "9z bench meyern ahead of Singapore Major",
+          "url": "https://www.hltv.org/news/45940/9z-bench-meyern-ahead-of-singapore-major",
+          "source": "HLTV news",
+          "published": "2026-11-07T18:31:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "bench",
+            "ending*"
           ]
         },
         {
@@ -121,17 +117,6 @@
           ]
         },
         {
-          "title": "Magnojez: \"Another cinema game versus FURIA; no one beats BETBOOM six times\"",
-          "url": "https://www.hltv.org/news/45928/magnojez-another-cinema-game-versus-furia-no-one-beats-betboom-six-times",
-          "source": "HLTV news",
-          "published": "2026-11-06T18:35:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia"
-          ]
-        },
-        {
           "title": "Vitality’s lineup smokes A site with support flash",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xq5vcg/vitalitys_lineup_smokes_a_site_with_support_flash/",
           "source": "r/GlobalOffensive",
@@ -150,12 +135,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Short news: Week 43",
+          "url": "https://www.hltv.org/news/45887/short-news-week-43",
+          "source": "HLTV news",
+          "published": "2026-11-06T19:09:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
@@ -178,6 +172,15 @@
           "why": []
         },
         {
+          "title": "WHY IS INVOKER SO HARD TO PLAY THIS PATCH OR Am I DOING IT WRONG?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xqd69n/why_is_invoker_so_hard_to_play_this_patch_or_am_i/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T18:23:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Guys Hear Me Out (Patch Discussion) 220+ Days",
           "url": "https://www.reddit.com/r/DotA2/comments/1xq9jha/guys_hear_me_out_patch_discussion_220_days/",
           "source": "r/DotA2",
@@ -194,26 +197,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "I hope Techies does not get butchered on nerfs for upcoming patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xq3iik/i_hope_techies_does_not_get_butchered_on_nerfs/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T10:44:20.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "LVLUP.A - XE, November 6, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamhIdmk2UWp3OG1WdEtNUGdoMXhwSTU1ZlVNNGJOYnVtTHFPeUtCS3IzMXFfWi0xb0hQWFI4bllkV0ozbno1MWN5aTRpMlBHSGRKb3VPMUdBcW1XUFNicXVGYmZVeEtXQUlEQldVMmdPZ084NEg0dnVQZk1VYUpYd19EajVpSGZNX1BBanI0OU5TSU1Na3BXUDBTOERNYm8yRTFRZW45VE0?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-06T18:45:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -312,6 +295,23 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "This ending gave me a dopamine rush",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqdf5o/this_ending_gave_me_a_dopamine_rush/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-07T18:34:07.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ending"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
@@ -348,21 +348,6 @@
           "url": "https://www.reddit.com/r/aoe2/comments/1xq8bex/unfortunate_balance_of_champi_civs_1450_elo/",
           "source": "r/aoe2",
           "published": "2026-11-07T14:58:34.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Training Mode vs. Replay Takeover & DLC Characters' Worth",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xq4fj5/training_mode_vs_replay_takeover_dlc_characters/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-07T11:42:43.000Z",
           "score": 0,
           "level": null,
           "why": []
