@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T05:00:24.433Z",
+  "generatedAt": "2026-11-07T06:00:26.189Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -146,7 +146,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "I look forward to Ghosty keeping the same energy about setting a precedent for punishing GA breaking and hopefully he'll be starting a vote for Thieves soon",
@@ -170,17 +170,6 @@
           "why": [
             "faze",
             "simp"
-          ]
-        },
-        {
-          "title": "Can they please change some of these team colors for map wins? You need x ray vision to see the map count for some of these teams!",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xpqpuo/can_they_please_change_some_of_these_team_colors/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-06T22:54:26.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
           ]
         },
         {
@@ -262,8 +251,19 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
+        {
+          "title": "Please ban this Party Down rank. They are wasting everyone's time",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpymzn/please_ban_this_party_down_rank_they_are_wasting/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T05:34:58.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ban"
+          ]
+        },
         {
           "title": "I Analyzed Team Spirit vs Yandex – Here's What You Can Learn",
           "url": "https://www.reddit.com/r/DotA2/comments/1xpt5aj/i_analyzed_team_spirit_vs_yandex_heres_what_you/",
@@ -286,6 +286,17 @@
           "why": [
             "return",
             "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "can we get new patch before gta 6?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xpyhh4/can_we_get_new_patch_before_gta_6/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T05:26:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "released*"
           ]
         },
         {
@@ -405,7 +416,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Does Moky Mog?",
@@ -416,17 +427,6 @@
           "level": null,
           "why": [
             "moky"
-          ]
-        },
-        {
-          "title": "Zain finds his old campaign post for Summit 6",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xpqqbw/zain_finds_his_old_campaign_post_for_summit_6/",
-          "source": "r/SSBM",
-          "published": "2026-11-06T22:54:59.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
           ]
         }
       ]
