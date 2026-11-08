@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:55:15.363Z",
+  "generatedAt": "2026-11-08T02:25:22.500Z",
   "source": "start.gg",
   "completed": [
     {
@@ -99,6 +99,19 @@
   ],
   "live": [
     {
+      "eventId": "1721066",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Young Neil vs The World 3  $50 Pot Bonus!",
+      "event": "Third Strike",
+      "entrants": 16,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T23:00:00.000Z",
+      "endAt": "2026-11-08T02:00:00.000Z",
+      "url": "https://www.start.gg/tournament/young-neil-vs-the-world-3-50-pot-bonus/event/third-strike"
+    },
+    {
       "eventId": "1737320",
       "scene": "streetfighter",
       "game": "Street Fighter III: 3rd Strike",
@@ -132,7 +145,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
       "event": "Melee Singles",
-      "entrants": 66,
+      "entrants": 67,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T00:00:00.000Z",
