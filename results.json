@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:55:16.306Z",
+  "generatedAt": "2026-11-08T12:25:16.788Z",
   "source": "start.gg",
   "completed": [
     {
@@ -421,19 +421,6 @@
     }
   ],
   "upcoming": [
-    {
-      "eventId": "1742514",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Ranking Battle Novembre 2026",
-      "event": "Third Strike #2",
-      "entrants": 16,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-08T12:00:00.000Z",
-      "endAt": "2026-11-08T18:00:00.000Z",
-      "url": "https://www.start.gg/tournament/ranking-battle-novembre-2026/event/third-strike-2"
-    },
     {
       "eventId": "1738271",
       "scene": "tekken",
