@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T08:00:25.033Z",
+  "generatedAt": "2026-11-08T09:00:22.393Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -162,7 +162,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Maphack / Vision Cheating ruining high-MMR (Divine+) matches: Suspicious de-warding behavior example",
@@ -212,17 +212,6 @@
           ]
         },
         {
-          "title": "Does anyone feel like (at least in divine bracket) that whoever gets better midlaner wins?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xql0yf/does_anyone_feel_like_at_least_in_divine_bracket/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T00:17:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
           "title": "Collapse reveals when he plans to come back to Dota 2",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2FNbVE4bm44QU0xSm1lRkFLc3czN2JRRGJ3ZGloRzZ6Z2p6U2hEbXNzd3BSR2xBcm0yLTBxYjdibF9zSElReWdlUkRaQnF6NUZKVDdfNjRuY2xPVjJpMnYwQXhIMlpQcmxBWWVjelh2b1JIeDZ3dHpmb005Q1RkeHZSZ3FTRGR4TmQyaENfelRiT2VkLURsbmVoZ3Z6dw?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -246,7 +235,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Scrap and Alluka let’s discuss FaZe fans",
@@ -260,18 +249,6 @@
             "faze",
             "simp*",
             "hydra*"
-          ]
-        },
-        {
-          "title": "Post Match Thread: Optic Texas vs. Miami Heretics | Monster Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqkwlm/post_match_thread_optic_texas_vs_miami_heretics/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T00:11:26.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "optic texas",
-            "miami heretics"
           ]
         },
         {
@@ -410,8 +387,19 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Is it possible to get this good at breaking throws legite? I used a variety of them too",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xqtwi1/is_it_possible_to_get_this_good_at_breaking/",
+          "source": "r/Tekken",
+          "published": "2026-11-08T08:47:48.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "breaking"
+          ]
+        },
         {
           "title": "What can be done to fix Leroy. Yes he was broken in 7 and then nerfed but so was FAHK. Why no interest for the grandmaster of drip or even discussions about him?",
           "url": "https://www.reddit.com/r/Tekken/comments/1xqla62/what_can_be_done_to_fix_leroy_yes_he_was_broken/",
