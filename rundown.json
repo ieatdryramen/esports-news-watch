@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T14:00:27.598Z",
+  "generatedAt": "2026-11-08T15:00:25.090Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 23,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -145,19 +145,6 @@
           ]
         },
         {
-          "title": "NAVI defeated BetBoom and took third place at IEM Beijing 2026: The MongolZ and MOUZ will play in the final",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmh2ZllybXVPSkhtR3dBdW5ielNMdHFwV0dzbDhzOUE1YVk0aGlUVnlvSE9vSGVwUkYyWDVXazNkSXNaZWh1VmZ0WllvN1ZjWmtNWDdHTFhQQ1JOX1RCYVlhZVowRWYtcjNuaDM1UXluRE1FX0VuQm51U3RUNGg3N2lhU19FdFNBNjM5clJCNFZ6LURObWFvVWgxQTg2YVh5TlpjR3F4SnF5ejB2S2xYV21sRFVOX2hzN0JIa2ZXbFFDM1R0bmhHVTkxVGFENk5XU1owMFBLd0laVzQy0gHcAUFVX3lxTFBmaHZmWXJtdU9KSG1Hd0F1bmJ6U0x0cXBXR3NsOHM5QTVhWTRoaVRWeW9IT29IZXBSRjJYNVdrM2RJc1plaHVWZnRaWW83VmNaa01YN0dMWFBDUk5fVEJhWWFlWjBFZi1yM25oMzVReW5ETUVfRW5CbnVTdFQ0aDc3aWFTX0V0U0E2MzlyUkI0VnotRE5tYW9VaDFBODZhWHlOWmNHcXhKcXl6MHZLbFhXbWxEVU5faHM3QkhrZldsUUMzVHRuaEdVOTFUYUQ2TldTWjAwUEt3SVpXNDI?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-11-08T06:23:48.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
-            "mouz",
-            "iem"
-          ]
-        },
-        {
           "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -166,6 +153,17 @@
           "level": "possible",
           "why": [
             "allegations"
+          ]
+        },
+        {
+          "title": "EYEBALLERS bench dex",
+          "url": "https://www.hltv.org/news/45944/eyeballers-bench-dex",
+          "source": "HLTV news",
+          "published": "2026-11-08T12:00:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "bench"
           ]
         }
       ]
@@ -188,32 +186,6 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "NAVI secured a spot at M8, The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off, The MongolZ and MOUZ will play in the IEM Beijing 2026 final — News Digest for November 7",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNTJ2emRpMGJjMzNWdUZxaVhnY3RwN1Vkb0FEYTJEQzRNVnhlaUxrNHBRcGVEUFM3Mnk2TEFWeDY5R2ZmZGl5RTI4NTkzd2FtQ0xUMmo0T2F6RWdTdTg2b0xNNGdjbHhwa3dWeXFwTW9tZkQxaElBeXBJY0hQOW9kdC0wVEtRUnpkUDRBVGZYLVVQM1MwUzBCWnZodWlwQk1LQ3VpOTg1Y1RabmlVRzlQSk1ZR2RNSGh0VXRPY2ZxNVJIalRYOW1oVFM2UDZQNGpxTV9aTG9CSnc4V0JqNmlHWE5ETjR0UlpTc0lLcmE3eXZMQWtvb1MwcmNfQ3RnbV9wQmNGS2dQMTZmTDZmbW41ZU80UGhwNnZoODRnWl9yb3BOOUNMc1dtRHQ4aEpIWm5jVFFDQTd1dHQ1SVhP0gG8AkFVX3lxTE01MnZ6ZGkwYmMzM1Z1RnFpWGdjdHA3VWRvQURhMkRDNE1WeGVpTGs0cFFwZURQUzcyeTZMQVZ4NjlHZmZkaXlFMjg1OTN3YW1DTFQyajRPYXpFZ1N1ODZvTE00Z2NseHBrd1Z5cXBNb21mRDFoSUF5cEljSFA5b2R0LTBUS1FSemRQNEFUZlgtVVAzUzBTMEJadmh1aXBCTUtDdWk5ODVjVFpuaVVHOVBKTVlHZE1IaHRVdE9jZnE1UkhqVFg5bWhUUzZQNlA0anFNX1pMb0JKdzhXQmo2aUdYTkRONHRSWlNzSUtyYTd5dkxBa29vUzByY19DdGdtX3BCY0ZLZ1AxNmZMNmZtbjVlTzRQaHA2dmg4NGdaX3JvcE45Q0xzV21EdDhoSkhabmNUUUNBN3V0dDVJWE8?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-08T03:31:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-08T01:17:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -227,13 +199,46 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Introducing FallSpeed 2026, 2026's Biggest Fullspeed Event with a $1600 Prize Pool!",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xqzqb8/introducing_fallspeed_2026_2026s_biggest/",
+          "source": "r/TrackMania",
+          "published": "2026-11-08T14:31:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "prize pool"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-08T01:17:39.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
     "Melee",
     "AoE2",
     "Classic Tetris",
-    "Trackmania",
     "Warcraft III",
     "Street Fighter",
     "Legacy FGC",
