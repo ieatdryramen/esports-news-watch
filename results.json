@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:25:15.114Z",
+  "generatedAt": "2026-11-08T23:55:17.076Z",
   "source": "start.gg",
   "completed": [
     {
@@ -46,6 +46,53 @@
         {
           "placement": 7,
           "name": "Tempel | Vikage"
+        }
+      ]
+    },
+    {
+      "eventId": "1683222",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "SoCal Sweep 2",
+      "event": "Ladder",
+      "entrants": 68,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T18:00:00.000Z",
+      "endAt": "2026-11-08T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/socal-sweep-2/event/ladder",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ABG | Tonkatsu"
+        },
+        {
+          "placement": 2,
+          "name": "Melee Stats | s-f"
+        },
+        {
+          "placement": 3,
+          "name": "Xenda.gg | Babaganoush"
+        },
+        {
+          "placement": 4,
+          "name": "SDG | Khalid"
+        },
+        {
+          "placement": 5,
+          "name": "The Charles Guy"
+        },
+        {
+          "placement": 5,
+          "name": "GOATcheese"
+        },
+        {
+          "placement": 7,
+          "name": "bosco"
+        },
+        {
+          "placement": 7,
+          "name": "Kazer"
         }
       ]
     },
@@ -452,19 +499,6 @@
       "startAt": "2026-11-07T21:00:00.000Z",
       "endAt": "2026-11-08T04:00:00.000Z",
       "url": "https://www.start.gg/tournament/no-god-no-neutral-offline-edition-003/event/3rd-strike"
-    },
-    {
-      "eventId": "1683222",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "SoCal Sweep 2",
-      "event": "Ladder",
-      "entrants": 68,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T18:00:00.000Z",
-      "endAt": "2026-11-08T06:00:00.000Z",
-      "url": "https://www.start.gg/tournament/socal-sweep-2/event/ladder"
     }
   ],
   "upcoming": [
