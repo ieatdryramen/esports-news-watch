@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-08T18:00:24.620Z",
+  "generatedAt": "2026-11-08T18:55:40.188Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 16,
       "stories": [
-        {
-          "title": "9z bench meyern; add history as Major stand-in",
-          "url": "https://www.hltv.org/news/45940/9z-bench-meyern-add-history-as-major-stand-in",
-          "source": "HLTV news",
-          "published": "2026-11-07T18:31:00.000Z",
-          "score": 10,
-          "level": "breaking",
-          "why": [
-            "bench",
-            "stand-in",
-            "history",
-            "ending*"
-          ]
-        },
         {
           "title": "This is the first time in four years that the tournament’s MVP has been awarded to a captain prior to xertioN, it was awarded to Jame at the IEM Rio Major 2022",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqwo2s/this_is_the_first_time_in_four_years_that_the/",
@@ -50,44 +36,6 @@
           ]
         },
         {
-          "title": "MOUZ Defeats MongolZ to Win IEM Beijing 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdF96dWxVXzJFaWpKcmR2M0lsTkgwTjczbXVmMDl3UVVTWGVNcTdPN18yQ05YT0hTUGJsVllTMmczaWQ1M1JtX2IwYW91X2Jyc1FRVXFsMjRnUnZQb1FWNlJEeG5mNWxoMG9kTmkxUzhxWjBva2xPQWU0SjFDcGowUnRBUkhLcTgx?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-08T11:24:58.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
-            "iem"
-          ]
-        },
-        {
-          "title": "IEM Beijing 2026 - We need your feedback (Survey attached)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqvkc6/iem_beijing_2026_we_need_your_feedback_survey/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-08T10:38:40.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "won*",
-            "grand final*",
-            "mouz*",
-            "iem"
-          ]
-        },
-        {
-          "title": "Champions of IEM Beijing 2026!",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqvh7l/champions_of_iem_beijing_2026/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-08T10:33:03.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "champions",
-            "iem"
-          ]
-        },
-        {
           "title": "MOUZ dominate The MongolZ to complete flawless run to IEM Beijing trophy",
           "url": "https://www.hltv.org/news/45942/mouz-dominate-the-mongolz-to-complete-flawless-run-to-iem-beijing-trophy",
           "source": "HLTV news",
@@ -97,6 +45,19 @@
           "why": [
             "mouz",
             "iem"
+          ]
+        },
+        {
+          "title": "m0NESY cries during the interview",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xr5dr8/m0nesy_cries_during_the_interview/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T18:30:58.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "m0nesy",
+            "g2*",
+            "cologne major*"
           ]
         },
         {
@@ -154,6 +115,66 @@
           "why": [
             "cologne major"
           ]
+        },
+        {
+          "title": "This final was the fastest Tier 1 final in terms of the number of rounds played in the history of Bo5 finals",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqwj98/this_final_was_the_fastest_tier_1_final_in_terms/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T11:41:58.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "history"
+          ]
+        },
+        {
+          "title": "721K Peak Viewers for IEM Beijing 2026 (final isn't in the top 3 matches)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqweml/721k_peak_viewers_for_iem_beijing_2026_final_isnt/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T11:33:41.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "FL1T: \"This loss was very frustrating, but overall, I'm glad that we're growing as a team\"",
+          "url": "https://www.hltv.org/news/45931/fl1t-this-loss-was-very-frustrating-but-overall-im-glad-that-were-growing-as-a-team",
+          "source": "HLTV news",
+          "published": "2026-11-07T19:00:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "navi*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Gaimin Gladiators is rumored to sign the Astra Invicta Dota 2 roster",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xr5m36/gaimin_gladiators_is_rumored_to_sign_the_astra/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T18:40:39.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster",
+            "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "Where to practice a new hero?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xr1rb8/where_to_practice_a_new_hero/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T16:01:39.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -233,65 +254,6 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "TORONTOTOKYO Reflected on the Future of His Career in the Dota 2 Pro Scene",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemZiMmYxNzJraFdvV284bUpjQ2QzTlRmZmhTVDhkMFBFMXV4Z2FzVWRmWkd4Uzh3VGxBdzNmbkY1aFFXSnV0NlRZN3hFRnEwaVpVbTlhUVpzSlJGeWNPa1puMmEzN2MtRVNhSnM1bEdBZGhGc2dYSHp4UUdZc3M1Q1RxYw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-08T15:12:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "A Elemental Event maybe in big 27?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xr409g/a_elemental_event_maybe_in_big_27/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T17:34:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-08T16:09:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "Where to practice a new hero?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xr1rb8/where_to_practice_a_new_hero/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T16:01:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Classic StarCraft with Brood War expansion ported to Android — unofficial version supports local multiplayer",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYm1LRzc5ekJ0NlVxT0k1MzU4RFIxczkzMVNTNHhkTU5tRW9HUkZ5LWtKTk9HV01HSFpRV05DLTZlNjZOeGFrdllYM1lBZVA2aTRBUy1iam1RSDk4akltUDNQRDkzSU52RmtjZjJudTdqMDE0V1IySUNzLUpDYUZoTXVkYUNZbGg4S0dVS2dEYkZQME9hOS1SNTczOWVkandGVVNOTWFaZ2xuQXVJZC1SZC1Ga0F6T0RzMWFUc1VVd19OWndJb0xoMF9ZQmh3ZE5wMlV1NGp5RDQ4SGltY2JtMERsZ3pKVDd4eXpFVzJvd2NsazNlOTFmOFRKWEtkbknSAf8BQVVfeXFMTWJtS0c3OXpCdDZVcU9JNTM1OERSMXM5MzFTUzR4ZE1ObUVvR1JGeS1rSk5PR1dNR0haUVdOQy02ZTY2Tnhha3ZZWDNZQWVQNmk0QVMtYmptUUg5OGpJbVAzUEQ5M0lOdkZrY2YybnU3ajAxNFdSMklDcy1KQ2FGaE11ZGFDWWxoOEtHVUtnRGJGUDBPYTktUjU3MzllZGp3RlVTTk1hWmdsbkF1SWQtUmQtRmtBek9EczFhVHNVVXdfTlp3SW9MaDBfWUJod2ROcDJVdTRqeUQ0OEhpbWNibTBEbGd6SlQ3eHl6RVcyb3djbGszZTkxZjhUSlhLZG5J?oc=5",
-          "source": "Google News: Brood War (iXBT.games)",
-          "published": "2026-11-08T12:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
@@ -313,6 +275,7 @@
     "Melee",
     "AoE2",
     "Classic Tetris",
+    "Brood War",
     "Warcraft III",
     "Tekken",
     "Legacy FGC",

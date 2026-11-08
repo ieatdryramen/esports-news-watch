@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:25:15.931Z",
+  "generatedAt": "2026-11-08T18:55:25.813Z",
   "source": "start.gg",
   "completed": [
     {
@@ -422,25 +422,12 @@
   ],
   "upcoming": [
     {
-      "eventId": "1738271",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TEKKEN 8 - LOW TIER RUMBLE",
-      "event": "TEKKEN 8 - LOW TIER RUMBLE",
-      "entrants": 66,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-08T21:00:00.000Z",
-      "endAt": "2026-11-09T02:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tekken-8-low-tier-rumble/event/tekken-8-low-tier-rumble"
-    },
-    {
       "eventId": "1746968",
       "scene": "streetfighter",
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "GrugStrike 56",
       "event": "GrugStrike :3",
-      "entrants": 16,
+      "entrants": 17,
       "online": true,
       "major": false,
       "startAt": "2026-11-08T23:00:00.000Z",
