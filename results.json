@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:55:15.257Z",
+  "generatedAt": "2026-11-08T01:25:17.222Z",
   "source": "start.gg",
   "completed": [
     {
@@ -95,100 +95,6 @@
           "name": "BROKEBOYS/PPM | Combofiend"
         }
       ]
-    },
-    {
-      "eventId": "1744880",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #171",
-      "event": "Street Fighter 6",
-      "entrants": 148,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-05T01:00:00.000Z",
-      "endAt": "2026-11-05T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-171/event/street-fighter-6",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "KB | Star Platinum"
-        },
-        {
-          "placement": 2,
-          "name": "LeviHakai"
-        },
-        {
-          "placement": 3,
-          "name": "eFC | Molina"
-        },
-        {
-          "placement": 4,
-          "name": "STG | big mo dilly"
-        },
-        {
-          "placement": 5,
-          "name": "RobTV"
-        },
-        {
-          "placement": 5,
-          "name": "ECHT | Young_matt_teen"
-        },
-        {
-          "placement": 7,
-          "name": "ILLICIT | KUSANAGI"
-        },
-        {
-          "placement": 7,
-          "name": "SpaceBoy"
-        }
-      ]
-    },
-    {
-      "eventId": "1749435",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Run The Se.T! #130",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 23,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-05T01:00:00.000Z",
-      "endAt": "2026-11-05T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/run-the-se-t-130/event/street-fighter-iii-3rd-strike",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "3SO | Sunny"
-        },
-        {
-          "placement": 2,
-          "name": "4077 | SkipperNLW"
-        },
-        {
-          "placement": 3,
-          "name": "BL | | Dagger_G"
-        },
-        {
-          "placement": 4,
-          "name": "Wifikai | EnV"
-        },
-        {
-          "placement": 5,
-          "name": "Nero"
-        },
-        {
-          "placement": 5,
-          "name": "ABARI | Bash Mac"
-        },
-        {
-          "placement": 7,
-          "name": "Good Fighters | Stressedin"
-        },
-        {
-          "placement": 7,
-          "name": "Devilmaycats | MrPomegranX"
-        }
-      ]
     }
   ],
   "live": [
@@ -213,7 +119,7 @@
       "game": "Tekken 8",
       "tournament": "TEKKEN 8 - LOW TIER RUMBLE",
       "event": "TEKKEN 8 - LOW TIER RUMBLE",
-      "entrants": 66,
+      "entrants": 67,
       "online": true,
       "major": false,
       "startAt": "2026-11-08T21:00:00.000Z",
@@ -226,7 +132,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
       "event": "Melee Singles",
-      "entrants": 65,
+      "entrants": 66,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T00:00:00.000Z",
