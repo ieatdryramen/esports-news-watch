@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T11:00:26.503Z",
+  "generatedAt": "2026-11-08T12:00:27.776Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 24,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -80,6 +80,22 @@
           ]
         },
         {
+          "title": "This is the first time in four years that the tournament’s MVP has been awarded to a captain prior to xertioN, it was awarded to Jame at the IEM Rio Major 2022",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqwo2s/this_is_the_first_time_in_four_years_that_the/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T11:50:38.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "won*",
+            "history*",
+            "navi*",
+            "mouz*",
+            "astralis*"
+          ]
+        },
+        {
           "title": "IEM Beijing grand final as it happened",
           "url": "https://www.hltv.org/news/45941/iem-beijing-grand-final-as-it-happened",
           "source": "HLTV news",
@@ -89,6 +105,18 @@
           "why": [
             "grand final",
             "mouz*",
+            "iem"
+          ]
+        },
+        {
+          "title": "MOUZ Defeats MongolZ to Win IEM Beijing 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdF96dWxVXzJFaWpKcmR2M0lsTkgwTjczbXVmMDl3UVVTWGVNcTdPN18yQ05YT0hTUGJsVllTMmczaWQ1M1JtX2IwYW91X2Jyc1FRVXFsMjRnUnZQb1FWNlJEeG5mNWxoMG9kTmkxUzhxWjBva2xPQWU0SjFDcGowUnRBUkhLcTgx?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-08T11:24:58.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz",
             "iem"
           ]
         },
@@ -140,34 +168,12 @@
           "why": [
             "allegations"
           ]
-        },
-        {
-          "title": "NBK- joins Phantom as head coach",
-          "url": "https://www.hltv.org/news/45937/nbk-joins-phantom-as-head-coach",
-          "source": "HLTV news",
-          "published": "2026-11-07T14:25:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "joins"
-          ]
-        },
-        {
-          "title": "xertioN secures first MVP at IEM Beijing",
-          "url": "https://www.hltv.org/news/45943/xertion-secures-first-mvp-at-iem-beijing",
-          "source": "HLTV news",
-          "published": "2026-11-08T10:52:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Maphack / Vision Cheating ruining high-MMR (Divine+) matches: Suspicious de-warding behavior example",
@@ -182,49 +188,6 @@
           ]
         },
         {
-          "title": "Gaimin Gladiators Hints at a Return to Professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NFJIeURuaVZVQVBFT3JKSTZGMVRYUldIYXE3U1dRSU5mcUhVZmRXT0J0cnJiZDlOenctRUh4NlNvTXBpQjU4d3QwZXNXV1ItS2xva3pWMVQtYVplbzR5YmNncEk5S2hTaXhFMXc0TF9nMHBpdlQ2dGI0dXRaLUk?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-07T11:33:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
-        },
-        {
-          "title": "Is there no perma ban in dota?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqutof/is_there_no_perma_ban_in_dota/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T09:50:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        },
-        {
-          "title": "BKB wins games",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqnwau/bkb_wins_games/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T02:45:37.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off Today: LAN Final in Lviv Ahead",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLU5XUzRaRGNZbG8xUU9xeHFuaG1ydXVjVWFlYTV1UEJpNDY3ak5fRTVicWRLdlZ6ejJtbS1oMlZBM1NSTXp3V01wSF8wNDdvYWY1Slo1RkNrUDZYVDN0VG50bDdrcHo2NEtJX2EtZW9xc1FNVmoyWFkwTjdZeTNIMFdQLWJnQS1OZ0ZkWUxDU2ZoSGlNUW9MdVp5N0ZmdC00RWU1dVVHSktoZ3Q5THo1MXdMSFdqR0taNFgtcEZURXhkaVRJ0gHMAUFVX3lxTE9TZEhFSDVyRTlDdnkxdUswQXRFUzA5M0psMFRWZS1tbTVIdFFrZWZrSnFiV1BBc1l3NzVKczk1YXVVZGIxVEUzVUZDZDdLdmY2UkZyQV9hSGk4eUNMU3NtdDl5RnpnZEV3ZkZsZzdCQXNPa3plSFVLUGt3R0Q2OEVSemZZOFlKZkZlZGEtdXBEdGtsb1lfSHFWaXM4WFFYUjNoR1A1WFN0XzRhNjBFMnhTY0Nncm0zMGRzVWQteTQ1X0VUOFZLbFdYdEIwRQ?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-07T11:18:15.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -233,37 +196,6 @@
           "level": null,
           "why": [
             "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Scrap and Alluka let’s discuss FaZe fans",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqnlo5/scrap_and_alluka_lets_discuss_faze_fans/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T02:29:34.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "faze",
-            "simp*",
-            "hydra*"
-          ]
-        },
-        {
-          "title": "Pred Has Added C9CoD_ to His X Bio",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqnmt4/pred_has_added_c9cod_to_his_x_bio/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T02:31:12.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pred"
           ]
         }
       ]
@@ -328,6 +260,7 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
