@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-08T02:30:20.264Z",
+      "level": "possible",
+      "scene": "CoD",
+      "title": "Scrap and Alluka let’s discuss FaZe fans",
+      "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqnlo5/scrap_and_alluka_lets_discuss_faze_fans/",
+      "source": "r/CoDCompetitive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "roster*",
+        "faze",
+        "simp*",
+        "hydra*"
+      ],
+      "summary": "Scrap treating Alluka like shit but when Simp stuck it on Scrap he said NOTHING. Don’t get me wrong Alluka has had a poor weekend but Scrap has been a terrible teammate towards Alluka which is disgusting. This is a FOOD chain roster Simp Hydra Scrap Alluka not a single one of them have been consoling Alluka putting their arm around him but every time Alluka was last alive in snd they are all screaming (mainly scrap) at him in the comms which is proper checky and if I’m Crowder or RJ they’ve got to speak to Scrap about being a shit teammate and sorting the bs out with Alluka. Lastly only positive this weekend is Hydra being insane hopefully he keeps it up 👍 submitted by /u/Ok_Nerve_9128 to r/CoDCompetitive [link] [comments]",
+      "published": "2026-11-08T02:29:34.000Z"
+    },
+    {
       "alertedAt": "2026-11-07T18:35:15.820Z",
       "level": "possible",
       "scene": "CS2",
