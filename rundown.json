@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T10:00:26.461Z",
+  "generatedAt": "2026-11-08T11:00:26.503Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 20,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -21,10 +21,10 @@
           ]
         },
         {
-          "title": "The MongolZ vs MOUZ / IEM Beijing 2026 - Grand Final / Live Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqsnsc/the_mongolz_vs_mouz_iem_beijing_2026_grand_final/",
+          "title": "The MongolZ vs MOUZ / IEM Beijing 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqv4u3/the_mongolz_vs_mouz_iem_beijing_2026_grand_final/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-08T07:25:22.000Z",
+          "published": "2026-11-08T10:10:29.000Z",
           "score": 9.5,
           "level": "possible",
           "why": [
@@ -80,15 +80,53 @@
           ]
         },
         {
-          "title": "Live updates from IEM Beijing grand final",
-          "url": "https://www.hltv.org/news/45941/live-updates-from-iem-beijing-grand-final",
+          "title": "IEM Beijing grand final as it happened",
+          "url": "https://www.hltv.org/news/45941/iem-beijing-grand-final-as-it-happened",
           "source": "HLTV news",
-          "published": "2026-11-08T06:44:00.000Z",
+          "published": "2026-11-08T10:56:00.000Z",
           "score": 6,
           "level": "possible",
           "why": [
             "grand final",
             "mouz*",
+            "iem"
+          ]
+        },
+        {
+          "title": "IEM Beijing 2026 - We need your feedback (Survey attached)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqvkc6/iem_beijing_2026_we_need_your_feedback_survey/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T10:38:40.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "won*",
+            "grand final*",
+            "mouz*",
+            "iem"
+          ]
+        },
+        {
+          "title": "Champions of IEM Beijing 2026!",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqvh7l/champions_of_iem_beijing_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T10:33:03.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "champions",
+            "iem"
+          ]
+        },
+        {
+          "title": "MOUZ dominate The MongolZ to complete flawless run to IEM Beijing trophy",
+          "url": "https://www.hltv.org/news/45942/mouz-dominate-the-mongolz-to-complete-flawless-run-to-iem-beijing-trophy",
+          "source": "HLTV news",
+          "published": "2026-11-08T10:19:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz",
             "iem"
           ]
         },
@@ -115,47 +153,14 @@
           ]
         },
         {
-          "title": "NAVI claim third place in Beijing over BETBOOM",
-          "url": "https://www.hltv.org/news/45908/navi-claim-third-place-in-beijing-over-betboom",
+          "title": "xertioN secures first MVP at IEM Beijing",
+          "url": "https://www.hltv.org/news/45943/xertion-secures-first-mvp-at-iem-beijing",
           "source": "HLTV news",
-          "published": "2026-11-08T05:58:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "navi"
-          ]
-        },
-        {
-          "title": "Camp Nou helped Argentina move closer to hosting a CS2 Major",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3pzYlFYM2lCel80bG1hZnZrQ0E5V1NiX3lFOExtV21kbldUYUV4ZHBHWGVoakd0LXZ3WE9MdFIxaTRqbjh2alp0bWJRclpoVGFzZ0pranc1ODVvUnBnVmVRMTc0b0E3Qjg3aFlCSGNaeVVSenNjeXpUdmJKYTdGWGRCY3FCa3JnMi1nU3JVTVhRMzdVVmZHcWUwbnc?oc=5",
-          "source": "Google News: CS2 (Skin.Club)",
-          "published": "2026-11-07T20:27:48.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cs2 major"
-          ]
-        },
-        {
-          "title": "IEM Beijing semi-finals as they happened",
-          "url": "https://www.hltv.org/news/45932/iem-beijing-semi-finals-as-they-happened",
-          "source": "HLTV news",
-          "published": "2026-11-07T12:05:00.000Z",
+          "published": "2026-11-08T10:52:00.000Z",
           "score": 3,
           "level": null,
           "why": [
             "iem"
-          ]
-        },
-        {
-          "title": "MOUZ ease past BETBOOM into Beijing final",
-          "url": "https://www.hltv.org/news/45936/mouz-ease-past-betboom-into-beijing-final",
-          "source": "HLTV news",
-          "published": "2026-11-07T11:42:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "mouz"
           ]
         }
       ]
@@ -234,7 +239,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 9,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Scrap and Alluka let’s discuss FaZe fans",
@@ -260,81 +265,6 @@
           "why": [
             "pred"
           ]
-        },
-        {
-          "title": "Aroma calls Zoomaa after C9 eliminates Faze",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqmads/aroma_calls_zoomaa_after_c9_eliminates_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T01:21:05.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Alluka on Faze",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqma4x/alluka_on_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T01:20:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "FaZe Vegas Monster invitational player stats",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqm9kv/faze_vegas_monster_invitational_player_stats/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T01:19:58.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Post Match Thread: FaZe Vegas vs. C9 New York | Monster Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqm946/post_match_thread_faze_vegas_vs_c9_new_york/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T01:19:17.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Lurqxx goes on a 12 streak in game 5 vs Faze",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqm7fk/lurqxx_goes_on_a_12_streak_in_game_5_vs_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T01:16:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Lurqxx aces vs Faze",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqm3zs/lurqxx_aces_vs_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T01:12:10.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Bracket heading into Sunday",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqmbi1/bracket_heading_into_sunday/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T01:22:38.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
