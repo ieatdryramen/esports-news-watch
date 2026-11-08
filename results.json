@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T03:25:15.143Z",
+  "generatedAt": "2026-11-08T03:55:17.336Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,6 +93,53 @@
         {
           "placement": 7,
           "name": "BCe | Moosh_Da_Moosh"
+        }
+      ]
+    },
+    {
+      "eventId": "1737320",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Jazzy Chillán 2026",
+      "event": "Jazzy Chillan 2026 Street Fighter III Third Strike",
+      "entrants": 59,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T17:00:00.000Z",
+      "endAt": "2026-11-07T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/jazzy-chill-n-2026/event/jazzy-chillan-2026-street-fighter-iii-third-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "MCH | Kaisark"
+        },
+        {
+          "placement": 2,
+          "name": "NM | amina"
+        },
+        {
+          "placement": 3,
+          "name": "dyzgg"
+        },
+        {
+          "placement": 4,
+          "name": "[SEBA]"
+        },
+        {
+          "placement": 5,
+          "name": "Nkhaos | Cald3ron"
+        },
+        {
+          "placement": 5,
+          "name": "NM | redda"
+        },
+        {
+          "placement": 7,
+          "name": "NO MERCY | LordMasterSex"
+        },
+        {
+          "placement": 7,
+          "name": "NM | Shinken"
         }
       ]
     },
@@ -191,21 +238,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1737320",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Jazzy Chillán 2026",
-      "event": "Jazzy Chillan 2026 Street Fighter III Third Strike",
-      "entrants": 59,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T17:00:00.000Z",
-      "endAt": "2026-11-07T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/jazzy-chill-n-2026/event/jazzy-chillan-2026-street-fighter-iii-third-strike"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1738271",
