@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T12:00:27.776Z",
+  "generatedAt": "2026-11-08T13:00:27.838Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 26,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -96,6 +96,18 @@
           ]
         },
         {
+          "title": "cheaters now can prevent themselves to be kicked?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqwwmp/cheaters_now_can_prevent_themselves_to_be_kicked/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T12:04:10.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "cheater*",
+            "kicked"
+          ]
+        },
+        {
           "title": "IEM Beijing grand final as it happened",
           "url": "https://www.hltv.org/news/45941/iem-beijing-grand-final-as-it-happened",
           "source": "HLTV news",
@@ -157,64 +169,6 @@
             "mouz",
             "iem"
           ]
-        },
-        {
-          "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-07T15:04:46.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "allegations"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Maphack / Vision Cheating ruining high-MMR (Divine+) matches: Suspicious de-warding behavior example",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqovvk/maphack_vision_cheating_ruining_highmmr_divine/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T03:39:28.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "ban*",
-            "cheating"
-          ]
-        },
-        {
-          "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-08T01:17:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Why do Lithuanians not get the last Infantry armor?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xqou4z/why_do_lithuanians_not_get_the_last_infantry_armor/",
-          "source": "r/aoe2",
-          "published": "2026-11-08T03:36:49.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "the last",
-            "champion*"
-          ]
         }
       ]
     },
@@ -251,12 +205,44 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Classic StarCraft with Brood War expansion ported to Android — unofficial version supports local multiplayer",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTFlkZ0JDYjJiYmp4S0YzUHNVN1NfbzBxdnpnX1F4aGtZMmRzdzlJWmp2dXRNQVFHd2lOaW5WNHl5YU1oLXRtYVE0TUdwemQweV9lM01sUDFscUtOOUgzQzdzbHdiblJReG1CcnBNckd0bDQ0WWh6V0VfOWpIaURhZkdWYUhybU5kUS1BeWFERDJQQWlhbVdEaWhCX3kxSzRQd1UtTlphM0xhM18xaWpZOEJOYXU1RXItdnd3Q2hDWnZBUmpsOTNzVGVoLW1ldFlvdUJyb0NxYVN3YVJxVWxSbFl0ZDFna3pKQkJjWWpqUDJTaWNCdzk0X2130gH_AUFVX3lxTE1ibUtHNzl6QnQ2VXFPSTUzNThEUjFzOTMxU1M0eGRNTm1Fb0dSRnkta0pOT0dXTUdIWlFXTkMtNmU2Nk54YWt2WVgzWUFlUDZpNEFTLWJqbVFIOThqSW1QM1BEOTNJTnZGa2NmMm51N2owMTRXUjJJQ3MtSkNhRmhNdWRhQ1lsaDhLR1VLZ0RiRlAwT2E5LVI1NzM5ZWRqd0ZVU05NYVpnbG5BdUlkLVJkLUZrQXpPRHMxYVRzVVV3X05ad0lvTGgwX1lCaHdkTnAyVXU0anlENDhIaW1jYm0wRGxnekpUN3h5ekVXMm93Y2xrM2U5MWY4VEpYS2RuSQ?oc=5",
+          "source": "Google News: Brood War (iXBT.games)",
+          "published": "2026-11-08T12:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-08T01:17:39.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
     "Melee",
+    "AoE2",
     "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
