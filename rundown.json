@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:00:24.165Z",
+  "generatedAt": "2026-11-08T07:00:26.147Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -64,6 +64,19 @@
           ]
         },
         {
+          "title": "Live updates from IEM Beijing grand final",
+          "url": "https://www.hltv.org/news/45941/live-updates-from-iem-beijing-grand-final",
+          "source": "HLTV news",
+          "published": "2026-11-08T06:44:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "grand final",
+            "mouz*",
+            "iem"
+          ]
+        },
+        {
           "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -75,18 +88,6 @@
           ]
         },
         {
-          "title": "The MongolZ beat NAVI to secure first Big Event grand final appearance in 14 months",
-          "url": "https://www.hltv.org/news/45933/the-mongolz-beat-navi-to-secure-first-big-event-grand-final-appearance-in-14-months",
-          "source": "HLTV news",
-          "published": "2026-11-07T09:03:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "navi"
-          ]
-        },
-        {
           "title": "NBK- joins Phantom as head coach",
           "url": "https://www.hltv.org/news/45937/nbk-joins-phantom-as-head-coach",
           "source": "HLTV news",
@@ -95,6 +96,17 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "NAVI claim third place in Beijing over BETBOOM",
+          "url": "https://www.hltv.org/news/45908/navi-claim-third-place-in-beijing-over-betboom",
+          "source": "HLTV news",
+          "published": "2026-11-08T05:58:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "navi"
           ]
         },
         {
@@ -140,15 +152,6 @@
           "why": [
             "navi*"
           ]
-        },
-        {
-          "title": "xelex: \"I'm not performing at the highest level [on stage], that's one thing I'm trying to work on\"",
-          "url": "https://www.hltv.org/news/45938/xelex-im-not-performing-at-the-highest-level-on-stage-thats-one-thing-im-trying-to-work-on",
-          "source": "HLTV news",
-          "published": "2026-11-07T20:15:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
