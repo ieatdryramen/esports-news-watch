@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T02:00:22.500Z",
+  "generatedAt": "2026-11-08T03:00:22.616Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -48,17 +48,6 @@
           ]
         },
         {
-          "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-07T15:04:46.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "allegations"
-          ]
-        },
-        {
           "title": "The MongolZ beat NAVI to secure first Big Event grand final appearance in 14 months",
           "url": "https://www.hltv.org/news/45933/the-mongolz-beat-navi-to-secure-first-big-event-grand-final-appearance-in-14-months",
           "source": "HLTV news",
@@ -91,6 +80,17 @@
           "why": [
             "history",
             "furia*"
+          ]
+        },
+        {
+          "title": "Camp Nou helped Argentina move closer to hosting a CS2 Major",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3pzYlFYM2lCel80bG1hZnZrQ0E5V1NiX3lFOExtV21kbldUYUV4ZHBHWGVoakd0LXZ3WE9MdFIxaTRqbjh2alp0bWJRclpoVGFzZ0pranc1ODVvUnBnVmVRMTc0b0E3Qjg3aFlCSGNaeVVSenNjeXpUdmJKYTdGWGRCY3FCa3JnMi1nU3JVTVhRMzdVVmZHcWUwbnc?oc=5",
+          "source": "Google News: CS2 (Skin.Club)",
+          "published": "2026-11-07T20:27:48.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "cs2 major"
           ]
         },
         {
@@ -127,17 +127,6 @@
           ]
         },
         {
-          "title": "NAVI Inferno Utility for Aggro CT Banana Control",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqhfhm/navi_inferno_utility_for_aggro_ct_banana_control/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-07T21:28:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "navi"
-          ]
-        },
-        {
           "title": "FL1T: \"This loss was very frustrating, but overall, I'm glad that we're growing as a team\"",
           "url": "https://www.hltv.org/news/45931/fl1t-this-loss-was-very-frustrating-but-overall-im-glad-that-were-growing-as-a-team",
           "source": "HLTV news",
@@ -147,6 +136,15 @@
           "why": [
             "navi*"
           ]
+        },
+        {
+          "title": "xelex: \"I'm not performing at the highest level [on stage], that's one thing I'm trying to work on\"",
+          "url": "https://www.hltv.org/news/45938/xelex-im-not-performing-at-the-highest-level-on-stage-thats-one-thing-im-trying-to-work-on",
+          "source": "HLTV news",
+          "published": "2026-11-07T20:15:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -154,6 +152,20 @@
       "scene": "CoD",
       "storyCount": 13,
       "stories": [
+        {
+          "title": "Scrap and Alluka let’s discuss FaZe fans",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqnlo5/scrap_and_alluka_lets_discuss_faze_fans/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T02:29:34.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "faze",
+            "simp*",
+            "hydra*"
+          ]
+        },
         {
           "title": "Post Match Thread: Optic Texas vs. Miami Heretics | Monster Invitational | @GGBreakingPoint",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqkwlm/post_match_thread_optic_texas_vs_miami_heretics/",
@@ -176,6 +188,17 @@
           "why": [
             "faze",
             "hydra"
+          ]
+        },
+        {
+          "title": "Pred Has Added C9CoD_ to His X Bio",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqnmt4/pred_has_added_c9cod_to_his_x_bio/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T02:31:12.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pred"
           ]
         },
         {
@@ -265,28 +288,6 @@
           "why": [
             "hydra"
           ]
-        },
-        {
-          "title": "Drazah going from CEO to Faze Killer..",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqhiyq/drazah_going_from_ceo_to_faze_killer/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T21:32:42.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Drazah not getting the salary he asked for on FaZe",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqhfu3/drazah_not_getting_the_salary_he_asked_for_on_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T21:28:56.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
         }
       ]
     },
@@ -318,6 +319,17 @@
           ]
         },
         {
+          "title": "BKB wins games",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xqnwau/bkb_wins_games/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T02:45:37.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
           "title": "Official Statement",
           "url": "https://www.reddit.com/r/DotA2/comments/1xqlqpx/official_statement/",
           "source": "r/DotA2",
@@ -338,17 +350,6 @@
           "level": null,
           "why": [
             "wins"
-          ]
-        },
-        {
-          "title": "Team Liquid Co-Founder Defends New Valorant Partnership Model and Evaluates the State of Esports in 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1d4dnRMNmU1UWZESzBPaENTZmFEMnN3MExVM1ZDVHc1Zmk3VnFjbVphSWxoaVpQOF93ZDczZTJLVWRfR1g4WFBqTWJGWTY1WFV4M3AzSzN5UWQxQXg2ZGN5dTY1emdwUHlrZGNuOW0xVGNRVmRCOFZHb25yZUt6c1NlUWlyR0dkRWhrWnJDZ0ZFeVVET1lwTGo5cXhRY1FwSlNubFlBRjlIMmp0V0NNRlMxZkJaQjBzZmo4cEstLWZyTWJ3aXF5U2E3ckdiWjJReVHSAdoBQVVfeXFMT0lmSDdGeHVDNnkwenVBVDlJenVndEYwR3ZETmYwT3Y1d3BkYzllcFQwQXU2SFJaamNYRm9oanRwMVRoRDRiYkE2UWV0U0M5dXc2WkNvRXVoLUtwaFhMLUkyOXpiVHlQVFhUUmZWek1FNVUzNXl0ZDZUUmxWRkJid0g3Z2o0Ri04ZV9IVEs5OU9ZSG9Mam96TThfNGJDYXg2NDRGRndhWk9CVlRsSmZ5anAyV1FvMDJWUTFqdDRjZVFSVmJoVTIyRGxneW1IaU5LaHc2Nk9lWE9aRVE?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-07T16:22:06.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
           ]
         },
         {
