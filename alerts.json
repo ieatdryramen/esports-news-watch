@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-08T03:40:18.875Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Maphack / Vision Cheating ruining high-MMR (Divine+) matches: Suspicious de-warding behavior example",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xqovvk/maphack_vision_cheating_ruining_highmmr_divine/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "ban*",
+        "cheating"
+      ],
+      "summary": "Match ID 9080904289 Here is a clip of a suspicious Lion in my recent match. Context: For the preceding 1:30 of the clip, you can clearly see the Lion's exact perspective and what information is available to him. He has zero prior vision or logical information regarding the placement of our wards. The Incident: Despite having no information or vision, he abruptly moves directly to and eliminates the only two wards we had active on the entire map. Feedback: Situations like this make Divine-level games virtually unplayable when players are able to effortlessly bypass the fog of war and de-ward everything using external software. A dedicated ban wave or improved detection for maphacking/vision exploits is desperately needed to keep competitive matchmaking fair and playable. When you have a map hacker on the other side, what do you do with wards? They are useless for vision. Are they only good for bait? AND YES I AM THE SNIPER 5 main since 2007. https://youtu.be/o_9OhGkfFvY https://youtu.be/p_yj9I_PmEA https://youtu.be/cHO3YRhil3g submitted by /u/CloudyHi to r/DotA2 [link] [comments]",
+      "published": "2026-11-08T03:39:28.000Z"
+    },
+    {
       "alertedAt": "2026-11-08T02:30:20.264Z",
       "level": "possible",
       "scene": "CoD",
