@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T03:00:22.616Z",
+  "generatedAt": "2026-11-08T04:00:26.830Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -45,6 +45,17 @@
             "retirement",
             "return*",
             "announces"
+          ]
+        },
+        {
+          "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-07T15:04:46.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "allegations"
           ]
         },
         {
@@ -116,17 +127,6 @@
           ]
         },
         {
-          "title": "ESL needs to take a page from Blast on halftime music",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqhw7t/esl_needs_to_take_a_page_from_blast_on_halftime/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-07T21:49:55.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
           "title": "FL1T: \"This loss was very frustrating, but overall, I'm glad that we're growing as a team\"",
           "url": "https://www.hltv.org/news/45931/fl1t-this-loss-was-very-frustrating-but-overall-im-glad-that-were-growing-as-a-team",
           "source": "HLTV news",
@@ -149,8 +149,112 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 9,
+      "stories": [
+        {
+          "title": "Maphack / Vision Cheating ruining high-MMR (Divine+) matches: Suspicious de-warding behavior example",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xqovvk/maphack_vision_cheating_ruining_highmmr_divine/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T03:39:28.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "ban*",
+            "cheating"
+          ]
+        },
+        {
+          "title": "Gaimin Gladiators Hints at a Return to Professional Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NFJIeURuaVZVQVBFT3JKSTZGMVRYUldIYXE3U1dRSU5mcUhVZmRXT0J0cnJiZDlOenctRUh4NlNvTXBpQjU4d3QwZXNXV1ItS2xva3pWMVQtYVplbzR5YmNncEk5S2hTaXhFMXc0TF9nMHBpdlQ2dGI0dXRaLUk?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-07T11:33:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "BKB wins games",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xqnwau/bkb_wins_games/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T02:45:37.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Official Statement",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xqlqpx/official_statement/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T00:53:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "statement",
+            "official"
+          ]
+        },
+        {
+          "title": "Does anyone feel like (at least in divine bracket) that whoever gets better midlaner wins?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xql0yf/does_anyone_feel_like_at_least_in_divine_bracket/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T00:17:21.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Collapse reveals when he plans to come back to Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2FNbVE4bm44QU0xSm1lRkFLc3czN2JRRGJ3ZGloRzZ6Z2p6U2hEbXNzd3BSR2xBcm0yLTBxYjdibF9zSElReWdlUkRaQnF6NUZKVDdfNjRuY2xPVjJpMnYwQXhIMlpQcmxBWWVjelh2b1JIeDZ3dHpmb005Q1RkeHZSZ3FTRGR4TmQyaENfelRiT2VkLURsbmVoZ3Z6dw?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-07T09:05:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "collapse"
+          ]
+        },
+        {
+          "title": "Collapse Reveals When He Will Resume His Career on the Dota 2 Pro Scene",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGNyRTNNYlpqYldlTV92N25SZWhqZVB2blc0WHNiOTB6MXNid0hrQXlPZEZSUTZqaTZibXd4dWJZZGhlM1lvREIzdEo4dWJGdlJaZmtYM0JzZExNVDF4RWFROGw3SzNfYmlhdEdsQ3ZxWXExX3N0dmxVVkhTQ0hZem9B?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-07T07:41:48.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "collapse"
+          ]
+        },
+        {
+          "title": "The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off Today: LAN Final in Lviv Ahead",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLU5XUzRaRGNZbG8xUU9xeHFuaG1ydXVjVWFlYTV1UEJpNDY3ak5fRTVicWRLdlZ6ejJtbS1oMlZBM1NSTXp3V01wSF8wNDdvYWY1Slo1RkNrUDZYVDN0VG50bDdrcHo2NEtJX2EtZW9xc1FNVmoyWFkwTjdZeTNIMFdQLWJnQS1OZ0ZkWUxDU2ZoSGlNUW9MdVp5N0ZmdC00RWU1dVVHSktoZ3Q5THo1MXdMSFdqR0taNFgtcEZURXhkaVRJ0gHMAUFVX3lxTE9TZEhFSDVyRTlDdnkxdUswQXRFUzA5M0psMFRWZS1tbTVIdFFrZWZrSnFiV1BBc1l3NzVKczk1YXVVZGIxVEUzVUZDZDdLdmY2UkZyQV9hSGk4eUNMU3NtdDl5RnpnZEV3ZkZsZzdCQXNPa3plSFVLUGt3R0Q2OEVSemZZOFlKZkZlZGEtdXBEdGtsb1lfSHFWaXM4WFFYUjNoR1A1WFN0XzRhNjBFMnhTY0Nncm0zMGRzVWQteTQ1X0VUOFZLbFdYdEIwRQ?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-07T11:18:15.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Matchmaking down? PATCH?!?!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xqihsu/matchmaking_down_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-07T22:17:10.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CoD",
-      "storyCount": 13,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Scrap and Alluka let’s discuss FaZe fans",
@@ -176,18 +280,6 @@
           "why": [
             "optic texas",
             "miami heretics"
-          ]
-        },
-        {
-          "title": "Scrap & HyDra After Successfully Finessing $350k Each From FaZe Clan",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqi20y/scrap_hydra_after_successfully_finessing_350k/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T21:57:34.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "faze",
-            "hydra"
           ]
         },
         {
@@ -288,95 +380,12 @@
           "why": [
             "hydra"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 8,
-      "stories": [
-        {
-          "title": "Gaimin Gladiators Hints at a Return to Professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NFJIeURuaVZVQVBFT3JKSTZGMVRYUldIYXE3U1dRSU5mcUhVZmRXT0J0cnJiZDlOenctRUh4NlNvTXBpQjU4d3QwZXNXV1ItS2xva3pWMVQtYVplbzR5YmNncEk5S2hTaXhFMXc0TF9nMHBpdlQ2dGI0dXRaLUk?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-07T11:33:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
         },
         {
-          "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-07T03:31:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        },
-        {
-          "title": "BKB wins games",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqnwau/bkb_wins_games/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T02:45:37.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Official Statement",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqlqpx/official_statement/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T00:53:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "statement",
-            "official"
-          ]
-        },
-        {
-          "title": "Does anyone feel like (at least in divine bracket) that whoever gets better midlaner wins?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xql0yf/does_anyone_feel_like_at_least_in_divine_bracket/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T00:17:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Collapse reveals when he plans to come back to Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2FNbVE4bm44QU0xSm1lRkFLc3czN2JRRGJ3ZGloRzZ6Z2p6U2hEbXNzd3BSR2xBcm0yLTBxYjdibF9zSElReWdlUkRaQnF6NUZKVDdfNjRuY2xPVjJpMnYwQXhIMlpQcmxBWWVjelh2b1JIeDZ3dHpmb005Q1RkeHZSZ3FTRGR4TmQyaENfelRiT2VkLURsbmVoZ3Z6dw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-07T09:05:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "collapse"
-          ]
-        },
-        {
-          "title": "The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off Today: LAN Final in Lviv Ahead",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLU5XUzRaRGNZbG8xUU9xeHFuaG1ydXVjVWFlYTV1UEJpNDY3ak5fRTVicWRLdlZ6ejJtbS1oMlZBM1NSTXp3V01wSF8wNDdvYWY1Slo1RkNrUDZYVDN0VG50bDdrcHo2NEtJX2EtZW9xc1FNVmoyWFkwTjdZeTNIMFdQLWJnQS1OZ0ZkWUxDU2ZoSGlNUW9MdVp5N0ZmdC00RWU1dVVHSktoZ3Q5THo1MXdMSFdqR0taNFgtcEZURXhkaVRJ0gHMAUFVX3lxTE9TZEhFSDVyRTlDdnkxdUswQXRFUzA5M0psMFRWZS1tbTVIdFFrZWZrSnFiV1BBc1l3NzVKczk1YXVVZGIxVEUzVUZDZDdLdmY2UkZyQV9hSGk4eUNMU3NtdDl5RnpnZEV3ZkZsZzdCQXNPa3plSFVLUGt3R0Q2OEVSemZZOFlKZkZlZGEtdXBEdGtsb1lfSHFWaXM4WFFYUjNoR1A1WFN0XzRhNjBFMnhTY0Nncm0zMGRzVWQteTQ1X0VUOFZLbFdYdEIwRQ?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-07T11:18:15.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Matchmaking down? PATCH?!?!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqihsu/matchmaking_down_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T22:17:10.000Z",
+          "title": "Bracket heading into Sunday",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqmbi1/bracket_heading_into_sunday/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T01:22:38.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -396,6 +405,24 @@
           "level": null,
           "why": [
             "fraud"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Why do Lithuanians not get the last Infantry armor?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xqou4z/why_do_lithuanians_not_get_the_last_infantry_armor/",
+          "source": "r/aoe2",
+          "published": "2026-11-08T03:36:49.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "the last",
+            "champion*"
           ]
         }
       ]
@@ -451,7 +478,6 @@
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
