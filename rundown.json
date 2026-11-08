@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T17:00:23.705Z",
+  "generatedAt": "2026-11-08T18:00:24.620Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 19,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -18,22 +18,6 @@
             "stand-in",
             "history",
             "ending*"
-          ]
-        },
-        {
-          "title": "The MongolZ vs MOUZ / IEM Beijing 2026 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqv4u3/the_mongolz_vs_mouz_iem_beijing_2026_grand_final/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-08T10:10:29.000Z",
-          "score": 9.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "grand final",
-            "official*",
-            "mouz",
-            "iem"
           ]
         },
         {
@@ -159,12 +143,23 @@
           "why": [
             "navi"
           ]
+        },
+        {
+          "title": "ENDGAME - Field of View Ep. 7 Cologne Major 2026 by ESL",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xr2jgr/endgame_field_of_view_ep_7_cologne_major_2026_by/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T16:34:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "cologne major"
+          ]
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "The least expected comeback ever",
@@ -178,6 +173,15 @@
           ]
         },
         {
+          "title": "[Partially Lost] Street Fighter II V – a few seconds after the credits of the final episode on an Asian VHS release",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr36zb/partially_lost_street_fighter_ii_v_a_few_seconds/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-08T17:01:17.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "PSA: The SFL Americas finals are tonight (4pm PST/12am GMT)",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xr2ol2/psa_the_sfl_americas_finals_are_tonight_4pm/",
           "source": "r/StreetFighter",
@@ -189,8 +193,48 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 3 | Official Discussion Thread",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr37nk/call_of_duty_league_2027_monster_energy_launch/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T17:01:59.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "official",
+            "optic texas*",
+            "faze*",
+            "miami heretics*",
+            "cloud9*",
+            "-discussion thread"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Halo stats and results",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xr3lhj/halo_stats_and_results/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-08T17:17:47.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "the last*",
+            "history*"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "TORONTOTOKYO Reflected on the Future of His Career in the Dota 2 Pro Scene",
@@ -198,6 +242,15 @@
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-11-08T15:12:00.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "A Elemental Event maybe in big 27?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xr409g/a_elemental_event_maybe_in_big_27/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T17:34:39.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -263,8 +316,6 @@
     "Warcraft III",
     "Tekken",
     "Legacy FGC",
-    "CoD",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
