@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-08T06:45:18.126Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Live updates from IEM Beijing grand final",
+      "url": "https://www.hltv.org/news/45941/live-updates-from-iem-beijing-grand-final",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 6,
+      "why": [
+        "grand final",
+        "mouz*",
+        "iem"
+      ],
+      "summary": "Keep up with the action as The MongolZ take on MOUZ for the title in a best-of-five series.",
+      "published": "2026-11-08T06:44:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-08T05:55:22.497Z",
       "level": "possible",
       "scene": "CS2",
