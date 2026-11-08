@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-08T03:55:17.336Z",
+  "generatedAt": "2026-11-08T04:25:18.273Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1687062",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Frame 19",
+      "event": "Melee Singles",
+      "entrants": 118,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T16:00:00.000Z",
+      "endAt": "2026-11-08T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/frame-19/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "NSE | Maher"
+        },
+        {
+          "placement": 2,
+          "name": "mister pingas"
+        },
+        {
+          "placement": 3,
+          "name": "JoyStick | OG Kid"
+        },
+        {
+          "placement": 4,
+          "name": "BING"
+        },
+        {
+          "placement": 5,
+          "name": "nojonsmods | kdog"
+        },
+        {
+          "placement": 5,
+          "name": "mPreggles | Asuka"
+        },
+        {
+          "placement": 7,
+          "name": "VDL | Just"
+        },
+        {
+          "placement": 7,
+          "name": "Nen"
+        }
+      ]
+    },
     {
       "eventId": "1660228",
       "scene": "melee",
@@ -238,7 +285,34 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1691983",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "No God No Neutral Offline Edition #003",
+      "event": "3rd Strike",
+      "entrants": 34,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T21:00:00.000Z",
+      "endAt": "2026-11-08T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/no-god-no-neutral-offline-edition-003/event/3rd-strike"
+    },
+    {
+      "eventId": "1729356",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Asscadian 8",
+      "event": "Melee Singles",
+      "entrants": 64,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T23:00:00.000Z",
+      "endAt": "2026-11-08T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-asscadian-8/event/melee-singles"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1738271",
@@ -252,6 +326,19 @@
       "startAt": "2026-11-08T21:00:00.000Z",
       "endAt": "2026-11-09T02:59:00.000Z",
       "url": "https://www.start.gg/tournament/tekken-8-low-tier-rumble/event/tekken-8-low-tier-rumble"
+    },
+    {
+      "eventId": "1746968",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "GrugStrike 56",
+      "event": "GrugStrike :3",
+      "entrants": 16,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-08T23:00:00.000Z",
+      "endAt": "2026-11-09T01:00:00.000Z",
+      "url": "https://www.start.gg/tournament/grugstrike-56/event/grugstrike-3"
     },
     {
       "eventId": "1725717",
