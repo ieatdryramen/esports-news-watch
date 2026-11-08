@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:55:42.559Z",
+  "generatedAt": "2026-11-08T13:25:36.025Z",
   "source": "start.gg",
   "completed": [
     {
@@ -98,7 +98,21 @@
     }
   ],
   "live": [],
-  "upcoming": [],
+  "upcoming": [
+    {
+      "eventId": "1650870",
+      "scene": "tokon",
+      "game": "Fighting Souls",
+      "tournament": "TGU 2026",
+      "event": "Marvel Tokon: Fighting Souls",
+      "entrants": 56,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-13T08:00:00.000Z",
+      "endAt": "2026-11-15T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tgu-2026/event/marvel-tokon-fighting-souls"
+    }
+  ],
   "games": {
     "Fighting Souls": [
       {
