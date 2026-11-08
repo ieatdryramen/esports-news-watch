@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T01:00:25.939Z",
+  "generatedAt": "2026-11-08T02:00:22.500Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 16,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -94,17 +94,6 @@
           ]
         },
         {
-          "title": "Camp Nou helped Argentina move closer to hosting a CS2 Major",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3pzYlFYM2lCel80bG1hZnZrQ0E5V1NiX3lFOExtV21kbldUYUV4ZHBHWGVoakd0LXZ3WE9MdFIxaTRqbjh2alp0bWJRclpoVGFzZ0pranc1ODVvUnBnVmVRMTc0b0E3Qjg3aFlCSGNaeVVSenNjeXpUdmJKYTdGWGRCY3FCa3JnMi1nU3JVTVhRMzdVVmZHcWUwbnc?oc=5",
-          "source": "Google News: CS2 (Skin.Club)",
-          "published": "2026-11-07T20:27:48.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cs2 major"
-          ]
-        },
-        {
           "title": "IEM Beijing semi-finals as they happened",
           "url": "https://www.hltv.org/news/45932/iem-beijing-semi-finals-as-they-happened",
           "source": "HLTV news",
@@ -147,12 +136,23 @@
           "why": [
             "navi"
           ]
+        },
+        {
+          "title": "FL1T: \"This loss was very frustrating, but overall, I'm glad that we're growing as a team\"",
+          "url": "https://www.hltv.org/news/45931/fl1t-this-loss-was-very-frustrating-but-overall-im-glad-that-were-growing-as-a-team",
+          "source": "HLTV news",
+          "published": "2026-11-07T19:00:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "navi*"
+          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 9,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Post Match Thread: Optic Texas vs. Miami Heretics | Monster Invitational | @GGBreakingPoint",
@@ -179,15 +179,69 @@
           ]
         },
         {
-          "title": "Kenny says FaZe WANTED Draz and that money was the issue?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqgayc/kenny_says_faze_wanted_draz_and_that_money_was/",
+          "title": "Aroma calls Zoomaa after C9 eliminates Faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqmads/aroma_calls_zoomaa_after_c9_eliminates_faze/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-07T20:38:15.000Z",
-          "score": 4,
+          "published": "2026-11-08T01:21:05.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "faze",
-            "kenny"
+            "faze"
+          ]
+        },
+        {
+          "title": "Alluka on Faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqma4x/alluka_on_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T01:20:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "FaZe Vegas Monster invitational player stats",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqm9kv/faze_vegas_monster_invitational_player_stats/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T01:19:58.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Post Match Thread: FaZe Vegas vs. C9 New York | Monster Invitational | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqm946/post_match_thread_faze_vegas_vs_c9_new_york/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T01:19:17.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Lurqxx goes on a 12 streak in game 5 vs Faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqm7fk/lurqxx_goes_on_a_12_streak_in_game_5_vs_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T01:16:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Lurqxx aces vs Faze",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqm3zs/lurqxx_aces_vs_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T01:12:10.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
@@ -213,17 +267,6 @@
           ]
         },
         {
-          "title": "Post Match Thread: Paris Gentlemates vs. FaZe Vegas | Monster Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqhkhg/post_match_thread_paris_gentlemates_vs_faze_vegas/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T21:34:42.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
           "title": "Drazah going from CEO to Faze Killer..",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqhiyq/drazah_going_from_ceo_to_faze_killer/",
           "source": "r/CoDCompetitive",
@@ -239,17 +282,6 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqhfu3/drazah_not_getting_the_salary_he_asked_for_on_faze/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-07T21:28:56.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Faze CEO (Drazah) clutches the round 11 for M8s",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqgrwn/faze_ceo_drazah_clutches_the_round_11_for_m8s/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T20:59:26.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -351,6 +383,23 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "M Bison really is a fraud!!! Akuma should've been the final boss",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqm3zb/m_bison_really_is_a_fraud_akuma_shouldve_been_the/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-08T01:12:08.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "fraud"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -363,23 +412,6 @@
           "level": null,
           "why": [
             "ban"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Not sure why Overdrive Cyclone refuses to come out after I do the MP->HK here",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqfzfx/not_sure_why_overdrive_cyclone_refuses_to_come/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-07T20:23:53.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "refuses"
           ]
         }
       ]
