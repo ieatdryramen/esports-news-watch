@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T23:00:23.346Z",
+  "generatedAt": "2026-11-08T00:00:25.356Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -45,17 +45,6 @@
             "retirement",
             "return*",
             "announces"
-          ]
-        },
-        {
-          "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-07T15:04:46.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "allegations"
           ]
         },
         {
@@ -147,12 +136,21 @@
           "why": [
             "navi*"
           ]
+        },
+        {
+          "title": "xelex: \"I'm not performing at the highest level [on stage], that's one thing I'm trying to work on\"",
+          "url": "https://www.hltv.org/news/45938/xelex-im-not-performing-at-the-highest-level-on-stage-thats-one-thing-im-trying-to-work-on",
+          "source": "HLTV news",
+          "published": "2026-11-07T20:15:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Scrap & HyDra After Successfully Finessing $350k Each From FaZe Clan",
@@ -188,6 +186,17 @@
           "why": [
             "faze",
             "miami heretics"
+          ]
+        },
+        {
+          "title": "Who makes it further, OpTic or FaZe?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqjlia/who_makes_it_further_optic_or_faze/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-07T23:09:24.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
@@ -258,20 +267,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
-        {
-          "title": "Gaimin Gladiators Hints at a Return to Professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NFJIeURuaVZVQVBFT3JKSTZGMVRYUldIYXE3U1dRSU5mcUhVZmRXT0J0cnJiZDlOenctRUh4NlNvTXBpQjU4d3QwZXNXV1ItS2xva3pWMVQtYVplbzR5YmNncEk5S2hTaXhFMXc0TF9nMHBpdlQ2dGI0dXRaLUk?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-07T11:33:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
-        },
         {
           "title": "PC Gamer named the 100 best PC games of 2026, NAVI become EPL Masters Dota 2 champions, PGL introduces a $30,000 fine for teams withdrawing from tournaments — News Digest for November 6",
           "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd2NmNndKaWpSRVVkUUJ6UllsaUVHY0RSMXNXT01rNkxSN0ctSlJtRUp5MmNMbzVQdnR4UDIxLXQ2eTB6ME9BWndYQU4zQTlEc1VRVnZVMEVWclZXUmhhQW9Sa2lQaktPMTFPQjRBLW5BTWdCWUw5UEY4dUJjc0U0MGc5QlR1dzIyMHB1SkJkS3BZOThwV01NbVJoX3picHE4WnE0LXNFY3pDMWtfSFo5M05WWnFvYnRoSTl5OF81ZEtTYUZQTDNiMEt0NU9GV3lWRzFNYm9PSy1JeUtsa2pLS1VETW9LelgzbWRQQ0R3N1Y5d29LUTIzUVpETjJ5MGpMV1BaT05IQk5mZExVNEU3OUFTVkIza1lFQnNaSEJJYVpTR09Vblg1Zy1GX1NNUUE3U21KNTZWZDlZUDd5MHNv0gG_AkFVX3lxTE13Y2Y2d0ppalJFVWRRQnpSWWxpRUdjRFIxc1dPTWs2TFI3Ry1KUm1FSnkyY0xvNVB2dHhQMjEtdDZ5MHowT0Fad1hBTjNBOURzVVFWdlUwRVZyVldSaGFBb1JraVBqS08xMU9CNEEtbkFNZ0JZTDlQRjh1QmNzRTQwZzlCVHV3MjIwcHVKQmRLcFk5OHBXTU1tUmhfemJwcThacTQtc0VjekMxa19IWjkzTlZacW9idGhJOXk4XzVkS1NhRlBMM2IwS3Q1T0ZXeVZHMU1ib09LLUl5S2xraktLVURNb0t6WDNtZFBDRHc3Vjl3b0tRMjNRWkROMnkwakxXUFpPTkhCTmZkTFU0RTc5QVNWQjNrWUVCc1pIQklhWlNHT1VuWDVnLUZfU01RQTdTbUo1NlZkOVlQN3kwc28?oc=5",
@@ -315,8 +312,36 @@
       ]
     },
     {
-      "scene": "Street Fighter",
+      "scene": "Melee",
       "storyCount": 2,
+      "stories": [
+        {
+          "title": "Is the B0XX worth practicing and competing with or will the community likely ban it in the long run?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xqjr1v/is_the_b0xx_worth_practicing_and_competing_with/",
+          "source": "r/SSBM",
+          "published": "2026-11-07T23:16:44.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ban"
+          ]
+        },
+        {
+          "title": "Breaking News: Fox is actually fair and balanced!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xqew5p/breaking_news_fox_is_actually_fair_and_balanced/",
+          "source": "r/SSBM",
+          "published": "2026-11-07T19:36:48.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "breaking"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
       "stories": [
         {
           "title": "Not sure why Overdrive Cyclone refuses to come out after I do the MP->HK here",
@@ -327,34 +352,6 @@
           "level": null,
           "why": [
             "refuses"
-          ]
-        },
-        {
-          "title": "This ending gave me a dopamine rush",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqdf5o/this_ending_gave_me_a_dopamine_rush/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-07T18:34:07.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Breaking News: Fox is actually fair and balanced!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xqew5p/breaking_news_fox_is_actually_fair_and_balanced/",
-          "source": "r/SSBM",
-          "published": "2026-11-07T19:36:48.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "breaking"
           ]
         }
       ]
@@ -375,23 +372,6 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Do you consider Tekken 7's original characters a \"failure\"? (Base Roster only, NOT DLC)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xqedgk/do_you_consider_tekken_7s_original_characters_a/",
-          "source": "r/Tekken",
-          "published": "2026-11-07T19:14:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
@@ -399,6 +379,7 @@
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
+    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
