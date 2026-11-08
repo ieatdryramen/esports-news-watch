@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T05:00:26.507Z",
+  "generatedAt": "2026-11-08T06:00:24.165Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 15,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -35,6 +35,22 @@
           ]
         },
         {
+          "title": "Natus Vincere vs BB / IEM Beijing 2026 - 3Rd Place Decider Match / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqr7u3/natus_vincere_vs_bb_iem_beijing_2026_3rd_place/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T05:54:03.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "aleksib*",
+            "b1t*",
+            "natus vincere"
+          ]
+        },
+        {
           "title": "chopper announces retirement",
           "url": "https://www.hltv.org/news/45925/chopper-announces-retirement",
           "source": "HLTV news",
@@ -45,6 +61,17 @@
             "retirement",
             "return*",
             "announces"
+          ]
+        },
+        {
+          "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-07T15:04:46.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "allegations"
           ]
         },
         {
@@ -122,28 +149,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "nin9: \"We're still getting used to each other\"",
-          "url": "https://www.hltv.org/news/45935/nin9-were-still-getting-used-to-each-other",
-          "source": "HLTV news",
-          "published": "2026-11-07T11:07:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "IEM Beijing 2026 - CS2 - Viewership, Overview, Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSF9HRWlmVUw5TDQ4ZncyaHduWVdRcmRMWkNyMERwTlFNd0s2bmo3bXNUQWRwZFVjWFFvcjZfNHpGVHRnSnVnTU9UbnRybWhOUWJJdVFMU1ZvQWQxak9lYUE3SEtJcTdCXzJ1bmlxeE5QMnRCRFVDcDRlRG0?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-07T12:08:28.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "prize pool",
-            "iem",
-            "-viewership, overview"
-          ]
         }
       ]
     },
@@ -244,7 +249,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Scrap and Alluka let’s discuss FaZe fans",
@@ -350,17 +355,6 @@
           ]
         },
         {
-          "title": "Who makes it further, OpTic or FaZe?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqjlia/who_makes_it_further_optic_or_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T23:09:24.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
           "title": "Bracket heading into Sunday",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqmbi1/bracket_heading_into_sunday/",
           "source": "r/CoDCompetitive",
@@ -407,23 +401,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Is the B0XX worth practicing and competing with or will the community likely ban it in the long run?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xqjr1v/is_the_b0xx_worth_practicing_and_competing_with/",
-          "source": "r/SSBM",
-          "published": "2026-11-07T23:16:44.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 1,
       "stories": [
@@ -440,6 +417,7 @@
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
