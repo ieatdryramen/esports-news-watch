@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:55:22.023Z",
+  "generatedAt": "2026-11-08T13:25:18.155Z",
   "source": "start.gg",
   "completed": [
     {
@@ -459,6 +459,45 @@
       "startAt": "2026-11-14T00:00:00.000Z",
       "endAt": "2026-11-14T06:00:00.000Z",
       "url": "https://www.start.gg/tournament/big-dawg-xd-the-port-priority-dx-prelocal/event/melee-singles"
+    },
+    {
+      "eventId": "1591654",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TGU 2026",
+      "event": "TEKKEN 8 : TWT Master",
+      "entrants": 187,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T03:30:00.000Z",
+      "endAt": "2026-11-15T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tgu-2026/event/tekken-8-twt-master"
+    },
+    {
+      "eventId": "1645737",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TGU 2026",
+      "event": "Street Fighter 6",
+      "entrants": 158,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T04:00:00.000Z",
+      "endAt": "2026-11-15T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tgu-2026/event/street-fighter-6"
+    },
+    {
+      "eventId": "1650865",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "TGU 2026",
+      "event": "Guilty Gear -Strive- : AWT Gold+ Event",
+      "entrants": 68,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T04:00:00.000Z",
+      "endAt": "2026-11-15T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tgu-2026/event/guilty-gear-strive-awt-gold-event"
     }
   ],
   "games": {
