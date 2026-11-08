@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T16:00:25.580Z",
+  "generatedAt": "2026-11-08T17:00:23.705Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 20,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -116,19 +116,6 @@
           ]
         },
         {
-          "title": "NAVI defeated BetBoom and took third place at IEM Beijing 2026: The MongolZ and MOUZ will play in the final",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmh2ZllybXVPSkhtR3dBdW5ielNMdHFwV0dzbDhzOUE1YVk0aGlUVnlvSE9vSGVwUkYyWDVXazNkSXNaZWh1VmZ0WllvN1ZjWmtNWDdHTFhQQ1JOX1RCYVlhZVowRWYtcjNuaDM1UXluRE1FX0VuQm51U3RUNGg3N2lhU19FdFNBNjM5clJCNFZ6LURObWFvVWgxQTg2YVh5TlpjR3F4SnF5ejB2S2xYV21sRFVOX2hzN0JIa2ZXbFFDM1R0bmhHVTkxVGFENk5XU1owMFBLd0laVzQy0gHcAUFVX3lxTFBmaHZmWXJtdU9KSG1Hd0F1bmJ6U0x0cXBXR3NsOHM5QTVhWTRoaVRWeW9IT29IZXBSRjJYNVdrM2RJc1plaHVWZnRaWW83VmNaa01YN0dMWFBDUk5fVEJhWWFlWjBFZi1yM25oMzVReW5ETUVfRW5CbnVTdFQ0aDc3aWFTX0V0U0E2MzlyUkI0VnotRE5tYW9VaDFBODZhWHlOWmNHcXhKcXl6MHZLbFhXbWxEVU5faHM3QkhrZldsUUMzVHRuaEdVOTFUYUQ2TldTWjAwUEt3SVpXNDI?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-11-08T06:23:48.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
-            "mouz",
-            "iem"
-          ]
-        },
-        {
           "title": "EYEBALLERS bench dex",
           "url": "https://www.hltv.org/news/45944/eyeballers-bench-dex",
           "source": "HLTV news",
@@ -161,29 +148,49 @@
           "why": [
             "iem"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Is it possible to get this good at breaking throws legite? I used a variety of them too",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xqtwi1/is_it_possible_to_get_this_good_at_breaking/",
-          "source": "r/Tekken",
-          "published": "2026-11-08T08:47:48.000Z",
+          "title": "NAVI claim third place in Beijing over BETBOOM",
+          "url": "https://www.hltv.org/news/45908/navi-claim-third-place-in-beijing-over-betboom",
+          "source": "HLTV news",
+          "published": "2026-11-08T05:58:00.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "breaking"
+            "navi"
           ]
         }
       ]
     },
     {
-      "scene": "Dota",
+      "scene": "Street Fighter",
       "storyCount": 2,
+      "stories": [
+        {
+          "title": "The least expected comeback ever",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr2huc/the_least_expected_comeback_ever/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-08T16:32:44.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
+          ]
+        },
+        {
+          "title": "PSA: The SFL Americas finals are tonight (4pm PST/12am GMT)",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr2ol2/psa_the_sfl_americas_finals_are_tonight_4pm/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-08T16:40:37.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 3,
       "stories": [
         {
           "title": "TORONTOTOKYO Reflected on the Future of His Career in the Dota 2 Pro Scene",
@@ -198,12 +205,21 @@
           "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
           "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-08T01:17:39.000Z",
+          "published": "2026-11-08T16:09:41.000Z",
           "score": 0,
           "level": null,
           "why": [
             "-stream"
           ]
+        },
+        {
+          "title": "Where to practice a new hero?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xr1rb8/where_to_practice_a_new_hero/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T16:01:39.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -245,7 +261,7 @@
     "AoE2",
     "Classic Tetris",
     "Warcraft III",
-    "Street Fighter",
+    "Tekken",
     "Legacy FGC",
     "CoD",
     "Quake",
