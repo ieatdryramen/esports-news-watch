@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-08T10:35:19.345Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Champions of IEM Beijing 2026!",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqvh7l/champions_of_iem_beijing_2026/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "champions",
+        "iem"
+      ],
+      "summary": "https://x.com/hltvorg/status/2119374358405648876?a=u5OAPFlNVqOqrADYL5o&s=46 submitted by /u/Smokeyy27 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-08T10:33:03.000Z"
+    },
+    {
       "alertedAt": "2026-11-08T06:45:18.126Z",
       "level": "possible",
       "scene": "CS2",
