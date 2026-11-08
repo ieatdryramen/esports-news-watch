@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-08T19:55:21.071Z",
+      "level": "possible",
+      "scene": "CoD",
+      "title": "Cloud9 has casually eliminated LAT, Falcons, FaZe and OpTic",
+      "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7e8y/cloud9_has_casually_eliminated_lat_falcons_faze/",
+      "source": "r/CoDCompetitive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "eliminated",
+        "faze",
+        "cloud9",
+        "reddit only"
+      ],
+      "summary": "Methodz was right ? submitted by /u/John3192 to r/CoDCompetitive [link] [comments]",
+      "published": "2026-11-08T19:52:53.000Z"
+    },
+    {
       "alertedAt": "2026-11-08T12:05:25.042Z",
       "level": "possible",
       "scene": "CS2",
