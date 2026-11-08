@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-08T05:55:22.497Z",
+  "generatedAt": "2026-11-08T06:25:15.239Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1683221",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "SoCal Sweep 2",
+      "event": "Melee Singles",
+      "entrants": 98,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T20:30:00.000Z",
+      "endAt": "2026-11-08T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/socal-sweep-2/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "MF | KoDoRiN"
+        },
+        {
+          "placement": 2,
+          "name": "69% | Fiction"
+        },
+        {
+          "placement": 3,
+          "name": "ABG | Mr. Motion"
+        },
+        {
+          "placement": 4,
+          "name": "SDG | Khalid"
+        },
+        {
+          "placement": 5,
+          "name": "ABG | | KoopaTroopa895"
+        },
+        {
+          "placement": 5,
+          "name": "YET | Venelox"
+        },
+        {
+          "placement": 7,
+          "name": "Blanco | Asashi"
+        },
+        {
+          "placement": 7,
+          "name": "GUG | Matt, Vegas"
+        }
+      ]
+    },
     {
       "eventId": "1687062",
       "scene": "melee",
@@ -298,6 +345,19 @@
       "startAt": "2026-11-07T21:00:00.000Z",
       "endAt": "2026-11-08T04:00:00.000Z",
       "url": "https://www.start.gg/tournament/no-god-no-neutral-offline-edition-003/event/3rd-strike"
+    },
+    {
+      "eventId": "1683222",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "SoCal Sweep 2",
+      "event": "Ladder",
+      "entrants": 68,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T18:00:00.000Z",
+      "endAt": "2026-11-08T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/socal-sweep-2/event/ladder"
     },
     {
       "eventId": "1729356",
