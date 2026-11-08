@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-08T09:55:30.666Z",
+  "generatedAt": "2026-11-08T10:55:37.855Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Marvel Tokon: Fighting Souls character overview",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0VfSVMwdnl4SFB1NHlHUGhjOTdSRk51SHBmM3g0M3NhQXJIZ1V4SkdYMV9OY3VvSU1BMUM4VXB1MGVtRDNZekk2MlhJcm5IbkxqSE0wa3F5S3VCYkFMWFhRT2REa1VLUzRPNFh6bDZobUV0ZnRCamw1OUQzclB2WjkyRGd4SFNlZjdTMllCUHdpVmpsc0tGOEVhVmhVTVFFdDRuSUF1SEllTUc0MFhzWGp3?oc=5",
+          "source": "Google News: Tokon (Epic Games)",
+          "published": "2026-11-07T22:41:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "MARVEL TOKON: Why Does Everyone Hate This Game? + PHOENIX CYCLOPS REVIEW - YouTube",
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1kMFZTX0RicW9STjJwU3Q5MXVRaDJBaG9QRXNhc2VhUlJYeTU5Yi1YR183akJnMER1Q0Ew?oc=5",
