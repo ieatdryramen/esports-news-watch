@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T20:55:32.790Z",
+  "generatedAt": "2026-11-08T21:55:28.765Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CoD",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Cloud9 has casually eliminated LAT, Falcons, FaZe and OpTic",
@@ -18,6 +18,18 @@
             "faze",
             "cloud9",
             "reddit only"
+          ]
+        },
+        {
+          "title": "The last time that FaZe, OpTic, or Thieves didn’t make top 3 was 2303 days ago at the online London Home Series",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr9ogr/the_last_time_that_faze_optic_or_thieves_didnt/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T21:29:35.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "the last",
+            "faze"
           ]
         },
         {
@@ -101,6 +113,15 @@
           "why": [
             "cloud9"
           ]
+        },
+        {
+          "title": "Toronto KOI reach the Finals for the first time since Major 3 in the 2024 season!",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr9ggf/toronto_koi_reach_the_finals_for_the_first_time/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T21:19:54.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -233,7 +254,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Gaimin Gladiators is rumored to sign the Astra Invicta Dota 2 roster",
@@ -266,15 +287,6 @@
           "why": [
             "-stream"
           ]
-        },
-        {
-          "title": "Where to practice a new hero?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xr1rb8/where_to_practice_a_new_hero/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T16:01:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -318,6 +330,32 @@
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xr2ol2/psa_the_sfl_americas_finals_are_tonight_4pm/",
           "source": "r/StreetFighter",
           "published": "2026-11-08T16:40:37.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Headstomper 2026 Champion (Last Challenger event for TWT 2026)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xr92lf/headstomper_2026_champion_last_challenger_event/",
+          "source": "r/Tekken",
+          "published": "2026-11-08T21:03:13.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champion"
+          ]
+        },
+        {
+          "title": "Community Results",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xr9ypy/community_results/",
+          "source": "r/Tekken",
+          "published": "2026-11-08T21:42:05.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -380,7 +418,6 @@
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
     "Quake"
   ]
