@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T11:55:32.193Z",
+  "generatedAt": "2026-11-08T12:55:41.657Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Rivals Nightcrawler Leak Points to Strategist Role in Season 11",
@@ -28,6 +28,17 @@
           "why": [
             "season",
             "mrc"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Ignite 2026: Mid Season Finals - MR - Schedule and Results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVDZEVtTmhtVnNuV280Rkw4LTNseTNDc1JFZTV5eEhEN0haVFlGSVhPWmxJUTVWWVJ5b0Rtd2MyRUxaUk81SVJsLVhDWlhwSGZPLXlROWNtN3JPU3V2ZzVoU0tQLVpKMUxEUVRtZVQ3c3F4VHFWOXpUa3FybTg1NUpfbmVlNXdKbW54Ul9CanFIdw?oc=5",
+          "source": "Google News: Rivals esports (Esports Charts)",
+          "published": "2026-11-08T02:50:38.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
           ]
         }
       ]
