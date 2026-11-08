@@ -1,22 +1,3 @@
 {
-  "alerts": [
-    {
-      "alertedAt": "2026-11-06T13:55:19.858Z",
-      "level": "breaking",
-      "scene": "Marvel Tokon",
-      "title": "Miles Morales Hinted As Year 2 DLC Character For Marvel Tokon",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JNVhKazVMYXA3cVNrVWk0azFhUkpqYm9rLVlSOTN3dEdQMnZWQkl2OHJPSklPVTF0ZTBZSXBRNnNGc0lCWlRqUFhzcUdnYWNkVzBSTXJrMEhTT0xxaTZpNDJiT1lKSjJQTHN2VTduZ2NIc1ZQeURzY2tXbFZkdw?oc=5",
-      "source": "Google News: Tokon (TwistedVoxel)",
-      "outlets": [
-        "TwistedVoxel"
-      ],
-      "score": 8,
-      "why": [
-        "dlc",
-        "dlc character"
-      ],
-      "summary": "",
-      "published": "2026-11-06T13:43:20.000Z"
-    }
-  ]
+  "alerts": []
 }
