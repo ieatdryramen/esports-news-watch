@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:25:15.239Z",
+  "generatedAt": "2026-11-08T06:55:20.314Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,6 +93,53 @@
         {
           "placement": 7,
           "name": "Nen"
+        }
+      ]
+    },
+    {
+      "eventId": "1729356",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Asscadian 8",
+      "event": "Melee Singles",
+      "entrants": 64,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-07T23:00:00.000Z",
+      "endAt": "2026-11-08T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-asscadian-8/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "chrisgoon"
+        },
+        {
+          "placement": 2,
+          "name": "bnuts"
+        },
+        {
+          "placement": 3,
+          "name": "Jupiter"
+        },
+        {
+          "placement": 4,
+          "name": "Cherry | SpiderJew"
+        },
+        {
+          "placement": 5,
+          "name": "Paytron97"
+        },
+        {
+          "placement": 5,
+          "name": "WPHP"
+        },
+        {
+          "placement": 7,
+          "name": "Josh | Josh TinglyJungle"
+        },
+        {
+          "placement": 7,
+          "name": "SexGod | RitzyCheese"
         }
       ]
     },
@@ -358,19 +405,6 @@
       "startAt": "2026-11-07T18:00:00.000Z",
       "endAt": "2026-11-08T06:00:00.000Z",
       "url": "https://www.start.gg/tournament/socal-sweep-2/event/ladder"
-    },
-    {
-      "eventId": "1729356",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "The Asscadian 8",
-      "event": "Melee Singles",
-      "entrants": 64,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T23:00:00.000Z",
-      "endAt": "2026-11-08T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-asscadian-8/event/melee-singles"
     }
   ],
   "upcoming": [
