@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T22:00:22.608Z",
+  "generatedAt": "2026-11-08T23:00:30.623Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CoD",
-      "storyCount": 10,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Cloud9 has casually eliminated LAT, Falcons, FaZe and OpTic",
@@ -18,6 +18,32 @@
             "faze",
             "cloud9",
             "reddit only"
+          ]
+        },
+        {
+          "title": "Pred misses the last hijack throw to win map4",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbjm8/pred_misses_the_last_hijack_throw_to_win_map4/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T22:52:11.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "the last",
+            "pred"
+          ]
+        },
+        {
+          "title": "The Shotzzy, Simp, Hydra, and Scrap era days are numbered. We’re about to see more players in that bus driver/superstar conversation in the upcoming years.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrb9dn/the_shotzzy_simp_hydra_and_scrap_era_days_are/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T22:39:10.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze*",
+            "shotzzy",
+            "simp",
+            "hydra"
           ]
         },
         {
@@ -44,19 +70,14 @@
           ]
         },
         {
-          "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 3 | Official Discussion Thread",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr37nk/call_of_duty_league_2027_monster_energy_launch/",
+          "title": "Insight in the back of the map while Lurqxx and Pred are absolutely fighting for their life",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbkw2/insight_in_the_back_of_the_map_while_lurqxx_and/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-08T17:01:59.000Z",
-          "score": 3,
+          "published": "2026-11-08T22:53:50.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "official",
-            "optic texas*",
-            "faze*",
-            "miami heretics*",
-            "cloud9*",
-            "-discussion thread"
+            "pred"
           ]
         },
         {
@@ -127,7 +148,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "IEM Beijing grand final as it happened",
@@ -213,17 +234,6 @@
           ]
         },
         {
-          "title": "ENDGAME - Field of View Ep. 7 Cologne Major 2026 by ESL",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xr2jgr/endgame_field_of_view_ep_7_cologne_major_2026_by/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-08T16:34:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cologne major"
-          ]
-        },
-        {
           "title": "Short news: Week 43",
           "url": "https://www.hltv.org/news/45887/short-news-week-43",
           "source": "HLTV news",
@@ -254,8 +264,19 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Really Tired of Smurfing (Cheating) in this Game",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrbfc4/really_tired_of_smurfing_cheating_in_this_game/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T22:46:36.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
+          ]
+        },
         {
           "title": "Gaimin Gladiators is rumored to sign the Astra Invicta Dota 2 roster",
           "url": "https://www.reddit.com/r/DotA2/comments/1xr5m36/gaimin_gladiators_is_rumored_to_sign_the_astra/",
@@ -291,52 +312,6 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "Bought Street Fighter V champion edition but none of the like dlc characters are there is there a way to fix this?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr77hy/bought_street_fighter_v_champion_edition_but_none/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-08T19:45:23.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champion"
-          ]
-        },
-        {
-          "title": "The least expected comeback ever",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr2huc/the_least_expected_comeback_ever/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-08T16:32:44.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "comeback"
-          ]
-        },
-        {
-          "title": "[Partially Lost] Street Fighter II V – a few seconds after the credits of the final episode on an Asian VHS release",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr36zb/partially_lost_street_fighter_ii_v_a_few_seconds/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-08T17:01:17.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "PSA: The SFL Americas finals are tonight (4pm PST/12am GMT)",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr2ol2/psa_the_sfl_americas_finals_are_tonight_4pm/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-08T16:40:37.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 2,
       "stories": [
@@ -363,6 +338,23 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Bought Street Fighter V champion edition but none of the like dlc characters are there is there a way to fix this?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr77hy/bought_street_fighter_v_champion_edition_but_none/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-08T19:45:23.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champion"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Halo",
       "storyCount": 1,
       "stories": [
@@ -381,23 +373,8 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Classic StarCraft with Brood War expansion ported to Android — unofficial version supports local multiplayer",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYm1LRzc5ekJ0NlVxT0k1MzU4RFIxczkzMVNTNHhkTU5tRW9HUkZ5LWtKTk9HV01HSFpRV05DLTZlNjZOeGFrdllYM1lBZVA2aTRBUy1iam1RSDk4akltUDNQRDkzSU52RmtjZjJudTdqMDE0V1IySUNzLUpDYUZoTXVkYUNZbGg4S0dVS2dEYkZQME9hOS1SNTczOWVkandGVVNOTWFaZ2xuQXVJZC1SZC1Ga0F6T0RzMWFUc1VVd19OWndJb0xoMF9ZQmh3ZE5wMlV1NGp5RDQ4SGltY2JtMERsZ3pKVDd4eXpFVzJvd2NsazNlOTFmOFRKWEtkbknSAf8BQVVfeXFMTWJtS0c3OXpCdDZVcU9JNTM1OERSMXM5MzFTUzR4ZE1ObUVvR1JGeS1rSk5PR1dNR0haUVdOQy02ZTY2Tnhha3ZZWDNZQWVQNmk0QVMtYmptUUg5OGpJbVAzUEQ5M0lOdkZrY2YybnU3ajAxNFdSMklDcy1KQ2FGaE11ZGFDWWxoOEtHVUtnRGJGUDBPYTktUjU3MzllZGp3RlVTTk1hWmdsbkF1SWQtUmQtRmtBek9EczFhVHNVVXdfTlp3SW9MaDBfWUJod2ROcDJVdTRqeUQ0OEhpbWNibTBEbGd6SlQ3eHl6RVcyb3djbGszZTkxZjhUSlhLZG5J?oc=5",
-          "source": "Google News: Brood War (iXBT.games)",
-          "published": "2026-11-08T12:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "SSBU Wars 2026 - Color Wars Finals",
@@ -409,6 +386,30 @@
           "why": [
             "won*"
           ]
+        },
+        {
+          "title": "Congratulations to the winner of Melee Singles at Center Stage 2026!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xrbmtk/congratulations_to_the_winner_of_melee_singles_at/",
+          "source": "r/SSBM",
+          "published": "2026-11-08T22:56:19.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Classic StarCraft with Brood War expansion ported to Android — unofficial version supports local multiplayer",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYm1LRzc5ekJ0NlVxT0k1MzU4RFIxczkzMVNTNHhkTU5tRW9HUkZ5LWtKTk9HV01HSFpRV05DLTZlNjZOeGFrdllYM1lBZVA2aTRBUy1iam1RSDk4akltUDNQRDkzSU52RmtjZjJudTdqMDE0V1IySUNzLUpDYUZoTXVkYUNZbGg4S0dVS2dEYkZQME9hOS1SNTczOWVkandGVVNOTWFaZ2xuQXVJZC1SZC1Ga0F6T0RzMWFUc1VVd19OWndJb0xoMF9ZQmh3ZE5wMlV1NGp5RDQ4SGltY2JtMERsZ3pKVDd4eXpFVzJvd2NsazNlOTFmOFRKWEtkbknSAf8BQVVfeXFMTWJtS0c3OXpCdDZVcU9JNTM1OERSMXM5MzFTUzR4ZE1ObUVvR1JGeS1rSk5PR1dNR0haUVdOQy02ZTY2Tnhha3ZZWDNZQWVQNmk0QVMtYmptUUg5OGpJbVAzUEQ5M0lOdkZrY2YybnU3ajAxNFdSMklDcy1KQ2FGaE11ZGFDWWxoOEtHVUtnRGJGUDBPYTktUjU3MzllZGp3RlVTTk1hWmdsbkF1SWQtUmQtRmtBek9EczFhVHNVVXdfTlp3SW9MaDBfWUJod2ROcDJVdTRqeUQ0OEhpbWNibTBEbGd6SlQ3eHl6RVcyb3djbGszZTkxZjhUSlhLZG5J?oc=5",
+          "source": "Google News: Brood War (iXBT.games)",
+          "published": "2026-11-08T12:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
