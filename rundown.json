@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T07:00:26.147Z",
+  "generatedAt": "2026-11-08T08:00:25.033Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -18,6 +18,22 @@
             "stand-in",
             "history",
             "ending*"
+          ]
+        },
+        {
+          "title": "The MongolZ vs MOUZ / IEM Beijing 2026 - Grand Final / Live Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqsnsc/the_mongolz_vs_mouz_iem_beijing_2026_grand_final/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-08T07:25:22.000Z",
+          "score": 9.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "grand final",
+            "official*",
+            "mouz",
+            "iem"
           ]
         },
         {
@@ -141,23 +157,12 @@
           "why": [
             "mouz"
           ]
-        },
-        {
-          "title": "FL1T: \"This loss was very frustrating, but overall, I'm glad that we're growing as a team\"",
-          "url": "https://www.hltv.org/news/45931/fl1t-this-loss-was-very-frustrating-but-overall-im-glad-that-were-growing-as-a-team",
-          "source": "HLTV news",
-          "published": "2026-11-07T19:00:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "navi*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Maphack / Vision Cheating ruining high-MMR (Divine+) matches: Suspicious de-warding behavior example",
@@ -222,17 +227,6 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2FNbVE4bm44QU0xSm1lRkFLc3czN2JRRGJ3ZGloRzZ6Z2p6U2hEbXNzd3BSR2xBcm0yLTBxYjdibF9zSElReWdlUkRaQnF6NUZKVDdfNjRuY2xPVjJpMnYwQXhIMlpQcmxBWWVjelh2b1JIeDZ3dHpmb005Q1RkeHZSZ3FTRGR4TmQyaENfelRiT2VkLURsbmVoZ3Z6dw?oc=5",
           "source": "Google News: Dota (escorenews.com)",
           "published": "2026-11-07T09:05:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "collapse"
-          ]
-        },
-        {
-          "title": "Collapse Reveals When He Will Resume His Career on the Dota 2 Pro Scene",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGNyRTNNYlpqYldlTV92N25SZWhqZVB2blc0WHNiOTB6MXNid0hrQXlPZEZSUTZqaTZibXd4dWJZZGhlM1lvREIzdEo4dWJGdlJaZmtYM0JzZExNVDF4RWFROGw3SzNfYmlhdEdsQ3ZxWXExX3N0dmxVVkhTQ0hZem9B?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-07T07:41:48.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -370,7 +364,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "M Bison really is a fraud!!! Akuma should've been the final boss",
@@ -381,6 +375,17 @@
           "level": null,
           "why": [
             "fraud"
+          ]
+        },
+        {
+          "title": "Late on this, but eight years and seven days ago today, Ken was announced for Smash Ultimate.",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqsz4b/late_on_this_but_eight_years_and_seven_days_ago/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-08T07:45:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "announced"
           ]
         }
       ]
