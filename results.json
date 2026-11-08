@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:55:17.517Z",
+  "generatedAt": "2026-11-08T18:25:15.931Z",
   "source": "start.gg",
   "completed": [
     {
@@ -427,7 +427,7 @@
       "game": "Tekken 8",
       "tournament": "TEKKEN 8 - LOW TIER RUMBLE",
       "event": "TEKKEN 8 - LOW TIER RUMBLE",
-      "entrants": 69,
+      "entrants": 66,
       "online": true,
       "major": false,
       "startAt": "2026-11-08T21:00:00.000Z",
@@ -498,6 +498,19 @@
       "startAt": "2026-11-14T04:00:00.000Z",
       "endAt": "2026-11-15T13:00:00.000Z",
       "url": "https://www.start.gg/tournament/tgu-2026/event/guilty-gear-strive-awt-gold-event"
+    },
+    {
+      "eventId": "1734139",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "Kayane Session - Novembre 2026",
+      "event": "Session Freeplay TEKKEN 8 + Ladder",
+      "entrants": 100,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-15T10:00:00.000Z",
+      "endAt": "2026-11-15T18:00:00.000Z",
+      "url": "https://www.start.gg/tournament/kayane-session-novembre-2026/event/session-freeplay-tekken-8-ladder"
     }
   ],
   "games": {
