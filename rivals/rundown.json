@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T06:15:21.066Z",
+  "generatedAt": "2026-11-08T07:10:22.378Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -17,15 +17,6 @@
             "season",
             "mrc"
           ]
-        },
-        {
-          "title": "Does Marvel Rivals have crossplay? Answered",
-          "url": "https://esports.gg/news/marvel-rivals/is-marvel-rivals-crossplay/",
-          "source": "esports.gg",
-          "published": "2026-11-07T06:59:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
