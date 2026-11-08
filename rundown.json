@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T13:00:27.838Z",
+  "generatedAt": "2026-11-08T14:00:27.598Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 26,
+      "storyCount": 24,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -34,20 +34,6 @@
             "official*",
             "mouz",
             "iem"
-          ]
-        },
-        {
-          "title": "Official: Anlelele joins Astralis on loan for Major",
-          "url": "https://www.hltv.org/news/45939/official-anlelele-joins-astralis-on-loan-for-major",
-          "source": "HLTV news",
-          "published": "2026-11-07T16:37:00.000Z",
-          "score": 9,
-          "level": "breaking",
-          "why": [
-            "final event*",
-            "joins",
-            "official",
-            "astralis"
           ]
         },
         {
@@ -93,18 +79,6 @@
             "navi*",
             "mouz*",
             "astralis*"
-          ]
-        },
-        {
-          "title": "cheaters now can prevent themselves to be kicked?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqwwmp/cheaters_now_can_prevent_themselves_to_be_kicked/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-08T12:04:10.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "cheater*",
-            "kicked"
           ]
         },
         {
@@ -169,6 +143,30 @@
             "mouz",
             "iem"
           ]
+        },
+        {
+          "title": "NAVI defeated BetBoom and took third place at IEM Beijing 2026: The MongolZ and MOUZ will play in the final",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmh2ZllybXVPSkhtR3dBdW5ielNMdHFwV0dzbDhzOUE1YVk0aGlUVnlvSE9vSGVwUkYyWDVXazNkSXNaZWh1VmZ0WllvN1ZjWmtNWDdHTFhQQ1JOX1RCYVlhZVowRWYtcjNuaDM1UXluRE1FX0VuQm51U3RUNGg3N2lhU19FdFNBNjM5clJCNFZ6LURObWFvVWgxQTg2YVh5TlpjR3F4SnF5ejB2S2xYV21sRFVOX2hzN0JIa2ZXbFFDM1R0bmhHVTkxVGFENk5XU1owMFBLd0laVzQy0gHcAUFVX3lxTFBmaHZmWXJtdU9KSG1Hd0F1bmJ6U0x0cXBXR3NsOHM5QTVhWTRoaVRWeW9IT29IZXBSRjJYNVdrM2RJc1plaHVWZnRaWW83VmNaa01YN0dMWFBDUk5fVEJhWWFlWjBFZi1yM25oMzVReW5ETUVfRW5CbnVTdFQ0aDc3aWFTX0V0U0E2MzlyUkI0VnotRE5tYW9VaDFBODZhWHlOWmNHcXhKcXl6MHZLbFhXbWxEVU5faHM3QkhrZldsUUMzVHRuaEdVOTFUYUQ2TldTWjAwUEt3SVpXNDI?oc=5",
+          "source": "Google News: CS2 (Players)",
+          "published": "2026-11-08T06:23:48.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
+            "mouz",
+            "iem"
+          ]
+        },
+        {
+          "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-07T15:04:46.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "allegations"
+          ]
         }
       ]
     },
@@ -190,41 +188,18 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 1,
+      "scene": "Dota",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Late on this, but eight years and seven days ago today, Ken was announced for Smash Ultimate.",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xqsz4b/late_on_this_but_eight_years_and_seven_days_ago/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-08T07:45:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "announced"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Classic StarCraft with Brood War expansion ported to Android — unofficial version supports local multiplayer",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTFlkZ0JDYjJiYmp4S0YzUHNVN1NfbzBxdnpnX1F4aGtZMmRzdzlJWmp2dXRNQVFHd2lOaW5WNHl5YU1oLXRtYVE0TUdwemQweV9lM01sUDFscUtOOUgzQzdzbHdiblJReG1CcnBNckd0bDQ0WWh6V0VfOWpIaURhZkdWYUhybU5kUS1BeWFERDJQQWlhbVdEaWhCX3kxSzRQd1UtTlphM0xhM18xaWpZOEJOYXU1RXItdnd3Q2hDWnZBUmpsOTNzVGVoLW1ldFlvdUJyb0NxYVN3YVJxVWxSbFl0ZDFna3pKQkJjWWpqUDJTaWNCdzk0X2130gH_AUFVX3lxTE1ibUtHNzl6QnQ2VXFPSTUzNThEUjFzOTMxU1M0eGRNTm1Fb0dSRnkta0pOT0dXTUdIWlFXTkMtNmU2Nk54YWt2WVgzWUFlUDZpNEFTLWJqbVFIOThqSW1QM1BEOTNJTnZGa2NmMm51N2owMTRXUjJJQ3MtSkNhRmhNdWRhQ1lsaDhLR1VLZ0RiRlAwT2E5LVI1NzM5ZWRqd0ZVU05NYVpnbG5BdUlkLVJkLUZrQXpPRHMxYVRzVVV3X05ad0lvTGgwX1lCaHdkTnAyVXU0anlENDhIaW1jYm0wRGxnekpUN3h5ekVXMm93Y2xrM2U5MWY4VEpYS2RuSQ?oc=5",
-          "source": "Google News: Brood War (iXBT.games)",
-          "published": "2026-11-08T12:30:00.000Z",
+          "title": "NAVI secured a spot at M8, The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off, The MongolZ and MOUZ will play in the IEM Beijing 2026 final — News Digest for November 7",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNTJ2emRpMGJjMzNWdUZxaVhnY3RwN1Vkb0FEYTJEQzRNVnhlaUxrNHBRcGVEUFM3Mnk2TEFWeDY5R2ZmZGl5RTI4NTkzd2FtQ0xUMmo0T2F6RWdTdTg2b0xNNGdjbHhwa3dWeXFwTW9tZkQxaElBeXBJY0hQOW9kdC0wVEtRUnpkUDRBVGZYLVVQM1MwUzBCWnZodWlwQk1LQ3VpOTg1Y1RabmlVRzlQSk1ZR2RNSGh0VXRPY2ZxNVJIalRYOW1oVFM2UDZQNGpxTV9aTG9CSnc4V0JqNmlHWE5ETjR0UlpTc0lLcmE3eXZMQWtvb1MwcmNfQ3RnbV9wQmNGS2dQMTZmTDZmbW41ZU80UGhwNnZoODRnWl9yb3BOOUNMc1dtRHQ4aEpIWm5jVFFDQTd1dHQ1SVhP0gG8AkFVX3lxTE01MnZ6ZGkwYmMzM1Z1RnFpWGdjdHA3VWRvQURhMkRDNE1WeGVpTGs0cFFwZURQUzcyeTZMQVZ4NjlHZmZkaXlFMjg1OTN3YW1DTFQyajRPYXpFZ1N1ODZvTE00Z2NseHBrd1Z5cXBNb21mRDFoSUF5cEljSFA5b2R0LTBUS1FSemRQNEFUZlgtVVAzUzBTMEJadmh1aXBCTUtDdWk5ODVjVFpuaVVHOVBKTVlHZE1IaHRVdE9jZnE1UkhqVFg5bWhUUzZQNlA0anFNX1pMb0JKdzhXQmo2aUdYTkRONHRSWlNzSUtyYTd5dkxBa29vUzByY19DdGdtX3BCY0ZLZ1AxNmZMNmZtbjVlTzRQaHA2dmg4NGdaX3JvcE45Q0xzV21EdDhoSkhabmNUUUNBN3V0dDVJWE8?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-08T03:31:00.000Z",
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 1,
-      "stories": [
+        },
         {
           "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
@@ -237,6 +212,21 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Classic StarCraft with Brood War expansion ported to Android — unofficial version supports local multiplayer",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYm1LRzc5ekJ0NlVxT0k1MzU4RFIxczkzMVNTNHhkTU5tRW9HUkZ5LWtKTk9HV01HSFpRV05DLTZlNjZOeGFrdllYM1lBZVA2aTRBUy1iam1RSDk4akltUDNQRDkzSU52RmtjZjJudTdqMDE0V1IySUNzLUpDYUZoTXVkYUNZbGg4S0dVS2dEYkZQME9hOS1SNTczOWVkandGVVNOTWFaZ2xuQXVJZC1SZC1Ga0F6T0RzMWFUc1VVd19OWndJb0xoMF9ZQmh3ZE5wMlV1NGp5RDQ4SGltY2JtMERsZ3pKVDd4eXpFVzJvd2NsazNlOTFmOFRKWEtkbknSAf8BQVVfeXFMTWJtS0c3OXpCdDZVcU9JNTM1OERSMXM5MzFTUzR4ZE1ObUVvR1JGeS1rSk5PR1dNR0haUVdOQy02ZTY2Tnhha3ZZWDNZQWVQNmk0QVMtYmptUUg5OGpJbVAzUEQ5M0lOdkZrY2YybnU3ajAxNFdSMklDcy1KQ2FGaE11ZGFDWWxoOEtHVUtnRGJGUDBPYTktUjU3MzllZGp3RlVTTk1hWmdsbkF1SWQtUmQtRmtBek9EczFhVHNVVXdfTlp3SW9MaDBfWUJod2ROcDJVdTRqeUQ0OEhpbWNibTBEbGd6SlQ3eHl6RVcyb3djbGszZTkxZjhUSlhLZG5J?oc=5",
+          "source": "Google News: Brood War (iXBT.games)",
+          "published": "2026-11-08T12:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -245,6 +235,7 @@
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "CoD",
     "Quake",
