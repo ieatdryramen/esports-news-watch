@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T19:55:31.203Z",
+  "generatedAt": "2026-11-08T20:55:32.790Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Cloud9 has casually eliminated LAT, Falcons, FaZe and OpTic",
@@ -21,6 +21,17 @@
           ]
         },
         {
+          "title": "Karma 2 days before getting knocked out by C9",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7jfk/karma_2_days_before_getting_knocked_out_by_c9/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T19:58:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "knocked out"
+          ]
+        },
+        {
           "title": "Call of Duty League (2027) | Monster Energy Launch Invitational | Day 3 | Official Discussion Thread",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr37nk/call_of_duty_league_2027_monster_energy_launch/",
           "source": "r/CoDCompetitive",
@@ -34,6 +45,28 @@
             "miami heretics*",
             "cloud9*",
             "-discussion thread"
+          ]
+        },
+        {
+          "title": "Cloud9 New York on X",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7p7k/cloud9_new_york_on_x/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T20:04:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "cloud9"
+          ]
+        },
+        {
+          "title": "FaZe getting belt by C9 vs OpTic",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7lcn/faze_getting_belt_by_c9_vs_optic/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T20:00:41.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
@@ -73,7 +106,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "IEM Beijing grand final as it happened",
@@ -192,15 +225,6 @@
           "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-teams-vrs-storylines/",
           "source": "esports.gg",
           "published": "2026-11-08T10:22:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "xelex: \"I'm not performing at the highest level [on stage], that's one thing I'm trying to work on\"",
-          "url": "https://www.hltv.org/news/45938/xelex-im-not-performing-at-the-highest-level-on-stage-thats-one-thing-im-trying-to-work-on",
-          "source": "HLTV news",
-          "published": "2026-11-07T20:15:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -334,27 +358,27 @@
       ]
     },
     {
-      "scene": "Trackmania",
+      "scene": "Melee",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Introducing FallSpeed 2026, 2026's Biggest Fullspeed Event with a $1600 Prize Pool!",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xqzqb8/introducing_fallspeed_2026_2026s_biggest/",
-          "source": "r/TrackMania",
-          "published": "2026-11-08T14:31:07.000Z",
+          "title": "SSBU Wars 2026 - Color Wars Finals",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xr8kd8/ssbu_wars_2026_color_wars_finals/",
+          "source": "r/SSBM",
+          "published": "2026-11-08T20:41:45.000Z",
           "score": 1,
           "level": null,
           "why": [
-            "prize pool"
+            "won*"
           ]
         }
       ]
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Classic Tetris",
+    "Trackmania",
     "Warcraft III",
     "Tekken",
     "Legacy FGC",
