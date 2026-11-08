@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T04:00:26.830Z",
+  "generatedAt": "2026-11-08T05:00:26.507Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 12,
       "stories": [
         {
           "title": "9z bench meyern; add history as Major stand-in",
@@ -48,17 +48,6 @@
           ]
         },
         {
-          "title": "“Stop Manipulating Chinese Women”: Counter-Strike Star Jimpphat Hit With Allegations in Viral Douyin Post",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXp5cmdpMW1rVDFRVW9GLUk1aFFDV1RxeXJWUDhZVlRJTG1mb3JoQ0xBSm9aeWxqOU01aDhqVS1BM09WUFVuaEk2RHJMcDR3R2ZGbDFrVDVLTXhybmMxb01vcUx4ajg4OHB4eDFpc2xES0R0UHRHVWUtU1owRGk5R3ZPMHBETlQybTdjeEFDQjFpRXRCVmJSMEY3UQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-07T15:04:46.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "allegations"
-          ]
-        },
-        {
           "title": "The MongolZ beat NAVI to secure first Big Event grand final appearance in 14 months",
           "url": "https://www.hltv.org/news/45933/the-mongolz-beat-navi-to-secure-first-big-event-grand-final-appearance-in-14-months",
           "source": "HLTV news",
@@ -79,18 +68,6 @@
           "level": null,
           "why": [
             "joins"
-          ]
-        },
-        {
-          "title": "KSCERATO and his team history",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqj38u/kscerato_and_his_team_history/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-07T22:44:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "history",
-            "furia*"
           ]
         },
         {
@@ -145,12 +122,34 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "nin9: \"We're still getting used to each other\"",
+          "url": "https://www.hltv.org/news/45935/nin9-were-still-getting-used-to-each-other",
+          "source": "HLTV news",
+          "published": "2026-11-07T11:07:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "IEM Beijing 2026 - CS2 - Viewership, Overview, Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSF9HRWlmVUw5TDQ4ZncyaHduWVdRcmRMWkNyMERwTlFNd0s2bmo3bXNUQWRwZFVjWFFvcjZfNHpGVHRnSnVnTU9UbnRybWhOUWJJdVFMU1ZvQWQxak9lYUE3SEtJcTdCXzJ1bmlxeE5QMnRCRFVDcDRlRG0?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-07T12:08:28.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "prize pool",
+            "iem",
+            "-viewership, overview"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Maphack / Vision Cheating ruining high-MMR (Divine+) matches: Suspicious de-warding behavior example",
@@ -240,21 +239,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Matchmaking down? PATCH?!?!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xqihsu/matchmaking_down_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-07T22:17:10.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Scrap and Alluka let’s discuss FaZe fans",
@@ -371,17 +361,6 @@
           ]
         },
         {
-          "title": "Entire community getting ready to spam \"Hydra\" in the OpTic watch party live chat.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqiuau/entire_community_getting_ready_to_spam_hydra_in/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-07T22:33:13.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "hydra"
-          ]
-        },
-        {
           "title": "Bracket heading into Sunday",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xqmbi1/bracket_heading_into_sunday/",
           "source": "r/CoDCompetitive",
@@ -445,23 +424,6 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "How to Survive a Drone Rush, Lings, and Mutas as Terran | Artosis vs Teacherhaiji",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xqj31e/how_to_survive_a_drone_rush_lings_and_mutas_as/",
-          "source": "r/broodwar",
-          "published": "2026-11-07T22:44:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "rush"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 1,
       "stories": [
@@ -479,6 +441,7 @@
   ],
   "quiet": [
     "Classic Tetris",
+    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
