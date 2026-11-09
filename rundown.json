@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-09T04:50:17.845Z",
+  "generatedAt": "2026-11-09T05:50:19.577Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
+        {
+          "title": "MOUZ vs 9z / PGL Masters Bucharest 2026 - Swiss Round 2 (Teams With A 0-1 Record) / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrjpv3/mouz_vs_9z_pgl_masters_bucharest_2026_swiss_round/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-09T05:45:40.000Z",
+          "score": 9.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "record",
+            "official*",
+            "mouz",
+            "pgl"
+          ]
+        },
         {
           "title": "IEM Beijing grand final as it happened",
           "url": "https://www.hltv.org/news/45941/iem-beijing-grand-final-as-it-happened",
@@ -147,7 +163,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Pred misses the last hijack throw to win map4",
@@ -173,18 +189,6 @@
             "shotzzy",
             "simp",
             "hydra"
-          ]
-        },
-        {
-          "title": "The last time that FaZe, OpTic, or Thieves didn’t make top 3 was 2303 days ago at the online London Home Series",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr9ogr/the_last_time_that_faze_optic_or_thieves_didnt/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T21:29:35.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last",
-            "faze"
           ]
         },
         {
@@ -241,21 +245,12 @@
           "why": [
             "the last*"
           ]
-        },
-        {
-          "title": "Toronto KOI reach the Finals for the first time since Major 3 in the 2024 season!",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr9ggf/toronto_koi_reach_the_finals_for_the_first_time/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T21:19:54.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
@@ -278,6 +273,17 @@
           "level": null,
           "why": [
             "cheating"
+          ]
+        },
+        {
+          "title": "The mald speaker icon needs to make a comeback",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrird6/the_mald_speaker_icon_needs_to_make_a_comeback/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T04:52:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
           ]
         },
         {
@@ -314,28 +320,19 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 2,
+      "scene": "AoE2",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Headstomper 2026 Champion (Last Challenger event for TWT 2026)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xr92lf/headstomper_2026_champion_last_challenger_event/",
-          "source": "r/Tekken",
-          "published": "2026-11-08T21:03:13.000Z",
+          "title": "Expand Team game map ban just a bit (increase by 1) for teamless players.",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xrj7i5/expand_team_game_map_ban_just_a_bit_increase_by_1/",
+          "source": "r/aoe2",
+          "published": "2026-11-09T05:16:45.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "champion"
+            "ban"
           ]
-        },
-        {
-          "title": "Community Results",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xr9ypy/community_results/",
-          "source": "r/Tekken",
-          "published": "2026-11-08T21:42:05.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -358,19 +355,28 @@
       ]
     },
     {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
+      "scene": "Tekken",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xrg688/removed_by_reddit/",
-          "source": "r/Tetris",
-          "published": "2026-11-09T02:35:40.000Z",
-          "score": 3,
+          "title": "Nail biter ending. Please give me feedback, I feel like my Leroy knowledge is lacking.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xrjce5/nail_biter_ending_please_give_me_feedback_i_feel/",
+          "source": "r/Tekken",
+          "published": "2026-11-09T05:24:20.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "removed"
+            "ending"
           ]
+        },
+        {
+          "title": "Community Results",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xr9ypy/community_results/",
+          "source": "r/Tekken",
+          "published": "2026-11-08T21:42:05.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -423,7 +429,7 @@
     }
   ],
   "quiet": [
-    "AoE2",
+    "Classic Tetris",
     "Trackmania",
     "Legacy FGC",
     "Halo"

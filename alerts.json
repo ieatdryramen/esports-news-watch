@@ -1,6 +1,29 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-09T05:50:18.888Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "MOUZ vs 9z / PGL Masters Bucharest 2026 - Swiss Round 2 (Teams With A 0-1 Record) / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrjpv3/mouz_vs_9z_pgl_masters_bucharest_2026_swiss_round/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 9.5,
+      "why": [
+        "benched*",
+        "roster*",
+        "record",
+        "official*",
+        "mouz",
+        "pgl",
+        "reddit only"
+      ],
+      "summary": "MOUZ 🇪🇺 2-0 🌎 9z Team Dust2: 13-5 Nuke: 13-3 Mirage Event Information PGL Masters Bucharest 2026 | 🇷🇴 Bucharest ($1.25m LAN) | Liquipedia | HLTV Streams | YouTube | Twitch A | Twitch B Team Information 🇪🇺 MOUZ | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | Weibo | YouTube | Twitch | Steam | Reddit Roster : 🇭🇺 torzsi ⊕ | 🇮🇱 xertioN ♛ | 🇮🇱 Spinx | 🇭🇺 xelex | 🇨🇿 PR Coach : 🇩🇰 sycrone 🌎 9z Team | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | YouTube | Twitch | Steam Roster : 🇺🇾 max ♛ | 🇨🇱 HUASOPEEK | 🇦🇷 luchov | 🇺🇾 dgt Coach : 🇧🇷 BIT Subs/Benched : 🇦🇷 meyern ⊕ Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Full Match Stats Team K-D ADR Swing Rating 🇪🇺 MOUZ 1.43 🇮🇱 Spinx 27-16 89.3 +4.76% 1.53 🇭🇺 torzsi ⊕ 30-12 85.8 +5.77% 1.51 🇭🇺 xelex 25-16 82.5 +3.27% 1.39 🇨🇿 PR 28-20 88.5 +3.38% 1.37 🇮🇱 xertioN ♛ 25-20 79.5 +3.32% 1.33 🌎 9z 0.79 🇦🇷 luchov 28-25 78.6 +1.74% 1.36 🇨🇱 HUASOPEEK 17-30 66.7 -4.66% 0.81 🇺🇾 dgt 16-28 66.7 -5.11% 0.67 🇺🇾 max ♛ 12-26 40.1 -5.74% 0.62 🇦🇷 meyern ⊕ 11-27 32.1 -6.77% 0.47 HLTV Match Page MAP 1: Dust2 Team CT T Total 🇪🇺 MOUZ 7 6 13 T CT 🌎 9z 5 0 5 Team K-D ADR Swing Rating 🇪🇺 MOUZ 1.26 🇮🇱 xertioN ♛ 16-11 99.1 +4.49% 1.49 🇭🇺 xelex 14-9 97.4 +1.65% 1.33 🇮🇱 Spinx 13-8 83.0 +3.08% 1.25 🇨🇿 PR 12-10 62.9 +2.69% 1.15 🇭🇺 torzsi ⊕ 12-5 57.7 +1.65% 1.06 🌎 9z 0.95 🇦🇷 luchov 15-12 ",
+      "published": "2026-11-09T05:45:40.000Z"
+    },
+    {
       "alertedAt": "2026-11-08T19:55:21.071Z",
       "level": "possible",
       "scene": "CoD",
