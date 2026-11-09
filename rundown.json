@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:55:32.456Z",
+  "generatedAt": "2026-11-09T03:50:25.213Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -126,8 +126,28 @@
       ]
     },
     {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Lawliet plays in 4v4 Tourney vs China",
+          "url": "https://www.reddit.com/r/WC3/comments/1xrh9ju/lawliet_plays_in_4v4_tourney_vs_china/",
+          "source": "r/WC3",
+          "published": "2026-11-09T03:31:26.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "update*",
+            "lyn*",
+            "sok*",
+            "lawliet"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Pred misses the last hijack throw to win map4",
@@ -201,17 +221,6 @@
           ]
         },
         {
-          "title": "Cloud9 New York on X",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7p7k/cloud9_new_york_on_x/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T20:04:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cloud9"
-          ]
-        },
-        {
           "title": "Alright, now that the event is over, which team would you say surprised you the most?",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrec72/alright_now_that_the_event_is_over_which_team/",
           "source": "r/CoDCompetitive",
@@ -246,8 +255,20 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
+        {
+          "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-09T03:04:28.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "gaimin gladiators"
+          ]
+        },
         {
           "title": "Really Tired of Smurfing (Cheating) in this Game",
           "url": "https://www.reddit.com/r/DotA2/comments/1xrbfc4/really_tired_of_smurfing_cheating_in_this_game/",
@@ -271,6 +292,17 @@
           ]
         },
         {
+          "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlhhUFRmYmtwMXZRTmxhVFd1a3ozTFlLNDhQV1Z5YVNCSFI1S2x6SEk3dVVRaTJfdTBIZ1NCQjJMVk9oSXFUbHA4c0E0bThtWWJ0ZFVIZUFvUktJOTJRZmY3TDFNNS1TUnVZOWRySVRjeHRsVlhGN2VXWFcyUC1YVk9OeGFtSjRmc2Y1amhhTTdvaW9aQjJYS1JOUk1FX0steWJ4RFl6X0k?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-09T01:15:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
           "title": "High immortal In lan tournament",
           "url": "https://www.reddit.com/r/DotA2/comments/1xrc3m3/high_immortal_in_lan_tournament/",
           "source": "r/DotA2",
@@ -278,17 +310,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - RWL, November 8, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9vRm5nSjVHR3IyX2tMTUJGbFpLa3JRVWx4LVNRRFVEaUVOUWpyZTM2ZVRwbldxVjRobXlVLUpnaDhocll0TDhDMndpbW1DUWNJSmlFdVc2UVNDMlYyd0oxTUJ6OG9qWFdVV1lkODBKQm9adjdUU3J0U0trYkExQ3hlU09YNVlsd3lkTnFORm1ubkU1OW9mWlM4dDk1c1RVUE5faw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-08T16:09:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -380,7 +401,6 @@
   "quiet": [
     "AoE2",
     "Trackmania",
-    "Warcraft III",
     "Street Fighter",
     "Legacy FGC",
     "Quake",
