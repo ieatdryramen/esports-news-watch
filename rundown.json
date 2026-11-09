@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T11:40:21.893Z",
+  "generatedAt": "2026-11-09T12:00:26.200Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "PGL announces name changes for four teams at Singapore Major",
@@ -16,17 +16,6 @@
           "why": [
             "announces",
             "pgl"
-          ]
-        },
-        {
-          "title": "EYEBALLERS bench dex",
-          "url": "https://www.hltv.org/news/45944/eyeballers-bench-dex",
-          "source": "HLTV news",
-          "published": "2026-11-08T12:00:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "bench"
           ]
         },
         {
@@ -115,7 +104,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
@@ -152,6 +141,15 @@
             "announced",
             "-stream"
           ]
+        },
+        {
+          "title": "TORONTOTOKYO Reflected on the Future of His Career in the Dota 2 Pro Scene",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemZiMmYxNzJraFdvV284bUpjQ2QzTlRmZmhTVDhkMFBFMXV4Z2FzVWRmWkd4Uzh3VGxBdzNmbkY1aFFXSnV0NlRZN3hFRnEwaVpVbTlhUVpzSlJGeWNPa1puMmEzN2MtRVNhSnM1bEdBZGhGc2dYSHp4UUdZc3M1Q1RxYw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-08T15:12:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
