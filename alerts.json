@@ -283,26 +283,6 @@
       ],
       "summary": "The Russian in-game leader has made the decision not to return to activity as a player.",
       "published": "2026-11-07T17:45:00.000Z"
-    },
-    {
-      "alertedAt": "2026-11-07T16:40:19.208Z",
-      "level": "breaking",
-      "scene": "CS2",
-      "title": "Official: Anlelele joins Astralis on loan for Singapore Major",
-      "url": "https://www.hltv.org/news/45939/official-anlelele-joins-astralis-on-loan-for-singapore-major",
-      "source": "HLTV news",
-      "outlets": [
-        "HLTV news"
-      ],
-      "score": 9,
-      "why": [
-        "final event*",
-        "joins",
-        "official",
-        "astralis"
-      ],
-      "summary": "The Vietnamese player has been recruited on a short-term deal for the final event of the season.",
-      "published": "2026-11-07T16:37:00.000Z"
     }
   ]
 }
