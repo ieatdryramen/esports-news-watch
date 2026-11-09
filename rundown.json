@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T23:00:30.623Z",
+  "generatedAt": "2026-11-09T00:00:27.424Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CoD",
-      "storyCount": 12,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Cloud9 has casually eliminated LAT, Falcons, FaZe and OpTic",
@@ -136,13 +136,15 @@
           ]
         },
         {
-          "title": "Toronto KOI reach the Finals for the first time since Major 3 in the 2024 season!",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr9ggf/toronto_koi_reach_the_finals_for_the_first_time/",
+          "title": "Fun fact: 04 and JoeDeceives are the youngest sub duo in the league",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbqw0/fun_fact_04_and_joedeceives_are_the_youngest_sub/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-08T21:19:54.000Z",
-          "score": 0,
+          "published": "2026-11-08T23:01:09.000Z",
+          "score": 1,
           "level": null,
-          "why": []
+          "why": [
+            "the last*"
+          ]
         }
       ]
     },
@@ -264,7 +266,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Really Tired of Smurfing (Cheating) in this Game",
@@ -295,6 +297,15 @@
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-11-08T15:12:00.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "High immortal In lan tournament",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrc3m3/high_immortal_in_lan_tournament/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T23:17:38.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -355,24 +366,6 @@
       ]
     },
     {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Halo stats and results",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xr3lhj/halo_stats_and_results/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-08T17:17:47.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "the last*",
-            "history*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 2,
       "stories": [
@@ -420,6 +413,7 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
