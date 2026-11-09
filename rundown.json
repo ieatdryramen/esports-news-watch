@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:50:25.058Z",
+  "generatedAt": "2026-11-09T07:50:18.701Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -225,20 +225,8 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 6,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "Pred misses the last hijack throw to win map4",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbjm8/pred_misses_the_last_hijack_throw_to_win_map4/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T22:52:11.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last",
-            "pred"
-          ]
-        },
         {
           "title": "CleanX finally get rid of dead weight Insight and instanly wins a \"chip\"",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8e4/cleanx_finally_get_rid_of_dead_weight_insight_and/",
@@ -262,17 +250,6 @@
           ]
         },
         {
-          "title": "Insight in the back of the map while Lurqxx and Pred are absolutely fighting for their life",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbkw2/insight_in_the_back_of_the_map_while_lurqxx_and/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T22:53:50.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pred"
-          ]
-        },
-        {
           "title": "Alright, now that the event is over, which team would you say surprised you the most?",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrec72/alright_now_that_the_event_is_over_which_team/",
           "source": "r/CoDCompetitive",
@@ -281,17 +258,6 @@
           "level": null,
           "why": [
             "cloud9*"
-          ]
-        },
-        {
-          "title": "Fun fact: 04 and JoeDeceives are the youngest sub duo in the league",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbqw0/fun_fact_04_and_joedeceives_are_the_youngest_sub/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T23:01:09.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "the last*"
           ]
         }
       ]
@@ -379,24 +345,10 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Congratulations to the winner of Melee Singles at Center Stage 2026!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xrbmtk/congratulations_to_the_winner_of_melee_singles_at/",
-          "source": "r/SSBM",
-          "published": "2026-11-08T22:56:19.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Trackmania",
     "Legacy FGC",
