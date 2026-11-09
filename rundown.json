@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T09:45:17.928Z",
+  "generatedAt": "2026-11-09T10:40:20.819Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "IEM Beijing grand final as it happened",
@@ -20,22 +20,22 @@
           ]
         },
         {
+          "title": "PGL announces name changes for four teams at Singapore Major",
+          "url": "https://www.hltv.org/news/45947/pgl-announces-name-changes-for-four-teams-at-singapore-major",
+          "source": "HLTV news",
+          "published": "2026-11-09T09:48:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "announces",
+            "pgl"
+          ]
+        },
+        {
           "title": "MOUZ Defeats MongolZ to Win IEM Beijing 2026",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdF96dWxVXzJFaWpKcmR2M0lsTkgwTjczbXVmMDl3UVVTWGVNcTdPN18yQ05YT0hTUGJsVllTMmczaWQ1M1JtX2IwYW91X2Jyc1FRVXFsMjRnUnZQb1FWNlJEeG5mNWxoMG9kTmkxUzhxWjBva2xPQWU0SjFDcGowUnRBUkhLcTgx?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-08T11:24:58.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
-            "iem"
-          ]
-        },
-        {
-          "title": "MOUZ dominate The MongolZ to complete flawless run to IEM Beijing trophy",
-          "url": "https://www.hltv.org/news/45942/mouz-dominate-the-mongolz-to-complete-flawless-run-to-iem-beijing-trophy",
-          "source": "HLTV news",
-          "published": "2026-11-08T10:19:00.000Z",
           "score": 5,
           "level": null,
           "why": [
@@ -77,6 +77,15 @@
           ]
         },
         {
+          "title": "Short news: Week 44",
+          "url": "https://www.hltv.org/news/45949/short-news-week-44",
+          "source": "HLTV news",
+          "published": "2026-11-09T10:22:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "6yuBoJlbl CS2 (6BJ) Team Overview and Viewers Statistics",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RdzUzblFmdTNkRllDUGVXWjdFLVJSc0YxMlBpY1kzSVF3YjFuQVVmTk5jU0dqZUR6Tk54VjJlbmlWUlluYkdrRlp5cw?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
@@ -86,28 +95,10 @@
           "why": []
         },
         {
-          "title": "Short news: Week 43",
-          "url": "https://www.hltv.org/news/45887/short-news-week-43",
-          "source": "HLTV news",
-          "published": "2026-11-08T18:50:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "xertioN: \"To be on the list with gla1ve [as a rifle IGL MVP] is an honor. He's such a role model\"",
           "url": "https://www.hltv.org/news/45945/xertion-to-be-on-the-list-with-gla1ve-as-a-rifle-igl-mvp-is-an-honor-hes-such-a-role-model",
           "source": "HLTV news",
           "published": "2026-11-08T14:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "All teams qualified for CS2 Singapore Major: Final VRS invites and key storylines",
-          "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-teams-vrs-storylines/",
-          "source": "esports.gg",
-          "published": "2026-11-08T10:22:47.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -142,7 +133,7 @@
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-09T03:45:00.000Z",
+          "published": "2026-11-09T03:52:04.000Z",
           "score": 4,
           "level": null,
           "why": [
