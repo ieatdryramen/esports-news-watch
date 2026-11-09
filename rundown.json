@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T05:50:19.577Z",
+  "generatedAt": "2026-11-09T06:50:25.058Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "MOUZ vs 9z / PGL Masters Bucharest 2026 - Swiss Round 2 (Teams With A 0-1 Record) / Post-Match Discussion",
@@ -82,17 +82,6 @@
           ]
         },
         {
-          "title": "NAVI claim third place in Beijing over BETBOOM",
-          "url": "https://www.hltv.org/news/45908/navi-claim-third-place-in-beijing-over-betboom",
-          "source": "HLTV news",
-          "published": "2026-11-08T05:58:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "navi"
-          ]
-        },
-        {
           "title": "PGL Singapore Major Stage 1 opening matchups",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrg8wn/pgl_singapore_major_stage_1_opening_matchups/",
           "source": "r/GlobalOffensive",
@@ -162,8 +151,81 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 6,
+      "stories": [
+        {
+          "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-09T03:45:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "The mald speaker icon needs to make a comeback",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrird6/the_mald_speaker_icon_needs_to_make_a_comeback/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T04:52:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
+          ]
+        },
+        {
+          "title": "why isn't there a youtube channel dedicated to telling the story of the international?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrg227/why_isnt_there_a_youtube_channel_dedicated_to/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T02:29:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "the international"
+          ]
+        },
+        {
+          "title": "dota2 legend BurNIng has announced he will stream dota1 instead",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrkfh0/dota2_legend_burning_has_announced_he_will_stream/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T06:26:59.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update*",
+            "announced",
+            "-stream"
+          ]
+        },
+        {
+          "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlhhUFRmYmtwMXZRTmxhVFd1a3ozTFlLNDhQV1Z5YVNCSFI1S2x6SEk3dVVRaTJfdTBIZ1NCQjJMVk9oSXFUbHA4c0E0bThtWWJ0ZFVIZUFvUktJOTJRZmY3TDFNNS1TUnVZOWRySVRjeHRsVlhGN2VXWFcyUC1YVk9OeGFtSjRmc2Y1amhhTTdvaW9aQjJYS1JOUk1FX0steWJ4RFl6X0k?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-09T01:15:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
+          "title": "High immortal In lan tournament",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrc3m3/high_immortal_in_lan_tournament/",
+          "source": "r/DotA2",
+          "published": "2026-11-08T23:17:38.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CoD",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Pred misses the last hijack throw to win map4",
@@ -175,20 +237,6 @@
           "why": [
             "the last",
             "pred"
-          ]
-        },
-        {
-          "title": "The Shotzzy, Simp, Hydra, and Scrap era days are numbered. We’re about to see more players in that bus driver/superstar conversation in the upcoming years.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrb9dn/the_shotzzy_simp_hydra_and_scrap_era_days_are/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T22:39:10.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "faze*",
-            "shotzzy",
-            "simp",
-            "hydra"
           ]
         },
         {
@@ -249,77 +297,6 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 6,
-      "stories": [
-        {
-          "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-09T03:45:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
-        },
-        {
-          "title": "Really Tired of Smurfing (Cheating) in this Game",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrbfc4/really_tired_of_smurfing_cheating_in_this_game/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T22:46:36.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
-        },
-        {
-          "title": "The mald speaker icon needs to make a comeback",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrird6/the_mald_speaker_icon_needs_to_make_a_comeback/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T04:52:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "comeback"
-          ]
-        },
-        {
-          "title": "why isn't there a youtube channel dedicated to telling the story of the international?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrg227/why_isnt_there_a_youtube_channel_dedicated_to/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T02:29:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "the international"
-          ]
-        },
-        {
-          "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlhhUFRmYmtwMXZRTmxhVFd1a3ozTFlLNDhQV1Z5YVNCSFI1S2x6SEk3dVVRaTJfdTBIZ1NCQjJMVk9oSXFUbHA4c0E0bThtWWJ0ZFVIZUFvUktJOTJRZmY3TDFNNS1TUnVZOWRySVRjeHRsVlhGN2VXWFcyUC1YVk9OeGFtSjRmc2Y1amhhTTdvaW9aQjJYS1JOUk1FX0steWJ4RFl6X0k?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-09T01:15:26.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "High immortal In lan tournament",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrc3m3/high_immortal_in_lan_tournament/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T23:17:38.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
       "storyCount": 1,
       "stories": [
@@ -356,7 +333,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Nail biter ending. Please give me feedback, I feel like my Leroy knowledge is lacking.",
@@ -368,15 +345,6 @@
           "why": [
             "ending"
           ]
-        },
-        {
-          "title": "Community Results",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xr9ypy/community_results/",
-          "source": "r/Tekken",
-          "published": "2026-11-08T21:42:05.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
