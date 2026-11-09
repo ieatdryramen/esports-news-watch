@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-09T15:00:26.881Z",
+  "generatedAt": "2026-11-09T16:00:25.293Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
+        {
+          "title": "Las Vegas Targets CS2 Major 2028 With Two-Event BLAST Deal",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNFJkdkJJM3Fsc2hOdWpDMnc4MHp5a3Fma2pJeUx3VjNWUG5vTGxSTFRlYzBLWWtNQ3BTRjBrMnUyOFExMFphU1JiMEJjcEJUMGF3TmU4MFpVd0lUNWhGTGotZmduV1o0TFlPSFB3U3JMaEhZMXBTRzIxMWo?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-09T14:59:01.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "blast",
+            "cs2 major"
+          ]
+        },
         {
           "title": "BLAST Eyes $2 Million Deal to Bring CS2 Major to Las Vegas",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGtJbklUVWIwTkE2eG1jYWFZbmRHb1JTVjl4VkpwRnlEZXJwX3daVTBiVUFnX3EzZnhMOHVYY3lkeXJaMzV1M2I3Zk5pUk5EQUdyN29OSGdsVE1pZXlhRnhyR2x5TkN0bmxJNUZGbFNQOFlLWWYzejduaThrbXhfOXpMYjZneDkwV0NZeEdn?oc=5",
@@ -31,6 +43,18 @@
           ]
         },
         {
+          "title": "The EVPs and All-Stars of IEM Beijing 2026",
+          "url": "https://www.hltv.org/news/45948/the-evps-and-all-stars-of-iem-beijing-2026",
+          "source": "HLTV news",
+          "published": "2026-11-09T15:26:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "mouz*",
+            "iem"
+          ]
+        },
+        {
           "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
           "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/",
           "source": "esports.gg",
@@ -53,17 +77,6 @@
           ]
         },
         {
-          "title": "Las Vegas targets BLAST partnership for 2028 Major",
-          "url": "https://www.hltv.org/news/45951/las-vegas-targets-blast-partnership-for-2028-major",
-          "source": "HLTV news",
-          "published": "2026-11-09T12:13:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
           "title": "PGL reveals Singapore Major rosters",
           "url": "https://www.hltv.org/news/45950/pgl-reveals-singapore-major-rosters",
           "source": "HLTV news",
@@ -72,6 +85,19 @@
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026: Schedule, All 32 Teams, Format & Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXI1VGRpUExfUXVrWkFyQk1oYWFQaDdheVhqemZobEhSTkhIT1ZBX3NBN0dwSVZFODF6amprN0g5LU05clpiR29SNVg0T1dfVVpfVnFpNEJtNUwtZ1NRazEySkJvY3RwTDlacFBYRmloNkZsaGZlVjE0cHV0b0ctb0Q1c05mY1RjQktUUk80a21PbUpPNVlOc1ptOA?oc=5",
+          "source": "Google News: CS2 (Chase Your Sport)",
+          "published": "2026-11-09T09:29:27.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "prize pool",
+            "pgl",
+            "-schedule"
           ]
         },
         {
