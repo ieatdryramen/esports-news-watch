@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:55:17.845Z",
+  "generatedAt": "2026-11-09T22:25:18.197Z",
   "source": "start.gg",
   "completed": [
     {
@@ -584,12 +584,25 @@
   ],
   "upcoming": [
     {
+      "eventId": "1744889",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "TNS Guilty Gear Strive #230",
+      "event": "Guilty Gear Strive (Crossplay)",
+      "entrants": 65,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-10T01:00:00.000Z",
+      "endAt": "2026-11-10T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-230/event/guilty-gear-strive-crossplay"
+    },
+    {
       "eventId": "1725717",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
       "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
       "event": "Melee Singles",
-      "entrants": 81,
+      "entrants": 82,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T00:00:00.000Z",
