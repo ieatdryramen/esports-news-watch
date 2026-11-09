@@ -1,156 +1,10 @@
 {
-  "generatedAt": "2026-11-09T01:55:48.774Z",
+  "generatedAt": "2026-11-09T02:55:32.456Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "CoD",
-      "storyCount": 16,
-      "stories": [
-        {
-          "title": "Cloud9 has casually eliminated LAT, Falcons, FaZe and OpTic",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7e8y/cloud9_has_casually_eliminated_lat_falcons_faze/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T19:52:53.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "eliminated",
-            "faze",
-            "cloud9",
-            "reddit only"
-          ]
-        },
-        {
-          "title": "Pred misses the last hijack throw to win map4",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbjm8/pred_misses_the_last_hijack_throw_to_win_map4/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T22:52:11.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last",
-            "pred"
-          ]
-        },
-        {
-          "title": "The Shotzzy, Simp, Hydra, and Scrap era days are numbered. We’re about to see more players in that bus driver/superstar conversation in the upcoming years.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrb9dn/the_shotzzy_simp_hydra_and_scrap_era_days_are/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T22:39:10.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "faze*",
-            "shotzzy",
-            "simp",
-            "hydra"
-          ]
-        },
-        {
-          "title": "The last time that FaZe, OpTic, or Thieves didn’t make top 3 was 2303 days ago at the online London Home Series",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr9ogr/the_last_time_that_faze_optic_or_thieves_didnt/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T21:29:35.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last",
-            "faze"
-          ]
-        },
-        {
-          "title": "CleanX finally get rid of dead weight Insight and instanly wins a \"chip\"",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8e4/cleanx_finally_get_rid_of_dead_weight_insight_and/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T00:58:38.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Karma 2 days before getting knocked out by C9",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7jfk/karma_2_days_before_getting_knocked_out_by_c9/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T19:58:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "knocked out"
-          ]
-        },
-        {
-          "title": "Post Match Thread: Paris Gentlemates vs. Toronto KOI | Monster Invitational - Grand Finals | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8ue/post_match_thread_paris_gentlemates_vs_toronto/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T00:59:16.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand finals"
-          ]
-        },
-        {
-          "title": "Insight in the back of the map while Lurqxx and Pred are absolutely fighting for their life",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbkw2/insight_in_the_back_of_the_map_while_lurqxx_and/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T22:53:50.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pred"
-          ]
-        },
-        {
-          "title": "Cloud9 New York on X",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7p7k/cloud9_new_york_on_x/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T20:04:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cloud9"
-          ]
-        },
-        {
-          "title": "FaZe getting belt by C9 vs OpTic",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7lcn/faze_getting_belt_by_c9_vs_optic/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T20:00:41.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Post Match Thread: Optic Texas vs. C9 New York | Monster Invitational | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7d44/post_match_thread_optic_texas_vs_c9_new_york/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T19:51:37.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "optic texas"
-          ]
-        },
-        {
-          "title": "Should Faze and Optic blow it up",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7bae/should_faze_and_optic_blow_it_up/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T19:49:37.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "IEM Beijing grand final as it happened",
@@ -223,6 +77,17 @@
           ]
         },
         {
+          "title": "PGL Singapore Major Stage 1 opening matchups",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrg8wn/pgl_singapore_major_stage_1_opening_matchups/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-09T02:39:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "6yuBoJlbl CS2 (6BJ) Team Overview and Viewers Statistics",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RdzUzblFmdTNkRllDUGVXWjdFLVJSc0YxMlBpY1kzSVF3YjFuQVVmTk5jU0dqZUR6Tk54VjJlbmlWUlluYkdrRlp5cw?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
@@ -261,6 +126,125 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 10,
+      "stories": [
+        {
+          "title": "Pred misses the last hijack throw to win map4",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbjm8/pred_misses_the_last_hijack_throw_to_win_map4/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T22:52:11.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "the last",
+            "pred"
+          ]
+        },
+        {
+          "title": "The Shotzzy, Simp, Hydra, and Scrap era days are numbered. We’re about to see more players in that bus driver/superstar conversation in the upcoming years.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrb9dn/the_shotzzy_simp_hydra_and_scrap_era_days_are/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T22:39:10.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "faze*",
+            "shotzzy",
+            "simp",
+            "hydra"
+          ]
+        },
+        {
+          "title": "The last time that FaZe, OpTic, or Thieves didn’t make top 3 was 2303 days ago at the online London Home Series",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr9ogr/the_last_time_that_faze_optic_or_thieves_didnt/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T21:29:35.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "the last",
+            "faze"
+          ]
+        },
+        {
+          "title": "CleanX finally get rid of dead weight Insight and instanly wins a \"chip\"",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8e4/cleanx_finally_get_rid_of_dead_weight_insight_and/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T00:58:38.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Post Match Thread: Paris Gentlemates vs. Toronto KOI | Monster Invitational - Grand Finals | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8ue/post_match_thread_paris_gentlemates_vs_toronto/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T00:59:16.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand finals"
+          ]
+        },
+        {
+          "title": "Insight in the back of the map while Lurqxx and Pred are absolutely fighting for their life",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbkw2/insight_in_the_back_of_the_map_while_lurqxx_and/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T22:53:50.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pred"
+          ]
+        },
+        {
+          "title": "Cloud9 New York on X",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7p7k/cloud9_new_york_on_x/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T20:04:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "cloud9"
+          ]
+        },
+        {
+          "title": "Alright, now that the event is over, which team would you say surprised you the most?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrec72/alright_now_that_the_event_is_over_which_team/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T01:03:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "cloud9*"
+          ]
+        },
+        {
+          "title": "Fun fact: 04 and JoeDeceives are the youngest sub duo in the league",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbqw0/fun_fact_04_and_joedeceives_are_the_youngest_sub/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T23:01:09.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "the last*"
+          ]
+        },
+        {
+          "title": "Toronto KOI reach the Finals for the first time since Major 3 in the 2024 season!",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr9ggf/toronto_koi_reach_the_finals_for_the_first_time/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T21:19:54.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Dota",
       "storyCount": 4,
       "stories": [
@@ -276,13 +260,15 @@
           ]
         },
         {
-          "title": "NAVI secured a spot at M8, The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off, The MongolZ and MOUZ will play in the IEM Beijing 2026 final — News Digest for November 7",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNTJ2emRpMGJjMzNWdUZxaVhnY3RwN1Vkb0FEYTJEQzRNVnhlaUxrNHBRcGVEUFM3Mnk2TEFWeDY5R2ZmZGl5RTI4NTkzd2FtQ0xUMmo0T2F6RWdTdTg2b0xNNGdjbHhwa3dWeXFwTW9tZkQxaElBeXBJY0hQOW9kdC0wVEtRUnpkUDRBVGZYLVVQM1MwUzBCWnZodWlwQk1LQ3VpOTg1Y1RabmlVRzlQSk1ZR2RNSGh0VXRPY2ZxNVJIalRYOW1oVFM2UDZQNGpxTV9aTG9CSnc4V0JqNmlHWE5ETjR0UlpTc0lLcmE3eXZMQWtvb1MwcmNfQ3RnbV9wQmNGS2dQMTZmTDZmbW41ZU80UGhwNnZoODRnWl9yb3BOOUNMc1dtRHQ4aEpIWm5jVFFDQTd1dHQ1SVhP0gG8AkFVX3lxTE01MnZ6ZGkwYmMzM1Z1RnFpWGdjdHA3VWRvQURhMkRDNE1WeGVpTGs0cFFwZURQUzcyeTZMQVZ4NjlHZmZkaXlFMjg1OTN3YW1DTFQyajRPYXpFZ1N1ODZvTE00Z2NseHBrd1Z5cXBNb21mRDFoSUF5cEljSFA5b2R0LTBUS1FSemRQNEFUZlgtVVAzUzBTMEJadmh1aXBCTUtDdWk5ODVjVFpuaVVHOVBKTVlHZE1IaHRVdE9jZnE1UkhqVFg5bWhUUzZQNlA0anFNX1pMb0JKdzhXQmo2aUdYTkRONHRSWlNzSUtyYTd5dkxBa29vUzByY19DdGdtX3BCY0ZLZ1AxNmZMNmZtbjVlTzRQaHA2dmg4NGdaX3JvcE45Q0xzV21EdDhoSkhabmNUUUNBN3V0dDVJWE8?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-08T03:31:00.000Z",
-          "score": 1,
+          "title": "why isn't there a youtube channel dedicated to telling the story of the international?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrg227/why_isnt_there_a_youtube_channel_dedicated_to/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T02:29:53.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "the international"
+          ]
         },
         {
           "title": "High immortal In lan tournament",
@@ -333,6 +319,23 @@
       ]
     },
     {
+      "scene": "Classic Tetris",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xrg688/removed_by_reddit/",
+          "source": "r/Tetris",
+          "published": "2026-11-09T02:35:40.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 2,
       "stories": [
@@ -376,7 +379,6 @@
   ],
   "quiet": [
     "AoE2",
-    "Classic Tetris",
     "Trackmania",
     "Warcraft III",
     "Street Fighter",
