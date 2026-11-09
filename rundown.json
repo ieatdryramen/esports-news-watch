@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T14:00:31.613Z",
+  "generatedAt": "2026-11-09T15:00:26.881Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "BLAST Eyes $2 Million Deal to Bring CS2 Major to Las Vegas",
@@ -75,19 +75,6 @@
           ]
         },
         {
-          "title": "PGL Major Singapore 2026: Schedule, All 32 Teams, Format & Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXI1VGRpUExfUXVrWkFyQk1oYWFQaDdheVhqemZobEhSTkhIT1ZBX3NBN0dwSVZFODF6amprN0g5LU05clpiR29SNVg0T1dfVVpfVnFpNEJtNUwtZ1NRazEySkJvY3RwTDlacFBYRmloNkZsaGZlVjE0cHV0b0ctb0Q1c05mY1RjQktUUk80a21PbUpPNVlOc1ptOA?oc=5",
-          "source": "Google News: CS2 (Chase Your Sport)",
-          "published": "2026-11-09T09:29:27.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "prize pool",
-            "pgl",
-            "-schedule"
-          ]
-        },
-        {
           "title": "PGL Major Singapore 2026 - Stage 1, 2, and 3 teams.",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrlz0d/pgl_major_singapore_2026_stage_1_2_and_3_teams/",
           "source": "r/GlobalOffensive",
@@ -135,17 +122,13 @@
           ]
         },
         {
-          "title": "dota2 legend BurNIng has announced he will stream dota1 instead",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrkfh0/dota2_legend_burning_has_announced_he_will_stream/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T06:26:59.000Z",
-          "score": 1.5,
+          "title": "Dendi Speaks Out About a Serious Problem in Professional Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zcmp3c0RtZXU2NGhCT1A5NmY5bG4xeU42bU8xUXdqUzkxSlZDeGh4ZnVwdUc2ZF9Qb25Rc2NDNFV5MkRzOVBsVlUxYUNBOE9JS1JwREdaZGRSTWdXaktrVm5mT01JQ1lfSWFNUFFwV2l4SDViaFhfUVJiQWo?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-09T14:30:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "update*",
-            "announced",
-            "-stream"
-          ]
+          "why": []
         },
         {
           "title": "7.42 Patch",
@@ -206,6 +189,21 @@
       ]
     },
     {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "New mod turns Super Smash Bros. Melee into a three-dimensional brawler",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ROC1meEpFeXFtbjJnNGxNU0tGWnJIamlKdVJOWGk5UF9YZi1BTTRnM0E3RjFiVXI1ZndKRDk5V0RTMDBsWWRmLWtLakY5QUJnZ003cTlYMDVObWJENTI1N2RWRzkxWUtSSklsYTFWRTc?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-09T14:06:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -237,7 +235,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Classic Tetris",
     "Warcraft III",
