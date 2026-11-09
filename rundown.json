@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-09T21:50:22.157Z",
+  "generatedAt": "2026-11-09T22:00:24.632Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 15,
       "stories": [
+        {
+          "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-09T12:32:41.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "wins",
+            "mouz",
+            "iem"
+          ]
+        },
         {
           "title": "PGL has officially confirmed the name changes of four participating teams at the CS2 Major Singapore 2026",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXzE5UDNIaWVDbFNQQWxsRGVGOHVNTVVJZ3JkRWZkTHF3YkdtY09DVXRKT0l3bDRtMzNOWmdqZnlPcGlfRkdPR1hqNTdTSGo4bUtNbUVFVkRfMmFDSHE4T2x3d2Y0MmVRSjhsZVVlT2s4VGVFSWNQem1xdUZpR015WktUVTh3VHoxU2s1LThNZk5CVHZidkJ1VWpwX3lLRml5cE1wWkZKYzZ5TmU2YW12djhlTkpROU9uSzNIckZMR3NjN2FJMUVFUUhiMHBzQzItNlRF0gHbAUFVX3lxTE1PbGotSlRjdm0temxTSEpDc09ONEN4UHBFLXY0Z0QxTGNWWlBMeVRUTWtNZWhLUEhTVC0xTllJcE5BY1R4MnZzSThMeFFlNFlaak9JbUpVcEdJMS1jUFc1anRhVjBhaEttazZicUFGc2VzVVVIQTRIbGhrMVRWN0J2QXVrVEhKVkZnVUtRUUVtUlN3THFYaTNTWEtrdGpjbGQwelRrUmYzN05JQ3ZfWmRFRlk4eENCdUtXSFo5cTR2T2o4VDFIeUNFclBuamFWc0JteU9VaHk5N3JwYw?oc=5",
@@ -79,9 +92,9 @@
         },
         {
           "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/",
-          "source": "esports.gg",
-          "published": "2026-11-09T12:52:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-09T13:57:42.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -126,15 +139,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzRTOHFxdTNEdC05QzF5LUFCLVE1R0x4VjZfbGpKUkF5TFI2WlRUSUtPNlNwYm5BQ1AyQTFCR3R0X3A0V1F0M1ZmdmpxQkxrM1RHUXBpT25OUFpEUXJFZXFxZU1aZU1nU2dBRW5hdzJOQ0g2Q2JIazU5anJaMW5pX3N2X210ZnZNcjJscTFrenpkNzRpSUt6ZWZySlhtMXhqeXM3MU5QcWNJdw?oc=5",
           "source": "Google News: CS2 (Legal Sports Betting)",
           "published": "2026-11-09T16:32:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 44",
-          "url": "https://www.hltv.org/news/45949/short-news-week-44",
-          "source": "HLTV news",
-          "published": "2026-11-09T13:41:00.000Z",
           "score": 1,
           "level": null,
           "why": []
