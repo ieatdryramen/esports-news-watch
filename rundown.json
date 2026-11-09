@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T19:00:24.084Z",
+  "generatedAt": "2026-11-09T19:59:39.542Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
@@ -68,6 +68,17 @@
           ]
         },
         {
+          "title": "Las Vegas LVCVA Weighs $2M BLAST Esports Deal for 2028",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnBSeklJc2pWYUVCMXd2RV9DYi1YNnZyb0lodms3VkdVa3U3U1Q3UTN2QnNsUnlScDdfYlh5emhQdEVwSjVuTVZyazhXUEFuYl9PenZ2QW85ZnZLSG0tTEE4Q2dQMHZOTlBjSDdTNXJxMDNzS0dodVIzREl2aUE1WklSWlBjR2xQblJvN3YwWDNMYVlIMi1tOS1OUDVsTFkxeGlGNlVB?oc=5",
+          "source": "Google News: CS2 (Hoodline)",
+          "published": "2026-11-09T19:42:16.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
           "title": "MOUZ claim No.1 in world rankings after Beijing title",
           "url": "https://www.hltv.org/news/45952/mouz-claim-no1-in-world-rankings-after-beijing-title",
           "source": "HLTV news",
@@ -87,28 +98,6 @@
           "level": null,
           "why": [
             "blast"
-          ]
-        },
-        {
-          "title": "LVCVA moves to bring BLAST’s Counter-Strike Major to Las Vegas in 2028 with $2M deal",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12SHBOUEFWN1dEbXJtaUdwN1VJWmtnNmxROVFNa281dDdESFNuTXNibGc0UjR4SmFYZHVDQ05CenlaNUVwYTdNTmZfQnJiaWE3OTR4NXBaMnZWakhqSUg5MEpYcWdwWWtsVGRQS0hpaw?oc=5",
-          "source": "Google News: CS2 (Dot Esports)",
-          "published": "2026-11-09T12:49:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "PGL Confirms New Names for Four Teams in Singapore Major 2026",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LeXBBOFFkTUp0V2pfUDVwc1ZkWm1TOS1MY2pPWU1vVmFXQzFBY2hTZmx1b2VDMEVRcXVDN3FWUlVFbkQ4aExWcFBtQzgwbVJ1SUVTNm5IRnJKemNaVGR2aklYV1ZKa3JZbmxzR2JEWEl2aVIyazBvbg?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-09T11:52:20.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -143,13 +132,34 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Short news: Week 44",
+          "url": "https://www.hltv.org/news/45949/short-news-week-44",
+          "source": "HLTV news",
+          "published": "2026-11-09T13:41:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
+        {
+          "title": "Nice Cheat Grimstroke still lost :)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xs0m43/nice_cheat_grimstroke_still_lost/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T19:08:43.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "cheating*",
+            "cheat"
+          ]
+        },
         {
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
@@ -185,6 +195,17 @@
           ]
         },
         {
+          "title": "Where is the guy that feels something in his ass when there’s an update?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xs0gsx/where_is_the_guy_that_feels_something_in_his_ass/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T19:03:21.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "Dendi Speaks Out About a Serious Problem in Professional Dota 2",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zcmp3c0RtZXU2NGhCT1A5NmY5bG4xeU42bU8xUXdqUzkxSlZDeGh4ZnVwdUc2ZF9Qb25Rc2NDNFV5MkRzOVBsVlUxYUNBOE9JS1JwREdaZGRSTWdXaktrVm5mT01JQ1lfSWFNUFFwV2l4SDViaFhfUVJiQWo?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -194,15 +215,13 @@
           "why": []
         },
         {
-          "title": "7.42 Patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrq2z5/742_patch/",
+          "title": "Nerf blink, buff force staff",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xs1a6q/nerf_blink_buff_force_staff/",
           "source": "r/DotA2",
-          "published": "2026-11-09T12:11:43.000Z",
-          "score": 1,
+          "published": "2026-11-09T19:32:41.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "record*"
-          ]
+          "why": []
         },
         {
           "title": "Dark Carnival Event | Does anyone know what is music called or if there is something similar?",
@@ -231,6 +250,24 @@
           "level": null,
           "why": [
             "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Burn the Ships Announces Roster for LVT Pro League Finals - Descendant, Precision, Yakzn, Acid | Coach: Thug Nasty",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xs15fp/burn_the_ships_announces_roster_for_lvt_pro/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-09T19:27:50.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster",
+            "announces"
           ]
         }
       ]
@@ -285,6 +322,23 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Death Battle Season 8 Winners Lounge (ft. Heihachi) [Art Comm'd by me from Azraelaga on Fiverr]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xs1o81/death_battle_season_8_winners_lounge_ft_heihachi/",
+          "source": "r/Tekken",
+          "published": "2026-11-09T19:47:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -319,9 +373,7 @@
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
