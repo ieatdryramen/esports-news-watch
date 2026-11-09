@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T18:25:28.487Z",
+  "generatedAt": "2026-11-09T19:25:30.739Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Season 11: Release Date, Countdown & What to Expect",
@@ -27,6 +27,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Marvel Rivals: Hero Wish List",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJU01mOXZ0eU9pQ1I2QmVUbnNjT1R3WXVCRDktbkRqMjZpdGY4aGhBdzdlOG81SXBIQ08zc0ZkWjNZSy03bmhmWHJlc3JjLUZwVFd2QVZKR1ZhX082cjgwN1d4MTZCVy0xOUVRcTlB?oc=5",
+          "source": "Google News: Rivals rosters (GameSpot)",
+          "published": "2026-11-09T19:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals’ newest hero tease seems to confirm new X-Men member, plus latest round of leaks",
