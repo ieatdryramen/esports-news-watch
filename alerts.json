@@ -282,26 +282,6 @@
       ],
       "summary": "The South American team will be without the Argentinian AWPer for the season-ending event.",
       "published": "2026-11-07T18:31:00.000Z"
-    },
-    {
-      "alertedAt": "2026-11-07T17:47:03.118Z",
-      "level": "breaking",
-      "scene": "CS2",
-      "title": "chopper announces retirement",
-      "url": "https://www.hltv.org/news/45925/chopper-announces-retirement",
-      "source": "HLTV news",
-      "outlets": [
-        "HLTV news",
-        "Reddit"
-      ],
-      "score": 7.5,
-      "why": [
-        "retirement",
-        "return*",
-        "announces"
-      ],
-      "summary": "The Russian in-game leader has made the decision not to return to activity as a player.",
-      "published": "2026-11-07T17:45:00.000Z"
     }
   ]
 }
