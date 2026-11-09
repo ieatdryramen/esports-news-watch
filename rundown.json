@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T03:50:25.213Z",
+  "generatedAt": "2026-11-09T04:50:17.845Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -261,7 +261,7 @@
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-09T03:04:28.000Z",
+          "published": "2026-11-09T03:45:00.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -340,6 +340,24 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Blaz vs Noah anchor match was insane! (Spoiler)",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xrig42/blaz_vs_noah_anchor_match_was_insane_spoiler/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-09T04:35:32.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "punk*",
+            "blaz"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
@@ -357,32 +375,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "SSBU Wars 2026 - Color Wars Finals",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xr8kd8/ssbu_wars_2026_color_wars_finals/",
-          "source": "r/SSBM",
-          "published": "2026-11-08T20:41:45.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        },
-        {
-          "title": "Congratulations to the winner of Melee Singles at Center Stage 2026!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xrbmtk/congratulations_to_the_winner_of_melee_singles_at/",
-          "source": "r/SSBM",
-          "published": "2026-11-08T22:56:19.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -396,14 +388,44 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Quake",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Kuachi Cups QC Duel Tourney looks forward to return for 2027",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xrhq4e/kuachi_cups_qc_duel_tourney_looks_forward_to/",
+          "source": "r/QuakeChampions",
+          "published": "2026-11-09T03:56:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "return"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Congratulations to the winner of Melee Singles at Center Stage 2026!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xrbmtk/congratulations_to_the_winner_of_melee_singles_at/",
+          "source": "r/SSBM",
+          "published": "2026-11-08T22:56:19.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "AoE2",
     "Trackmania",
-    "Street Fighter",
     "Legacy FGC",
-    "Quake",
     "Halo"
   ]
 }
