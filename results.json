@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T05:55:16.607Z",
+  "generatedAt": "2026-11-09T06:25:15.254Z",
   "source": "start.gg",
   "completed": [
     {
@@ -636,7 +636,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
       "event": "Melee Singles",
-      "entrants": 70,
+      "entrants": 71,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T00:00:00.000Z",
@@ -707,6 +707,32 @@
       "startAt": "2026-11-14T18:00:00.000Z",
       "endAt": "2026-11-16T04:30:00.000Z",
       "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/tekken-8"
+    },
+    {
+      "eventId": "1587277",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Port Priority: DX",
+      "event": "Melee Singles",
+      "entrants": 512,
+      "online": false,
+      "major": true,
+      "startAt": "2026-11-14T18:00:00.000Z",
+      "endAt": "2026-11-16T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-singles"
+    },
+    {
+      "eventId": "1616764",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Port Priority: DX",
+      "event": "Melee Doubles",
+      "entrants": 104,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T18:00:00.000Z",
+      "endAt": "2026-11-16T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-doubles-3"
     },
     {
       "eventId": "1608387",
