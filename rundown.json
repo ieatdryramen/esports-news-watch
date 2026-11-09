@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T00:00:27.424Z",
+  "generatedAt": "2026-11-09T01:00:27.475Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CoD",
-      "storyCount": 13,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Cloud9 has casually eliminated LAT, Falcons, FaZe and OpTic",
@@ -59,6 +59,17 @@
           ]
         },
         {
+          "title": "CleanX finally get rid of dead weight Insight and instanly wins a \"chip\"",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8e4/cleanx_finally_get_rid_of_dead_weight_insight_and/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T00:58:38.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
           "title": "Karma 2 days before getting knocked out by C9",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7jfk/karma_2_days_before_getting_knocked_out_by_c9/",
           "source": "r/CoDCompetitive",
@@ -67,6 +78,28 @@
           "level": null,
           "why": [
             "knocked out"
+          ]
+        },
+        {
+          "title": "Post Match Thread: Paris Gentlemates vs. Toronto KOI | Monster Invitational - Grand Finals | @GGBreakingPoint",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8ue/post_match_thread_paris_gentlemates_vs_toronto/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T00:59:16.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand finals"
+          ]
+        },
+        {
+          "title": "M8’s and Joe are both overrated. Won nothing so far",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre7nd/m8s_and_joe_are_both_overrated_won_nothing_so_far/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T00:57:32.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
           ]
         },
         {
@@ -111,39 +144,6 @@
           "level": null,
           "why": [
             "optic texas"
-          ]
-        },
-        {
-          "title": "Should Faze and Optic blow it up",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7bae/should_faze_and_optic_blow_it_up/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T19:49:37.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Cloud9 just beat OpTic! Unbelievable!",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7ame/cloud9_just_beat_optic_unbelievable/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T19:48:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cloud9"
-          ]
-        },
-        {
-          "title": "Fun fact: 04 and JoeDeceives are the youngest sub duo in the league",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbqw0/fun_fact_04_and_joedeceives_are_the_youngest_sub/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-08T23:01:09.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "the last*"
           ]
         }
       ]
@@ -190,19 +190,6 @@
           ]
         },
         {
-          "title": "m0NESY cries during the interview",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xr5dr8/m0nesy_cries_during_the_interview/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-08T18:30:58.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "m0nesy",
-            "g2*",
-            "cologne major*"
-          ]
-        },
-        {
           "title": "EYEBALLERS bench dex",
           "url": "https://www.hltv.org/news/45944/eyeballers-bench-dex",
           "source": "HLTV news",
@@ -236,6 +223,15 @@
           ]
         },
         {
+          "title": "6yuBoJlbl CS2 (6BJ) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RdzUzblFmdTNkRllDUGVXWjdFLVJSc0YxMlBpY1kzSVF3YjFuQVVmTk5jU0dqZUR6Tk54VjJlbmlWUlluYkdrRlp5cw?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-08T22:21:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Short news: Week 43",
           "url": "https://www.hltv.org/news/45887/short-news-week-43",
           "source": "HLTV news",
@@ -266,7 +262,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Really Tired of Smurfing (Cheating) in this Game",
@@ -280,22 +276,10 @@
           ]
         },
         {
-          "title": "Gaimin Gladiators is rumored to sign the Astra Invicta Dota 2 roster",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xr5m36/gaimin_gladiators_is_rumored_to_sign_the_astra/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T18:40:39.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "roster",
-            "gaimin gladiators"
-          ]
-        },
-        {
-          "title": "TORONTOTOKYO Reflected on the Future of His Career in the Dota 2 Pro Scene",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemZiMmYxNzJraFdvV284bUpjQ2QzTlRmZmhTVDhkMFBFMXV4Z2FzVWRmWkd4Uzh3VGxBdzNmbkY1aFFXSnV0NlRZN3hFRnEwaVpVbTlhUVpzSlJGeWNPa1puMmEzN2MtRVNhSnM1bEdBZGhGc2dYSHp4UUdZc3M1Q1RxYw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-08T15:12:00.000Z",
+          "title": "NAVI secured a spot at M8, The UESF Ukrainian Championship 2026 Stage 5 in Dota 2 Kicks Off, The MongolZ and MOUZ will play in the IEM Beijing 2026 final — News Digest for November 7",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNTJ2emRpMGJjMzNWdUZxaVhnY3RwN1Vkb0FEYTJEQzRNVnhlaUxrNHBRcGVEUFM3Mnk2TEFWeDY5R2ZmZGl5RTI4NTkzd2FtQ0xUMmo0T2F6RWdTdTg2b0xNNGdjbHhwa3dWeXFwTW9tZkQxaElBeXBJY0hQOW9kdC0wVEtRUnpkUDRBVGZYLVVQM1MwUzBCWnZodWlwQk1LQ3VpOTg1Y1RabmlVRzlQSk1ZR2RNSGh0VXRPY2ZxNVJIalRYOW1oVFM2UDZQNGpxTV9aTG9CSnc4V0JqNmlHWE5ETjR0UlpTc0lLcmE3eXZMQWtvb1MwcmNfQ3RnbV9wQmNGS2dQMTZmTDZmbW41ZU80UGhwNnZoODRnWl9yb3BOOUNMc1dtRHQ4aEpIWm5jVFFDQTd1dHQ1SVhP0gG8AkFVX3lxTE01MnZ6ZGkwYmMzM1Z1RnFpWGdjdHA3VWRvQURhMkRDNE1WeGVpTGs0cFFwZURQUzcyeTZMQVZ4NjlHZmZkaXlFMjg1OTN3YW1DTFQyajRPYXpFZ1N1ODZvTE00Z2NseHBrd1Z5cXBNb21mRDFoSUF5cEljSFA5b2R0LTBUS1FSemRQNEFUZlgtVVAzUzBTMEJadmh1aXBCTUtDdWk5ODVjVFpuaVVHOVBKTVlHZE1IaHRVdE9jZnE1UkhqVFg5bWhUUzZQNlA0anFNX1pMb0JKdzhXQmo2aUdYTkRONHRSWlNzSUtyYTd5dkxBa29vUzByY19DdGdtX3BCY0ZLZ1AxNmZMNmZtbjVlTzRQaHA2dmg4NGdaX3JvcE45Q0xzV21EdDhoSkhabmNUUUNBN3V0dDVJWE8?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-08T03:31:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -396,10 +380,10 @@
       "storyCount": 1,
       "stories": [
         {
-          "title": "Classic StarCraft with Brood War expansion ported to Android — unofficial version supports local multiplayer",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYm1LRzc5ekJ0NlVxT0k1MzU4RFIxczkzMVNTNHhkTU5tRW9HUkZ5LWtKTk9HV01HSFpRV05DLTZlNjZOeGFrdllYM1lBZVA2aTRBUy1iam1RSDk4akltUDNQRDkzSU52RmtjZjJudTdqMDE0V1IySUNzLUpDYUZoTXVkYUNZbGg4S0dVS2dEYkZQME9hOS1SNTczOWVkandGVVNOTWFaZ2xuQXVJZC1SZC1Ga0F6T0RzMWFUc1VVd19OWndJb0xoMF9ZQmh3ZE5wMlV1NGp5RDQ4SGltY2JtMERsZ3pKVDd4eXpFVzJvd2NsazNlOTFmOFRKWEtkbknSAf8BQVVfeXFMTWJtS0c3OXpCdDZVcU9JNTM1OERSMXM5MzFTUzR4ZE1ObUVvR1JGeS1rSk5PR1dNR0haUVdOQy02ZTY2Tnhha3ZZWDNZQWVQNmk0QVMtYmptUUg5OGpJbVAzUEQ5M0lOdkZrY2YybnU3ajAxNFdSMklDcy1KQ2FGaE11ZGFDWWxoOEtHVUtnRGJGUDBPYTktUjU3MzllZGp3RlVTTk1hWmdsbkF1SWQtUmQtRmtBek9EczFhVHNVVXdfTlp3SW9MaDBfWUJod2ROcDJVdTRqeUQ0OEhpbWNibTBEbGd6SlQ3eHl6RVcyb3djbGszZTkxZjhUSlhLZG5J?oc=5",
-          "source": "Google News: Brood War (iXBT.games)",
-          "published": "2026-11-08T12:30:00.000Z",
+          "title": "Classic StarCraft and Brood War Ported to Android in Unofficial Version With Local Multiplayer",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEZ6Mk1SdE83eXIxWHkwVnVteU9Tb0I2SXpnWkJpU2ZaYUlhUFpDSXZYSDRaOVpZMTJLSjBXN21ONmhLdnFyTGI0ckpHNjlDaU91ZFVyNThvU1B6MXllejdISmZIakJvWXkwOXRCOGpZTVN5S1llWVRsQ0JEYjhwQXFRYjBLMVBjdEwyZVIyUFBfVlY2RTJXOFhvUDZpWVhTazZqbUpHcGRUd2pxSUhqMHg3QlRUQ0prN2dYVg?oc=5",
+          "source": "Google News: Brood War (se7en.ws)",
+          "published": "2026-11-08T16:44:39.000Z",
           "score": 1,
           "level": null,
           "why": []
