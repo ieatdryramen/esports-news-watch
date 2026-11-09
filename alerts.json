@@ -62,19 +62,21 @@
     },
     {
       "alertedAt": "2026-11-09T09:50:19.595Z",
-      "level": "possible",
+      "level": "breaking",
       "scene": "CS2",
       "title": "PGL announces name changes for four teams at Singapore Major",
       "url": "https://www.hltv.org/news/45947/pgl-announces-name-changes-for-four-teams-at-singapore-major",
       "source": "HLTV news",
       "outlets": [
         "HLTV news",
-        "Reddit"
+        "Reddit",
+        "Players"
       ],
       "score": 5,
       "why": [
         "announces",
-        "pgl"
+        "pgl",
+        "3 outlets"
       ],
       "summary": "BC.Game and BetBoom are among the teams that will have to play under different names in Singapore.",
       "published": "2026-11-09T09:48:00.000Z"
