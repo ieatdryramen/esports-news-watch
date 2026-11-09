@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-09T18:00:33.267Z",
+  "generatedAt": "2026-11-09T19:00:24.084Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
-          "title": "IEM Beijing 2026 viewership: MOUZ wins, audience lags",
+          "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-09T12:32:34.000Z",
+          "published": "2026-11-09T12:32:41.000Z",
           "score": 8,
           "level": "breaking",
           "why": [
@@ -65,6 +65,17 @@
           "why": [
             "mouz*",
             "iem"
+          ]
+        },
+        {
+          "title": "MOUZ claim No.1 in world rankings after Beijing title",
+          "url": "https://www.hltv.org/news/45952/mouz-claim-no1-in-world-rankings-after-beijing-title",
+          "source": "HLTV news",
+          "published": "2026-11-09T18:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mouz"
           ]
         },
         {
@@ -132,21 +143,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Short news: Week 44",
-          "url": "https://www.hltv.org/news/45949/short-news-week-44",
-          "source": "HLTV news",
-          "published": "2026-11-09T13:41:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
@@ -158,6 +160,17 @@
           "why": [
             "return",
             "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "Panto has terminated his contract with Team Spirit",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrzofq/panto_has_terminated_his_contract_with_team_spirit/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T18:34:12.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "team spirit"
           ]
         },
         {
@@ -223,25 +236,8 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Can someone please explain to me how this isnt enough proof to ban a player?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xrqoa5/can_someone_please_explain_to_me_how_this_isnt/",
-          "source": "r/Tekken",
-          "published": "2026-11-09T12:41:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Hecz addresses Scump's continued Absence",
@@ -252,17 +248,6 @@
           "level": null,
           "why": [
             "scump"
-          ]
-        },
-        {
-          "title": "FaZe/Optic fans rn",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xroodx/fazeoptic_fans_rn/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T10:52:33.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
           ]
         }
       ]
@@ -334,6 +319,7 @@
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
+    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
