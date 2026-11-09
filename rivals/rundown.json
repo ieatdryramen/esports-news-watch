@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-09T17:25:34.170Z",
+  "generatedAt": "2026-11-09T18:25:28.487Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Marvel Rivals Season 11: Release Date, Countdown & What to Expect",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkw3SGkxZVVrNktMOU1kVXk2MzNHWkZsZV84NVFieGk0bkpkQzhsVXo5TVNIMzAwRTBzVWVNaWZhLVFoRVEtNUREMUdyb0xTdmxEUUQ0ZVlQOEdQdFlnY3BJb0FqQzJLUnpuU0x2UDlwS1NzMGFBYS1RMEt3S0Z4cA?oc=5",
-          "source": "Google News: Rivals patches (FandomWire)",
-          "published": "2026-11-09T16:38:26.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xOW50YkVwRUd5NEJROVRyRVd4aE9zbl9sRU9JSmppbUt1XzNRZVVteXBjRGVJS3huc3R0dDRNeDM2VGkydHI1RHJfbjNyaU9xY3NoWUNWX1BPbUdGbFJZeERKeTdRX00?oc=5",
+          "source": "Google News: Rivals patches (IMDb)",
+          "published": "2026-11-09T17:26:15.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -27,6 +27,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Marvel Rivals’ newest hero tease seems to confirm new X-Men member, plus latest round of leaks",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXdZQjE2dmVIWFFhSmRERUpLazZWTm9SSzFURTNYY0xjQlBNUHNXQi1OQ2piMWd1Wlltdkxsc1Y4eVBINEg3N1FDVERkcUNXdU9pWEJ3OTZadE03Z0tJYUQzZzJ1WEJIV2JsWktwYWdFR2h6UHpQQV9yZWNCYjdwTzRsUGJqaFJkLXJqb05R?oc=5",
+          "source": "Google News: Rivals rosters (Yahoo Tech)",
+          "published": "2026-11-09T17:33:29.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals Rumor Puts Spider-Gwen and Green Goblin in Seasons 13 and 13.5",
