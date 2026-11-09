@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:00:27.475Z",
+  "generatedAt": "2026-11-09T01:55:48.774Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -92,17 +92,6 @@
           ]
         },
         {
-          "title": "M8’s and Joe are both overrated. Won nothing so far",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre7nd/m8s_and_joe_are_both_overrated_won_nothing_so_far/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T00:57:32.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
           "title": "Insight in the back of the map while Lurqxx and Pred are absolutely fighting for their life",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrbkw2/insight_in_the_back_of_the_map_while_lurqxx_and/",
           "source": "r/CoDCompetitive",
@@ -144,6 +133,17 @@
           "level": null,
           "why": [
             "optic texas"
+          ]
+        },
+        {
+          "title": "Should Faze and Optic blow it up",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xr7bae/should_faze_and_optic_blow_it_up/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-08T19:49:37.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
           ]
         }
       ]
@@ -333,23 +333,6 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Bought Street Fighter V champion edition but none of the like dlc characters are there is there a way to fix this?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xr77hy/bought_street_fighter_v_champion_edition_but_none/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-08T19:45:23.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champion"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 2,
       "stories": [
@@ -396,6 +379,7 @@
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
