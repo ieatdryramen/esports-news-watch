@@ -1,22 +1,31 @@
 {
-  "generatedAt": "2026-11-09T10:25:28.077Z",
+  "generatedAt": "2026-11-09T11:25:33.634Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Marvel Rivals Nightcrawler Leak Points to Strategist Role in Season 11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnNvR3ZJSlQ0cmp0VmdpQVQyTnE4dmEwNFBVNG9rZll1ZHdaUGhUT3o5U1luTEE1aFJQSzl3V1dXRGVNeHN3UjRlQlhWMUtyYXcyQjdiMlJPVFh5dVVkQjJPWlZJclBPQlM5RTgxdnpDMlp5X1UwbTFoZTIzWHB4ZHlqTG5uVjhRLS00?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-08T10:54:38.000Z",
+          "title": "MRC Season 8: Sins Of Alchemax - Pacific PC",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM3BnYjdQWDgzamFrU2VmMzNBdnNNVl92RFBiZG5UbjhaT1JCZmNWTnRqb0t3cjR2RFJOdGVncGNoa25xVzNFVTRtRXRuWjRMT0RtUkF4WTNyVjZKUHBmdXd6UkxFTnJIaWJlaVBUQkZrdEJxQVRxOTg4UlBxeFpBR212b1lkM2dROFE?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-09T08:49:18.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "leak",
-            "season"
+            "season",
+            "mrc"
           ]
+        },
+        {
+          "title": "Marvel Rivals Rumor Puts Spider-Gwen and Green Goblin in Seasons 13 and 13.5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTBMWUpaSk10bmRlSkRISlk2X3k1SzJiX3JLVU5VQ1MyaWlkTUt4S09YY2p1dWhLMHBhVmN1SzdDUUZQRUgzTXFwNm9zSkVOTkkzWVNkYm9OUmRncDgxVExDUHJ1NkhpMm04RkFDTEJpdllYQ0liaXU2RUpWLURIM2tGWEdjb2dpQ0lBR0p3?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-09T11:17:10.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
