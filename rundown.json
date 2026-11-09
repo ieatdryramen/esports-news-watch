@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T07:50:18.701Z",
+  "generatedAt": "2026-11-09T08:45:27.226Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 9,
       "stories": [
         {
           "title": "MOUZ vs 9z / PGL Masters Bucharest 2026 - Swiss Round 2 (Teams With A 0-1 Record) / Post-Match Discussion",
@@ -32,18 +32,6 @@
           "why": [
             "grand final",
             "mouz*",
-            "iem"
-          ]
-        },
-        {
-          "title": "MOUZ Defeats MongolZ to Win IEM Beijing 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdF96dWxVXzJFaWpKcmR2M0lsTkgwTjczbXVmMDl3UVVTWGVNcTdPN18yQ05YT0hTUGJsVllTMmczaWQ1M1JtX2IwYW91X2Jyc1FRVXFsMjRnUnZQb1FWNlJEeG5mNWxoMG9kTmkxUzhxWjBva2xPQWU0SjFDcGowUnRBUkhLcTgx?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-08T11:24:58.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
             "iem"
           ]
         },
@@ -82,24 +70,15 @@
           ]
         },
         {
-          "title": "PGL Singapore Major Stage 1 opening matchups",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrg8wn/pgl_singapore_major_stage_1_opening_matchups/",
+          "title": "PGL Major Singapore 2026 - Stage 1, 2, and 3 teams.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrlz0d/pgl_major_singapore_2026_stage_1_2_and_3_teams/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-09T02:39:30.000Z",
+          "published": "2026-11-09T08:02:41.000Z",
           "score": 2,
           "level": null,
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "6yuBoJlbl CS2 (6BJ) Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RdzUzblFmdTNkRllDUGVXWjdFLVJSc0YxMlBpY1kzSVF3YjFuQVVmTk5jU0dqZUR6Tk54VjJlbmlWUlluYkdrRlp5cw?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-08T22:21:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Short news: Week 43",
@@ -152,20 +131,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-09T03:45:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
-        },
         {
           "title": "The mald speaker icon needs to make a comeback",
           "url": "https://www.reddit.com/r/DotA2/comments/1xrird6/the_mald_speaker_icon_needs_to_make_a_comeback/",
@@ -200,26 +167,6 @@
             "announced",
             "-stream"
           ]
-        },
-        {
-          "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlhhUFRmYmtwMXZRTmxhVFd1a3ozTFlLNDhQV1Z5YVNCSFI1S2x6SEk3dVVRaTJfdTBIZ1NCQjJMVk9oSXFUbHA4c0E0bThtWWJ0ZFVIZUFvUktJOTJRZmY3TDFNNS1TUnVZOWRySVRjeHRsVlhGN2VXWFcyUC1YVk9OeGFtSjRmc2Y1amhhTTdvaW9aQjJYS1JOUk1FX0steWJ4RFl6X0k?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-09T01:15:26.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "High immortal In lan tournament",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrc3m3/high_immortal_in_lan_tournament/",
-          "source": "r/DotA2",
-          "published": "2026-11-08T23:17:38.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -315,21 +262,6 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Classic StarCraft and Brood War Ported to Android in Unofficial Version With Local Multiplayer",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEZ6Mk1SdE83eXIxWHkwVnVteU9Tb0I2SXpnWkJpU2ZaYUlhUFpDSXZYSDRaOVpZMTJLSjBXN21ONmhLdnFyTGI0ckpHNjlDaU91ZFVyNThvU1B6MXllejdISmZIakJvWXkwOXRCOGpZTVN5S1llWVRsQ0JEYjhwQXFRYjBLMVBjdEwyZVIyUFBfVlY2RTJXOFhvUDZpWVhTazZqbUpHcGRUd2pxSUhqMHg3QlRUQ0prN2dYVg?oc=5",
-          "source": "Google News: Brood War (se7en.ws)",
-          "published": "2026-11-08T16:44:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Quake",
       "storyCount": 1,
       "stories": [
@@ -350,6 +282,7 @@
   "quiet": [
     "Melee",
     "Classic Tetris",
+    "Brood War",
     "Trackmania",
     "Legacy FGC",
     "Halo"
