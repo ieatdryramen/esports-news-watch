@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-09T09:50:19.595Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "PGL announces name changes for four teams at Singapore Major",
+      "url": "https://www.hltv.org/news/45947/pgl-announces-name-changes-for-four-teams-at-singapore-major",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 5,
+      "why": [
+        "announces",
+        "pgl"
+      ],
+      "summary": "BC.Game and BetBoom are among the teams that will have to play under different names in Singapore.",
+      "published": "2026-11-09T09:48:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-09T05:50:18.888Z",
       "level": "possible",
       "scene": "CS2",
@@ -283,27 +301,6 @@
       ],
       "summary": "MOUZ 🇪🇺 2-0 🇷🇺 BB Team Ancient: 13-7 Mirage: 13-8 Nuke 🇪🇺 MOUZ advance to Upper Final and will face 🇷🇺 VISION Predicted VRS Impact Team Rank Diff Total 🇪🇺 MOUZ #1 → #1 +17 pts 1991 pts 🇷🇺 BB #4 → #4 -11 pts 1871 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information IEM Beijing 2026 | 🇨🇳 Beijing ($1.25m LAN) | Liquipedia | HLTV Streams | YouTube | Twitch A | Twitch B Team Information 🇪🇺 MOUZ | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | Weibo | YouTube | Twitch | Steam | Reddit Roster : 🇭🇺 torzsi ⊕ | 🇮🇱 xertioN ♛ | 🇮🇱 Spinx | 🇭🇺 xelex | 🇨🇿 PR Coach : 🇩🇰 sycrone 🇷🇺 BB Team | Liquipedia | HLTV | Faceit | YouTube Roster : 🇷🇺 s1ren | 🇷🇺 zorte ⊕ | 🇷🇺 Magnojez | 🇷🇺 Boombl4 ♛ | 🇷🇺 d1Ledez Coach : 🇷🇺 Fierce Subs/Benched : 🇷🇺 ArtFr0st Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Full Match Stats Team K-D ADR Swing Rating 🇪🇺 MOUZ 1.25 🇮🇱 xertioN ♛ 40-20 111.0 +4.93% 1.67 🇨🇿 PR 35-20 90.5 +3.35% 1.43 🇭🇺 torzsi ⊕ 30-18 63.9 +2.27% 1.15 🇭🇺 xelex 22-23 73.1 -0.85% 1.07 🇮🇱 Spinx 23-23 61.4 -0.95% 0.91 🇷🇺 BB 0.81 🇷🇺 S1ren 30-28 80.0 +1.50% 1.11 🇷🇺 Magnojez 17-28 58.6 +0.12% 0.84 🇷🇺 Boombl4 ♛ 22-33 65.1 -1.62% 0.81 🇷🇺 zorte ⊕ 17-27 45.5 -2.36% 0.72 🇷🇺 d1Ledez 18-34 56.1 -6.40% 0.59 HLTV Match Page MAP 1: Ancient Team CT T T",
       "published": "2026-11-07T11:37:44.000Z"
-    },
-    {
-      "alertedAt": "2026-11-07T09:50:17.821Z",
-      "level": "possible",
-      "scene": "Warcraft III",
-      "title": "W3Champions statement: the fee for three Happy show matches, the 10% claims, and how our event policy works",
-      "url": "https://www.reddit.com/r/WC3/comments/1xq2mh3/w3champions_statement_the_fee_for_three_happy/",
-      "source": "r/WC3",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 6.5,
-      "why": [
-        "statement",
-        "prize pool*",
-        "happy",
-        "colorful*",
-        "w3champions"
-      ],
-      "summary": "I'm Faro, and I lead W3Champions (W3C). Over the past few weeks, WeChat articles by the account Somnambulism (魔坛节奏局), a Baidu Tieba thread and remarks on stream have alleged that W3C: takes a cut of Happy's prize money; charges tournaments a 10% fee; cuts off matches when organisers don't pay; has misled people about all of this. This post sets out what actually happened, with the evidence, and corrects the one thing I got wrong. TL;DR W3C has never taken any part of Happy's prize money. Happy confirms this in his own statement below. W3C has never proposed or agreed a 10% fee for any tournament. The claim that we wanted 10% of the prize pool of ColorFul's tournament is false. W3C received ¥1,500 for three two-player Happy show matches on 18–19 October 2026, paid on top of the prizes. We don't pick a percentage. The fee was worked out from the circumstances and our costs (details below), and here it came to 10% of the prize money. Why we charge large events at all: running W3C has substantial costs. As a not-for-profit, we needed revenue beyond donations to cover them, and asking large commercial events to contribute is a fair way to do that. We have interrupted only one event match, after the organiser had been told it needed an agreement. The claim that we keep cutting off matches is baseless. One correction: I said W3C had not received money from Fly. One of the three matches was organised by Fly, which was not disclosed to us. I apologise to Fly. Our fees cover costs; the",
-      "published": "2026-11-07T09:45:13.000Z"
     }
   ]
 }
