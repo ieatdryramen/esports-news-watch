@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-11-09T08:45:27.226Z",
+  "generatedAt": "2026-11-09T09:45:17.928Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
-        {
-          "title": "MOUZ vs 9z / PGL Masters Bucharest 2026 - Swiss Round 2 (Teams With A 0-1 Record) / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrjpv3/mouz_vs_9z_pgl_masters_bucharest_2026_swiss_round/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-09T05:45:40.000Z",
-          "score": 9.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "record",
-            "official*",
-            "mouz",
-            "pgl"
-          ]
-        },
         {
           "title": "IEM Beijing grand final as it happened",
           "url": "https://www.hltv.org/news/45941/iem-beijing-grand-final-as-it-happened",
@@ -32,6 +16,18 @@
           "why": [
             "grand final",
             "mouz*",
+            "iem"
+          ]
+        },
+        {
+          "title": "MOUZ Defeats MongolZ to Win IEM Beijing 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdF96dWxVXzJFaWpKcmR2M0lsTkgwTjczbXVmMDl3UVVTWGVNcTdPN18yQ05YT0hTUGJsVllTMmczaWQ1M1JtX2IwYW91X2Jyc1FRVXFsMjRnUnZQb1FWNlJEeG5mNWxoMG9kTmkxUzhxWjBva2xPQWU0SjFDcGowUnRBUkhLcTgx?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-08T11:24:58.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz",
             "iem"
           ]
         },
@@ -79,6 +75,15 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "6yuBoJlbl CS2 (6BJ) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RdzUzblFmdTNkRllDUGVXWjdFLVJSc0YxMlBpY1kzSVF3YjFuQVVmTk5jU0dqZUR6Tk54VjJlbmlWUlluYkdrRlp5cw?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-08T22:21:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Short news: Week 43",
@@ -131,8 +136,20 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
+        {
+          "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-09T03:45:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "gaimin gladiators"
+          ]
+        },
         {
           "title": "The mald speaker icon needs to make a comeback",
           "url": "https://www.reddit.com/r/DotA2/comments/1xrird6/the_mald_speaker_icon_needs_to_make_a_comeback/",
@@ -167,44 +184,16 @@
             "announced",
             "-stream"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "CleanX finally get rid of dead weight Insight and instanly wins a \"chip\"",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8e4/cleanx_finally_get_rid_of_dead_weight_insight_and/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T00:58:38.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
         },
         {
-          "title": "Post Match Thread: Paris Gentlemates vs. Toronto KOI | Monster Invitational - Grand Finals | @GGBreakingPoint",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xre8ue/post_match_thread_paris_gentlemates_vs_toronto/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T00:59:16.000Z",
-          "score": 2,
+          "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlhhUFRmYmtwMXZRTmxhVFd1a3ozTFlLNDhQV1Z5YVNCSFI1S2x6SEk3dVVRaTJfdTBIZ1NCQjJMVk9oSXFUbHA4c0E0bThtWWJ0ZFVIZUFvUktJOTJRZmY3TDFNNS1TUnVZOWRySVRjeHRsVlhGN2VXWFcyUC1YVk9OeGFtSjRmc2Y1amhhTTdvaW9aQjJYS1JOUk1FX0steWJ4RFl6X0k?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-09T01:15:26.000Z",
+          "score": 0,
           "level": null,
           "why": [
-            "grand finals"
-          ]
-        },
-        {
-          "title": "Alright, now that the event is over, which team would you say surprised you the most?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrec72/alright_now_that_the_event_is_over_which_team/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T01:03:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "cloud9*"
+            "-stream"
           ]
         }
       ]
@@ -262,6 +251,21 @@
       ]
     },
     {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Classic StarCraft and Brood War Ported to Android in Unofficial Version With Local Multiplayer",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEZ6Mk1SdE83eXIxWHkwVnVteU9Tb0I2SXpnWkJpU2ZaYUlhUFpDSXZYSDRaOVpZMTJLSjBXN21ONmhLdnFyTGI0ckpHNjlDaU91ZFVyNThvU1B6MXllejdISmZIakJvWXkwOXRCOGpZTVN5S1llWVRsQ0JEYjhwQXFRYjBLMVBjdEwyZVIyUFBfVlY2RTJXOFhvUDZpWVhTazZqbUpHcGRUd2pxSUhqMHg3QlRUQ0prN2dYVg?oc=5",
+          "source": "Google News: Brood War (se7en.ws)",
+          "published": "2026-11-08T16:44:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Quake",
       "storyCount": 1,
       "stories": [
@@ -282,9 +286,9 @@
   "quiet": [
     "Melee",
     "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Legacy FGC",
+    "CoD",
     "Halo"
   ]
 }
