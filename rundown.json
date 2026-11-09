@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-09T10:40:20.819Z",
+  "generatedAt": "2026-11-09T11:40:21.893Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
-        {
-          "title": "IEM Beijing grand final as it happened",
-          "url": "https://www.hltv.org/news/45941/iem-beijing-grand-final-as-it-happened",
-          "source": "HLTV news",
-          "published": "2026-11-08T10:56:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "mouz*",
-            "iem"
-          ]
-        },
         {
           "title": "PGL announces name changes for four teams at Singapore Major",
           "url": "https://www.hltv.org/news/45947/pgl-announces-name-changes-for-four-teams-at-singapore-major",
@@ -29,18 +16,6 @@
           "why": [
             "announces",
             "pgl"
-          ]
-        },
-        {
-          "title": "MOUZ Defeats MongolZ to Win IEM Beijing 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdF96dWxVXzJFaWpKcmR2M0lsTkgwTjczbXVmMDl3UVVTWGVNcTdPN18yQ05YT0hTUGJsVllTMmczaWQ1M1JtX2IwYW91X2Jyc1FRVXFsMjRnUnZQb1FWNlJEeG5mNWxoMG9kTmkxUzhxWjBva2xPQWU0SjFDcGowUnRBUkhLcTgx?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-08T11:24:58.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
-            "iem"
           ]
         },
         {
@@ -55,14 +30,27 @@
           ]
         },
         {
-          "title": "xertioN secures first MVP at IEM Beijing",
-          "url": "https://www.hltv.org/news/45943/xertion-secures-first-mvp-at-iem-beijing",
+          "title": "PGL reveals Singapore Major rosters",
+          "url": "https://www.hltv.org/news/45950/pgl-reveals-singapore-major-rosters",
           "source": "HLTV news",
-          "published": "2026-11-08T10:52:00.000Z",
+          "published": "2026-11-09T11:34:00.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "iem"
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026: Schedule, All 32 Teams, Format & Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXI1VGRpUExfUXVrWkFyQk1oYWFQaDdheVhqemZobEhSTkhIT1ZBX3NBN0dwSVZFODF6amprN0g5LU05clpiR29SNVg0T1dfVVpfVnFpNEJtNUwtZ1NRazEySkJvY3RwTDlacFBYRmloNkZsaGZlVjE0cHV0b0ctb0Q1c05mY1RjQktUUk80a21PbUpPNVlOc1ptOA?oc=5",
+          "source": "Google News: CS2 (Chase Your Sport)",
+          "published": "2026-11-09T09:29:27.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "prize pool",
+            "pgl",
+            "-schedule"
           ]
         },
         {
@@ -127,7 +115,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
@@ -150,17 +138,6 @@
           "level": null,
           "why": [
             "comeback"
-          ]
-        },
-        {
-          "title": "why isn't there a youtube channel dedicated to telling the story of the international?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrg227/why_isnt_there_a_youtube_channel_dedicated_to/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T02:29:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "the international"
           ]
         },
         {
@@ -225,6 +202,23 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "FaZe/Optic fans rn",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xroodx/fazeoptic_fans_rn/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T10:52:33.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
       "storyCount": 1,
       "stories": [
@@ -279,7 +273,6 @@
     "Classic Tetris",
     "Trackmania",
     "Legacy FGC",
-    "CoD",
     "Halo"
   ]
 }
