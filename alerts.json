@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-09T21:40:21.477Z",
+      "level": "possible",
+      "scene": "Street Fighter",
+      "title": "Blaz insane comeback vs Noah, 3 perfect parry drush vs luke fb w/ no hp and driveguage.",
+      "url": "https://www.reddit.com/r/StreetFighter/comments/1xs4lo7/blaz_insane_comeback_vs_noah_3_perfect_parry/",
+      "source": "r/StreetFighter",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "comeback",
+        "blaz"
+      ],
+      "summary": "submitted by /u/121jigawatts to r/StreetFighter [link] [comments]",
+      "published": "2026-11-09T21:38:49.000Z"
+    },
+    {
       "alertedAt": "2026-11-09T19:10:18.489Z",
       "level": "possible",
       "scene": "Dota",
