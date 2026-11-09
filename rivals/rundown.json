@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T02:25:33.504Z",
+  "generatedAt": "2026-11-09T03:25:30.873Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - EMEA PC",
@@ -27,17 +27,6 @@
           "level": null,
           "why": [
             "leak",
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Ignite 2026: Mid Season Finals - MR - Schedule and Results",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVDZEVtTmhtVnNuV280Rkw4LTNseTNDc1JFZTV5eEhEN0haVFlGSVhPWmxJUTVWWVJ5b0Rtd2MyRUxaUk81SVJsLVhDWlhwSGZPLXlROWNtN3JPU3V2ZzVoU0tQLVpKMUxEUVRtZVQ3c3F4VHFWOXpUa3FybTg1NUpfbmVlNXdKbW54Ul9CanFIdw?oc=5",
-          "source": "Google News: Rivals esports (Esports Charts)",
-          "published": "2026-11-08T02:50:38.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
             "season"
           ]
         }
