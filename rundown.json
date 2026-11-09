@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T16:00:25.293Z",
+  "generatedAt": "2026-11-09T17:00:24.990Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -101,15 +101,13 @@
           ]
         },
         {
-          "title": "PGL Major Singapore 2026 - Stage 1, 2, and 3 teams.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xrlz0d/pgl_major_singapore_2026_stage_1_2_and_3_teams/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-09T08:02:41.000Z",
-          "score": 2,
+          "title": "Las Vegas Major + Summer CS2 Events Set For Vote Tuesday",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzRTOHFxdTNEdC05QzF5LUFCLVE1R0x4VjZfbGpKUkF5TFI2WlRUSUtPNlNwYm5BQ1AyQTFCR3R0X3A0V1F0M1ZmdmpxQkxrM1RHUXBpT25OUFpEUXJFZXFxZU1aZU1nU2dBRW5hdzJOQ0g2Q2JIazU5anJaMW5pX3N2X210ZnZNcjJscTFrenpkNzRpSUt6ZWZySlhtMXhqeXM3MU5QcWNJdw?oc=5",
+          "source": "Google News: CS2 (Legal Sports Betting)",
+          "published": "2026-11-09T16:32:36.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "pgl"
-          ]
+          "why": []
         },
         {
           "title": "Short news: Week 44",
@@ -133,7 +131,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
@@ -168,6 +166,24 @@
           ]
         },
         {
+          "title": "Dark Carnival Event | Does anyone know what is music called or if there is something similar?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrwznq/dark_carnival_event_does_anyone_know_what_is/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T16:56:30.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Patch Request - Missing Announcer Pack Voice Lines",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrwak9/patch_request_missing_announcer_pack_voice_lines/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T16:31:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlhhUFRmYmtwMXZRTmxhVFd1a3ozTFlLNDhQV1Z5YVNCSFI1S2x6SEk3dVVRaTJfdTBIZ1NCQjJMVk9oSXFUbHA4c0E0bThtWWJ0ZFVIZUFvUktJOTJRZmY3TDFNNS1TUnVZOWRySVRjeHRsVlhGN2VXWFcyUC1YVk9OeGFtSjRmc2Y1amhhTTdvaW9aQjJYS1JOUk1FX0steWJ4RFl6X0k?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -199,8 +215,19 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Hecz addresses Scump's continued Absence",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrwv00/hecz_addresses_scumps_continued_absence/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T16:51:44.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "scump"
+          ]
+        },
         {
           "title": "FaZe/Optic fans rn",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xroodx/fazeoptic_fans_rn/",
@@ -210,6 +237,23 @@
           "level": null,
           "why": [
             "faze"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Tremble, Hera! I'm Coming for you!",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xrw479/tremble_hera_im_coming_for_you/",
+          "source": "r/aoe2",
+          "published": "2026-11-09T16:24:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "hera"
           ]
         }
       ]
@@ -230,15 +274,15 @@
       ]
     },
     {
-      "scene": "Brood War",
+      "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Classic StarCraft and Brood War Ported to Android in Unofficial Version With Local Multiplayer",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEZ6Mk1SdE83eXIxWHkwVnVteU9Tb0I2SXpnWkJpU2ZaYUlhUFpDSXZYSDRaOVpZMTJLSjBXN21ONmhLdnFyTGI0ckpHNjlDaU91ZFVyNThvU1B6MXllejdISmZIakJvWXkwOXRCOGpZTVN5S1llWVRsQ0JEYjhwQXFRYjBLMVBjdEwyZVIyUFBfVlY2RTJXOFhvUDZpWVhTazZqbUpHcGRUd2pxSUhqMHg3QlRUQ0prN2dYVg?oc=5",
-          "source": "Google News: Brood War (se7en.ws)",
-          "published": "2026-11-08T16:44:39.000Z",
-          "score": 1,
+          "title": "Street Fighter League Pro-Americas 2026 results",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xrx33w/street_fighter_league_proamericas_2026_results/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-09T17:00:04.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -261,10 +305,9 @@
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
+    "Brood War",
     "Warcraft III",
-    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
