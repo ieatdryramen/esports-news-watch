@@ -1,11 +1,34 @@
 {
-  "generatedAt": "2026-11-09T12:25:31.788Z",
+  "generatedAt": "2026-11-09T13:25:32.426Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 1,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "MRC Season 8: Sins Of Alchemax - Pacific PC",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM3BnYjdQWDgzamFrU2VmMzNBdnNNVl92RFBiZG5UbjhaT1JCZmNWTnRqb0t3cjR2RFJOdGVncGNoa25xVzNFVTRtRXRuWjRMT0RtUkF4WTNyVjZKUHBmdXd6UkxFTnJIaWJlaVBUQkZrdEJxQVRxOTg4UlBxeFpBR212b1lkM2dROFE?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-09T08:49:18.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "season",
+            "mrc"
+          ]
+        },
+        {
+          "title": "Marvel Rivals season 11 countdown: Exact start time and date",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1RlU3FVY0dGOGN5eWZFZnZnSC1WRTNOUkdhM3hOM2Uzc19fb19IdENDcHpGaGlDVVZJVHhLOGhJSDRZSzh3Q3drN1lyS1lMUUdnRkxvT1NqaFhEQU52MHVzaG1KeVZOT3Y3X201OEVpNWQxWmxQZzZZVi1qNHE1dkNTb1BsSkVjcFFMZEV1Mkh0UQ?oc=5",
+          "source": "Google News: Rivals patches (Destructoid)",
+          "published": "2026-11-09T12:53:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
         {
           "title": "Marvel Rivals Rumor Puts Spider-Gwen and Green Goblin in Seasons 13 and 13.5",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTBMWUpaSk10bmRlSkRISlk2X3k1SzJiX3JLVU5VQ1MyaWlkTUt4S09YY2p1dWhLMHBhVmN1SzdDUUZQRUgzTXFwNm9zSkVOTkkzWVNkYm9OUmRncDgxVExDUHJ1NkhpMm04RkFDTEJpdllYQ0liaXU2RUpWLURIM2tGWEdjb2dpQ0lBR0p3?oc=5",
