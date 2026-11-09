@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T22:00:24.632Z",
+  "generatedAt": "2026-11-09T23:00:25.658Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
@@ -305,7 +305,7 @@
     },
     {
       "scene": "Halo",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Burn the Ships Announces Roster for LVT Pro League Finals - Descendant, Precision, Yakzn, Acid | Coach: Thug Nasty",
@@ -318,13 +318,36 @@
             "roster",
             "announces"
           ]
+        },
+        {
+          "title": "APGs team and the ANZ team won't be attending Halo Fest.",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xs691b/apgs_team_and_the_anz_team_wont_be_attending_halo/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-09T22:44:29.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "won",
+            "prize pool*"
+          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Slasher on Faze Vegas",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xs5xtq/slasher_on_faze_vegas/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T22:31:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
         {
           "title": "Simp talks about how he wants to retire in Would You Rather",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xs4qrh/simp_talks_about_how_he_wants_to_retire_in_would/",
