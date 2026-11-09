@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:55:28.412Z",
+  "generatedAt": "2026-11-09T01:25:41.930Z",
   "source": "start.gg",
   "completed": [
     {
@@ -46,53 +46,6 @@
         {
           "placement": 7,
           "name": "DragonFGC"
-        }
-      ]
-    },
-    {
-      "eventId": "1746373",
-      "scene": "tokon",
-      "game": "Fighting Souls",
-      "tournament": "MA: MARVEL Tōkon Fighting Souls NA #13 (PC/PS5) PHOENIX CYCLOPS IS HERE!",
-      "event": "MA: MARVEL Tōkon Fighting Souls NA #13 (PC/PS5) PHOENIX CYCLOPS IS HERE!",
-      "entrants": 55,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-06T01:00:00.000Z",
-      "endAt": "2026-11-07T01:00:00.000Z",
-      "url": "https://www.start.gg/tournament/ma-marvel-t-kon-fighting-souls-na-13-pc-ps5-phoenix-cyclops-is-here/event/ma-marvel-t-kon-fighting-souls-na-13-pc-ps5-phoenix-cyclops-is-here",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "ONi | Lucky"
-        },
-        {
-          "placement": 2,
-          "name": "ONi | Hyde"
-        },
-        {
-          "placement": 3,
-          "name": "Help | Naire"
-        },
-        {
-          "placement": 4,
-          "name": "LYRA | | RllyShiesty"
-        },
-        {
-          "placement": 5,
-          "name": "ivHozzy"
-        },
-        {
-          "placement": 5,
-          "name": "MajinBurno"
-        },
-        {
-          "placement": 7,
-          "name": "LYRA | MrMarben"
-        },
-        {
-          "placement": 7,
-          "name": "LYRA | RayRaymonkey"
         }
       ]
     }
