@@ -1,8 +1,22 @@
 {
-  "generatedAt": "2026-11-09T22:25:40.410Z",
+  "generatedAt": "2026-11-09T23:25:31.808Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "\"Marvel Tokon: Fighting Souls\": a beautiful fighting game featuring Marvel characters in anime style",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWFV3ZXJ0MTJfaFV4NlRoTDVkWmRwa2ZheG40bjQ2RFV4R0JIUzlRMThqaHhlaTUzQURiRWlzelF5RUswLUxCbnlxUFd0aWR1TkVzRXVMTF90Rm9tVXJqWDhmZmc4UEpUQldJbU92VWtZU2JzSHV0NllaUG9qblBJVDJtaDdLQmZzcnJXT1p1UXBRbUY1Z1ZRZUNObC1yX2FadF94T3JDZ09PQmlMbWZNS3lIRDRIZXl6djdSV3lfV2hoeGxDMXVEblVRODRsUQ?oc=5",
+          "source": "Google News: Tokon (Digitec)",
+          "published": "2026-11-09T09:02:54.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
