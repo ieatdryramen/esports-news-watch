@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-09T17:00:24.990Z",
+  "generatedAt": "2026-11-09T18:00:33.267Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 14,
       "stories": [
+        {
+          "title": "IEM Beijing 2026 viewership: MOUZ wins, audience lags",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-09T12:32:34.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "wins",
+            "mouz",
+            "iem"
+          ]
+        },
         {
           "title": "Las Vegas Targets CS2 Major 2028 With Two-Event BLAST Deal",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNFJkdkJJM3Fsc2hOdWpDMnc4MHp5a3Fma2pJeUx3VjNWUG5vTGxSTFRlYzBLWWtNQ3BTRjBrMnUyOFExMFphU1JiMEJjcEJUMGF3TmU4MFpVd0lUNWhGTGotZmduV1o0TFlPSFB3U3JMaEhZMXBTRzIxMWo?oc=5",
@@ -77,6 +90,17 @@
           ]
         },
         {
+          "title": "PGL Confirms New Names for Four Teams in Singapore Major 2026",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LeXBBOFFkTUp0V2pfUDVwc1ZkWm1TOS1MY2pPWU1vVmFXQzFBY2hTZmx1b2VDMEVRcXVDN3FWUlVFbkQ4aExWcFBtQzgwbVJ1SUVTNm5IRnJKemNaVGR2aklYV1ZKa3JZbmxzR2JEWEl2aVIyazBvbg?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-09T11:52:20.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "PGL reveals Singapore Major rosters",
           "url": "https://www.hltv.org/news/45950/pgl-reveals-singapore-major-rosters",
           "source": "HLTV news",
@@ -117,21 +141,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "6yuBoJlbl CS2 (6BJ) Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RdzUzblFmdTNkRllDUGVXWjdFLVJSc0YxMlBpY1kzSVF3YjFuQVVmTk5jU0dqZUR6Tk54VjJlbmlWUlluYkdrRlp5cw?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-08T22:21:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
@@ -143,6 +158,17 @@
           "why": [
             "return",
             "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "DreamLeague Division 2 Series 5 (China at the Bottom)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrye9w/dreamleague_division_2_series_5_china_at_the/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T17:47:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dreamleague"
           ]
         },
         {
