@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-09T00:55:15.777Z",
+  "generatedAt": "2026-11-09T01:25:24.896Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1746968",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "GrugStrike 56",
+      "event": "GrugStrike :3",
+      "entrants": 22,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-08T23:00:00.000Z",
+      "endAt": "2026-11-09T01:00:00.000Z",
+      "url": "https://www.start.gg/tournament/grugstrike-56/event/grugstrike-3",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ABARI | Bash Mac"
+        },
+        {
+          "placement": 2,
+          "name": "Devilmaycats | MrPomegranX"
+        },
+        {
+          "placement": 3,
+          "name": "One who seeks Jesus"
+        },
+        {
+          "placement": 4,
+          "name": "TROLLGANG | Love"
+        },
+        {
+          "placement": 5,
+          "name": "mariahcareyfan1738"
+        },
+        {
+          "placement": 5,
+          "name": "4077 | bihpo"
+        },
+        {
+          "placement": 7,
+          "name": "EC3 | Critoris"
+        },
+        {
+          "placement": 7,
+          "name": "DMV | yorkie"
+        }
+      ]
+    },
     {
       "eventId": "1742514",
       "scene": "streetfighter",
@@ -553,19 +600,6 @@
       "startAt": "2026-11-14T04:00:00.000Z",
       "endAt": "2026-11-15T13:00:00.000Z",
       "url": "https://www.start.gg/tournament/tgu-2026/event/guilty-gear-strive-awt-gold-event"
-    },
-    {
-      "eventId": "1734139",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "Kayane Session - Novembre 2026",
-      "event": "Session Freeplay TEKKEN 8 + Ladder",
-      "entrants": 100,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-15T10:00:00.000Z",
-      "endAt": "2026-11-15T18:00:00.000Z",
-      "url": "https://www.start.gg/tournament/kayane-session-novembre-2026/event/session-freeplay-tekken-8-ladder"
     }
   ],
   "games": {
