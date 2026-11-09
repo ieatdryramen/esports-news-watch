@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-09T13:00:29.703Z",
+  "generatedAt": "2026-11-09T14:00:31.613Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
-          "title": "Las Vegas lines up $2 million BLAST deal for 2028 CS2 Major",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV20zb2EzNkhXNG9CZFhZdDRFeDNMQkdEWTBNbkF4STFTcTAtWFE2ZXduV3NHLTlFX0ViOU1ZejZnRjVOTzRycWFmZGxJeG9VZWJfYlFpZXp3MGRVQ0JTdzQzNU1EaWhUSGp0S1A4WGFvc2d2ckNHT2dBMkItbkFybmdGMmllUQ?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-09T12:35:51.000Z",
+          "title": "BLAST Eyes $2 Million Deal to Bring CS2 Major to Las Vegas",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGtJbklUVWIwTkE2eG1jYWFZbmRHb1JTVjl4VkpwRnlEZXJwX3daVTBiVUFnX3EzZnhMOHVYY3lkeXJaMzV1M2I3Zk5pUk5EQUdyN29OSGdsVE1pZXlhRnhyR2x5TkN0bmxJNUZGbFNQOFlLWWYzejduaThrbXhfOXpMYjZneDkwV0NZeEdn?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-09T13:17:20.000Z",
           "score": 5,
           "level": null,
           "why": [
@@ -102,7 +102,7 @@
           "title": "Short news: Week 44",
           "url": "https://www.hltv.org/news/45949/short-news-week-44",
           "source": "HLTV news",
-          "published": "2026-11-09T10:22:00.000Z",
+          "published": "2026-11-09T13:41:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -115,21 +115,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "xertioN: \"To be on the list with gla1ve [as a rifle IGL MVP] is an honor. He's such a role model\"",
-          "url": "https://www.hltv.org/news/45945/xertion-to-be-on-the-list-with-gla1ve-as-a-rifle-igl-mvp-is-an-honor-hes-such-a-role-model",
-          "source": "HLTV news",
-          "published": "2026-11-08T14:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
@@ -141,17 +132,6 @@
           "why": [
             "return",
             "gaimin gladiators"
-          ]
-        },
-        {
-          "title": "The mald speaker icon needs to make a comeback",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrird6/the_mald_speaker_icon_needs_to_make_a_comeback/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T04:52:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "comeback"
           ]
         },
         {
@@ -193,7 +173,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Can someone please explain to me how this isnt enough proof to ban a player?",
@@ -204,52 +184,6 @@
           "level": null,
           "why": [
             "ban"
-          ]
-        },
-        {
-          "title": "Nail biter ending. Please give me feedback, I feel like my Leroy knowledge is lacking.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xrjce5/nail_biter_ending_please_give_me_feedback_i_feel/",
-          "source": "r/Tekken",
-          "published": "2026-11-09T05:24:20.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Expand Team game map ban just a bit (increase by 1) for teamless players.",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xrj7i5/expand_team_game_map_ban_just_a_bit_increase_by_1/",
-          "source": "r/aoe2",
-          "published": "2026-11-09T05:16:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Blaz vs Noah anchor match was insane! (Spoiler)",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xrig42/blaz_vs_noah_anchor_match_was_insane_spoiler/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-09T04:35:32.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "punk*",
-            "blaz"
           ]
         }
       ]
@@ -287,29 +221,29 @@
       ]
     },
     {
-      "scene": "Quake",
+      "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Kuachi Cups QC Duel Tourney looks forward to return for 2027",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xrhq4e/kuachi_cups_qc_duel_tourney_looks_forward_to/",
-          "source": "r/QuakeChampions",
-          "published": "2026-11-09T03:56:24.000Z",
-          "score": 1,
+          "title": "The longest plastic endurance in Trackmania | Teaser",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xrs55z/the_longest_plastic_endurance_in_trackmania_teaser/",
+          "source": "r/TrackMania",
+          "published": "2026-11-09T13:50:21.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "return"
-          ]
+          "why": []
         }
       ]
     }
   ],
   "quiet": [
     "Melee",
+    "AoE2",
     "Classic Tetris",
-    "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
+    "Quake",
     "Halo"
   ]
 }
