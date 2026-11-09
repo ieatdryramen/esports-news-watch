@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-09T17:10:18.753Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "IEM Beijing 2026 viewership: MOUZ wins, audience lags",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
+      "source": "Google News: CS2 (Esports Charts)",
+      "outlets": [
+        "Esports Charts"
+      ],
+      "score": 8,
+      "why": [
+        "wins",
+        "mouz",
+        "iem"
+      ],
+      "summary": "",
+      "published": "2026-11-09T12:32:34.000Z"
+    },
+    {
       "alertedAt": "2026-11-09T13:00:28.750Z",
       "level": "breaking",
       "scene": "CS2",
