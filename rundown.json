@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-09T12:00:26.200Z",
+  "generatedAt": "2026-11-09T13:00:29.703Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 11,
       "stories": [
+        {
+          "title": "Las Vegas lines up $2 million BLAST deal for 2028 CS2 Major",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV20zb2EzNkhXNG9CZFhZdDRFeDNMQkdEWTBNbkF4STFTcTAtWFE2ZXduV3NHLTlFX0ViOU1ZejZnRjVOTzRycWFmZGxJeG9VZWJfYlFpZXp3MGRVQ0JTdzQzNU1EaWhUSGp0S1A4WGFvc2d2ckNHT2dBMkItbkFybmdGMmllUQ?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-09T12:35:51.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "blast",
+            "cs2 major"
+          ]
+        },
         {
           "title": "PGL announces name changes for four teams at Singapore Major",
           "url": "https://www.hltv.org/news/45947/pgl-announces-name-changes-for-four-teams-at-singapore-major",
@@ -16,6 +28,39 @@
           "why": [
             "announces",
             "pgl"
+          ]
+        },
+        {
+          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
+          "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/",
+          "source": "esports.gg",
+          "published": "2026-11-09T12:52:52.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
+          "title": "LVCVA moves to bring BLAST’s Counter-Strike Major to Las Vegas in 2028 with $2M deal",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12SHBOUEFWN1dEbXJtaUdwN1VJWmtnNmxROVFNa281dDdESFNuTXNibGc0UjR4SmFYZHVDQ05CenlaNUVwYTdNTmZfQnJiaWE3OTR4NXBaMnZWakhqSUg5MEpYcWdwWWtsVGRQS0hpaw?oc=5",
+          "source": "Google News: CS2 (Dot Esports)",
+          "published": "2026-11-09T12:49:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
+          "title": "Las Vegas targets BLAST partnership for 2028 Major",
+          "url": "https://www.hltv.org/news/45951/las-vegas-targets-blast-partnership-for-2028-major",
+          "source": "HLTV news",
+          "published": "2026-11-09T12:13:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
           ]
         },
         {
@@ -83,26 +128,6 @@
       ]
     },
     {
-      "scene": "Warcraft III",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Lawliet plays in 4v4 Tourney vs China",
-          "url": "https://www.reddit.com/r/WC3/comments/1xrh9ju/lawliet_plays_in_4v4_tourney_vs_china/",
-          "source": "r/WC3",
-          "published": "2026-11-09T03:31:26.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "update*",
-            "lyn*",
-            "sok*",
-            "lawliet"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Dota",
       "storyCount": 5,
       "stories": [
@@ -143,13 +168,15 @@
           ]
         },
         {
-          "title": "TORONTOTOKYO Reflected on the Future of His Career in the Dota 2 Pro Scene",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemZiMmYxNzJraFdvV284bUpjQ2QzTlRmZmhTVDhkMFBFMXV4Z2FzVWRmWkd4Uzh3VGxBdzNmbkY1aFFXSnV0NlRZN3hFRnEwaVpVbTlhUVpzSlJGeWNPa1puMmEzN2MtRVNhSnM1bEdBZGhGc2dYSHp4UUdZc3M1Q1RxYw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-08T15:12:00.000Z",
+          "title": "7.42 Patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xrq2z5/742_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-09T12:11:43.000Z",
           "score": 1,
           "level": null,
-          "why": []
+          "why": [
+            "record*"
+          ]
         },
         {
           "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
@@ -160,6 +187,34 @@
           "level": null,
           "why": [
             "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Can someone please explain to me how this isnt enough proof to ban a player?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xrqoa5/can_someone_please_explain_to_me_how_this_isnt/",
+          "source": "r/Tekken",
+          "published": "2026-11-09T12:41:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ban"
+          ]
+        },
+        {
+          "title": "Nail biter ending. Please give me feedback, I feel like my Leroy knowledge is lacking.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xrjce5/nail_biter_ending_please_give_me_feedback_i_feel/",
+          "source": "r/Tekken",
+          "published": "2026-11-09T05:24:20.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ending"
           ]
         }
       ]
@@ -217,23 +272,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Nail biter ending. Please give me feedback, I feel like my Leroy knowledge is lacking.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xrjce5/nail_biter_ending_please_give_me_feedback_i_feel/",
-          "source": "r/Tekken",
-          "published": "2026-11-09T05:24:20.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -270,6 +308,7 @@
     "Melee",
     "Classic Tetris",
     "Trackmania",
+    "Warcraft III",
     "Legacy FGC",
     "Halo"
   ]
