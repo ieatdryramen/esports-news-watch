@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:55:16.042Z",
+  "generatedAt": "2026-11-09T07:25:15.646Z",
   "source": "start.gg",
   "completed": [
     {
@@ -140,53 +140,6 @@
         {
           "placement": 7,
           "name": "Tempel | Vikage"
-        }
-      ]
-    },
-    {
-      "eventId": "1611249",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Wave Land 2026",
-      "event": "Melee Singles",
-      "entrants": 104,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T02:00:00.000Z",
-      "endAt": "2026-11-08T10:30:00.000Z",
-      "url": "https://www.start.gg/tournament/wave-land-2026/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "JDW | RNGReallyNotGood"
-        },
-        {
-          "placement": 2,
-          "name": "pins esports | The Prince of Penrith"
-        },
-        {
-          "placement": 3,
-          "name": "McCloud"
-        },
-        {
-          "placement": 4,
-          "name": "Wata | Chibe"
-        },
-        {
-          "placement": 5,
-          "name": "GnomeDome"
-        },
-        {
-          "placement": 5,
-          "name": "Helium"
-        },
-        {
-          "placement": 7,
-          "name": "Sindocus"
-        },
-        {
-          "placement": 7,
-          "name": "DANGLE | clementine"
         }
       ]
     },
