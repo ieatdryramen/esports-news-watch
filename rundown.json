@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:55:24.970Z",
+  "generatedAt": "2026-11-09T21:50:22.157Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,21 +7,8 @@
       "storyCount": 15,
       "stories": [
         {
-          "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-09T12:32:41.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "wins",
-            "mouz",
-            "iem"
-          ]
-        },
-        {
           "title": "PGL has officially confirmed the name changes of four participating teams at the CS2 Major Singapore 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT2xqLUpUY3ZtLXpsU0hKQ3NPTjRDeFBwRS12NGdEMUxjVlpQTHlUVE1rTWVoS1BIU1QtMU5ZSXBOQWNUeDJ2c0k4THhRZTRZWmpPSW1KVXBHSTEtY1BXNWp0YVYwYWhLbWs2YnFBRnNlc1VVSEE0SGxoazFUVjdCdkF1a1RISlZGZ1VLUVFFbVJTd0xxWGkzU1hLa3RqY2xkMHpUa1JmMzdOSUN2X1pkRUZZOHhDQnVLV0haOXE0dk9qOFQxSHlDRXJQbmphVnNCbXlPVWh5OTdycGPSAdsBQVVfeXFMTU9sai1KVGN2bS16bFNISkNzT040Q3hQcEUtdjRnRDFMY1ZaUEx5VFRNa01laEtQSFNULTFOWUlwTkFjVHgydnNJOEx4UWU0WVpqT0ltSlVwR0kxLWNQVzVqdGFWMGFoS21rNmJxQUZzZXNVVUhBNEhsaGsxVFY3QnZBdWtUSEpWRmdVS1FRRW1SU3dMcVhpM1NYS2t0amNsZDB6VGtSZjM3TklDdl9aZEVGWTh4Q0J1S1dIWjlxNHZPajhUMUh5Q0VyUG5qYVZzQm15T1VoeTk3cnBj?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXzE5UDNIaWVDbFNQQWxsRGVGOHVNTVVJZ3JkRWZkTHF3YkdtY09DVXRKT0l3bDRtMzNOWmdqZnlPcGlfRkdPR1hqNTdTSGo4bUtNbUVFVkRfMmFDSHE4T2x3d2Y0MmVRSjhsZVVlT2s4VGVFSWNQem1xdUZpR015WktUVTh3VHoxU2s1LThNZk5CVHZidkJ1VWpwX3lLRml5cE1wWkZKYzZ5TmU2YW12djhlTkpROU9uSzNIckZMR3NjN2FJMUVFUUhiMHBzQzItNlRF0gHbAUFVX3lxTE1PbGotSlRjdm0temxTSEpDc09ONEN4UHBFLXY0Z0QxTGNWWlBMeVRUTWtNZWhLUEhTVC0xTllJcE5BY1R4MnZzSThMeFFlNFlaak9JbUpVcEdJMS1jUFc1anRhVjBhaEttazZicUFGc2VzVVVIQTRIbGhrMVRWN0J2QXVrVEhKVkZnVUtRUUVtUlN3THFYaTNTWEtrdGpjbGQwelRrUmYzN05JQ3ZfWmRFRlk4eENCdUtXSFo5cTR2T2o4VDFIeUNFclBuamFWc0JteU9VaHk5N3JwYw?oc=5",
           "source": "Google News: CS2 (Players)",
           "published": "2026-11-09T15:30:26.000Z",
           "score": 6,
@@ -142,12 +129,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Short news: Week 44",
+          "url": "https://www.hltv.org/news/45949/short-news-week-44",
+          "source": "HLTV news",
+          "published": "2026-11-09T13:41:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Nice Cheat Grimstroke still lost :)",
@@ -159,6 +155,18 @@
           "why": [
             "cheating*",
             "cheat"
+          ]
+        },
+        {
+          "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1hSUy1FTW9oYlY0bkRGSzJvbkFNUkZ1eDIydGxpdExjY0xIRmhhN29FaVB4NUFiWGg3Z25JSVMzRXVxaWxIb0ZLWkFYSnY0Sk54cDBXclFiQ0wxdzhDSFk1NW94SE5Rb0dHT0hBT2RIS0FuX1NpVlRCbEJJamo4QUpaMjk5bmNmMEd5X3RjT0JLNlNldXRRbVV0QkZrZ3FyS1RYaGZtQUotM2tKa0J5NWN6anB5c1lxVEHSAboBQVVfeXFMUG9YUlMtRU1vaGJWNG5ERksyb25BTVJGdXgyMnRsaXRMY2NMSEZoYTdvRWlQeDVBYlhoN2duSUlTM0V1cWlsSG9GS1pBWEp2NEpOeHAwV3JRYkNMMXc4Q0hZNTVveEhOUW9HR09IQU9kSEtBbl9TaVZUQmxCSWpqOEFKWjI5OW5jZjBHeV90Y09CSzZTZXV0UW1VdEJGa2dxcktUWGhmbUFKLTNrSmtCeTVjempweXNZcVRB?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-09T19:24:54.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "gaimin gladiators"
           ]
         },
         {
@@ -256,6 +264,42 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Blaz insane comeback vs Noah, 3 perfect parry drush vs luke fb w/ no hp and driveguage.",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xs4lo7/blaz_insane_comeback_vs_noah_3_perfect_parry/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-09T21:38:49.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "comeback",
+            "blaz"
+          ]
+        },
+        {
+          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEJVTWJhWDdNSDREWmdZTmxka3puY1g3bUFuazJYWVNmSTE0U0dGTEZ5OUtPc3lLNGd2ZnFaMVpjbkxFcWFVT3R5a3Y3RlFYT0Z2ckRfb3I1UW4zdXlrVWczRS1tSFA5MHBwdlc1RTljV3ZqblVpekRLcFpOWHgtY0szc0UzWGgtUDAySGpWZW5YWnlhSkMzMWhVWUJQTHN1VEhHZWI3UUgzNFR6bTdubGc5dGw5WkZLNUIzSEx6bC1hWTFPV0puSm85OWdZNXN5Z0o3ZGhyUGJLTWJ1?oc=5",
+          "source": "Google News: Street Fighter (IGN)",
+          "published": "2026-11-09T21:41:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Street Fighter League Pro-Americas 2026 results",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xrx33w/street_fighter_league_proamericas_2026_results/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-09T17:00:04.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Halo",
       "storyCount": 1,
       "stories": [
@@ -270,6 +314,43 @@
             "roster",
             "announces"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Simp talks about how he wants to retire in Would You Rather",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xs4qrh/simp_talks_about_how_he_wants_to_retire_in_would/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T21:44:32.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "simp"
+          ]
+        },
+        {
+          "title": "Hecz addresses Scump's continued Absence",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrwv00/hecz_addresses_scumps_continued_absence/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-09T16:51:44.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "scump"
+          ]
+        },
+        {
+          "title": "Call of Duty League 2027 Power Rankings after the Monster Energy Launch Invitational",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakx0Q3Z0ZzBOZTU1NWVUUmE4R0JGa3k2TWZZMEs2RXBwVktVZnBBZlgzdDQ4Z3NQc1Q5TXdqakNxR0h0aWtpb25MOEkzUm5RZHRndlpoME0tSGd6QXdCUUgyUmtYUU5saFVCdXFDbHFPaG15Yk5HbFllVy1JeE50UU5sT2s3QlBOV2stV2NBZkdjX1dqMWJSWUw1Q0JpbEFpazlXZVJXQV9NZ3I3RW9fTnZvUzlmbzhxd1ZsbWd3?oc=5",
+          "source": "Google News: CoD (GamingTrend)",
+          "published": "2026-11-09T20:18:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -300,32 +381,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Hecz addresses Scump's continued Absence",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrwv00/hecz_addresses_scumps_continued_absence/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T16:51:44.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "scump"
-          ]
-        },
-        {
-          "title": "Call of Duty League 2027 Power Rankings after the Monster Energy Launch Invitational",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakx0Q3Z0ZzBOZTU1NWVUUmE4R0JGa3k2TWZZMEs2RXBwVktVZnBBZlgzdDQ4Z3NQc1Q5TXdqakNxR0h0aWtpb25MOEkzUm5RZHRndlpoME0tSGd6QXdCUUgyUmtYUU5saFVCdXFDbHFPaG15Yk5HbFllVy1JeE50UU5sT2s3QlBOV2stV2NBZkdjX1dqMWJSWUw1Q0JpbEFpazlXZVJXQV9NZ3I3RW9fTnZvUzlmbzhxd1ZsbWd3?oc=5",
-          "source": "Google News: CoD (GamingTrend)",
-          "published": "2026-11-09T20:18:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
       "storyCount": 1,
       "stories": [
@@ -344,7 +399,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Death Battle Season 8 Winners Lounge (ft. Heihachi) [Art Comm'd by me from Azraelaga on Fiverr]",
@@ -356,18 +411,12 @@
           "why": [
             "won*"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Street Fighter League Pro-Americas 2026 results",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xrx33w/street_fighter_league_proamericas_2026_results/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-09T17:00:04.000Z",
+          "title": "Tournament ready game, btw 😂",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xs4inf/tournament_ready_game_btw/",
+          "source": "r/Tekken",
+          "published": "2026-11-09T21:35:34.000Z",
           "score": 0,
           "level": null,
           "why": []
