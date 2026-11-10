@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-09T23:25:29.216Z",
+  "generatedAt": "2026-11-10T00:25:35.572Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
+        {
+          "title": "MRC Season 8: Sins Of Alchemax - Pacific PC",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM3BnYjdQWDgzamFrU2VmMzNBdnNNVl92RFBiZG5UbjhaT1JCZmNWTnRqb0t3cjR2RFJOdGVncGNoa25xVzNFVTRtRXRuWjRMT0RtUkF4WTNyVjZKUHBmdXd6UkxFTnJIaWJlaVBUQkZrdEJxQVRxOTg4UlBxeFpBR212b1lkM2dROFE?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-09T08:49:18.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "season",
+            "mrc"
+          ]
+        },
         {
           "title": "Marvel Rivals’ Rumoured 2027 Roster Includes Miles Morales",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGE1ZXVZU0Voa3MwVHZSdlY3eTVxd3lGS2h3eURtU0F0Yy1jZVNsZlhUeGRRS1NrcVpYNkRycmRsU19TSnMwdmJUZEFNODVYTmZLNzNVbk1QTFE3NVJkVXAtaFpsdmNhUTRJbjFkZVRNYmsxWWFpbHIzUHRFYk95cmJ3RVlvQmNpOFd4U0ZqUHE1RVFWTHc?oc=5",
@@ -29,10 +41,21 @@
           ]
         },
         {
+          "title": "‘Marvel Rivals’ Developer All But Confirms Season 11 Hero",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnYzYjF4LUdIYzlGZGJvYng0ZUxxNEVlc1N0UlByRzI4Xy02cDdEQ19tXy1NYU1HdGxtVHVvRmh4dWt6eTdCRG1ZY1NCZ2YzNXlrSU9hZk1KYVlaTk5RWV9JVFFydUMxdXdJQTZTM05odXZncnFEenJDUWZwblVGaVQtaS1kQXg3alMtbmlVSHJnUlhRLWFxVEhwRzViZw?oc=5",
+          "source": "Google News: Rivals patches (Men's Journal)",
+          "published": "2026-11-09T23:33:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
           "title": "Marvel Rivals Season 11: Release Date, Countdown & What to Expect",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xOW50YkVwRUd5NEJROVRyRVd4aE9zbl9sRU9JSmppbUt1XzNRZVVteXBjRGVJS3huc3R0dDRNeDM2VGkydHI1RHJfbjNyaU9xY3NoWUNWX1BPbUdGbFJZeERKeTdRX00?oc=5",
           "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-09T17:26:15.000Z",
+          "published": "2026-11-09T17:37:04.000Z",
           "score": 2,
           "level": null,
           "why": [
