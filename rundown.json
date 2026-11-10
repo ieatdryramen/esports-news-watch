@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:00:27.014Z",
+  "generatedAt": "2026-11-10T09:00:24.536Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -20,19 +20,6 @@
             "cheater*",
             "vac*",
             "record*"
-          ]
-        },
-        {
-          "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-09T12:32:41.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "wins",
-            "mouz",
-            "iem"
           ]
         },
         {
@@ -131,9 +118,9 @@
         },
         {
           "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/",
-          "source": "esports.gg",
-          "published": "2026-11-09T12:52:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-09T13:57:42.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -146,6 +133,17 @@
           "source": "HLTV news",
           "published": "2026-11-09T11:34:00.000Z",
           "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Cluj-Napoca 2027 Lineup",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xshbow/pgl_clujnapoca_2027_lineup/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T08:06:49.000Z",
+          "score": 2,
           "level": null,
           "why": [
             "pgl"
@@ -173,7 +171,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Banned Heroes",
@@ -200,9 +198,9 @@
         },
         {
           "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xs8tn8/removed_by_reddit/",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xshk2z/removed_by_reddit/",
           "source": "r/DotA2",
-          "published": "2026-11-10T00:32:45.000Z",
+          "published": "2026-11-10T08:22:19.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -264,17 +262,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-09T22:32:17.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -308,7 +295,7 @@
           "title": "'Never Surrender' — 2Game's Blaz Speaks Out About That Wild Street Fighter League Match Against NoahTheProdigy",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQkZXZm1PdUI5OXFlUWJnX1BGV2RWV3c2ODVmaWR5VEZnTU1VMGhJSTBvQ2F3b2RIWF9lbEJtaFZpQ0dSdEVrTWZEbHBmRGo4M1BkSjJ5V29xRDhvWHphOE1IV2VjcHo1dHdTRi1ybmFtYW1sNzJZczZwQTdOS05IcjE3d2w5TEpWV3F0bEQ2em5fSTllUFFDTFpFTV9Sc09xaFRKcnZqcTdyUllDOEFudDlMb0JsREloR0diSzE2WVdCRVNBTEpoeWhZcU1RZ2FCRHlhaE9KT2ZJTFRxTlVBdVN0T0JTc0VG?oc=5",
           "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-10T01:42:00.000Z",
+          "published": "2026-11-10T01:42:49.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -363,17 +350,6 @@
       "storyCount": 4,
       "stories": [
         {
-          "title": "If you try to break a throw while holding a movement key, does the game count that as an attempt to press some string instead of breaking the throw? Even if you press the throw break button correctly",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xsfllf/if_you_try_to_break_a_throw_while_holding_a/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T06:18:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "breaking"
-          ]
-        },
-        {
           "title": "In case there isn't a Season 4 how do you think the Tekken community will respond?",
           "url": "https://www.reddit.com/r/Tekken/comments/1xsesfq/in_case_there_isnt_a_season_4_how_do_you_think/",
           "source": "r/Tekken",
@@ -396,6 +372,15 @@
           "why": [
             "released"
           ]
+        },
+        {
+          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
+          "source": "Google News: Tekken (Gaming Age)",
+          "published": "2026-11-10T01:14:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Characters to look forward to in Tekken 8 season 4?",
