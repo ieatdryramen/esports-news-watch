@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T14:00:33.303Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "MRC 2026: EMEA Champion Points Standings",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeDlWM2tFOUJoQ09vMGhUc1JlY0VuNklnckYxTmNZZ2ExQmRBZDkzN3hZNFo4QlFPeXNvbXdyOG1GeDNUYWgtWVZvTVhhUW9BRlUtanV3THZlUjZGYnlEdjd2RXpvODQ?oc=5",
+      "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+      "outlets": [
+        "Liquipedia"
+      ],
+      "score": 6,
+      "why": [
+        "champion",
+        "mrc"
+      ],
+      "summary": "",
+      "published": "2026-11-10T08:34:01.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T02:40:02.712Z",
       "level": "possible",
       "scene": "Marvel Rivals",
