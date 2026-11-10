@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T18:20:25.641Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Season 11 Doomsday: Everything confirmed so far",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1na1BObF9EaU9tNW1KMjY4Ql9pcnJ4SE9jYUo4dXV4a3RkYXRMajQ3SkhuRGxzbFRzT0pNcjBkU0JoSEx6bXZ6OEhEbGl0Y2otQUFPZnJBVm9MMk83Y1I4azBUNGl0M1dRcFZ1a0w2X0lrTzlQRlV0V2prZw?oc=5",
+      "source": "Google News: Rivals patches (Rolling Out)",
+      "outlets": [
+        "YouTube",
+        "IGN",
+        "Rolling Out"
+      ],
+      "score": 6,
+      "why": [
+        "confirmed",
+        "season",
+        "3 outlets"
+      ],
+      "summary": "",
+      "published": "2026-11-10T18:12:39.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T18:09:55.280Z",
       "level": "possible",
       "scene": "Marvel Rivals",
