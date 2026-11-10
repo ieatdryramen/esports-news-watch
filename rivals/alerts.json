@@ -1,6 +1,29 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T18:09:55.280Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals - Official Doomsday Season 11 Trailer",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGpFZnBXeHphX2NiTkw5VnFHVlA3ak9ZaHBvLW9idXYxYkJFOC1jVzViSHFpZ3ExWVRQeWo5NnJ3N3hxcVJIVmRlSFZLWUFpQlpWX1RSeWl5RnpyTVFsRXJmT3MwVFdITU55TVRWMV9EYWNWNU1vaEJFLS1kTEE2ZGhjRXpweUMxNmNtWEpBdkszazQ0UmZJ?oc=5",
+      "source": "Google News: Rivals patches (IGN)",
+      "outlets": [
+        "Insider Gaming",
+        "IGN",
+        "IGN India",
+        "Beebom",
+        "YouTube"
+      ],
+      "score": 6,
+      "why": [
+        "official",
+        "season",
+        "5 outlets"
+      ],
+      "summary": "",
+      "published": "2026-11-10T16:07:55.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T17:10:24.258Z",
       "level": "breaking",
       "scene": "Marvel Rivals",
