@@ -1,6 +1,81 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T21:35:23.522Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Support nerf are a big step in the right direction they have been broken since forever and only buffed more , season 9 proof how bad it get when they too broken",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xszaym/support_nerf_are_a_big_step_in_the_right/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "nerf",
+        "buffed",
+        "season",
+        "reddit only"
+      ],
+      "summary": "Hope this is just the start for a healthier game where things die in it and not 2 minutes fights submitted by /u/Unlikely-Angle3508 to r/marvelrivals [link] [comments]",
+      "published": "2026-11-10T21:30:09.000Z"
+    },
+    {
+      "alertedAt": "2026-11-10T21:35:23.522Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Finally she getting nerfed , she needs more nerf but we take it and also other support nerf is very healthy for the game at last we got it",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xsyvwx/finally_she_getting_nerfed_she_needs_more_nerf/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "nerf",
+        "nerfed"
+      ],
+      "summary": "They finally listen after almost all left the game , this is a step in the right direction submitted by /u/Unlikely-Angle3508 to r/marvelrivals [link] [comments]",
+      "published": "2026-11-10T21:13:35.000Z"
+    },
+    {
+      "alertedAt": "2026-11-10T21:35:23.522Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Balance Patch Notes for Season 11! (20261113)",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xsyjlj/balance_patch_notes_for_season_11_20261113/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "patch notes",
+        "balance",
+        "season"
+      ],
+      "summary": "submitted by /u/show-me-your-memes to r/marvelrivals [link] [comments]",
+      "published": "2026-11-10T21:00:31.000Z"
+    },
+    {
+      "alertedAt": "2026-11-10T21:35:23.522Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Emergency hotfix please, but this time buff him",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xswjdz/emergency_hotfix_please_but_this_time_buff_him/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "buff",
+        "hotfix"
+      ],
+      "summary": "If you are struggling with Ultron or Peni it's a skill issue. No way they are nerfing them. submitted by /u/Hour-Wonder7916 to r/marvelrivals [link] [comments]",
+      "published": "2026-11-10T19:41:48.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T21:05:18.074Z",
       "level": "possible",
       "scene": "Marvel Rivals",
@@ -41,7 +116,7 @@
     },
     {
       "alertedAt": "2026-11-10T18:09:55.280Z",
-      "level": "possible",
+      "level": "breaking",
       "scene": "Marvel Rivals",
       "title": "Marvel Rivals - Official Doomsday Season 11 Trailer",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGpFZnBXeHphX2NiTkw5VnFHVlA3ak9ZaHBvLW9idXYxYkJFOC1jVzViSHFpZ3ExWVRQeWo5NnJ3N3hxcVJIVmRlSFZLWUFpQlpWX1RSeWl5RnpyTVFsRXJmT3MwVFdITU55TVRWMV9EYWNWNU1vaEJFLS1kTEE2ZGhjRXpweUMxNmNtWEpBdkszazQ0UmZJ?oc=5",
@@ -51,13 +126,15 @@
         "IGN",
         "IGN India",
         "Beebom",
-        "YouTube"
+        "YouTube",
+        "Reddit"
       ],
       "score": 6,
       "why": [
         "official",
         "season",
-        "5 outlets"
+        "5 outlets",
+        "6 outlets"
       ],
       "summary": "",
       "published": "2026-11-10T16:07:55.000Z"
