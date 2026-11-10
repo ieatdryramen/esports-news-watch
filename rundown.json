@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T06:00:24.042Z",
+  "generatedAt": "2026-11-10T07:00:26.135Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Constant cheating accusations are getting wild.",
@@ -73,6 +73,18 @@
           ]
         },
         {
+          "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-10T06:36:31.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "faze"
+          ]
+        },
+        {
           "title": "The EVPs and All-Stars of IEM Beijing 2026",
           "url": "https://www.hltv.org/news/45948/the-evps-and-all-stars-of-iem-beijing-2026",
           "source": "HLTV news",
@@ -119,9 +131,9 @@
         },
         {
           "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-09T13:57:42.000Z",
+          "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/",
+          "source": "esports.gg",
+          "published": "2026-11-09T12:52:52.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -137,17 +149,6 @@
           "level": null,
           "why": [
             "pgl"
-          ]
-        },
-        {
-          "title": "12 Minutes of TOTAL MADNESS | IEM Beijing 2026 Highlights",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xs95ws/12_minutes_of_total_madness_iem_beijing_2026/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T00:48:28.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "iem"
           ]
         }
       ]
@@ -172,7 +173,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Banned Heroes",
@@ -187,7 +188,7 @@
         },
         {
           "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1hSUy1FTW9oYlY0bkRGSzJvbkFNUkZ1eDIydGxpdExjY0xIRmhhN29FaVB4NUFiWGg3Z25JSVMzRXVxaWxIb0ZLWkFYSnY0Sk54cDBXclFiQ0wxdzhDSFk1NW94SE5Rb0dHT0hBT2RIS0FuX1NpVlRCbEJJamo4QUpaMjk5bmNmMEd5X3RjT0JLNlNldXRRbVV0QkZrZ3FyS1RYaGZtQUotM2tKa0J5NWN6anB5c1lxVEHSAboBQVVfeXFMUG9YUlMtRU1vaGJWNG5ERksyb25BTVJGdXgyMnRsaXRMY2NMSEZoYTdvRWlQeDVBYlhoN2duSUlTM0V1cWlsSG9GS1pBWEp2NEpOeHAwV3JRYkNMMXc4Q0hZNTVveEhOUW9HR09IQU9kSEtBbl9TaVZUQmxCSWpqOEFKWjI5OW5jZjBHeV90Y09CSzZTZXV0UW1VdEJGa2dxcktUWGhmbUFKLTNrSmtCeTVjempweXNZcVRB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnhUQ3NmRlpOSUkwZnNabWRlbFc2VzRld3Zpc3JIR21LbVVnRFJ0WUhxNG1GUlJTOHV3alhYUk9FWUV4SGNJZ0VZN1hzMkdzeEgtQlEyS3hiMWxTX2JCbWxfZzgzWktyZ2pLakUtZ0N3emtFM3VIRXpBRFhleU1GN2dLTFk3SmU2N0hqeG5OeHN2dE4zNFhSMzh2c1F1NnFsM05vY3B2dDNtTW5oZTg5NzVR0gG6AUFVX3lxTFBvWFJTLUVNb2hiVjRuREZLMm9uQU1SRnV4MjJ0bGl0TGNjTEhGaGE3b0VpUHg1QWJYaDdnbklJUzNFdXFpbEhvRktaQVhKdjRKTnhwMFdyUWJDTDF3OENIWTU1b3hITlFvR0dPSEFPZEhLQW5fU2lWVEJsQklqajhBSloyOTluY2YwR3lfdGNPQks2U2V1dFFtVXRCRmtncXJLVFhoZm1BSi0za0prQnk1Y3pqcHlzWXFUQQ?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-09T19:24:54.000Z",
           "score": 4,
@@ -218,6 +219,24 @@
           "why": []
         },
         {
+          "title": "Last pick PL needs to be nerfed",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsfwaf/last_pick_pl_needs_to_be_nerfed/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T06:37:00.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Sign up to our EU & NA Ability Draft League!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsfm5c/sign_up_to_our_eu_na_ability_draft_league/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T06:19:37.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Supporter pack emoticons are back for those before season 10",
           "url": "https://www.reddit.com/r/DotA2/comments/1xsc9k4/supporter_pack_emoticons_are_back_for_those/",
           "source": "r/DotA2",
@@ -225,13 +244,35 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-09T22:32:17.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
+        {
+          "title": "What’s with people after losing invites you to a custom room and then leaves in seconds?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xsfxdt/whats_with_people_after_losing_invites_you_to_a/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-10T06:38:54.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "leaves"
+          ]
+        },
         {
           "title": "You get a comeback, I get a comeback, everybody gets a comeback",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xsdolm/you_get_a_comeback_i_get_a_comeback_everybody/",
@@ -299,8 +340,19 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "If you try to break a throw while holding a movement key, does the game count that as an attempt to press some string instead of breaking the throw? Even if you press the throw break button correctly",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xsfllf/if_you_try_to_break_a_throw_while_holding_a/",
+          "source": "r/Tekken",
+          "published": "2026-11-10T06:18:40.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "breaking"
+          ]
+        },
         {
           "title": "In case there isn't a Season 4 how do you think the Tekken community will respond?",
           "url": "https://www.reddit.com/r/Tekken/comments/1xsesfq/in_case_there_isnt_a_season_4_how_do_you_think/",
@@ -312,6 +364,17 @@
             "the last*",
             "won*",
             "announced*"
+          ]
+        },
+        {
+          "title": "Kunimitsu released for T7 6 years ago",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xsfpx0/kunimitsu_released_for_t7_6_years_ago/",
+          "source": "r/Tekken",
+          "published": "2026-11-10T06:25:55.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
           ]
         },
         {
@@ -345,24 +408,13 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "$100K FAZE x THE FLANK INVITATIONAL",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xsbjwr/100k_faze_x_the_flank_invitational/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-10T02:43:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Slasher on Faze Vegas",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xs5xtq/slasher_on_faze_vegas/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T22:31:53.000Z",
           "score": 2,
           "level": null,
           "why": [
