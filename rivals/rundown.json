@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-10T08:25:30.070Z",
+  "generatedAt": "2026-11-10T09:25:34.557Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
-        {
-          "title": "MRC Season 8: Sins Of Alchemax - Pacific PC",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM3BnYjdQWDgzamFrU2VmMzNBdnNNVl92RFBiZG5UbjhaT1JCZmNWTnRqb0t3cjR2RFJOdGVncGNoa25xVzNFVTRtRXRuWjRMT0RtUkF4WTNyVjZKUHBmdXd6UkxFTnJIaWJlaVBUQkZrdEJxQVRxOTg4UlBxeFpBR212b1lkM2dROFE?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-09T08:49:18.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "mrc"
-          ]
-        },
         {
           "title": "Marvel Rivals’ Rumoured 2027 Roster Includes Miles Morales",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGE1ZXVZU0Voa3MwVHZSdlY3eTVxd3lGS2h3eURtU0F0Yy1jZVNsZlhUeGRRS1NrcVpYNkRycmRsU19TSnMwdmJUZEFNODVYTmZLNzNVbk1QTFE3NVJkVXAtaFpsdmNhUTRJbjFkZVRNYmsxWWFpbHIzUHRFYk95cmJ3RVlvQmNpOFd4U0ZqUHE1RVFWTHc?oc=5",
@@ -93,9 +81,9 @@
         },
         {
           "title": "Marvel Rivals’ newest hero tease seems to confirm new X-Men member, plus latest round of leaks",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXdZQjE2dmVIWFFhSmRERUpLazZWTm9SSzFURTNYY0xjQlBNUHNXQi1OQ2piMWd1Wlltdkxsc1Y4eVBINEg3N1FDVERkcUNXdU9pWEJ3OTZadE03Z0tJYUQzZzJ1WEJIV2JsWktwYWdFR2h6UHpQQV9yZWNCYjdwTzRsUGJqaFJkLXJqb05R?oc=5",
-          "source": "Google News: Rivals rosters (Yahoo Tech)",
-          "published": "2026-11-09T17:33:29.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXl2aU0yUW1kZGxwUU1ESk8tQmdRSWdHR25wenVXNDYtS2FZNlBmckpjaDlGUnFvT3hBbV9iSEh6cTdscmdwZjBSTFRWR051TkFzeWh4Ym1NNUxrcVVlMW9ySGVlMkdwYUZSMTFTMU5EYkgtdm1Cd3M3SmhjX0luQk05RFh3OEJldFIxS1d3?oc=5",
+          "source": "Google News: Rivals esports (Destructoid)",
+          "published": "2026-11-09T17:33:00.000Z",
           "score": 1,
           "level": null,
           "why": []
