@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-10T12:00:27.090Z",
+  "generatedAt": "2026-11-10T13:00:26.335Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 25,
       "stories": [
-        {
-          "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-09T12:32:41.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "wins",
-            "mouz",
-            "iem"
-          ]
-        },
         {
           "title": "Why is w0nderful rated so low compared to other AWPers like Sh1ro or Molodoy(Zywoo and m0nesy are obvious why) despite his good stats, an MVP and multiple EVPs (and also Navi winning 2 trophies this year)?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsit9j/why_is_w0nderful_rated_so_low_compared_to_other/",
@@ -85,6 +72,18 @@
           ]
         },
         {
+          "title": "PGL Cluj-Napoca 2027 Teams Confirmed: All 14 Invites",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZURjWXlvMk0yc0tROHZNM0NEbmdrbkY0bmctUlNHS2t5WHhGWVd4ZDJ1S2p5WTJsR0txV0t0M2FQU0JFSndlTm56a0NJbHVRa0RlVS0tVmttYjZzOTFiTnJGcnprY2gwMDY3aTJycl8wUlVhWUlVX3l1M1M1XzhZZkh4VFpDejNzNWxlQ2FrUi1yUQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-10T09:07:01.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "confirmed",
+            "pgl"
+          ]
+        },
+        {
           "title": "Outside of karrigan and FalleN, is MAJ3R the last active pro from the CS 1.6 old guard?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsgaac/outside_of_karrigan_and_fallen_is_maj3r_the_last/",
           "source": "r/GlobalOffensive",
@@ -94,6 +93,18 @@
           "why": [
             "the last",
             "karrigan"
+          ]
+        },
+        {
+          "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-10T06:36:31.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "faze"
           ]
         },
         {
@@ -139,17 +150,6 @@
           "level": null,
           "why": [
             "blast"
-          ]
-        },
-        {
-          "title": "MOUZ claim No.1 in world rankings after Beijing title",
-          "url": "https://www.hltv.org/news/45952/mouz-claim-no1-in-world-rankings-after-beijing-title",
-          "source": "HLTV news",
-          "published": "2026-11-09T18:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "mouz"
           ]
         }
       ]
@@ -214,7 +214,7 @@
           "title": "All Organizations That Left Dota 2 In 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0stUnp5aGoxMVpjS0dnRjJsa09oU2pJTG5ZS3BvLWFWTURNcE00Nzc3RllEVmxTWWt1OEZnQXI1Skc2R0oxQmNuemZGRFg2SUJxWkNBX0Fvc2laTk9GaEF2aTNMU0RmSDY0cVdfY2ZuelNCaVlBeHhLcFNyOGdYVmI3SUQ?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-10T11:48:45.000Z",
+          "published": "2026-11-10T11:52:08.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -258,6 +258,17 @@
           "why": []
         },
         {
+          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-10T12:04:00.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
           "title": "Patch is coming",
           "url": "https://www.reddit.com/r/DotA2/comments/1xsl0t6/patch_is_coming/",
           "source": "r/DotA2",
@@ -280,15 +291,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xsfm5c/sign_up_to_our_eu_na_ability_draft_league/",
           "source": "r/DotA2",
           "published": "2026-11-10T06:19:37.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Supporter pack emoticons are back for those before season 10",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsc9k4/supporter_pack_emoticons_are_back_for_those/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T03:17:37.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -402,32 +404,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "$100K FAZE x THE FLANK INVITATIONAL",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xsbjwr/100k_faze_x_the_flank_invitational/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-10T02:43:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Call of Duty League 2027 Power Rankings after the Monster Energy Launch Invitational",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakx0Q3Z0ZzBOZTU1NWVUUmE4R0JGa3k2TWZZMEs2RXBwVktVZnBBZlgzdDQ4Z3NQc1Q5TXdqakNxR0h0aWtpb25MOEkzUm5RZHRndlpoME0tSGd6QXdCUUgyUmtYUU5saFVCdXFDbHFPaG15Yk5HbFllVy1JeE50UU5sT2s3QlBOV2stV2NBZkdjX1dqMWJSWUw1Q0JpbEFpazlXZVJXQV9NZ3I3RW9fTnZvUzlmbzhxd1ZsbWd3?oc=5",
-          "source": "Google News: CoD (GamingTrend)",
-          "published": "2026-11-09T20:25:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
@@ -453,6 +429,21 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ROC1meEpFeXFtbjJnNGxNU0tGWnJIamlKdVJOWGk5UF9YZi1BTTRnM0E3RjFiVXI1ZndKRDk5V0RTMDBsWWRmLWtLakY5QUJnZ003cTlYMDVObWJENTI1N2RWRzkxWUtSSklsYTFWRTc?oc=5",
           "source": "Google News: Melee (EventHubs)",
           "published": "2026-11-09T14:06:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Call of Duty League 2027 Power Rankings after the Monster Energy Launch Invitational",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakx0Q3Z0ZzBOZTU1NWVUUmE4R0JGa3k2TWZZMEs2RXBwVktVZnBBZlgzdDQ4Z3NQc1Q5TXdqakNxR0h0aWtpb25MOEkzUm5RZHRndlpoME0tSGd6QXdCUUgyUmtYUU5saFVCdXFDbHFPaG15Yk5HbFllVy1JeE50UU5sT2s3QlBOV2stV2NBZkdjX1dqMWJSWUw1Q0JpbEFpazlXZVJXQV9NZ3I3RW9fTnZvUzlmbzhxd1ZsbWd3?oc=5",
+          "source": "Google News: CoD (GamingTrend)",
+          "published": "2026-11-09T20:25:47.000Z",
           "score": 1,
           "level": null,
           "why": []
