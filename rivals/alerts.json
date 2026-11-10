@@ -1,6 +1,29 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T17:10:24.258Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Doomsday Begins In Marvel Rivals Season 11 As Nightcrawler & Dracula Are Unveiled",
+      "url": "https://insider-gaming.com/doomsday-begins-in-marvel-rivals-season-11-as-nightcrawler-dracula-are-unveiled/",
+      "source": "Insider Gaming",
+      "outlets": [
+        "IGN",
+        "GosuGamers",
+        "IGN India",
+        "Yahoo Tech",
+        "Insider Gaming"
+      ],
+      "score": 6,
+      "why": [
+        "roster*",
+        "season",
+        "5 outlets"
+      ],
+      "summary": "Nightcrawler has officially been unveiled by NetEase Games as the newest hero to join the Marvel Rivals roster with Season 11. The post Doomsday Begins In Marvel Rivals Season 11 As Nightcrawler & Dracula Are Unveiled appeared first on Insider Gaming .",
+      "published": "2026-11-10T17:07:45.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T14:00:33.303Z",
       "level": "possible",
       "scene": "Marvel Rivals",
