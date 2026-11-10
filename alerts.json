@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T03:55:15.482Z",
+      "level": "possible",
+      "scene": "Quake",
+      "title": "Anyone else play another Quake game while waiting in the Quake Champions 1v1 queue?",
+      "url": "https://www.reddit.com/r/QuakeChampions/comments/1xscxyp/anyone_else_play_another_quake_game_while_waiting/",
+      "source": "r/QuakeChampions",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "fired*",
+        "champions"
+      ],
+      "summary": "I fired up Quake Champions: Doom Edition to kill some time while waiting for a Quake Champions 1v1 competitive match. I don't know if you guys usually do this, but it made the time fly by and rendered the wait for matchmaking so much more bearable. Do you have a habit of doing something similar? Running a second game in the background while waiting for competitive queue to find a match? I mentioned QCDE, but I'd love to know if you play any other Quake (like Quake Live, Q3, Q2, Q1, or even a non-Quake game) while you wait. submitted by /u/DigAdministrative448 to r/QuakeChampions [link] [comments]",
+      "published": "2026-11-10T03:52:25.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T02:50:17.498Z",
       "level": "possible",
       "scene": "CS2",
