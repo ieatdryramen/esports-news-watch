@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T22:55:19.195Z",
+  "generatedAt": "2026-11-10T23:24:48.063Z",
   "source": "start.gg",
   "completed": [
     {
@@ -189,53 +189,6 @@
           "name": "Tempel | Vikage"
         }
       ]
-    },
-    {
-      "eventId": "1729356",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "The Asscadian 8",
-      "event": "Melee Singles",
-      "entrants": 64,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T23:00:00.000Z",
-      "endAt": "2026-11-08T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-asscadian-8/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "chrisgoon"
-        },
-        {
-          "placement": 2,
-          "name": "bnuts"
-        },
-        {
-          "placement": 3,
-          "name": "Jupiter"
-        },
-        {
-          "placement": 4,
-          "name": "Cherry | SpiderJew"
-        },
-        {
-          "placement": 5,
-          "name": "Paytron97"
-        },
-        {
-          "placement": 5,
-          "name": "WPHP"
-        },
-        {
-          "placement": 7,
-          "name": "Josh | Josh TinglyJungle"
-        },
-        {
-          "placement": 7,
-          "name": "SexGod | RitzyCheese"
-        }
-      ]
     }
   ],
   "live": [],
@@ -246,7 +199,7 @@
       "game": "Tekken 8",
       "tournament": "TNS TEKKEN 8 #141",
       "event": "Tekken 8",
-      "entrants": 109,
+      "entrants": 136,
       "online": true,
       "major": false,
       "startAt": "2026-11-11T01:00:00.000Z",
@@ -272,7 +225,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
       "event": "Melee Singles",
-      "entrants": 93,
+      "entrants": 98,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T00:00:00.000Z",
@@ -343,6 +296,19 @@
       "startAt": "2026-11-14T18:00:00.000Z",
       "endAt": "2026-11-16T04:30:00.000Z",
       "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/tekken-8"
+    },
+    {
+      "eventId": "1679364",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "BOPME XXX",
+      "event": "Melee Singles",
+      "entrants": 65,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T18:00:00.000Z",
+      "endAt": "2026-11-15T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/bopme-xxx/event/melee-singles"
     },
     {
       "eventId": "1587277",
