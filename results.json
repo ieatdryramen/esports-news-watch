@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-10T04:55:16.449Z",
+  "generatedAt": "2026-11-10T05:25:16.888Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1744889",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "TNS Guilty Gear Strive #230",
+      "event": "Guilty Gear Strive (Crossplay)",
+      "entrants": 119,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-10T01:00:00.000Z",
+      "endAt": "2026-11-10T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-230/event/guilty-gear-strive-crossplay",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ONi | RedIAmNot"
+        },
+        {
+          "placement": 2,
+          "name": "Classified"
+        },
+        {
+          "placement": 3,
+          "name": "Gamer Supps | FubukiVr"
+        },
+        {
+          "placement": 4,
+          "name": "TF | Sym"
+        },
+        {
+          "placement": 5,
+          "name": "Baltimore | baltiBrian"
+        },
+        {
+          "placement": 5,
+          "name": "CHD | Takoyaki"
+        },
+        {
+          "placement": 7,
+          "name": "Macho"
+        },
+        {
+          "placement": 7,
+          "name": "39 | *Insert*"
+        }
+      ]
+    },
     {
       "eventId": "1714477",
       "scene": "streetfighter",
