@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T10:25:33.290Z",
+  "generatedAt": "2026-11-10T11:25:31.493Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Marvel Rivals’ Rumoured 2027 Roster Includes Miles Morales",
@@ -84,15 +84,6 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXdZQjE2dmVIWFFhSmRERUpLazZWTm9SSzFURTNYY0xjQlBNUHNXQi1OQ2piMWd1Wlltdkxsc1Y4eVBINEg3N1FDVERkcUNXdU9pWEJ3OTZadE03Z0tJYUQzZzJ1WEJIV2JsWktwYWdFR2h6UHpQQV9yZWNCYjdwTzRsUGJqaFJkLXJqb05R?oc=5",
           "source": "Google News: Rivals rosters (Yahoo Tech)",
           "published": "2026-11-09T17:33:29.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Rumor Puts Spider-Gwen and Green Goblin in Seasons 13 and 13.5",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTBMWUpaSk10bmRlSkRISlk2X3k1SzJiX3JLVU5VQ1MyaWlkTUt4S09YY2p1dWhLMHBhVmN1SzdDUUZQRUgzTXFwNm9zSkVOTkkzWVNkYm9OUmRncDgxVExDUHJ1NkhpMm04RkFDTEJpdllYQ0liaXU2RUpWLURIM2tGWEdjb2dpQ0lBR0p3?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-09T11:17:10.000Z",
           "score": 1,
           "level": null,
           "why": []
