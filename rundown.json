@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T20:45:20.992Z",
+  "generatedAt": "2026-11-10T21:45:21.260Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 23,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -149,8 +149,20 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "[Shotzzy] OpTic Texas Vs G2 Scrim! (Modern Warfare 4)",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xsys2s/shotzzy_optic_texas_vs_g2_scrim_modern_warfare_4/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-10T21:09:27.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "optic texas",
+            "shotzzy"
+          ]
+        },
         {
           "title": "FaZe Clan Teases Mysterious Return for November 11 — Banks Says He Will Not Be Involved",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUYxMEQ1czNyZE9pZWUtNnV5TmY0dVZVNW1jbTNxbUV3Vzc2NnBUQzFsRTFZV3piRTluNjl0S0pFSTByYWNaZUtodllSdEUyUXBWbEdtUnRyb2lUQjB6QnlvNzNNTHFCZTV1ZE1RREtTaFlzR3d0WUI2dkkwbFVKMmNjVmYzZjNNS0FoUm9Mb0p2dG5DZ2tMUnR5b0k5MFp2UjREX3BGTXYxbHk1WHNJT0hTVHhHcUp00gHAAUFVX3lxTE5QOHVuQmVkSHlscHFkaFk4dXVvYUpTQU1BZkRjZ0JoQmZaMGdaVXJtVVozVjJGeUY5MVVRcnlCam4tRDBpLUVoZTgxSnhzMDNFb2ZrV2JQNlNJdTlQel9xeER5dTFsYTF4Q3EtY08tbjFrOWUzWUh5bk85SjQ5QjhrQkM3ZWlFS1pUMnVCQjRacDliSUtKRlJlYWxCRnhrdXpEVll2eWl0bGNzOXFBX2VkdWdXTlVHVFY0eDRWdzgxTA?oc=5",
@@ -207,17 +219,6 @@
           "level": null,
           "why": [
             "cheat"
-          ]
-        },
-        {
-          "title": "GG rumored roster",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsqvi5/gg_rumored_roster/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T16:09:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
           ]
         },
         {
@@ -281,6 +282,15 @@
           ]
         },
         {
+          "title": "Please patch - come soon",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsyl31/please_patch_come_soon/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T21:02:03.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Thoughts on upcoming patch",
           "url": "https://www.reddit.com/r/DotA2/comments/1xsxhko/thoughts_on_upcoming_patch/",
           "source": "r/DotA2",
@@ -313,7 +323,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -363,6 +373,15 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
+          "source": "Google News: Tekken (Gaming Age)",
+          "published": "2026-11-10T01:14:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -388,10 +407,10 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "Judging the Qualifying Round – 2026 CTWC Experience – Day 1 – Part 3",
-          "url": "https://tetrisinterest.com/judging-the-qualifying-round-2026-ctwc-experience-day-1-part-3/",
+          "title": "Updating the Qualifying Ranks – 2026 CTWC Experience – Day 1 – Part 4",
+          "url": "https://tetrisinterest.com/updating-the-qualifying-ranks-2026-ctwc-experience-day-1-part-4/",
           "source": "Tetris Interest",
-          "published": "2026-11-10T20:44:50.000Z",
+          "published": "2026-11-10T20:46:27.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -422,9 +441,9 @@
         },
         {
           "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEJVTWJhWDdNSDREWmdZTmxka3puY1g3bUFuazJYWVNmSTE0U0dGTEZ5OUtPc3lLNGd2ZnFaMVpjbkxFcWFVT3R5a3Y3RlFYT0Z2ckRfb3I1UW4zdXlrVWczRS1tSFA5MHBwdlc1RTljV3ZqblVpekRLcFpOWHgtY0szc0UzWGgtUDAySGpWZW5YWnlhSkMzMWhVWUJQTHN1VEhHZWI3UUgzNFR6bTdubGc5dGw5WkZLNUIzSEx6bC1hWTFPV0puSm85OWdZNXN5Z0o3ZGhyUGJLTWJ1?oc=5",
-          "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-09T21:41:36.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT2xDNUVOVFpGcGZ5cU1rd0hzUnVPbi1vQVJtYU5aVExkam51dEpXYldrcVlJVld2Nks1R0plM29fTm5uSE4xX1lSSno2QUVDU2gwQkFpeDRrX0RCcTZpczQ0cjBKdXRJNU5IdThic0JleUVEeWhuSk9NUThXUDhTbW1CVmxKT2ZrcGZnNTZrZEY3UlhPdUtfcGNyeWZOc2xOSXQzQjhsQ0NCWjYxbTRFS25LRVV2d2cyNmN2bzFmaHEzVE56N3Q1MXZXT2VKendDc2ZLTUUtLVY4Tnp5eVhlOQ?oc=5",
+          "source": "Google News: Street Fighter (IGN Southeast Asia)",
+          "published": "2026-11-10T01:45:07.000Z",
           "score": 1,
           "level": null,
           "why": []
