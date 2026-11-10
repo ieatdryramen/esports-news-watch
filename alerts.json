@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T16:15:21.667Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "why was s1mple voted to be the MVP of the finals here?",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsqycs/why_was_s1mple_voted_to_be_the_mvp_of_the_finals/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "won*",
+        "s1mple",
+        "zywoo*",
+        "vitality*"
+      ],
+      "summary": "I know that s1mple had a slightly higher rating here, but Vitality won the event here and ZywOo had 2 crazy highlights here. Typically guy from the losing team gets voted only if he has by far the highest rating, and it's clearly not the case here, as both ZywOo and s1mple had very high numbers, and since Vita won it I'd expect it to be ZywOo submitted by /u/Main-Beautiful-433 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-10T16:12:44.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T14:35:18.808Z",
       "level": "breaking",
       "scene": "CS2",
