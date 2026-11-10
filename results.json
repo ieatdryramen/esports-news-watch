@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T23:55:15.007Z",
+  "generatedAt": "2026-11-10T00:25:19.094Z",
   "source": "start.gg",
   "completed": [
     {
@@ -589,7 +589,7 @@
       "game": "Guilty Gear -Strive-",
       "tournament": "TNS Guilty Gear Strive #230",
       "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 116,
+      "entrants": 122,
       "online": true,
       "major": false,
       "startAt": "2026-11-10T01:00:00.000Z",
@@ -686,6 +686,32 @@
       "startAt": "2026-11-14T18:00:00.000Z",
       "endAt": "2026-11-16T04:30:00.000Z",
       "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/tekken-8"
+    },
+    {
+      "eventId": "1587277",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Port Priority: DX",
+      "event": "Melee Singles",
+      "entrants": 512,
+      "online": false,
+      "major": true,
+      "startAt": "2026-11-14T18:00:00.000Z",
+      "endAt": "2026-11-16T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-singles"
+    },
+    {
+      "eventId": "1616764",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Port Priority: DX",
+      "event": "Melee Doubles",
+      "entrants": 104,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T18:00:00.000Z",
+      "endAt": "2026-11-16T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-doubles-3"
     },
     {
       "eventId": "1608387",
