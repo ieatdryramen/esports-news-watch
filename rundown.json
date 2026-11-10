@@ -1,134 +1,26 @@
 {
-  "generatedAt": "2026-11-10T17:00:24.459Z",
+  "generatedAt": "2026-11-10T17:55:35.515Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Dota",
-      "storyCount": 11,
+      "scene": "CS2",
+      "storyCount": 20,
       "stories": [
         {
-          "title": "4IVAN accused Nemiga Gaming players of match-fixing",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsmnbw/4ivan_accused_nemiga_gaming_players_of_matchfixing/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T13:17:03.000Z",
-          "score": 9,
+          "title": "Got a 31-day VACNet cooldown despite not cheating",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xstmir/got_a_31day_vacnet_cooldown_despite_not_cheating/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T17:52:56.000Z",
+          "score": 9.5,
           "level": "possible",
           "why": [
-            "match-fixing",
-            "accused",
+            "banned*",
+            "cheating",
+            "vac*",
+            "cancelled*",
             "reddit only"
           ]
         },
-        {
-          "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnhUQ3NmRlpOSUkwZnNabWRlbFc2VzRld3Zpc3JIR21LbVVnRFJ0WUhxNG1GUlJTOHV3alhYUk9FWUV4SGNJZ0VZN1hzMkdzeEgtQlEyS3hiMWxTX2JCbWxfZzgzWktyZ2pLakUtZ0N3emtFM3VIRXpBRFhleU1GN2dLTFk3SmU2N0hqeG5OeHN2dE4zNFhSMzh2c1F1NnFsM05vY3B2dDNtTW5oZTg5NzVR0gG6AUFVX3lxTFBvWFJTLUVNb2hiVjRuREZLMm9uQU1SRnV4MjJ0bGl0TGNjTEhGaGE3b0VpUHg1QWJYaDdnbklJUzNFdXFpbEhvRktaQVhKdjRKTnhwMFdyUWJDTDF3OENIWTU1b3hITlFvR0dPSEFPZEhLQW5fU2lWVEJsQklqajhBSloyOTluY2YwR3lfdGNPQks2U2V1dFFtVXRCRmtncXJLVFhoZm1BSi0za0prQnk1Y3pqcHlzWXFUQQ?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-09T19:24:54.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
-        },
-        {
-          "title": "My Wishlist for the New patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsocer/my_wishlist_for_the_new_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T14:30:39.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed*",
-            "comeback*"
-          ]
-        },
-        {
-          "title": "GG rumored roster",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsqvi5/gg_rumored_roster/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T16:09:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "In this thread we pretend 7.43 has released",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsntso/in_this_thread_we_pretend_743_has_released/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T14:09:09.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        },
-        {
-          "title": "Leaving League behind, coming to Dota. Which role/hero should I play?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsmfxo/leaving_league_behind_coming_to_dota_which/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T13:07:24.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "champions*"
-          ]
-        },
-        {
-          "title": "All Organizations That Left Dota 2 In 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0stUnp5aGoxMVpjS0dnRjJsa09oU2pJTG5ZS3BvLWFWTURNcE00Nzc3RllEVmxTWWt1OEZnQXI1Skc2R0oxQmNuemZGRFg2SUJxWkNBX0Fvc2laTk9GaEF2aTNMU0RmSDY0cVdfY2ZuelNCaVlBeHhLcFNyOGdYVmI3SUQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-10T11:52:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "NS Reflects on the Decline of the Dota 2 Pro Scene",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeF9FRlFVYmlFamxKTkl0YlhOQ1B4eElkN1NyZlZmX0w2Q3Mxd2JTYTZ5ZERDa01BWnlTZ3NidFRxaVJYV0xzeS1ON1hxZndRUmQ3VmlWZUsxeGhkQzFUYlFOYktkc2s0WW52dA?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-10T10:03:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Seven Dota 2 Teams Gone in Six Months: Why Organisations Are Walking Away From the Scene",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhNOTg5VXV6VXBab2d6X2tIUC1NT1c4aXd6RzJsZE9FS1IxQUVnTWlpX2RDZEFFTHZicmZERDhMYndWeU5XSTlTMmYxWWIxLTZaN2paVGI2NlpQQ1pPTHVndXhsSzFxY3RGSTJkeWhnVnVRaHhheGR6LWNmY0NQV1U1UjdZVVN2MzduenFMNA?oc=5",
-          "source": "Google News: Dota (TalkEsport)",
-          "published": "2026-11-10T06:57:32.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-10T12:04:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "Patch is coming",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsl0t6/patch_is_coming/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T11:57:12.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 19,
-      "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODUtWFByT3NENUgwVTBIZFg3aWRQZ0w5OVFkMUMyNDVleUtBQjExZUx0c1BPYzZZV1U5OW8ybFkxRmdDcUlEUlBSN05vOXNnWTFDM09oOHJvSXhtWW94cUk5V1h6ZE5ILUM2WVFsSmhLUlJlTzJaNDVuWk13OU81aVNB?oc=5",
@@ -257,16 +149,128 @@
           "why": [
             "mouz"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 11,
+      "stories": [
+        {
+          "title": "4IVAN accused Nemiga Gaming players of match-fixing",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsmnbw/4ivan_accused_nemiga_gaming_players_of_matchfixing/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T13:17:03.000Z",
+          "score": 9,
+          "level": "possible",
+          "why": [
+            "match-fixing",
+            "accused",
+            "reddit only"
+          ]
         },
         {
-          "title": "Economy filters added to stats pages",
-          "url": "https://www.hltv.org/news/45946/economy-filters-added-to-stats-pages",
-          "source": "HLTV news",
-          "published": "2026-11-10T13:18:00.000Z",
-          "score": 2.5,
+          "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnhUQ3NmRlpOSUkwZnNabWRlbFc2VzRld3Zpc3JIR21LbVVnRFJ0WUhxNG1GUlJTOHV3alhYUk9FWUV4SGNJZ0VZN1hzMkdzeEgtQlEyS3hiMWxTX2JCbWxfZzgzWktyZ2pLakUtZ0N3emtFM3VIRXpBRFhleU1GN2dLTFk3SmU2N0hqeG5OeHN2dE4zNFhSMzh2c1F1NnFsM05vY3B2dDNtTW5oZTg5NzVR0gG6AUFVX3lxTFBvWFJTLUVNb2hiVjRuREZLMm9uQU1SRnV4MjJ0bGl0TGNjTEhGaGE3b0VpUHg1QWJYaDdnbklJUzNFdXFpbEhvRktaQVhKdjRKTnhwMFdyUWJDTDF3OENIWTU1b3hITlFvR0dPSEFPZEhLQW5fU2lWVEJsQklqajhBSloyOTluY2YwR3lfdGNPQks2U2V1dFFtVXRCRmtncXJLVFhoZm1BSi0za0prQnk1Y3pqcHlzWXFUQQ?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-09T19:24:54.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "wins*"
+            "return",
+            "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "My Wishlist for the New patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsocer/my_wishlist_for_the_new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T14:30:39.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed*",
+            "comeback*"
+          ]
+        },
+        {
+          "title": "GG rumored roster",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsqvi5/gg_rumored_roster/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T16:09:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "In this thread we pretend 7.43 has released",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsntso/in_this_thread_we_pretend_743_has_released/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T14:09:09.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
+          ]
+        },
+        {
+          "title": "Leaving League behind, coming to Dota. Which role/hero should I play?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsmfxo/leaving_league_behind_coming_to_dota_which/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T13:07:24.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "champions*"
+          ]
+        },
+        {
+          "title": "All Organizations That Left Dota 2 In 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0stUnp5aGoxMVpjS0dnRjJsa09oU2pJTG5ZS3BvLWFWTURNcE00Nzc3RllEVmxTWWt1OEZnQXI1Skc2R0oxQmNuemZGRFg2SUJxWkNBX0Fvc2laTk9GaEF2aTNMU0RmSDY0cVdfY2ZuelNCaVlBeHhLcFNyOGdYVmI3SUQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-10T11:52:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "NS Reflects on the Decline of the Dota 2 Pro Scene",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeF9FRlFVYmlFamxKTkl0YlhOQ1B4eElkN1NyZlZmX0w2Q3Mxd2JTYTZ5ZERDa01BWnlTZ3NidFRxaVJYV0xzeS1ON1hxZndRUmQ3VmlWZUsxeGhkQzFUYlFOYktkc2s0WW52dA?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-10T10:03:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Seven Dota 2 Teams Gone in Six Months: Why Organisations Are Walking Away From the Scene",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhNOTg5VXV6VXBab2d6X2tIUC1NT1c4aXd6RzJsZE9FS1IxQUVnTWlpX2RDZEFFTHZicmZERDhMYndWeU5XSTlTMmYxWWIxLTZaN2paVGI2NlpQQ1pPTHVndXhsSzFxY3RGSTJkeWhnVnVRaHhheGR6LWNmY0NQV1U1UjdZVVN2MzduenFMNA?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-10T06:57:32.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "How to balance farming&fighting",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xstiog/how_to_balance_farmingfighting/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T17:48:55.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-10T12:04:00.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
           ]
         }
       ]
@@ -300,7 +304,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Port Priority DX Commentator Roster",
@@ -312,6 +316,17 @@
           "why": [
             "cheat*",
             "roster"
+          ]
+        },
+        {
+          "title": "Parry.gg & Melee Stats Announce 14th Official Melee Tier List - Releasing December 2026",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xsstox/parrygg_melee_stats_announce_14th_official_melee/",
+          "source": "r/SSBM",
+          "published": "2026-11-10T17:22:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "official"
           ]
         },
         {
@@ -327,7 +342,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -363,6 +378,15 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWNmbTFrcDZYWUwxNzZrUWhtSFdVZzVmNHl0TFVNNVVyRGxMWlJxaDNISHFfdm9wSVVhbWVpa05Ibnd0ekh3YU5MdUdOdjdid1VOQms2aDlSbGprVnFuVTBIbmZ4Ujd6ZzYzT24wRWpaQzR2ZUtZVDlYUjlDVDhPanJjbUpocDl0Z1VwVDFVejdpSWNWa2hrU3g0ZERYS0df?oc=5",
           "source": "Google News: Tekken (UnGeek)",
           "published": "2026-11-10T14:01:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
+          "source": "Google News: Tekken (Gaming Age)",
+          "published": "2026-11-10T01:14:39.000Z",
           "score": 1,
           "level": null,
           "why": []
