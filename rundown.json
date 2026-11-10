@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T04:00:24.164Z",
+  "generatedAt": "2026-11-10T05:00:24.601Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -154,7 +154,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 5,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Blaz insane comeback vs Noah, 3 perfect parry drush vs luke fb w/ no hp and driveguage.",
@@ -166,6 +166,17 @@
           "why": [
             "comeback",
             "blaz"
+          ]
+        },
+        {
+          "title": "You get a comeback, I get a comeback, everybody gets a comeback",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xsdolm/you_get_a_comeback_i_get_a_comeback_everybody/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-10T04:32:06.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
           ]
         },
         {
@@ -207,6 +218,18 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Apparently the mods removed my post, idk why since I was asking a genuine question 😕",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xse6vy/apparently_the_mods_removed_my_post_idk_why_since/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-10T04:59:29.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "removed",
+            "-question"
+          ]
         }
       ]
     },
@@ -230,7 +253,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
@@ -272,6 +295,17 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-09T22:32:17.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -342,37 +376,19 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 3,
+      "scene": "Classic Tetris",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Mang0 is the jayz of melee",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xs28z1/mang0_is_the_jayz_of_melee/",
-          "source": "r/SSBM",
-          "published": "2026-11-09T20:08:26.000Z",
+          "title": "A falling Tetris piece won't wait for an LLM to finish thinking",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xsdmrb/a_falling_tetris_piece_wont_wait_for_an_llm_to/",
+          "source": "r/Tetris",
+          "published": "2026-11-10T04:29:23.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "mang0"
+            "won"
           ]
-        },
-        {
-          "title": "New mod turns Super Smash Bros. Melee into a three-dimensional brawler",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ROC1meEpFeXFtbjJnNGxNU0tGWnJIamlKdVJOWGk5UF9YZi1BTTRnM0E3RjFiVXI1ZndKRDk5V0RTMDBsWWRmLWtLakY5QUJnZ003cTlYMDVObWJENTI1N2RWRzkxWUtSSklsYTFWRTc?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-09T14:06:31.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tournament-Viable Quality Emulation on Switch or Wii U?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xsaxqb/tournamentviable_quality_emulation_on_switch_or/",
-          "source": "r/SSBM",
-          "published": "2026-11-10T02:13:31.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -390,6 +406,30 @@
           "why": [
             "rush"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "New mod turns Super Smash Bros. Melee into a three-dimensional brawler",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ROC1meEpFeXFtbjJnNGxNU0tGWnJIamlKdVJOWGk5UF9YZi1BTTRnM0E3RjFiVXI1ZndKRDk5V0RTMDBsWWRmLWtLakY5QUJnZ003cTlYMDVObWJENTI1N2RWRzkxWUtSSklsYTFWRTc?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-09T14:06:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tournament-Viable Quality Emulation on Switch or Wii U?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xsaxqb/tournamentviable_quality_emulation_on_switch_or/",
+          "source": "r/SSBM",
+          "published": "2026-11-10T02:13:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -412,8 +452,17 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Characters to look forward to in Tekken 8 season 4?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xsd4cn/characters_to_look_forward_to_in_tekken_8_season_4/",
+          "source": "r/Tekken",
+          "published": "2026-11-10T04:01:47.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Tournament ready game, btw 😂",
           "url": "https://www.reddit.com/r/Tekken/comments/1xs4inf/tournament_ready_game_btw/",
@@ -427,7 +476,6 @@
     }
   ],
   "quiet": [
-    "Classic Tetris",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC"
