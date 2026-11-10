@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:55:18.493Z",
+  "generatedAt": "2026-11-10T16:25:18.307Z",
   "source": "start.gg",
   "completed": [
     {
@@ -281,53 +281,6 @@
         {
           "placement": 7,
           "name": "GUG | Matt, Vegas"
-        }
-      ]
-    },
-    {
-      "eventId": "1687062",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Frame 19",
-      "event": "Melee Singles",
-      "entrants": 118,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T16:00:00.000Z",
-      "endAt": "2026-11-08T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/frame-19/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "NSE | Maher"
-        },
-        {
-          "placement": 2,
-          "name": "mister pingas"
-        },
-        {
-          "placement": 3,
-          "name": "JoyStick | OG Kid"
-        },
-        {
-          "placement": 4,
-          "name": "BING"
-        },
-        {
-          "placement": 5,
-          "name": "nojonsmods | kdog"
-        },
-        {
-          "placement": 5,
-          "name": "mPreggles | Asuka"
-        },
-        {
-          "placement": 7,
-          "name": "VDL | Just"
-        },
-        {
-          "placement": 7,
-          "name": "Nen"
         }
       ]
     },
