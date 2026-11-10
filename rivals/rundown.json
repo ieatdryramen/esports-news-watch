@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T02:25:32.576Z",
+  "generatedAt": "2026-11-10T03:25:29.350Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
         {
           "title": "MRC Season 8: Sins Of Alchemax - Pacific PC",
@@ -72,6 +72,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Overwatch Has Just Copied Marvel Rivals' Homework Yet Again",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QbVM3TWFvYzhsNXVlTVhXZnRJSG1kcjRMZmN0akhzRXUxOF9HaFFYNnhCX2hfTjBVT0RlR3BNcm53TTVxbk5BZm5ka3BFZVFrZXJiSEFrWUZzXzBQdVhvMGFyM0F1ZHc?oc=5",
+          "source": "Google News: Rivals rosters (IMDb)",
+          "published": "2026-11-10T01:08:51.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals: Hero Wish List",
