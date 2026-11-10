@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T01:00:25.672Z",
+  "generatedAt": "2026-11-10T02:00:26.842Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
         {
           "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
@@ -92,9 +92,9 @@
         },
         {
           "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-09T13:57:42.000Z",
+          "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/",
+          "source": "esports.gg",
+          "published": "2026-11-09T12:52:52.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -149,7 +149,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Nice Cheat Grimstroke still lost :)",
@@ -210,17 +210,6 @@
           ]
         },
         {
-          "title": "DreamLeague Division 2 Series 5 (China at the Bottom)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrye9w/dreamleague_division_2_series_5_china_at_the/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T17:47:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dreamleague"
-          ]
-        },
-        {
           "title": "Where is the guy that feels something in his ass when there’s an update?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xs0gsx/where_is_the_guy_that_feels_something_in_his_ass/",
           "source": "r/DotA2",
@@ -248,23 +237,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlhhUFRmYmtwMXZRTmxhVFd1a3ozTFlLNDhQV1Z5YVNCSFI1S2x6SEk3dVVRaTJfdTBIZ1NCQjJMVk9oSXFUbHA4c0E0bThtWWJ0ZFVIZUFvUktJOTJRZmY3TDFNNS1TUnVZOWRySVRjeHRsVlhGN2VXWFcyUC1YVk9OeGFtSjRmc2Y1amhhTTdvaW9aQjJYS1JOUk1FX0steWJ4RFl6X0k?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-09T01:15:26.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Blaz insane comeback vs Noah, 3 perfect parry drush vs luke fb w/ no hp and driveguage.",
@@ -279,10 +257,39 @@
           ]
         },
         {
+          "title": "Blaz's Is The Future Of Street Fighter",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xs9l5v/blazs_is_the_future_of_street_fighter/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-10T01:08:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blaz"
+          ]
+        },
+        {
+          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUhsWTZBZExTOWJvMmVxbGFTWnpBZV90QUE0YzRGRlRIb2d6bFYzN0xKSzc2bWQ0eHJmR3Nwd1lGZ0tJUnFRb0RYNmtjX3ZTMHdlaUxjaFZfN2hwQ1ZoMG9IUF9jcUdYeEY1QkQ0S1FJVTZtcGZETmd0cnliNUlsTGd5T1QyaVVyeWh2WWdpaHNaQlM3SDh5LTBla1VMWjBGcVpVckxjXzJ3Mm0zUGRBUkJlcmRZanlGU290VXFKbEZWZXRpUDZJU2IwWEozeThNeTgyVUVZTzlPX1JhVjJz?oc=5",
+          "source": "Google News: Street Fighter (IGN Nordic)",
+          "published": "2026-11-10T01:54:58.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEJVTWJhWDdNSDREWmdZTmxka3puY1g3bUFuazJYWVNmSTE0U0dGTEZ5OUtPc3lLNGd2ZnFaMVpjbkxFcWFVT3R5a3Y3RlFYT0Z2ckRfb3I1UW4zdXlrVWczRS1tSFA5MHBwdlc1RTljV3ZqblVpekRLcFpOWHgtY0szc0UzWGgtUDAySGpWZW5YWnlhSkMzMWhVWUJQTHN1VEhHZWI3UUgzNFR6bTdubGc5dGw5WkZLNUIzSEx6bC1hWTFPV0puSm85OWdZNXN5Z0o3ZGhyUGJLTWJ1?oc=5",
           "source": "Google News: Street Fighter (IGN)",
           "published": "2026-11-09T21:41:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Sahara and Team Reject win big at Capcom Cup 12 and Street Fighter League: World Championship 2025",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXlncVBZUjA5RTY4RlVCRUFpeU44VVlJaUlVSHMyc2pjRUMzT2RNam1vLTk3Y2RrOGhDYThCaXNFSjBOa1hXZ011V19YbktvcmtoaUxhcTZXRFZJdUQzT3U5VnlKZER0ekFJQWJ5aGdZRG9hN2REZ1k0VlJBZjAycGlTX25yWk5qSXR6Tk5wQVlmWW1scDZPWkYtdS1vVmpoUTVLU1lDenI1cHNMcVdRSWhsSVQ5bkpJWFVNSmdJcU8zOUEtVWNLbtIBzgFBVV95cUxQWEhrbk15a05tQkUxRUdhaEE0eGNVUndYYXRRTlFUb0QyRUVZbDNDSG5BS0RmTU1KLWdhcmxpaXhENGFLOVFwVGZveUlJQjNmb0w3SEw5WjhVeFVpVi1qcnlJbU1fWWltNUwxdlZRckJIQUdyN2h5b3k1eVZkeTU1dWpyaF9EU1J2eDF6dVU3LVBfTWlYMEdaT1dYUWFuWU5DT0VXTFVEeVRzdnltN0NmZ1RiUjdXNjc1QTFwQjJYMzRqa3VoMFozOWRqbHhHQQ?oc=5",
+          "source": "Google News: Street Fighter (Gaming Age)",
+          "published": "2026-11-09T20:41:36.000Z",
           "score": 1,
           "level": null,
           "why": []
