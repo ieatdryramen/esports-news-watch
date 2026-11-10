@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T00:55:14.421Z",
+  "generatedAt": "2026-11-10T01:25:15.267Z",
   "source": "start.gg",
   "completed": [
     {
@@ -583,19 +583,6 @@
     }
   ],
   "upcoming": [
-    {
-      "eventId": "1744889",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "TNS Guilty Gear Strive #230",
-      "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 119,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-10T01:00:00.000Z",
-      "endAt": "2026-11-10T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-230/event/guilty-gear-strive-crossplay"
-    },
     {
       "eventId": "1746057",
       "scene": "melee",
