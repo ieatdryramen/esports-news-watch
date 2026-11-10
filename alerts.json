@@ -225,24 +225,6 @@
       ],
       "summary": "Methodz was right ? submitted by /u/John3192 to r/CoDCompetitive [link] [comments]",
       "published": "2026-11-08T19:52:53.000Z"
-    },
-    {
-      "alertedAt": "2026-11-08T12:05:25.042Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "cheaters now can prevent themselves to be kicked?",
-      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xqwwmp/cheaters_now_can_prevent_themselves_to_be_kicked/",
-      "source": "r/GlobalOffensive",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 6,
-      "why": [
-        "cheater*",
-        "kicked"
-      ],
-      "summary": "played a match in premier and got a solo cheater in my team, and he wasn't in the list for kick vote, also was impossible to kick him via \"callvote kick <id>\" command looks like a new major backdoor in valve servers https://preview.redd.it/qoop169apd0i1.png?width=1714&format=png&auto=webp&s=8463bc0390c3c79ede4b4dcdb181f09c0d680e44 https://preview.redd.it/p2ey9uyapd0i1.png?width=726&format=png&auto=webp&s=98dba2e8adb4082504552eeeded6f3d728b33c97 submitted by /u/m1ronow to r/GlobalOffensive [link] [comments]",
-      "published": "2026-11-08T12:04:10.000Z"
     }
   ]
 }
