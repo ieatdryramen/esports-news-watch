@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T21:05:18.074Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Season 11 Patch Notes—All Buffs & Nerfs",
+      "url": "https://insider-gaming.com/marvel-rivals-season-11-patch-notes-all-buffs-nerfs/",
+      "source": "Insider Gaming",
+      "outlets": [
+        "Insider Gaming"
+      ],
+      "score": 5,
+      "why": [
+        "patch notes",
+        "season"
+      ],
+      "summary": "Season 11 is almost here for Marvel Rivals, and with it comes a brand new sweep of buffs and nerfs for a host of characters. The post Marvel Rivals Season 11 Patch Notes—All Buffs & Nerfs appeared first on Insider Gaming .",
+      "published": "2026-11-10T21:03:05.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T18:20:25.641Z",
       "level": "possible",
       "scene": "Marvel Rivals",
