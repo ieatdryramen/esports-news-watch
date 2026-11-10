@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:25:33.369Z",
+  "generatedAt": "2026-11-10T20:25:31.611Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -28,6 +28,17 @@
           "why": [
             "champion",
             "mrc"
+          ]
+        },
+        {
+          "title": "Nightcrawler Joins Marvel Rivals as the 55th Hero on November 13",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTzVyLVlOQ3BhNTNfbENtRTUtQWYyZ1Z2V2xrZDQ0UDduQlRMSjhrUHdVcEZkd210dU5RUHZQb1o1a29rZHFVTjZGVWpfVUZLWDVJY3VVOVBHeHp3MnlvU1RpeU82ODhBdHE5aVU1OVdyNGwzY0ZvYUJuR3NqYUs5T2V5ZThscmM?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-10T19:37:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "joins"
           ]
         },
         {
@@ -67,25 +78,14 @@
         },
         {
           "title": "Marvel Rivals - Official Doomsday Season 11 Trailer",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmNLOW56ZDN2Q0F5NTh1QmxxNHEyYVdaeVhnSXFveDVvakNBT21ob3FCNnNFaXFoZ3hTRjBtUjJyZnJNcjhETUR2eDlESjMwYlNBZk5JX3FjdU1nU19TN2UwOXlRZXdDUlh1VEIzLVlqYkdzU0FabUJESWxXZTRDNXhR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGpFZnBXeHphX2NiTkw5VnFHVlA3ak9ZaHBvLW9idXYxYkJFOC1jVzViSHFpZ3ExWVRQeWo5NnJ3N3hxcVJIVmRlSFZLWUFpQlpWX1RSeWl5RnpyTVFsRXJmT3MwVFdITU55TVRWMV9EYWNWNU1vaEJFLS1kTEE2ZGhjRXpweUMxNmNtWEpBdkszazQ0UmZJ?oc=5",
           "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-10T16:07:54.000Z",
+          "published": "2026-11-10T16:07:55.000Z",
           "score": 3,
           "level": null,
           "why": [
             "official",
             "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals’ Rumoured 2027 Roster Includes Miles Morales",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGE1ZXVZU0Voa3MwVHZSdlY3eTVxd3lGS2h3eURtU0F0Yy1jZVNsZlhUeGRRS1NrcVpYNkRycmRsU19TSnMwdmJUZEFNODVYTmZLNzNVbk1QTFE3NVJkVXAtaFpsdmNhUTRJbjFkZVRNYmsxWWFpbHIzUHRFYk95cmJ3RVlvQmNpOFd4U0ZqUHE1RVFWTHc?oc=5",
-          "source": "Google News: Rivals patches (Power Up Gaming)",
-          "published": "2026-11-09T19:27:31.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
           ]
         },
         {
