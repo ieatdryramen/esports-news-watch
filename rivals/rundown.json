@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T13:25:32.507Z",
+  "generatedAt": "2026-11-10T14:25:39.100Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Marvel Rivals’ Rumoured 2027 Roster Includes Miles Morales",
@@ -15,17 +15,6 @@
           "level": null,
           "why": [
             "roster"
-          ]
-        },
-        {
-          "title": "Leak: Doctor Doom Coming To Marvel Rivals As A Dual-Role Hero",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BUmx3OXVEc2NkWVBCMVdGUEJIVWlCV1M4Y0VjVTQ4S21KWWxpbzdiaWNwY1VmQVBOZVVpVm54T3lfVnhaN1VDZU1rNHJRWEk1bVhwWVVzUkM0R1hkQVBLOS1hV3dFSVNqaHRraHowTUpaRkhfYmh6cXprN3E?oc=5",
-          "source": "Google News: Rivals patches (eXputer.com)",
-          "published": "2026-11-09T14:21:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "leak"
           ]
         },
         {
