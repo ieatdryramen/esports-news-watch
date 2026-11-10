@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T05:00:24.601Z",
+  "generatedAt": "2026-11-10T06:00:24.042Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Constant cheating accusations are getting wild.",
@@ -153,21 +153,85 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 7,
+      "scene": "Quake",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Blaz insane comeback vs Noah, 3 perfect parry drush vs luke fb w/ no hp and driveguage.",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xs4lo7/blaz_insane_comeback_vs_noah_3_perfect_parry/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-09T21:38:49.000Z",
+          "title": "Anyone else play another Quake game while waiting in the Quake Champions 1v1 queue?",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xscxyp/anyone_else_play_another_quake_game_while_waiting/",
+          "source": "r/QuakeChampions",
+          "published": "2026-11-10T03:52:25.000Z",
           "score": 5,
           "level": "possible",
           "why": [
-            "comeback",
-            "blaz"
+            "fired*",
+            "champions"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 5,
+      "stories": [
+        {
+          "title": "Banned Heroes",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsezwp/banned_heroes/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T05:44:06.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "banned"
           ]
         },
+        {
+          "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1hSUy1FTW9oYlY0bkRGSzJvbkFNUkZ1eDIydGxpdExjY0xIRmhhN29FaVB4NUFiWGg3Z25JSVMzRXVxaWxIb0ZLWkFYSnY0Sk54cDBXclFiQ0wxdzhDSFk1NW94SE5Rb0dHT0hBT2RIS0FuX1NpVlRCbEJJamo4QUpaMjk5bmNmMEd5X3RjT0JLNlNldXRRbVV0QkZrZ3FyS1RYaGZtQUotM2tKa0J5NWN6anB5c1lxVEHSAboBQVVfeXFMUG9YUlMtRU1vaGJWNG5ERksyb25BTVJGdXgyMnRsaXRMY2NMSEZoYTdvRWlQeDVBYlhoN2duSUlTM0V1cWlsSG9GS1pBWEp2NEpOeHAwV3JRYkNMMXc4Q0hZNTVveEhOUW9HR09IQU9kSEtBbl9TaVZUQmxCSWpqOEFKWjI5OW5jZjBHeV90Y09CSzZTZXV0UW1VdEJGa2dxcktUWGhmbUFKLTNrSmtCeTVjempweXNZcVRB?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-09T19:24:54.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xs8tn8/removed_by_reddit/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T00:32:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        },
+        {
+          "title": "Dendi Speaks Out About a Serious Problem in Professional Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zcmp3c0RtZXU2NGhCT1A5NmY5bG4xeU42bU8xUXdqUzkxSlZDeGh4ZnVwdUc2ZF9Qb25Rc2NDNFV5MkRzOVBsVlUxYUNBOE9JS1JwREdaZGRSTWdXaktrVm5mT01JQ1lfSWFNUFFwV2l4SDViaFhfUVJiQWo?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-09T14:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Supporter pack emoticons are back for those before season 10",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsc9k4/supporter_pack_emoticons_are_back_for_those/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T03:17:37.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 6,
+      "stories": [
         {
           "title": "You get a comeback, I get a comeback, everybody gets a comeback",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xsdolm/you_get_a_comeback_i_get_a_comeback_everybody/",
@@ -183,7 +247,7 @@
           "title": "'Never Surrender' — 2Game's Blaz Speaks Out About That Wild Street Fighter League Match Against NoahTheProdigy",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQkZXZm1PdUI5OXFlUWJnX1BGV2RWV3c2ODVmaWR5VEZnTU1VMGhJSTBvQ2F3b2RIWF9lbEJtaFZpQ0dSdEVrTWZEbHBmRGo4M1BkSjJ5V29xRDhvWHphOE1IV2VjcHo1dHdTRi1ybmFtYW1sNzJZczZwQTdOS05IcjE3d2w5TEpWV3F0bEQ2em5fSTllUFFDTFpFTV9Sc09xaFRKcnZqcTdyUllDOEFudDlMb0JsREloR0diSzE2WVdCRVNBTEpoeWhZcU1RZ2FCRHlhaE9KT2ZJTFRxTlVBdVN0T0JTc0VG?oc=5",
           "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-10T01:42:49.000Z",
+          "published": "2026-11-10T01:42:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -234,78 +298,30 @@
       ]
     },
     {
-      "scene": "Quake",
-      "storyCount": 1,
+      "scene": "Tekken",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Anyone else play another Quake game while waiting in the Quake Champions 1v1 queue?",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xscxyp/anyone_else_play_another_quake_game_while_waiting/",
-          "source": "r/QuakeChampions",
-          "published": "2026-11-10T03:52:25.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "fired*",
-            "champions"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1hSUy1FTW9oYlY0bkRGSzJvbkFNUkZ1eDIydGxpdExjY0xIRmhhN29FaVB4NUFiWGg3Z25JSVMzRXVxaWxIb0ZLWkFYSnY0Sk54cDBXclFiQ0wxdzhDSFk1NW94SE5Rb0dHT0hBT2RIS0FuX1NpVlRCbEJJamo4QUpaMjk5bmNmMEd5X3RjT0JLNlNldXRRbVV0QkZrZ3FyS1RYaGZtQUotM2tKa0J5NWN6anB5c1lxVEHSAboBQVVfeXFMUG9YUlMtRU1vaGJWNG5ERksyb25BTVJGdXgyMnRsaXRMY2NMSEZoYTdvRWlQeDVBYlhoN2duSUlTM0V1cWlsSG9GS1pBWEp2NEpOeHAwV3JRYkNMMXc4Q0hZNTVveEhOUW9HR09IQU9kSEtBbl9TaVZUQmxCSWpqOEFKWjI5OW5jZjBHeV90Y09CSzZTZXV0UW1VdEJGa2dxcktUWGhmbUFKLTNrSmtCeTVjempweXNZcVRB?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-09T19:24:54.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
-        },
-        {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xs8tn8/removed_by_reddit/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T00:32:45.000Z",
+          "title": "In case there isn't a Season 4 how do you think the Tekken community will respond?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xsesfq/in_case_there_isnt_a_season_4_how_do_you_think/",
+          "source": "r/Tekken",
+          "published": "2026-11-10T05:32:12.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "removed"
+            "the last*",
+            "won*",
+            "announced*"
           ]
         },
         {
-          "title": "Dendi Speaks Out About a Serious Problem in Professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zcmp3c0RtZXU2NGhCT1A5NmY5bG4xeU42bU8xUXdqUzkxSlZDeGh4ZnVwdUc2ZF9Qb25Rc2NDNFV5MkRzOVBsVlUxYUNBOE9JS1JwREdaZGRSTWdXaktrVm5mT01JQ1lfSWFNUFFwV2l4SDViaFhfUVJiQWo?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-09T14:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Supporter pack emoticons are back for those before season 10",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsc9k4/supporter_pack_emoticons_are_back_for_those/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T03:17:37.000Z",
+          "title": "Characters to look forward to in Tekken 8 season 4?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xsd4cn/characters_to_look_forward_to_in_tekken_8_season_4/",
+          "source": "r/Tekken",
+          "published": "2026-11-10T04:01:47.000Z",
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-09T22:32:17.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -329,7 +345,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "$100K FAZE x THE FLANK INVITATIONAL",
@@ -351,17 +367,6 @@
           "level": null,
           "why": [
             "faze"
-          ]
-        },
-        {
-          "title": "Simp talks about how he wants to retire in Would You Rather",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xs4qrh/simp_talks_about_how_he_wants_to_retire_in_would/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T21:44:32.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "simp"
           ]
         },
         {
@@ -447,30 +452,6 @@
           "why": [
             "update"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Characters to look forward to in Tekken 8 season 4?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xsd4cn/characters_to_look_forward_to_in_tekken_8_season_4/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T04:01:47.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tournament ready game, btw 😂",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xs4inf/tournament_ready_game_btw/",
-          "source": "r/Tekken",
-          "published": "2026-11-09T21:35:34.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     }
