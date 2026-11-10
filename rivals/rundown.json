@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T18:25:29.856Z",
+  "generatedAt": "2026-11-10T19:25:33.369Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 16,
+      "storyCount": 17,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -28,6 +28,17 @@
           "why": [
             "champion",
             "mrc"
+          ]
+        },
+        {
+          "title": "Sheldon Esports Marvel Rivals Qualifies for State",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWdwbzZtTGkySTFrUVZJSHRYT1RYdkZVRm1nRnFUVW5uNXlwN1BCeDdqSERraUtpTU9Pc01jdkVXci1PVUtQX1JPbF93c0NERFBvUnh5TXFIODJBVzNDZFd6NFBVUkNSWVU3bG9SRXBrVGVtUkN1U0FHdXlpbXJreUhCOA?oc=5",
+          "source": "Google News: Rivals esports (KIWA Radio)",
+          "published": "2026-11-10T19:07:30.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "qualifies"
           ]
         },
         {
@@ -78,6 +89,17 @@
           ]
         },
         {
+          "title": "Marvel Rivals Season 11 Trailer Reveals Nightcrawler Ahead of November 13 Launch",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pdFlzaGRoWnBmU29sVXUtUTdCQW04ZEoxRW5IQkJTMHAtRmZQOVh5cHVtVEpKc2dTQUNJalJqcTQxVW5iMDAxTkNyOWZ0YU9OSm5LN0d5WktrY3psVEc3a09JSTFOcVotNXlXRW1ycw?oc=5",
+          "source": "Google News: Rivals patches (The TV Cave)",
+          "published": "2026-11-10T18:47:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
           "title": "Marvel Rivals - Official Nightcrawler Character Reveal Trailer",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1hfMzUydEg5R0Y5WEpwZVNZeWpmMDRETG96R0FhdDVBcnZUSmdaaEF6NVNQZEE1aFRuQ1RzY2VEUHllYkhmSzNkN29FYzV5a25LZHhaMnM4eUlFX3pFd0IyQkp2U19XVjlIR1QwbWY0NjA1VHlObVFVeERIQ05IOGQtS292M2RLTl91QW94Qy1INU1mYWt4Wm1VekV2V1ZrT0E?oc=5",
           "source": "Google News: Rivals patches (IGN India)",
@@ -120,24 +142,6 @@
           "why": [
             "season"
           ]
-        },
-        {
-          "title": "Doomsday Officially Comes to Marvel Rivals With an X-Men Icon",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGd2VXhOT0lxTnZ6NXlfTEM0WGhWR1Yzb2kxU292UG5naFA3NDd2ZlNUN0JoZFA4N29OQTRSUnVuTm14bGM3eE1hYXRUeHRXT3E5TFljQVJkMjRDUlNxVlRuR0dwQ3luWDBQajdkVFNFWjFLVWdmdWREa191U3RTVTFWdWpTbmM?oc=5",
-          "source": "Google News: Rivals patches (Polygon.com)",
-          "published": "2026-11-10T18:12:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Doomsday (and Nightcrawler) Are Coming to \"Marvel Rivals\"",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZS05aThvNVlzYWMzXzR3SWFTN0tOeUxDbW0tTmJMaWpSRzQ2QThUMno4OHZnaGxPYk05QTdFZFAyVXphS1kxSjJkVW5CVW5PMk5tQkJJRnVTYTNpR2NUUUpTTmV0UDE5aVhseEJQNWJPMDR5VndfeWdVZzVlVDVpLWp4NGtfMUhYOXQ1el85YnMyX0JhZktneU8tYUFWUQ?oc=5",
-          "source": "Google News: Rivals patches (LaughingPlace.com)",
-          "published": "2026-11-10T18:06:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
