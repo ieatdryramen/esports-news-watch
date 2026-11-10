@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T14:25:39.100Z",
+  "generatedAt": "2026-11-10T15:25:32.230Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals’ Rumoured 2027 Roster Includes Miles Morales",
@@ -33,17 +33,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xOW50YkVwRUd5NEJROVRyRVd4aE9zbl9sRU9JSmppbUt1XzNRZVVteXBjRGVJS3huc3R0dDRNeDM2VGkydHI1RHJfbjNyaU9xY3NoWUNWX1BPbUdGbFJZeERKeTdRX00?oc=5",
           "source": "Google News: Rivals patches (IMDb)",
           "published": "2026-11-09T17:37:04.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Global Launch Schedule: Release Times for All Regions",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa3A3QzNMLWJBVGFVUTA2TG9PQXRqc2VidlI4aUlzTFVYODN1aTk2TnBUNi1ra01tcUNtMnFmT1g1dVNPRC1wdmE4UC1mVFBDejJjN1I5TllsQWFTS1h6dDVFSEtfYWxQODNIUXAxMWtUdTZlcGd1OVY5aW04cXlzenFmenpJbElaZVE0?oc=5",
-          "source": "Google News: Rivals esports (TalkEsport)",
-          "published": "2026-11-09T15:03:47.000Z",
           "score": 2,
           "level": null,
           "why": [
