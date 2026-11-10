@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T10:00:28.475Z",
+  "generatedAt": "2026-11-10T11:00:26.609Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 25,
       "stories": [
         {
           "title": "Constant cheating accusations are getting wild.",
@@ -20,6 +20,19 @@
             "cheater*",
             "vac*",
             "record*"
+          ]
+        },
+        {
+          "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-09T12:32:41.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "wins",
+            "mouz",
+            "iem"
           ]
         },
         {
@@ -49,6 +62,18 @@
             "confirmed",
             "pgl",
             "cs2 major"
+          ]
+        },
+        {
+          "title": "PGL Cluj-Napoca invites revealed",
+          "url": "https://www.hltv.org/news/45958/pgl-cluj-napoca-invites-revealed",
+          "source": "HLTV news",
+          "published": "2026-11-10T10:00:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "revealed",
+            "pgl"
           ]
         },
         {
@@ -88,6 +113,18 @@
           ]
         },
         {
+          "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-10T06:36:31.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "faze"
+          ]
+        },
+        {
           "title": "The EVPs and All-Stars of IEM Beijing 2026",
           "url": "https://www.hltv.org/news/45948/the-evps-and-all-stars-of-iem-beijing-2026",
           "source": "HLTV news",
@@ -100,10 +137,10 @@
           ]
         },
         {
-          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
-          "url": "https://esports.gg/news/betting/gambling-sponsored-esports-teams-faced-rebranding-pgl-major-singapore-2026/",
-          "source": "esports.gg",
-          "published": "2026-11-10T02:10:34.000Z",
+          "title": "PGL Moves Its $1 Million April 2027 CS2 Event From China to Ulaanbaatar, Mongolia",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ01pVE11RXZ1YUZtQzJUZTdwTHdWMzJPTXFDdEJmRDhIZnd5MWN4b3JzRnBVdVc2al9oOE94aUlmV1FrS1lLMS04eTFCRkNhZDU1RUk3MFdwRFlaczM4MlZxNk9lVm5XQ2JZa2tPb282VWMyd1J5ZmtaS1A4bklsNzBSWG92cFQ2?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-10T09:54:17.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -111,43 +148,10 @@
           ]
         },
         {
-          "title": "Las Vegas LVCVA Weighs $2M BLAST Esports Deal for 2028",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnBSeklJc2pWYUVCMXd2RV9DYi1YNnZyb0lodms3VkdVa3U3U1Q3UTN2QnNsUnlScDdfYlh5emhQdEVwSjVuTVZyazhXUEFuYl9PenZ2QW85ZnZLSG0tTEE4Q2dQMHZOTlBjSDdTNXJxMDNzS0dodVIzREl2aUE1WklSWlBjR2xQblJvN3YwWDNMYVlIMi1tOS1OUDVsTFkxeGlGNlVB?oc=5",
-          "source": "Google News: CS2 (Hoodline)",
-          "published": "2026-11-09T19:42:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "MOUZ claim No.1 in world rankings after Beijing title",
-          "url": "https://www.hltv.org/news/45952/mouz-claim-no1-in-world-rankings-after-beijing-title",
-          "source": "HLTV news",
-          "published": "2026-11-09T18:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "mouz"
-          ]
-        },
-        {
-          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-09T13:57:42.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "PGL reveals Singapore Major rosters",
-          "url": "https://www.hltv.org/news/45950/pgl-reveals-singapore-major-rosters",
-          "source": "HLTV news",
-          "published": "2026-11-09T11:34:00.000Z",
+          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
+          "url": "https://esports.gg/news/betting/gambling-sponsored-esports-teams-faced-rebranding-pgl-major-singapore-2026/",
+          "source": "esports.gg",
+          "published": "2026-11-10T02:10:34.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -176,7 +180,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Banned Heroes",
@@ -211,6 +215,15 @@
           "why": [
             "removed"
           ]
+        },
+        {
+          "title": "NS Reflects on the Decline of the Dota 2 Pro Scene",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeF9FRlFVYmlFamxKTkl0YlhOQ1B4eElkN1NyZlZmX0w2Q3Mxd2JTYTZ5ZERDa01BWnlTZ3NidFRxaVJYV0xzeS1ON1hxZndRUmQ3VmlWZUsxeGhkQzFUYlFOYktkc2s0WW52dA?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-10T10:03:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Update will be after LOL finale",
@@ -267,6 +280,17 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-09T22:32:17.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -420,25 +444,8 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Is it possible to stop SCV rush on BGH?",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xsap73/is_it_possible_to_stop_scv_rush_on_bgh/",
-          "source": "r/broodwar",
-          "published": "2026-11-10T02:02:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "rush"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "New mod turns Super Smash Bros. Melee into a three-dimensional brawler",
@@ -448,21 +455,13 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Tournament-Viable Quality Emulation on Switch or Wii U?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xsaxqb/tournamentviable_quality_emulation_on_switch_or/",
-          "source": "r/SSBM",
-          "published": "2026-11-10T02:13:31.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     }
   ],
   "quiet": [
     "AoE2",
+    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
