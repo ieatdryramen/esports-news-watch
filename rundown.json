@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-10T00:00:25.482Z",
+  "generatedAt": "2026-11-10T01:00:25.672Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 16,
       "stories": [
+        {
+          "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-09T12:32:41.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "wins",
+            "mouz",
+            "iem"
+          ]
+        },
         {
           "title": "PGL has officially confirmed the name changes of four participating teams at the CS2 Major Singapore 2026",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXzE5UDNIaWVDbFNQQWxsRGVGOHVNTVVJZ3JkRWZkTHF3YkdtY09DVXRKT0l3bDRtMzNOWmdqZnlPcGlfRkdPR1hqNTdTSGo4bUtNbUVFVkRfMmFDSHE4T2x3d2Y0MmVRSjhsZVVlT2s4VGVFSWNQem1xdUZpR015WktUVTh3VHoxU2s1LThNZk5CVHZidkJ1VWpwX3lLRml5cE1wWkZKYzZ5TmU2YW12djhlTkpROU9uSzNIckZMR3NjN2FJMUVFUUhiMHBzQzItNlRF0gHbAUFVX3lxTE1PbGotSlRjdm0temxTSEpDc09ONEN4UHBFLXY0Z0QxTGNWWlBMeVRUTWtNZWhLUEhTVC0xTllJcE5BY1R4MnZzSThMeFFlNFlaak9JbUpVcEdJMS1jUFc1anRhVjBhaEttazZicUFGc2VzVVVIQTRIbGhrMVRWN0J2QXVrVEhKVkZnVUtRUUVtUlN3THFYaTNTWEtrdGpjbGQwelRrUmYzN05JQ3ZfWmRFRlk4eENCdUtXSFo5cTR2T2o4VDFIeUNFclBuamFWc0JteU9VaHk5N3JwYw?oc=5",
@@ -79,9 +92,9 @@
         },
         {
           "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/",
-          "source": "esports.gg",
-          "published": "2026-11-09T12:52:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-09T13:57:42.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -97,6 +110,17 @@
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "12 Minutes of TOTAL MADNESS | IEM Beijing 2026 Highlights",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xs95ws/12_minutes_of_total_madness_iem_beijing_2026/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T00:48:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "iem"
           ]
         },
         {
@@ -120,30 +144,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Las Vegas Major + Summer CS2 Events Set For Vote Tuesday",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzRTOHFxdTNEdC05QzF5LUFCLVE1R0x4VjZfbGpKUkF5TFI2WlRUSUtPNlNwYm5BQ1AyQTFCR3R0X3A0V1F0M1ZmdmpxQkxrM1RHUXBpT25OUFpEUXJFZXFxZU1aZU1nU2dBRW5hdzJOQ0g2Q2JIazU5anJaMW5pX3N2X210ZnZNcjJscTFrenpkNzRpSUt6ZWZySlhtMXhqeXM3MU5QcWNJdw?oc=5",
-          "source": "Google News: CS2 (Legal Sports Betting)",
-          "published": "2026-11-09T16:32:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 44",
-          "url": "https://www.hltv.org/news/45949/short-news-week-44",
-          "source": "HLTV news",
-          "published": "2026-11-09T13:41:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Nice Cheat Grimstroke still lost :)",
@@ -179,6 +185,17 @@
           "why": [
             "return",
             "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xs8tn8/removed_by_reddit/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T00:32:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
           ]
         },
         {
@@ -233,24 +250,6 @@
           "why": []
         },
         {
-          "title": "Dark Carnival Event | Does anyone know what is music called or if there is something similar?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrwznq/dark_carnival_event_does_anyone_know_what_is/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T16:56:30.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Patch Request - Missing Announcer Pack Voice Lines",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrwak9/patch_request_missing_announcer_pack_voice_lines/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T16:31:08.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "LVLUP.A - XE, November 9, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlhhUFRmYmtwMXZRTmxhVFd1a3ozTFlLNDhQV1Z5YVNCSFI1S2x6SEk3dVVRaTJfdTBIZ1NCQjJMVk9oSXFUbHA4c0E0bThtWWJ0ZFVIZUFvUktJOTJRZmY3TDFNNS1TUnVZOWRySVRjeHRsVlhGN2VXWFcyUC1YVk9OeGFtSjRmc2Y1amhhTTdvaW9aQjJYS1JOUk1FX0steWJ4RFl6X0k?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -265,7 +264,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Blaz insane comeback vs Noah, 3 perfect parry drush vs luke fb w/ no hp and driveguage.",
@@ -285,15 +284,6 @@
           "source": "Google News: Street Fighter (IGN)",
           "published": "2026-11-09T21:41:36.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Street Fighter League Pro-Americas 2026 results",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xrx33w/street_fighter_league_proamericas_2026_results/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-09T17:00:04.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -331,7 +321,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Slasher on Faze Vegas",
@@ -353,17 +343,6 @@
           "level": null,
           "why": [
             "simp"
-          ]
-        },
-        {
-          "title": "Hecz addresses Scump's continued Absence",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xrwv00/hecz_addresses_scumps_continued_absence/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-09T16:51:44.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "scump"
           ]
         },
         {
