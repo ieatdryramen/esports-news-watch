@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:45:21.260Z",
+  "generatedAt": "2026-11-10T22:00:25.016Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -149,7 +149,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "[Shotzzy] OpTic Texas Vs G2 Scrim! (Modern Warfare 4)",
@@ -185,6 +185,15 @@
           "why": [
             "roster"
           ]
+        },
+        {
+          "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
+          "source": "Google News: CoD (Insider Gaming)",
+          "published": "2026-11-10T21:49:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -322,8 +331,71 @@
       ]
     },
     {
+      "scene": "Classic Tetris",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
+          "url": "https://tetrisinterest.com/the-last-qualifying-session-2026-ctwc-experience-day-2-part-6/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T21:56:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "the last"
+          ]
+        },
+        {
+          "title": "Ice Cream Social and More Tetris Action – 2026 CTWC Experience – Day 1 – Part 5",
+          "url": "https://tetrisinterest.com/ice-cream-social-and-more-tetris-action-2026-ctwc-experience-day-1-part-5/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T21:54:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blue scuti*"
+          ]
+        },
+        {
+          "title": "Set Up – 2026 CTWC Experience – Part 1",
+          "url": "https://tetrisinterest.com/set-up-2026-ctwc-experience-part-1/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T20:32:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "'Never Surrender' — 2Game's Blaz Speaks Out About That Wild Street Fighter League Match Against NoahTheProdigy",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQkZXZm1PdUI5OXFlUWJnX1BGV2RWV3c2ODVmaWR5VEZnTU1VMGhJSTBvQ2F3b2RIWF9lbEJtaFZpQ0dSdEVrTWZEbHBmRGo4M1BkSjJ5V29xRDhvWHphOE1IV2VjcHo1dHdTRi1ybmFtYW1sNzJZczZwQTdOS05IcjE3d2w5TEpWV3F0bEQ2em5fSTllUFFDTFpFTV9Sc09xaFRKcnZqcTdyUllDOEFudDlMb0JsREloR0diSzE2WVdCRVNBTEpoeWhZcU1RZ2FCRHlhaE9KT2ZJTFRxTlVBdVN0T0JTc0VG?oc=5",
+          "source": "Google News: Street Fighter (IGN)",
+          "published": "2026-11-10T01:42:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blaz"
+          ]
+        },
+        {
+          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT2xDNUVOVFpGcGZ5cU1rd0hzUnVPbi1vQVJtYU5aVExkam51dEpXYldrcVlJVld2Nks1R0plM29fTm5uSE4xX1lSSno2QUVDU2gwQkFpeDRrX0RCcTZpczQ0cjBKdXRJNU5IdThic0JleUVEeWhuSk9NUThXUDhTbW1CVmxKT2ZrcGZnNTZrZEY3UlhPdUtfcGNyeWZOc2xOSXQzQjhsQ0NCWjYxbTRFS25LRVV2d2cyNmN2bzFmaHEzVE56N3Q1MXZXT2VKendDc2ZLTUUtLVY4Tnp5eVhlOQ?oc=5",
+          "source": "Google News: Street Fighter (IGN Southeast Asia)",
+          "published": "2026-11-10T01:45:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -351,7 +423,7 @@
           "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
           "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-10T14:10:07.000Z",
+          "published": "2026-11-10T14:47:20.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -373,15 +445,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
-          "source": "Google News: Tekken (Gaming Age)",
-          "published": "2026-11-10T01:14:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -399,54 +462,6 @@
           "why": [
             "ending"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Updating the Qualifying Ranks – 2026 CTWC Experience – Day 1 – Part 4",
-          "url": "https://tetrisinterest.com/updating-the-qualifying-ranks-2026-ctwc-experience-day-1-part-4/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T20:46:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Set Up – 2026 CTWC Experience – Part 1",
-          "url": "https://tetrisinterest.com/set-up-2026-ctwc-experience-part-1/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T20:32:12.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0c1ZHdwR0tnWGlFV3hTWlhxQzN5ejZCUGEwRlpUVmVPSjYyNWlZekppM1Q2dDdKTTg5ZDZVNmhXd1MxcjQ4aExKSVlfVGQwSHR1Um1fWDNOa3RxV1hONVNjZ0hULXZMclIweG1EX0FrRnlzT0o0MDRZeGdUUWstcVRPeUNXZWM2dVZEVW9RU0NmdGowT1JScklJc0REcnhsYmNWem1TclR4MUJRWlIzRXdrY295Y2ZPYkxUZ3luWU4xU0wwX1RUV3JkUGpwUFBRY2d5dG5EdVE0Zw?oc=5",
-          "source": "Google News: Street Fighter (IGN Africa)",
-          "published": "2026-11-10T07:30:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT2xDNUVOVFpGcGZ5cU1rd0hzUnVPbi1vQVJtYU5aVExkam51dEpXYldrcVlJVld2Nks1R0plM29fTm5uSE4xX1lSSno2QUVDU2gwQkFpeDRrX0RCcTZpczQ0cjBKdXRJNU5IdThic0JleUVEeWhuSk9NUThXUDhTbW1CVmxKT2ZrcGZnNTZrZEY3UlhPdUtfcGNyeWZOc2xOSXQzQjhsQ0NCWjYxbTRFS25LRVV2d2cyNmN2bzFmaHEzVE56N3Q1MXZXT2VKendDc2ZLTUUtLVY4Tnp5eVhlOQ?oc=5",
-          "source": "Google News: Street Fighter (IGN Southeast Asia)",
-          "published": "2026-11-10T01:45:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
