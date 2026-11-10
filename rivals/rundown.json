@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T20:25:31.611Z",
+  "generatedAt": "2026-11-10T21:25:32.724Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 17,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -19,15 +19,15 @@
           ]
         },
         {
-          "title": "MRC 2026: EMEA Champion Points Standings",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeDlWM2tFOUJoQ09vMGhUc1JlY0VuNklnckYxTmNZZ2ExQmRBZDkzN3hZNFo4QlFPeXNvbXdyOG1GeDNUYWgtWVZvTVhhUW9BRlUtanV3THZlUjZGYnlEdjd2RXpvODQ?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-10T08:34:01.000Z",
-          "score": 6,
+          "title": "Marvel Rivals Season 11 Patch Notes—All Buffs & Nerfs",
+          "url": "https://insider-gaming.com/marvel-rivals-season-11-patch-notes-all-buffs-nerfs/",
+          "source": "Insider Gaming",
+          "published": "2026-11-10T21:03:05.000Z",
+          "score": 5,
           "level": "possible",
           "why": [
-            "champion",
-            "mrc"
+            "patch notes",
+            "season"
           ]
         },
         {
@@ -89,10 +89,32 @@
           ]
         },
         {
+          "title": "Marvel Rivals' Season 11 Trailer Spotlights New X-Men Hero and Teases Another Playable Villain",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzBJRHBSaEhPb2luMkg0bmhoYjFJYjlRQzRtY0ZxOXBrMjU5S2NyZUhWYXZENEZPdk83dU1ZX0Fjb0dLUmlwT1ZGXzU2MC1PNnBLellDd2JVcC1LWnJFWmI2eVFvczNPc0xtMEtVdjR0OG96TUM5MDJUN083ell4UGcyR2NBRnlJRHFrQ2JjeG5LTTdZcENub0Y5ejIzVDZndy1GbDUtaDM4MThoQkxlZEhIYw?oc=5",
+          "source": "Google News: Rivals patches (ComicBook.com)",
+          "published": "2026-11-10T20:42:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
           "title": "Marvel Rivals Season 11 Trailer Reveals Nightcrawler Ahead of November 13 Launch",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pdFlzaGRoWnBmU29sVXUtUTdCQW04ZEoxRW5IQkJTMHAtRmZQOVh5cHVtVEpKc2dTQUNJalJqcTQxVW5iMDAxTkNyOWZ0YU9OSm5LN0d5WktrY3psVEc3a09JSTFOcVotNXlXRW1ycw?oc=5",
           "source": "Google News: Rivals patches (The TV Cave)",
           "published": "2026-11-10T18:47:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 adds Strategist Nightcrawler and anniversary events with 2,500 free Units",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnE1MkR0NlAzLTctaHBZUmQyTjVHWWV2WmRHRWRmMDJoUzJXQU54cGl2M3lPT0wtbW5xcFROTFR6WFkwSU5rdGloUVlXVWx5b283dlI0RDM0Nk5keVRUcEIyWDNrUTl6YWlGdm9SNmkzVG1IcXVxemdWR3JnVkEyRlpkOFdyRld0QzYzY0xRUzh5M3doejdYdHkzcTRZcGlsaVdDWElfc1VpUkY1eXd5TTlvX3dPSTNWLWRfZTJlSjhRVHVIWTVHS1pmZHhVN2p1ejNMdy1qcy1fZDU4M0dBREhIRQ?oc=5",
+          "source": "Google News: Rivals patches (GosuGamers)",
+          "published": "2026-11-10T18:44:17.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -114,29 +136,7 @@
           "title": "Marvel Rivals Season 11 adds Nightcrawler, teases Dracula as second playable hero",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYzdxSmxka2ZIM1BYaE1ucFFxWTRsc29fbVM4ZVpkd3lRRTVHQ3dpSUJoVUdJeFhOTHpDc3ZKMVhOOVRQcEgyT0d4Z01MajM0cEN6aENmUFNrM3JXTVRkbFFMWVhDN0d4NVRqbloxbGtiU3htOGpoallzeXF6eWZhVG1vVGVaeVpXdjBjWEVhdl9jOTkxbWRQMDJhOVYxNnoxNmtYSTQyZGFLb3Y1d0ZzemVFcWlNVmEwOHVhamV0aHZjT0FCelAzV3NxVXY?oc=5",
           "source": "Google News: Rivals patches (GosuGamers)",
-          "published": "2026-11-10T16:30:28.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals’ Doomsday-themed season 11 brings Nightcrawler into the fold, and Doctor Doom soon",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTl9UN21EeGVRRnFPVDlrY0R0T2RGWC1aNEttTlFPQ2ZFbWdhc29pbm4yb0UyWXhwTnJWVGlCY21ZYlpJZFcwdnVmZTZxQWVCaDNIQVRoc2ptQU1RUjVMVHVJOEU5d2JEZjhkb05yRjlLQnRER1FLTmVRS0xTd2Y5ZkFyeDMtM0k4ZnZld0hNZjcyZXNV?oc=5",
-          "source": "Google News: Rivals patches (Yahoo Tech)",
-          "published": "2026-11-10T16:03:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "‘Marvel Rivals’ Developer All But Confirms Season 11 Hero",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnYzYjF4LUdIYzlGZGJvYng0ZUxxNEVlc1N0UlByRzI4Xy02cDdEQ19tXy1NYU1HdGxtVHVvRmh4dWt6eTdCRG1ZY1NCZ2YzNXlrSU9hZk1KYVlaTk5RWV9JVFFydUMxdXdJQTZTM05odXZncnFEenJDUWZwblVGaVQtaS1kQXg3alMtbmlVSHJnUlhRLWFxVEhwRzViZw?oc=5",
-          "source": "Google News: Rivals patches (Men's Journal)",
-          "published": "2026-11-09T23:33:48.000Z",
+          "published": "2026-11-10T16:26:14.000Z",
           "score": 2,
           "level": null,
           "why": [
