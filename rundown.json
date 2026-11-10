@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-10T02:00:26.842Z",
+  "generatedAt": "2026-11-10T03:00:22.169Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 18,
       "stories": [
+        {
+          "title": "Constant cheating accusations are getting wild.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsblco/constant_cheating_accusations_are_getting_wild/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T02:45:36.000Z",
+          "score": 10,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "the last*",
+            "cheating",
+            "cheater*",
+            "vac*",
+            "record*"
+          ]
+        },
         {
           "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
@@ -69,6 +85,17 @@
           ]
         },
         {
+          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
+          "url": "https://esports.gg/news/betting/gambling-sponsored-esports-teams-faced-rebranding-pgl-major-singapore-2026/",
+          "source": "esports.gg",
+          "published": "2026-11-10T02:10:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Las Vegas LVCVA Weighs $2M BLAST Esports Deal for 2028",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnBSeklJc2pWYUVCMXd2RV9DYi1YNnZyb0lodms3VkdVa3U3U1Q3UTN2QnNsUnlScDdfYlh5emhQdEVwSjVuTVZyazhXUEFuYl9PenZ2QW85ZnZLSG0tTEE4Q2dQMHZOTlBjSDdTNXJxMDNzS0dodVIzREl2aUE1WklSWlBjR2xQblJvN3YwWDNMYVlIMi1tOS1OUDVsTFkxeGlGNlVB?oc=5",
           "source": "Google News: CS2 (Hoodline)",
@@ -122,25 +149,59 @@
           "why": [
             "iem"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 5,
+      "stories": [
         {
-          "title": "PGL Major Singapore 2026: Schedule, All 32 Teams, Format & Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXI1VGRpUExfUXVrWkFyQk1oYWFQaDdheVhqemZobEhSTkhIT1ZBX3NBN0dwSVZFODF6amprN0g5LU05clpiR29SNVg0T1dfVVpfVnFpNEJtNUwtZ1NRazEySkJvY3RwTDlacFBYRmloNkZsaGZlVjE0cHV0b0ctb0Q1c05mY1RjQktUUk80a21PbUpPNVlOc1ptOA?oc=5",
-          "source": "Google News: CS2 (Chase Your Sport)",
-          "published": "2026-11-09T09:29:27.000Z",
-          "score": 2,
-          "level": null,
+          "title": "Blaz insane comeback vs Noah, 3 perfect parry drush vs luke fb w/ no hp and driveguage.",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xs4lo7/blaz_insane_comeback_vs_noah_3_perfect_parry/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-09T21:38:49.000Z",
+          "score": 5,
+          "level": "possible",
           "why": [
-            "prize pool",
-            "pgl",
-            "-schedule"
+            "comeback",
+            "blaz"
           ]
         },
         {
-          "title": "FalleN: \"I don't really know the other version of myself, someone who has time to actually do other things\"",
-          "url": "https://www.hltv.org/news/45934/fallen-i-dont-really-know-the-other-version-of-myself-someone-who-has-time-to-actually-do-other-things",
-          "source": "HLTV news",
-          "published": "2026-11-09T20:00:00.000Z",
+          "title": "Blaz's Is The Future Of Street Fighter",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xs9l5v/blazs_is_the_future_of_street_fighter/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-10T01:08:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blaz"
+          ]
+        },
+        {
+          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1N2dGp4LVhjVDVXcG5RMjhsdlp0OTI1dG9hdENlWlkxbGxXVDRPeU1DTXMzSUxhSjhmWHEzWE5wZ2NJaFdKOVI4NkJFdS1VQnlnSFpDamdsLWQ5eHlCUGUyVURWUEV4LWZBQlc0TnVUOUJHaUdNd1ljeVpqWUpMWl83cVlNNEVGbGVuM1IyeExEN2lSdVViTXdfYjdva2d0WndDOVNMWWVRbDN1c0JBNm1uNnJDcmRWbUZhVGZlUlBsbXYxUE1BQlNhS1VIN1k0TzdOdXJud21DQQ?oc=5",
+          "source": "Google News: Street Fighter (IGN Pakistan)",
+          "published": "2026-11-10T01:54:54.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEJVTWJhWDdNSDREWmdZTmxka3puY1g3bUFuazJYWVNmSTE0U0dGTEZ5OUtPc3lLNGd2ZnFaMVpjbkxFcWFVT3R5a3Y3RlFYT0Z2ckRfb3I1UW4zdXlrVWczRS1tSFA5MHBwdlc1RTljV3ZqblVpekRLcFpOWHgtY0szc0UzWGgtUDAySGpWZW5YWnlhSkMzMWhVWUJQTHN1VEhHZWI3UUgzNFR6bTdubGc5dGw5WkZLNUIzSEx6bC1hWTFPV0puSm85OWdZNXN5Z0o3ZGhyUGJLTWJ1?oc=5",
+          "source": "Google News: Street Fighter (IGN)",
+          "published": "2026-11-09T21:41:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Sahara and Team Reject win big at Capcom Cup 12 and Street Fighter League: World Championship 2025",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXlncVBZUjA5RTY4RlVCRUFpeU44VVlJaUlVSHMyc2pjRUMzT2RNam1vLTk3Y2RrOGhDYThCaXNFSjBOa1hXZ011V19YbktvcmtoaUxhcTZXRFZJdUQzT3U5VnlKZER0ekFJQWJ5aGdZRG9hN2REZ1k0VlJBZjAycGlTX25yWk5qSXR6Tk5wQVlmWW1scDZPWkYtdS1vVmpoUTVLU1lDenI1cHNMcVdRSWhsSVQ5bkpJWFVNSmdJcU8zOUEtVWNLbtIBzgFBVV95cUxQWEhrbk15a05tQkUxRUdhaEE0eGNVUndYYXRRTlFUb0QyRUVZbDNDSG5BS0RmTU1KLWdhcmxpaXhENGFLOVFwVGZveUlJQjNmb0w3SEw5WjhVeFVpVi1qcnlJbU1fWWltNUwxdlZRckJIQUdyN2h5b3k1eVZkeTU1dWpyaF9EU1J2eDF6dVU3LVBfTWlYMEdaT1dYUWFuWU5DT0VXTFVEeVRzdnltN0NmZ1RiUjdXNjc1QTFwQjJYMzRqa3VoMFozOWRqbHhHQQ?oc=5",
+          "source": "Google News: Street Fighter (Gaming Age)",
+          "published": "2026-11-09T20:41:36.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -149,20 +210,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 5,
       "stories": [
-        {
-          "title": "Nice Cheat Grimstroke still lost :)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xs0m43/nice_cheat_grimstroke_still_lost/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T19:08:43.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "cheating*",
-            "cheat"
-          ]
-        },
         {
           "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1hSUy1FTW9oYlY0bkRGSzJvbkFNUkZ1eDIydGxpdExjY0xIRmhhN29FaVB4NUFiWGg3Z25JSVMzRXVxaWxIb0ZLWkFYSnY0Sk54cDBXclFiQ0wxdzhDSFk1NW94SE5Rb0dHT0hBT2RIS0FuX1NpVlRCbEJJamo4QUpaMjk5bmNmMEd5X3RjT0JLNlNldXRRbVV0QkZrZ3FyS1RYaGZtQUotM2tKa0J5NWN6anB5c1lxVEHSAboBQVVfeXFMUG9YUlMtRU1vaGJWNG5ERksyb25BTVJGdXgyMnRsaXRMY2NMSEZoYTdvRWlQeDVBYlhoN2duSUlTM0V1cWlsSG9GS1pBWEp2NEpOeHAwV3JRYkNMMXc4Q0hZNTVveEhOUW9HR09IQU9kSEtBbl9TaVZUQmxCSWpqOEFKWjI5OW5jZjBHeV90Y09CSzZTZXV0UW1VdEJGa2dxcktUWGhmbUFKLTNrSmtCeTVjempweXNZcVRB?oc=5",
@@ -199,28 +248,6 @@
           ]
         },
         {
-          "title": "Panto has terminated his contract with Team Spirit",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xrzofq/panto_has_terminated_his_contract_with_team_spirit/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T18:34:12.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Where is the guy that feels something in his ass when there’s an update?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xs0gsx/where_is_the_guy_that_feels_something_in_his_ass/",
-          "source": "r/DotA2",
-          "published": "2026-11-09T19:03:21.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Dendi Speaks Out About a Serious Problem in Professional Dota 2",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zcmp3c0RtZXU2NGhCT1A5NmY5bG4xeU42bU8xUXdqUzkxSlZDeGh4ZnVwdUc2ZF9Qb25Rc2NDNFV5MkRzOVBsVlUxYUNBOE9JS1JwREdaZGRSTWdXaktrVm5mT01JQ1lfSWFNUFFwV2l4SDViaFhfUVJiQWo?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -235,62 +262,6 @@
           "source": "r/DotA2",
           "published": "2026-11-09T19:32:41.000Z",
           "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Blaz insane comeback vs Noah, 3 perfect parry drush vs luke fb w/ no hp and driveguage.",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xs4lo7/blaz_insane_comeback_vs_noah_3_perfect_parry/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-09T21:38:49.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "comeback",
-            "blaz"
-          ]
-        },
-        {
-          "title": "Blaz's Is The Future Of Street Fighter",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xs9l5v/blazs_is_the_future_of_street_fighter/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-10T01:08:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "blaz"
-          ]
-        },
-        {
-          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUhsWTZBZExTOWJvMmVxbGFTWnpBZV90QUE0YzRGRlRIb2d6bFYzN0xKSzc2bWQ0eHJmR3Nwd1lGZ0tJUnFRb0RYNmtjX3ZTMHdlaUxjaFZfN2hwQ1ZoMG9IUF9jcUdYeEY1QkQ0S1FJVTZtcGZETmd0cnliNUlsTGd5T1QyaVVyeWh2WWdpaHNaQlM3SDh5LTBla1VMWjBGcVpVckxjXzJ3Mm0zUGRBUkJlcmRZanlGU290VXFKbEZWZXRpUDZJU2IwWEozeThNeTgyVUVZTzlPX1JhVjJz?oc=5",
-          "source": "Google News: Street Fighter (IGN Nordic)",
-          "published": "2026-11-10T01:54:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEJVTWJhWDdNSDREWmdZTmxka3puY1g3bUFuazJYWVNmSTE0U0dGTEZ5OUtPc3lLNGd2ZnFaMVpjbkxFcWFVT3R5a3Y3RlFYT0Z2ckRfb3I1UW4zdXlrVWczRS1tSFA5MHBwdlc1RTljV3ZqblVpekRLcFpOWHgtY0szc0UzWGgtUDAySGpWZW5YWnlhSkMzMWhVWUJQTHN1VEhHZWI3UUgzNFR6bTdubGc5dGw5WkZLNUIzSEx6bC1hWTFPV0puSm85OWdZNXN5Z0o3ZGhyUGJLTWJ1?oc=5",
-          "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-09T21:41:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Sahara and Team Reject win big at Capcom Cup 12 and Street Fighter League: World Championship 2025",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXlncVBZUjA5RTY4RlVCRUFpeU44VVlJaUlVSHMyc2pjRUMzT2RNam1vLTk3Y2RrOGhDYThCaXNFSjBOa1hXZ011V19YbktvcmtoaUxhcTZXRFZJdUQzT3U5VnlKZER0ekFJQWJ5aGdZRG9hN2REZ1k0VlJBZjAycGlTX25yWk5qSXR6Tk5wQVlmWW1scDZPWkYtdS1vVmpoUTVLU1lDenI1cHNMcVdRSWhsSVQ5bkpJWFVNSmdJcU8zOUEtVWNLbtIBzgFBVV95cUxQWEhrbk15a05tQkUxRUdhaEE0eGNVUndYYXRRTlFUb0QyRUVZbDNDSG5BS0RmTU1KLWdhcmxpaXhENGFLOVFwVGZveUlJQjNmb0w3SEw5WjhVeFVpVi1qcnlJbU1fWWltNUwxdlZRckJIQUdyN2h5b3k1eVZkeTU1dWpyaF9EU1J2eDF6dVU3LVBfTWlYMEdaT1dYUWFuWU5DT0VXTFVEeVRzdnltN0NmZ1RiUjdXNjc1QTFwQjJYMzRqa3VoMFozOWRqbHhHQQ?oc=5",
-          "source": "Google News: Street Fighter (Gaming Age)",
-          "published": "2026-11-09T20:41:36.000Z",
-          "score": 1,
           "level": null,
           "why": []
         }
@@ -328,8 +299,19 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "$100K FAZE x THE FLANK INVITATIONAL",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xsbjwr/100k_faze_x_the_flank_invitational/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-10T02:43:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
         {
           "title": "Slasher on Faze Vegas",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xs5xtq/slasher_on_faze_vegas/",
@@ -356,7 +338,7 @@
           "title": "Call of Duty League 2027 Power Rankings after the Monster Energy Launch Invitational",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakx0Q3Z0ZzBOZTU1NWVUUmE4R0JGa3k2TWZZMEs2RXBwVktVZnBBZlgzdDQ4Z3NQc1Q5TXdqakNxR0h0aWtpb25MOEkzUm5RZHRndlpoME0tSGd6QXdCUUgyUmtYUU5saFVCdXFDbHFPaG15Yk5HbFllVy1JeE50UU5sT2s3QlBOV2stV2NBZkdjX1dqMWJSWUw1Q0JpbEFpazlXZVJXQV9NZ3I3RW9fTnZvUzlmbzhxd1ZsbWd3?oc=5",
           "source": "Google News: CoD (GamingTrend)",
-          "published": "2026-11-09T20:18:11.000Z",
+          "published": "2026-11-09T20:25:47.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -365,7 +347,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Mang0 is the jayz of melee",
@@ -386,6 +368,32 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Tournament-Viable Quality Emulation on Switch or Wii U?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xsaxqb/tournamentviable_quality_emulation_on_switch_or/",
+          "source": "r/SSBM",
+          "published": "2026-11-10T02:13:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Is it possible to stop SCV rush on BGH?",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xsap73/is_it_possible_to_stop_scv_rush_on_bgh/",
+          "source": "r/broodwar",
+          "published": "2026-11-10T02:02:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "rush"
+          ]
         }
       ]
     },
@@ -435,7 +443,6 @@
   ],
   "quiet": [
     "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
