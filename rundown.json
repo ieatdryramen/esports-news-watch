@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T16:00:25.943Z",
+  "generatedAt": "2026-11-10T17:00:24.459Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "4IVAN accused Nemiga Gaming players of match-fixing",
@@ -41,6 +41,17 @@
           "why": [
             "removed*",
             "comeback*"
+          ]
+        },
+        {
+          "title": "GG rumored roster",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsqvi5/gg_rumored_roster/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T16:09:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
           ]
         },
         {
@@ -116,7 +127,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -129,22 +140,6 @@
             "champions",
             "mouz",
             "iem"
-          ]
-        },
-        {
-          "title": "Why is w0nderful rated so low compared to other AWPers like Sh1ro or Molodoy(Zywoo and m0nesy are obvious why) despite his good stats, an MVP and multiple EVPs (and also Navi winning 2 trophies this year)?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsit9j/why_is_w0nderful_rated_so_low_compared_to_other/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T09:45:23.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "grand finals*",
-            "zywoo",
-            "donk*",
-            "m0nesy",
-            "navi"
           ]
         },
         {
@@ -262,6 +257,17 @@
           "why": [
             "mouz"
           ]
+        },
+        {
+          "title": "Economy filters added to stats pages",
+          "url": "https://www.hltv.org/news/45946/economy-filters-added-to-stats-pages",
+          "source": "HLTV news",
+          "published": "2026-11-10T13:18:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "wins*"
+          ]
         }
       ]
     },
@@ -321,7 +327,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -333,6 +339,15 @@
           "why": [
             "official"
           ]
+        },
+        {
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-10T14:10:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Tekken 8 developers on retaining Roger Jr.'s signature style and why he's still fighting inside his mama's pouch",
