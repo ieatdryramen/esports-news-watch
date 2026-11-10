@@ -1,16 +1,52 @@
 {
-  "generatedAt": "2026-11-10T16:25:31.998Z",
+  "generatedAt": "2026-11-10T17:25:36.052Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 14,
       "stories": [
         {
+          "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFp1eFFranZLQkg3bE5teHFobW1Ydkc0aUJTUV84RjRwZF90a1dWTHc5M2F4VXNiREphR2xYcXZidGN5b2wzVG1hc2tHTHctcWhpUzc4TzB6Q1ZYUEVnbHdoTHp3SGtBV1JLa3BvNUpyTExsYVZwZXEzME1lMjg0cg?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-10T15:34:21.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "grand finals",
+            "grand finals"
+          ]
+        },
+        {
+          "title": "MRC 2026: EMEA Champion Points Standings",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeDlWM2tFOUJoQ09vMGhUc1JlY0VuNklnckYxTmNZZ2ExQmRBZDkzN3hZNFo4QlFPeXNvbXdyOG1GeDNUYWgtWVZvTVhhUW9BRlUtanV3THZlUjZGYnlEdjd2RXpvODQ?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-10T08:34:01.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "champion",
+            "mrc"
+          ]
+        },
+        {
+          "title": "Doomsday Begins In Marvel Rivals Season 11 As Nightcrawler & Dracula Are Unveiled",
+          "url": "https://insider-gaming.com/doomsday-begins-in-marvel-rivals-season-11-as-nightcrawler-dracula-are-unveiled/",
+          "source": "Insider Gaming",
+          "published": "2026-11-10T17:07:45.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster*",
+            "season"
+          ]
+        },
+        {
           "title": "Marvel Rivals - Official Doomsday Season 11 Trailer",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmNLOW56ZDN2Q0F5NTh1QmxxNHEyYVdaeVhnSXFveDVvakNBT21ob3FCNnNFaXFoZ3hTRjBtUjJyZnJNcjhETUR2eDlESjMwYlNBZk5JX3FjdU1nU19TN2UwOXlRZXdDUlh1VEIzLVlqYkdzU0FabUJESWxXZTRDNXhR?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-10T16:07:54.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMEMwTUZGRUF0b0xlSjltR3dZWHo3NWNKZFYyaEJHbnBYb1ZYMEtDLUdYU211QllKbGdSQ2ZHSGV0eTFNX2pBQ2MtVmVVcWhjU0FDc1FCS0VkRXduS0VfdGg1MzhjSkJmR3VWMU81X1c3eGp4NUVoelNkNmNvNkZLekdQd3ZGRFZTcnQ1WENNR3VuOTA?oc=5",
+          "source": "Google News: Rivals patches (IGN India)",
+          "published": "2026-11-10T16:07:55.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -30,10 +66,32 @@
           ]
         },
         {
-          "title": "Marvel Rivals' Doomsday-themed season 11 brings Nightcrawler into the fold, and Doctor Doom soon",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UYVh1bDkxSFE3WWUxcmdtYjJ4NU91T3k4UzI2bktBYm5RZkp0SHlLbVM2QS1UNlpEd21tNWYwdU4xS1EwdVFzU3QzTkZuWVVLazFJNWdmdktGcUQyMjU5ejZwRU55NXc4V1RoYktCeE5ZUQ?oc=5",
-          "source": "Google News: Rivals esports (Destructoid)",
-          "published": "2026-11-10T16:03:00.000Z",
+          "title": "Marvel Rivals - Official Nightcrawler Character Reveal Trailer",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1hfMzUydEg5R0Y5WEpwZVNZeWpmMDRETG96R0FhdDVBcnZUSmdaaEF6NVNQZEE1aFRuQ1RzY2VEUHllYkhmSzNkN29FYzV5a25LZHhaMnM4eUlFX3pFd0IyQkp2U19XVjlIR1QwbWY0NjA1VHlObVFVeERIQ05IOGQtS292M2RLTl91QW94Qy1INU1mYWt4Wm1VekV2V1ZrT0E?oc=5",
+          "source": "Google News: Rivals patches (IGN India)",
+          "published": "2026-11-10T17:06:20.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 adds Nightcrawler, teases Dracula as second playable hero",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYzdxSmxka2ZIM1BYaE1ucFFxWTRsc29fbVM4ZVpkd3lRRTVHQ3dpSUJoVUdJeFhOTHpDc3ZKMVhOOVRQcEgyT0d4Z01MajM0cEN6aENmUFNrM3JXTVRkbFFMWVhDN0d4NVRqbloxbGtiU3htOGpoallzeXF6eWZhVG1vVGVaeVpXdjBjWEVhdl9jOTkxbWRQMDJhOVYxNnoxNmtYSTQyZGFLb3Y1d0ZzemVFcWlNVmEwOHVhamV0aHZjT0FCelAzV3NxVXY?oc=5",
+          "source": "Google News: Rivals patches (GosuGamers)",
+          "published": "2026-11-10T16:30:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals’ Doomsday-themed season 11 brings Nightcrawler into the fold, and Doctor Doom soon",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTl9UN21EeGVRRnFPVDlrY0R0T2RGWC1aNEttTlFPQ2ZFbWdhc29pbm4yb0UyWXhwTnJWVGlCY21ZYlpJZFcwdnVmZTZxQWVCaDNIQVRoc2ptQU1RUjVMVHVJOEU5d2JEZjhkb05yRjlLQnRER1FLTmVRS0xTd2Y5ZkFyeDMtM0k4ZnZld0hNZjcyZXNV?oc=5",
+          "source": "Google News: Rivals patches (Yahoo Tech)",
+          "published": "2026-11-10T16:03:39.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -74,26 +132,8 @@
         {
           "title": "Overwatch Has Just Copied Marvel Rivals' Homework Yet Again",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QbVM3TWFvYzhsNXVlTVhXZnRJSG1kcjRMZmN0akhzRXUxOF9HaFFYNnhCX2hfTjBVT0RlR3BNcm53TTVxbk5BZm5ka3BFZVFrZXJiSEFrWUZzXzBQdVhvMGFyM0F1ZHc?oc=5",
-          "source": "Google News: Rivals patches (IMDb)",
+          "source": "Google News: Rivals rosters (IMDb)",
           "published": "2026-11-10T01:08:51.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals: Hero Wish List",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJU01mOXZ0eU9pQ1I2QmVUbnNjT1R3WXVCRDktbkRqMjZpdGY4aGhBdzdlOG81SXBIQ08zc0ZkWjNZSy03bmhmWHJlc3JjLUZwVFd2QVZKR1ZhX082cjgwN1d4MTZCVy0xOUVRcTlB?oc=5",
-          "source": "Google News: Rivals patches (GameSpot)",
-          "published": "2026-11-09T19:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals’ newest hero tease seems to confirm new X-Men member, plus latest round of leaks",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXdZQjE2dmVIWFFhSmRERUpLazZWTm9SSzFURTNYY0xjQlBNUHNXQi1OQ2piMWd1Wlltdkxsc1Y4eVBINEg3N1FDVERkcUNXdU9pWEJ3OTZadE03Z0tJYUQzZzJ1WEJIV2JsWktwYWdFR2h6UHpQQV9yZWNCYjdwTzRsUGJqaFJkLXJqb05R?oc=5",
-          "source": "Google News: Rivals rosters (Yahoo Tech)",
-          "published": "2026-11-09T17:33:29.000Z",
           "score": 1,
           "level": null,
           "why": []

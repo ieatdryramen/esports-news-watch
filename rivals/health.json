@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:25:31.692Z",
+  "generatedAt": "2026-11-10T17:25:35.705Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -14,7 +14,7 @@
       "ok": true,
       "skipped": false,
       "items": 50,
-      "newest": "2026-11-10T15:54:52.000Z",
+      "newest": "2026-11-10T16:54:42.000Z",
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-10T15:30:52.000Z",
+      "newest": "2026-11-10T17:00:00.000Z",
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-10T16:22:31.000Z",
+      "newest": "2026-11-10T17:19:04.000Z",
       "error": null
     },
     {
@@ -54,39 +54,39 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-11T00:10:00.000Z",
+      "newest": "2026-11-11T01:20:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals esports",
       "ok": true,
       "skipped": false,
-      "items": 9,
-      "newest": "2026-11-10T16:06:48.000Z",
+      "items": 10,
+      "newest": "2026-11-10T17:16:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals patches",
       "ok": true,
       "skipped": false,
-      "items": 15,
-      "newest": "2026-11-10T16:07:54.000Z",
+      "items": 17,
+      "newest": "2026-11-10T17:19:04.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals rosters",
       "ok": true,
       "skipped": false,
-      "items": 5,
-      "newest": "2026-11-10T01:08:51.000Z",
+      "items": 7,
+      "newest": "2026-11-10T17:19:04.000Z",
       "error": null
     },
     {
       "name": "Google News: Sheep/Dot/Liquipedia",
       "ok": true,
       "skipped": false,
-      "items": 88,
-      "newest": "2026-11-10T16:01:36.000Z",
+      "items": 92,
+      "newest": "2026-11-10T17:16:00.000Z",
       "error": null
     },
     {
