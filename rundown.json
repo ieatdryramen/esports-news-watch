@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:00:26.135Z",
+  "generatedAt": "2026-11-10T08:00:27.014Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -73,15 +73,15 @@
           ]
         },
         {
-          "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-10T06:36:31.000Z",
+          "title": "Outside of karrigan and FalleN, is MAJ3R the last active pro from the CS 1.6 old guard?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsgaac/outside_of_karrigan_and_fallen_is_maj3r_the_last/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T07:00:59.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "return",
-            "faze"
+            "the last",
+            "karrigan"
           ]
         },
         {
@@ -173,7 +173,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Banned Heroes",
@@ -208,6 +208,26 @@
           "why": [
             "removed"
           ]
+        },
+        {
+          "title": "Update will be after LOL finale",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsgpa1/update_will_be_after_lol_finale/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T07:26:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Seven Dota 2 Teams Gone in Six Months: Why Organisations Are Walking Away From the Scene",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhNOTg5VXV6VXBab2d6X2tIUC1NT1c4aXd6RzJsZE9FS1IxQUVnTWlpX2RDZEFFTHZicmZERDhMYndWeU5XSTlTMmYxWWIxLTZaN2paVGI2NlpQQ1pPTHVndXhsSzFxY3RGSTJkeWhnVnVRaHhheGR6LWNmY0NQV1U1UjdZVVN2MzduenFMNA?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-10T06:57:32.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Dendi Speaks Out About a Serious Problem in Professional Dota 2",
@@ -389,24 +409,6 @@
       ]
     },
     {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "APGs team and the ANZ team won't be attending Halo Fest.",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xs691b/apgs_team_and_the_anz_team_wont_be_attending_halo/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-09T22:44:29.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "won",
-            "prize pool*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CoD",
       "storyCount": 2,
       "stories": [
@@ -489,28 +491,13 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "New Winter Update Preview: Friends & Groups, Smart Fish Trap Placement, Balance Changes",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xs7ewq/new_winter_update_preview_friends_groups_smart/",
-          "source": "r/aoe2",
-          "published": "2026-11-09T23:31:53.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
+    "AoE2",
     "Trackmania",
     "Warcraft III",
-    "Legacy FGC"
+    "Legacy FGC",
+    "Halo"
   ]
 }
