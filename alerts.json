@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T10:10:19.949Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "PGL Cluj-Napoca invites revealed",
+      "url": "https://www.hltv.org/news/45958/pgl-cluj-napoca-invites-revealed",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 5,
+      "why": [
+        "revealed",
+        "pgl"
+      ],
+      "summary": "All 14 highest-ranked teams have accepted their invites to the Romanian event.",
+      "published": "2026-11-10T10:00:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T09:50:25.877Z",
       "level": "possible",
       "scene": "CS2",
