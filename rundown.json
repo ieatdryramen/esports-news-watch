@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T19:50:21.028Z",
+  "generatedAt": "2026-11-10T20:45:20.992Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 24,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -80,6 +80,28 @@
           ]
         },
         {
+          "title": "Las Vegas Pays $2M to Host BLAST's 2028 Counter-Strike Major and a Summer Event",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2dpamtRQ19wT000cEh0RzM2RWpvQTQzZmVuS0xITk9aVFFtY1RXWHltNDVrb2VlYnRRYjNOWGdsT0htTEppMlJnc2VOM0p6bDVFUG5pdzB5MVRRVk5TeXJGWnRLaEZDaTFzcm56bVU5Ym1KVTJJbVJRZXJrWFNvZzFoUHk?oc=5",
+          "source": "Google News: CS2 (The Esports Advocate)",
+          "published": "2026-11-10T20:37:02.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
+          "title": "m0NESY: \"It's hard for now to say that we are title contenders\"",
+          "url": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
+          "source": "HLTV news",
+          "published": "2026-11-10T19:59:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "m0nesy"
+          ]
+        },
+        {
           "title": "NertZ on G2's season: \"No matter what, it's a tragedy\"",
           "url": "https://www.hltv.org/news/45956/nertz-on-g2s-season-no-matter-what-its-a-tragedy",
           "source": "HLTV news",
@@ -94,7 +116,7 @@
           "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-10T15:36:44.000Z",
+          "published": "2026-11-10T17:31:18.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -122,34 +144,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "Economy filters added to stats pages",
-          "url": "https://www.hltv.org/news/45946/economy-filters-added-to-stats-pages",
-          "source": "HLTV news",
-          "published": "2026-11-10T13:18:00.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "wins*"
-          ]
-        },
-        {
-          "title": "Fluxo W7M pauses CS2 operations while keeping exit, dav1deuS, and Juve under contract",
-          "url": "https://esports.gg/news/fluxo-w7m-pauses-cs2-operations/",
-          "source": "esports.gg",
-          "published": "2026-11-10T19:33:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pgl*"
-          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "FaZe Clan Teases Mysterious Return for November 11 — Banks Says He Will Not Be Involved",
@@ -173,15 +173,6 @@
           "why": [
             "roster"
           ]
-        },
-        {
-          "title": "Call of Duty League 2027 Power Rankings after the Monster Energy Launch Invitational",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakx0Q3Z0ZzBOZTU1NWVUUmE4R0JGa3k2TWZZMEs2RXBwVktVZnBBZlgzdDQ4Z3NQc1Q5TXdqakNxR0h0aWtpb25MOEkzUm5RZHRndlpoME0tSGd6QXdCUUgyUmtYUU5saFVCdXFDbHFPaG15Yk5HbFllVy1JeE50UU5sT2s3QlBOV2stV2NBZkdjX1dqMWJSWUw1Q0JpbEFpazlXZVJXQV9NZ3I3RW9fTnZvUzlmbzhxd1ZsbWd3?oc=5",
-          "source": "Google News: CoD (GamingTrend)",
-          "published": "2026-11-09T20:25:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -205,8 +196,19 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
+        {
+          "title": "New cheat abuse please fix",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsxeod/new_cheat_abuse_please_fix/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T20:15:37.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "cheat"
+          ]
+        },
         {
           "title": "GG rumored roster",
           "url": "https://www.reddit.com/r/DotA2/comments/1xsqvi5/gg_rumored_roster/",
@@ -279,6 +281,15 @@
           ]
         },
         {
+          "title": "Thoughts on upcoming patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsxhko/thoughts_on_upcoming_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T20:18:39.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "How to balance farming&fighting",
           "url": "https://www.reddit.com/r/DotA2/comments/1xstiog/how_to_balance_farmingfighting/",
           "source": "r/DotA2",
@@ -302,7 +313,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -352,15 +363,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
-          "source": "Google News: Tekken (Gaming Age)",
-          "published": "2026-11-10T01:14:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -382,8 +384,32 @@
       ]
     },
     {
+      "scene": "Classic Tetris",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Judging the Qualifying Round – 2026 CTWC Experience – Day 1 – Part 3",
+          "url": "https://tetrisinterest.com/judging-the-qualifying-round-2026-ctwc-experience-day-1-part-3/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T20:44:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Set Up – 2026 CTWC Experience – Part 1",
+          "url": "https://tetrisinterest.com/set-up-2026-ctwc-experience-part-1/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T20:32:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
@@ -399,15 +425,6 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEJVTWJhWDdNSDREWmdZTmxka3puY1g3bUFuazJYWVNmSTE0U0dGTEZ5OUtPc3lLNGd2ZnFaMVpjbkxFcWFVT3R5a3Y3RlFYT0Z2ckRfb3I1UW4zdXlrVWczRS1tSFA5MHBwdlc1RTljV3ZqblVpekRLcFpOWHgtY0szc0UzWGgtUDAySGpWZW5YWnlhSkMzMWhVWUJQTHN1VEhHZWI3UUgzNFR6bTdubGc5dGw5WkZLNUIzSEx6bC1hWTFPV0puSm85OWdZNXN5Z0o3ZGhyUGJLTWJ1?oc=5",
           "source": "Google News: Street Fighter (IGN)",
           "published": "2026-11-09T21:41:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Sahara and Team Reject win big at Capcom Cup 12 and Street Fighter League: World Championship 2025",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXlncVBZUjA5RTY4RlVCRUFpeU44VVlJaUlVSHMyc2pjRUMzT2RNam1vLTk3Y2RrOGhDYThCaXNFSjBOa1hXZ011V19YbktvcmtoaUxhcTZXRFZJdUQzT3U5VnlKZER0ekFJQWJ5aGdZRG9hN2REZ1k0VlJBZjAycGlTX25yWk5qSXR6Tk5wQVlmWW1scDZPWkYtdS1vVmpoUTVLU1lDenI1cHNMcVdRSWhsSVQ5bkpJWFVNSmdJcU8zOUEtVWNLbtIBzgFBVV95cUxQWEhrbk15a05tQkUxRUdhaEE0eGNVUndYYXRRTlFUb0QyRUVZbDNDSG5BS0RmTU1KLWdhcmxpaXhENGFLOVFwVGZveUlJQjNmb0w3SEw5WjhVeFVpVi1qcnlJbU1fWWltNUwxdlZRckJIQUdyN2h5b3k1eVZkeTU1dWpyaF9EU1J2eDF6dVU3LVBfTWlYMEdaT1dYUWFuWU5DT0VXTFVEeVRzdnltN0NmZ1RiUjdXNjc1QTFwQjJYMzRqa3VoMFozOWRqbHhHQQ?oc=5",
-          "source": "Google News: Street Fighter (Gaming Age)",
-          "published": "2026-11-09T20:41:36.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -433,7 +450,6 @@
     }
   ],
   "quiet": [
-    "Classic Tetris",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
