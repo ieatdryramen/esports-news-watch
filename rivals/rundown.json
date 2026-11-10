@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T12:25:37.033Z",
+  "generatedAt": "2026-11-10T13:25:32.507Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Marvel Rivals’ Rumoured 2027 Roster Includes Miles Morales",
@@ -60,6 +60,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Sheldon Esports Marvel Rivals Qualify For State",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWdwbzZtTGkySTFrUVZJSHRYT1RYdkZVRm1nRnFUVW5uNXlwN1BCeDdqSERraUtpTU9Pc01jdkVXci1PVUtQX1JPbF93c0NERFBvUnh5TXFIODJBVzNDZFd6NFBVUkNSWVU3bG9SRXBrVGVtUkN1U0FHdXlpbXJreUhCOA?oc=5",
+          "source": "Google News: Rivals esports (KIWA Radio)",
+          "published": "2026-11-10T13:12:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Overwatch Has Just Copied Marvel Rivals' Homework Yet Again",
