@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:55:22.426Z",
+  "generatedAt": "2026-11-10T15:25:17.317Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,53 +93,6 @@
         {
           "placement": 7,
           "name": "39 | *Insert*"
-        }
-      ]
-    },
-    {
-      "eventId": "1714477",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "GatorLAN Fall 2026",
-      "event": "Street Fighter III: 3rd Strike ($50 pot+$50 if >=32 entrants)",
-      "entrants": 21,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-07T16:30:00.000Z",
-      "endAt": "2026-11-09T03:00:00.000Z",
-      "url": "https://www.start.gg/tournament/gatorlan-fall-2026/event/street-fighter-iii-3rd-strike-50-pot-50-if-32-entrants",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "GF_Dante"
-        },
-        {
-          "placement": 2,
-          "name": "anesi"
-        },
-        {
-          "placement": 3,
-          "name": "GoTE [RR] PW | Criti Fect"
-        },
-        {
-          "placement": 4,
-          "name": "Flow_"
-        },
-        {
-          "placement": 5,
-          "name": "HeavenDrill"
-        },
-        {
-          "placement": 5,
-          "name": "ReverentFern"
-        },
-        {
-          "placement": 7,
-          "name": "Haywire | ChezFarach001"
-        },
-        {
-          "placement": 7,
-          "name": "Shockjoc"
         }
       ]
     },
