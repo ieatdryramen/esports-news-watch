@@ -1,181 +1,24 @@
 {
-  "generatedAt": "2026-11-10T13:00:26.335Z",
+  "generatedAt": "2026-11-10T14:00:28.144Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "CS2",
-      "storyCount": 25,
-      "stories": [
-        {
-          "title": "Why is w0nderful rated so low compared to other AWPers like Sh1ro or Molodoy(Zywoo and m0nesy are obvious why) despite his good stats, an MVP and multiple EVPs (and also Navi winning 2 trophies this year)?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsit9j/why_is_w0nderful_rated_so_low_compared_to_other/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T09:45:23.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "grand finals*",
-            "zywoo",
-            "donk*",
-            "m0nesy",
-            "navi"
-          ]
-        },
-        {
-          "title": "PGL has officially confirmed the name changes of four participating teams at the CS2 Major Singapore 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXzE5UDNIaWVDbFNQQWxsRGVGOHVNTVVJZ3JkRWZkTHF3YkdtY09DVXRKT0l3bDRtMzNOWmdqZnlPcGlfRkdPR1hqNTdTSGo4bUtNbUVFVkRfMmFDSHE4T2x3d2Y0MmVRSjhsZVVlT2s4VGVFSWNQem1xdUZpR015WktUVTh3VHoxU2s1LThNZk5CVHZidkJ1VWpwX3lLRml5cE1wWkZKYzZ5TmU2YW12djhlTkpROU9uSzNIckZMR3NjN2FJMUVFUUhiMHBzQzItNlRF0gHbAUFVX3lxTE1PbGotSlRjdm0temxTSEpDc09ONEN4UHBFLXY0Z0QxTGNWWlBMeVRUTWtNZWhLUEhTVC0xTllJcE5BY1R4MnZzSThMeFFlNFlaak9JbUpVcEdJMS1jUFc1anRhVjBhaEttazZicUFGc2VzVVVIQTRIbGhrMVRWN0J2QXVrVEhKVkZnVUtRUUVtUlN3THFYaTNTWEtrdGpjbGQwelRrUmYzN05JQ3ZfWmRFRlk4eENCdUtXSFo5cTR2T2o4VDFIeUNFclBuamFWc0JteU9VaHk5N3JwYw?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-11-09T15:30:26.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "confirmed",
-            "pgl",
-            "cs2 major"
-          ]
-        },
-        {
-          "title": "PGL Cluj-Napoca invites revealed",
-          "url": "https://www.hltv.org/news/45958/pgl-cluj-napoca-invites-revealed",
-          "source": "HLTV news",
-          "published": "2026-11-10T10:00:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "revealed",
-            "pgl"
-          ]
-        },
-        {
-          "title": "Las Vegas Targets CS2 Major 2028 With Two-Event BLAST Deal",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNFJkdkJJM3Fsc2hOdWpDMnc4MHp5a3Fma2pJeUx3VjNWUG5vTGxSTFRlYzBLWWtNQ3BTRjBrMnUyOFExMFphU1JiMEJjcEJUMGF3TmU4MFpVd0lUNWhGTGotZmduV1o0TFlPSFB3U3JMaEhZMXBTRzIxMWo?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-09T14:59:01.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "blast",
-            "cs2 major"
-          ]
-        },
-        {
-          "title": "BLAST Eyes $2 Million Deal to Bring CS2 Major to Las Vegas",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGtJbklUVWIwTkE2eG1jYWFZbmRHb1JTVjl4VkpwRnlEZXJwX3daVTBiVUFnX3EzZnhMOHVYY3lkeXJaMzV1M2I3Zk5pUk5EQUdyN29OSGdsVE1pZXlhRnhyR2x5TkN0bmxJNUZGbFNQOFlLWWYzejduaThrbXhfOXpMYjZneDkwV0NZeEdn?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-09T13:17:20.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "blast",
-            "cs2 major"
-          ]
-        },
-        {
-          "title": "PGL Cluj-Napoca 2027 Teams Confirmed: All 14 Invites",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZURjWXlvMk0yc0tROHZNM0NEbmdrbkY0bmctUlNHS2t5WHhGWVd4ZDJ1S2p5WTJsR0txV0t0M2FQU0JFSndlTm56a0NJbHVRa0RlVS0tVmttYjZzOTFiTnJGcnprY2gwMDY3aTJycl8wUlVhWUlVX3l1M1M1XzhZZkh4VFpDejNzNWxlQ2FrUi1yUQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-10T09:07:01.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "confirmed",
-            "pgl"
-          ]
-        },
-        {
-          "title": "Outside of karrigan and FalleN, is MAJ3R the last active pro from the CS 1.6 old guard?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsgaac/outside_of_karrigan_and_fallen_is_maj3r_the_last/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T07:00:59.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last",
-            "karrigan"
-          ]
-        },
-        {
-          "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-10T06:36:31.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "faze"
-          ]
-        },
-        {
-          "title": "The EVPs and All-Stars of IEM Beijing 2026",
-          "url": "https://www.hltv.org/news/45948/the-evps-and-all-stars-of-iem-beijing-2026",
-          "source": "HLTV news",
-          "published": "2026-11-09T15:26:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "mouz*",
-            "iem"
-          ]
-        },
-        {
-          "title": "PGL moves 2027 event from China to Mongolia",
-          "url": "https://www.hltv.org/news/45959/pgl-moves-2027-event-from-china-to-mongolia",
-          "source": "HLTV news",
-          "published": "2026-11-10T11:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
-          "url": "https://esports.gg/news/betting/gambling-sponsored-esports-teams-faced-rebranding-pgl-major-singapore-2026/",
-          "source": "esports.gg",
-          "published": "2026-11-10T02:10:34.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Las Vegas LVCVA Weighs $2M BLAST Esports Deal for 2028",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnBSeklJc2pWYUVCMXd2RV9DYi1YNnZyb0lodms3VkdVa3U3U1Q3UTN2QnNsUnlScDdfYlh5emhQdEVwSjVuTVZyazhXUEFuYl9PenZ2QW85ZnZLSG0tTEE4Q2dQMHZOTlBjSDdTNXJxMDNzS0dodVIzREl2aUE1WklSWlBjR2xQblJvN3YwWDNMYVlIMi1tOS1OUDVsTFkxeGlGNlVB?oc=5",
-          "source": "Google News: CS2 (Hoodline)",
-          "published": "2026-11-09T19:42:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Quake",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Anyone else play another Quake game while waiting in the Quake Champions 1v1 queue?",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xscxyp/anyone_else_play_another_quake_game_while_waiting/",
-          "source": "r/QuakeChampions",
-          "published": "2026-11-10T03:52:25.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "fired*",
-            "champions"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 14,
       "stories": [
+        {
+          "title": "4IVAN accused Nemiga Gaming players of match-fixing",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsmnbw/4ivan_accused_nemiga_gaming_players_of_matchfixing/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T13:17:03.000Z",
+          "score": 9,
+          "level": "possible",
+          "why": [
+            "match-fixing",
+            "accused",
+            "reddit only"
+          ]
+        },
         {
           "title": "Banned Heroes",
           "url": "https://www.reddit.com/r/DotA2/comments/1xsezwp/banned_heroes/",
@@ -208,6 +51,17 @@
           "level": null,
           "why": [
             "removed"
+          ]
+        },
+        {
+          "title": "Leaving League behind, coming to Dota. Which role/hero should I play?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsmfxo/leaving_league_behind_coming_to_dota_which/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T13:07:24.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "champions*"
           ]
         },
         {
@@ -276,30 +130,165 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CS2",
+      "storyCount": 24,
+      "stories": [
+        {
+          "title": "Why is w0nderful rated so low compared to other AWPers like Sh1ro or Molodoy(Zywoo and m0nesy are obvious why) despite his good stats, an MVP and multiple EVPs (and also Navi winning 2 trophies this year)?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsit9j/why_is_w0nderful_rated_so_low_compared_to_other/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T09:45:23.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "grand finals*",
+            "zywoo",
+            "donk*",
+            "m0nesy",
+            "navi"
+          ]
         },
         {
-          "title": "Last pick PL needs to be nerfed",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsfwaf/last_pick_pl_needs_to_be_nerfed/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T06:37:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
+          "title": "PGL has officially confirmed the name changes of four participating teams at the CS2 Major Singapore 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXzE5UDNIaWVDbFNQQWxsRGVGOHVNTVVJZ3JkRWZkTHF3YkdtY09DVXRKT0l3bDRtMzNOWmdqZnlPcGlfRkdPR1hqNTdTSGo4bUtNbUVFVkRfMmFDSHE4T2x3d2Y0MmVRSjhsZVVlT2s4VGVFSWNQem1xdUZpR015WktUVTh3VHoxU2s1LThNZk5CVHZidkJ1VWpwX3lLRml5cE1wWkZKYzZ5TmU2YW12djhlTkpROU9uSzNIckZMR3NjN2FJMUVFUUhiMHBzQzItNlRF0gHbAUFVX3lxTE1PbGotSlRjdm0temxTSEpDc09ONEN4UHBFLXY0Z0QxTGNWWlBMeVRUTWtNZWhLUEhTVC0xTllJcE5BY1R4MnZzSThMeFFlNFlaak9JbUpVcEdJMS1jUFc1anRhVjBhaEttazZicUFGc2VzVVVIQTRIbGhrMVRWN0J2QXVrVEhKVkZnVUtRUUVtUlN3THFYaTNTWEtrdGpjbGQwelRrUmYzN05JQ3ZfWmRFRlk4eENCdUtXSFo5cTR2T2o4VDFIeUNFclBuamFWc0JteU9VaHk5N3JwYw?oc=5",
+          "source": "Google News: CS2 (Players)",
+          "published": "2026-11-09T15:30:26.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "confirmed",
+            "pgl",
+            "cs2 major"
+          ]
         },
         {
-          "title": "Sign up to our EU & NA Ability Draft League!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsfm5c/sign_up_to_our_eu_na_ability_draft_league/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T06:19:37.000Z",
-          "score": 0,
+          "title": "PGL Cluj-Napoca invites revealed",
+          "url": "https://www.hltv.org/news/45958/pgl-cluj-napoca-invites-revealed",
+          "source": "HLTV news",
+          "published": "2026-11-10T10:00:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "revealed",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Las Vegas Targets CS2 Major 2028 With Two-Event BLAST Deal",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNFJkdkJJM3Fsc2hOdWpDMnc4MHp5a3Fma2pJeUx3VjNWUG5vTGxSTFRlYzBLWWtNQ3BTRjBrMnUyOFExMFphU1JiMEJjcEJUMGF3TmU4MFpVd0lUNWhGTGotZmduV1o0TFlPSFB3U3JMaEhZMXBTRzIxMWo?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-09T14:59:01.000Z",
+          "score": 5,
           "level": null,
-          "why": []
+          "why": [
+            "blast",
+            "cs2 major"
+          ]
+        },
+        {
+          "title": "Ranked Pick'em Data for IEM Beijing and Blast Rivals",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsmhlj/ranked_pickem_data_for_iem_beijing_and_blast/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T13:09:32.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "iem",
+            "blast"
+          ]
+        },
+        {
+          "title": "PGL Cluj-Napoca 2027 Teams Confirmed: All 14 Invites",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZURjWXlvMk0yc0tROHZNM0NEbmdrbkY0bmctUlNHS2t5WHhGWVd4ZDJ1S2p5WTJsR0txV0t0M2FQU0JFSndlTm56a0NJbHVRa0RlVS0tVmttYjZzOTFiTnJGcnprY2gwMDY3aTJycl8wUlVhWUlVX3l1M1M1XzhZZkh4VFpDejNzNWxlQ2FrUi1yUQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-10T09:07:01.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "confirmed",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Outside of karrigan and FalleN, is MAJ3R the last active pro from the CS 1.6 old guard?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsgaac/outside_of_karrigan_and_fallen_is_maj3r_the_last/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T07:00:59.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "the last",
+            "karrigan"
+          ]
+        },
+        {
+          "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-10T06:36:31.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "faze"
+          ]
+        },
+        {
+          "title": "The EVPs and All-Stars of IEM Beijing 2026",
+          "url": "https://www.hltv.org/news/45948/the-evps-and-all-stars-of-iem-beijing-2026",
+          "source": "HLTV news",
+          "published": "2026-11-09T15:26:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "mouz*",
+            "iem"
+          ]
+        },
+        {
+          "title": "FaZe Tactics - Dust II",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsmp2n/faze_tactics_dust_ii/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T13:19:14.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "ban*",
+            "faze"
+          ]
+        },
+        {
+          "title": "PGL moves 2027 event from China to Mongolia",
+          "url": "https://www.hltv.org/news/45959/pgl-moves-2027-event-from-china-to-mongolia",
+          "source": "HLTV news",
+          "published": "2026-11-10T11:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
+          "url": "https://esports.gg/news/betting/gambling-sponsored-esports-teams-faced-rebranding-pgl-major-singapore-2026/",
+          "source": "esports.gg",
+          "published": "2026-11-10T02:10:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 6,
+      "storyCount": 4,
       "stories": [
         {
           "title": "What’s with people after losing invites you to a custom room and then leaves in seconds?",
@@ -310,17 +299,6 @@
           "level": null,
           "why": [
             "leaves"
-          ]
-        },
-        {
-          "title": "You get a comeback, I get a comeback, everybody gets a comeback",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xsdolm/you_get_a_comeback_i_get_a_comeback_everybody/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-10T04:32:06.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "comeback"
           ]
         },
         {
@@ -349,18 +327,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Apparently the mods removed my post, idk why since I was asking a genuine question 😕",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xse6vy/apparently_the_mods_removed_my_post_idk_why_since/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-10T04:59:29.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "removed",
-            "-question"
-          ]
         }
       ]
     },
@@ -393,36 +359,19 @@
           ]
         },
         {
-          "title": "Characters to look forward to in Tekken 8 season 4?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xsd4cn/characters_to_look_forward_to_in_tekken_8_season_4/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T04:01:47.000Z",
-          "score": 0,
+          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
+          "source": "Google News: Tekken (Gaming Age)",
+          "published": "2026-11-10T01:14:39.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }
       ]
     },
     {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "A falling Tetris piece won't wait for an LLM to finish thinking",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xsdmrb/a_falling_tetris_piece_wont_wait_for_an_llm_to/",
-          "source": "r/Tetris",
-          "published": "2026-11-10T04:29:23.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "New mod turns Super Smash Bros. Melee into a three-dimensional brawler",
@@ -430,6 +379,15 @@
           "source": "Google News: Melee (EventHubs)",
           "published": "2026-11-09T14:06:31.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Controller alternative in tournament?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xsnh1e/controller_alternative_in_tournament/",
+          "source": "r/SSBM",
+          "published": "2026-11-10T13:54:04.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -453,10 +411,12 @@
   ],
   "quiet": [
     "AoE2",
+    "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
+    "Quake",
     "Halo"
   ]
 }
