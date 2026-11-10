@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:00:22.169Z",
+  "generatedAt": "2026-11-10T04:00:24.164Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -119,9 +119,9 @@
         },
         {
           "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/",
-          "source": "esports.gg",
-          "published": "2026-11-09T12:52:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-09T13:57:42.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -169,6 +169,17 @@
           ]
         },
         {
+          "title": "'Never Surrender' — 2Game's Blaz Speaks Out About That Wild Street Fighter League Match Against NoahTheProdigy",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQkZXZm1PdUI5OXFlUWJnX1BGV2RWV3c2ODVmaWR5VEZnTU1VMGhJSTBvQ2F3b2RIWF9lbEJtaFZpQ0dSdEVrTWZEbHBmRGo4M1BkSjJ5V29xRDhvWHphOE1IV2VjcHo1dHdTRi1ybmFtYW1sNzJZczZwQTdOS05IcjE3d2w5TEpWV3F0bEQ2em5fSTllUFFDTFpFTV9Sc09xaFRKcnZqcTdyUllDOEFudDlMb0JsREloR0diSzE2WVdCRVNBTEpoeWhZcU1RZ2FCRHlhaE9KT2ZJTFRxTlVBdVN0T0JTc0VG?oc=5",
+          "source": "Google News: Street Fighter (IGN)",
+          "published": "2026-11-10T01:42:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blaz"
+          ]
+        },
+        {
           "title": "Blaz's Is The Future Of Street Fighter",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xs9l5v/blazs_is_the_future_of_street_fighter/",
           "source": "r/StreetFighter",
@@ -178,15 +189,6 @@
           "why": [
             "blaz"
           ]
-        },
-        {
-          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1N2dGp4LVhjVDVXcG5RMjhsdlp0OTI1dG9hdENlWlkxbGxXVDRPeU1DTXMzSUxhSjhmWHEzWE5wZ2NJaFdKOVI4NkJFdS1VQnlnSFpDamdsLWQ5eHlCUGUyVURWUEV4LWZBQlc0TnVUOUJHaUdNd1ljeVpqWUpMWl83cVlNNEVGbGVuM1IyeExEN2lSdVViTXdfYjdva2d0WndDOVNMWWVRbDN1c0JBNm1uNnJDcmRWbUZhVGZlUlBsbXYxUE1BQlNhS1VIN1k0TzdOdXJud21DQQ?oc=5",
-          "source": "Google News: Street Fighter (IGN Pakistan)",
-          "published": "2026-11-10T01:54:54.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
@@ -209,26 +211,32 @@
       ]
     },
     {
+      "scene": "Quake",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Anyone else play another Quake game while waiting in the Quake Champions 1v1 queue?",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xscxyp/anyone_else_play_another_quake_game_while_waiting/",
+          "source": "r/QuakeChampions",
+          "published": "2026-11-10T03:52:25.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "fired*",
+            "champions"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1hSUy1FTW9oYlY0bkRGSzJvbkFNUkZ1eDIydGxpdExjY0xIRmhhN29FaVB4NUFiWGg3Z25JSVMzRXVxaWxIb0ZLWkFYSnY0Sk54cDBXclFiQ0wxdzhDSFk1NW94SE5Rb0dHT0hBT2RIS0FuX1NpVlRCbEJJamo4QUpaMjk5bmNmMEd5X3RjT0JLNlNldXRRbVV0QkZrZ3FyS1RYaGZtQUotM2tKa0J5NWN6anB5c1lxVEHSAboBQVVfeXFMUG9YUlMtRU1vaGJWNG5ERksyb25BTVJGdXgyMnRsaXRMY2NMSEZoYTdvRWlQeDVBYlhoN2duSUlTM0V1cWlsSG9GS1pBWEp2NEpOeHAwV3JRYkNMMXc4Q0hZNTVveEhOUW9HR09IQU9kSEtBbl9TaVZUQmxCSWpqOEFKWjI5OW5jZjBHeV90Y09CSzZTZXV0UW1VdEJGa2dxcktUWGhmbUFKLTNrSmtCeTVjempweXNZcVRB?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-09T19:24:54.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "gaimin gladiators"
-          ]
-        },
-        {
-          "title": "Gaimin Gladiators Hint At Return To Dota 2: Who Could They Potentially Sign?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdraVpqZVNnLTkxdENlWjJHeHZJdXdOSlNNY3pBdXhwaW02N09pc1hoQlBERFdxSGs2U0VsUmVGU29hdmg4dWZkUDlaS1V0VGdIb2g0QllLbGp5QWRkNmhsNFd0TWduNVBzYkV6NkJXWDd6dFhOYnpwSXJ3SFI1OTN2WTFaWFEyQVUyZXdtcjBlRVVwOExGUzIzYmt0YmNZanYzZ1NWTkl1dTBNVzdz?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-09T03:52:04.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -257,10 +265,10 @@
           "why": []
         },
         {
-          "title": "Nerf blink, buff force staff",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xs1a6q/nerf_blink_buff_force_staff/",
+          "title": "Supporter pack emoticons are back for those before season 10",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsc9k4/supporter_pack_emoticons_are_back_for_those/",
           "source": "r/DotA2",
-          "published": "2026-11-09T19:32:41.000Z",
+          "published": "2026-11-10T03:17:37.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -269,20 +277,8 @@
     },
     {
       "scene": "Halo",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Burn the Ships Announces Roster for LVT Pro League Finals - Descendant, Precision, Yakzn, Acid | Coach: Thug Nasty",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xs15fp/burn_the_ships_announces_roster_for_lvt_pro/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-09T19:27:50.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "roster",
-            "announces"
-          ]
-        },
         {
           "title": "APGs team and the ANZ team won't be attending Halo Fest.",
           "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xs691b/apgs_team_and_the_anz_team_wont_be_attending_halo/",
@@ -398,32 +394,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Death Battle Season 8 Winners Lounge (ft. Heihachi) [Art Comm'd by me from Azraelaga on Fiverr]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xs1o81/death_battle_season_8_winners_lounge_ft_heihachi/",
-          "source": "r/Tekken",
-          "published": "2026-11-09T19:47:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        },
-        {
-          "title": "Tournament ready game, btw 😂",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xs4inf/tournament_ready_game_btw/",
-          "source": "r/Tekken",
-          "published": "2026-11-09T21:35:34.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
       "storyCount": 1,
       "stories": [
@@ -439,13 +409,27 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Tournament ready game, btw 😂",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xs4inf/tournament_ready_game_btw/",
+          "source": "r/Tekken",
+          "published": "2026-11-09T21:35:34.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
-    "Legacy FGC",
-    "Quake"
+    "Legacy FGC"
   ]
 }
