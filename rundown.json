@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T15:00:28.616Z",
+  "generatedAt": "2026-11-10T16:00:25.943Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "4IVAN accused Nemiga Gaming players of match-fixing",
@@ -41,17 +41,6 @@
           "why": [
             "removed*",
             "comeback*"
-          ]
-        },
-        {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xshk2z/removed_by_reddit/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T08:22:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
           ]
         },
         {
@@ -95,17 +84,6 @@
           "why": []
         },
         {
-          "title": "Update will be after LOL finale",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsgpa1/update_will_be_after_lol_finale/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T07:26:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Seven Dota 2 Teams Gone in Six Months: Why Organisations Are Walking Away From the Scene",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhNOTg5VXV6VXBab2d6X2tIUC1NT1c4aXd6RzJsZE9FS1IxQUVnTWlpX2RDZEFFTHZicmZERDhMYndWeU5XSTlTMmYxWWIxLTZaN2paVGI2NlpQQ1pPTHVndXhsSzFxY3RGSTJkeWhnVnVRaHhheGR6LWNmY0NQV1U1UjdZVVN2MzduenFMNA?oc=5",
           "source": "Google News: Dota (TalkEsport)",
@@ -138,7 +116,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -167,19 +145,6 @@
             "donk*",
             "m0nesy",
             "navi"
-          ]
-        },
-        {
-          "title": "PGL has officially confirmed the name changes of four participating teams at the CS2 Major Singapore 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXzE5UDNIaWVDbFNQQWxsRGVGOHVNTVVJZ3JkRWZkTHF3YkdtY09DVXRKT0l3bDRtMzNOWmdqZnlPcGlfRkdPR1hqNTdTSGo4bUtNbUVFVkRfMmFDSHE4T2x3d2Y0MmVRSjhsZVVlT2s4VGVFSWNQem1xdUZpR015WktUVTh3VHoxU2s1LThNZk5CVHZidkJ1VWpwX3lLRml5cE1wWkZKYzZ5TmU2YW12djhlTkpROU9uSzNIckZMR3NjN2FJMUVFUUhiMHBzQzItNlRF0gHbAUFVX3lxTE1PbGotSlRjdm0temxTSEpDc09ONEN4UHBFLXY0Z0QxTGNWWlBMeVRUTWtNZWhLUEhTVC0xTllJcE5BY1R4MnZzSThMeFFlNFlaak9JbUpVcEdJMS1jUFc1anRhVjBhaEttazZicUFGc2VzVVVIQTRIbGhrMVRWN0J2QXVrVEhKVkZnVUtRUUVtUlN3THFYaTNTWEtrdGpjbGQwelRrUmYzN05JQ3ZfWmRFRlk4eENCdUtXSFo5cTR2T2o4VDFIeUNFclBuamFWc0JteU9VaHk5N3JwYw?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-11-09T15:30:26.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "confirmed",
-            "pgl",
-            "cs2 major"
           ]
         },
         {
@@ -231,18 +196,6 @@
           ]
         },
         {
-          "title": "The EVPs and All-Stars of IEM Beijing 2026",
-          "url": "https://www.hltv.org/news/45948/the-evps-and-all-stars-of-iem-beijing-2026",
-          "source": "HLTV news",
-          "published": "2026-11-09T15:26:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "mouz*",
-            "iem"
-          ]
-        },
-        {
           "title": "Sources: Fluxo to put CS division on hold",
           "url": "https://www.hltv.org/news/45960/sources-fluxo-to-put-cs-division-on-hold",
           "source": "HLTV news",
@@ -287,51 +240,28 @@
           "why": [
             "pgl"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 4,
-      "stories": [
+        },
         {
-          "title": "The Dan verse Game V11 Street Fighter Diago Ken Evo moment 37",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xsoh0f/the_dan_verse_game_v11_street_fighter_diago_ken/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-10T14:36:02.000Z",
-          "score": 4,
+          "title": "Las Vegas LVCVA Weighs $2M BLAST Esports Deal for 2028",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnBSeklJc2pWYUVCMXd2RV9DYi1YNnZyb0lodms3VkdVa3U3U1Q3UTN2QnNsUnlScDdfYlh5emhQdEVwSjVuTVZyazhXUEFuYl9PenZ2QW85ZnZLSG0tTEE4Q2dQMHZOTlBjSDdTNXJxMDNzS0dodVIzREl2aUE1WklSWlBjR2xQblJvN3YwWDNMYVlIMi1tOS1OUDVsTFkxeGlGNlVB?oc=5",
+          "source": "Google News: CS2 (Hoodline)",
+          "published": "2026-11-09T19:42:16.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "evo moment 37",
-            "evo"
+            "blast"
           ]
         },
         {
-          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0c1ZHdwR0tnWGlFV3hTWlhxQzN5ejZCUGEwRlpUVmVPSjYyNWlZekppM1Q2dDdKTTg5ZDZVNmhXd1MxcjQ4aExKSVlfVGQwSHR1Um1fWDNOa3RxV1hONVNjZ0hULXZMclIweG1EX0FrRnlzT0o0MDRZeGdUUWstcVRPeUNXZWM2dVZEVW9RU0NmdGowT1JScklJc0REcnhsYmNWem1TclR4MUJRWlIzRXdrY295Y2ZPYkxUZ3luWU4xU0wwX1RUV3JkUGpwUFBRY2d5dG5EdVE0Zw?oc=5",
-          "source": "Google News: Street Fighter (IGN Africa)",
-          "published": "2026-11-10T07:30:27.000Z",
-          "score": 1,
+          "title": "MOUZ claim No.1 in world rankings after Beijing title",
+          "url": "https://www.hltv.org/news/45952/mouz-claim-no1-in-world-rankings-after-beijing-title",
+          "source": "HLTV news",
+          "published": "2026-11-09T18:00:00.000Z",
+          "score": 3,
           "level": null,
-          "why": []
-        },
-        {
-          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEJVTWJhWDdNSDREWmdZTmxka3puY1g3bUFuazJYWVNmSTE0U0dGTEZ5OUtPc3lLNGd2ZnFaMVpjbkxFcWFVT3R5a3Y3RlFYT0Z2ckRfb3I1UW4zdXlrVWczRS1tSFA5MHBwdlc1RTljV3ZqblVpekRLcFpOWHgtY0szc0UzWGgtUDAySGpWZW5YWnlhSkMzMWhVWUJQTHN1VEhHZWI3UUgzNFR6bTdubGc5dGw5WkZLNUIzSEx6bC1hWTFPV0puSm85OWdZNXN5Z0o3ZGhyUGJLTWJ1?oc=5",
-          "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-09T21:41:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Sahara and Team Reject win big at Capcom Cup 12 and Street Fighter League: World Championship 2025",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXlncVBZUjA5RTY4RlVCRUFpeU44VVlJaUlVSHMyc2pjRUMzT2RNam1vLTk3Y2RrOGhDYThCaXNFSjBOa1hXZ011V19YbktvcmtoaUxhcTZXRFZJdUQzT3U5VnlKZER0ekFJQWJ5aGdZRG9hN2REZ1k0VlJBZjAycGlTX25yWk5qSXR6Tk5wQVlmWW1scDZPWkYtdS1vVmpoUTVLU1lDenI1cHNMcVdRSWhsSVQ5bkpJWFVNSmdJcU8zOUEtVWNLbtIBzgFBVV95cUxQWEhrbk15a05tQkUxRUdhaEE0eGNVUndYYXRRTlFUb0QyRUVZbDNDSG5BS0RmTU1KLWdhcmxpaXhENGFLOVFwVGZveUlJQjNmb0w3SEw5WjhVeFVpVi1qcnlJbU1fWWltNUwxdlZRckJIQUdyN2h5b3k1eVZkeTU1dWpyaF9EU1J2eDF6dVU3LVBfTWlYMEdaT1dYUWFuWU5DT0VXTFVEeVRzdnltN0NmZ1RiUjdXNjc1QTFwQjJYMzRqa3VoMFozOWRqbHhHQQ?oc=5",
-          "source": "Google News: Street Fighter (Gaming Age)",
-          "published": "2026-11-09T20:41:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
+          "why": [
+            "mouz"
+          ]
         }
       ]
     },
@@ -391,8 +321,19 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEtTRXg3Y3VGN1pqZXhpS3p1UjV3WXFIbl9pVjI5Q2Z1Nk83UmYyZk9lWXE5X2ZScVVSaGxEd3BhSjBucjdxckQzTWNzSUVaclFhYUlaaGI5ZEVhWlYwb2JVa3l3Znp6bGNQR1ZJeWJRelNJWEtaRUt0RVNqNEZqLVBPQzh2UzJWMm1NRQ?oc=5",
+          "source": "Google News: Tekken (IGN)",
+          "published": "2026-11-10T14:52:10.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        },
         {
           "title": "Tekken 8 developers on retaining Roger Jr.'s signature style and why he's still fighting inside his mama's pouch",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYU44aFcyQ08wcGZkSDczUXQxWG5kZHVIcWZxZXZZT01kSVRuUTdQXzNDUHFvWjVmejFwdmpsa08wbzBRdjBSeHR6Z2JoU0xRX2pJdGtiOVkxdGgxQzIzS0x0QlFOUXZBN3FHYXZEbTkxZ0VwSlQxX1k0ZnNYd1hweFhCR2l0cGdkbUtjR3poUFJHX3RpcHBQZ29vcHRudGhMOU42cHlGWS1wV3hyeGhRcTBGa05ONHp3T0RLcHh2SVBSZVoyb0k4NkRwa0k0eGZwdUZlTWpRdw?oc=5",
@@ -410,31 +351,37 @@
           "score": 1,
           "level": null,
           "why": []
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
         {
-          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
-          "source": "Google News: Tekken (Gaming Age)",
-          "published": "2026-11-10T01:14:39.000Z",
+          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0c1ZHdwR0tnWGlFV3hTWlhxQzN5ejZCUGEwRlpUVmVPSjYyNWlZekppM1Q2dDdKTTg5ZDZVNmhXd1MxcjQ4aExKSVlfVGQwSHR1Um1fWDNOa3RxV1hONVNjZ0hULXZMclIweG1EX0FrRnlzT0o0MDRZeGdUUWstcVRPeUNXZWM2dVZEVW9RU0NmdGowT1JScklJc0REcnhsYmNWem1TclR4MUJRWlIzRXdrY295Y2ZPYkxUZ3luWU4xU0wwX1RUV3JkUGpwUFBRY2d5dG5EdVE0Zw?oc=5",
+          "source": "Google News: Street Fighter (IGN Africa)",
+          "published": "2026-11-10T07:30:27.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "TEKKEN 8 x Nike — Collab Collection Trailer (Collab items in Tekken Fight pass from November 11 - Februar 17, 2027)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xsnort/tekken_8_x_nike_collab_collection_trailer_collab/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T14:03:02.000Z",
-          "score": 0,
+          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEJVTWJhWDdNSDREWmdZTmxka3puY1g3bUFuazJYWVNmSTE0U0dGTEZ5OUtPc3lLNGd2ZnFaMVpjbkxFcWFVT3R5a3Y3RlFYT0Z2ckRfb3I1UW4zdXlrVWczRS1tSFA5MHBwdlc1RTljV3ZqblVpekRLcFpOWHgtY0szc0UzWGgtUDAySGpWZW5YWnlhSkMzMWhVWUJQTHN1VEhHZWI3UUgzNFR6bTdubGc5dGw5WkZLNUIzSEx6bC1hWTFPV0puSm85OWdZNXN5Z0o3ZGhyUGJLTWJ1?oc=5",
+          "source": "Google News: Street Fighter (IGN)",
+          "published": "2026-11-09T21:41:36.000Z",
+          "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "TEKKEN 8 x Nike — Collab Collection Trailer",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xsnnfz/tekken_8_x_nike_collab_collection_trailer/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T14:01:32.000Z",
-          "score": 0,
+          "title": "Sahara and Team Reject win big at Capcom Cup 12 and Street Fighter League: World Championship 2025",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXlncVBZUjA5RTY4RlVCRUFpeU44VVlJaUlVSHMyc2pjRUMzT2RNam1vLTk3Y2RrOGhDYThCaXNFSjBOa1hXZ011V19YbktvcmtoaUxhcTZXRFZJdUQzT3U5VnlKZER0ekFJQWJ5aGdZRG9hN2REZ1k0VlJBZjAycGlTX25yWk5qSXR6Tk5wQVlmWW1scDZPWkYtdS1vVmpoUTVLU1lDenI1cHNMcVdRSWhsSVQ5bkpJWFVNSmdJcU8zOUEtVWNLbtIBzgFBVV95cUxQWEhrbk15a05tQkUxRUdhaEE0eGNVUndYYXRRTlFUb0QyRUVZbDNDSG5BS0RmTU1KLWdhcmxpaXhENGFLOVFwVGZveUlJQjNmb0w3SEw5WjhVeFVpVi1qcnlJbU1fWWltNUwxdlZRckJIQUdyN2h5b3k1eVZkeTU1dWpyaF9EU1J2eDF6dVU3LVBfTWlYMEdaT1dYUWFuWU5DT0VXTFVEeVRzdnltN0NmZ1RiUjdXNjc1QTFwQjJYMzRqa3VoMFozOWRqbHhHQQ?oc=5",
+          "source": "Google News: Street Fighter (Gaming Age)",
+          "published": "2026-11-09T20:41:36.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }
