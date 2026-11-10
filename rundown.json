@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-11-10T11:00:26.609Z",
+  "generatedAt": "2026-11-10T12:00:27.090Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 22,
       "stories": [
-        {
-          "title": "Constant cheating accusations are getting wild.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsblco/constant_cheating_accusations_are_getting_wild/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T02:45:36.000Z",
-          "score": 10,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "the last*",
-            "cheating",
-            "cheater*",
-            "vac*",
-            "record*"
-          ]
-        },
         {
           "title": "MOUZ wins IEM Beijing 2026 but misses the viewership top five",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWNRUzR3U1ZJT19mTkhlYmxBOUNQN0dNQVpqNXBHVmNnaVUwMHdwTlpWb2ZNQTNpTVQ4UGV1N3BFV0trXy13ZVNrcGd2T1g2MFZROVhic09IQXFiMzVRNVgzQQ?oc=5",
@@ -113,18 +97,6 @@
           ]
         },
         {
-          "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-10T06:36:31.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "faze"
-          ]
-        },
-        {
           "title": "The EVPs and All-Stars of IEM Beijing 2026",
           "url": "https://www.hltv.org/news/45948/the-evps-and-all-stars-of-iem-beijing-2026",
           "source": "HLTV news",
@@ -137,10 +109,10 @@
           ]
         },
         {
-          "title": "PGL Moves Its $1 Million April 2027 CS2 Event From China to Ulaanbaatar, Mongolia",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ01pVE11RXZ1YUZtQzJUZTdwTHdWMzJPTXFDdEJmRDhIZnd5MWN4b3JzRnBVdVc2al9oOE94aUlmV1FrS1lLMS04eTFCRkNhZDU1RUk3MFdwRFlaczM4MlZxNk9lVm5XQ2JZa2tPb282VWMyd1J5ZmtaS1A4bklsNzBSWG92cFQ2?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-10T09:54:17.000Z",
+          "title": "PGL moves 2027 event from China to Mongolia",
+          "url": "https://www.hltv.org/news/45959/pgl-moves-2027-event-from-china-to-mongolia",
+          "source": "HLTV news",
+          "published": "2026-11-10T11:00:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -156,6 +128,28 @@
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "Las Vegas LVCVA Weighs $2M BLAST Esports Deal for 2028",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnBSeklJc2pWYUVCMXd2RV9DYi1YNnZyb0lodms3VkdVa3U3U1Q3UTN2QnNsUnlScDdfYlh5emhQdEVwSjVuTVZyazhXUEFuYl9PenZ2QW85ZnZLSG0tTEE4Q2dQMHZOTlBjSDdTNXJxMDNzS0dodVIzREl2aUE1WklSWlBjR2xQblJvN3YwWDNMYVlIMi1tOS1OUDVsTFkxeGlGNlVB?oc=5",
+          "source": "Google News: CS2 (Hoodline)",
+          "published": "2026-11-09T19:42:16.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
+          "title": "MOUZ claim No.1 in world rankings after Beijing title",
+          "url": "https://www.hltv.org/news/45952/mouz-claim-no1-in-world-rankings-after-beijing-title",
+          "source": "HLTV news",
+          "published": "2026-11-09T18:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mouz"
           ]
         }
       ]
@@ -180,7 +174,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Banned Heroes",
@@ -215,6 +209,15 @@
           "why": [
             "removed"
           ]
+        },
+        {
+          "title": "All Organizations That Left Dota 2 In 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0stUnp5aGoxMVpjS0dnRjJsa09oU2pJTG5ZS3BvLWFWTURNcE00Nzc3RllEVmxTWWt1OEZnQXI1Skc2R0oxQmNuemZGRFg2SUJxWkNBX0Fvc2laTk9GaEF2aTNMU0RmSDY0cVdfY2ZuelNCaVlBeHhLcFNyOGdYVmI3SUQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-10T11:48:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "NS Reflects on the Decline of the Dota 2 Pro Scene",
@@ -255,6 +258,15 @@
           "why": []
         },
         {
+          "title": "Patch is coming",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsl0t6/patch_is_coming/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T11:57:12.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Last pick PL needs to be nerfed",
           "url": "https://www.reddit.com/r/DotA2/comments/1xsfwaf/last_pick_pl_needs_to_be_nerfed/",
           "source": "r/DotA2",
@@ -280,17 +292,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-09T22:32:17.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
