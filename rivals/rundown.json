@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T22:25:30.168Z",
+  "generatedAt": "2026-11-10T23:25:12.594Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 20,
+      "storyCount": 21,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -16,6 +16,18 @@
           "why": [
             "grand finals",
             "grand finals"
+          ]
+        },
+        {
+          "title": "MRC 2026: EMEA Champion Points Standings",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeDlWM2tFOUJoQ09vMGhUc1JlY0VuNklnckYxTmNZZ2ExQmRBZDkzN3hZNFo4QlFPeXNvbXdyOG1GeDNUYWgtWVZvTVhhUW9BRlUtanV3THZlUjZGYnlEdjd2RXpvODQ?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-10T08:34:01.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "champion",
+            "mrc"
           ]
         },
         {
@@ -130,17 +142,6 @@
           "level": null,
           "why": [
             "official"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 adds Nightcrawler, teases Dracula as second playable hero",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYzdxSmxka2ZIM1BYaE1ucFFxWTRsc29fbVM4ZVpkd3lRRTVHQ3dpSUJoVUdJeFhOTHpDc3ZKMVhOOVRQcEgyT0d4Z01MajM0cEN6aENmUFNrM3JXTVRkbFFMWVhDN0d4NVRqbloxbGtiU3htOGpoallzeXF6eWZhVG1vVGVaeVpXdjBjWEVhdl9jOTkxbWRQMDJhOVYxNnoxNmtYSTQyZGFLb3Y1d0ZzemVFcWlNVmEwOHVhamV0aHZjT0FCelAzV3NxVXY?oc=5",
-          "source": "Google News: Rivals patches (GosuGamers)",
-          "published": "2026-11-10T16:26:14.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
           ]
         }
       ]
