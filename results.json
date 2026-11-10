@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T20:55:31.111Z",
+  "generatedAt": "2026-11-10T21:25:19.362Z",
   "source": "start.gg",
   "completed": [
     {
@@ -240,6 +240,19 @@
   ],
   "live": [],
   "upcoming": [
+    {
+      "eventId": "1749127",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TNS TEKKEN 8 #141",
+      "event": "Tekken 8",
+      "entrants": 68,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-11T01:00:00.000Z",
+      "endAt": "2026-11-11T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-tekken-8-141/event/tekken-8"
+    },
     {
       "eventId": "1753116",
       "scene": "melee",
