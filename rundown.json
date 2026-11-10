@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T14:00:28.144Z",
+  "generatedAt": "2026-11-10T15:00:28.616Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 12,
       "stories": [
         {
           "title": "4IVAN accused Nemiga Gaming players of match-fixing",
@@ -20,17 +20,6 @@
           ]
         },
         {
-          "title": "Banned Heroes",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsezwp/banned_heroes/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T05:44:06.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned"
-          ]
-        },
-        {
           "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnhUQ3NmRlpOSUkwZnNabWRlbFc2VzRld3Zpc3JIR21LbVVnRFJ0WUhxNG1GUlJTOHV3alhYUk9FWUV4SGNJZ0VZN1hzMkdzeEgtQlEyS3hiMWxTX2JCbWxfZzgzWktyZ2pLakUtZ0N3emtFM3VIRXpBRFhleU1GN2dLTFk3SmU2N0hqeG5OeHN2dE4zNFhSMzh2c1F1NnFsM05vY3B2dDNtTW5oZTg5NzVR0gG6AUFVX3lxTFBvWFJTLUVNb2hiVjRuREZLMm9uQU1SRnV4MjJ0bGl0TGNjTEhGaGE3b0VpUHg1QWJYaDdnbklJUzNFdXFpbEhvRktaQVhKdjRKTnhwMFdyUWJDTDF3OENIWTU1b3hITlFvR0dPSEFPZEhLQW5fU2lWVEJsQklqajhBSloyOTluY2YwR3lfdGNPQks2U2V1dFFtVXRCRmtncXJLVFhoZm1BSi0za0prQnk1Y3pqcHlzWXFUQQ?oc=5",
           "source": "Google News: Dota (Players)",
@@ -43,6 +32,18 @@
           ]
         },
         {
+          "title": "My Wishlist for the New patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsocer/my_wishlist_for_the_new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T14:30:39.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed*",
+            "comeback*"
+          ]
+        },
+        {
           "title": "[ Removed by Reddit ]",
           "url": "https://www.reddit.com/r/DotA2/comments/1xshk2z/removed_by_reddit/",
           "source": "r/DotA2",
@@ -51,6 +52,17 @@
           "level": null,
           "why": [
             "removed"
+          ]
+        },
+        {
+          "title": "In this thread we pretend 7.43 has released",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsntso/in_this_thread_we_pretend_743_has_released/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T14:09:09.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
           ]
         },
         {
@@ -103,15 +115,6 @@
           "why": []
         },
         {
-          "title": "Dendi Speaks Out About a Serious Problem in Professional Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zcmp3c0RtZXU2NGhCT1A5NmY5bG4xeU42bU8xUXdqUzkxSlZDeGh4ZnVwdUc2ZF9Qb25Rc2NDNFV5MkRzOVBsVlUxYUNBOE9JS1JwREdaZGRSTWdXaktrVm5mT01JQ1lfSWFNUFFwV2l4SDViaFhfUVJiQWo?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-09T14:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -137,6 +140,19 @@
       "scene": "CS2",
       "storyCount": 24,
       "stories": [
+        {
+          "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODUtWFByT3NENUgwVTBIZFg3aWRQZ0w5OVFkMUMyNDVleUtBQjExZUx0c1BPYzZZV1U5OW8ybFkxRmdDcUlEUlBSN05vOXNnWTFDM09oOHJvSXhtWW94cUk5V1h6ZE5ILUM2WVFsSmhLUlJlTzJaNDVuWk13OU81aVNB?oc=5",
+          "source": "Google News: CS2 (Chase Your Sport)",
+          "published": "2026-11-10T14:17:22.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "champions",
+            "mouz",
+            "iem"
+          ]
+        },
         {
           "title": "Why is w0nderful rated so low compared to other AWPers like Sh1ro or Molodoy(Zywoo and m0nesy are obvious why) despite his good stats, an MVP and multiple EVPs (and also Navi winning 2 trophies this year)?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsit9j/why_is_w0nderful_rated_so_low_compared_to_other/",
@@ -179,18 +195,6 @@
           ]
         },
         {
-          "title": "Las Vegas Targets CS2 Major 2028 With Two-Event BLAST Deal",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNFJkdkJJM3Fsc2hOdWpDMnc4MHp5a3Fma2pJeUx3VjNWUG5vTGxSTFRlYzBLWWtNQ3BTRjBrMnUyOFExMFphU1JiMEJjcEJUMGF3TmU4MFpVd0lUNWhGTGotZmduV1o0TFlPSFB3U3JMaEhZMXBTRzIxMWo?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-09T14:59:01.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "blast",
-            "cs2 major"
-          ]
-        },
-        {
           "title": "Ranked Pick'em Data for IEM Beijing and Blast Rivals",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsmhlj/ranked_pickem_data_for_iem_beijing_and_blast/",
           "source": "r/GlobalOffensive",
@@ -215,18 +219,6 @@
           ]
         },
         {
-          "title": "Outside of karrigan and FalleN, is MAJ3R the last active pro from the CS 1.6 old guard?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsgaac/outside_of_karrigan_and_fallen_is_maj3r_the_last/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T07:00:59.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last",
-            "karrigan"
-          ]
-        },
-        {
           "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -248,6 +240,18 @@
           "why": [
             "mouz*",
             "iem"
+          ]
+        },
+        {
+          "title": "Sources: Fluxo to put CS division on hold",
+          "url": "https://www.hltv.org/news/45960/sources-fluxo-to-put-cs-division-on-hold",
+          "source": "HLTV news",
+          "published": "2026-11-10T14:11:00.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "bench*",
+            "released*"
           ]
         },
         {
@@ -291,14 +295,15 @@
       "storyCount": 4,
       "stories": [
         {
-          "title": "What’s with people after losing invites you to a custom room and then leaves in seconds?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xsfxdt/whats_with_people_after_losing_invites_you_to_a/",
+          "title": "The Dan verse Game V11 Street Fighter Diago Ken Evo moment 37",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xsoh0f/the_dan_verse_game_v11_street_fighter_diago_ken/",
           "source": "r/StreetFighter",
-          "published": "2026-11-10T06:38:54.000Z",
-          "score": 3,
+          "published": "2026-11-10T14:36:02.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "leaves"
+            "evo moment 37",
+            "evo"
           ]
         },
         {
@@ -331,38 +336,26 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
+      "scene": "CoD",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "In case there isn't a Season 4 how do you think the Tekken community will respond?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xsesfq/in_case_there_isnt_a_season_4_how_do_you_think/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T05:32:12.000Z",
-          "score": 3,
+          "title": "FaZe Clan Teases Mysterious Return for November 11 — Banks Says He Will Not Be Involved",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUYxMEQ1czNyZE9pZWUtNnV5TmY0dVZVNW1jbTNxbUV3Vzc2NnBUQzFsRTFZV3piRTluNjl0S0pFSTByYWNaZUtodllSdEUyUXBWbEdtUnRyb2lUQjB6QnlvNzNNTHFCZTV1ZE1RREtTaFlzR3d0WUI2dkkwbFVKMmNjVmYzZjNNS0FoUm9Mb0p2dG5DZ2tMUnR5b0k5MFp2UjREX3BGTXYxbHk1WHNJT0hTVHhHcUp00gHAAUFVX3lxTE5QOHVuQmVkSHlscHFkaFk4dXVvYUpTQU1BZkRjZ0JoQmZaMGdaVXJtVVozVjJGeUY5MVVRcnlCam4tRDBpLUVoZTgxSnhzMDNFb2ZrV2JQNlNJdTlQel9xeER5dTFsYTF4Q3EtY08tbjFrOWUzWUh5bk85SjQ5QjhrQkM3ZWlFS1pUMnVCQjRacDliSUtKRlJlYWxCRnhrdXpEVll2eWl0bGNzOXFBX2VkdWdXTlVHVFY0eDRWdzgxTA?oc=5",
+          "source": "Google News: CoD (Players)",
+          "published": "2026-11-10T07:27:37.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "the last*",
-            "won*",
-            "announced*"
+            "return",
+            "faze"
           ]
         },
         {
-          "title": "Kunimitsu released for T7 6 years ago",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xsfpx0/kunimitsu_released_for_t7_6_years_ago/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T06:25:55.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
-          ]
-        },
-        {
-          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
-          "source": "Google News: Tekken (Gaming Age)",
-          "published": "2026-11-10T01:14:39.000Z",
+          "title": "Call of Duty League 2027 Power Rankings after the Monster Energy Launch Invitational",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakx0Q3Z0ZzBOZTU1NWVUUmE4R0JGa3k2TWZZMEs2RXBwVktVZnBBZlgzdDQ4Z3NQc1Q5TXdqakNxR0h0aWtpb25MOEkzUm5RZHRndlpoME0tSGd6QXdCUUgyUmtYUU5saFVCdXFDbHFPaG15Yk5HbFllVy1JeE50UU5sT2s3QlBOV2stV2NBZkdjX1dqMWJSWUw1Q0JpbEFpazlXZVJXQV9NZ3I3RW9fTnZvUzlmbzhxd1ZsbWd3?oc=5",
+          "source": "Google News: CoD (GamingTrend)",
+          "published": "2026-11-09T20:25:47.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -374,13 +367,16 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "New mod turns Super Smash Bros. Melee into a three-dimensional brawler",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ROC1meEpFeXFtbjJnNGxNU0tGWnJIamlKdVJOWGk5UF9YZi1BTTRnM0E3RjFiVXI1ZndKRDk5V0RTMDBsWWRmLWtLakY5QUJnZ003cTlYMDVObWJENTI1N2RWRzkxWUtSSklsYTFWRTc?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-09T14:06:31.000Z",
-          "score": 1,
+          "title": "Port Priority DX Commentator Roster",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xsojsf/port_priority_dx_commentator_roster/",
+          "source": "r/SSBM",
+          "published": "2026-11-10T14:39:18.000Z",
+          "score": 3.5,
           "level": null,
-          "why": []
+          "why": [
+            "cheat*",
+            "roster"
+          ]
         },
         {
           "title": "Controller alternative in tournament?",
@@ -394,15 +390,51 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 1,
+      "scene": "Tekken",
+      "storyCount": 5,
       "stories": [
         {
-          "title": "Call of Duty League 2027 Power Rankings after the Monster Energy Launch Invitational",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakx0Q3Z0ZzBOZTU1NWVUUmE4R0JGa3k2TWZZMEs2RXBwVktVZnBBZlgzdDQ4Z3NQc1Q5TXdqakNxR0h0aWtpb25MOEkzUm5RZHRndlpoME0tSGd6QXdCUUgyUmtYUU5saFVCdXFDbHFPaG15Yk5HbFllVy1JeE50UU5sT2s3QlBOV2stV2NBZkdjX1dqMWJSWUw1Q0JpbEFpazlXZVJXQV9NZ3I3RW9fTnZvUzlmbzhxd1ZsbWd3?oc=5",
-          "source": "Google News: CoD (GamingTrend)",
-          "published": "2026-11-09T20:25:47.000Z",
+          "title": "Tekken 8 developers on retaining Roger Jr.'s signature style and why he's still fighting inside his mama's pouch",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYU44aFcyQ08wcGZkSDczUXQxWG5kZHVIcWZxZXZZT01kSVRuUTdQXzNDUHFvWjVmejFwdmpsa08wbzBRdjBSeHR6Z2JoU0xRX2pJdGtiOVkxdGgxQzIzS0x0QlFOUXZBN3FHYXZEbTkxZ0VwSlQxX1k0ZnNYd1hweFhCR2l0cGdkbUtjR3poUFJHX3RpcHBQZ29vcHRudGhMOU42cHlGWS1wV3hyeGhRcTBGa05ONHp3T0RLcHh2SVBSZVoyb0k4NkRwa0k0eGZwdUZlTWpRdw?oc=5",
+          "source": "Google News: Tekken (UnGeek)",
+          "published": "2026-11-10T14:02:06.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken 8 Roger Jr. Hands-on | As Silly (and Hard-Hitting) as You Remember",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWNmbTFrcDZYWUwxNzZrUWhtSFdVZzVmNHl0TFVNNVVyRGxMWlJxaDNISHFfdm9wSVVhbWVpa05Ibnd0ekh3YU5MdUdOdjdid1VOQms2aDlSbGprVnFuVTBIbmZ4Ujd6ZzYzT24wRWpaQzR2ZUtZVDlYUjlDVDhPanJjbUpocDl0Z1VwVDFVejdpSWNWa2hrU3g0ZERYS0df?oc=5",
+          "source": "Google News: Tekken (UnGeek)",
+          "published": "2026-11-10T14:01:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
+          "source": "Google News: Tekken (Gaming Age)",
+          "published": "2026-11-10T01:14:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "TEKKEN 8 x Nike — Collab Collection Trailer (Collab items in Tekken Fight pass from November 11 - Februar 17, 2027)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xsnort/tekken_8_x_nike_collab_collection_trailer_collab/",
+          "source": "r/Tekken",
+          "published": "2026-11-10T14:03:02.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "TEKKEN 8 x Nike — Collab Collection Trailer",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xsnnfz/tekken_8_x_nike_collab_collection_trailer/",
+          "source": "r/Tekken",
+          "published": "2026-11-10T14:01:32.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
