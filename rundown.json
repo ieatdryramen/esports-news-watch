@@ -1,26 +1,11 @@
 {
-  "generatedAt": "2026-11-10T17:55:35.515Z",
+  "generatedAt": "2026-11-10T18:55:29.093Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 20,
       "stories": [
-        {
-          "title": "Got a 31-day VACNet cooldown despite not cheating",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xstmir/got_a_31day_vacnet_cooldown_despite_not_cheating/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T17:52:56.000Z",
-          "score": 9.5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "cheating",
-            "vac*",
-            "cancelled*",
-            "reddit only"
-          ]
-        },
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODUtWFByT3NENUgwVTBIZFg3aWRQZ0w5OVFkMUMyNDVleUtBQjExZUx0c1BPYzZZV1U5OW8ybFkxRmdDcUlEUlBSN05vOXNnWTFDM09oOHJvSXhtWW94cUk5V1h6ZE5ILUM2WVFsSmhLUlJlTzJaNDVuWk13OU81aVNB?oc=5",
@@ -35,6 +20,18 @@
           ]
         },
         {
+          "title": "coolio to stand in for Krabeni at BLAST Rivals",
+          "url": "https://www.hltv.org/news/45963/coolio-to-stand-in-for-krabeni-at-blast-rivals",
+          "source": "HLTV news",
+          "published": "2026-11-10T18:17:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "stand in",
+            "blast"
+          ]
+        },
+        {
           "title": "PGL Cluj-Napoca invites revealed",
           "url": "https://www.hltv.org/news/45958/pgl-cluj-napoca-invites-revealed",
           "source": "HLTV news",
@@ -44,18 +41,6 @@
           "why": [
             "revealed",
             "pgl"
-          ]
-        },
-        {
-          "title": "Ranked Pick'em Data for IEM Beijing and Blast Rivals",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsmhlj/ranked_pickem_data_for_iem_beijing_and_blast/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T13:09:32.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "iem",
-            "blast"
           ]
         },
         {
@@ -95,22 +80,21 @@
           ]
         },
         {
-          "title": "FaZe Tactics - Dust II",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xsmp2n/faze_tactics_dust_ii/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T13:19:14.000Z",
-          "score": 3.5,
+          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-10T15:36:44.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "ban*",
-            "faze"
+            "blast"
           ]
         },
         {
-          "title": "PGL moves 2027 event from China to Mongolia",
-          "url": "https://www.hltv.org/news/45959/pgl-moves-2027-event-from-china-to-mongolia",
-          "source": "HLTV news",
-          "published": "2026-11-10T11:00:00.000Z",
+          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHFxdTdUNWlTdnp3YVRRc3RrOExJcEZkWFZBSHFIbnNCd0ZmaFRySUlTbHpjZTNqSVpyOFpSVW1nQldHQi0xUFAxRVZ1NGJkWG0yRGU2TDVrdE1ZZVJDRk9hUF9MS014SXNnTTJkUGg2d0FIT01JWmxRYW9kTGx4SWR1SnFZQWcwbmFDVzhvTDhoSHNjNkFoNzEwalFMQ05XNzMwZXl0cnZFZjg?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-10T15:28:47.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -118,10 +102,10 @@
           ]
         },
         {
-          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
-          "url": "https://esports.gg/news/betting/gambling-sponsored-esports-teams-faced-rebranding-pgl-major-singapore-2026/",
-          "source": "esports.gg",
-          "published": "2026-11-10T02:10:34.000Z",
+          "title": "PGL moves 2027 event from China to Mongolia",
+          "url": "https://www.hltv.org/news/45959/pgl-moves-2027-event-from-china-to-mongolia",
+          "source": "HLTV news",
+          "published": "2026-11-10T11:00:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -140,14 +124,25 @@
           ]
         },
         {
-          "title": "MOUZ claim No.1 in world rankings after Beijing title",
-          "url": "https://www.hltv.org/news/45952/mouz-claim-no1-in-world-rankings-after-beijing-title",
+          "title": "Economy filters added to stats pages",
+          "url": "https://www.hltv.org/news/45946/economy-filters-added-to-stats-pages",
           "source": "HLTV news",
-          "published": "2026-11-09T18:00:00.000Z",
-          "score": 3,
+          "published": "2026-11-10T13:18:00.000Z",
+          "score": 2.5,
           "level": null,
           "why": [
-            "mouz"
+            "wins*"
+          ]
+        },
+        {
+          "title": "Krabeni will miss BLAST Rivals 2026 S2 due to visa issues",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xstz3c/krabeni_will_miss_blast_rivals_2026_s2_due_to/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T18:05:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blast"
           ]
         }
       ]
@@ -156,19 +151,6 @@
       "scene": "Dota",
       "storyCount": 11,
       "stories": [
-        {
-          "title": "4IVAN accused Nemiga Gaming players of match-fixing",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsmnbw/4ivan_accused_nemiga_gaming_players_of_matchfixing/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T13:17:03.000Z",
-          "score": 9,
-          "level": "possible",
-          "why": [
-            "match-fixing",
-            "accused",
-            "reddit only"
-          ]
-        },
         {
           "title": "Gaimin Gladiators Hint at Dota 2 Return: Controversial Past and Potential Rosters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnhUQ3NmRlpOSUkwZnNabWRlbFc2VzRld3Zpc3JIR21LbVVnRFJ0WUhxNG1GUlJTOHV3alhYUk9FWUV4SGNJZ0VZN1hzMkdzeEgtQlEyS3hiMWxTX2JCbWxfZzgzWktyZ2pLakUtZ0N3emtFM3VIRXpBRFhleU1GN2dLTFk3SmU2N0hqeG5OeHN2dE4zNFhSMzh2c1F1NnFsM05vY3B2dDNtTW5oZTg5NzVR0gG6AUFVX3lxTFBvWFJTLUVNb2hiVjRuREZLMm9uQU1SRnV4MjJ0bGl0TGNjTEhGaGE3b0VpUHg1QWJYaDdnbklJUzNFdXFpbEhvRktaQVhKdjRKTnhwMFdyUWJDTDF3OENIWTU1b3hITlFvR0dPSEFPZEhLQW5fU2lWVEJsQklqajhBSloyOTluY2YwR3lfdGNPQks2U2V1dFFtVXRCRmtncXJLVFhoZm1BSi0za0prQnk1Y3pqcHlzWXFUQQ?oc=5",
@@ -216,14 +198,25 @@
           ]
         },
         {
-          "title": "Leaving League behind, coming to Dota. Which role/hero should I play?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsmfxo/leaving_league_behind_coming_to_dota_which/",
+          "title": "I cant boot game there is an update but it gives unkown error",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsujwp/i_cant_boot_game_there_is_an_update_but_it_gives/",
           "source": "r/DotA2",
-          "published": "2026-11-10T13:07:24.000Z",
-          "score": 1.5,
+          "published": "2026-11-10T18:26:35.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "champions*"
+            "update"
+          ]
+        },
+        {
+          "title": "New staging update - Dota 2 Staging - Dedicated ServerChangelist 40804579",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsu29p/new_staging_update_dota_2_staging_dedicated/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T18:08:48.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -303,6 +296,24 @@
       ]
     },
     {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "🔥Nice series between Snow & Jaedong today!",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xsvadv/nice_series_between_snow_jaedong_today/",
+          "source": "r/broodwar",
+          "published": "2026-11-10T18:54:04.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "jaedong",
+            "snow"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 3,
       "stories": [
@@ -342,7 +353,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -378,15 +389,6 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWNmbTFrcDZYWUwxNzZrUWhtSFdVZzVmNHl0TFVNNVVyRGxMWlJxaDNISHFfdm9wSVVhbWVpa05Ibnd0ekh3YU5MdUdOdjdid1VOQms2aDlSbGprVnFuVTBIbmZ4Ujd6ZzYzT24wRWpaQzR2ZUtZVDlYUjlDVDhPanJjbUpocDl0Z1VwVDFVejdpSWNWa2hrU3g0ZERYS0df?oc=5",
           "source": "Google News: Tekken (UnGeek)",
           "published": "2026-11-10T14:01:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
-          "source": "Google News: Tekken (Gaming Age)",
-          "published": "2026-11-10T01:14:39.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -430,7 +432,6 @@
   "quiet": [
     "AoE2",
     "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
