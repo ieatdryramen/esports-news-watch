@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-10T18:20:20.287Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "coolio to stand in for Krabeni at BLAST Rivals",
+      "url": "https://www.hltv.org/news/45963/coolio-to-stand-in-for-krabeni-at-blast-rivals",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 6,
+      "why": [
+        "stand in",
+        "blast"
+      ],
+      "summary": "Krabeni's visa issues mean he will miss the event in Hong Kong.",
+      "published": "2026-11-10T18:17:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T17:55:25.824Z",
       "level": "possible",
       "scene": "CS2",
