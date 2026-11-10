@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T22:00:25.016Z",
+  "generatedAt": "2026-11-10T23:00:27.650Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -149,7 +149,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 6,
       "stories": [
         {
           "title": "[Shotzzy] OpTic Texas Vs G2 Scrim! (Modern Warfare 4)",
@@ -176,6 +176,17 @@
           ]
         },
         {
+          "title": "Aches drafted Shotzzy for the Flank invitational 😭",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xt0hv5/aches_drafted_shotzzy_for_the_flank_invitational/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-10T22:18:59.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "shotzzy"
+          ]
+        },
+        {
           "title": "NA Challengers Pre Cup #1 Roster Changes",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xsvc4o/na_challengers_pre_cup_1_roster_changes/",
           "source": "r/CoDCompetitive",
@@ -192,6 +203,15 @@
           "source": "Google News: CoD (Insider Gaming)",
           "published": "2026-11-10T21:49:13.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "OpTic vs G2 Scrim Results! 4-5 G2",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xt0ltg/optic_vs_g2_scrim_results_45_g2/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-10T22:23:40.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -395,7 +415,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -423,7 +443,7 @@
           "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
           "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-10T14:47:20.000Z",
+          "published": "2026-11-10T15:10:08.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -442,6 +462,15 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWNmbTFrcDZYWUwxNzZrUWhtSFdVZzVmNHl0TFVNNVVyRGxMWlJxaDNISHFfdm9wSVVhbWVpa05Ibnd0ekh3YU5MdUdOdjdid1VOQms2aDlSbGprVnFuVTBIbmZ4Ujd6ZzYzT24wRWpaQzR2ZUtZVDlYUjlDVDhPanJjbUpocDl0Z1VwVDFVejdpSWNWa2hrU3g0ZERYS0df?oc=5",
           "source": "Google News: Tekken (UnGeek)",
           "published": "2026-11-10T14:01:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
+          "source": "Google News: Tekken (Gaming Age)",
+          "published": "2026-11-10T01:14:39.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -464,26 +493,10 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Parry.gg & Melee Stats Announce 14th Official Melee Tier List - Releasing December 2026",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xsstox/parrygg_melee_stats_announce_14th_official_melee/",
-          "source": "r/SSBM",
-          "published": "2026-11-10T17:22:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "official"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
