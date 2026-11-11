@@ -1,8 +1,22 @@
 {
-  "generatedAt": "2026-11-11T13:55:58.825Z",
+  "generatedAt": "2026-11-11T14:55:33.980Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Marvel Tokon stories",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XMV80WlhtSElhWDVqS3FLR3BRd01ORkQtT2tOdHNIVlg4RENyZ2txNXRPR2x3eldJc29lSEdKV2pjcXNXYmhmcFRUYjJqSU9oU1F0TkR3RlJiZVBVM0R2VDk1RnA?oc=5",
+          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
+          "published": "2026-11-10T21:54:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
