@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:25:16.152Z",
+  "generatedAt": "2026-11-11T00:55:18.539Z",
   "source": "start.gg",
   "completed": [
     {
@@ -199,7 +199,7 @@
       "game": "Tekken 8",
       "tournament": "TNS TEKKEN 8 #141",
       "event": "Tekken 8",
-      "entrants": 181,
+      "entrants": 177,
       "online": true,
       "major": false,
       "startAt": "2026-11-11T01:00:00.000Z",
@@ -303,7 +303,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "BOPME XXX",
       "event": "Melee Singles",
-      "entrants": 65,
+      "entrants": 67,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T18:00:00.000Z",
