@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T06:50:20.357Z",
+  "generatedAt": "2026-11-11T07:50:20.238Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 23,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -97,6 +97,19 @@
           ]
         },
         {
+          "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
+          "url": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
+          "source": "HLTV news",
+          "published": "2026-11-11T07:41:00.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "return*",
+            "vitality*",
+            "blast*"
+          ]
+        },
+        {
           "title": "Sources: Fluxo to put CS division on hold",
           "url": "https://www.hltv.org/news/45960/sources-fluxo-to-put-cs-division-on-hold",
           "source": "HLTV news",
@@ -133,17 +146,6 @@
           ]
         },
         {
-          "title": "Irregular gameplay VAC is so busted",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt1yem/irregular_gameplay_vac_is_so_busted/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-10T23:21:20.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vac"
-          ]
-        },
-        {
           "title": "m0NESY: \"It's hard for now to say that we are title contenders\"",
           "url": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
           "source": "HLTV news",
@@ -157,8 +159,84 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 7,
+      "stories": [
+        {
+          "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2lHNjh2Z21SSnpPNEpBYlJaWkxKbkhkQlNMUFBWZmY2LTlLSEw2YUxCLXg1NGVHRDBiUGhDbTFKVTJabUNyMm9rdlpXVTdxWVNSZ2w0ZjFXWGliSzhudG1IWVh2ZGxPbEtBSWVDYXlaa0NMV0JEMWszQ0xYYWtwQ2p3Rk9uSzkydF9EdXVWWW1Kbnc?oc=5",
+          "source": "Google News: Tekken (Chase Your Sport)",
+          "published": "2026-11-11T07:15:21.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "returns",
+            "history"
+          ]
+        },
+        {
+          "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEtTRXg3Y3VGN1pqZXhpS3p1UjV3WXFIbl9pVjI5Q2Z1Nk83UmYyZk9lWXE5X2ZScVVSaGxEd3BhSjBucjdxckQzTWNzSUVaclFhYUlaaGI5ZEVhWlYwb2JVa3l3Znp6bGNQR1ZJeWJRelNJWEtaRUt0RVNqNEZqLVBPQzh2UzJWMm1NRQ?oc=5",
+          "source": "Google News: Tekken (IGN)",
+          "published": "2026-11-10T14:52:10.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        },
+        {
+          "title": "\"TEKKEN 8 patch will drop on Nov 11 at 23:00 CET | Nov 11 at 14:00 PST. This patch intends to support Roger Jr. Early Access, correct unintended behavior, and update content on the TEKKEN SHOP.\"",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xt5vzn/tekken_8_patch_will_drop_on_nov_11_at_2300_cet/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T02:20:48.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-10T14:10:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken 8 developers on retaining Roger Jr.'s signature style and why he's still fighting inside his mama's pouch",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYU44aFcyQ08wcGZkSDczUXQxWG5kZHVIcWZxZXZZT01kSVRuUTdQXzNDUHFvWjVmejFwdmpsa08wbzBRdjBSeHR6Z2JoU0xRX2pJdGtiOVkxdGgxQzIzS0x0QlFOUXZBN3FHYXZEbTkxZ0VwSlQxX1k0ZnNYd1hweFhCR2l0cGdkbUtjR3poUFJHX3RpcHBQZ29vcHRudGhMOU42cHlGWS1wV3hyeGhRcTBGa05ONHp3T0RLcHh2SVBSZVoyb0k4NkRwa0k0eGZwdUZlTWpRdw?oc=5",
+          "source": "Google News: Tekken (UnGeek)",
+          "published": "2026-11-10T14:02:06.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken 8 Roger Jr. Hands-on | As Silly (and Hard-Hitting) as You Remember",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWNmbTFrcDZYWUwxNzZrUWhtSFdVZzVmNHl0TFVNNVVyRGxMWlJxaDNISHFfdm9wSVVhbWVpa05Ibnd0ekh3YU5MdUdOdjdid1VOQms2aDlSbGprVnFuVTBIbmZ4Ujd6ZzYzT24wRWpaQzR2ZUtZVDlYUjlDVDhPanJjbUpocDl0Z1VwVDFVejdpSWNWa2hrU3g0ZERYS0df?oc=5",
+          "source": "Google News: Tekken (UnGeek)",
+          "published": "2026-11-10T14:01:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "My wall combo has finally taken its final form",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xt5jtb/my_wall_combo_has_finally_taken_its_final_form/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T02:04:47.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Fix channeling spells/TP getting canceled when they shouldn't",
@@ -194,17 +272,6 @@
           ]
         },
         {
-          "title": "Sir, third update has hit the staging server",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xt22zx/sir_third_update_has_hit_the_staging_server/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T23:26:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Noticed Names the Best Heroes for Farming MMR as an Offlaner in Dota 2",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdnc3F3VWxOM0Z5cVZZUTI5bUlmbHc2ZThFVXdiMkhQZFMycl9xUU1Gcm5oVXpqUEtSTGVYWHh6Y1dUVTA1Mk92TzEwdkpndTUwQVNVQ3pNWUVmWXdVWVdVdFNrTmd3Z0NDYXFZQkZZMFJDVVR1UGRiOWl0dE94aGR4Yw?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -227,15 +294,6 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeF9FRlFVYmlFamxKTkl0YlhOQ1B4eElkN1NyZlZmX0w2Q3Mxd2JTYTZ5ZERDa01BWnlTZ3NidFRxaVJYV0xzeS1ON1hxZndRUmQ3VmlWZUsxeGhkQzFUYlFOYktkc2s0WW52dA?oc=5",
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-11-10T10:03:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Seven Dota 2 Teams Gone in Six Months: Why Organisations Are Walking Away From the Scene",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhNOTg5VXV6VXBab2d6X2tIUC1NT1c4aXd6RzJsZE9FS1IxQUVnTWlpX2RDZEFFTHZicmZERDhMYndWeU5XSTlTMmYxWWIxLTZaN2paVGI2NlpQQ1pPTHVndXhsSzFxY3RGSTJkeWhnVnVRaHhheGR6LWNmY0NQV1U1UjdZVVN2MzduenFMNA?oc=5",
-          "source": "Google News: Dota (TalkEsport)",
-          "published": "2026-11-10T06:57:32.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -264,7 +322,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Punk vs Blaz",
@@ -279,46 +337,10 @@
           ]
         },
         {
-          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0c1ZHdwR0tnWGlFV3hTWlhxQzN5ejZCUGEwRlpUVmVPSjYyNWlZekppM1Q2dDdKTTg5ZDZVNmhXd1MxcjQ4aExKSVlfVGQwSHR1Um1fWDNOa3RxV1hONVNjZ0hULXZMclIweG1EX0FrRnlzT0o0MDRZeGdUUWstcVRPeUNXZWM2dVZEVW9RU0NmdGowT1JScklJc0REcnhsYmNWem1TclR4MUJRWlIzRXdrY295Y2ZPYkxUZ3luWU4xU0wwX1RUV3JkUGpwUFBRY2d5dG5EdVE0Zw?oc=5",
-          "source": "Google News: Street Fighter (IGN Africa)",
-          "published": "2026-11-10T07:30:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN2U4YkFMaXZnUXVWNTRTdDg4ajloc1VBYVBwM1BRT0ZmTERXa2kySGV5TnNlYVRFV01PVkhCTnV5bkIyc09GTXE4b0xGV2xvemhmMDZKQzJXZlNXQTA0RTNydDZfczAxdzhkNER3NHAxbk00VHd0Y0JjQUdSM0R6WlVZNTJPd3psVUlNOGNEbWxpX011X2h2NVY4dHRRUjRxblVxNW5TZFZNYXZIeHUyQjVHNzJfZ0VQaW9SYndnZDR3RDNxVTFNcElOMUFNUk1TYWdEVTJGb2FnLXkwRjRR?oc=5",
-          "source": "Google News: Street Fighter (IGN Africa)",
-          "published": "2026-11-10T07:25:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "FaZe Clan Teases Mysterious Return for November 11 — Banks Says He Will Not Be Involved",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUYxMEQ1czNyZE9pZWUtNnV5TmY0dVZVNW1jbTNxbUV3Vzc2NnBUQzFsRTFZV3piRTluNjl0S0pFSTByYWNaZUtodllSdEUyUXBWbEdtUnRyb2lUQjB6QnlvNzNNTHFCZTV1ZE1RREtTaFlzR3d0WUI2dkkwbFVKMmNjVmYzZjNNS0FoUm9Mb0p2dG5DZ2tMUnR5b0k5MFp2UjREX3BGTXYxbHk1WHNJT0hTVHhHcUp00gHAAUFVX3lxTE5QOHVuQmVkSHlscHFkaFk4dXVvYUpTQU1BZkRjZ0JoQmZaMGdaVXJtVVozVjJGeUY5MVVRcnlCam4tRDBpLUVoZTgxSnhzMDNFb2ZrV2JQNlNJdTlQel9xeER5dTFsYTF4Q3EtY08tbjFrOWUzWUh5bk85SjQ5QjhrQkM3ZWlFS1pUMnVCQjRacDliSUtKRlJlYWxCRnhrdXpEVll2eWl0bGNzOXFBX2VkdWdXTlVHVFY0eDRWdzgxTA?oc=5",
-          "source": "Google News: CoD (Players)",
-          "published": "2026-11-10T07:27:37.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "faze"
-          ]
-        },
-        {
-          "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
-          "source": "Google News: CoD (Insider Gaming)",
-          "published": "2026-11-10T21:49:13.000Z",
+          "title": "'We Don't Take Anything for Granted' — LATAM Is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOenF3RlNWNzI4V1dRREFpQXZmOTR3R0xGLTZLVk9jbk5YV3pKWnVnODBaZDZyMjBscnlZOTk2S2JlamlPYkx3RWxBWFNPLVl4U3VRakJ3cmlORC15YzhoM0c1S1NpMFdlZWlHRzRzV1gyR2p3YXljenFqQWtrRVNZam82dkhyMDlKSjNRaUJwSXZ4eDlDREdOaklsZGtjaElpUzhZRUV6N0pHUldHMTl3U012cXlVOWM3Y2RESXNVLWx2MFF0MURjQ2NQZS03NFdEbnRHQ1VGMDlWWXI2aEpB?oc=5",
+          "source": "Google News: Street Fighter (IGN Southeast Asia)",
+          "published": "2026-11-10T16:20:19.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -400,73 +422,15 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 7,
+      "scene": "CoD",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEtTRXg3Y3VGN1pqZXhpS3p1UjV3WXFIbl9pVjI5Q2Z1Nk83UmYyZk9lWXE5X2ZScVVSaGxEd3BhSjBucjdxckQzTWNzSUVaclFhYUlaaGI5ZEVhWlYwb2JVa3l3Znp6bGNQR1ZJeWJRelNJWEtaRUt0RVNqNEZqLVBPQzh2UzJWMm1NRQ?oc=5",
-          "source": "Google News: Tekken (IGN)",
-          "published": "2026-11-10T14:52:10.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "official"
-          ]
-        },
-        {
-          "title": "\"TEKKEN 8 patch will drop on Nov 11 at 23:00 CET | Nov 11 at 14:00 PST. This patch intends to support Roger Jr. Early Access, correct unintended behavior, and update content on the TEKKEN SHOP.\"",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xt5vzn/tekken_8_patch_will_drop_on_nov_11_at_2300_cet/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T02:20:48.000Z",
+          "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
+          "source": "Google News: CoD (Insider Gaming)",
+          "published": "2026-11-10T21:49:13.000Z",
           "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
-          "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-10T14:10:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken 8 developers on retaining Roger Jr.'s signature style and why he's still fighting inside his mama's pouch",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYU44aFcyQ08wcGZkSDczUXQxWG5kZHVIcWZxZXZZT01kSVRuUTdQXzNDUHFvWjVmejFwdmpsa08wbzBRdjBSeHR6Z2JoU0xRX2pJdGtiOVkxdGgxQzIzS0x0QlFOUXZBN3FHYXZEbTkxZ0VwSlQxX1k0ZnNYd1hweFhCR2l0cGdkbUtjR3poUFJHX3RpcHBQZ29vcHRudGhMOU42cHlGWS1wV3hyeGhRcTBGa05ONHp3T0RLcHh2SVBSZVoyb0k4NkRwa0k0eGZwdUZlTWpRdw?oc=5",
-          "source": "Google News: Tekken (UnGeek)",
-          "published": "2026-11-10T14:02:06.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken 8 Roger Jr. Hands-on | As Silly (and Hard-Hitting) as You Remember",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWNmbTFrcDZYWUwxNzZrUWhtSFdVZzVmNHl0TFVNNVVyRGxMWlJxaDNISHFfdm9wSVVhbWVpa05Ibnd0ekh3YU5MdUdOdjdid1VOQms2aDlSbGprVnFuVTBIbmZ4Ujd6ZzYzT24wRWpaQzR2ZUtZVDlYUjlDVDhPanJjbUpocDl0Z1VwVDFVejdpSWNWa2hrU3g0ZERYS0df?oc=5",
-          "source": "Google News: Tekken (UnGeek)",
-          "published": "2026-11-10T14:01:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "My wall combo has finally taken its final form",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xt5jtb/my_wall_combo_has_finally_taken_its_final_form/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T02:04:47.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Balance patch soon?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xt21rq/balance_patch_soon/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T23:25:28.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
