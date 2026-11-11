@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:55:32.930Z",
+  "generatedAt": "2026-11-11T17:25:18.217Z",
   "source": "start.gg",
   "completed": [
     {
@@ -199,7 +199,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "The Cashbox #48: Port Priority DX Edition",
       "event": "Melee Singles",
-      "entrants": 80,
+      "entrants": 82,
       "online": true,
       "major": false,
       "startAt": "2026-11-11T23:00:00.000Z",
@@ -303,7 +303,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "BOPME XXX",
       "event": "Melee Singles",
-      "entrants": 67,
+      "entrants": 68,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T18:00:00.000Z",
