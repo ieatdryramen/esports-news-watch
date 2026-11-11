@@ -315,29 +315,6 @@
       ],
       "summary": "",
       "published": "2026-11-09T12:32:34.000Z"
-    },
-    {
-      "alertedAt": "2026-11-09T13:00:28.750Z",
-      "level": "breaking",
-      "scene": "CS2",
-      "title": "Las Vegas lines up $2 million BLAST deal for 2028 CS2 Major",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV20zb2EzNkhXNG9CZFhZdDRFeDNMQkdEWTBNbkF4STFTcTAtWFE2ZXduV3NHLTlFX0ViOU1ZejZnRjVOTzRycWFmZGxJeG9VZWJfYlFpZXp3MGRVQ0JTdzQzNU1EaWhUSGp0S1A4WGFvc2d2ckNHT2dBMkItbkFybmdGMmllUQ?oc=5",
-      "source": "Google News: CS2 (Pley.gg)",
-      "outlets": [
-        "HLTV news",
-        "Reddit",
-        "Pley.gg",
-        "Insider Gaming",
-        "TalkEsport"
-      ],
-      "score": 8,
-      "why": [
-        "blast",
-        "cs2 major",
-        "3 outlets"
-      ],
-      "summary": "",
-      "published": "2026-11-09T12:35:51.000Z"
     }
   ]
 }
