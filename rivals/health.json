@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T20:58:02.850Z",
+  "generatedAt": "2026-11-11T21:55:28.325Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-11T20:49:17.000Z",
+      "newest": "2026-11-11T21:42:40.000Z",
       "error": null
     },
     {
@@ -54,14 +54,14 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-12T04:06:00.000Z",
+      "newest": "2026-11-12T05:48:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals esports",
       "ok": true,
       "skipped": false,
-      "items": 10,
+      "items": 12,
       "newest": "2026-11-11T18:53:31.000Z",
       "error": null
     },
@@ -85,17 +85,17 @@
       "name": "Google News: Sheep/Dot/Liquipedia",
       "ok": true,
       "skipped": false,
-      "items": 81,
-      "newest": "2026-11-11T20:33:34.000Z",
+      "items": 87,
+      "newest": "2026-11-11T21:54:17.000Z",
       "error": null
     },
     {
       "name": "Reddit (3 subs, public feed)",
-      "ok": true,
-      "skipped": false,
-      "items": 100,
-      "newest": "2026-11-11T20:54:59.000Z",
-      "error": null
+      "ok": false,
+      "skipped": true,
+      "items": 0,
+      "newest": null,
+      "error": "Reddit blocks this server without app keys"
     }
   ]
 }
