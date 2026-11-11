@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T05:20:28.006Z",
+  "generatedAt": "2026-11-11T06:20:27.371Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 19,
+      "storyCount": 20,
       "stories": [
         {
           "title": "All Marvel Rivals Season 11 buffs and nerfs explained, new patch notes revealed",
@@ -67,17 +67,6 @@
           ]
         },
         {
-          "title": "Who Is Nightcrawler? Here Is Kurt Wagner's History As Marvel Rivals And Avengers: Doomsday Bring Him Back",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRlV4ZjUwaE9Fel9SZE5mMmRWTjZrdm5FejloWDZHR3ZKd3MyTkpaaC1pRURTZ25SUG9CZHFMYThEUEpuT3UzcTR6Z3hSWm9QT2pERkd6Y1RHT0VNSXA0UG1GZlh3V1NkblFHcEFERjYxSzZRb3JBVDY4M1V3VWhoNHZZVDdtZkVTTDBmd0owUWYwRld5bjBpWXF0a2diWEtEY3lNTG5QQXlBclVCV2VZRUtXYXJtYmE5Unl2ZVIxMW0tTHd2Vm1xTG1sRnV3U0MzOTljNUlLcHNBNGQ3VXJWcWxrbTBKM1R0TW5vSVQ5VQ?oc=5",
-          "source": "Google News: Rivals patches (ComicBookMovie.com)",
-          "published": "2026-11-10T23:11:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "history"
-          ]
-        },
-        {
           "title": "Sheldon Esports Marvel Rivals Qualifies for State",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWdwbzZtTGkySTFrUVZJSHRYT1RYdkZVRm1nRnFUVW5uNXlwN1BCeDdqSERraUtpTU9Pc01jdkVXci1PVUtQX1JPbF93c0NERFBvUnh5TXFIODJBVzNDZFd6NFBVUkNSWVU3bG9SRXBrVGVtUkN1U0FHdXlpbXJreUhCOA?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
@@ -101,10 +90,10 @@
           ]
         },
         {
-          "title": "Marvel Rivals confirms Nightcrawler for Season 11: Here’s a first look",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC1fejg5cm1raXFpTnNFTk9HRUU0aFE1OWNuNDFiQ2tncmZSNEs5aWo4REFjeFhJb3RwSG8tem5qOWFvSXJWZDNlLVFSN0N2aVlBeXI2UUF4MWlnLTJqLTg5NGVlbVJNcE1vQ2wwNlhTX2cxSVVxLVBjYlpCdkJtOFFrR04tNUYxa3pOenB2MEl5dw?oc=5",
-          "source": "Google News: Rivals patches (Esports.gg)",
-          "published": "2026-11-11T03:02:48.000Z",
+          "title": "Marvel Rivals Season 11 Adds Nightcrawler, Dracula and 18v18 Mode",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHk4Q05YT1BLZldXUWhTaFJxVjZSc0UtRkNVM05qUTZVc3JFaFpuVWxYeS1COHN5anlJVTdWYUVEWWpSYWVIVE0wNkRTMlhvSXEtUWFCM3pUaVMyQ1VKQndHengtb2FkanFFWG9TX3FKeDhXSVQ2Zi1WMUdiQ3BVOXNsakR0aG9TMDNn?oc=5",
+          "source": "Google News: Rivals esports (MonsterVine)",
+          "published": "2026-11-11T05:47:55.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -112,10 +101,10 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11: Nightcrawler, Dracula & Updates",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkh3d0Y0eW1OZjJHOVFVcDJyRU9LaTZ2dFVMaHlrbjBPaDU0ZVNkYlNQYlRuMWpyWFp2RW40UFM0cGRWeWZEZVY1bDRkLXZWLVUtUURmSlIwN1ZIZFFtdlJHbVB3UGE4QjdXNUxfOU5vRWQwMHdKd21PaE5OZDhIMUJjR2l4ZkcxSThuU2hR?oc=5",
-          "source": "Google News: Rivals patches (MMOEXP)",
-          "published": "2026-11-11T02:25:49.000Z",
+          "title": "Marvel Rivals confirms Nightcrawler for Season 11: Here’s a first look",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC1fejg5cm1raXFpTnNFTk9HRUU0aFE1OWNuNDFiQ2tncmZSNEs5aWo4REFjeFhJb3RwSG8tem5qOWFvSXJWZDNlLVFSN0N2aVlBeXI2UUF4MWlnLTJqLTg5NGVlbVJNcE1vQ2wwNlhTX2cxSVVxLVBjYlpCdkJtOFFrR04tNUYxa3pOenB2MEl5dw?oc=5",
+          "source": "Google News: Rivals esports (Esports.gg)",
+          "published": "2026-11-11T03:02:48.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -138,6 +127,17 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzBJRHBSaEhPb2luMkg0bmhoYjFJYjlRQzRtY0ZxOXBrMjU5S2NyZUhWYXZENEZPdk83dU1ZX0Fjb0dLUmlwT1ZGXzU2MC1PNnBLellDd2JVcC1LWnJFWmI2eVFvczNPc0xtMEtVdjR0OG96TUM5MDJUN083ell4UGcyR2NBRnlJRHFrQ2JjeG5LTTdZcENub0Y5ejIzVDZndy1GbDUtaDM4MThoQkxlZEhIYw?oc=5",
           "source": "Google News: Rivals patches (ComicBook.com)",
           "published": "2026-11-10T20:42:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 adds Strategist Nightcrawler and anniversary events with 2,500 free Units",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnE1MkR0NlAzLTctaHBZUmQyTjVHWWV2WmRHRWRmMDJoUzJXQU54cGl2M3lPT0wtbW5xcFROTFR6WFkwSU5rdGloUVlXVWx5b283dlI0RDM0Nk5keVRUcEIyWDNrUTl6YWlGdm9SNmkzVG1IcXVxemdWR3JnVkEyRlpkOFdyRld0QzYzY0xRUzh5M3doejdYdHkzcTRZcGlsaVdDWElfc1VpUkY1eXd5TTlvX3dPSTNWLWRfZTJlSjhRVHVIWTVHS1pmZHhVN2p1ejNMdy1qcy1fZDU4M0dBREhIRQ?oc=5",
+          "source": "Google News: Rivals patches (GosuGamers)",
+          "published": "2026-11-10T18:52:07.000Z",
           "score": 2,
           "level": null,
           "why": [
