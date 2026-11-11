@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T17:55:29.883Z",
+  "generatedAt": "2026-11-11T18:55:27.667Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 20,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
@@ -20,16 +20,28 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 Roadmap Revealed",
-          "url": "https://insider-gaming.com/marvel-rivals-season-11-roadmap-revealed/",
-          "source": "Insider Gaming",
-          "published": "2026-11-11T16:03:56.000Z",
+          "title": "Marvel Rivals Season 11 Roadmap Revealed: Nightcrawler, New Map, Events, Skins, and More",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sazRPWUhrUnp0SWR2M2pINTI4U3pLbnlnU0J4MWpwR1dGRGFxSGR5RE80aWt6X05UNWJUend3c29kZGJEZGxobllMQk91MGZVZnF2Q3B1N0Zab2NZTlVzS0Fn?oc=5",
+          "source": "Google News: Rivals patches (GameRiv)",
+          "published": "2026-11-11T16:22:57.000Z",
           "score": 6,
           "level": "possible",
           "why": [
             "revealed",
             "season",
             "roadmap"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFp1eFFranZLQkg3bE5teHFobW1Ydkc0aUJTUV84RjRwZF90a1dWTHc5M2F4VXNiREphR2xYcXZidGN5b2wzVG1hc2tHTHctcWhpUzc4TzB6Q1ZYUEVnbHdoTHp3SGtBV1JLa3BvNUpyTExsYVZwZXEzME1lMjg0cg?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-11T04:33:05.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "grand finals",
+            "grand finals"
           ]
         },
         {
@@ -47,15 +59,14 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 trailer: Nightcrawler joins Nov. 13",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1na1BObF9EaU9tNW1KMjY4Ql9pcnJ4SE9jYUo4dXV4a3RkYXRMajQ3SkhuRGxzbFRzT0pNcjBkU0JoSEx6bXZ6OEhEbGl0Y2otQUFPZnJBVm9MMk83Y1I4azBUNGl0M1dRcFZ1a0w2X0lrTzlQRlV0V2prZw?oc=5",
-          "source": "Google News: Rivals patches (Rolling Out)",
-          "published": "2026-11-10T18:12:39.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "Marvel Rivals' creative director addresses hate speech controversy and promises 'we've ramped up our disciplinary measures'",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPN0luVVU5cmQ2b1UzdUc0OVFwNXBnemtvbGp4UG9rOXc1MzNSdUFHX0c4NDQtQ05Ua2Q4TDJXUUMtenJCZi1YLUtkZ25nNEt2ZjVYSEFRNDNSUDRCX0JmbndmeWpIVFZIYVVpb01VenNNaVZTMS1vNGtzSTMxYVhfYk5fQlNINEVPbHR6V3ZoY3lvWTZYU2QxOHBTMFZLSmt6SXAtanhURGRWZXgyR2M0Y0ItZ0ZiVDEzZWVMbExOSW1odmtfbm9CR2t0SDJubXlnNGNrS2tWTlNyQ0J6WU1WUVFhaE1zTnVURWFKREF6bXo5ZjRtV0hoMWJYdGZFZHZt?oc=5",
+          "source": "Google News: Rivals patches (PC Gamer)",
+          "published": "2026-11-11T17:34:01.000Z",
+          "score": 4,
+          "level": null,
           "why": [
-            "joins",
-            "season"
+            "controversy"
           ]
         },
         {
@@ -94,9 +105,9 @@
         },
         {
           "title": "Marvel Rivals - Official Season 11 Battle Pass: The Incursion Trailer",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanRQWnk0cVBoZ0pIaVdDbGFzOW9VTjBSZnV4VmxuNUtwZ0h2cEFUWkczaWNwajZrcTZPd1EyTW9vNnhmd2k3N2N1aXE0c0FDbXEyYUtCVHR1NUw1VWtHc2pLODZWejBGOUYxVnJmNHRFR0xLWS1MSzNnS0FsbXpJQ2RydkxnamJGUEVQYzhkYmVTbWJwTUtCaQ?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-11T17:13:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDRZS3g0alpUM0RMWlNnVHBMR2s1Y0VtaTVHbnRZSDVUQUkzcF9tZEoxTTZxYkxpcV9QYXVrSVJaczdNZjRNZURpbmNZcEJfRlIxYzc2aTFSR3Q2SzZlQkhTM3NnUVdFeVFUU0NKYXE1QXcwcVBKN2JvRXdvRTVWYkdKUWd1Z000SVZfSmZObldGWEZRclFodlNKeGJpUmlMaldMQk8yVm9QUQ?oc=5",
+          "source": "Google News: Rivals patches (IGN India)",
+          "published": "2026-11-11T17:13:42.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -131,17 +142,6 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0M2c1BSc2JDang4OGtUN19wM3BIMlRCMUlwS0hoWVVwcGRXbXBqNFZJX19NaFRsUjJNY3cxWFJtb1FCOXRIMFJFbWZvajFMZ05nYlM0cl9iT3hoRTh3anFxTm5PXzFzSGRhdG9QeTFubVA4U0Y2bHdCVmZMeG90UjJ0T1NfSjJFb0tvRnBLUFhBQQ?oc=5",
           "source": "Google News: Rivals esports (Bleeding Cool News)",
           "published": "2026-11-11T16:12:09.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Season 11 is coming to Marvel Rivals with Dracula and Nightcrawler as playable characters",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0MyQy1qSWFWcWxuNG5QdTlHU25jMXJ4c0twOXdQM01UdFpkbTI3YzV2VlZYemVfcEswTklEVFlSbU1RR0RweEVhZ1d4VHNMaEJhVTVnTktwNHIyVlFMOGhNRXlrU01PNHRud19oaEwzLTY0VW1fVzNveXlQb2N3Yzdlb2xRZEFVUDlXOUVHVFNvaVgtbEdwYW1hNlRiaFhVUTVwdkxJc1JDMjFiUHZPSzRFY2hIZXJ2VkVHTGFudjJQNWR6M29zTUZIdE91LVV2cDFrX2l3?oc=5",
-          "source": "Google News: Rivals patches (Instant Gaming News)",
-          "published": "2026-11-11T09:20:27.000Z",
           "score": 2,
           "level": null,
           "why": [
