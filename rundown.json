@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T09:40:23.248Z",
+  "generatedAt": "2026-11-11T10:36:33.194Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 27,
+      "storyCount": 28,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -70,6 +70,19 @@
           "why": [
             "furia",
             "blast"
+          ]
+        },
+        {
+          "title": "Donk gets cute on post match interview",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xte68o/donk_gets_cute_on_post_match_interview/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-11T10:15:03.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "donk",
+            "spirit*",
+            "blast*"
           ]
         },
         {
@@ -142,17 +155,6 @@
           "why": [
             "furia*",
             "blast*"
-          ]
-        },
-        {
-          "title": "m0NESY: \"It's hard for now to say that we are title contenders\"",
-          "url": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
-          "source": "HLTV news",
-          "published": "2026-11-10T19:59:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
           ]
         }
       ]
@@ -257,7 +259,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Fix channeling spells/TP getting canceled when they shouldn't",
@@ -279,17 +281,6 @@
           "level": null,
           "why": [
             "comeback"
-          ]
-        },
-        {
-          "title": "Traxex is trully crafting up to be a good police chief of the village",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xt4i95/traxex_is_trully_crafting_up_to_be_a_good_police/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T01:14:39.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "police"
           ]
         },
         {
@@ -322,15 +313,6 @@
           "why": []
         },
         {
-          "title": "NS Reflects on the Decline of the Dota 2 Pro Scene",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeF9FRlFVYmlFamxKTkl0YlhOQ1B4eElkN1NyZlZmX0w2Q3Mxd2JTYTZ5ZERDa01BWnlTZ3NidFRxaVJYV0xzeS1ON1hxZndRUmQ3VmlWZUsxeGhkQzFUYlFOYktkc2s0WW52dA?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-10T10:03:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "What features you miss the most for your heroes in the old patch?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xt8iup/what_features_you_miss_the_most_for_your_heroes/",
           "source": "r/DotA2",
@@ -354,7 +336,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Punk vs Blaz",
@@ -366,6 +348,17 @@
           "why": [
             "punk",
             "blaz"
+          ]
+        },
+        {
+          "title": "Won this at auction for £30. Pretty happy with that",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xte98o/won_this_at_auction_for_30_pretty_happy_with_that/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-11T10:20:01.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
           ]
         },
         {
