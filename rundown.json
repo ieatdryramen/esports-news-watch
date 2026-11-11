@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T23:00:27.650Z",
+  "generatedAt": "2026-11-11T00:00:23.937Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 24,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -44,6 +44,18 @@
           ]
         },
         {
+          "title": "MOUZ sweep IEM Beijing without dropping a map as xertioN takes MVP ahead of Singapore Major",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPakxSTHM1aUtwcUl2MGNZSVQxeGplVFJJVVB1Y1ZEVFZudUZDQmVXT1hkYzUyMUFwY2w0SXVVRzVWVUl2Z2VLemFBd05peW94YnZQanFYcjRqNEh4aFI2ZWVEelVDWlBDTFFOQzNQNWFtTGU5dFRHMDZKRkNKUjBEUk96VWlNRnV0eldUbmhXcUJaWWxwQTFmbXUyUlV6blNIS00ySnJMUzYyTklBeDUzV29YWV83dWU1OVliaFd0NUFwbmVJOHlN?oc=5",
+          "source": "Google News: CS2 (Esports.net)",
+          "published": "2026-11-10T06:20:22.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz",
+            "iem"
+          ]
+        },
+        {
           "title": "PGL Cluj-Napoca 2027 Teams Confirmed: All 14 Invites",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZURjWXlvMk0yc0tROHZNM0NEbmdrbkY0bmctUlNHS2t5WHhGWVd4ZDJ1S2p5WTJsR0txV0t0M2FQU0JFSndlTm56a0NJbHVRa0RlVS0tVmttYjZzOTFiTnJGcnprY2gwMDY3aTJycl8wUlVhWUlVX3l1M1M1XzhZZkh4VFpDejNzNWxlQ2FrUi1yUQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -77,6 +89,17 @@
           "why": [
             "bench*",
             "released*"
+          ]
+        },
+        {
+          "title": "Irregular gameplay VAC is so busted",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt1yem/irregular_gameplay_vac_is_so_busted/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-10T23:21:20.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "vac"
           ]
         },
         {
@@ -121,28 +144,6 @@
           "level": null,
           "why": [
             "blast"
-          ]
-        },
-        {
-          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHFxdTdUNWlTdnp3YVRRc3RrOExJcEZkWFZBSHFIbnNCd0ZmaFRySUlTbHpjZTNqSVpyOFpSVW1nQldHQi0xUFAxRVZ1NGJkWG0yRGU2TDVrdE1ZZVJDRk9hUF9MS014SXNnTTJkUGg2d0FIT01JWmxRYW9kTGx4SWR1SnFZQWcwbmFDVzhvTDhoSHNjNkFoNzEwalFMQ05XNzMwZXl0cnZFZjg?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-10T15:28:47.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL moves 2027 event from China to Mongolia",
-          "url": "https://www.hltv.org/news/45959/pgl-moves-2027-event-from-china-to-mongolia",
-          "source": "HLTV news",
-          "published": "2026-11-10T11:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         }
       ]
@@ -237,7 +238,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "New cheat abuse please fix",
@@ -251,10 +252,10 @@
           ]
         },
         {
-          "title": "I cant boot game there is an update but it gives unkown error",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsujwp/i_cant_boot_game_there_is_an_update_but_it_gives/",
+          "title": "Sir, third update has hit the staging server",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xt22zx/sir_third_update_has_hit_the_staging_server/",
           "source": "r/DotA2",
-          "published": "2026-11-10T18:26:35.000Z",
+          "published": "2026-11-10T23:26:58.000Z",
           "score": 1,
           "level": null,
           "why": [
@@ -262,10 +263,10 @@
           ]
         },
         {
-          "title": "New staging update - Dota 2 Staging - Dedicated ServerChangelist 40804579",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsu29p/new_staging_update_dota_2_staging_dedicated/",
+          "title": "I cant boot game there is an update but it gives unkown error",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xsujwp/i_cant_boot_game_there_is_an_update_but_it_gives/",
           "source": "r/DotA2",
-          "published": "2026-11-10T18:08:48.000Z",
+          "published": "2026-11-10T18:26:35.000Z",
           "score": 1,
           "level": null,
           "why": [
@@ -324,15 +325,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xsxhko/thoughts_on_upcoming_patch/",
           "source": "r/DotA2",
           "published": "2026-11-10T20:18:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "How to balance farming&fighting",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xstiog/how_to_balance_farmingfighting/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T17:48:55.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -415,7 +407,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -472,6 +464,15 @@
           "source": "Google News: Tekken (Gaming Age)",
           "published": "2026-11-10T01:14:39.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Balance patch soon?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xt21rq/balance_patch_soon/",
+          "source": "r/Tekken",
+          "published": "2026-11-10T23:25:28.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
