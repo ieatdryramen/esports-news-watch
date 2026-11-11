@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-11T15:00:27.767Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Team Zenith is currently investigated for 322 in the DreamLeague Div2 Series 5",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xtjul6/team_zenith_is_currently_investigated_for_322_in/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "investigation*",
+        "kicked*",
+        "dreamleague"
+      ],
+      "summary": "They were kicked from the tournament and the investigation is ongoing. They are 0-7 in the tournament, but so is Yakult Brothers (curious if they will be investigated as well). submitted by /u/Dota2ProTips to r/DotA2 [link] [comments]",
+      "published": "2026-11-11T14:57:17.000Z"
+    },
+    {
       "alertedAt": "2026-11-11T07:20:19.191Z",
       "level": "possible",
       "scene": "Tekken",
