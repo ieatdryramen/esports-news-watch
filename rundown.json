@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T08:45:20.886Z",
+  "generatedAt": "2026-11-11T09:40:23.248Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 28,
+      "storyCount": 27,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -20,19 +20,19 @@
           ]
         },
         {
-          "title": "Legacy vs FURIA / BLAST Rivals 2026 Season 2 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt7z79/legacy_vs_furia_blast_rivals_2026_season_2_group/",
+          "title": "Spirit vs FUT / BLAST Rivals 2026 Season 2 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtdaoe/spirit_vs_fut_blast_rivals_2026_season_2_group_a/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-11T04:04:46.000Z",
+          "published": "2026-11-11T09:17:12.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "furia",
-            "blast",
-            "reddit only"
+            "donk*",
+            "spirit",
+            "blast"
           ]
         },
         {
@@ -73,14 +73,14 @@
           ]
         },
         {
-          "title": "Spirit lost a map with a score of 0:13 for the first time in the organizations history",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtck0d/spirit_lost_a_map_with_a_score_of_013_for_the/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-11T08:29:33.000Z",
+          "title": "Spirit handed first-ever 13-0 defeat in CS2, but recover to beat Krabeni-less FUT 2-1",
+          "url": "https://www.hltv.org/news/45968/spirit-handed-first-ever-13-0-defeat-in-cs2-but-recover-to-beat-krabeni-less-fut-2-1",
+          "source": "HLTV news",
+          "published": "2026-11-11T09:27:00.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "history",
+            "donk*",
             "spirit"
           ]
         },
@@ -109,18 +109,6 @@
           ]
         },
         {
-          "title": "PGL Cluj-Napoca 2027 Teams Confirmed: All 14 Invites",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZURjWXlvMk0yc0tROHZNM0NEbmdrbkY0bmctUlNHS2t5WHhGWVd4ZDJ1S2p5WTJsR0txV0t0M2FQU0JFSndlTm56a0NJbHVRa0RlVS0tVmttYjZzOTFiTnJGcnprY2gwMDY3aTJycl8wUlVhWUlVX3l1M1M1XzhZZkh4VFpDejNzNWxlQ2FrUi1yUQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-10T09:07:01.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "confirmed",
-            "pgl"
-          ]
-        },
-        {
           "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
           "url": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
           "source": "HLTV news",
@@ -134,15 +122,14 @@
           ]
         },
         {
-          "title": "Sources: Fluxo to put CS division on hold",
-          "url": "https://www.hltv.org/news/45960/sources-fluxo-to-put-cs-division-on-hold",
-          "source": "HLTV news",
-          "published": "2026-11-10T14:11:00.000Z",
-          "score": 3.5,
+          "title": "Spray Transfer 3K Inferno",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtcwfk/spray_transfer_3k_inferno/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-11T08:52:06.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "bench*",
-            "released*"
+            "transfer"
           ]
         },
         {
@@ -156,12 +143,23 @@
             "furia*",
             "blast*"
           ]
+        },
+        {
+          "title": "m0NESY: \"It's hard for now to say that we are title contenders\"",
+          "url": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
+          "source": "HLTV news",
+          "published": "2026-11-10T19:59:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "m0nesy"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -176,11 +174,33 @@
           ]
         },
         {
+          "title": "Tekken 8 x Nike: Full List of Special Items Revealed",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjY0R3owR1dJa0tpQm0xVUMyZWMzb21xZmxpamMzdFh2WGpVSG1lYTFGTS1vakI3MHotTEZTYUdJT1Fadmd0WkY0Yk9Wa3VoYnU2VWpIaFc1QnpUN3NIbmtFdWUyYXRVdzQ2V3h3U3pHTnVrNjRNVlpwbkpYaHpiNTd6OUcyaEdJdmtHUEZwaw?oc=5",
+          "source": "Google News: Tekken (Chase Your Sport)",
+          "published": "2026-11-11T09:31:40.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "revealed"
+          ]
+        },
+        {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEtTRXg3Y3VGN1pqZXhpS3p1UjV3WXFIbl9pVjI5Q2Z1Nk83UmYyZk9lWXE5X2ZScVVSaGxEd3BhSjBucjdxckQzTWNzSUVaclFhYUlaaGI5ZEVhWlYwb2JVa3l3Znp6bGNQR1ZJeWJRelNJWEtaRUt0RVNqNEZqLVBPQzh2UzJWMm1NRQ?oc=5",
           "source": "Google News: Tekken (IGN)",
           "published": "2026-11-10T14:52:10.000Z",
           "score": 2,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        },
+        {
+          "title": "Official TEKKEN 8 FIGHT PASS - ROUND 12 Preview",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xtd2pb/official_tekken_8_fight_pass_round_12_preview/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T09:02:47.000Z",
+          "score": 1,
           "level": null,
           "why": [
             "official"
@@ -237,7 +257,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Fix channeling spells/TP getting canceled when they shouldn't",
@@ -248,6 +268,17 @@
           "level": null,
           "why": [
             "canceled"
+          ]
+        },
+        {
+          "title": "Generational Comeback",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtdhrv/generational_comeback/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T09:30:28.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
           ]
         },
         {
