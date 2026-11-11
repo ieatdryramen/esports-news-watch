@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T19:50:25.833Z",
+  "generatedAt": "2026-11-11T20:57:57.814Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Guardian 2 Lion with cheat",
@@ -22,19 +22,6 @@
           ]
         },
         {
-          "title": "Team Zenith is currently investigated for 322 in the DreamLeague Div2 Series 5",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtjul6/team_zenith_is_currently_investigated_for_322_in/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T14:57:17.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "investigation*",
-            "kicked*",
-            "dreamleague"
-          ]
-        },
-        {
           "title": "Team Zenith is disqualified from DreamLeague Division 2 Season 5",
           "url": "https://www.reddit.com/r/DotA2/comments/1xtohzd/team_zenith_is_disqualified_from_dreamleague/",
           "source": "r/DotA2",
@@ -43,6 +30,17 @@
           "level": null,
           "why": [
             "dreamleague"
+          ]
+        },
+        {
+          "title": "What do you think will be in the update?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtrvya/what_do_you_think_will_be_in_the_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T19:56:43.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -66,6 +64,15 @@
           "why": []
         },
         {
+          "title": "Patch might be later than my optimistic ass thought",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtsff4/patch_might_be_later_than_my_optimistic_ass/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T20:17:13.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -75,24 +82,6 @@
           "why": [
             "-stream"
           ]
-        },
-        {
-          "title": "patch hopium",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtknba/patch_hopium/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T15:28:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "We might get GTA 6 before the patch guys",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtjo6e/we_might_get_gta_6_before_the_patch_guys/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T14:50:04.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         },
         {
           "title": "XE - FRG, November 11, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
@@ -109,8 +98,21 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 17,
       "stories": [
+        {
+          "title": "G2 Beat MOUZ 2-1 at BLAST Rivals 2026 Season 2",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3NMSk5sYjdkT2dZbnBxMkZtN01SR3VLQXdoR0Vpc2dQMmJoR2diYy1MTERYYUVBSThIcGh1SW40OUF5WGNzRHJfT1lESllRbkV4bWlGLWYzT3lhWV9IQnd3MzNlV0xhX1RpREdOVDI0dFd3SjVRdmxjNExyaHRPU3o1X2RON2YzaWhvNHVMcEd1Z0Q1SFRkMEttbjdMNXBSbXFyVlNOWGNOT2h6WGJr?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-11T13:12:27.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "g2",
+            "mouz",
+            "blast"
+          ]
+        },
         {
           "title": "G2 snap loss streak with win over MOUZ",
           "url": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
@@ -133,18 +135,6 @@
           "why": [
             "blast",
             "cs2 major"
-          ]
-        },
-        {
-          "title": "Spirit Beat FUT 2-1 at BLAST Rivals 2026 Season 2",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZENMRFRQMkVnb2VtaHQ0REgzLURIdWR1ZUNxaUJMUTVpUzRlTFN1NjVTeTlTc0VNcU1IU2NFMklDU1NaYWZmbkdiaEEtOF92aUNCVktMaXpmcC1WWkRrSUxjcXlFZi1LQV9UX2xvOHhxZnVPaWxaamRvNTMxb2ItVmEwZ21UUHlVZFFlYWZtVWNXM25KUGRkdG5kNVdvdG43czZiN3VGS0Q0QmFEX3c0?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-11T09:41:45.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "blast"
           ]
         },
         {
@@ -307,61 +297,30 @@
           ]
         },
         {
-          "title": "Leak Footage of Tekken X Street Fighter!!",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xtjyhm/leak_footage_of_tekken_x_street_fighter/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T15:01:29.000Z",
-          "score": 2,
+          "title": "4o4 by Sh33rz: Tekken 8 #123",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9KYWFsWk5UMnhNalB1UUdrMEFmYUFteUhVSlFGLWwycHFFR3FrMU5iQ3NkNWttb3JNUHU4?oc=5",
+          "source": "Google News: Tekken (Howl.Link)",
+          "published": "2026-11-11T19:13:25.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "leak"
-          ]
+          "why": []
         }
       ]
     },
     {
-      "scene": "Classic Tetris",
-      "storyCount": 4,
+      "scene": "AoE2",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
-          "url": "https://tetrisinterest.com/the-last-qualifying-session-2026-ctwc-experience-day-2-part-6/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T21:56:05.000Z",
-          "score": 3,
+          "title": "Called a Cheater 😂",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xtsgy0/called_a_cheater/",
+          "source": "r/aoe2",
+          "published": "2026-11-11T20:18:57.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "the last"
+            "cheater"
           ]
-        },
-        {
-          "title": "Ice Cream Social and More Tetris Action – 2026 CTWC Experience – Day 1 – Part 5",
-          "url": "https://tetrisinterest.com/ice-cream-social-and-more-tetris-action-2026-ctwc-experience-day-1-part-5/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T21:54:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "blue scuti*"
-          ]
-        },
-        {
-          "title": "Competing at the Classic Tetris World Championship For The First Time – 2026 CTWC Experience – Day 2 – Part 7",
-          "url": "https://tetrisinterest.com/competing-at-the-classic-tetris-world-championship-for-the-first-time-2026-ctwc-experience-day-2-part-7/",
-          "source": "Tetris Interest",
-          "published": "2026-11-11T01:18:44.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Set Up – 2026 CTWC Experience – Part 1",
-          "url": "https://tetrisinterest.com/set-up-2026-ctwc-experience-part-1/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T20:32:12.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -413,7 +372,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
         {
           "title": "FaZe, ZooMaa to Host $100K MW4 Flank Invitational Nov. 11-12",
@@ -427,10 +386,67 @@
           ]
         },
         {
+          "title": "Official mapset for MW4",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xttaci/official_mapset_for_mw4/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T20:51:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        },
+        {
           "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
           "source": "Google News: CoD (Insider Gaming)",
           "published": "2026-11-10T21:49:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Toronto Announce a 25k tournament.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xts0a5/toronto_announce_a_25k_tournament/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T20:00:59.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Classic Tetris",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
+          "url": "https://tetrisinterest.com/the-last-qualifying-session-2026-ctwc-experience-day-2-part-6/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T21:56:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "the last"
+          ]
+        },
+        {
+          "title": "Ice Cream Social and More Tetris Action – 2026 CTWC Experience – Day 1 – Part 5",
+          "url": "https://tetrisinterest.com/ice-cream-social-and-more-tetris-action-2026-ctwc-experience-day-1-part-5/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T21:54:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blue scuti*"
+          ]
+        },
+        {
+          "title": "Competing at the Classic Tetris World Championship For The First Time – 2026 CTWC Experience – Day 2 – Part 7",
+          "url": "https://tetrisinterest.com/competing-at-the-classic-tetris-world-championship-for-the-first-time-2026-ctwc-experience-day-2-part-7/",
+          "source": "Tetris Interest",
+          "published": "2026-11-11T01:18:44.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -440,7 +456,6 @@
   ],
   "quiet": [
     "Melee",
-    "AoE2",
     "Brood War",
     "Trackmania",
     "Warcraft III",

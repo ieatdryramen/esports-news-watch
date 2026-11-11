@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:55:16.975Z",
+  "generatedAt": "2026-11-11T20:57:47.619Z",
   "source": "start.gg",
   "completed": [
     {
@@ -199,7 +199,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "The Cashbox #48: Port Priority DX Edition",
       "event": "Melee Singles",
-      "entrants": 122,
+      "entrants": 136,
       "online": true,
       "major": false,
       "startAt": "2026-11-11T23:00:00.000Z",
@@ -225,7 +225,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
       "event": "Melee Singles",
-      "entrants": 115,
+      "entrants": 116,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T00:00:00.000Z",
