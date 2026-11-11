@@ -1,21 +1,154 @@
 {
-  "generatedAt": "2026-11-11T16:55:42.422Z",
+  "generatedAt": "2026-11-11T17:55:24.968Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "CS2",
-      "storyCount": 22,
+      "scene": "Dota",
+      "storyCount": 12,
       "stories": [
         {
-          "title": "MOUZ vs G2 / BLAST Rivals 2026 Season 2 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtgwn0/mouz_vs_g2_blast_rivals_2026_season_2_group_a/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-11T12:49:20.000Z",
+          "title": "Guardian 2 Lion with cheat",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xto3tl/guardian_2_lion_with_cheat/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T17:36:16.000Z",
+          "score": 8.5,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "cheating*",
+            "cheat",
+            "signs*",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "Team Zenith is currently investigated for 322 in the DreamLeague Div2 Series 5",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtjul6/team_zenith_is_currently_investigated_for_322_in/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T14:57:17.000Z",
           "score": 5.5,
           "level": "possible",
           "why": [
-            "roster*",
-            "official*",
+            "investigation*",
+            "kicked*",
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "What do you guys want to see in a new patch? (changes/nerfs/buffs etc...)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xthpdi/what_do_you_guys_want_to_see_in_a_new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T13:26:45.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "the last*",
+            "comeback*"
+          ]
+        },
+        {
+          "title": "Team Zenith is disqualified from DreamLeague Division 2 Season 5",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtohzd/team_zenith_is_disqualified_from_dreamleague/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T17:50:06.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "After 6 days i finally won hehe.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtizbr/after_6_days_i_finally_won_hehe/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T14:21:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Malr1ne Reflected on Dyrachyo’s Current Skill Level in Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSktfQWEtVTJoZWVhczdIN2JZN3RkZ0FtOFZXMFRiejV0Rk01VkJfbHd5b2c5YmtZWVRTZUJGLXN4ZTZ1U2JsSjN0YjJiT1ZtUG1pRjNuWFM5R3ZWZmxYRmpjOEJZQ2xVUkRDU2ZoVEh1LTI2Um1vd0lMQTdacWpXMDdkcTA?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-11T14:20:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Noticed Names the Best Heroes for Farming MMR as an Offlaner in Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdnc3F3VWxOM0Z5cVZZUTI5bUlmbHc2ZThFVXdiMkhQZFMycl9xUU1Gcm5oVXpqUEtSTGVYWHh6Y1dUVTA1Mk92TzEwdkpndTUwQVNVQ3pNWUVmWXdVWVdVdFNrTmd3Z0NDYXFZQkZZMFJDVVR1UGRiOWl0dE94aGR4Yw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-10T19:04:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Heroes who got left behind and need love with next patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtn1wm/heroes_who_got_left_behind_and_need_love_with/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T16:58:35.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-11T15:53:36.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
+          "title": "patch hopium",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtknba/patch_hopium/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T15:28:25.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "We might get GTA 6 before the patch guys",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtjo6e/we_might_get_gta_6_before_the_patch_guys/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T14:50:04.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - FRG, November 11, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3Z2OEdKbl9wQzdaTGVpTWcwekxDeW5mNHlQdkV1N1QwU2RQcElLcy1raFgycE9CUHJRY1daYVRuR3JvSFg1dXBvcFNKcXZZUF9FUEtZa0F1QkltWEprcUc1TGZlTW85eFBoWTN2ZGR2RjFJcTZNZUVZT1c5NFh4UlNaX05hYUtWeUk1ZlZlU1dKWEVyS01WbmNfWHlrcW5fUzYtUg?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-11T14:24:50.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CS2",
+      "storyCount": 20,
+      "stories": [
+        {
+          "title": "G2 Beat MOUZ 2-1 at BLAST Rivals 2026 Season 2",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3NMSk5sYjdkT2dZbnBxMkZtN01SR3VLQXdoR0Vpc2dQMmJoR2diYy1MTERYYUVBSThIcGh1SW40OUF5WGNzRHJfT1lESllRbkV4bWlGLWYzT3lhWV9IQnd3MzNlV0xhX1RpREdOVDI0dFd3SjVRdmxjNExyaHRPU3o1X2RON2YzaWhvNHVMcEd1Z0Q1SFRkMEttbjdMNXBSbXFyVlNOWGNOT2h6WGJr?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-11T13:12:27.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
             "g2",
             "mouz",
             "blast"
@@ -43,18 +176,6 @@
           "why": [
             "blast",
             "cs2 major"
-          ]
-        },
-        {
-          "title": "Spirit Beat FUT 2-1 at BLAST Rivals 2026 Season 2",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZENMRFRQMkVnb2VtaHQ0REgzLURIdWR1ZUNxaUJMUTVpUzRlTFN1NjVTeTlTc0VNcU1IU2NFMklDU1NaYWZmbkdiaEEtOF92aUNCVktMaXpmcC1WWkRrSUxjcXlFZi1LQV9UX2xvOHhxZnVPaWxaamRvNTMxb2ItVmEwZ21UUHlVZFFlYWZtVWNXM25KUGRkdG5kNVdvdG43czZiN3VGS0Q0QmFEX3c0?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-11T09:41:45.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "blast"
           ]
         },
         {
@@ -153,121 +274,23 @@
             "furia*",
             "blast*"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 10,
-      "stories": [
-        {
-          "title": "Team Zenith is currently investigated for 322 in the DreamLeague Div2 Series 5",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtjul6/team_zenith_is_currently_investigated_for_322_in/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T14:57:17.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "investigation*",
-            "kicked*",
-            "dreamleague"
-          ]
         },
         {
-          "title": "What do you guys want to see in a new patch? (changes/nerfs/buffs etc...)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xthpdi/what_do_you_guys_want_to_see_in_a_new_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T13:26:45.000Z",
-          "score": 2.5,
+          "title": "PGL Shifts $1 Million April 2027 CS2 Event to Mongolia",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1MzODloMWhROWluRlBJVW5WRTZDMFZEU1lra2txQVBsbXFvam02alExcEhyclJ2V1A3anlubW0wQ08xTHFxS1M1ck9pbjFhYl9EVlBNWTJGSzdkbm5WVEFGbzNWMldyY3pJc3BlMHJKc1BqR24zMGhFVXQ4SWtkcThqZXhVdHF0SXpNV3VzMTdGTlN6X1dickl3?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-10T21:29:32.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "the last*",
-            "comeback*"
+            "pgl"
           ]
-        },
-        {
-          "title": "After 6 days i finally won hehe.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtizbr/after_6_days_i_finally_won_hehe/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T14:21:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
-          "title": "Malr1ne Reflected on Dyrachyo’s Current Skill Level in Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSktfQWEtVTJoZWVhczdIN2JZN3RkZ0FtOFZXMFRiejV0Rk01VkJfbHd5b2c5YmtZWVRTZUJGLXN4ZTZ1U2JsSjN0YjJiT1ZtUG1pRjNuWFM5R3ZWZmxYRmpjOEJZQ2xVUkRDU2ZoVEh1LTI2Um1vd0lMQTdacWpXMDdkcTA?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-11T14:20:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Noticed Names the Best Heroes for Farming MMR as an Offlaner in Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdnc3F3VWxOM0Z5cVZZUTI5bUlmbHc2ZThFVXdiMkhQZFMycl9xUU1Gcm5oVXpqUEtSTGVYWHh6Y1dUVTA1Mk92TzEwdkpndTUwQVNVQ3pNWUVmWXdVWVdVdFNrTmd3Z0NDYXFZQkZZMFJDVVR1UGRiOWl0dE94aGR4Yw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-10T19:04:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-11T15:53:36.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "patch hopium",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtknba/patch_hopium/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T15:28:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "We might get GTA 6 before the patch guys",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtjo6e/we_might_get_gta_6_before_the_patch_guys/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T14:50:04.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - FRG, November 11, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3Z2OEdKbl9wQzdaTGVpTWcwekxDeW5mNHlQdkV1N1QwU2RQcElLcy1raFgycE9CUHJRY1daYVRuR3JvSFg1dXBvcFNKcXZZUF9FUEtZa0F1QkltWEprcUc1TGZlTW85eFBoWTN2ZGR2RjFJcTZNZUVZT1c5NFh4UlNaX05hYUtWeUk1ZlZlU1dKWEVyS01WbmNfWHlrcW5fUzYtUg?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-11T14:24:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "At the very least Venomancer buff should be you can't deny allies.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtg03a/at_the_very_least_venomancer_buff_should_be_you/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T12:02:18.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -293,6 +316,17 @@
           ]
         },
         {
+          "title": "How JDCR Became a Korean Tekken Legend (EvoFGC Channel)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xtnrtl/how_jdcr_became_a_korean_tekken_legend_evofgc/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T17:24:01.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "jdcr"
+          ]
+        },
+        {
           "title": "Leak Footage of Tekken X Street Fighter!!",
           "url": "https://www.reddit.com/r/Tekken/comments/1xtjyhm/leak_footage_of_tekken_x_street_fighter/",
           "source": "r/Tekken",
@@ -302,6 +336,52 @@
           "why": [
             "leak"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Classic Tetris",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
+          "url": "https://tetrisinterest.com/the-last-qualifying-session-2026-ctwc-experience-day-2-part-6/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T21:56:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "the last"
+          ]
+        },
+        {
+          "title": "Ice Cream Social and More Tetris Action – 2026 CTWC Experience – Day 1 – Part 5",
+          "url": "https://tetrisinterest.com/ice-cream-social-and-more-tetris-action-2026-ctwc-experience-day-1-part-5/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T21:54:30.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blue scuti*"
+          ]
+        },
+        {
+          "title": "Competing at the Classic Tetris World Championship For The First Time – 2026 CTWC Experience – Day 2 – Part 7",
+          "url": "https://tetrisinterest.com/competing-at-the-classic-tetris-world-championship-for-the-first-time-2026-ctwc-experience-day-2-part-7/",
+          "source": "Tetris Interest",
+          "published": "2026-11-11T01:18:44.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Set Up – 2026 CTWC Experience – Part 1",
+          "url": "https://tetrisinterest.com/set-up-2026-ctwc-experience-part-1/",
+          "source": "Tetris Interest",
+          "published": "2026-11-10T20:32:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -332,32 +412,35 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
+      "scene": "Street Fighter",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "Gemini hits me with a hard dose of reality...although if I move to Korea, wear a tank top while eating nothing but ramen & frequenting PC bangs & learn to proxy-gate my way through the Season Open, I have a 0.00001% chance at getting into ASL.",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xtepob/gemini_hits_me_with_a_hard_dose_of/",
-          "source": "r/broodwar",
-          "published": "2026-11-11T10:47:46.000Z",
-          "score": 2,
+          "title": "Latest Platinum Titles update reveals Street Fighter 6 rapidly closing in on Street Fighter 5 as Capcom's best-selling fighting game",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtnjes/latest_platinum_titles_update_reveals_street/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-11T17:15:47.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "asl"
+            "update"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
+        },
         {
           "title": "Zangief actor Olivier Richters lives up to his promise and enters a Street Fighter 6 tournament... and he was kind of popping off",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEl6THJSeTFwQlBXbW9KY3NpWDFsWmVHa1c5czVrODFZR2JrNWtFMThxUDdyQTJ3VzIxb1J2VUVoZm5VWWhlbTBuLWx3UjBLRERvUlRpRW95R19zVVYwLWYzQUFkcmhmbXhhVFZQSjFKTkh6VFFNNzlIQjBLME9hcUM4VmEzbmw1Mld5X3gxTWFTdw?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-11T14:09:07.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Besides the expected Tifa reveal at TGA, what else are you hoping Capcom shows for SF6 at TGA?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtnno0/besides_the_expected_tifa_reveal_at_tga_what_else/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-11T17:19:47.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -367,7 +450,7 @@
   "quiet": [
     "Melee",
     "AoE2",
-    "Classic Tetris",
+    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
