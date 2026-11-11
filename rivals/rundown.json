@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-11T07:20:24.876Z",
+  "generatedAt": "2026-11-11T08:20:19.060Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 22,
+      "storyCount": 23,
       "stories": [
         {
-          "title": "All Marvel Rivals Season 11 buffs and nerfs explained, new patch notes revealed",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVWs5UF9MMk1hQ1MyajlDRDFJMTlpaTI1aC02TFNJQWdUWmx0OU9MakVhRnBDV3BLWk1WMFU2Wm9qQ3l2UGwxRERJMWRud1dsS0xRd0ZjazByaW5xblBLa0FVUXZLaHd2ODNMUEVuY0pvVXpKMTNIYmdpaFRLVWQ0YWpOZXNQRm5NMUhMSjZOcTFiTVFySFh6WGhhYy05UmpWV09DQzA1dlNvNXo2Wm82aEpqUlpsVzBNalhsSHJrekRZOW13UFdGN3h3?oc=5",
-          "source": "Google News: Rivals patches (GosuGamers)",
-          "published": "2026-11-11T03:34:17.000Z",
+          "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiLWtKVjdVMDVzenhpdkplcTJ5YWlxc2lnd2JPZS1RVFh1MWlhYkJrR0M0Z2tTMGo1NGVCanVvOEZEeGZCRTNvamRjc0dERFJILUJfNURvN2tsZWhhT3hZMV9DNnVMd9IBa0FVX3lxTE45U29DN1V3empwVnNfNlk3Q2l6ZXJZUFBwWjZjVVNvb1pZaWdsSVVCY254ODhLSU95YlhyZ0V4NGRJX3UwY3drVlA2Y3FyMnR0R1FtZ21fMGFia3pENVNTZjNSRmgxTEEzbUdj?oc=5",
+          "source": "Google News: Rivals patches (Beebom)",
+          "published": "2026-11-11T07:28:21.000Z",
           "score": 7,
           "level": "breaking",
           "why": [
-            "revealed",
-            "patch notes",
+            "balance",
+            "balance changes",
             "season"
           ]
         },
@@ -93,6 +93,17 @@
           ]
         },
         {
+          "title": "Who Is Nightcrawler? Here Is Kurt Wagner's History As Marvel Rivals And Avengers: Doomsday Bring Him Back",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRlV4ZjUwaE9Fel9SZE5mMmRWTjZrdm5FejloWDZHR3ZKd3MyTkpaaC1pRURTZ25SUG9CZHFMYThEUEpuT3UzcTR6Z3hSWm9QT2pERkd6Y1RHT0VNSXA0UG1GZlh3V1NkblFHcEFERjYxSzZRb3JBVDY4M1V3VWhoNHZZVDdtZkVTTDBmd0owUWYwRld5bjBpWXF0a2diWEtEY3lNTG5QQXlBclVCV2VZRUtXYXJtYmE5Unl2ZVIxMW0tTHd2Vm1xTG1sRnV3U0MzOTljNUlLcHNBNGQ3VXJWcWxrbTBKM1R0TW5vSVQ5VQ?oc=5",
+          "source": "Google News: Rivals patches (ComicBookMovie.com)",
+          "published": "2026-11-10T23:11:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "history"
+          ]
+        },
+        {
           "title": "Sheldon Esports Marvel Rivals Qualifies for State",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWdwbzZtTGkySTFrUVZJSHRYT1RYdkZVRm1nRnFUVW5uNXlwN1BCeDdqSERraUtpTU9Pc01jdkVXci1PVUtQX1JPbF93c0NERFBvUnh5TXFIODJBVzNDZFd6NFBVUkNSWVU3bG9SRXBrVGVtUkN1U0FHdXlpbXJreUhCOA?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
@@ -131,17 +142,6 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC1fejg5cm1raXFpTnNFTk9HRUU0aFE1OWNuNDFiQ2tncmZSNEs5aWo4REFjeFhJb3RwSG8tem5qOWFvSXJWZDNlLVFSN0N2aVlBeXI2UUF4MWlnLTJqLTg5NGVlbVJNcE1vQ2wwNlhTX2cxSVVxLVBjYlpCdkJtOFFrR04tNUYxa3pOenB2MEl5dw?oc=5",
           "source": "Google News: Rivals esports (Esports.gg)",
           "published": "2026-11-11T03:02:48.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "When does Nightcrawler come out in Marvel Rivals? Friday, November 13, with Season 11",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0plbzRjMmV1cS02WmhHNWR2Y1N2bC0zYWtTVktWRHNWa3RQWk0ySk5BVnR5Yk5jLVNRemhXRVhIUFUtWDJvZHpyajRFTzY3Mm9kbmtJMlZzMzR3UVNKdW1jRTJpYTZaNjN2RDU2a1JHcTQxdXZTYWhlaGdWeTdLZTAzWjRndlNRbGVEeDVoZm5QN1IwUll5dHVBTFVraUFLSU9LS2x2SVlTNGMwdEZCRzZYRlpIWFN0YWdIQ202UDlnZw?oc=5",
-          "source": "Google News: Rivals patches (Nacionale)",
-          "published": "2026-11-11T00:56:00.000Z",
           "score": 2,
           "level": null,
           "why": [
