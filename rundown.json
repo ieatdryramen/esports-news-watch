@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T17:55:24.968Z",
+  "generatedAt": "2026-11-11T18:50:18.748Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Guardian 2 Lion with cheat",
@@ -35,18 +35,6 @@
           ]
         },
         {
-          "title": "What do you guys want to see in a new patch? (changes/nerfs/buffs etc...)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xthpdi/what_do_you_guys_want_to_see_in_a_new_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T13:26:45.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "the last*",
-            "comeback*"
-          ]
-        },
-        {
           "title": "Team Zenith is disqualified from DreamLeague Division 2 Season 5",
           "url": "https://www.reddit.com/r/DotA2/comments/1xtohzd/team_zenith_is_disqualified_from_dreamleague/",
           "source": "r/DotA2",
@@ -67,15 +55,6 @@
           "why": [
             "won"
           ]
-        },
-        {
-          "title": "Malr1ne Reflected on Dyrachyo’s Current Skill Level in Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSktfQWEtVTJoZWVhczdIN2JZN3RkZ0FtOFZXMFRiejV0Rk01VkJfbHd5b2c5YmtZWVRTZUJGLXN4ZTZ1U2JsSjN0YjJiT1ZtUG1pRjNuWFM5R3ZWZmxYRmpjOEJZQ2xVUkRDU2ZoVEh1LTI2Um1vd0lMQTdacWpXMDdkcTA?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-11T14:20:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Noticed Names the Best Heroes for Farming MMR as an Offlaner in Dota 2",
@@ -290,7 +269,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -313,6 +292,17 @@
           "level": null,
           "why": [
             "revealed"
+          ]
+        },
+        {
+          "title": "My dream game roster",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xtq2hc/my_dream_game_roster/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T18:48:29.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
           ]
         },
         {
@@ -386,32 +376,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Gentle Mates Vs. Cloud9 Scrims , Map Count: Gentle Mates 4 - 6 Cloud9",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xthous/gentle_mates_vs_cloud9_scrims_map_count_gentle/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-11T13:26:05.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "cloud9"
-          ]
-        },
-        {
-          "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
-          "source": "Google News: CoD (Insider Gaming)",
-          "published": "2026-11-10T21:49:13.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 3,
       "stories": [
@@ -441,6 +405,21 @@
           "source": "r/StreetFighter",
           "published": "2026-11-11T17:19:47.000Z",
           "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
+          "source": "Google News: CoD (Insider Gaming)",
+          "published": "2026-11-10T21:49:13.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }
