@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:55:18.539Z",
+  "generatedAt": "2026-11-11T01:25:20.064Z",
   "source": "start.gg",
   "completed": [
     {
@@ -194,19 +194,6 @@
   "live": [],
   "upcoming": [
     {
-      "eventId": "1749127",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #141",
-      "event": "Tekken 8",
-      "entrants": 177,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-11T01:00:00.000Z",
-      "endAt": "2026-11-11T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-141/event/tekken-8"
-    },
-    {
       "eventId": "1753116",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -225,7 +212,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
       "event": "Melee Singles",
-      "entrants": 99,
+      "entrants": 101,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T00:00:00.000Z",
