@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T07:50:20.238Z",
+  "generatedAt": "2026-11-11T08:45:20.886Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 28,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -73,6 +73,30 @@
           ]
         },
         {
+          "title": "Spirit lost a map with a score of 0:13 for the first time in the organizations history",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtck0d/spirit_lost_a_map_with_a_score_of_013_for_the/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-11T08:29:33.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "history",
+            "spirit"
+          ]
+        },
+        {
+          "title": "Todays dust2 ends m0NESY's 23map 1+rating streak against Vitality,",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtc34j/todays_dust2_ends_m0nesys_23map_1rating_streak/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-11T08:00:46.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "m0nesy",
+            "vitality"
+          ]
+        },
+        {
           "title": "m0nesy getting the donk treatment on Anubis",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt98x2/m0nesy_getting_the_donk_treatment_on_anubis/",
           "source": "r/GlobalOffensive",
@@ -122,18 +146,6 @@
           ]
         },
         {
-          "title": "m0NESY please don’t confuse me!",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtahiu/m0nesy_please_dont_confuse_me/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-11T06:22:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy",
-            "karrigan*"
-          ]
-        },
-        {
           "title": "molodoy: \"We can see now the problems we have before the Major\"",
           "url": "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
           "source": "HLTV news",
@@ -143,17 +155,6 @@
           "why": [
             "furia*",
             "blast*"
-          ]
-        },
-        {
-          "title": "m0NESY: \"It's hard for now to say that we are title contenders\"",
-          "url": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
-          "source": "HLTV news",
-          "published": "2026-11-10T19:59:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
           ]
         }
       ]
@@ -200,7 +201,7 @@
           "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
           "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-10T14:10:17.000Z",
+          "published": "2026-11-10T14:11:13.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -349,7 +350,7 @@
     },
     {
       "scene": "Classic Tetris",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
@@ -360,17 +361,6 @@
           "level": null,
           "why": [
             "the last"
-          ]
-        },
-        {
-          "title": "Does anyone here have a record in Tetris DS?",
-          "url": "https://www.reddit.com/r/Tetris/comments/1xt2zfc/does_anyone_here_have_a_record_in_tetris_ds/",
-          "source": "r/Tetris",
-          "published": "2026-11-11T00:05:32.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "record"
           ]
         },
         {
@@ -423,7 +413,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
@@ -431,6 +421,15 @@
           "source": "Google News: CoD (Insider Gaming)",
           "published": "2026-11-10T21:49:13.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "IW devs confirm ranked play is coming for season 2",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtcbbc/iw_devs_confirm_ranked_play_is_coming_for_season_2/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T08:14:31.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
