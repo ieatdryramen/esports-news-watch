@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T00:00:23.937Z",
+  "generatedAt": "2026-11-11T01:00:22.040Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -41,18 +41,6 @@
           "why": [
             "revealed",
             "pgl"
-          ]
-        },
-        {
-          "title": "MOUZ sweep IEM Beijing without dropping a map as xertioN takes MVP ahead of Singapore Major",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPakxSTHM1aUtwcUl2MGNZSVQxeGplVFJJVVB1Y1ZEVFZudUZDQmVXT1hkYzUyMUFwY2w0SXVVRzVWVUl2Z2VLemFBd05peW94YnZQanFYcjRqNEh4aFI2ZWVEelVDWlBDTFFOQzNQNWFtTGU5dFRHMDZKRkNKUjBEUk96VWlNRnV0eldUbmhXcUJaWWxwQTFmbXUyUlV6blNIS00ySnJMUzYyTklBeDUzV29YWV83dWU1OVliaFd0NUFwbmVJOHlN?oc=5",
-          "source": "Google News: CS2 (Esports.net)",
-          "published": "2026-11-10T06:20:22.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
-            "iem"
           ]
         },
         {
@@ -145,12 +133,23 @@
           "why": [
             "blast"
           ]
+        },
+        {
+          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHFxdTdUNWlTdnp3YVRRc3RrOExJcEZkWFZBSHFIbnNCd0ZmaFRySUlTbHpjZTNqSVpyOFpSVW1nQldHQi0xUFAxRVZ1NGJkWG0yRGU2TDVrdE1ZZVJDRk9hUF9MS014SXNnTTJkUGg2d0FIT01JWmxRYW9kTGx4SWR1SnFZQWcwbmFDVzhvTDhoSHNjNkFoNzEwalFMQ05XNzMwZXl0cnZFZjg?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-10T15:28:47.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "[Shotzzy] OpTic Texas Vs G2 Scrim! (Modern Warfare 4)",
@@ -188,17 +187,6 @@
           ]
         },
         {
-          "title": "NA Challengers Pre Cup #1 Roster Changes",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xsvc4o/na_challengers_pre_cup_1_roster_changes/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-10T18:55:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
           "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
           "source": "Google News: CoD (Insider Gaming)",
@@ -219,26 +207,8 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "🔥Nice series between Snow & Jaedong today!",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xsvadv/nice_series_between_snow_jaedong_today/",
-          "source": "r/broodwar",
-          "published": "2026-11-10T18:54:04.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "jaedong",
-            "snow"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "New cheat abuse please fix",
@@ -256,17 +226,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xt22zx/sir_third_update_has_hit_the_staging_server/",
           "source": "r/DotA2",
           "published": "2026-11-10T23:26:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "I cant boot game there is an update but it gives unkown error",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsujwp/i_cant_boot_game_there_is_an_update_but_it_gives/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T18:26:35.000Z",
           "score": 1,
           "level": null,
           "why": [
@@ -344,7 +303,7 @@
     },
     {
       "scene": "Classic Tetris",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
@@ -355,6 +314,17 @@
           "level": null,
           "why": [
             "the last"
+          ]
+        },
+        {
+          "title": "Does anyone here have a record in Tetris DS?",
+          "url": "https://www.reddit.com/r/Tetris/comments/1xt2zfc/does_anyone_here_have_a_record_in_tetris_ds/",
+          "source": "r/Tetris",
+          "published": "2026-11-11T00:05:32.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "record"
           ]
         },
         {
@@ -407,7 +377,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -459,15 +429,6 @@
           "why": []
         },
         {
-          "title": "Looks like Kunimitsu is picking up some extracurricular activities in the newest Tekken 8 gameplay trailer",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGlwNWVSUUFYMWhtMkdZMU5UTFJvbVpmTDlxWHUwazZSRkR2WlVqbTdOSC1GdGdtN2tUMWpjUUxVQzJFOE00MmVrWDJwRHRZV1E4WUVydG00MDVVNHAxMEV2WjByaUNheHlPYkIyMFZYQkh0cjVZTTMwR2FweEc1ZldXLW9NNFRCME9iUHVSR1RRelVxWEVxbDhFQjBSWFoxM0tsaTRGZEh1MmJRZ1RCY3pYMktYYXhPRmhnbklCYnBBYnUzYnJUMVRKM05Ebzl2VkcxMNIB2gFBVV95cUxOZThLR3JJcktSN2tKT2VsMmdXMTRYTmdFRTZmUTJBUzNLWGV3bERaVjNaaDJqQmNFT2xxR2hPOTlqbURla3VMNUVMU2dGNGRiZGNhQkZCWUlmVlpMb3EtTGhvNUdDaUdadDVMVHNWeDNRQ25oNXEtNHdqLXJPSXo1OEZmUmwyTWxaV3Nac19zZmdTWG5KNFduVldkcms5ZDlvaTFxNVpfZHFQbHpPTk9wNzBmNE45YzQxVlV4bVdHckpfQWZEYUFFODdEdVQ1Rm9xUVAyVlNaa2o5dw?oc=5",
-          "source": "Google News: Tekken (Gaming Age)",
-          "published": "2026-11-10T01:14:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Balance patch soon?",
           "url": "https://www.reddit.com/r/Tekken/comments/1xt21rq/balance_patch_soon/",
           "source": "r/Tekken",
@@ -498,6 +459,7 @@
   ],
   "quiet": [
     "Melee",
+    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
