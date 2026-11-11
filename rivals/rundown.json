@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T13:05:23.240Z",
+  "generatedAt": "2026-11-11T14:00:29.501Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 22,
+      "storyCount": 24,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
@@ -92,6 +92,17 @@
           ]
         },
         {
+          "title": "Marvel Rivals Expands Its X-Men Roster on November 13",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1YyaDJ6OUc3cE9ldkF2cjQ4NzRURzJDOHZRTjk0NDJRQnNZMXhyd1ZjZXE3NGtsazE2ZUdXbUNJWE5pdDdmNUdkNHpMVGtHNmFxTTlaMXpUa1diUkZRM0p1aUpaVnhyUV9Sbm9GdWM5MHB0RWFLRHZ6OEFkbElsMHlwWktSV0JOUlpRWUdZVQ?oc=5",
+          "source": "Google News: Rivals patches (VICE)",
+          "published": "2026-11-11T13:22:26.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
           "title": "Sheldon Esports Marvel Rivals Qualifies for State",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWdwbzZtTGkySTFrUVZJSHRYT1RYdkZVRm1nRnFUVW5uNXlwN1BCeDdqSERraUtpTU9Pc01jdkVXci1PVUtQX1JPbF93c0NERFBvUnh5TXFIODJBVzNDZFd6NFBVUkNSWVU3bG9SRXBrVGVtUkN1U0FHdXlpbXJreUhCOA?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
@@ -130,17 +141,6 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0MyQy1qSWFWcWxuNG5QdTlHU25jMXJ4c0twOXdQM01UdFpkbTI3YzV2VlZYemVfcEswTklEVFlSbU1RR0RweEVhZ1d4VHNMaEJhVTVnTktwNHIyVlFMOGhNRXlrU01PNHRud19oaEwzLTY0VW1fVzNveXlQb2N3Yzdlb2xRZEFVUDlXOUVHVFNvaVgtbEdwYW1hNlRiaFhVUTVwdkxJc1JDMjFiUHZPSzRFY2hIZXJ2VkVHTGFudjJQNWR6M29zTUZIdE91LVV2cDFrX2l3?oc=5",
           "source": "Google News: Rivals patches (Instant Gaming News)",
           "published": "2026-11-11T09:20:27.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals confirms Nightcrawler for Season 11: Here’s a first look",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC1fejg5cm1raXFpTnNFTk9HRUU0aFE1OWNuNDFiQ2tncmZSNEs5aWo4REFjeFhJb3RwSG8tem5qOWFvSXJWZDNlLVFSN0N2aVlBeXI2UUF4MWlnLTJqLTg5NGVlbVJNcE1vQ2wwNlhTX2cxSVVxLVBjYlpCdkJtOFFrR04tNUYxa3pOenB2MEl5dw?oc=5",
-          "source": "Google News: Rivals esports (Esports.gg)",
-          "published": "2026-11-11T03:02:48.000Z",
           "score": 2,
           "level": null,
           "why": [
