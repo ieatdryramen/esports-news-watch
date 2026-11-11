@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T01:00:22.040Z",
+  "generatedAt": "2026-11-11T02:00:26.188Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 21,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -211,6 +211,17 @@
       "storyCount": 9,
       "stories": [
         {
+          "title": "Traxex is trully crafting up to be a good police chief of the village",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xt4i95/traxex_is_trully_crafting_up_to_be_a_good_police/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T01:14:39.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "police"
+          ]
+        },
+        {
           "title": "New cheat abuse please fix",
           "url": "https://www.reddit.com/r/DotA2/comments/1xsxeod/new_cheat_abuse_please_fix/",
           "source": "r/DotA2",
@@ -260,17 +271,6 @@
           "why": []
         },
         {
-          "title": "Why Traxex MUST be able to Craft SoJ sooner next patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsvvo0/why_traxex_must_be_able_to_craft_soj_sooner_next/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T19:16:24.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "update*"
-          ]
-        },
-        {
           "title": "Please patch - come soon",
           "url": "https://www.reddit.com/r/DotA2/comments/1xsyl31/please_patch_come_soon/",
           "source": "r/DotA2",
@@ -303,7 +303,7 @@
     },
     {
       "scene": "Classic Tetris",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
@@ -339,6 +339,15 @@
           ]
         },
         {
+          "title": "Competing at the Classic Tetris World Championship For The First Time – 2026 CTWC Experience – Day 2 – Part 7",
+          "url": "https://tetrisinterest.com/competing-at-the-classic-tetris-world-championship-for-the-first-time-2026-ctwc-experience-day-2-part-7/",
+          "source": "Tetris Interest",
+          "published": "2026-11-11T01:18:44.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Set Up – 2026 CTWC Experience – Part 1",
           "url": "https://tetrisinterest.com/set-up-2026-ctwc-experience-part-1/",
           "source": "Tetris Interest",
@@ -350,34 +359,8 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "'Never Surrender' — 2Game's Blaz Speaks Out About That Wild Street Fighter League Match Against NoahTheProdigy",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQkZXZm1PdUI5OXFlUWJnX1BGV2RWV3c2ODVmaWR5VEZnTU1VMGhJSTBvQ2F3b2RIWF9lbEJtaFZpQ0dSdEVrTWZEbHBmRGo4M1BkSjJ5V29xRDhvWHphOE1IV2VjcHo1dHdTRi1ybmFtYW1sNzJZczZwQTdOS05IcjE3d2w5TEpWV3F0bEQ2em5fSTllUFFDTFpFTV9Sc09xaFRKcnZqcTdyUllDOEFudDlMb0JsREloR0diSzE2WVdCRVNBTEpoeWhZcU1RZ2FCRHlhaE9KT2ZJTFRxTlVBdVN0T0JTc0VG?oc=5",
-          "source": "Google News: Street Fighter (IGN)",
-          "published": "2026-11-10T01:42:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blaz"
-          ]
-        },
-        {
-          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT2xDNUVOVFpGcGZ5cU1rd0hzUnVPbi1vQVJtYU5aVExkam51dEpXYldrcVlJVld2Nks1R0plM29fTm5uSE4xX1lSSno2QUVDU2gwQkFpeDRrX0RCcTZpczQ0cjBKdXRJNU5IdThic0JleUVEeWhuSk9NUThXUDhTbW1CVmxKT2ZrcGZnNTZrZEY3UlhPdUtfcGNyeWZOc2xOSXQzQjhsQ0NCWjYxbTRFS25LRVV2d2cyNmN2bzFmaHEzVE56N3Q1MXZXT2VKendDc2ZLTUUtLVY4Tnp5eVhlOQ?oc=5",
-          "source": "Google News: Street Fighter (IGN Southeast Asia)",
-          "published": "2026-11-10T01:45:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -388,17 +371,6 @@
           "level": null,
           "why": [
             "official"
-          ]
-        },
-        {
-          "title": "BROS TAG 2 died that fast? only 62 players in rank and 10 searching??? I thought it was going to deal a heavy blow to tekken 8. I thought this was the return to real tekken",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xswicd/bros_tag_2_died_that_fast_only_62_players_in_rank/",
-          "source": "r/Tekken",
-          "published": "2026-11-10T19:40:43.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "return"
           ]
         },
         {
@@ -440,25 +412,33 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 1,
+      "scene": "Street Fighter",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Battle of Stamford bridge almost good ending",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xskcjb/battle_of_stamford_bridge_almost_good_ending/",
-          "source": "r/aoe2",
-          "published": "2026-11-10T11:18:18.000Z",
-          "score": 2,
+          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0c1ZHdwR0tnWGlFV3hTWlhxQzN5ejZCUGEwRlpUVmVPSjYyNWlZekppM1Q2dDdKTTg5ZDZVNmhXd1MxcjQ4aExKSVlfVGQwSHR1Um1fWDNOa3RxV1hONVNjZ0hULXZMclIweG1EX0FrRnlzT0o0MDRZeGdUUWstcVRPeUNXZWM2dVZEVW9RU0NmdGowT1JScklJc0REcnhsYmNWem1TclR4MUJRWlIzRXdrY295Y2ZPYkxUZ3luWU4xU0wwX1RUV3JkUGpwUFBRY2d5dG5EdVE0Zw?oc=5",
+          "source": "Google News: Street Fighter (IGN Africa)",
+          "published": "2026-11-10T07:30:27.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "ending"
-          ]
+          "why": []
+        },
+        {
+          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN2U4YkFMaXZnUXVWNTRTdDg4ajloc1VBYVBwM1BRT0ZmTERXa2kySGV5TnNlYVRFV01PVkhCTnV5bkIyc09GTXE4b0xGV2xvemhmMDZKQzJXZlNXQTA0RTNydDZfczAxdzhkNER3NHAxbk00VHd0Y0JjQUdSM0R6WlVZNTJPd3psVUlNOGNEbWxpX011X2h2NVY4dHRRUjRxblVxNW5TZFZNYXZIeHUyQjVHNzJfZ0VQaW9SYndnZDR3RDNxVTFNcElOMUFNUk1TYWdEVTJGb2FnLXkwRjRR?oc=5",
+          "source": "Google News: Street Fighter (IGN Africa)",
+          "published": "2026-11-10T07:25:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
   ],
   "quiet": [
     "Melee",
+    "AoE2",
     "Brood War",
     "Trackmania",
     "Warcraft III",
