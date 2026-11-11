@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:55:15.134Z",
+  "generatedAt": "2026-11-11T12:25:18.801Z",
   "source": "start.gg",
   "completed": [
     {
@@ -189,53 +189,6 @@
           "name": "DMV | yorkie"
         }
       ]
-    },
-    {
-      "eventId": "1742514",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Ranking Battle Novembre 2026",
-      "event": "Third Strike #2",
-      "entrants": 16,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-08T12:00:00.000Z",
-      "endAt": "2026-11-08T18:00:00.000Z",
-      "url": "https://www.start.gg/tournament/ranking-battle-novembre-2026/event/third-strike-2",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Baraki"
-        },
-        {
-          "placement": 2,
-          "name": "Fryne"
-        },
-        {
-          "placement": 3,
-          "name": "R-Dash | Ptit_lee"
-        },
-        {
-          "placement": 4,
-          "name": "R-dash | Akva"
-        },
-        {
-          "placement": 5,
-          "name": "R-DASH | Gros G"
-        },
-        {
-          "placement": 5,
-          "name": "BGOTU | MaxLeSac"
-        },
-        {
-          "placement": 7,
-          "name": "RONIN | SPARDA"
-        },
-        {
-          "placement": 7,
-          "name": "Tempel | Vikage"
-        }
-      ]
     }
   ],
   "live": [],
@@ -246,7 +199,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "The Cashbox #48: Port Priority DX Edition",
       "event": "Melee Singles",
-      "entrants": 71,
+      "entrants": 72,
       "online": true,
       "major": false,
       "startAt": "2026-11-11T23:00:00.000Z",
