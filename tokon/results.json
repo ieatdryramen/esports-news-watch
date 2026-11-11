@@ -1,55 +1,7 @@
 {
-  "generatedAt": "2026-11-11T00:55:33.721Z",
+  "generatedAt": "2026-11-11T01:25:32.136Z",
   "source": "start.gg",
-  "completed": [
-    {
-      "eventId": "1746592",
-      "scene": "tokon",
-      "game": "Fighting Souls",
-      "tournament": "TNS Marvel Tokon #12 (PS5/PC)",
-      "event": "Marvel Tokon",
-      "entrants": 61,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-08T01:00:00.000Z",
-      "endAt": "2026-11-08T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-marvel-tokon-12-ps5-pc/event/marvel-tokon",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "ONi | Lucky"
-        },
-        {
-          "placement": 2,
-          "name": "Puns"
-        },
-        {
-          "placement": 3,
-          "name": "MFC | Chanklatomica22"
-        },
-        {
-          "placement": 4,
-          "name": "LYRA | | RllyShiesty"
-        },
-        {
-          "placement": 5,
-          "name": "ONi | Hyde"
-        },
-        {
-          "placement": 5,
-          "name": "TiempoGris"
-        },
-        {
-          "placement": 7,
-          "name": "CDA|SG|LunArte | Ramza_FSO"
-        },
-        {
-          "placement": 7,
-          "name": "DragonFGC"
-        }
-      ]
-    }
-  ],
+  "completed": [],
   "live": [],
   "upcoming": [
     {
