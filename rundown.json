@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T20:57:57.814Z",
+  "generatedAt": "2026-11-11T21:55:23.112Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Guardian 2 Lion with cheat",
@@ -22,6 +22,18 @@
           ]
         },
         {
+          "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVdIBmAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVQ?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-11T18:06:54.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "joins",
+            "official"
+          ]
+        },
+        {
           "title": "Team Zenith is disqualified from DreamLeague Division 2 Season 5",
           "url": "https://www.reddit.com/r/DotA2/comments/1xtohzd/team_zenith_is_disqualified_from_dreamleague/",
           "source": "r/DotA2",
@@ -30,6 +42,17 @@
           "level": null,
           "why": [
             "dreamleague"
+          ]
+        },
+        {
+          "title": "Flam3ss has been dropping map change hints potentially related to next update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xttwnh/flam3ss_has_been_dropping_map_change_hints/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T21:15:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -98,7 +121,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 15,
       "stories": [
         {
           "title": "G2 Beat MOUZ 2-1 at BLAST Rivals 2026 Season 2",
@@ -235,15 +258,13 @@
           ]
         },
         {
-          "title": "PGL Shifts $1 Million April 2027 CS2 Event to Mongolia",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1MzODloMWhROWluRlBJVW5WRTZDMFZEU1lra2txQVBsbXFvam02alExcEhyclJ2V1A3anlubW0wQ08xTHFxS1M1ck9pbjFhYl9EVlBNWTJGSzdkbm5WVEFGbzNWMldyY3pJc3BlMHJKc1BqR24zMGhFVXQ4SWtkcThqZXhVdHF0SXpNV3VzMTdGTlN6X1dickl3?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-10T21:29:32.000Z",
-          "score": 3,
+          "title": "Fluxo W7M Pauses Counter-Strike After Major Payout Changes and a Sponsor Exit",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcXVPdExLUG9RNHFjTFVuWkVwU1RTdjFpQTVTOHVhSC1XZ1BpVHlQQ2I4SE84dFFqX2xQd2pUdHFtYTdzZzdyTUVNOVgxSFV4ZWxoV0VwVXZ1dmdGNVdDdk02djE3MTFyeGIzRm9RcjhyR1Zoa0VN?oc=5",
+          "source": "Google News: CS2 (The Esports Advocate)",
+          "published": "2026-11-11T17:41:22.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "pgl"
-          ]
+          "why": []
         }
       ]
     },
@@ -371,54 +392,8 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "FaZe, ZooMaa to Host $100K MW4 Flank Invitational Nov. 11-12",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0dQVHVsZjY0ZDBWYzlWMTd0ZExZNTViYWJ4eFJsT2NtbkVWT0VXemg5bWxJSXhLdUxfV3FLNE1xRjBIQVRxeGp6N3VSWEJRckxHaExZSWZscEFKNVBDNkdIbXI1TVUxUGZfVmszM3FkYmowTTdCbWx1MWtxdDRnNlVkTEpUeHdTZU1ZQmF1dzBhaHBo?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-10T21:29:32.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Official mapset for MW4",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xttaci/official_mapset_for_mw4/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-11T20:51:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "official"
-          ]
-        },
-        {
-          "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
-          "source": "Google News: CoD (Insider Gaming)",
-          "published": "2026-11-10T21:49:13.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Toronto Announce a 25k tournament.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xts0a5/toronto_announce_a_25k_tournament/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-11T20:00:59.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Classic Tetris",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
@@ -432,22 +407,37 @@
           ]
         },
         {
-          "title": "Ice Cream Social and More Tetris Action – 2026 CTWC Experience – Day 1 – Part 5",
-          "url": "https://tetrisinterest.com/ice-cream-social-and-more-tetris-action-2026-ctwc-experience-day-1-part-5/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T21:54:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "blue scuti*"
-          ]
-        },
-        {
           "title": "Competing at the Classic Tetris World Championship For The First Time – 2026 CTWC Experience – Day 2 – Part 7",
           "url": "https://tetrisinterest.com/competing-at-the-classic-tetris-world-championship-for-the-first-time-2026-ctwc-experience-day-2-part-7/",
           "source": "Tetris Interest",
           "published": "2026-11-11T01:18:44.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Official mapset for MW4",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xttaci/official_mapset_for_mw4/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T20:51:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        },
+        {
+          "title": "Toronto Announce a 25k tournament.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xts0a5/toronto_announce_a_25k_tournament/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T20:00:59.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
