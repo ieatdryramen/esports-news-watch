@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-11T17:40:21.671Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Guardian 2 Lion with cheat",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xto3tl/guardian_2_lion_with_cheat/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 8.5,
+      "why": [
+        "banned*",
+        "cheating*",
+        "cheat",
+        "signs*",
+        "reddit only"
+      ],
+      "summary": "This is only meant as a guide to identify what are some of the telltale signs if someone is cheating, when you watch a replay from their player perspective. Earlier today I faced off against this lion in a ranked match. Dota Friend ID : 686442749 Rank : Crusader 2 I used a MMR double down for this match. If he gets banned will I get my MMR adjusted back for it? submitted by /u/timexboy1 to r/DotA2 [link] [comments]",
+      "published": "2026-11-11T17:36:16.000Z"
+    },
+    {
       "alertedAt": "2026-11-11T15:00:27.767Z",
       "level": "possible",
       "scene": "Dota",
