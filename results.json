@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:30:23.341Z",
+  "generatedAt": "2026-11-11T23:00:24.307Z",
   "source": "start.gg",
   "completed": [
     {
@@ -142,70 +142,10 @@
           "name": "39 | *Insert*"
         }
       ]
-    },
-    {
-      "eventId": "1746968",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "GrugStrike 56",
-      "event": "GrugStrike :3",
-      "entrants": 22,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-08T23:00:00.000Z",
-      "endAt": "2026-11-09T01:00:00.000Z",
-      "url": "https://www.start.gg/tournament/grugstrike-56/event/grugstrike-3",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "ABARI | Bash Mac"
-        },
-        {
-          "placement": 2,
-          "name": "Devilmaycats | MrPomegranX"
-        },
-        {
-          "placement": 3,
-          "name": "One who seeks Jesus"
-        },
-        {
-          "placement": 4,
-          "name": "TROLLGANG | Love"
-        },
-        {
-          "placement": 5,
-          "name": "mariahcareyfan1738"
-        },
-        {
-          "placement": 5,
-          "name": "4077 | bihpo"
-        },
-        {
-          "placement": 7,
-          "name": "EC3 | Critoris"
-        },
-        {
-          "placement": 7,
-          "name": "DMV | yorkie"
-        }
-      ]
     }
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1751306",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "The Cashbox #48: Port Priority DX Edition",
-      "event": "Melee Singles",
-      "entrants": 158,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-11T23:00:00.000Z",
-      "endAt": "2026-11-12T05:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-cashbox-48-port-priority-dx-edition/event/melee-singles"
-    },
     {
       "eventId": "1753116",
       "scene": "melee",

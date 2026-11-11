@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T22:00:37.716Z",
+  "generatedAt": "2026-11-11T23:00:33.690Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Guardian 2 Lion with cheat",
@@ -23,7 +23,7 @@
         },
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVdIBmAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1dZTzdsZ2VrdlVQdGdQYWVwTUpQVmZTYmNvVGlSbG8zdGViMmtKYkF4dG4tMWpuMzFxNktiNkVKRTNSQlVnaHhDZVFjd1ljc2VjNGNtdnkxMHRGT0szT0hWMUtoaWtGVmN0VkRCNTVwMDJXUm9iWXd6UTl0QV9IWVhkNWNQdVVoWm5lQXVGVm3SAZgBQVVfeXFMTkhwcnNVVER1cWZqSWhiWFRBT183U2Y5dnhjZ1FFX0JlX09QcS1CRzd4UDhnYnp6akhZM1pqcVZCZVBtbFg4UEhPclFzNUNCWkxjRl83MTlMbjVITFl3WWRXOVVZOUNkUkIzUlFuUjFDbmMyRHlhdG9qVHRuYUFWNkpmVXFzeHl5TEhhSzF6a3UtS2dZU29jSVU?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-11T18:06:54.000Z",
           "score": 5,
@@ -42,6 +42,17 @@
           "level": null,
           "why": [
             "dreamleague"
+          ]
+        },
+        {
+          "title": "Dota 2 Update for November 11, 2026",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtvhw6/dota_2_update_for_november_11_2026/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T22:19:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -270,7 +281,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -325,6 +336,19 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "[TEKKEN 8] Update Data Ver.3.03.01 Patch Notes",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xtv3s7/tekken_8_update_data_ver30301_patch_notes/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T22:03:56.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "update",
+            "official*",
+            "-patch notes"
+          ]
         }
       ]
     },
@@ -346,55 +370,20 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "Capcom Wins Studio Of The At The Golden Joysticks Awards .",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtr6sv/capcom_wins_studio_of_the_at_the_golden_joysticks/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-11T19:30:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Latest Platinum Titles update reveals Street Fighter 6 rapidly closing in on Street Fighter 5 as Capcom's best-selling fighting game",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtnjes/latest_platinum_titles_update_reveals_street/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-11T17:15:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Zangief actor Olivier Richters lives up to his promise and enters a Street Fighter 6 tournament... and he was kind of popping off",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEl6THJSeTFwQlBXbW9KY3NpWDFsWmVHa1c5czVrODFZR2JrNWtFMThxUDdyQTJ3VzIxb1J2VUVoZm5VWWhlbTBuLWx3UjBLRERvUlRpRW95R19zVVYwLWYzQUFkcmhmbXhhVFZQSjFKTkh6VFFNNzlIQjBLME9hcUM4VmEzbmw1Mld5X3gxTWFTdw?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-11T14:09:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Besides the expected Tifa reveal at TGA, what else are you hoping Capcom shows for SF6 at TGA?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtnno0/besides_the_expected_tifa_reveal_at_tga_what_else/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-11T17:19:47.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Ghosty j1v3 in a Map 5 Round 11 with 15secs left",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtv74l/ghosty_j1v3_in_a_map_5_round_11_with_15secs_left/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T22:07:37.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ghosty"
+          ]
+        },
         {
           "title": "Official mapset for MW4",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xttaci/official_mapset_for_mw4/",
@@ -411,6 +400,30 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xts0a5/toronto_announce_a_25k_tournament/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-11T20:00:59.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Zangief actor Olivier Richters lives up to his promise and enters a Street Fighter 6 tournament... and he was kind of popping off",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEl6THJSeTFwQlBXbW9KY3NpWDFsWmVHa1c5czVrODFZR2JrNWtFMThxUDdyQTJ3VzIxb1J2VUVoZm5VWWhlbTBuLWx3UjBLRERvUlRpRW95R19zVVYwLWYzQUFkcmhmbXhhVFZQSjFKTkh6VFFNNzlIQjBLME9hcUM4VmEzbmw1Mld5X3gxTWFTdw?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-11T14:09:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Besides the expected Tifa reveal at TGA, what else are you hoping Capcom shows for SF6 at TGA?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtnno0/besides_the_expected_tifa_reveal_at_tga_what_else/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-11T17:19:47.000Z",
           "score": 0,
           "level": null,
           "why": []
