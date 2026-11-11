@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:00:24.307Z",
+  "generatedAt": "2026-11-11T23:30:30.899Z",
   "source": "start.gg",
   "completed": [
     {
@@ -147,6 +147,19 @@
   "live": [],
   "upcoming": [
     {
+      "eventId": "1750077",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TNS Street Fighter 6 #172",
+      "event": "Street Fighter 6",
+      "entrants": 148,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-12T01:00:00.000Z",
+      "endAt": "2026-11-12T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-street-fighter-6-172/event/street-fighter-6"
+    },
+    {
       "eventId": "1753116",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -243,7 +256,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "BOPME XXX",
       "event": "Melee Singles",
-      "entrants": 68,
+      "entrants": 67,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T18:00:00.000Z",
