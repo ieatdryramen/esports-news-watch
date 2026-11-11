@@ -1,6 +1,28 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-11T04:05:17.751Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Legacy vs FURIA / BLAST Rivals 2026 Season 2 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt7z79/legacy_vs_furia_blast_rivals_2026_season_2_group/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7.5,
+      "why": [
+        "benched*",
+        "roster*",
+        "official*",
+        "furia",
+        "blast",
+        "reddit only"
+      ],
+      "summary": "Legacy 🇧🇷 0-2 🇧🇷 FURIA Inferno: 10-13 Mirage: 7-13 Nuke Predicted VRS Impact Team Rank Diff Total 🇧🇷 Legacy #13 → #13 -4 pts 1604 pts 🇧🇷 FURIA #3 → #3 +0 pts 1897 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information BLAST Rivals 2026 Season 2 | 🇭🇰 Chek Lap Kok ($1m LAN) | Liquipedia | HLTV Team Information 🇧🇷 Legacy | Liquipedia | HLTV | Faceit | Twitter | Instagram | TikTok | YouTube | Twitch Roster : 🇧🇷 latto | 🇧🇷 dumau | 🇧🇷 arT ♛ | 🇦🇷 try ⊕ | 🇧🇷 ksloks Coach : 🇧🇷 adr Subs/Benched : 🇧🇷 n1ssim 🇧🇷 FURIA | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | TikTok | YouTube | Twitch | Steam Roster : 🇧🇷 yuurih | 🇧🇷 KSCERATO | 🇧🇷 FalleN ♛ | 🇰🇿 molodoy ⊕ | 🇱🇻 YEKINDAR Coach : 🇧🇷 sidde Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes Legacy MAP FURIA ancient X X anubis inferno ✔ ✔ mirage cache X X dust2 nuke Full Match Stats Team K-D ADR Swing Rating 🇧🇷 Legacy 0.90 🇦🇷 try ⊕ 34-26 77.4 +2.08% 1.18 🇧🇷 dumau 31-28 73.4 +0.19% 1.12 🇧🇷 latto 27-27 70.2 -1.91% 0.98 🇧🇷 ksloks 21-27 53.5 -1.73% 0.80 🇧🇷 arT ♛ 9-36 43.1 -7.19% 0.40 🇧🇷 FURIA 1.17 🇧🇷 KSCERATO 35-20 87.8 +7.42% 1.67 🇧🇷 FalleN ♛ 30-28 68.9 +1.03% 1.17 🇰🇿 molodoy ⊕ 28-22 70.0 +1.83% 1.06 🇧🇷 yuurih 24-24 68.6 -0.02% 1.02 🇱🇻 YEKINDAR 26-31 60.5 -1.70% 0.94 HLTV Mat",
+      "published": "2026-11-11T04:04:46.000Z"
+    },
+    {
       "alertedAt": "2026-11-10T20:20:19.871Z",
       "level": "possible",
       "scene": "CS2",
