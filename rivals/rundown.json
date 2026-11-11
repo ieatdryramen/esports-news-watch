@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T06:20:27.371Z",
+  "generatedAt": "2026-11-11T07:20:24.876Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 20,
+      "storyCount": 22,
       "stories": [
         {
           "title": "All Marvel Rivals Season 11 buffs and nerfs explained, new patch notes revealed",
@@ -44,6 +44,20 @@
           ]
         },
         {
+          "title": "Marvel Rivals Season 11 Doomsday Guide: Nightcrawler, Hero Balance Changes, 18v18 Mode & Anniversary Rewards",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzU2YzMxRmVHOTdubXNKeFY4VGNsTnRXX1Ffd2VMLTJGcUlhTlhlMVNPdFJXQ1Z5anVnSEItOGpkUXBQd1dZV2FJRmN4TTFCUWZKM0kyZW1EbXItQUMwSW9tZEktYlhoSjF4RFJyUkNpZ09iVHJkUzhyTmdfVFdRSHp2aHF5NlZOalBvOWx3NzFRSjRId2R5a2ltNGE3WlFHY1hFVWFUckF3TzVlcXhyaGtYMk5Odk40Y3FOdmRDV1JaelotNDlXZ055WUVwaXZaU1E?oc=5",
+          "source": "Google News: Rivals patches (MMOEXP)",
+          "published": "2026-11-11T06:44:54.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "balance",
+            "balance changes",
+            "season",
+            "-guide"
+          ]
+        },
+        {
           "title": "Marvel Rivals Season 11 trailer: Nightcrawler joins Nov. 13",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1na1BObF9EaU9tNW1KMjY4Ql9pcnJ4SE9jYUo4dXV4a3RkYXRMajQ3SkhuRGxzbFRzT0pNcjBkU0JoSEx6bXZ6OEhEbGl0Y2otQUFPZnJBVm9MMk83Y1I4azBUNGl0M1dRcFZ1a0w2X0lrTzlQRlV0V2prZw?oc=5",
           "source": "Google News: Rivals patches (Rolling Out)",
@@ -52,6 +66,18 @@
           "level": "possible",
           "why": [
             "joins",
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Battle Pass Leak Reveals Classic Outfits for Daredevil, Iron Man, and More",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ybXZLVGF5R1N0NnBkSjdtQ2NvV0tVdzI2MlFFZEs2OVhZYjdYMVVlSXZYb1l2ZU9LS2RuVV82akxmaEVVWEhvQlJIVk85SkluZklpbjlOZlk1S09hbTUtUkVDRjYyVmd5Y2pIVtIBckFVX3lxTFBYVkNRbUd0a1hjVkxsLTdSQWxUa0NlZk1sQ1pKdktJOXA2YTJyM1pQN21lRGVsNVhRV1Z1cEl4NVJ2dTBZZDB5ZXdYN2VpNlBSblhqUmg0blJfZm1XZHFyRnJId0tJLTMyeUZnV1VNUTBmQQ?oc=5",
+          "source": "Google News: Rivals patches (Beebom)",
+          "published": "2026-11-11T06:12:59.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "leak",
             "season"
           ]
         },
@@ -115,29 +141,7 @@
           "title": "When does Nightcrawler come out in Marvel Rivals? Friday, November 13, with Season 11",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0plbzRjMmV1cS02WmhHNWR2Y1N2bC0zYWtTVktWRHNWa3RQWk0ySk5BVnR5Yk5jLVNRemhXRVhIUFUtWDJvZHpyajRFTzY3Mm9kbmtJMlZzMzR3UVNKdW1jRTJpYTZaNjN2RDU2a1JHcTQxdXZTYWhlaGdWeTdLZTAzWjRndlNRbGVEeDVoZm5QN1IwUll5dHVBTFVraUFLSU9LS2x2SVlTNGMwdEZCRzZYRlpIWFN0YWdIQ202UDlnZw?oc=5",
           "source": "Google News: Rivals patches (Nacionale)",
-          "published": "2026-11-11T00:56:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals' Season 11 Trailer Spotlights New X-Men Hero and Teases Another Playable Villain",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzBJRHBSaEhPb2luMkg0bmhoYjFJYjlRQzRtY0ZxOXBrMjU5S2NyZUhWYXZENEZPdk83dU1ZX0Fjb0dLUmlwT1ZGXzU2MC1PNnBLellDd2JVcC1LWnJFWmI2eVFvczNPc0xtMEtVdjR0OG96TUM5MDJUN083ell4UGcyR2NBRnlJRHFrQ2JjeG5LTTdZcENub0Y5ejIzVDZndy1GbDUtaDM4MThoQkxlZEhIYw?oc=5",
-          "source": "Google News: Rivals patches (ComicBook.com)",
-          "published": "2026-11-10T20:42:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 adds Strategist Nightcrawler and anniversary events with 2,500 free Units",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnE1MkR0NlAzLTctaHBZUmQyTjVHWWV2WmRHRWRmMDJoUzJXQU54cGl2M3lPT0wtbW5xcFROTFR6WFkwSU5rdGloUVlXVWx5b283dlI0RDM0Nk5keVRUcEIyWDNrUTl6YWlGdm9SNmkzVG1IcXVxemdWR3JnVkEyRlpkOFdyRld0QzYzY0xRUzh5M3doejdYdHkzcTRZcGlsaVdDWElfc1VpUkY1eXd5TTlvX3dPSTNWLWRfZTJlSjhRVHVIWTVHS1pmZHhVN2p1ejNMdy1qcy1fZDU4M0dBREhIRQ?oc=5",
-          "source": "Google News: Rivals patches (GosuGamers)",
-          "published": "2026-11-10T18:52:07.000Z",
+          "published": "2026-11-11T00:56:00.000Z",
           "score": 2,
           "level": null,
           "why": [
