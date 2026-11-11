@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T12:00:24.927Z",
+  "generatedAt": "2026-11-11T13:00:29.546Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 30,
+      "storyCount": 29,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -36,14 +36,26 @@
           ]
         },
         {
-          "title": "coolio to stand in for Krabeni at BLAST Rivals",
-          "url": "https://www.hltv.org/news/45963/coolio-to-stand-in-for-krabeni-at-blast-rivals",
+          "title": "G2 snap loss streak with win over MOUZ",
+          "url": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
           "source": "HLTV news",
-          "published": "2026-11-10T18:17:00.000Z",
-          "score": 6,
-          "level": "possible",
+          "published": "2026-11-11T12:54:00.000Z",
+          "score": 5,
+          "level": null,
           "why": [
-            "stand in",
+            "g2",
+            "mouz"
+          ]
+        },
+        {
+          "title": "Spirit Beat FUT 2-1 at BLAST Rivals 2026 Season 2",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZENMRFRQMkVnb2VtaHQ0REgzLURIdWR1ZUNxaUJMUTVpUzRlTFN1NjVTeTlTc0VNcU1IU2NFMklDU1NaYWZmbkdiaEEtOF92aUNCVktMaXpmcC1WWkRrSUxjcXlFZi1LQV9UX2xvOHhxZnVPaWxaamRvNTMxb2ItVmEwZ21UUHlVZFFlYWZtVWNXM25KUGRkdG5kNVdvdG43czZiN3VGS0Q0QmFEX3c0?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-11T09:41:45.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
             "blast"
           ]
         },
@@ -70,6 +82,18 @@
           "why": [
             "furia",
             "blast"
+          ]
+        },
+        {
+          "title": "G2 end their 6 game loss streak and also end MOUZ's 6 game winstreak!",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtgwx2/g2_end_their_6_game_loss_streak_and_also_end/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-11T12:49:43.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "g2",
+            "mouz"
           ]
         },
         {
@@ -110,18 +134,6 @@
           ]
         },
         {
-          "title": "m0nesy getting the donk treatment on Anubis",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt98x2/m0nesy_getting_the_donk_treatment_on_anubis/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-11T05:12:56.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "donk",
-            "m0nesy"
-          ]
-        },
-        {
           "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
           "url": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
           "source": "HLTV news",
@@ -143,17 +155,6 @@
           "level": null,
           "why": [
             "blast"
-          ]
-        },
-        {
-          "title": "Spray Transfer 3K Inferno",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtcwfk/spray_transfer_3k_inferno/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-11T08:52:06.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "transfer"
           ]
         }
       ]
@@ -238,7 +239,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Fix channeling spells/TP getting canceled when they shouldn't",
@@ -263,22 +264,20 @@
           ]
         },
         {
-          "title": "Update vs smurfs",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xt7ect/update_vs_smurfs/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T03:34:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Noticed Names the Best Heroes for Farming MMR as an Offlaner in Dota 2",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdnc3F3VWxOM0Z5cVZZUTI5bUlmbHc2ZThFVXdiMkhQZFMycl9xUU1Gcm5oVXpqUEtSTGVYWHh6Y1dUVTA1Mk92TzEwdkpndTUwQVNVQ3pNWUVmWXdVWVdVdFNrTmd3Z0NDYXFZQkZZMFJDVVR1UGRiOWl0dE94aGR4Yw?oc=5",
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-11-10T19:04:00.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "At the very least Venomancer buff should be you can't deny allies.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtg03a/at_the_very_least_venomancer_buff_should_be_you/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T12:02:18.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -290,17 +289,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-10T12:04:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -428,27 +416,13 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Warcraft III",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "2002 to 2026 prize winnings bar chart race",
-          "url": "https://www.reddit.com/r/WC3/comments/1xt7ld9/2002_to_2026_prize_winnings_bar_chart_race/",
-          "source": "r/WC3",
-          "published": "2026-11-11T03:44:44.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
     "Melee",
     "AoE2",
     "Trackmania",
+    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
