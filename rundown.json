@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T04:55:31.402Z",
+  "generatedAt": "2026-11-11T05:55:25.622Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 24,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -60,6 +60,18 @@
           ]
         },
         {
+          "title": "m0nesy getting the donk treatment on Anubis",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt98x2/m0nesy_getting_the_donk_treatment_on_anubis/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-11T05:12:56.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "donk",
+            "m0nesy"
+          ]
+        },
+        {
           "title": "PGL Cluj-Napoca 2027 Teams Confirmed: All 14 Invites",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZURjWXlvMk0yc0tROHZNM0NEbmdrbkY0bmctUlNHS2t5WHhGWVd4ZDJ1S2p5WTJsR0txV0t0M2FQU0JFSndlTm56a0NJbHVRa0RlVS0tVmttYjZzOTFiTnJGcnprY2gwMDY3aTJycl8wUlVhWUlVX3l1M1M1XzhZZkh4VFpDejNzNWxlQ2FrUi1yUQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -96,6 +108,18 @@
           ]
         },
         {
+          "title": "molodoy: \"We can see now the problems we have before the Major\"",
+          "url": "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
+          "source": "HLTV news",
+          "published": "2026-11-11T05:18:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia*",
+            "blast*"
+          ]
+        },
+        {
           "title": "Irregular gameplay VAC is so busted",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt1yem/irregular_gameplay_vac_is_so_busted/",
           "source": "r/GlobalOffensive",
@@ -126,28 +150,6 @@
           "level": null,
           "why": [
             "g2"
-          ]
-        },
-        {
-          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-10T17:31:18.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "Las Vegas Pays $2M to Host BLAST's 2028 Counter-Strike Major and a Summer Event",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2dpamtRQ19wT000cEh0RzM2RWpvQTQzZmVuS0xITk9aVFFtY1RXWHltNDVrb2VlYnRRYjNOWGdsT0htTEppMlJnc2VOM0p6bDVFUG5pdzB5MVRRVk5TeXJGWnRLaEZDaTFzcm56bVU5Ym1KVTJJbVJRZXJrWFNvZzFoUHk?oc=5",
-          "source": "Google News: CS2 (The Esports Advocate)",
-          "published": "2026-11-10T15:37:02.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
           ]
         }
       ]
@@ -259,8 +261,44 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Punk vs Blaz",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xt9b0i/punk_vs_blaz/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-11T05:16:03.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "punk",
+            "blaz"
+          ]
+        },
+        {
+          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0c1ZHdwR0tnWGlFV3hTWlhxQzN5ejZCUGEwRlpUVmVPSjYyNWlZekppM1Q2dDdKTTg5ZDZVNmhXd1MxcjQ4aExKSVlfVGQwSHR1Um1fWDNOa3RxV1hONVNjZ0hULXZMclIweG1EX0FrRnlzT0o0MDRZeGdUUWstcVRPeUNXZWM2dVZEVW9RU0NmdGowT1JScklJc0REcnhsYmNWem1TclR4MUJRWlIzRXdrY295Y2ZPYkxUZ3luWU4xU0wwX1RUV3JkUGpwUFBRY2d5dG5EdVE0Zw?oc=5",
+          "source": "Google News: Street Fighter (IGN Africa)",
+          "published": "2026-11-10T07:30:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN2U4YkFMaXZnUXVWNTRTdDg4ajloc1VBYVBwM1BRT0ZmTERXa2kySGV5TnNlYVRFV01PVkhCTnV5bkIyc09GTXE4b0xGV2xvemhmMDZKQzJXZlNXQTA0RTNydDZfczAxdzhkNER3NHAxbk00VHd0Y0JjQUdSM0R6WlVZNTJPd3psVUlNOGNEbWxpX011X2h2NVY4dHRRUjRxblVxNW5TZFZNYXZIeHUyQjVHNzJfZ0VQaW9SYndnZDR3RDNxVTFNcElOMUFNUk1TYWdEVTJGb2FnLXkwRjRR?oc=5",
+          "source": "Google News: Street Fighter (IGN Africa)",
+          "published": "2026-11-10T07:25:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 2,
       "stories": [
         {
           "title": "FaZe Clan Teases Mysterious Return for November 11 — Banks Says He Will Not Be Involved",
@@ -275,31 +313,11 @@
           ]
         },
         {
-          "title": "Aches drafted Shotzzy for the Flank invitational 😭",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xt0hv5/aches_drafted_shotzzy_for_the_flank_invitational/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-10T22:18:59.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "shotzzy"
-          ]
-        },
-        {
           "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
           "source": "Google News: CoD (Insider Gaming)",
           "published": "2026-11-10T21:49:13.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "OpTic vs G2 Scrim Results! 4-5 G2",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xt0ltg/optic_vs_g2_scrim_results_45_g2/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-10T22:23:40.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -447,30 +465,6 @@
           "source": "r/Tekken",
           "published": "2026-11-10T23:25:28.000Z",
           "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0c1ZHdwR0tnWGlFV3hTWlhxQzN5ejZCUGEwRlpUVmVPSjYyNWlZekppM1Q2dDdKTTg5ZDZVNmhXd1MxcjQ4aExKSVlfVGQwSHR1Um1fWDNOa3RxV1hONVNjZ0hULXZMclIweG1EX0FrRnlzT0o0MDRZeGdUUWstcVRPeUNXZWM2dVZEVW9RU0NmdGowT1JScklJc0REcnhsYmNWem1TclR4MUJRWlIzRXdrY295Y2ZPYkxUZ3luWU4xU0wwX1RUV3JkUGpwUFBRY2d5dG5EdVE0Zw?oc=5",
-          "source": "Google News: Street Fighter (IGN Africa)",
-          "published": "2026-11-10T07:30:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN2U4YkFMaXZnUXVWNTRTdDg4ajloc1VBYVBwM1BRT0ZmTERXa2kySGV5TnNlYVRFV01PVkhCTnV5bkIyc09GTXE4b0xGV2xvemhmMDZKQzJXZlNXQTA0RTNydDZfczAxdzhkNER3NHAxbk00VHd0Y0JjQUdSM0R6WlVZNTJPd3psVUlNOGNEbWxpX011X2h2NVY4dHRRUjRxblVxNW5TZFZNYXZIeHUyQjVHNzJfZ0VQaW9SYndnZDR3RDNxVTFNcElOMUFNUk1TYWdEVTJGb2FnLXkwRjRR?oc=5",
-          "source": "Google News: Street Fighter (IGN Africa)",
-          "published": "2026-11-10T07:25:27.000Z",
-          "score": 1,
           "level": null,
           "why": []
         }

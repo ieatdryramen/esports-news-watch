@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-11T05:25:17.035Z",
+  "generatedAt": "2026-11-11T05:55:16.718Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1749127",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TNS TEKKEN 8 #141",
+      "event": "Tekken 8",
+      "entrants": 177,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-11T01:00:00.000Z",
+      "endAt": "2026-11-11T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-tekken-8-141/event/tekken-8",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "pling"
+        },
+        {
+          "placement": 2,
+          "name": "RiR | | Zexnkai"
+        },
+        {
+          "placement": 3,
+          "name": "THG | TrizzyTheRapper"
+        },
+        {
+          "placement": 4,
+          "name": "Kanme | Shadow 20z"
+        },
+        {
+          "placement": 5,
+          "name": "STG | N3RO"
+        },
+        {
+          "placement": 5,
+          "name": "XZL | Zatch"
+        },
+        {
+          "placement": 7,
+          "name": "Fancy Sinigang"
+        },
+        {
+          "placement": 7,
+          "name": "DXCorp | PhiDX"
+        }
+      ]
+    },
     {
       "eventId": "1746057",
       "scene": "melee",
@@ -191,22 +238,21 @@
       ]
     }
   ],
-  "live": [
+  "live": [],
+  "upcoming": [
     {
-      "eventId": "1749127",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #141",
-      "event": "Tekken 8",
-      "entrants": 177,
+      "eventId": "1751306",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Cashbox #48: Port Priority DX Edition",
+      "event": "Melee Singles",
+      "entrants": 65,
       "online": true,
       "major": false,
-      "startAt": "2026-11-11T01:00:00.000Z",
-      "endAt": "2026-11-11T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-141/event/tekken-8"
-    }
-  ],
-  "upcoming": [
+      "startAt": "2026-11-11T23:00:00.000Z",
+      "endAt": "2026-11-12T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-cashbox-48-port-priority-dx-edition/event/melee-singles"
+    },
     {
       "eventId": "1753116",
       "scene": "melee",
