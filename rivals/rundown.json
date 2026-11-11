@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T12:10:21.058Z",
+  "generatedAt": "2026-11-11T13:05:23.240Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 23,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
@@ -29,18 +29,6 @@
           "why": [
             "grand finals",
             "grand finals"
-          ]
-        },
-        {
-          "title": "Next Marvel Rivals Characters: Who Is the New Hero Coming to Season 11?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ud0FuaFp2bzRyOE4zY0lmUGFJWlVmS01tTzUtZnVtMmRDODZna3B3X3BIWGQwVW9YeXpDVllXbUl5azQtdzdBUHJKRy1FTHVQQm96OEEzOWZuclhGdXfSAWNBVV95cUxOdzBmQmgwNVllOEVITG5CUGJnbnhvQ2wwSEFZLUQtX3EzcE8xOG9lVE5HbE1LWVJ0UWN2dDkwQVI0Y3VtNE9ZaUZUQVc1TFF1NzhwYVFGaVVCR1JMTTRmTFpPOVk?oc=5",
-          "source": "Google News: Rivals patches (Beebom)",
-          "published": "2026-11-10T12:17:52.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "new hero",
-            "season"
           ]
         },
         {
@@ -127,10 +115,21 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 Adds Nightcrawler, Dracula and 18v18 Mode",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHk4Q05YT1BLZldXUWhTaFJxVjZSc0UtRkNVM05qUTZVc3JFaFpuVWxYeS1COHN5anlJVTdWYUVEWWpSYWVIVE0wNkRTMlhvSXEtUWFCM3pUaVMyQ1VKQndHengtb2FkanFFWG9TX3FKeDhXSVQ2Zi1WMUdiQ3BVOXNsakR0aG9TMDNn?oc=5",
-          "source": "Google News: Rivals esports (MonsterVine)",
-          "published": "2026-11-11T05:47:55.000Z",
+          "title": "Marvel Rivals Season 11: Doomsday Launches This Week With Debut of Nightcrawler",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEYyVVE2OWdiWjlGeFBXb0NldnRUaGd2VS1fVV9QNE90a2QtWDM5bDVXaHgzVXhBWmRSR3hIOGtvUURsRzZ5cm42djVDenh0RE5qVkFvZVJxb0JZcDU2elZ5cFNvLVl1c3JoNTNEUWthQWItV3BBQTZuV1BXR0lvaWdPSG4zbllHZ1BOWUNaeU1aTTNTYzRzQ2RQRE83ZHB5SlBvTk93?oc=5",
+          "source": "Google News: Rivals esports (Xbox Achievements)",
+          "published": "2026-11-11T12:53:47.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Season 11 is coming to Marvel Rivals with Dracula and Nightcrawler as playable characters",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0MyQy1qSWFWcWxuNG5QdTlHU25jMXJ4c0twOXdQM01UdFpkbTI3YzV2VlZYemVfcEswTklEVFlSbU1RR0RweEVhZ1d4VHNMaEJhVTVnTktwNHIyVlFMOGhNRXlrU01PNHRud19oaEwzLTY0VW1fVzNveXlQb2N3Yzdlb2xRZEFVUDlXOUVHVFNvaVgtbEdwYW1hNlRiaFhVUTVwdkxJc1JDMjFiUHZPSzRFY2hIZXJ2VkVHTGFudjJQNWR6M29zTUZIdE91LVV2cDFrX2l3?oc=5",
+          "source": "Google News: Rivals patches (Instant Gaming News)",
+          "published": "2026-11-11T09:20:27.000Z",
           "score": 2,
           "level": null,
           "why": [
