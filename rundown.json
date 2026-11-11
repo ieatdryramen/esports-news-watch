@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T18:50:18.748Z",
+  "generatedAt": "2026-11-11T19:50:25.833Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Guardian 2 Lion with cheat",
@@ -46,31 +46,22 @@
           ]
         },
         {
-          "title": "After 6 days i finally won hehe.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtizbr/after_6_days_i_finally_won_hehe/",
+          "title": "What are your predictions about what will be added in the next Global Patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtqgl3/what_are_your_predictions_about_what_will_be/",
           "source": "r/DotA2",
-          "published": "2026-11-11T14:21:40.000Z",
-          "score": 2,
+          "published": "2026-11-11T19:03:06.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "won"
+            "won*"
           ]
         },
         {
-          "title": "Noticed Names the Best Heroes for Farming MMR as an Offlaner in Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdnc3F3VWxOM0Z5cVZZUTI5bUlmbHc2ZThFVXdiMkhQZFMycl9xUU1Gcm5oVXpqUEtSTGVYWHh6Y1dUVTA1Mk92TzEwdkpndTUwQVNVQ3pNWUVmWXdVWVdVdFNrTmd3Z0NDYXFZQkZZMFJDVVR1UGRiOWl0dE94aGR4Yw?oc=5",
+          "title": "Malr1ne Reflected on Dyrachyo’s Current Skill Level in Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSktfQWEtVTJoZWVhczdIN2JZN3RkZ0FtOFZXMFRiejV0Rk01VkJfbHd5b2c5YmtZWVRTZUJGLXN4ZTZ1U2JsSjN0YjJiT1ZtUG1pRjNuWFM5R3ZWZmxYRmpjOEJZQ2xVUkRDU2ZoVEh1LTI2Um1vd0lMQTdacWpXMDdkcTA?oc=5",
           "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-10T19:04:00.000Z",
+          "published": "2026-11-11T14:20:00.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Heroes who got left behind and need love with next patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtn1wm/heroes_who_got_left_behind_and_need_love_with/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T16:58:35.000Z",
-          "score": 0,
           "level": null,
           "why": []
         },
@@ -118,21 +109,8 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 18,
       "stories": [
-        {
-          "title": "G2 Beat MOUZ 2-1 at BLAST Rivals 2026 Season 2",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3NMSk5sYjdkT2dZbnBxMkZtN01SR3VLQXdoR0Vpc2dQMmJoR2diYy1MTERYYUVBSThIcGh1SW40OUF5WGNzRHJfT1lESllRbkV4bWlGLWYzT3lhWV9IQnd3MzNlV0xhX1RpREdOVDI0dFd3SjVRdmxjNExyaHRPU3o1X2RON2YzaWhvNHVMcEd1Z0Q1SFRkMEttbjdMNXBSbXFyVlNOWGNOT2h6WGJr?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-11T13:12:27.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "g2",
-            "mouz",
-            "blast"
-          ]
-        },
         {
           "title": "G2 snap loss streak with win over MOUZ",
           "url": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
@@ -155,6 +133,18 @@
           "why": [
             "blast",
             "cs2 major"
+          ]
+        },
+        {
+          "title": "Spirit Beat FUT 2-1 at BLAST Rivals 2026 Season 2",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZENMRFRQMkVnb2VtaHQ0REgzLURIdWR1ZUNxaUJMUTVpUzRlTFN1NjVTeTlTc0VNcU1IU2NFMklDU1NaYWZmbkdiaEEtOF92aUNCVktMaXpmcC1WWkRrSUxjcXlFZi1LQV9UX2xvOHhxZnVPaWxaamRvNTMxb2ItVmEwZ21UUHlVZFFlYWZtVWNXM25KUGRkdG5kNVdvdG43czZiN3VGS0Q0QmFEX3c0?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-11T09:41:45.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "blast"
           ]
         },
         {
@@ -377,8 +367,19 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Capcom Wins Studio Of The At The Golden Joysticks Awards .",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtr6sv/capcom_wins_studio_of_the_at_the_golden_joysticks/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-11T19:30:15.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
         {
           "title": "Latest Platinum Titles update reveals Street Fighter 6 rapidly closing in on Street Fighter 5 as Capcom's best-selling fighting game",
           "url": "https://www.reddit.com/r/StreetFighter/comments/1xtnjes/latest_platinum_titles_update_reveals_street/",
@@ -412,8 +413,19 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "FaZe, ZooMaa to Host $100K MW4 Flank Invitational Nov. 11-12",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0dQVHVsZjY0ZDBWYzlWMTd0ZExZNTViYWJ4eFJsT2NtbkVWT0VXemg5bWxJSXhLdUxfV3FLNE1xRjBIQVRxeGp6N3VSWEJRckxHaExZSWZscEFKNVBDNkdIbXI1TVUxUGZfVmszM3FkYmowTTdCbWx1MWtxdDRnNlVkTEpUeHdTZU1ZQmF1dzBhaHBo?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-10T21:29:32.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
         {
           "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
