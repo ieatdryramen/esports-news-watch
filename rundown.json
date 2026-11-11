@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T02:00:26.188Z",
+  "generatedAt": "2026-11-11T02:55:52.447Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -41,6 +41,18 @@
           "why": [
             "revealed",
             "pgl"
+          ]
+        },
+        {
+          "title": "MOUZ sweep IEM Beijing without dropping a map as xertioN takes MVP ahead of Singapore Major",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPakxSTHM1aUtwcUl2MGNZSVQxeGplVFJJVVB1Y1ZEVFZudUZDQmVXT1hkYzUyMUFwY2w0SXVVRzVWVUl2Z2VLemFBd05peW94YnZQanFYcjRqNEh4aFI2ZWVEelVDWlBDTFFOQzNQNWFtTGU5dFRHMDZKRkNKUjBEUk96VWlNRnV0eldUbmhXcUJaWWxwQTFmbXUyUlV6blNIS00ySnJMUzYyTklBeDUzV29YWV83dWU1OVliaFd0NUFwbmVJOHlN?oc=5",
+          "source": "Google News: CS2 (Esports.net)",
+          "published": "2026-11-10T06:20:22.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz",
+            "iem"
           ]
         },
         {
@@ -91,17 +103,6 @@
           ]
         },
         {
-          "title": "Las Vegas Pays $2M to Host BLAST's 2028 Counter-Strike Major and a Summer Event",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2dpamtRQ19wT000cEh0RzM2RWpvQTQzZmVuS0xITk9aVFFtY1RXWHltNDVrb2VlYnRRYjNOWGdsT0htTEppMlJnc2VOM0p6bDVFUG5pdzB5MVRRVk5TeXJGWnRLaEZDaTFzcm56bVU5Ym1KVTJJbVJRZXJrWFNvZzFoUHk?oc=5",
-          "source": "Google News: CS2 (The Esports Advocate)",
-          "published": "2026-11-10T20:37:02.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
           "title": "m0NESY: \"It's hard for now to say that we are title contenders\"",
           "url": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
           "source": "HLTV news",
@@ -135,14 +136,14 @@
           ]
         },
         {
-          "title": "PGL targets gambling-sponsored esports teams with rebranding push before Singapore Major 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHFxdTdUNWlTdnp3YVRRc3RrOExJcEZkWFZBSHFIbnNCd0ZmaFRySUlTbHpjZTNqSVpyOFpSVW1nQldHQi0xUFAxRVZ1NGJkWG0yRGU2TDVrdE1ZZVJDRk9hUF9MS014SXNnTTJkUGg2d0FIT01JWmxRYW9kTGx4SWR1SnFZQWcwbmFDVzhvTDhoSHNjNkFoNzEwalFMQ05XNzMwZXl0cnZFZjg?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-10T15:28:47.000Z",
+          "title": "Las Vegas Pays $2M to Host BLAST's 2028 Counter-Strike Major and a Summer Event",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2dpamtRQ19wT000cEh0RzM2RWpvQTQzZmVuS0xITk9aVFFtY1RXWHltNDVrb2VlYnRRYjNOWGdsT0htTEppMlJnc2VOM0p6bDVFUG5pdzB5MVRRVk5TeXJGWnRLaEZDaTFzcm56bVU5Ym1KVTJJbVJRZXJrWFNvZzFoUHk?oc=5",
+          "source": "Google News: CS2 (The Esports Advocate)",
+          "published": "2026-11-10T15:37:02.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "pgl"
+            "blast"
           ]
         }
       ]
@@ -208,7 +209,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Traxex is trully crafting up to be a good police chief of the village",
@@ -219,17 +220,6 @@
           "level": null,
           "why": [
             "police"
-          ]
-        },
-        {
-          "title": "New cheat abuse please fix",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsxeod/new_cheat_abuse_please_fix/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T20:15:37.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cheat"
           ]
         },
         {
@@ -275,15 +265,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xsyl31/please_patch_come_soon/",
           "source": "r/DotA2",
           "published": "2026-11-10T21:02:03.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Thoughts on upcoming patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsxhko/thoughts_on_upcoming_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T20:18:39.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -359,8 +340,25 @@
       ]
     },
     {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "When are champions viable?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xt6i0q/when_are_champions_viable/",
+          "source": "r/aoe2",
+          "published": "2026-11-11T02:50:20.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champions"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Tekken 8 x Nike - Official Collaboration Collection Trailer",
@@ -371,6 +369,17 @@
           "level": null,
           "why": [
             "official"
+          ]
+        },
+        {
+          "title": "\"TEKKEN 8 patch will drop on Nov 11 at 23:00 CET | Nov 11 at 14:00 PST. This patch intends to support Roger Jr. Early Access, correct unintended behavior, and update content on the TEKKEN SHOP.\"",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xt5vzn/tekken_8_patch_will_drop_on_nov_11_at_2300_cet/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T02:20:48.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -397,6 +406,15 @@
           "source": "Google News: Tekken (UnGeek)",
           "published": "2026-11-10T14:01:52.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "My wall combo has finally taken its final form",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xt5jtb/my_wall_combo_has_finally_taken_its_final_form/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T02:04:47.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -438,7 +456,6 @@
   ],
   "quiet": [
     "Melee",
-    "AoE2",
     "Brood War",
     "Trackmania",
     "Warcraft III",
