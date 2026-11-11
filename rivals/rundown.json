@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T16:55:47.765Z",
+  "generatedAt": "2026-11-11T17:55:29.883Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 22,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
@@ -30,18 +30,6 @@
             "revealed",
             "season",
             "roadmap"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFp1eFFranZLQkg3bE5teHFobW1Ydkc0aUJTUV84RjRwZF90a1dWTHc5M2F4VXNiREphR2xYcXZidGN5b2wzVG1hc2tHTHctcWhpUzc4TzB6Q1ZYUEVnbHdoTHp3SGtBV1JLa3BvNUpyTExsYVZwZXEzME1lMjg0cg?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-11T04:33:05.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "grand finals",
-            "grand finals"
           ]
         },
         {
@@ -102,6 +90,18 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "Marvel Rivals - Official Season 11 Battle Pass: The Incursion Trailer",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanRQWnk0cVBoZ0pIaVdDbGFzOW9VTjBSZnV4VmxuNUtwZ0h2cEFUWkczaWNwajZrcTZPd1EyTW9vNnhmd2k3N2N1aXE0c0FDbXEyYUtCVHR1NUw1VWtHc2pLODZWejBGOUYxVnJmNHRFR0xLWS1MSzNnS0FsbXpJQ2RydkxnamJGUEVQYzhkYmVTbWJwTUtCaQ?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-11T17:13:41.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "official",
+            "season"
           ]
         },
         {
