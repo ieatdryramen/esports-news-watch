@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T13:00:29.546Z",
+  "generatedAt": "2026-11-11T14:00:26.254Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 29,
+      "storyCount": 25,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -48,6 +48,18 @@
           ]
         },
         {
+          "title": "LVCVA Approves $2M BLAST Sponsorship for 2028 CS2 Major",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHpxbWtvOUNMVmlxR0RYRVVMc1prbzB3UC1BMW1YZGFkckl3YTJvVWFXcUhjd1hreVhqLVBmYXVqN2JrUjY3WE5lSVNrX2pqN0FEcDl6SDYyZDh3cldFa1c1ZWJESWc3MlVLN09BckhnSGFUc0k0R3E2R3BfblJSVmpjU1k5MHI3QnYzZVVOMnA5R0RBVGUzaDhPQQ?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-11T12:34:49.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "blast",
+            "cs2 major"
+          ]
+        },
+        {
           "title": "Spirit Beat FUT 2-1 at BLAST Rivals 2026 Season 2",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZENMRFRQMkVnb2VtaHQ0REgzLURIdWR1ZUNxaUJMUTVpUzRlTFN1NjVTeTlTc0VNcU1IU2NFMklDU1NaYWZmbkdiaEEtOF92aUNCVktMaXpmcC1WWkRrSUxjcXlFZi1LQV9UX2xvOHhxZnVPaWxaamRvNTMxb2ItVmEwZ21UUHlVZFFlYWZtVWNXM25KUGRkdG5kNVdvdG43czZiN3VGS0Q0QmFEX3c0?oc=5",
           "source": "Google News: CS2 (EGamersWorld)",
@@ -85,15 +97,16 @@
           ]
         },
         {
-          "title": "G2 end their 6 game loss streak and also end MOUZ's 6 game winstreak!",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtgwx2/g2_end_their_6_game_loss_streak_and_also_end/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-11T12:49:43.000Z",
+          "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\"",
+          "url": "https://www.hltv.org/news/45972/torzsi-we-dont-need-to-overanalyze-this-game-we-just-need-to-be-more-ready-for-tomorrow",
+          "source": "HLTV news",
+          "published": "2026-11-11T13:55:00.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "g2",
-            "mouz"
+            "g2*",
+            "mouz*",
+            "blast*"
           ]
         },
         {
@@ -122,18 +135,6 @@
           ]
         },
         {
-          "title": "Todays dust2 ends m0NESY's 23map 1+rating streak against Vitality,",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtc34j/todays_dust2_ends_m0nesys_23map_1rating_streak/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-11T08:00:46.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "m0nesy",
-            "vitality"
-          ]
-        },
-        {
           "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
           "url": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
           "source": "HLTV news",
@@ -147,14 +148,14 @@
           ]
         },
         {
-          "title": "Las Vegas Major 2028 gets key boost as LVCVA reportedly approves $2m BLAST sponsorship",
-          "url": "https://www.hltv.org/news/45970/las-vegas-major-2028-gets-key-boost-as-lvcva-reportedly-approves-2m-blast-sponsorship",
-          "source": "HLTV news",
-          "published": "2026-11-11T11:11:00.000Z",
+          "title": "PGL is heading to Ulaanbaatar: Mongolia to host top international Counter-Strike 2 tournament in 2027",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazc5YVY0LXVpOVY0cmZWT0lfRTJQNXhkR3ZzOWE3Qm9YRERmUzN4aVNSeDBiVXBHMDcwU0xHTmJMM1NETjF2dlBpNmtxOVlBdVY2MTloX0ZOaHBLOHdDZW5hT0dWZmRiYURjZE1MREgtV0t4U1R2ZWtELW5fN0I2OXZvdWVPZUdOTUszVDZNdjhDUEVtOWRIV0Z3YmFHUnRTYjM1UVFaSjFCSWtudExXMXg4alRwNGVkQldFWA?oc=5",
+          "source": "Google News: CS2 (Focus Gaming News)",
+          "published": "2026-11-11T13:50:05.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "blast"
+            "pgl"
           ]
         }
       ]
@@ -239,7 +240,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Fix channeling spells/TP getting canceled when they shouldn't",
@@ -261,6 +262,18 @@
           "level": null,
           "why": [
             "comeback"
+          ]
+        },
+        {
+          "title": "What do you guys want to see in a new patch? (changes/nerfs/buffs etc...)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xthpdi/what_do_you_guys_want_to_see_in_a_new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T13:26:45.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "the last*",
+            "comeback*"
           ]
         },
         {
@@ -294,7 +307,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Punk vs Blaz",
@@ -306,17 +319,6 @@
           "why": [
             "punk",
             "blaz"
-          ]
-        },
-        {
-          "title": "Won this at auction for £30. Pretty happy with that",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xte98o/won_this_at_auction_for_30_pretty_happy_with_that/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-11T10:20:01.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
           ]
         },
         {
@@ -377,26 +379,20 @@
       ]
     },
     {
-      "scene": "Brood War",
-      "storyCount": 1,
+      "scene": "CoD",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "Gemini hits me with a hard dose of reality...although if I move to Korea, wear a tank top while eating nothing but ramen & frequenting PC bangs & learn to proxy-gate my way through the Season Open, I have a 0.00001% chance at getting into ASL.",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xtepob/gemini_hits_me_with_a_hard_dose_of/",
-          "source": "r/broodwar",
-          "published": "2026-11-11T10:47:46.000Z",
+          "title": "Gentle Mates Vs. Cloud9 Scrims , Map Count: Gentle Mates 4 - 6 Cloud9",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xthous/gentle_mates_vs_cloud9_scrims_map_count_gentle/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T13:26:05.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "asl"
+            "cloud9"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
+        },
         {
           "title": "CDL 2027’s Expectations Just Shifted Massively After The Monster Invitational",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5fYU83ZGgzZG9lSWNONEh3VUJ6aEVzR3Nyal9ncWFDaExSMmh5ZVgxQmJIZkhtSjhxaFh6M1htWnFwbDhvbHd4V0pQenI3RXY2aDVRUXRBRnZMdDlyNE1HczJvN0tNT1FsUWoyMm1OclAtdW4wbHV5NDFvWHZ3R2o5M2dxdWhiQXlOVEloNXF5dw?oc=5",
@@ -414,6 +410,23 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Gemini hits me with a hard dose of reality...although if I move to Korea, wear a tank top while eating nothing but ramen & frequenting PC bangs & learn to proxy-gate my way through the Season Open, I have a 0.00001% chance at getting into ASL.",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xtepob/gemini_hits_me_with_a_hard_dose_of/",
+          "source": "r/broodwar",
+          "published": "2026-11-11T10:47:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "asl"
+          ]
         }
       ]
     }
