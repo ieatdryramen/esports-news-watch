@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T11:35:17.225Z",
+  "generatedAt": "2026-11-11T12:00:24.927Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 29,
+      "storyCount": 30,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -238,7 +238,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Fix channeling spells/TP getting canceled when they shouldn't",
@@ -278,15 +278,6 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdnc3F3VWxOM0Z5cVZZUTI5bUlmbHc2ZThFVXdiMkhQZFMycl9xUU1Gcm5oVXpqUEtSTGVYWHh6Y1dUVTA1Mk92TzEwdkpndTUwQVNVQ3pNWUVmWXdVWVdVdFNrTmd3Z0NDYXFZQkZZMFJDVVR1UGRiOWl0dE94aGR4Yw?oc=5",
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-11-10T19:04:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "All Organizations That Left Dota 2 In 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0stUnp5aGoxMVpjS0dnRjJsa09oU2pJTG5ZS3BvLWFWTURNcE00Nzc3RllEVmxTWWt1OEZnQXI1Skc2R0oxQmNuemZGRFg2SUJxWkNBX0Fvc2laTk9GaEF2aTNMU0RmSDY0cVdfY2ZuelNCaVlBeHhLcFNyOGdYVmI3SUQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-10T11:52:08.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -398,23 +389,6 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "When are champions viable?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xt6i0q/when_are_champions_viable/",
-          "source": "r/aoe2",
-          "published": "2026-11-11T02:50:20.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -473,6 +447,7 @@
   ],
   "quiet": [
     "Melee",
+    "AoE2",
     "Trackmania",
     "Legacy FGC",
     "Quake",
