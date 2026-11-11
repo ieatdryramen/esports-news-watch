@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:50:29.900Z",
+  "generatedAt": "2026-11-11T20:58:02.850Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -14,7 +14,7 @@
       "ok": true,
       "skipped": false,
       "items": 50,
-      "newest": "2026-11-11T19:15:46.000Z",
+      "newest": "2026-11-11T20:51:33.000Z",
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-11T19:47:00.000Z",
+      "newest": "2026-11-11T20:49:17.000Z",
       "error": null
     },
     {
@@ -54,30 +54,30 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-12T02:30:00.000Z",
+      "newest": "2026-11-12T04:06:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals esports",
       "ok": true,
       "skipped": false,
-      "items": 9,
-      "newest": "2026-11-11T16:12:09.000Z",
+      "items": 10,
+      "newest": "2026-11-11T18:53:31.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals patches",
       "ok": true,
       "skipped": false,
-      "items": 31,
-      "newest": "2026-11-11T19:26:19.000Z",
+      "items": 29,
+      "newest": "2026-11-11T20:34:51.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals rosters",
       "ok": true,
       "skipped": false,
-      "items": 8,
+      "items": 7,
       "newest": "2026-11-11T16:59:06.000Z",
       "error": null
     },
@@ -85,17 +85,17 @@
       "name": "Google News: Sheep/Dot/Liquipedia",
       "ok": true,
       "skipped": false,
-      "items": 91,
-      "newest": "2026-11-11T19:36:44.000Z",
+      "items": 81,
+      "newest": "2026-11-11T20:33:34.000Z",
       "error": null
     },
     {
       "name": "Reddit (3 subs, public feed)",
-      "ok": false,
-      "skipped": true,
-      "items": 0,
-      "newest": null,
-      "error": "Reddit blocks this server without app keys"
+      "ok": true,
+      "skipped": false,
+      "items": 100,
+      "newest": "2026-11-11T20:54:59.000Z",
+      "error": null
     }
   ]
 }

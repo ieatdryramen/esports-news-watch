@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T19:50:30.213Z",
+  "generatedAt": "2026-11-11T20:58:03.069Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 17,
+      "storyCount": 43,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
@@ -45,6 +45,55 @@
           ]
         },
         {
+          "title": "Why isn’t Dr. Stephen Strange banned more often?",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xtspln/why_isnt_dr_stephen_strange_banned_more_often/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-11T20:28:23.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "banned",
+            "ban*"
+          ]
+        },
+        {
+          "title": "Looking at season 11 patch notes . Who will be better tank to main in it Captain America or Thor ?",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xtqgnq/looking_at_season_11_patch_notes_who_will_be/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-11T19:03:11.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "wins*",
+            "patch notes",
+            "season"
+          ]
+        },
+        {
+          "title": "Blade’s VA reacts to White Fox’s balance changes (he actually plays the game)",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xtoafs/blades_va_reacts_to_white_foxs_balance_changes_he/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-11T17:42:24.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "balance",
+            "balance changes"
+          ]
+        },
+        {
+          "title": "Nightcrawler Will Appear in Marvel Rivals Season 11, While Dracula Replaces the Expected Doctor Doom",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUkxZThhZDdGRGpSRTNpanV1NTAza1hjc1RYVDdmMW53aDhkSDJ5OTRxLVBpZHpBaVBJR0tkTG5VdUUwbHIyZXdtRVJWX1ExeHlzWXN4eVBPbU9ZVWZzdUt2WXJ4MlFIUjNtOUdBaHlreXZLSnlRTFFIQTF6NTA3T3VjdEtSNlBOa3lLTjhKYTJQNWF5bG4zZF80STBrVmM3RWxLN3ZoQlItMl9zRHNQZXloRnVWaDh0NnB5TTlFQ21xS1ZMM2VGMXdmS0lyMnFuOHRB0gHTAUFVX3lxTE1xSTFlOGFkN0ZEalJFM2lqdXU1MDNrWGNzVFhUN2YxbndoOGRIMnk5NHEtUGlkekFpUElHS2RMblV1RTBscjJld21FUlZfUTF4eXNZc3h5UE9tT1lVZnN1S3ZZcngyUUhSM205R0FoeWt5dktKeVFMUUhBMXo1MDdPdWN0S1I2UE5reUtOOEphMlA1YXlsbjNkXzRJMGtWYzdFbEs3dmhCUi0yX3NEc1BleWhGdVZoOHQ2cHlNOUVDbXFLVkwzZUYxd2ZLSXIycW44dEE?oc=5",
+          "source": "Google News: Rivals patches (Players)",
+          "published": "2026-11-11T15:07:50.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "replaces",
+            "season"
+          ]
+        },
+        {
           "title": "Marvel Rivals Season 11 Doomsday Guide: Nightcrawler, Hero Balance Changes, 18v18 Mode & Anniversary Rewards",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzU2YzMxRmVHOTdubXNKeFY4VGNsTnRXX1Ffd2VMLTJGcUlhTlhlMVNPdFJXQ1Z5anVnSEItOGpkUXBQd1dZV2FJRmN4TTFCUWZKM0kyZW1EbXItQUMwSW9tZEktYlhoSjF4RFJyUkNpZ09iVHJkUzhyTmdfVFdRSHp2aHF5NlZOalBvOWx3NzFRSjRId2R5a2ltNGE3WlFHY1hFVWFUckF3TzVlcXhyaGtYMk5Odk40Y3FOdmRDV1JaelotNDlXZ055WUVwaXZaU1E?oc=5",
           "source": "Google News: Rivals patches (MMOEXP)",
@@ -56,6 +105,18 @@
             "balance changes",
             "season",
             "-guide"
+          ]
+        },
+        {
+          "title": "You do remember why strategist got buffed in the first place, right?",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xton6j/you_do_remember_why_strategist_got_buffed_in_the/",
+          "source": "r/marvelrivals",
+          "published": "2026-11-11T17:55:36.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "refused*",
+            "buffed"
           ]
         },
         {
@@ -89,62 +150,6 @@
           "level": null,
           "why": [
             "leak",
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals - Official Season 11 Battle Pass: The Incursion Trailer",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDRZS3g0alpUM0RMWlNnVHBMR2s1Y0VtaTVHbnRZSDVUQUkzcF9tZEoxTTZxYkxpcV9QYXVrSVJaczdNZjRNZURpbmNZcEJfRlIxYzc2aTFSR3Q2SzZlQkhTM3NnUVdFeVFUU0NKYXE1QXcwcVBKN2JvRXdvRTVWYkdKUWd1Z000SVZfSmZObldGWEZRclFodlNKeGJpUmlMaldMQk8yVm9QUQ?oc=5",
-          "source": "Google News: Rivals patches (IGN India)",
-          "published": "2026-11-11T17:13:42.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "official",
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Expands Its X-Men Roster on November 13",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1YyaDJ6OUc3cE9ldkF2cjQ4NzRURzJDOHZRTjk0NDJRQnNZMXhyd1ZjZXE3NGtsazE2ZUdXbUNJWE5pdDdmNUdkNHpMVGtHNmFxTTlaMXpUa1diUkZRM0p1aUpaVnhyUV9Sbm9GdWM5MHB0RWFLRHZ6OEFkbElsMHlwWktSV0JOUlpRWUdZVQ?oc=5",
-          "source": "Google News: Rivals patches (VICE)",
-          "published": "2026-11-11T13:22:26.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "Marvel Rivals: Nightcrawler Bamfs Into Season 11: Doomsday",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0M2c1BSc2JDang4OGtUN19wM3BIMlRCMUlwS0hoWVVwcGRXbXBqNFZJX19NaFRsUjJNY3cxWFJtb1FCOXRIMFJFbWZvajFMZ05nYlM0cl9iT3hoRTh3anFxTm5PXzFzSGRhdG9QeTFubVA4U0Y2bHdCVmZMeG90UjJ0T1NfSjJFb0tvRnBLUFhBQQ?oc=5",
-          "source": "Google News: Rivals esports (Bleeding Cool News)",
-          "published": "2026-11-11T16:12:09.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Season 11 is coming to Marvel Rivals with Dracula and Nightcrawler as playable characters",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0MyQy1qSWFWcWxuNG5QdTlHU25jMXJ4c0twOXdQM01UdFpkbTI3YzV2VlZYemVfcEswTklEVFlSbU1RR0RweEVhZ1d4VHNMaEJhVTVnTktwNHIyVlFMOGhNRXlrU01PNHRud19oaEwzLTY0VW1fVzNveXlQb2N3Yzdlb2xRZEFVUDlXOUVHVFNvaVgtbEdwYW1hNlRiaFhVUTVwdkxJc1JDMjFiUHZPSzRFY2hIZXJ2VkVHTGFudjJQNWR6M29zTUZIdE91LVV2cDFrX2l3?oc=5",
-          "source": "Google News: Rivals patches (Instant Gaming News)",
-          "published": "2026-11-11T09:20:27.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals confirms Nightcrawler for Season 11: Here’s a first look",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC1fejg5cm1raXFpTnNFTk9HRUU0aFE1OWNuNDFiQ2tncmZSNEs5aWo4REFjeFhJb3RwSG8tem5qOWFvSXJWZDNlLVFSN0N2aVlBeXI2UUF4MWlnLTJqLTg5NGVlbVJNcE1vQ2wwNlhTX2cxSVVxLVBjYlpCdkJtOFFrR04tNUYxa3pOenB2MEl5dw?oc=5",
-          "source": "Google News: Rivals esports (Esports.gg)",
-          "published": "2026-11-11T03:02:48.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
             "season"
           ]
         }
