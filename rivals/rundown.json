@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T15:55:35.391Z",
+  "generatedAt": "2026-11-11T16:55:47.765Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 23,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
@@ -17,6 +17,31 @@
             "balance",
             "balance changes",
             "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Roadmap Revealed",
+          "url": "https://insider-gaming.com/marvel-rivals-season-11-roadmap-revealed/",
+          "source": "Insider Gaming",
+          "published": "2026-11-11T16:03:56.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "revealed",
+            "season",
+            "roadmap"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFp1eFFranZLQkg3bE5teHFobW1Ydkc0aUJTUV84RjRwZF90a1dWTHc5M2F4VXNiREphR2xYcXZidGN5b2wzVG1hc2tHTHctcWhpUzc4TzB6Q1ZYUEVnbHdoTHp3SGtBV1JLa3BvNUpyTExsYVZwZXEzME1lMjg0cg?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-11T04:33:05.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "grand finals",
+            "grand finals"
           ]
         },
         {
@@ -102,22 +127,10 @@
           ]
         },
         {
-          "title": "Marvel Rivals - Official Doomsday Season 11 Trailer",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQi0zU1ZCRURLa01DZ1RMUTdqSGQtUi1NQTBZQzA0T1BLbjRvZThvQVJ6U1dIWFdQZWdVQ1JzbWlyMmh4YTNuYkphNnpmd25fZTREZHlpNkRYZF9WNUtjMlYwTW9wTnBPNVVTclFQWmV1VU0yeXN5VVZ6eXBqUE9rdF9scHZab0swdF9hZ0hYbUtjdk0?oc=5",
-          "source": "Google News: Rivals patches (IGN Africa)",
-          "published": "2026-11-10T16:07:55.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "official",
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11: Doomsday Launches This Week With Debut of Nightcrawler",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEYyVVE2OWdiWjlGeFBXb0NldnRUaGd2VS1fVV9QNE90a2QtWDM5bDVXaHgzVXhBWmRSR3hIOGtvUURsRzZ5cm42djVDenh0RE5qVkFvZVJxb0JZcDU2elZ5cFNvLVl1c3JoNTNEUWthQWItV3BBQTZuV1BXR0lvaWdPSG4zbllHZ1BOWUNaeU1aTTNTYzRzQ2RQRE83ZHB5SlBvTk93?oc=5",
-          "source": "Google News: Rivals esports (Xbox Achievements)",
-          "published": "2026-11-11T12:53:47.000Z",
+          "title": "Marvel Rivals: Nightcrawler Bamfs Into Season 11: Doomsday",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0M2c1BSc2JDang4OGtUN19wM3BIMlRCMUlwS0hoWVVwcGRXbXBqNFZJX19NaFRsUjJNY3cxWFJtb1FCOXRIMFJFbWZvajFMZ05nYlM0cl9iT3hoRTh3anFxTm5PXzFzSGRhdG9QeTFubVA4U0Y2bHdCVmZMeG90UjJ0T1NfSjJFb0tvRnBLUFhBQQ?oc=5",
+          "source": "Google News: Rivals esports (Bleeding Cool News)",
+          "published": "2026-11-11T16:12:09.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -129,17 +142,6 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0MyQy1qSWFWcWxuNG5QdTlHU25jMXJ4c0twOXdQM01UdFpkbTI3YzV2VlZYemVfcEswTklEVFlSbU1RR0RweEVhZ1d4VHNMaEJhVTVnTktwNHIyVlFMOGhNRXlrU01PNHRud19oaEwzLTY0VW1fVzNveXlQb2N3Yzdlb2xRZEFVUDlXOUVHVFNvaVgtbEdwYW1hNlRiaFhVUTVwdkxJc1JDMjFiUHZPSzRFY2hIZXJ2VkVHTGFudjJQNWR6M29zTUZIdE91LVV2cDFrX2l3?oc=5",
           "source": "Google News: Rivals patches (Instant Gaming News)",
           "published": "2026-11-11T09:20:27.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals confirms Nightcrawler for Season 11: Here’s a first look",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC1fejg5cm1raXFpTnNFTk9HRUU0aFE1OWNuNDFiQ2tncmZSNEs5aWo4REFjeFhJb3RwSG8tem5qOWFvSXJWZDNlLVFSN0N2aVlBeXI2UUF4MWlnLTJqLTg5NGVlbVJNcE1vQ2wwNlhTX2cxSVVxLVBjYlpCdkJtOFFrR04tNUYxa3pOenB2MEl5dw?oc=5",
-          "source": "Google News: Rivals esports (Esports.gg)",
-          "published": "2026-11-11T03:02:48.000Z",
           "score": 2,
           "level": null,
           "why": [
