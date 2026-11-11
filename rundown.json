@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T03:55:29.069Z",
+  "generatedAt": "2026-11-11T04:55:31.402Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -20,6 +20,22 @@
           ]
         },
         {
+          "title": "Legacy vs FURIA / BLAST Rivals 2026 Season 2 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xt7z79/legacy_vs_furia_blast_rivals_2026_season_2_group/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-11T04:04:46.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "furia",
+            "blast",
+            "reddit only"
+          ]
+        },
+        {
           "title": "coolio to stand in for Krabeni at BLAST Rivals",
           "url": "https://www.hltv.org/news/45963/coolio-to-stand-in-for-krabeni-at-blast-rivals",
           "source": "HLTV news",
@@ -32,27 +48,15 @@
           ]
         },
         {
-          "title": "PGL Cluj-Napoca invites revealed",
-          "url": "https://www.hltv.org/news/45958/pgl-cluj-napoca-invites-revealed",
+          "title": "FURIA beat Legacy in BLAST Rivals opener",
+          "url": "https://www.hltv.org/news/45964/furia-beat-legacy-in-blast-rivals-opener",
           "source": "HLTV news",
-          "published": "2026-11-10T10:00:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "revealed",
-            "pgl"
-          ]
-        },
-        {
-          "title": "MOUZ sweep IEM Beijing without dropping a map as xertioN takes MVP ahead of Singapore Major",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPakxSTHM1aUtwcUl2MGNZSVQxeGplVFJJVVB1Y1ZEVFZudUZDQmVXT1hkYzUyMUFwY2w0SXVVRzVWVUl2Z2VLemFBd05peW94YnZQanFYcjRqNEh4aFI2ZWVEelVDWlBDTFFOQzNQNWFtTGU5dFRHMDZKRkNKUjBEUk96VWlNRnV0eldUbmhXcUJaWWxwQTFmbXUyUlV6blNIS00ySnJMUzYyTklBeDUzV29YWV83dWU1OVliaFd0NUFwbmVJOHlN?oc=5",
-          "source": "Google News: CS2 (Esports.net)",
-          "published": "2026-11-10T06:20:22.000Z",
+          "published": "2026-11-11T04:16:00.000Z",
           "score": 5,
           "level": null,
           "why": [
-            "mouz",
-            "iem"
+            "furia",
+            "blast"
           ]
         },
         {
@@ -149,6 +153,112 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 10,
+      "stories": [
+        {
+          "title": "Fix channeling spells/TP getting canceled when they shouldn't",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xt8mw1/fix_channeling_spellstp_getting_canceled_when/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T04:40:01.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "canceled"
+          ]
+        },
+        {
+          "title": "Traxex is trully crafting up to be a good police chief of the village",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xt4i95/traxex_is_trully_crafting_up_to_be_a_good_police/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T01:14:39.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "police"
+          ]
+        },
+        {
+          "title": "Update vs smurfs",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xt7ect/update_vs_smurfs/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T03:34:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Sir, third update has hit the staging server",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xt22zx/sir_third_update_has_hit_the_staging_server/",
+          "source": "r/DotA2",
+          "published": "2026-11-10T23:26:58.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Noticed Names the Best Heroes for Farming MMR as an Offlaner in Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdnc3F3VWxOM0Z5cVZZUTI5bUlmbHc2ZThFVXdiMkhQZFMycl9xUU1Gcm5oVXpqUEtSTGVYWHh6Y1dUVTA1Mk92TzEwdkpndTUwQVNVQ3pNWUVmWXdVWVdVdFNrTmd3Z0NDYXFZQkZZMFJDVVR1UGRiOWl0dE94aGR4Yw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-10T19:04:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "All Organizations That Left Dota 2 In 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0stUnp5aGoxMVpjS0dnRjJsa09oU2pJTG5ZS3BvLWFWTURNcE00Nzc3RllEVmxTWWt1OEZnQXI1Skc2R0oxQmNuemZGRFg2SUJxWkNBX0Fvc2laTk9GaEF2aTNMU0RmSDY0cVdfY2ZuelNCaVlBeHhLcFNyOGdYVmI3SUQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-10T11:52:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "NS Reflects on the Decline of the Dota 2 Pro Scene",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeF9FRlFVYmlFamxKTkl0YlhOQ1B4eElkN1NyZlZmX0w2Q3Mxd2JTYTZ5ZERDa01BWnlTZ3NidFRxaVJYV0xzeS1ON1hxZndRUmQ3VmlWZUsxeGhkQzFUYlFOYktkc2s0WW52dA?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-10T10:03:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Seven Dota 2 Teams Gone in Six Months: Why Organisations Are Walking Away From the Scene",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhNOTg5VXV6VXBab2d6X2tIUC1NT1c4aXd6RzJsZE9FS1IxQUVnTWlpX2RDZEFFTHZicmZERDhMYndWeU5XSTlTMmYxWWIxLTZaN2paVGI2NlpQQ1pPTHVndXhsSzFxY3RGSTJkeWhnVnVRaHhheGR6LWNmY0NQV1U1UjdZVVN2MzduenFMNA?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-10T06:57:32.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "What features you miss the most for your heroes in the old patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xt8iup/what_features_you_miss_the_most_for_your_heroes/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T04:33:43.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-10T12:04:00.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 4,
       "stories": [
@@ -192,83 +302,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "Traxex is trully crafting up to be a good police chief of the village",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xt4i95/traxex_is_trully_crafting_up_to_be_a_good_police/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T01:14:39.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "police"
-          ]
-        },
-        {
-          "title": "Update vs smurfs",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xt7ect/update_vs_smurfs/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T03:34:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Sir, third update has hit the staging server",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xt22zx/sir_third_update_has_hit_the_staging_server/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T23:26:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "All Organizations That Left Dota 2 In 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0stUnp5aGoxMVpjS0dnRjJsa09oU2pJTG5ZS3BvLWFWTURNcE00Nzc3RllEVmxTWWt1OEZnQXI1Skc2R0oxQmNuemZGRFg2SUJxWkNBX0Fvc2laTk9GaEF2aTNMU0RmSDY0cVdfY2ZuelNCaVlBeHhLcFNyOGdYVmI3SUQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-10T11:52:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "NS Reflects on the Decline of the Dota 2 Pro Scene",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeF9FRlFVYmlFamxKTkl0YlhOQ1B4eElkN1NyZlZmX0w2Q3Mxd2JTYTZ5ZERDa01BWnlTZ3NidFRxaVJYV0xzeS1ON1hxZndRUmQ3VmlWZUsxeGhkQzFUYlFOYktkc2s0WW52dA?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-10T10:03:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Seven Dota 2 Teams Gone in Six Months: Why Organisations Are Walking Away From the Scene",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhNOTg5VXV6VXBab2d6X2tIUC1NT1c4aXd6RzJsZE9FS1IxQUVnTWlpX2RDZEFFTHZicmZERDhMYndWeU5XSTlTMmYxWWIxLTZaN2paVGI2NlpQQ1pPTHVndXhsSzFxY3RGSTJkeWhnVnVRaHhheGR6LWNmY0NQV1U1UjdZVVN2MzduenFMNA?oc=5",
-          "source": "Google News: Dota (TalkEsport)",
-          "published": "2026-11-10T06:57:32.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - MW, November 10, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RbFEtQnp6a1IwOEJXZTB3YUNrUFM0UGFqOHhRckxZQ25MSW5hT3VWbW1oRjgzbWJqYk1TOTJKaFhmWGthOExJQ01GOU9RbHNMZ2V1a2d5U015ZTlBcmpZcnNYMXhMdFdRR2VHXy1iTVRwVzhZSWFNcVktOEd6OXYxNndzeEZMd1A5eWpZZThtZm9xVFA4ZGpsQ3JsazU2cC1XTDZUQzc?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-10T12:04:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -376,7 +409,7 @@
           "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
           "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-10T15:10:08.000Z",
+          "published": "2026-11-10T14:10:17.000Z",
           "score": 1,
           "level": null,
           "why": []
