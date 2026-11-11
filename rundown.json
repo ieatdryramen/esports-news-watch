@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T05:55:25.622Z",
+  "generatedAt": "2026-11-11T06:50:20.357Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -48,6 +48,19 @@
           ]
         },
         {
+          "title": "Vitality sweep Falcons to make Rivals playoffs on apEX's return",
+          "url": "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
+          "source": "HLTV news",
+          "published": "2026-11-11T06:32:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "return",
+            "vitality",
+            "esl pro league*"
+          ]
+        },
+        {
           "title": "FURIA beat Legacy in BLAST Rivals opener",
           "url": "https://www.hltv.org/news/45964/furia-beat-legacy-in-blast-rivals-opener",
           "source": "HLTV news",
@@ -84,18 +97,6 @@
           ]
         },
         {
-          "title": "FaZe Clan's 11.11.26 Teaser Is a $100,000 Call of Duty Tournament: What We Know About FaZe's Return",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmRIRE0zYnBSRXlSemZQZEtodjdHc1I1V3JWbGxGTFB2VXI0NFNYVmZOVmtTR2toRmVFbDZndk8xSnczWC05b2xCR0dZRDFYUVNfc3F5M0hqUUIwNlhTb2syT1dFOFRzdDhSZk1MTWM0b0x0MEQ3elZuNE5xOXItS19QSFhGRDM2RU92dDBn?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-10T06:36:31.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "faze"
-          ]
-        },
-        {
           "title": "Sources: Fluxo to put CS division on hold",
           "url": "https://www.hltv.org/news/45960/sources-fluxo-to-put-cs-division-on-hold",
           "source": "HLTV news",
@@ -105,6 +106,18 @@
           "why": [
             "bench*",
             "released*"
+          ]
+        },
+        {
+          "title": "m0NESY please don’t confuse me!",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtahiu/m0nesy_please_dont_confuse_me/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-11T06:22:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "m0nesy",
+            "karrigan*"
           ]
         },
         {
@@ -139,17 +152,6 @@
           "level": null,
           "why": [
             "m0nesy"
-          ]
-        },
-        {
-          "title": "NertZ on G2's season: \"No matter what, it's a tragedy\"",
-          "url": "https://www.hltv.org/news/45956/nertz-on-g2s-season-no-matter-what-its-a-tragedy",
-          "source": "HLTV news",
-          "published": "2026-11-10T19:10:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "g2"
           ]
         }
       ]
