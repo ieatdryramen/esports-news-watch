@@ -1,24 +1,23 @@
 {
-  "generatedAt": "2026-11-11T16:00:27.436Z",
+  "generatedAt": "2026-11-11T16:55:42.422Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 22,
       "stories": [
         {
-          "title": "Spirit vs FUT / BLAST Rivals 2026 Season 2 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtdaoe/spirit_vs_fut_blast_rivals_2026_season_2_group_a/",
+          "title": "MOUZ vs G2 / BLAST Rivals 2026 Season 2 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtgwn0/mouz_vs_g2_blast_rivals_2026_season_2_group_a/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-11T09:17:12.000Z",
-          "score": 7.5,
+          "published": "2026-11-11T12:49:20.000Z",
+          "score": 5.5,
           "level": "possible",
           "why": [
-            "benched*",
             "roster*",
             "official*",
-            "donk*",
-            "spirit",
+            "g2",
+            "mouz",
             "blast"
           ]
         },
@@ -97,19 +96,6 @@
           ]
         },
         {
-          "title": "Donk gets cute on post match interview",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xte68o/donk_gets_cute_on_post_match_interview/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-11T10:15:03.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "donk",
-            "spirit*",
-            "blast*"
-          ]
-        },
-        {
           "title": "Spirit handed first-ever 13-0 defeat in CS2, but recover to beat Krabeni-less FUT 2-1",
           "url": "https://www.hltv.org/news/45968/spirit-handed-first-ever-13-0-defeat-in-cs2-but-recover-to-beat-krabeni-less-fut-2-1",
           "source": "HLTV news",
@@ -155,6 +141,18 @@
           "why": [
             "history"
           ]
+        },
+        {
+          "title": "molodoy: \"We can see now the problems we have before the Major\"",
+          "url": "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
+          "source": "HLTV news",
+          "published": "2026-11-11T05:18:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia*",
+            "blast*"
+          ]
         }
       ]
     },
@@ -173,17 +171,6 @@
             "investigation*",
             "kicked*",
             "dreamleague"
-          ]
-        },
-        {
-          "title": "Generational Comeback",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtdhrv/generational_comeback/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T09:30:28.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "comeback"
           ]
         },
         {
@@ -228,6 +215,17 @@
           "why": []
         },
         {
+          "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-11T15:53:36.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
           "title": "patch hopium",
           "url": "https://www.reddit.com/r/DotA2/comments/1xtknba/patch_hopium/",
           "source": "r/DotA2",
@@ -269,7 +267,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -304,63 +302,6 @@
           "why": [
             "leak"
           ]
-        },
-        {
-          "title": "Official TEKKEN 8 FIGHT PASS - ROUND 12 Preview",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xtd2pb/official_tekken_8_fight_pass_round_12_preview/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T09:02:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "official"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "The Last Qualifying Session – 2026 CTWC Experience – Day 2 – Part 6",
-          "url": "https://tetrisinterest.com/the-last-qualifying-session-2026-ctwc-experience-day-2-part-6/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T21:56:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "the last"
-          ]
-        },
-        {
-          "title": "Ice Cream Social and More Tetris Action – 2026 CTWC Experience – Day 1 – Part 5",
-          "url": "https://tetrisinterest.com/ice-cream-social-and-more-tetris-action-2026-ctwc-experience-day-1-part-5/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T21:54:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "blue scuti*"
-          ]
-        },
-        {
-          "title": "Competing at the Classic Tetris World Championship For The First Time – 2026 CTWC Experience – Day 2 – Part 7",
-          "url": "https://tetrisinterest.com/competing-at-the-classic-tetris-world-championship-for-the-first-time-2026-ctwc-experience-day-2-part-7/",
-          "source": "Tetris Interest",
-          "published": "2026-11-11T01:18:44.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Set Up – 2026 CTWC Experience – Part 1",
-          "url": "https://tetrisinterest.com/set-up-2026-ctwc-experience-part-1/",
-          "source": "Tetris Interest",
-          "published": "2026-11-10T20:32:12.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -409,7 +350,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Zangief actor Olivier Richters lives up to his promise and enters a Street Fighter 6 tournament... and he was kind of popping off",
@@ -419,24 +360,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "'We Don't Take Anything for Granted' — LATAM Is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOenF3RlNWNzI4V1dRREFpQXZmOTR3R0xGLTZLVk9jbk5YV3pKWnVnODBaZDZyMjBscnlZOTk2S2JlamlPYkx3RWxBWFNPLVl4U3VRakJ3cmlORC15YzhoM0c1S1NpMFdlZWlHRzRzV1gyR2p3YXljenFqQWtrRVNZam82dkhyMDlKSjNRaUJwSXZ4eDlDREdOaklsZGtjaElpUzhZRUV6N0pHUldHMTl3U012cXlVOWM3Y2RESXNVLWx2MFF0MURjQ2NQZS03NFdEbnRHQ1VGMDlWWXI2aEpB?oc=5",
-          "source": "Google News: Street Fighter (IGN Southeast Asia)",
-          "published": "2026-11-10T16:20:19.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Cut content of world tour mode for Tifa DLC!!(@SamRose aka joyof3d)",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtk5hy/cut_content_of_world_tour_mode_for_tifa/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-11T15:09:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     }
@@ -444,6 +367,7 @@
   "quiet": [
     "Melee",
     "AoE2",
+    "Classic Tetris",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
