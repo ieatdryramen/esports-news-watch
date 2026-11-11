@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-11T16:05:21.542Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Season 11 Roadmap Revealed",
+      "url": "https://insider-gaming.com/marvel-rivals-season-11-roadmap-revealed/",
+      "source": "Insider Gaming",
+      "outlets": [
+        "Insider Gaming"
+      ],
+      "score": 6,
+      "why": [
+        "revealed",
+        "season",
+        "roadmap"
+      ],
+      "summary": "Marvel Rivals has revealed its roadmap for Season 11, and there's a ton of content coming to the hero shooter over the next month. The post Marvel Rivals Season 11 Roadmap Revealed appeared first on Insider Gaming .",
+      "published": "2026-11-11T16:03:56.000Z"
+    },
+    {
       "alertedAt": "2026-11-11T06:50:24.774Z",
       "level": "possible",
       "scene": "Marvel Rivals",
