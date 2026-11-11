@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T10:36:33.194Z",
+  "generatedAt": "2026-11-11T11:35:17.225Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 28,
+      "storyCount": 29,
       "stories": [
         {
           "title": "Meet MOUZ: The IEM Beijing 2026 CS2 Champions",
@@ -135,6 +135,17 @@
           ]
         },
         {
+          "title": "Las Vegas Major 2028 gets key boost as LVCVA reportedly approves $2m BLAST sponsorship",
+          "url": "https://www.hltv.org/news/45970/las-vegas-major-2028-gets-key-boost-as-lvcva-reportedly-approves-2m-blast-sponsorship",
+          "source": "HLTV news",
+          "published": "2026-11-11T11:11:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
           "title": "Spray Transfer 3K Inferno",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xtcwfk/spray_transfer_3k_inferno/",
           "source": "r/GlobalOffensive",
@@ -144,24 +155,12 @@
           "why": [
             "transfer"
           ]
-        },
-        {
-          "title": "molodoy: \"We can see now the problems we have before the Major\"",
-          "url": "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
-          "source": "HLTV news",
-          "published": "2026-11-11T05:18:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia*",
-            "blast*"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -209,17 +208,6 @@
           ]
         },
         {
-          "title": "\"TEKKEN 8 patch will drop on Nov 11 at 23:00 CET | Nov 11 at 14:00 PST. This patch intends to support Roger Jr. Early Access, correct unintended behavior, and update content on the TEKKEN SHOP.\"",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xt5vzn/tekken_8_patch_will_drop_on_nov_11_at_2300_cet/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T02:20:48.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
           "source": "Google News: Tekken (GamerBraves)",
@@ -243,15 +231,6 @@
           "source": "Google News: Tekken (UnGeek)",
           "published": "2026-11-10T14:01:52.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "My wall combo has finally taken its final form",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xt5jtb/my_wall_combo_has_finally_taken_its_final_form/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T02:04:47.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -436,6 +415,23 @@
       ]
     },
     {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Gemini hits me with a hard dose of reality...although if I move to Korea, wear a tank top while eating nothing but ramen & frequenting PC bangs & learn to proxy-gate my way through the Season Open, I have a 0.00001% chance at getting into ASL.",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xtepob/gemini_hits_me_with_a_hard_dose_of/",
+          "source": "r/broodwar",
+          "published": "2026-11-11T10:47:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "asl"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 2,
       "stories": [
@@ -477,7 +473,6 @@
   ],
   "quiet": [
     "Melee",
-    "Brood War",
     "Trackmania",
     "Legacy FGC",
     "Quake",
