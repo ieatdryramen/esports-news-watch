@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T15:00:28.995Z",
+  "generatedAt": "2026-11-11T16:00:27.436Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 24,
       "stories": [
         {
           "title": "Spirit vs FUT / BLAST Rivals 2026 Season 2 - Group A Upper Bracket Semi-Final / Post-Match Discussion",
@@ -160,7 +160,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Team Zenith is currently investigated for 322 in the DreamLeague Div2 Series 5",
@@ -210,11 +210,29 @@
           ]
         },
         {
+          "title": "Malr1ne Reflected on Dyrachyo’s Current Skill Level in Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSktfQWEtVTJoZWVhczdIN2JZN3RkZ0FtOFZXMFRiejV0Rk01VkJfbHd5b2c5YmtZWVRTZUJGLXN4ZTZ1U2JsSjN0YjJiT1ZtUG1pRjNuWFM5R3ZWZmxYRmpjOEJZQ2xVUkRDU2ZoVEh1LTI2Um1vd0lMQTdacWpXMDdkcTA?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-11T14:20:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Noticed Names the Best Heroes for Farming MMR as an Offlaner in Dota 2",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdnc3F3VWxOM0Z5cVZZUTI5bUlmbHc2ZThFVXdiMkhQZFMycl9xUU1Gcm5oVXpqUEtSTGVYWHh6Y1dUVTA1Mk92TzEwdkpndTUwQVNVQ3pNWUVmWXdVWVdVdFNrTmd3Z0NDYXFZQkZZMFJDVVR1UGRiOWl0dE94aGR4Yw?oc=5",
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-11-10T19:04:00.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "patch hopium",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtknba/patch_hopium/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T15:28:25.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -251,7 +269,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -274,6 +292,17 @@
           "level": null,
           "why": [
             "revealed"
+          ]
+        },
+        {
+          "title": "Leak Footage of Tekken X Street Fighter!!",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xtjyhm/leak_footage_of_tekken_x_street_fighter/",
+          "source": "r/Tekken",
+          "published": "2026-11-11T15:01:29.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "leak"
           ]
         },
         {
@@ -337,7 +366,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Gentle Mates Vs. Cloud9 Scrims , Map Count: Gentle Mates 4 - 6 Cloud9",
@@ -356,15 +385,6 @@
           "source": "Google News: CoD (Insider Gaming)",
           "published": "2026-11-10T21:49:13.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "IW devs confirm ranked play is coming for season 2",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtcbbc/iw_devs_confirm_ranked_play_is_coming_for_season_2/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-11T08:14:31.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -389,7 +409,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Zangief actor Olivier Richters lives up to his promise and enters a Street Fighter 6 tournament... and he was kind of popping off",
@@ -406,6 +426,15 @@
           "source": "Google News: Street Fighter (IGN Southeast Asia)",
           "published": "2026-11-10T16:20:19.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Cut content of world tour mode for Tifa DLC!!(@SamRose aka joyof3d)",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtk5hy/cut_content_of_world_tour_mode_for_tifa/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-11T15:09:07.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
