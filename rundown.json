@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T02:55:52.447Z",
+  "generatedAt": "2026-11-11T03:55:29.069Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -150,20 +150,8 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
-        {
-          "title": "[Shotzzy] OpTic Texas Vs G2 Scrim! (Modern Warfare 4)",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xsys2s/shotzzy_optic_texas_vs_g2_scrim_modern_warfare_4/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-10T21:09:27.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "optic texas",
-            "shotzzy"
-          ]
-        },
         {
           "title": "FaZe Clan Teases Mysterious Return for November 11 — Banks Says He Will Not Be Involved",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUYxMEQ1czNyZE9pZWUtNnV5TmY0dVZVNW1jbTNxbUV3Vzc2NnBUQzFsRTFZV3piRTluNjl0S0pFSTByYWNaZUtodllSdEUyUXBWbEdtUnRyb2lUQjB6QnlvNzNNTHFCZTV1ZE1RREtTaFlzR3d0WUI2dkkwbFVKMmNjVmYzZjNNS0FoUm9Mb0p2dG5DZ2tMUnR5b0k5MFp2UjREX3BGTXYxbHk1WHNJT0hTVHhHcUp00gHAAUFVX3lxTE5QOHVuQmVkSHlscHFkaFk4dXVvYUpTQU1BZkRjZ0JoQmZaMGdaVXJtVVozVjJGeUY5MVVRcnlCam4tRDBpLUVoZTgxSnhzMDNFb2ZrV2JQNlNJdTlQel9xeER5dTFsYTF4Q3EtY08tbjFrOWUzWUh5bk85SjQ5QjhrQkM3ZWlFS1pUMnVCQjRacDliSUtKRlJlYWxCRnhrdXpEVll2eWl0bGNzOXFBX2VkdWdXTlVHVFY0eDRWdzgxTA?oc=5",
@@ -223,6 +211,17 @@
           ]
         },
         {
+          "title": "Update vs smurfs",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xt7ect/update_vs_smurfs/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T03:34:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "Sir, third update has hit the staging server",
           "url": "https://www.reddit.com/r/DotA2/comments/1xt22zx/sir_third_update_has_hit_the_staging_server/",
           "source": "r/DotA2",
@@ -257,15 +256,6 @@
           "source": "Google News: Dota (TalkEsport)",
           "published": "2026-11-10T06:57:32.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Please patch - come soon",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xsyl31/please_patch_come_soon/",
-          "source": "r/DotA2",
-          "published": "2026-11-10T21:02:03.000Z",
-          "score": 0,
           "level": null,
           "why": []
         },
@@ -452,13 +442,27 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "2002 to 2026 prize winnings bar chart race",
+          "url": "https://www.reddit.com/r/WC3/comments/1xt7ld9/2002_to_2026_prize_winnings_bar_chart_race/",
+          "source": "r/WC3",
+          "published": "2026-11-11T03:44:44.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "Melee",
     "Brood War",
     "Trackmania",
-    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
