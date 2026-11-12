@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-12T09:40:20.867Z",
+  "generatedAt": "2026-11-12T10:35:22.202Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 11,
+      "storyCount": 14,
       "stories": [
+        {
+          "title": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
+          "url": "https://store.steampowered.com/news/app/2767030/view/703284306606293379",
+          "source": "Steam: Marvel Rivals (official news + patch notes)",
+          "published": "2026-11-12T09:44:14.000Z",
+          "score": 9,
+          "level": "breaking",
+          "why": [
+            "update*",
+            "return*",
+            "patch notes",
+            "balance*",
+            "new hero*",
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Version 20261113 Balance Post",
+          "url": "https://store.steampowered.com/news/app/2767030/view/695403626868244527",
+          "source": "Steam: Marvel Rivals (official news + patch notes)",
+          "published": "2026-11-12T09:43:34.000Z",
+          "score": 7.5,
+          "level": "breaking",
+          "why": [
+            "ban*",
+            "patch notes*",
+            "balance",
+            "buff*"
+          ]
+        },
         {
           "title": "Marvel Rivals Season 11 Roadmap Revealed: Nightcrawler, New Map, Events, Skins, and More",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sazRPWUhrUnp0SWR2M2pINTI4U3pLbnlnU0J4MWpwR1dGRGFxSGR5RE80aWt6X05UNWJUend3c29kZGJEZGxobllMQk91MGZVZnF2Q3B1N0Zab2NZTlVzS0Fn?oc=5",
@@ -78,6 +108,18 @@
           ]
         },
         {
+          "title": "Season 11: Doomsday // Dev Vision Vol. 23 | Marvel Rivals",
+          "url": "https://store.steampowered.com/news/app/2767030/view/695403626868244545",
+          "source": "Steam: Marvel Rivals (official news + patch notes)",
+          "published": "2026-11-12T09:43:52.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "season",
+            "guangguang*"
+          ]
+        },
+        {
           "title": "Marvel Rivals Expands Its X-Men Roster on November 13",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1YyaDJ6OUc3cE9ldkF2cjQ4NzRURzJDOHZRTjk0NDJRQnNZMXhyd1ZjZXE3NGtsazE2ZUdXbUNJWE5pdDdmNUdkNHpMVGtHNmFxTTlaMXpUa1diUkZRM0p1aUpaVnhyUV9Sbm9GdWM5MHB0RWFLRHZ6OEFkbElsMHlwWktSV0JOUlpRWUdZVQ?oc=5",
           "source": "Google News: Rivals patches (VICE)",
@@ -104,28 +146,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUZEY0VnLS11b0NLTE1jX2pfSU92Yk9FdTEtN2doVHpCLVdUUE9KNnJEX3Nsb1pIdUVoNUF1QXdnVGdiX2tTY0JLSDlCbUxnZ1FTTVBtSlMydHBuTmxPRUkxM2QydnBFV0ZzWUdXWFpuVEc5MmlSdzNBX3hjUmtzUmNZajIwODZpTzNN?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-11T20:34:51.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Buffs and Nerfs: Every Hero Changes",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EODNnQmZkQ2lDUmlwd182ZmVILXJubXBFNXV0M3daOENHNU9qQUVRcmlaQ0ZZNUpZd192QjFRckI5RHViVUVfR3BiMHhiZ3FiWmN0SW04eWR1WlhKd2VzRndpckJDSDZhcU1iVmpzQ19kdw?oc=5",
-          "source": "Google News: Rivals patches (games.gg)",
-          "published": "2026-11-11T19:26:19.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11: Doomsday Launches This Week With Debut of Nightcrawler",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEYyVVE2OWdiWjlGeFBXb0NldnRUaGd2VS1fVV9QNE90a2QtWDM5bDVXaHgzVXhBWmRSR3hIOGtvUURsRzZ5cm42djVDenh0RE5qVkFvZVJxb0JZcDU2elZ5cFNvLVl1c3JoNTNEUWthQWItV3BBQTZuV1BXR0lvaWdPSG4zbllHZ1BOWUNaeU1aTTNTYzRzQ2RQRE83ZHB5SlBvTk93?oc=5",
-          "source": "Google News: Rivals esports (Xbox Achievements)",
-          "published": "2026-11-11T12:56:53.000Z",
           "score": 2,
           "level": null,
           "why": [
