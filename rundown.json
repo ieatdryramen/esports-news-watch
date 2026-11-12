@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T11:00:41.904Z",
+  "generatedAt": "2026-11-12T12:00:39.250Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 25,
       "stories": [
         {
           "title": "FUT vs MOUZ / BLAST Rivals 2026 Season 2 - Group B Lower Bracket Final / Post-Match Discussion",
@@ -121,6 +121,17 @@
           ]
         },
         {
+          "title": "1w dominates Moscow Cyber Games to punch ticket for PGL Major Singapore",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkJ2SVFjdnE3VnRrVHV2eHdYSzRGZjU4MWhvYS1SMXRXQVBJMnB4QkRIVUxOM0ZHQjJYVFhiVkNVR1FfU21iSDJuSTVHQVEwOXhDNGdPSFhrMU1jNXZUODVNT000dWVKZ2w5MWlfSFhXR2RCUUFwc3ZFTzl5VVhadHFwUGpKZlNqX243OGl5RUFnemI2bjdDRTBadnFMU1dNNklQNlhjZWNhVkhGWnZXS3JXNFU?oc=5",
+          "source": "Google News: CS2 (OneArabia)",
+          "published": "2026-11-12T11:36:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHhKd2pnNUxvR2p4bVZndHl4US1HLVg1ZXM5NU5DLVozNW5hMFFoblVqaUtCTFJoMU9EaGhOTFZMTlA2YXY4blFVSExCM1VERkwtOFhNUFZmR0F6MkFpSUx2WVF6QzFPVGNZeW1UOC1ZV0JyZ3hScUZvZEdNWUV6WnFzYnphT2xia3Nacm9JOUItWXpYNkZwZFVJNFRXSDhaY0c3SlViVEVDaEhfSHZCTENiUXZnMmtEMnZUNGZIWmR1UUZqX0lYZlpXcm5tYS1sOGV5UmpiTGtmRGFrcmllbEROSQ?oc=5",
           "source": "Google News: CS2 (ANI News)",
@@ -142,23 +153,12 @@
             "won*",
             "iem"
           ]
-        },
-        {
-          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-12T07:10:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
@@ -183,19 +183,6 @@
             "comeback*",
             "roster*",
             "og"
-          ]
-        },
-        {
-          "title": "1 in 5 ranked games is won by a team that was at 20% or lower. Here's one from 1% with 6 GGs",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xts5tz/1_in_5_ranked_games_is_won_by_a_team_that_was_at/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T20:06:53.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "the last*",
-            "wins*",
-            "won"
           ]
         },
         {
@@ -233,6 +220,15 @@
           ]
         },
         {
+          "title": "Will the new patch favour Yandex this TI?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuajnb/will_the_new_patch_favour_yandex_this_ti/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T11:37:16.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "New patch or GTA 6",
           "url": "https://www.reddit.com/r/DotA2/comments/1xu7pqo/new_patch_or_gta_6/",
           "source": "r/DotA2",
@@ -255,17 +251,6 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
           "source": "Google News: Dota (escorenews.com)",
           "published": "2026-11-11T15:53:36.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "XE - FRG, November 11, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3Z2OEdKbl9wQzdaTGVpTWcwekxDeW5mNHlQdkV1N1QwU2RQcElLcy1raFgycE9CUHJRY1daYVRuR3JvSFg1dXBvcFNKcXZZUF9FUEtZa0F1QkltWEprcUc1TGZlTW85eFBoWTN2ZGR2RjFJcTZNZUVZT1c5NFh4UlNaX05hYUtWeUk1ZlZlU1dKWEVyS01WbmNfWHlrcW5fUzYtUg?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-11T14:24:50.000Z",
           "score": 0,
           "level": null,
           "why": [
