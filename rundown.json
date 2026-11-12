@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T04:00:37.069Z",
+  "generatedAt": "2026-11-12T05:00:35.376Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -69,18 +69,6 @@
             "return",
             "vitality",
             "esl pro league*"
-          ]
-        },
-        {
-          "title": "FURIA beat Legacy in BLAST Rivals opener",
-          "url": "https://www.hltv.org/news/45964/furia-beat-legacy-in-blast-rivals-opener",
-          "source": "HLTV news",
-          "published": "2026-11-11T04:16:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "furia",
-            "blast"
           ]
         },
         {
@@ -154,6 +142,17 @@
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "The Most Influential Maps In Counter-Strike ESports History",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGxLdHBUV0FVczNLbnc4SEVWaE1saW5xQkoxVHlNZHo1MHV6bks4QWl3TlMxLWduaVpGT2RxX0dFMVExWFRvUkxnbkR0VkdmcUx6VHEwUVN0SDRkRVVxZFlsamFBaFN4Uk1lY0lUdC1hcXk4NWlHSjhFc2hQUmpkbUViMW1hUzBLWV9wS3g2YUU?oc=5",
+          "source": "Google News: CS2 (MKAU Gaming)",
+          "published": "2026-11-11T13:07:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "history"
           ]
         }
       ]
@@ -242,15 +241,13 @@
           ]
         },
         {
-          "title": "Dota 2 Update for November 11, 2026",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtvhw6/dota_2_update_for_november_11_2026/",
+          "title": "Please report all posts related to patch updates.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xu3qpl/please_report_all_posts_related_to_patch_updates/",
           "source": "r/DotA2",
-          "published": "2026-11-11T22:19:37.000Z",
-          "score": 1,
+          "published": "2026-11-12T04:48:33.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "update"
-          ]
+          "why": []
         },
         {
           "title": "What hero’s do you want to see reworked and what hero’s buffed?",
@@ -305,7 +302,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -353,11 +350,31 @@
           ]
         },
         {
+          "title": "Did the update break the game?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xu3i27/did_the_update_break_the_game/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T04:35:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "4o4 by Sh33rz: Tekken 8 #123",
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9KYWFsWk5UMnhNalB1UUdrMEFmYUFteUhVSlFGLWwycHFFR3FrMU5iQ3NkNWttb3JNUHU4?oc=5",
           "source": "Google News: Tekken (Howl.Link)",
           "published": "2026-11-11T19:13:25.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Log in to TEKKEN 8 during the event period and you will receive a #TWT2026 community title as a gift! 🎁",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xu2uns/log_in_to_tekken_8_during_the_event_period_and/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T04:01:13.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -376,7 +393,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Monster Kickoff Cards - Hydra (via @GGBreakingPoint)",
@@ -398,17 +415,6 @@
           "level": null,
           "why": [
             "dashy"
-          ]
-        },
-        {
-          "title": "Ghosty j1v3 in a Map 5 Round 11 with 15secs left",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtv74l/ghosty_j1v3_in_a_map_5_round_11_with_15secs_left/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-11T22:07:37.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ghosty"
           ]
         }
       ]
@@ -451,13 +457,29 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cumulative prize winnings bar chart race: 2002-2026",
+          "url": "https://www.reddit.com/r/WC3/comments/1xu3t0v/cumulative_prize_winnings_bar_chart_race_20022026/",
+          "source": "r/WC3",
+          "published": "2026-11-12T04:52:10.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "moon*"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
     "AoE2",
     "Brood War",
     "Trackmania",
-    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
