@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-11-11T23:50:25.350Z",
+  "generatedAt": "2026-11-12T00:50:21.489Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1FZa3I4WkFTMjAycEZ6YzFZWThkOWlyUllxOXh0Uzc4RjMtSGFUQ3lpaEFXUmRJX1FWbTNrVVFvdTllTWdTYUx3S3IydWI1WTJQV0Q2WnlvbFA2UGIwOHZjeFBfUVpMRi15N2ZBUjNlNnN5VGdPS0FFV1VrcVZWQ0pTZVI1alkwMmdWLUc5WUtLQjN3N2ZGTFFNQ1pKRmNkcWZN?oc=5",
+          "source": "Google News: Tokon (TechJuice)",
+          "published": "2026-11-11T15:58:34.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "dlc"
+          ]
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
