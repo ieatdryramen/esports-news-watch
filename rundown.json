@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:00:34.094Z",
+  "generatedAt": "2026-11-12T21:00:38.871Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
@@ -241,6 +241,15 @@
           ]
         },
         {
+          "title": "New Patch is going to be HUGE",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xunn07/new_patch_is_going_to_be_huge/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T20:23:20.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Today patch day right ?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xumyhe/today_patch_day_right/",
           "source": "r/DotA2",
@@ -263,15 +272,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xui8ft/my_highest_kill_so_far_this_season/",
           "source": "r/DotA2",
           "published": "2026-11-12T17:03:30.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Was the penguin not convincing enough? Number patch now, or the Remlings get it!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xufkio/was_the_penguin_not_convincing_enough_number/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T15:23:32.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -313,7 +313,7 @@
           "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
           "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-12T18:50:46.000Z",
+          "published": "2026-11-12T19:05:34.000Z",
           "score": 1,
           "level": null,
           "why": []
