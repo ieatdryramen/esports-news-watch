@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-12T18:00:39.252Z",
+  "generatedAt": "2026-11-12T19:00:40.462Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 23,
       "stories": [
+        {
+          "title": "Am I the only one who randomly saw this Mysterious Button (with the icon of an insect) appear next to the shut down button?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xuk89y/am_i_the_only_one_who_randomly_saw_this/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T18:16:37.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "update*",
+            "shut down"
+          ]
+        },
         {
           "title": "Spirit vs G2 / BLAST Rivals 2026 Season 2 - Group B Upper Bracket Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xud4yy/spirit_vs_g2_blast_rivals_2026_season_2_group_b/",
@@ -74,6 +86,18 @@
           ]
         },
         {
+          "title": "Falcons Dust2 Short Boost for m0NESY to Peek Tunnels - BLAST Rivals 2026 Season 2",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xujzrz/falcons_dust2_short_boost_for_m0nesy_to_peek/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T18:08:05.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "m0nesy",
+            "blast"
+          ]
+        },
+        {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN2drblBQNEZ4MHcxZUt4V3VFV1liWHpTcFE1NDBpSm1GMng4TGxZQ2NYLXlpYU9jVkxKOUdUc0psaXY0SHR2NkIxZjBrbnVDR05sbU81NURLME5hV0U1dkdnVU5rdFJUWFRQM2VFWkxWeVdVbFA2MmZyajdVNm5Fd1RtX1R5Q0ZlZEdSRmd0VjdrQVF2WWpYLVdEdXM0TGZFcEVqVHBFb2pib0k5UU56QTRYeHJNSjNkYWRUMVAzaXhwbTVyeDFGQnMwbDRES2YyczJyV2wtemtyNzBxRThlWTBhMDhUbmd4YXfSAfABQVVfeXFMUGZ2UnA0cWFzWGRNejZIOVNjd3ZHV0Z4S1JKVEhwM3hFcmQwT3JQcUJ2WUR6eEprUWN4MTVQa0JUUloxN0h0a3h6eHBXRVZpaHFzN092SS14NkRocFJFdk1aYm1qYWZQUG5rR2RXeXNnbEpyTWtGRmdxZkFGUW9VaFJYZ3pHMUd2VUZwTG5YMlJKaklEeGdNY3g1YUNjeVNUVTRvNXd3UmwyVGhsc001dm5QUWl2Z2dGWTVlQmNRQkMwTG8yeW52amM5ZFhvYmF1VGppWHBjXy13WUVWZmYwMjhvcXRlZ0FXdVpGSXRUYjZf?oc=5",
           "source": "Google News: CS2 (Sportstar)",
@@ -82,6 +106,18 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "ZywOo is the best rifler in CS2?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xukku1/zywoo_is_the_best_rifler_in_cs2/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T18:29:30.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "zywoo",
+            "donk*"
           ]
         },
         {
@@ -116,58 +152,13 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHhKd2pnNUxvR2p4bVZndHl4US1HLVg1ZXM5NU5DLVozNW5hMFFoblVqaUtCTFJoMU9EaGhOTFZMTlA2YXY4blFVSExCM1VERkwtOFhNUFZmR0F6MkFpSUx2WVF6QzFPVGNZeW1UOC1ZV0JyZ3hScUZvZEdNWUV6WnFzYnphT2xia3Nacm9JOUItWXpYNkZwZFVJNFRXSDhaY0c3SlViVEVDaEhfSHZCTENiUXZnMmtEMnZUNGZIWmR1UUZqX0lYZlpXcm5tYS1sOGV5UmpiTGtmRGFrcmllbEROSQ?oc=5",
-          "source": "Google News: CS2 (ANI News)",
-          "published": "2026-11-12T10:44:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-12T07:10:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
-          ]
-        },
-        {
-          "title": "PGL is heading to Ulaanbaatar: Mongolia to host top international Counter-Strike 2 tournament in 2027",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQkZvOUZmbmF5SDZfVDA2SFVGYTAyTDRVSlg0WldqdnlvcXpDc3ZZelhBaGhycTVMVGlmeFJPd2U5RmZFaGtNTl9MQ1VlaWdOMlNKNzk4S2F5RWJQdVpoVHl0dlBXd3Q4S29PMGdKT3hia3owUmNrRkVRc045alVLRGVrUS1sb096S0ZIdWVkLWhvSUdDdUJ5cmlud0JXdXFkRnlQZWNZVFFwRnVIQWxpbjdyTnhKdGV2QlNFYmdyZkVDNEdiWjhocUl0aHU0M3ZuVmJYS28xZHZjak9oa1Q4UzFabTlzQW5PbUdoRlFyMllnUQ?oc=5",
-          "source": "Google News: CS2 (Yogonet)",
-          "published": "2026-11-12T02:04:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 12,
       "stories": [
-        {
-          "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1dZTzdsZ2VrdlVQdGdQYWVwTUpQVmZTYmNvVGlSbG8zdGViMmtKYkF4dG4tMWpuMzFxNktiNkVKRTNSQlVnaHhDZVFjd1ljc2VjNGNtdnkxMHRGT0szT0hWMUtoaWtGVmN0VkRCNTVwMDJXUm9iWXd6UTl0QV9IWVhkNWNQdVVoWm5lQXVGVm3SAZgBQVVfeXFMTkhwcnNVVER1cWZqSWhiWFRBT183U2Y5dnhjZ1FFX0JlX09QcS1CRzd4UDhnYnp6akhZM1pqcVZCZVBtbFg4UEhPclFzNUNCWkxjRl83MTlMbjVITFl3WWRXOVVZOUNkUkIzUlFuUjFDbmMyRHlhdG9qVHRuYUFWNkpmVXFzeHl5TEhhSzF6a3UtS2dZU29jSVU?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-11T18:06:54.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "joins",
-            "official"
-          ]
-        },
         {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN2drblBQNEZ4MHcxZUt4V3VFV1liWHpTcFE1NDBpSm1GMng4TGxZQ2NYLXlpYU9jVkxKOUdUc0psaXY0SHR2NkIxZjBrbnVDR05sbU81NURLME5hV0U1dkdnVU5rdFJUWFRQM2VFWkxWeVdVbFA2MmZyajdVNm5Fd1RtX1R5Q0ZlZEdSRmd0VjdrQVF2WWpYLVdEdXM0TGZFcEVqVHBFb2pib0k5UU56QTRYeHJNSjNkYWRUMVAzaXhwbTVyeDFGQnMwbDRES2YyczJyV2wtemtyNzBxRThlWTBhMDhUbmd4YXfSAfABQVVfeXFMUGZ2UnA0cWFzWGRNejZIOVNjd3ZHV0Z4S1JKVEhwM3hFcmQwT3JQcUJ2WUR6eEprUWN4MTVQa0JUUloxN0h0a3h6eHBXRVZpaHFzN092SS14NkRocFJFdk1aYm1qYWZQUG5rR2RXeXNnbEpyTWtGRmdxZkFGUW9VaFJYZ3pHMUd2VUZwTG5YMlJKaklEeGdNY3g1YUNjeVNUVTRvNXd3UmwyVGhsc001dm5QUWl2Z2dGWTVlQmNRQkMwTG8yeW52amM5ZFhvYmF1VGppWHBjXy13WUVWZmYwMjhvcXRlZ0FXdVpGSXRUYjZf?oc=5",
@@ -189,6 +180,28 @@
           "why": [
             "confirmed",
             "prize pool"
+          ]
+        },
+        {
+          "title": "The Days of 'Attack modifiers won't stack with each other'",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xul9fz/the_days_of_attack_modifiers_wont_stack_with_each/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T18:54:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Well, I for one, hope blink dagger gets nerfed next patch. Last time it was nerfed was 8 years ago.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuk5qi/well_i_for_one_hope_blink_dagger_gets_nerfed_next/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T18:14:08.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "removed*"
           ]
         },
         {
@@ -234,6 +247,15 @@
           "why": []
         },
         {
+          "title": "New patch! waiting room and join the clown show",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuld3x/new_patch_waiting_room_and_join_the_clown_show/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T18:58:38.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "My highest kill so far this season..",
           "url": "https://www.reddit.com/r/DotA2/comments/1xui8ft/my_highest_kill_so_far_this_season/",
           "source": "r/DotA2",
@@ -264,7 +286,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "FaZe x The Flank $100K Invitational | Discussion Thread",
@@ -281,12 +303,21 @@
             "abezy*",
             "cellium*"
           ]
+        },
+        {
+          "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-12T18:50:46.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Anyone know how to combat this error? Won’t let me play online anymore",
@@ -297,17 +328,6 @@
           "level": null,
           "why": [
             "won"
-          ]
-        },
-        {
-          "title": "Roger Jr Is utterly embarrassing, the worst DLC ever released",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xuciqu/roger_jr_is_utterly_embarrassing_the_worst_dlc/",
-          "source": "r/Tekken",
-          "published": "2026-11-12T13:17:07.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
           ]
         },
         {
@@ -351,15 +371,6 @@
           "url": "https://www.reddit.com/r/Tekken/comments/1xujgx9/i_played_in_my_first_tournament/",
           "source": "r/Tekken",
           "published": "2026-11-12T17:48:59.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "I've used Roger Jr. and I can safely say he's the weakest DLC.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xubye4/ive_used_roger_jr_and_i_can_safely_say_hes_the/",
-          "source": "r/Tekken",
-          "published": "2026-11-12T12:51:14.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -470,10 +481,24 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Balance change suggestion.",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xujy43/balance_change_suggestion/",
+          "source": "r/aoe2",
+          "published": "2026-11-12T18:06:21.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
-    "AoE2",
     "Brood War",
     "Trackmania",
     "Legacy FGC",
