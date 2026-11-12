@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:00:37.488Z",
+  "generatedAt": "2026-11-12T08:00:38.761Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -20,6 +20,18 @@
             "niko*",
             "m0nesy*",
             "karrigan*"
+          ]
+        },
+        {
+          "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals",
+          "url": "https://www.hltv.org/news/45975/furia-hand-vitality-first-ever-13-0-defeat-to-make-rivals-semi-finals",
+          "source": "HLTV news",
+          "published": "2026-11-12T07:02:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "vitality",
+            "furia"
           ]
         },
         {
@@ -97,16 +109,14 @@
           ]
         },
         {
-          "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
-          "url": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
-          "source": "HLTV news",
-          "published": "2026-11-11T07:41:00.000Z",
-          "score": 3.5,
+          "title": "m0NESY Ranks 14th in Forbes Russia’s Most Valuable Athlete Brands for 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-12T07:10:40.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "return*",
-            "vitality*",
-            "blast*"
+            "m0nesy"
           ]
         },
         {
@@ -141,17 +151,6 @@
           "level": null,
           "why": [
             "blast"
-          ]
-        },
-        {
-          "title": "PGL is heading to Ulaanbaatar: Mongolia to host top international Counter-Strike 2 tournament in 2027",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazc5YVY0LXVpOVY0cmZWT0lfRTJQNXhkR3ZzOWE3Qm9YRERmUzN4aVNSeDBiVXBHMDcwU0xHTmJMM1NETjF2dlBpNmtxOVlBdVY2MTloX0ZOaHBLOHdDZW5hT0dWZmRiYURjZE1MREgtV0t4U1R2ZWtELW5fN0I2OXZvdWVPZUdOTUszVDZNdjhDUEVtOWRIV0Z3YmFHUnRTYjM1UVFaSjFCSWtudExXMXg4alRwNGVkQldFWA?oc=5",
-          "source": "Google News: CS2 (Focus Gaming News)",
-          "published": "2026-11-11T13:50:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         }
       ]
@@ -201,7 +200,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
@@ -252,17 +251,6 @@
           ]
         },
         {
-          "title": "ES or OD crashing my game after update?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtyp5w/es_or_od_crashing_my_game_after_update/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T00:39:13.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "What hero’s do you want to see reworked and what hero’s buffed?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xu2oe2/what_heros_do_you_want_to_see_reworked_and_what/",
           "source": "r/DotA2",
@@ -276,15 +264,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xu057v/it_is_so_hard_to_end_a_game_with_current_patch/",
           "source": "r/DotA2",
           "published": "2026-11-12T01:47:30.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Aether Lens should be a final upgrade item.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xty6bl/aether_lens_should_be_a_final_upgrade_item/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T00:15:12.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -315,20 +294,8 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
-        {
-          "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2lHNjh2Z21SSnpPNEpBYlJaWkxKbkhkQlNMUFBWZmY2LTlLSEw2YUxCLXg1NGVHRDBiUGhDbTFKVTJabUNyMm9rdlpXVTdxWVNSZ2w0ZjFXWGliSzhudG1IWVh2ZGxPbEtBSWVDYXlaa0NMV0JEMWszQ0xYYWtwQ2p3Rk9uSzkydF9EdXVWWW1Kbnc?oc=5",
-          "source": "Google News: Tekken (Chase Your Sport)",
-          "published": "2026-11-11T07:15:21.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "returns",
-            "history"
-          ]
-        },
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
