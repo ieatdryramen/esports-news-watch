@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T17:00:24.585Z",
+  "generatedAt": "2026-11-12T17:30:23.458Z",
   "source": "start.gg",
   "completed": [
     {
@@ -293,7 +293,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
       "event": "Melee Singles",
-      "entrants": 124,
+      "entrants": 127,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T00:00:00.000Z",
@@ -332,7 +332,7 @@
       "game": "Guilty Gear -Strive-",
       "tournament": "TGU 2026",
       "event": "Guilty Gear -Strive- : AWT Gold+ Event",
-      "entrants": 68,
+      "entrants": 69,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T04:00:00.000Z",
