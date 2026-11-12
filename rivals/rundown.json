@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T17:30:39.337Z",
+  "generatedAt": "2026-11-12T18:30:35.038Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -96,17 +96,6 @@
           ]
         },
         {
-          "title": "Marvel Rivals' creative director addresses hate speech controversy and promises 'we've ramped up our disciplinary measures'",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPN0luVVU5cmQ2b1UzdUc0OVFwNXBnemtvbGp4UG9rOXc1MzNSdUFHX0c4NDQtQ05Ua2Q4TDJXUUMtenJCZi1YLUtkZ25nNEt2ZjVYSEFRNDNSUDRCX0JmbndmeWpIVFZIYVVpb01VenNNaVZTMS1vNGtzSTMxYVhfYk5fQlNINEVPbHR6V3ZoY3lvWTZYU2QxOHBTMFZLSmt6SXAtanhURGRWZXgyR2M0Y0ItZ0ZiVDEzZWVMbExOSW1odmtfbm9CR2t0SDJubXlnNGNrS2tWTlNyQ0J6WU1WUVFhaE1zTnVURWFKREF6bXo5ZjRtV0hoMWJYdGZFZHZt?oc=5",
-          "source": "Google News: Rivals patches (PC Gamer)",
-          "published": "2026-11-11T17:34:01.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "controversy"
-          ]
-        },
-        {
           "title": "Season 11: Doomsday // Dev Vision Vol. 23 | Marvel Rivals",
           "url": "https://store.steampowered.com/news/app/2767030/view/695403626868244545",
           "source": "Steam: Marvel Rivals (official news + patch notes)",
@@ -116,6 +105,17 @@
           "why": [
             "season",
             "guangguang*"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 brings Nightcrawler and a new Battle Pass; Gold-tier players can earn his ‘Hope S",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR3VYXzhTaFI0SjFhU2tHbXNVOFA2d1FGSGpnN3RBWE9XdFlwMkdCVW1WYmdGTWt6TGhNby0tVXJ1eWVqNE5Dd3doYkhFOUNSLTdlWTBvSEVaM1RhYk1LNndXUFphYXpKaFhaN0hobmpvRUJlSjhheU9VT0ZaMVU1U0lQRFFneDNvS2oxYjh5dUh3dzBpWmN1WUhIN0NRRDF1Y1RnenV2MUlWUnloWUQ3cHBrdDUxRVdyTWFsVUIzUWZad3U5OHFoM21FN0VHZmJZOTlmOGVUc2VDS0R1NDh2ZVhvYWtaOTdLbmNsZUw5MzE2XzhOekhyUWFrTDhEZ2VrZUFSdXdiMDB4X3h2bUs2aFMtWHdwdXJVUWNEQXg1RU9qd9IBpwJBVV95cUxOQlJ0VkdSRjYyQWgxNVZQX1hHRW1NTWwtYlJiRDJPQ3I0REZnOTNrVDNMaUZONlJkQU1VZi0tZjRPUW0ySWVxOUx5bVgtZ0R1MnoxdnF2NWdtWWhLM3R4RXY3elFhNGd3M3lMNnVITDVia3hMdzRMeWo4bTY5b3o0dDFFZ3FaNmhEa3JWRnV3UHRpS2R1ZThoN2lBRjBDX3BfejF1QTVpbWdyYlVIdVJ6c0tvb29OSnFTTGVVV1ZpZlBPX29Gbi1wTWdvamZLU1p2b3hpbGcwTWRWeXFWdExOdHExMjFacUViVjI4a3dxU3V3bmtFel9iamN4amV1WlRyRmdYRzRfVjJPaExSa3Bod2ZJalhEa0dsUW1xN1dpejdHamh2TldJ?oc=5",
+          "source": "Google News: Rivals patches (The Times of India)",
+          "published": "2026-11-12T17:53:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
           ]
         },
         {
