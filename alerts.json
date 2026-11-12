@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-12T18:20:20.461Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Am I the only one who randomly saw this Mysterious Button (with the icon of an insect) appear next to the shut down button?",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xuk89y/am_i_the_only_one_who_randomly_saw_this/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "update*",
+        "shut down"
+      ],
+      "summary": "https://preview.redd.it/l9tbltdr381i1.png?width=1920&format=png&auto=webp&s=50b4f64b5a1acb0d774ba18c3b27ccb6e64c0eb9 I randomly saw this appear while I was playing a competitive match. It looks like a developer debug menu or something like that, and I don't see this very often + I haven't seen anyone talk about it. The first time I saw it was after the latest update submitted by /u/Longjumping_Gap3146 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-12T18:16:37.000Z"
+    },
+    {
       "alertedAt": "2026-11-12T06:50:18.187Z",
       "level": "possible",
       "scene": "CS2",
@@ -181,24 +199,6 @@
       ],
       "summary": "Been playing for a couple decade. Didn't play for the last 6 months, I hop on a game, D2, CT side, I'm playing middle and my favorite gun is the scout. I make 4 or 5 wallbangs headshot on mid (nothing crazy when you're used to play this position), we finish the side and guess what ? the game is cancelled because fucking vacnet spotted something fishy so I get 20 hours ban. It's funny, I don't take it seriously because i'm not tryharding this game anymore. 4 days after the ban, so today, I try to play again, I launch a competitive, everything is fine, we win blablabla, I launch a premier game, and again, this time we didn't even finished the 1st side and I take a 7 days ban. Fuck this game, i'm gonna stick to h1z1 at this point. Bunch of primates submitted by /u/scuffedTravels to r/GlobalOffensive [link] [comments]",
       "published": "2026-11-10T20:16:03.000Z"
-    },
-    {
-      "alertedAt": "2026-11-10T18:20:20.287Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "coolio to stand in for Krabeni at BLAST Rivals",
-      "url": "https://www.hltv.org/news/45963/coolio-to-stand-in-for-krabeni-at-blast-rivals",
-      "source": "HLTV news",
-      "outlets": [
-        "HLTV news"
-      ],
-      "score": 6,
-      "why": [
-        "stand in",
-        "blast"
-      ],
-      "summary": "Krabeni's visa issues mean he will miss the event in Hong Kong.",
-      "published": "2026-11-10T18:17:00.000Z"
     }
   ]
 }
