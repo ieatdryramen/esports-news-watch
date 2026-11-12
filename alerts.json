@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-12T21:35:17.575Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Topson Reveals When the New Dota 2 Patch Will Actually Be Released",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSG8zYnlQYk1nUm1UOWFUT0pSYURPbjAzU1lXT3FMdkFEVXZBY1RYWjZaUm1UN2hwbEVqdV9IWmkxTzZyZlM4NG5TbkRPYlVSWXJoUDZERlc3cnJBN1VFaGZkSkZkeVlZdEU0TmZYUmFCMmUzelBqazFWb0tQazhtQ09UWWU?oc=5",
+      "source": "Google News: Dota (Hawk Live)",
+      "outlets": [
+        "Hawk Live"
+      ],
+      "score": 5,
+      "why": [
+        "released",
+        "topson"
+      ],
+      "summary": "",
+      "published": "2026-11-12T16:07:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-12T18:20:20.461Z",
       "level": "possible",
       "scene": "CS2",
