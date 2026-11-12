@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-12T08:40:24.701Z",
+  "generatedAt": "2026-11-12T09:40:20.867Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Roadmap Revealed: Nightcrawler, New Map, Events, Skins, and More",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sazRPWUhrUnp0SWR2M2pINTI4U3pLbnlnU0J4MWpwR1dGRGFxSGR5RE80aWt6X05UNWJUend3c29kZGJEZGxobllMQk91MGZVZnF2Q3B1N0Zab2NZTlVzS0Fn?oc=5",
-          "source": "Google News: Rivals patches (GameRiv)",
+          "source": "Google News: Rivals esports (GameRiv)",
           "published": "2026-11-11T16:22:57.000Z",
           "score": 6,
           "level": "possible",
@@ -126,17 +126,6 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEYyVVE2OWdiWjlGeFBXb0NldnRUaGd2VS1fVV9QNE90a2QtWDM5bDVXaHgzVXhBWmRSR3hIOGtvUURsRzZ5cm42djVDenh0RE5qVkFvZVJxb0JZcDU2elZ5cFNvLVl1c3JoNTNEUWthQWItV3BBQTZuV1BXR0lvaWdPSG4zbllHZ1BOWUNaeU1aTTNTYzRzQ2RQRE83ZHB5SlBvTk93?oc=5",
           "source": "Google News: Rivals esports (Xbox Achievements)",
           "published": "2026-11-11T12:56:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Season 11 is coming to Marvel Rivals with Dracula and Nightcrawler as playable characters",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0MyQy1qSWFWcWxuNG5QdTlHU25jMXJ4c0twOXdQM01UdFpkbTI3YzV2VlZYemVfcEswTklEVFlSbU1RR0RweEVhZ1d4VHNMaEJhVTVnTktwNHIyVlFMOGhNRXlrU01PNHRud19oaEwzLTY0VW1fVzNveXlQb2N3Yzdlb2xRZEFVUDlXOUVHVFNvaVgtbEdwYW1hNlRiaFhVUTVwdkxJc1JDMjFiUHZPSzRFY2hIZXJ2VkVHTGFudjJQNWR6M29zTUZIdE91LVV2cDFrX2l3?oc=5",
-          "source": "Google News: Rivals patches (Instant Gaming News)",
-          "published": "2026-11-11T09:20:27.000Z",
           "score": 2,
           "level": null,
           "why": [
