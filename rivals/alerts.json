@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-12T05:35:24.066Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Season 11 Patch Notes: Nightcrawler, The Incursion Battle Pass, New Skins, and More",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96b1huWFViandVcUlWc2VhODlUbUVXR1BLM0g5Z3Y2VkJmZGhOTUN6UXZQTkZoZmxETXFLUnc4NVRueUVCMmIwZ0hvdm1MVWVOVWJ4SjZudlZBUXNFQnhqVnZlUDNzUdIBa0FVX3lxTE11LTdKMmh4eHVSQ3p2Ums2X0wxcHRTR20ydHVNckN2eFZNcTBjcW5EOGNRSDFVOWJWSHdENWVLOXR3Tmx0MDZTRTA5bC1pYnVyNktUTDJodTlNc2dZaUZoVVVYSFpzeDBndEdr?oc=5",
+      "source": "Google News: Rivals esports (Beebom)",
+      "outlets": [
+        "Beebom"
+      ],
+      "score": 5,
+      "why": [
+        "patch notes",
+        "season"
+      ],
+      "summary": "",
+      "published": "2026-11-12T05:22:38.000Z"
+    },
+    {
       "alertedAt": "2026-11-11T20:58:02.850Z",
       "level": "possible",
       "scene": "Marvel Rivals",
