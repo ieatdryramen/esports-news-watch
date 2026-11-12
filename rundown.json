@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T13:00:36.597Z",
+  "generatedAt": "2026-11-12T14:00:43.939Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 18,
       "stories": [
         {
           "title": "FUT vs MOUZ / BLAST Rivals 2026 Season 2 - Group B Lower Bracket Final / Post-Match Discussion",
@@ -71,29 +71,14 @@
           ]
         },
         {
-          "title": "Another banger. Another banger by NiKo, TeSeS, m0NESY, kyousuke and karrigan from Team Falcons",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu2oby/another_banger_another_banger_by_niko_teses/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-12T03:52:10.000Z",
-          "score": 4,
+          "title": "Sky Esports Win G2 x PUBG MOBILE Community Challenge on a Dust II-Inspired Map, Undisputed",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVZvS015TkMyanNFN2pvZ0N6TW9kYTdydWc4NlhQT01jSENjejlfRGljeGpySHZoaXVWUUNPV2dRR2JhS0Eyb0tLQnA3OHJzWVhpbmF2RTRSdDNVWEV1TWlIeDFseDJ1aHR5V0h6U0lHMWQwTEh6UXZaRnlHVk5RUDE5MVUySU5tc0pSbEVFQm5jT3kxVGd4b2xxWnM?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-12T13:31:26.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "niko",
-            "m0nesy",
-            "karrigan"
-          ]
-        },
-        {
-          "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\"",
-          "url": "https://www.hltv.org/news/45972/torzsi-we-dont-need-to-overanalyze-this-game-we-just-need-to-be-more-ready-for-tomorrow",
-          "source": "HLTV news",
-          "published": "2026-11-11T13:55:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "g2*",
-            "mouz*",
-            "blast*"
+            "g2"
           ]
         },
         {
@@ -151,6 +136,17 @@
           "why": [
             "blast"
           ]
+        },
+        {
+          "title": "Coachio 1v2 for series point against Mouz",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu84as/coachio_1v2_for_series_point_against_mouz/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T09:10:28.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "mouz"
+          ]
         }
       ]
     },
@@ -207,6 +203,17 @@
           ]
         },
         {
+          "title": "7.42 release date confirmed",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xucto3/742_release_date_confirmed/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T13:31:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "confirmed"
+          ]
+        },
+        {
           "title": "Everybody, what shall we do to kill time while waiting for the update?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xu8o4l/everybody_what_shall_we_do_to_kill_time_while/",
           "source": "r/DotA2",
@@ -236,15 +243,6 @@
           "why": []
         },
         {
-          "title": "What hero’s do you want to see reworked and what hero’s buffed?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xu2oe2/what_heros_do_you_want_to_see_reworked_and_what/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T03:52:16.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -259,7 +257,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -270,6 +268,17 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "Roger Jr Is utterly embarrassing, the worst DLC ever released",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xuciqu/roger_jr_is_utterly_embarrassing_the_worst_dlc/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T13:17:07.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "released"
           ]
         },
         {
@@ -291,6 +300,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "TEKKEN 8 DLC adds kicking powerhouse Roger Jr., features new King-inspired Nike in-game items",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWdNWHRURjFyZGg4ZmpPQVpMbkRZOHMtUkZuSzhGM2lTc3pFSUt2VHJ1U2pYLS04bGtNRy1fN19RYmRyY2xLOW95Rmw5Z0hiWlNRVTJxUlV3UlI5YnMzX1ZQUFF1VUllRGRTcTI3UUFmc3E5ZTViYWxLZ0ZabWZ3ckdKa1RtUC1aTDR4aW1RRkthMUFZZUIzMFhPZzdGQUVOS2VzelVHM0xjVVEtSV9wZDA4cjFEcUs3M1g0TVB1Y28?oc=5",
+          "source": "Google News: Tekken (Bandai Namco Europe)",
+          "published": "2026-11-12T09:12:06.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Tekken 8 Roger Jr. | All Special Interaction",
@@ -315,15 +333,6 @@
           "url": "https://www.reddit.com/r/Tekken/comments/1xubye4/ive_used_roger_jr_and_i_can_safely_say_hes_the/",
           "source": "r/Tekken",
           "published": "2026-11-12T12:51:14.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Log in to TEKKEN 8 during the event period and you will receive a #TWT2026 community title as a gift! 🎁",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xu2uns/log_in_to_tekken_8_during_the_event_period_and/",
-          "source": "r/Tekken",
-          "published": "2026-11-12T04:01:13.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -415,7 +424,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
@@ -432,6 +441,15 @@
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-11T14:09:07.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "The fact that SF III Third Strike Online Edition came out 15 years ago makes me feel old... but the trailer still slaps!",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xudd65/the_fact_that_sf_iii_third_strike_online_edition/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-12T13:55:23.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -469,28 +487,12 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Warcraft III",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cumulative prize winnings bar chart race: 2002-2026",
-          "url": "https://www.reddit.com/r/WC3/comments/1xu3t0v/cumulative_prize_winnings_bar_chart_race_20022026/",
-          "source": "r/WC3",
-          "published": "2026-11-12T04:52:10.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "moon*"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
     "Brood War",
     "Trackmania",
+    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
