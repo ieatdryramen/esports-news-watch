@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:00:39.721Z",
+  "generatedAt": "2026-11-12T01:00:35.054Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -155,7 +155,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
@@ -167,6 +167,28 @@
           "why": [
             "joins",
             "official"
+          ]
+        },
+        {
+          "title": "Here is living proof that BSJ was right. I won by PERFECT laning.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtz03d/here_is_living_proof_that_bsj_was_right_i_won_by/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T00:53:22.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "ES or OD crashing my game after update?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtyp5w/es_or_od_crashing_my_game_after_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T00:39:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -203,22 +225,11 @@
           ]
         },
         {
-          "title": "What are your predictions about what will be added in the next Global Patch?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtqgl3/what_are_your_predictions_about_what_will_be/",
+          "title": "Aether Lens should be a final upgrade item.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xty6bl/aether_lens_should_be_a_final_upgrade_item/",
           "source": "r/DotA2",
-          "published": "2026-11-11T19:03:06.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        },
-        {
-          "title": "Malr1ne Reflected on Dyrachyo’s Current Skill Level in Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSktfQWEtVTJoZWVhczdIN2JZN3RkZ0FtOFZXMFRiejV0Rk01VkJfbHd5b2c5YmtZWVRTZUJGLXN4ZTZ1U2JsSjN0YjJiT1ZtUG1pRjNuWFM5R3ZWZmxYRmpjOEJZQ2xVUkRDU2ZoVEh1LTI2Um1vd0lMQTdacWpXMDdkcTA?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-11T14:20:00.000Z",
-          "score": 1,
+          "published": "2026-11-12T00:15:12.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -257,7 +268,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -280,17 +291,6 @@
           "level": null,
           "why": [
             "revealed"
-          ]
-        },
-        {
-          "title": "My dream game roster",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xtq2hc/my_dream_game_roster/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T18:48:29.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
           ]
         },
         {
