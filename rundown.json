@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T14:00:43.939Z",
+  "generatedAt": "2026-11-12T15:00:43.393Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "FUT vs MOUZ / BLAST Rivals 2026 Season 2 - Group B Lower Bracket Final / Post-Match Discussion",
@@ -20,6 +20,20 @@
             "mouz",
             "blast",
             "reddit only"
+          ]
+        },
+        {
+          "title": "Spirit through to Hong Kong semis as BLAST Rivals bracket is set",
+          "url": "https://www.hltv.org/news/45978/spirit-through-to-hong-kong-semis-as-blast-rivals-bracket-is-set",
+          "source": "HLTV news",
+          "published": "2026-11-12T13:58:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "vitality*",
+            "spirit",
+            "mouz*",
+            "blast"
           ]
         },
         {
@@ -68,6 +82,17 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "BLAST Rivals Season 2 2026: Day 2 Results & Highlights",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXlDVDRoakMxM3picTgtTTJRTWY4NHhlbmFzUHNqcjdTUy1iUFV1b3NHd1lIbTNaaDdJaGVjWDFHZGNaZjhwb2x0aC03dko2RjRNYWljRV9HRkxkdVhybHlNMkhqa0d0bGhhVFVfS0dDeUl4b3o3YVZVUkJXaEY1d3N5Yw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-12T14:20:39.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
           ]
         },
         {
@@ -125,34 +150,12 @@
           "why": [
             "m0nesy"
           ]
-        },
-        {
-          "title": "BLAST Gets $2M Las Vegas Deal for 2028 Counter-Strike Major",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUQ4NVRaZUF6UEVZNUJoNHpiT2hjMGpqcTc3bzhQQXZpbDZxaW9oNzE1NTN0UkN5ekRaeXE3R1N5Zk16VFppOG1ES2phTjlwSURFdTVPZUFDaUZnMHlJdEhqbEYwa3M0bmpsejFNSnc5aVZHUzUtTHdMT3doMTVISjhSR2hJWExJNjlrdWlmRWF3bjlMTXpWbWh3?oc=5",
-          "source": "Google News: CS2 (Skin.Club Community)",
-          "published": "2026-11-11T22:09:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "Coachio 1v2 for series point against Mouz",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu84as/coachio_1v2_for_series_point_against_mouz/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-12T09:10:28.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "mouz"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
@@ -203,6 +206,17 @@
           ]
         },
         {
+          "title": "Return of Eternal Shroud, item idea.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuevxt/return_of_eternal_shroud_item_idea/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T14:56:57.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "return"
+          ]
+        },
+        {
           "title": "7.42 release date confirmed",
           "url": "https://www.reddit.com/r/DotA2/comments/1xucto3/742_release_date_confirmed/",
           "source": "r/DotA2",
@@ -214,6 +228,15 @@
           ]
         },
         {
+          "title": "No[o]ne Complained About the Long Delay in Dota 2 Patches",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbWFUM3FMOFdadEk2ZnZTTWRsOE9td1VNTnlHRHI2djJZLTZ3UkQyaTdEWkx1UVdscGsycVhySVdSTHJhbnVRc0M0MjY3RGZEQ0VMQkR5QzdzbHNlWGJkdWxvaEVWRm80NjJTVVB1b3hPZFoz?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-12T10:13:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Everybody, what shall we do to kill time while waiting for the update?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xu8o4l/everybody_what_shall_we_do_to_kill_time_while/",
           "source": "r/DotA2",
@@ -223,6 +246,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Wraith King new Arcana style event suggestion (based on unlocking Vengeful Spirit 3rd style Arcana)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xue73r/wraith_king_new_arcana_style_event_suggestion/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T14:29:04.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "Will the new patch favour Yandex this TI?",
@@ -351,35 +383,6 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "If you want to ban Arabia this map pool, you're not allowed to ban anything else.",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xu5b09/if_you_want_to_ban_arabia_this_map_pool_youre_not/",
-          "source": "r/aoe2",
-          "published": "2026-11-12T06:15:45.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        },
-        {
-          "title": "[Mac / CrossOver] Update on AoE2 DE multiplayer stuttering: CodeWeavers says a fix might have to wait until CrossOver 27",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xu83ur/mac_crossover_update_on_aoe2_de_multiplayer/",
-          "source": "r/aoe2",
-          "published": "2026-11-12T09:09:43.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update",
-            "confirmed*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CoD",
       "storyCount": 2,
       "stories": [
@@ -423,44 +426,20 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 4,
+      "scene": "AoE2",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbi12bVVJcTRvWUlXSHRSR1NZUEVNOFhISjhVWDhnZDJET0xZa0pRMjluZ0traGsxZ2kwQVVoRjM3VzdXc29nRTdsalFkU3BNd0hwaW9FSHhnMXB3UGFYa2VBbFQ2dFl3WDVuQU4xQzNzM1ZyakozU2tHQmk?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-11T23:06:45.000Z",
-          "score": 1,
+          "title": "[Mac / CrossOver] Update on AoE2 DE multiplayer stuttering: CodeWeavers says a fix might have to wait until CrossOver 27",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xu83ur/mac_crossover_update_on_aoe2_de_multiplayer/",
+          "source": "r/aoe2",
+          "published": "2026-11-12T09:09:43.000Z",
+          "score": 1.5,
           "level": null,
-          "why": []
-        },
-        {
-          "title": "Zangief actor Olivier Richters lives up to his promise and enters a Street Fighter 6 tournament... and he was kind of popping off",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEl6THJSeTFwQlBXbW9KY3NpWDFsWmVHa1c5czVrODFZR2JrNWtFMThxUDdyQTJ3VzIxb1J2VUVoZm5VWWhlbTBuLWx3UjBLRERvUlRpRW95R19zVVYwLWYzQUFkcmhmbXhhVFZQSjFKTkh6VFFNNzlIQjBLME9hcUM4VmEzbmw1Mld5X3gxTWFTdw?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-11T14:09:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "The fact that SF III Third Strike Online Edition came out 15 years ago makes me feel old... but the trailer still slaps!",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xudd65/the_fact_that_sf_iii_third_strike_online_edition/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-12T13:55:23.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "STREET FIGHTER 6 RYU DLC & CHUN-LI DLC Desktop Mate Now Available on Steam",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xu4ywn/street_fighter_6_ryu_dlc_chunli_dlc_desktop_mate/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-12T05:56:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
+          "why": [
+            "update",
+            "confirmed*"
+          ]
         }
       ]
     },
@@ -483,6 +462,30 @@
           "source": "Tetris Interest",
           "published": "2026-11-12T01:51:43.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbi12bVVJcTRvWUlXSHRSR1NZUEVNOFhISjhVWDhnZDJET0xZa0pRMjluZ0traGsxZ2kwQVVoRjM3VzdXc29nRTdsalFkU3BNd0hwaW9FSHhnMXB3UGFYa2VBbFQ2dFl3WDVuQU4xQzNzM1ZyakozU2tHQmk?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-11T23:06:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "The fact that SF III Third Strike Online Edition came out 15 years ago makes me feel old... but the trailer still slaps!",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xudd65/the_fact_that_sf_iii_third_strike_online_edition/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-12T13:55:23.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
