@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-12T06:40:24.342Z",
+  "generatedAt": "2026-11-12T07:40:22.174Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 13,
+      "storyCount": 12,
       "stories": [
-        {
-          "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiLWtKVjdVMDVzenhpdkplcTJ5YWlxc2lnd2JPZS1RVFh1MWlhYkJrR0M0Z2tTMGo1NGVCanVvOEZEeGZCRTNvamRjc0dERFJILUJfNURvN2tsZWhhT3hZMV9DNnVMd9IBa0FVX3lxTE45U29DN1V3empwVnNfNlk3Q2l6ZXJZUFBwWjZjVVNvb1pZaWdsSVVCY254ODhLSU95YlhyZ0V4NGRJX3UwY3drVlA2Y3FyMnR0R1FtZ21fMGFia3pENVNTZjNSRmgxTEEzbUdj?oc=5",
-          "source": "Google News: Rivals patches (Beebom)",
-          "published": "2026-11-11T07:28:21.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "balance",
-            "balance changes",
-            "season"
-          ]
-        },
         {
           "title": "Marvel Rivals Season 11 Roadmap Revealed: Nightcrawler, New Map, Events, Skins, and More",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sazRPWUhrUnp0SWR2M2pINTI4U3pLbnlnU0J4MWpwR1dGRGFxSGR5RE80aWt6X05UNWJUend3c29kZGJEZGxobllMQk91MGZVZnF2Q3B1N0Zab2NZTlVzS0Fn?oc=5",
@@ -54,20 +41,6 @@
           "why": [
             "replaces",
             "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Doomsday Guide: Nightcrawler, Hero Balance Changes, 18v18 Mode & Anniversary Rewards",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzU2YzMxRmVHOTdubXNKeFY4VGNsTnRXX1Ffd2VMLTJGcUlhTlhlMVNPdFJXQ1Z5anVnSEItOGpkUXBQd1dZV2FJRmN4TTFCUWZKM0kyZW1EbXItQUMwSW9tZEktYlhoSjF4RFJyUkNpZ09iVHJkUzhyTmdfVFdRSHp2aHF5NlZOalBvOWx3NzFRSjRId2R5a2ltNGE3WlFHY1hFVWFUckF3TzVlcXhyaGtYMk5Odk40Y3FOdmRDV1JaelotNDlXZ055WUVwaXZaU1E?oc=5",
-          "source": "Google News: Rivals patches (MMOEXP)",
-          "published": "2026-11-11T06:44:54.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "balance",
-            "balance changes",
-            "season",
-            "-guide"
           ]
         },
         {
@@ -138,10 +111,32 @@
           ]
         },
         {
+          "title": "Marvel Rivals Season 11 Buffs and Nerfs: Every Hero Changes",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EODNnQmZkQ2lDUmlwd182ZmVILXJubXBFNXV0M3daOENHNU9qQUVRcmlaQ0ZZNUpZd192QjFRckI5RHViVUVfR3BiMHhiZ3FiWmN0SW04eWR1WlhKd2VzRndpckJDSDZhcU1iVmpzQ19kdw?oc=5",
+          "source": "Google News: Rivals patches (games.gg)",
+          "published": "2026-11-11T19:26:19.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
           "title": "Marvel Rivals Season 11: Doomsday Launches This Week With Debut of Nightcrawler",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEYyVVE2OWdiWjlGeFBXb0NldnRUaGd2VS1fVV9QNE90a2QtWDM5bDVXaHgzVXhBWmRSR3hIOGtvUURsRzZ5cm42djVDenh0RE5qVkFvZVJxb0JZcDU2elZ5cFNvLVl1c3JoNTNEUWthQWItV3BBQTZuV1BXR0lvaWdPSG4zbllHZ1BOWUNaeU1aTTNTYzRzQ2RQRE83ZHB5SlBvTk93?oc=5",
           "source": "Google News: Rivals esports (Xbox Achievements)",
           "published": "2026-11-11T12:56:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Season 11 is coming to Marvel Rivals with Dracula and Nightcrawler as playable characters",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0MyQy1qSWFWcWxuNG5QdTlHU25jMXJ4c0twOXdQM01UdFpkbTI3YzV2VlZYemVfcEswTklEVFlSbU1RR0RweEVhZ1d4VHNMaEJhVTVnTktwNHIyVlFMOGhNRXlrU01PNHRud19oaEwzLTY0VW1fVzNveXlQb2N3Yzdlb2xRZEFVUDlXOUVHVFNvaVgtbEdwYW1hNlRiaFhVUTVwdkxJc1JDMjFiUHZPSzRFY2hIZXJ2VkVHTGFudjJQNWR6M29zTUZIdE91LVV2cDFrX2l3?oc=5",
+          "source": "Google News: Rivals patches (Instant Gaming News)",
+          "published": "2026-11-11T09:20:27.000Z",
           "score": 2,
           "level": null,
           "why": [
