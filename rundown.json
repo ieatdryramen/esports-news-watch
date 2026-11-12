@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T19:00:40.462Z",
+  "generatedAt": "2026-11-12T20:00:34.094Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Am I the only one who randomly saw this Mysterious Button (with the icon of an insect) appear next to the shut down button?",
@@ -16,22 +16,6 @@
           "why": [
             "update*",
             "shut down"
-          ]
-        },
-        {
-          "title": "Spirit vs G2 / BLAST Rivals 2026 Season 2 - Group B Upper Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xud4yy/spirit_vs_g2_blast_rivals_2026_season_2_group_b/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-12T13:45:34.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "official*",
-            "donk*",
-            "g2",
-            "spirit",
-            "blast"
           ]
         },
         {
@@ -109,18 +93,6 @@
           ]
         },
         {
-          "title": "ZywOo is the best rifler in CS2?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xukku1/zywoo_is_the_best_rifler_in_cs2/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-12T18:29:30.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "zywoo",
-            "donk*"
-          ]
-        },
-        {
           "title": "BLAST Rivals Season 2 2026: Day 2 Results & Highlights",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXlDVDRoakMxM3picTgtTTJRTWY4NHhlbmFzUHNqcjdTUy1iUFV1b3NHd1lIbTNaaDdJaGVjWDFHZGNaZjhwb2x0aC03dko2RjRNYWljRV9HRkxkdVhybHlNMkhqa0d0bGhhVFVfS0dDeUl4b3o3YVZVUkJXaEY1d3N5Yw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -152,6 +124,28 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHhKd2pnNUxvR2p4bVZndHl4US1HLVg1ZXM5NU5DLVozNW5hMFFoblVqaUtCTFJoMU9EaGhOTFZMTlA2YXY4blFVSExCM1VERkwtOFhNUFZmR0F6MkFpSUx2WVF6QzFPVGNZeW1UOC1ZV0JyZ3hScUZvZEdNWUV6WnFzYnphT2xia3Nacm9JOUItWXpYNkZwZFVJNFRXSDhaY0c3SlViVEVDaEhfSHZCTENiUXZnMmtEMnZUNGZIWmR1UUZqX0lYZlpXcm5tYS1sOGV5UmpiTGtmRGFrcmllbEROSQ?oc=5",
+          "source": "Google News: CS2 (ANI News)",
+          "published": "2026-11-12T10:44:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-12T07:10:40.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "m0nesy"
+          ]
         }
       ]
     },
@@ -168,6 +162,17 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "[ Removed by Reddit ]",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xummdy/removed_by_reddit/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T19:44:44.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
           ]
         },
         {
@@ -216,33 +221,31 @@
           ]
         },
         {
-          "title": "Return of Eternal Shroud, item idea.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuevxt/return_of_eternal_shroud_item_idea/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T14:56:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "return"
-          ]
-        },
-        {
-          "title": "7.42 release date confirmed",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xucto3/742_release_date_confirmed/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T13:31:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "confirmed"
-          ]
-        },
-        {
           "title": "No[o]ne Complained About the Long Delay in Dota 2 Patches",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbWFUM3FMOFdadEk2ZnZTTWRsOE9td1VNTnlHRHI2djJZLTZ3UkQyaTdEWkx1UVdscGsycVhySVdSTHJhbnVRc0M0MjY3RGZEQ0VMQkR5QzdzbHNlWGJkdWxvaEVWRm80NjJTVVB1b3hPZFoz?oc=5",
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-11-12T10:13:00.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "How long will the event last?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xulrvt/how_long_will_the_event_last/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T19:13:34.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "confirmed*"
+          ]
+        },
+        {
+          "title": "Today patch day right ?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xumyhe/today_patch_day_right/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T19:57:14.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -272,21 +275,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Wraith King new Arcana style event suggestion (based on unlocking Vengeful Spirit 3rd style Arcana)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xue73r/wraith_king_new_arcana_style_event_suggestion/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T14:29:04.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "FaZe x The Flank $100K Invitational | Discussion Thread",
@@ -302,6 +296,17 @@
             "simp*",
             "abezy*",
             "cellium*"
+          ]
+        },
+        {
+          "title": "Shotzzy on what separates top teams from the rest",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xumm3t/shotzzy_on_what_separates_top_teams_from_the_rest/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-12T19:44:25.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "shotzzy"
           ]
         },
         {
@@ -331,6 +336,17 @@
           ]
         },
         {
+          "title": "Update forced a reset and wiped all my customs (PS5)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xumz1q/update_forced_a_reset_and_wiped_all_my_customs_ps5/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T19:57:48.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "Tekken 8 x Nike First Look: King-Inspired Air Max 1 Pieces",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGJnMDZkRVhKNXhObDg1UWJ6NDVLOTVQcS1Rdm8wa1JsMnExcVFpcnRpdzdXRUZSSEFqSmc4dk8yM2xFTGRvd29zaUw3WEFaeFV2QmpNM1VYQXd0SmFDSEg3SWxZSTI3REh6Vjd5NVYwSnI2Uk5hbWRscXQtdE5CeWtLbFdFVTUzYzlz?oc=5",
           "source": "Google News: Tekken (https://thegame.ph/)",
@@ -353,15 +369,6 @@
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE10bVNjMlMteTlPbWNTbVc2X2g1SzNYZTJHcklHUDFuMVhrNXlTVG92THRJS05nSlhCeU9F?oc=5",
           "source": "Google News: Tekken (Howl.Link)",
           "published": "2026-11-12T02:29:32.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "4o4 by Sh33rz: Tekken 8 #123",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9KYWFsWk5UMnhNalB1UUdrMEFmYUFteUhVSlFGLWwycHFFR3FrMU5iQ3NkNWttb3JNUHU4?oc=5",
-          "source": "Google News: Tekken (Howl.Link)",
-          "published": "2026-11-11T19:13:25.000Z",
           "score": 1,
           "level": null,
           "why": []
