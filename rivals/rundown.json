@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T04:45:21.301Z",
+  "generatedAt": "2026-11-12T05:40:22.691Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -30,6 +30,18 @@
             "revealed",
             "season",
             "roadmap"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Patch Notes: Nightcrawler, The Incursion Battle Pass, New Skins, and More",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96b1huWFViandVcUlWc2VhODlUbUVXR1BLM0g5Z3Y2VkJmZGhOTUN6UXZQTkZoZmxETXFLUnc4NVRueUVCMmIwZ0hvdm1MVWVOVWJ4SjZudlZBUXNFQnhqVnZlUDNzUdIBa0FVX3lxTE11LTdKMmh4eHVSQ3p2Ums2X0wxcHRTR20ydHVNckN2eFZNcTBjcW5EOGNRSDFVOWJWSHdENWVLOXR3Tmx0MDZTRTA5bC1pYnVyNktUTDJodTlNc2dZaUZoVVVYSFpzeDBndEdr?oc=5",
+          "source": "Google News: Rivals esports (Beebom)",
+          "published": "2026-11-12T05:22:38.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "patch notes",
+            "season"
           ]
         },
         {
@@ -101,18 +113,6 @@
           "level": null,
           "why": [
             "leak",
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals - Official Season 11 Battle Pass: The Incursion Trailer",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanRQWnk0cVBoZ0pIaVdDbGFzOW9VTjBSZnV4VmxuNUtwZ0h2cEFUWkczaWNwajZrcTZPd1EyTW9vNnhmd2k3N2N1aXE0c0FDbXEyYUtCVHR1NUw1VWtHc2pLODZWejBGOUYxVnJmNHRFR0xLWS1MSzNnS0FsbXpJQ2RydkxnamJGUEVQYzhkYmVTbWJwTUtCaQ?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-11T17:13:41.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "official",
             "season"
           ]
         },
