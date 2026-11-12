@@ -259,25 +259,6 @@
       ],
       "summary": "",
       "published": "2026-11-10T14:17:22.000Z"
-    },
-    {
-      "alertedAt": "2026-11-10T13:20:20.639Z",
-      "level": "possible",
-      "scene": "Dota",
-      "title": "4IVAN accused Nemiga Gaming players of match-fixing",
-      "url": "https://www.reddit.com/r/DotA2/comments/1xsmnbw/4ivan_accused_nemiga_gaming_players_of_matchfixing/",
-      "source": "r/DotA2",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 9,
-      "why": [
-        "match-fixing",
-        "accused",
-        "reddit only"
-      ],
-      "summary": "submitted by /u/thexbeatboxer to r/DotA2 [link] [comments]",
-      "published": "2026-11-10T13:17:03.000Z"
     }
   ]
 }
