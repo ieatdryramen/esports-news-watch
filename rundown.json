@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T15:00:43.393Z",
+  "generatedAt": "2026-11-12T16:00:41.146Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 20,
       "stories": [
         {
           "title": "FUT vs MOUZ / BLAST Rivals 2026 Season 2 - Group B Lower Bracket Final / Post-Match Discussion",
@@ -170,19 +170,6 @@
           ]
         },
         {
-          "title": "How many rebuilds does OG need before they become a top team again?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xu7br1/how_many_rebuilds_does_og_need_before_they_become/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T08:19:16.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "comeback*",
-            "roster*",
-            "og"
-          ]
-        },
-        {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN2drblBQNEZ4MHcxZUt4V3VFV1liWHpTcFE1NDBpSm1GMng4TGxZQ2NYLXlpYU9jVkxKOUdUc0psaXY0SHR2NkIxZjBrbnVDR05sbU81NURLME5hV0U1dkdnVU5rdFJUWFRQM2VFWkxWeVdVbFA2MmZyajdVNm5Fd1RtX1R5Q0ZlZEdSRmd0VjdrQVF2WWpYLVdEdXM0TGZFcEVqVHBFb2pib0k5UU56QTRYeHJNSjNkYWRUMVAzaXhwbTVyeDFGQnMwbDRES2YyczJyV2wtemtyNzBxRThlWTBhMDhUbmd4YXfSAfABQVVfeXFMUGZ2UnA0cWFzWGRNejZIOVNjd3ZHV0Z4S1JKVEhwM3hFcmQwT3JQcUJ2WUR6eEprUWN4MTVQa0JUUloxN0h0a3h6eHBXRVZpaHFzN092SS14NkRocFJFdk1aYm1qYWZQUG5rR2RXeXNnbEpyTWtGRmdxZkFGUW9VaFJYZ3pHMUd2VUZwTG5YMlJKaklEeGdNY3g1YUNjeVNUVTRvNXd3UmwyVGhsc001dm5QUWl2Z2dGWTVlQmNRQkMwTG8yeW52amM5ZFhvYmF1VGppWHBjXy13WUVWZmYwMjhvcXRlZ0FXdVpGSXRUYjZf?oc=5",
           "source": "Google News: Dota (Sportstar)",
@@ -203,6 +190,17 @@
           "why": [
             "confirmed",
             "prize pool"
+          ]
+        },
+        {
+          "title": "The bestest game with a 2 on it, will, TODAY, get a HUGE update which brings a whole new Act 2!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuf99r/the_bestest_game_with_a_2_on_it_will_today_get_a/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T15:11:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -248,6 +246,15 @@
           ]
         },
         {
+          "title": "Was the penguin not convincing enough? Number patch now, or the Remlings get it!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xufkio/was_the_penguin_not_convincing_enough_number/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T15:23:32.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Wraith King new Arcana style event suggestion (based on unlocking Vengeful Spirit 3rd style Arcana)",
           "url": "https://www.reddit.com/r/DotA2/comments/1xue73r/wraith_king_new_arcana_style_event_suggestion/",
           "source": "r/DotA2",
@@ -273,35 +280,55 @@
           "score": 0,
           "level": null,
           "why": []
-        },
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
         {
-          "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-11T15:53:36.000Z",
-          "score": 0,
+          "title": "FaZe x The Flank $100K Invitational | Discussion Thread",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xugj1m/faze_x_the_flank_100k_invitational_discussion/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-12T16:00:15.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "-stream"
+            "official*",
+            "prize pool*",
+            "faze",
+            "shotzzy*",
+            "simp*",
+            "abezy*"
           ]
+        },
+        {
+          "title": "Scrap and Dashy Getting Warmed Up before the $100K Flank Invitational",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xu8nn6/scrap_and_dashy_getting_warmed_up_before_the_100k/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-12T09:45:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dashy"
+          ]
+        },
+        {
+          "title": "Bracket for the Flank invitational",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xu8sh2/bracket_for_the_flank_invitational/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-12T09:54:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-11T15:40:50.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
         {
           "title": "Roger Jr Is utterly embarrassing, the worst DLC ever released",
           "url": "https://www.reddit.com/r/Tekken/comments/1xuciqu/roger_jr_is_utterly_embarrassing_the_worst_dlc/",
@@ -383,32 +410,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Scrap and Dashy Getting Warmed Up before the $100K Flank Invitational",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xu8nn6/scrap_and_dashy_getting_warmed_up_before_the_100k/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T09:45:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
-          ]
-        },
-        {
-          "title": "Bracket for the Flank invitational",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xu8sh2/bracket_for_the_flank_invitational/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T09:54:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -469,7 +470,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
@@ -477,15 +478,6 @@
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-11T23:06:45.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "The fact that SF III Third Strike Online Edition came out 15 years ago makes me feel old... but the trailer still slaps!",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xudd65/the_fact_that_sf_iii_third_strike_online_edition/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-12T13:55:23.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }

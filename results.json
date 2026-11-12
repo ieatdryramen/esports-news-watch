@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T15:30:23.954Z",
+  "generatedAt": "2026-11-12T16:00:28.112Z",
   "source": "start.gg",
   "completed": [
     {
@@ -416,6 +416,19 @@
       "startAt": "2026-11-14T22:00:00.000Z",
       "endAt": "2026-11-16T04:30:00.000Z",
       "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/street-fighter-iii-3rd-strike"
+    },
+    {
+      "eventId": "1734139",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "[ANNULÉ] Kayane Session - Novembre 2026",
+      "event": "Session Freeplay TEKKEN 8 + Ladder",
+      "entrants": 100,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-15T10:00:00.000Z",
+      "endAt": "2026-11-15T18:00:00.000Z",
+      "url": "https://www.start.gg/tournament/annul-kayane-session-novembre-2026/event/session-freeplay-tekken-8-ladder"
     }
   ],
   "games": {
