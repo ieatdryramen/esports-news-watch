@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:00:25.971Z",
+  "generatedAt": "2026-11-12T00:30:20.906Z",
   "source": "start.gg",
   "completed": [
     {
@@ -152,7 +152,7 @@
       "game": "Street Fighter 6",
       "tournament": "TNS Street Fighter 6 #172",
       "event": "Street Fighter 6",
-      "entrants": 177,
+      "entrants": 184,
       "online": true,
       "major": false,
       "startAt": "2026-11-12T01:00:00.000Z",
@@ -160,12 +160,25 @@
       "url": "https://www.start.gg/tournament/tns-street-fighter-6-172/event/street-fighter-6"
     },
     {
+      "eventId": "1754450",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Run The Se.T! #131",
+      "event": "Street Fighter III: 3rd Strike",
+      "entrants": 17,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-12T01:00:00.000Z",
+      "endAt": "2026-11-12T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/run-the-se-t-131/event/street-fighter-iii-3rd-strike"
+    },
+    {
       "eventId": "1753116",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
       "tournament": "Adam's Smash Series #210: I got a Port Priority for ya right here pal",
       "event": "Melee Singles",
-      "entrants": 66,
+      "entrants": 64,
       "online": false,
       "major": false,
       "startAt": "2026-11-12T02:00:00.000Z",
