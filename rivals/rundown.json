@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T14:30:38.747Z",
+  "generatedAt": "2026-11-12T15:30:39.834Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 13,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
@@ -39,7 +39,7 @@
         {
           "title": "Marvel Rivals Season 11 Roadmap Revealed: Nightcrawler, New Map, Events, Skins, and More",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sazRPWUhrUnp0SWR2M2pINTI4U3pLbnlnU0J4MWpwR1dGRGFxSGR5RE80aWt6X05UNWJUend3c29kZGJEZGxobllMQk91MGZVZnF2Q3B1N0Zab2NZTlVzS0Fn?oc=5",
-          "source": "Google News: Rivals esports (GameRiv)",
+          "source": "Google News: Rivals patches (GameRiv)",
           "published": "2026-11-11T16:22:57.000Z",
           "score": 6,
           "level": "possible",
@@ -74,15 +74,14 @@
           ]
         },
         {
-          "title": "Nightcrawler Will Appear in Marvel Rivals Season 11, While Dracula Replaces the Expected Doctor Doom",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOS1KOWtZSE1SbEkzamF1eThWOEpjLXB6LUNyQk1VVEZWM3lhVDVXOFA4NllmMURhbENkLUQ4d2dhOHl2UThsYlZ1MmJDMnY2cUdESjB6SVpZLU5mV21FUjhCNjA2MEgtX0FyVWZFMTVOMUMwcVRZbFcyZlRLV3FIVjRQWTFUQnlkQVVxQWpPVW1VQjNJOXBYQTNFcVV2aURFQmd3QVQ1R1htQlBkWS1jaEIzYUs1ZGVSV0hubFpFZkFEMnZZZERWc085VdIB0wFBVV95cUxNcUkxZThhZDdGRGpSRTNpanV1NTAza1hjc1RYVDdmMW53aDhkSDJ5OTRxLVBpZHpBaVBJR0tkTG5VdUUwbHIyZXdtRVJWX1ExeHlzWXN4eVBPbU9ZVWZzdUt2WXJ4MlFIUjNtOUdBaHlreXZLSnlRTFFIQTF6NTA3T3VjdEtSNlBOa3lLTjhKYTJQNWF5bG4zZF80STBrVmM3RWxLN3ZoQlItMl9zRHNQZXloRnVWaDh0NnB5TTlFQ21xS1ZMM2VGMXdmS0lyMnFuOHRB?oc=5",
-          "source": "Google News: Rivals esports (Players)",
-          "published": "2026-11-11T15:07:50.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "Marvel Rivals Is Introducing Another Major Character Rework, & It's Not The Hero You'd Expect",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0Nnc1VHRl9MQlpueFEwc3ZXenZCbUpodVRZRFRmaFYxQWMwRW9xQk9INTdBSXJZcTlyQ0dyUTZwT01MOGM5WmZWZzNScUNtdlY5R0hUTE5jYlFlSmRiRkkwakUwSV83U3p5eWlQWWhfQjEwVTg3ZVFBczdrQmRaZng0bWpsWUJMZzNrbFNFQ2NacDhRZTVNMmVXOHlZZ19aeTVkUUZwZHFveE9SVFVOcGJDWENCYklFZnl1U2ZpMlNSWXhqVmRUbl80b0gtQQ?oc=5",
+          "source": "Google News: Rivals patches (ComicBook.com)",
+          "published": "2026-11-12T15:00:00.000Z",
+          "score": 4,
+          "level": null,
           "why": [
-            "replaces",
-            "season"
+            "rework"
           ]
         },
         {
