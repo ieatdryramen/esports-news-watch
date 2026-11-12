@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-12T03:00:34.085Z",
+  "generatedAt": "2026-11-12T04:00:37.069Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 21,
       "stories": [
+        {
+          "title": "Legacy vs Falcons / BLAST Rivals 2026 Season 2 - Group A Lower Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu2mxr/legacy_vs_falcons_blast_rivals_2026_season_2/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T03:50:19.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "niko*",
+            "m0nesy*",
+            "karrigan*"
+          ]
+        },
         {
           "title": "G2 snap loss streak with win over MOUZ",
           "url": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
@@ -68,6 +84,19 @@
           ]
         },
         {
+          "title": "Another banger. Another banger by NiKo, TeSeS, m0NESY, kyousuke and karrigan from Team Falcons",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu2oby/another_banger_another_banger_by_niko_teses/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T03:52:10.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "niko",
+            "m0nesy",
+            "karrigan"
+          ]
+        },
+        {
           "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\"",
           "url": "https://www.hltv.org/news/45972/torzsi-we-dont-need-to-overanalyze-this-game-we-just-need-to-be-more-ready-for-tomorrow",
           "source": "HLTV news",
@@ -126,39 +155,48 @@
           "why": [
             "pgl"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
         {
-          "title": "The Most Influential Maps In Counter-Strike ESports History",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGxLdHBUV0FVczNLbnc4SEVWaE1saW5xQkoxVHlNZHo1MHV6bks4QWl3TlMxLWduaVpGT2RxX0dFMVExWFRvUkxnbkR0VkdmcUx6VHEwUVN0SDRkRVVxZFlsamFBaFN4Uk1lY0lUdC1hcXk4NWlHSjhFc2hQUmpkbUViMW1hUzBLWV9wS3g2YUU?oc=5",
-          "source": "Google News: CS2 (MKAU Gaming)",
-          "published": "2026-11-11T13:07:56.000Z",
-          "score": 3,
-          "level": null,
+          "title": "Hungrybox announces \"Blitbox\", a 1-day major on Dec 20 in Orlando, feat. Plup, Hbox, Zain, moky, Wizzrobe, Magi, Jchu, and more",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xu1tkl/hungrybox_announces_blitbox_a_1day_major_on_dec/",
+          "source": "r/SSBM",
+          "published": "2026-11-12T03:09:07.000Z",
+          "score": 6,
+          "level": "possible",
           "why": [
-            "history"
+            "announces",
+            "hungrybox",
+            "zain",
+            "moky"
           ]
         },
         {
-          "title": "molodoy: \"We can see now the problems we have before the Major\"",
-          "url": "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
-          "source": "HLTV news",
-          "published": "2026-11-11T05:18:00.000Z",
-          "score": 3,
+          "title": "On the left is Zain vs Sirmeris at Full Bloom 2024. On the right is the same game built using MP4 video footage alone. Armada, Ken, PPMD stats will soon be possible.",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xu11l7/on_the_left_is_zain_vs_sirmeris_at_full_bloom/",
+          "source": "r/SSBM",
+          "published": "2026-11-12T02:31:17.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "furia*",
-            "blast*"
+            "zain",
+            "armada"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVdIBmAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1dZTzdsZ2VrdlVQdGdQYWVwTUpQVmZTYmNvVGlSbG8zdGViMmtKYkF4dG4tMWpuMzFxNktiNkVKRTNSQlVnaHhDZVFjd1ljc2VjNGNtdnkxMHRGT0szT0hWMUtoaWtGVmN0VkRCNTVwMDJXUm9iWXd6UTl0QV9IWVhkNWNQdVVoWm5lQXVGVm3SAZgBQVVfeXFMTkhwcnNVVER1cWZqSWhiWFRBT183U2Y5dnhjZ1FFX0JlX09QcS1CRzd4UDhnYnp6akhZM1pqcVZCZVBtbFg4UEhPclFzNUNCWkxjRl83MTlMbjVITFl3WWRXOVVZOUNkUkIzUlFuUjFDbmMyRHlhdG9qVHRuYUFWNkpmVXFzeHl5TEhhSzF6a3UtS2dZU29jSVU?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-11T18:06:54.000Z",
           "score": 5,
@@ -166,6 +204,19 @@
           "why": [
             "joins",
             "official"
+          ]
+        },
+        {
+          "title": "1 in 5 ranked games is won by a team that was at 20% or lower. Here's one from 1% with 6 GGs",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xts5tz/1_in_5_ranked_games_is_won_by_a_team_that_was_at/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T20:06:53.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "the last*",
+            "wins*",
+            "won"
           ]
         },
         {
@@ -202,15 +253,13 @@
           ]
         },
         {
-          "title": "Flam3ss has been dropping map change hints potentially related to next update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xttwnh/flam3ss_has_been_dropping_map_change_hints/",
+          "title": "What hero’s do you want to see reworked and what hero’s buffed?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xu2oe2/what_heros_do_you_want_to_see_reworked_and_what/",
           "source": "r/DotA2",
-          "published": "2026-11-11T21:15:39.000Z",
-          "score": 1,
+          "published": "2026-11-12T03:52:16.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "update"
-          ]
+          "why": []
         },
         {
           "title": "It is so hard to end a game with current patch",
@@ -271,6 +320,17 @@
           ]
         },
         {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-11T15:40:50.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
           "title": "Tekken 8 x Nike: Full List of Special Items Revealed",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjY0R3owR1dJa0tpQm0xVUMyZWMzb21xZmxpamMzdFh2WGpVSG1lYTFGTS1vakI3MHotTEZTYUdJT1Fadmd0WkY0Yk9Wa3VoYnU2VWpIaFc1QnpUN3NIbmtFdWUyYXRVdzQ2V3h3U3pHTnVrNjRNVlpwbkpYaHpiNTd6OUcyaEdJdmtHUEZwaw?oc=5",
           "source": "Google News: Tekken (Chase Your Sport)",
@@ -302,19 +362,6 @@
           "why": []
         },
         {
-          "title": "[TEKKEN 8] Update Data Ver.3.03.01 Patch Notes",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xtv3s7/tekken_8_update_data_ver30301_patch_notes/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T22:03:56.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "update",
-            "official*",
-            "-patch notes"
-          ]
-        },
-        {
           "title": "Roger Jr. compatibility patch notes for Tekken 8",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZ19iNGFoMzhReDRmTnFZY2ZUMTNRRFFSOFMtUEtKTUxMSjJ5WmtnTm9yQ3BCZXc1RHNMMl9CNXNPWFMxZEhkR3dOaHJOUUN0Y01VQ0U2UmFnTWdxVV9jTTRwVWxUZWg0bnJjMFBFN2liMk9wWk9UUg?oc=5",
           "source": "Google News: Tekken (EventHubs)",
@@ -323,24 +370,6 @@
           "level": null,
           "why": [
             "-patch notes"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "On the left is Zain vs Sirmeris at Full Bloom 2024. On the right is the same game built using MP4 video footage alone. Armada, Ken, PPMD stats will soon be possible.",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xu11l7/on_the_left_is_zain_vs_sirmeris_at_full_bloom/",
-          "source": "r/SSBM",
-          "published": "2026-11-12T02:31:17.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "zain",
-            "armada"
           ]
         }
       ]
