@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T16:00:41.146Z",
+  "generatedAt": "2026-11-12T17:00:38.120Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -20,6 +20,19 @@
             "mouz",
             "blast",
             "reddit only"
+          ]
+        },
+        {
+          "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
+          "source": "Google News: CS2 (Field Level Media)",
+          "published": "2026-11-12T16:52:30.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "furia",
+            "blast"
           ]
         },
         {
@@ -139,17 +152,6 @@
             "won*",
             "iem"
           ]
-        },
-        {
-          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-12T07:10:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
-          ]
         }
       ]
     },
@@ -190,6 +192,17 @@
           "why": [
             "confirmed",
             "prize pool"
+          ]
+        },
+        {
+          "title": "This community also needs a spy that will leak when and what will be the future patches.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xugtng/this_community_also_needs_a_spy_that_will_leak/",
+          "source": "r/DotA2",
+          "published": "2026-11-12T16:10:59.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "leak"
           ]
         },
         {
@@ -271,15 +284,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "New patch or GTA 6",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xu7pqo/new_patch_or_gta_6/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T08:44:49.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -292,15 +296,15 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xugj1m/faze_x_the_flank_100k_invitational_discussion/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-12T16:00:15.000Z",
-          "score": 3,
+          "score": 2.5,
           "level": null,
           "why": [
-            "official*",
             "prize pool*",
             "faze",
             "shotzzy*",
             "simp*",
-            "abezy*"
+            "abezy*",
+            "cellium*"
           ]
         },
         {
@@ -327,7 +331,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Roger Jr Is utterly embarrassing, the worst DLC ever released",
@@ -348,17 +352,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Anybody got this error when installing the new update?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xu86y9/anybody_got_this_error_when_installing_the_new/",
-          "source": "r/Tekken",
-          "published": "2026-11-12T09:15:10.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
         },
         {
           "title": "TEKKEN 8 DLC adds kicking powerhouse Roger Jr., features new King-inspired Nike in-game items",
@@ -427,24 +420,6 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "[Mac / CrossOver] Update on AoE2 DE multiplayer stuttering: CodeWeavers says a fix might have to wait until CrossOver 27",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xu83ur/mac_crossover_update_on_aoe2_de_multiplayer/",
-          "source": "r/aoe2",
-          "published": "2026-11-12T09:09:43.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update",
-            "confirmed*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Classic Tetris",
       "storyCount": 2,
       "stories": [
@@ -470,7 +445,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
@@ -480,14 +455,40 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Dumbest/Weirdest balance changes that you can think of?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xuhikv/dumbestweirdest_balance_changes_that_you_can/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-12T16:37:14.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "How a student learned to build Warcraft III patch packs in 2003",
+          "url": "https://www.reddit.com/r/WC3/comments/1xugys2/how_a_student_learned_to_build_warcraft_iii_patch/",
+          "source": "r/WC3",
+          "published": "2026-11-12T16:16:23.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "history*"
+          ]
         }
       ]
     }
   ],
   "quiet": [
+    "AoE2",
     "Brood War",
     "Trackmania",
-    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
