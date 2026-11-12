@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-11-12T10:00:39.896Z",
+  "generatedAt": "2026-11-12T11:00:41.904Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 24,
       "stories": [
         {
-          "title": "Legacy vs Falcons / BLAST Rivals 2026 Season 2 - Group A Lower Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu2mxr/legacy_vs_falcons_blast_rivals_2026_season_2/",
+          "title": "FUT vs MOUZ / BLAST Rivals 2026 Season 2 - Group B Lower Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu9gbz/fut_vs_mouz_blast_rivals_2026_season_2_group_b/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-12T03:50:19.000Z",
+          "published": "2026-11-12T10:33:49.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
             "benched*",
             "roster*",
             "official*",
-            "niko*",
-            "m0nesy*",
-            "karrigan*"
+            "mouz",
+            "blast",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "MOUZ narrowly escape last-place elimination at BLAST against FUT",
+          "url": "https://www.hltv.org/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut",
+          "source": "HLTV news",
+          "published": "2026-11-12T10:35:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "mouz",
+            "blast"
           ]
         },
         {
@@ -56,6 +68,19 @@
           "why": [
             "blast",
             "cs2 major"
+          ]
+        },
+        {
+          "title": "Can we just all stop being stupid about donk and ZywOo ?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu9cyj/can_we_just_all_stop_being_stupid_about_donk_and/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T10:28:12.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "zywoo",
+            "donk",
+            "vitality*"
           ]
         },
         {
@@ -96,44 +121,10 @@
           ]
         },
         {
-          "title": "m0NESY Ranks 14th in Forbes Russia’s Most Valuable Athlete Brands for 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-12T07:10:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
-          ]
-        },
-        {
-          "title": "Career lowest ratings for ZywOo and apEX",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu5yb8/career_lowest_ratings_for_zywoo_and_apex/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-12T06:54:23.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "zywoo",
-            "furia*"
-          ]
-        },
-        {
-          "title": "BLAST Gets $2M Las Vegas Deal for 2028 Counter-Strike Major",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUQ4NVRaZUF6UEVZNUJoNHpiT2hjMGpqcTc3bzhQQXZpbDZxaW9oNzE1NTN0UkN5ekRaeXE3R1N5Zk16VFppOG1ES2phTjlwSURFdTVPZUFDaUZnMHlJdEhqbEYwa3M0bmpsejFNSnc5aVZHUzUtTHdMT3doMTVISjhSR2hJWExJNjlrdWlmRWF3bjlMTXpWbWh3?oc=5",
-          "source": "Google News: CS2 (Skin.Club Community)",
-          "published": "2026-11-11T22:09:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "PGL is heading to Ulaanbaatar: Mongolia to host top international Counter-Strike 2 tournament in 2027",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazc5YVY0LXVpOVY0cmZWT0lfRTJQNXhkR3ZzOWE3Qm9YRERmUzN4aVNSeDBiVXBHMDcwU0xHTmJMM1NETjF2dlBpNmtxOVlBdVY2MTloX0ZOaHBLOHdDZW5hT0dWZmRiYURjZE1MREgtV0t4U1R2ZWtELW5fN0I2OXZvdWVPZUdOTUszVDZNdjhDUEVtOWRIV0Z3YmFHUnRTYjM1UVFaSjFCSWtudExXMXg4alRwNGVkQldFWA?oc=5",
-          "source": "Google News: CS2 (Focus Gaming News)",
-          "published": "2026-11-11T13:50:05.000Z",
+          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHhKd2pnNUxvR2p4bVZndHl4US1HLVg1ZXM5NU5DLVozNW5hMFFoblVqaUtCTFJoMU9EaGhOTFZMTlA2YXY4blFVSExCM1VERkwtOFhNUFZmR0F6MkFpSUx2WVF6QzFPVGNZeW1UOC1ZV0JyZ3hScUZvZEdNWUV6WnFzYnphT2xia3Nacm9JOUItWXpYNkZwZFVJNFRXSDhaY0c3SlViVEVDaEhfSHZCTENiUXZnMmtEMnZUNGZIWmR1UUZqX0lYZlpXcm5tYS1sOGV5UmpiTGtmRGFrcmllbEROSQ?oc=5",
+          "source": "Google News: CS2 (ANI News)",
+          "published": "2026-11-12T10:44:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -141,45 +132,26 @@
           ]
         },
         {
-          "title": "The Most Influential Maps In Counter-Strike ESports History",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGxLdHBUV0FVczNLbnc4SEVWaE1saW5xQkoxVHlNZHo1MHV6bks4QWl3TlMxLWduaVpGT2RxX0dFMVExWFRvUkxnbkR0VkdmcUx6VHEwUVN0SDRkRVVxZFlsamFBaFN4Uk1lY0lUdC1hcXk4NWlHSjhFc2hQUmpkbUViMW1hUzBLWV9wS3g2YUU?oc=5",
-          "source": "Google News: CS2 (MKAU Gaming)",
-          "published": "2026-11-11T13:07:56.000Z",
+          "title": "IEM. Beijing 2026 - advanced stats (xR + Big Chances + PPxR)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu9jl0/iem_beijing_2026_advanced_stats_xr_big_chances/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T10:39:09.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "history"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Hungrybox announces \"Blitbox\", a 1-day major on Dec 20 in Orlando, feat. Plup, Hbox, Zain, moky, Wizzrobe, Magi, Jchu, and more",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xu1tkl/hungrybox_announces_blitbox_a_1day_major_on_dec/",
-          "source": "r/SSBM",
-          "published": "2026-11-12T03:09:07.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "announces",
-            "hungrybox",
-            "zain",
-            "moky"
+            "won*",
+            "iem"
           ]
         },
         {
-          "title": "Cloud9 debuts in Deadlock with Melee Creeps signing",
-          "url": "https://esports.gg/news/deadlock/cloud9-acquires-melee-creeps/",
-          "source": "esports.gg",
-          "published": "2026-11-12T05:15:27.000Z",
-          "score": 2,
+          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-12T07:10:40.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "roster*"
+            "m0nesy"
           ]
         }
       ]
@@ -304,7 +276,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -316,6 +288,15 @@
           "why": [
             "wins"
           ]
+        },
+        {
+          "title": "Tekken 8 x Nike First Look: King-Inspired Air Max 1 Pieces",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGJnMDZkRVhKNXhObDg1UWJ6NDVLOTVQcS1Rdm8wa1JsMnExcVFpcnRpdzdXRUZSSEFqSmc4dk8yM2xFTGRvd29zaUw3WEFaeFV2QmpNM1VYQXd0SmFDSEg3SWxZSTI3REh6Vjd5NVYwSnI2Uk5hbWRscXQtdE5CeWtLbFdFVTUzYzlz?oc=5",
+          "source": "Google News: Tekken (https://thegame.ph/)",
+          "published": "2026-11-12T10:44:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Anybody got this error when installing the new update?",
@@ -420,6 +401,23 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cloud9 debuts in Deadlock with Melee Creeps signing",
+          "url": "https://esports.gg/news/deadlock/cloud9-acquires-melee-creeps/",
+          "source": "esports.gg",
+          "published": "2026-11-12T05:15:27.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
         }
       ]
     },
