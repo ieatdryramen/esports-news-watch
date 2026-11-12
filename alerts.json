@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-12T03:10:19.976Z",
+      "level": "possible",
+      "scene": "Melee",
+      "title": "Hungrybox announces \"Blitbox\", a 1-day major on Dec 20 in Orlando, feat. Plup, Hbox, Zain, moky, Wizzrobe, Magi, Jchu, and more",
+      "url": "https://www.reddit.com/r/SSBM/comments/1xu1tkl/hungrybox_announces_blitbox_a_1day_major_on_dec/",
+      "source": "r/SSBM",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "announces",
+        "hungrybox",
+        "zain",
+        "moky"
+      ],
+      "summary": "submitted by /u/krautbaguette to r/SSBM [link] [comments]",
+      "published": "2026-11-12T03:09:07.000Z"
+    },
+    {
       "alertedAt": "2026-11-11T21:05:20.682Z",
       "level": "possible",
       "scene": "Dota",
