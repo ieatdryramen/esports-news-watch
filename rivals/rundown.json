@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T15:30:39.834Z",
+  "generatedAt": "2026-11-12T16:30:39.328Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 14,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
@@ -34,19 +34,6 @@
             "patch notes*",
             "balance",
             "buff*"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Roadmap Revealed: Nightcrawler, New Map, Events, Skins, and More",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sazRPWUhrUnp0SWR2M2pINTI4U3pLbnlnU0J4MWpwR1dGRGFxSGR5RE80aWt6X05UNWJUend3c29kZGJEZGxobllMQk91MGZVZnF2Q3B1N0Zab2NZTlVzS0Fn?oc=5",
-          "source": "Google News: Rivals patches (GameRiv)",
-          "published": "2026-11-11T16:22:57.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "revealed",
-            "season",
-            "roadmap"
           ]
         },
         {
@@ -120,6 +107,18 @@
           ]
         },
         {
+          "title": "Marvel Rivals Season 11 Roadmap: All Upcoming Events, Skins, Maps, and More",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RZng3NC1qR011OVI3dDY5bGtmcFA4T2tneDR3SWJQNTJzZkdWWHVpeEFPRGNJYTNKeHBrbzVuejlUdGtJd3hqSE10WWhTOUZjZ1B4U0FQRTBKTG4yUUVlWdIBZkFVX3lxTE1lbGdPUWU3SDdiTXpZRFhGOGxmanJheDFBZkpWMFExeGI1Ukc0ZC0xOGt5dlI1X2U5WGQ2ZTBDWm5udXhwekdRY05aVUdEUXlQVzNxcHJUb1VoR0pQQWJrcTktR2pIQQ?oc=5",
+          "source": "Google News: Rivals patches (Beebom)",
+          "published": "2026-11-11T16:59:06.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "season",
+            "roadmap"
+          ]
+        },
+        {
           "title": "Season 11: Doomsday // Dev Vision Vol. 23 | Marvel Rivals",
           "url": "https://store.steampowered.com/news/app/2767030/view/695403626868244545",
           "source": "Steam: Marvel Rivals (official news + patch notes)",
@@ -132,10 +131,10 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 start time and Nightcrawler release",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TeEhPa21qeEg3dlRZZVd5QzAwMlpyUmI3VDhJejh1dzB0N2R6STVPQktldUJVRElzaE1KMF9fX0pLVU95Z2tud0huZGlLQjVFZjM3Y1dGekRVZFVmNHhZZGpBeFdVWU0xNmZtQzY3M2VmUTB5QVBr?oc=5",
-          "source": "Google News: Rivals esports (GGRecon)",
-          "published": "2026-11-12T13:46:48.000Z",
+          "title": "Marvel Rivals Season 11 release countdown: Start time for all regions",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUh1SnRMUzQ1a1JJX0FNTHU2OUM1NTdJUG1BcUEtazlWTm5uY3JjQUh4VXBXRmZXVUlraU5aSU1GWjVuTU0zZ3Q3dmFfdF9qVEVDOUdPMU94VXJDc0FJNGRkdERtMkZ0YXh5UzM1ZUh6NzN3OGpfdTV5SjRLZG1GeF9pcVFjdS0zcDlyeEhFUFAtdklBZWZnOFJZUjI?oc=5",
+          "source": "Google News: Rivals esports (Sportskeeda)",
+          "published": "2026-11-12T15:31:00.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -143,10 +142,10 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 Pits New York Against Nueva York on Nov 13",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUZEY0VnLS11b0NLTE1jX2pfSU92Yk9FdTEtN2doVHpCLVdUUE9KNnJEX3Nsb1pIdUVoNUF1QXdnVGdiX2tTY0JLSDlCbUxnZ1FTTVBtSlMydHBuTmxPRUkxM2QydnBFV0ZzWUdXWFpuVEc5MmlSdzNBX3hjUmtzUmNZajIwODZpTzNN?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-11T20:34:51.000Z",
+          "title": "Marvel Rivals Season 11 Release Date and Details",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWZ1c2Ywa3NRbTFzSmlVWFF4SmxibGI5SUtRREhoWGF2d3pSS0NQb09WeExkMjY1MkpnNlk0WGZ5eEpSd0tFcFhJNzNjSlgtNzhjbjR4YWR3U2FTem9fYkl0Q0tTTzNXVE5JcG9SeVlWTFNHVlhfNEFEdkJEc0dFS1MxVTRORGJ6Mm1jMUtNTVNKUQ?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-12T13:31:21.000Z",
           "score": 2,
           "level": null,
           "why": [
