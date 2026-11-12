@@ -1,138 +1,10 @@
 {
-  "generatedAt": "2026-11-11T23:00:33.690Z",
+  "generatedAt": "2026-11-12T00:00:39.721Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Dota",
-      "storyCount": 11,
-      "stories": [
-        {
-          "title": "Guardian 2 Lion with cheat",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xto3tl/guardian_2_lion_with_cheat/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T17:36:16.000Z",
-          "score": 8.5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "cheating*",
-            "cheat",
-            "signs*",
-            "reddit only"
-          ]
-        },
-        {
-          "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1dZTzdsZ2VrdlVQdGdQYWVwTUpQVmZTYmNvVGlSbG8zdGViMmtKYkF4dG4tMWpuMzFxNktiNkVKRTNSQlVnaHhDZVFjd1ljc2VjNGNtdnkxMHRGT0szT0hWMUtoaWtGVmN0VkRCNTVwMDJXUm9iWXd6UTl0QV9IWVhkNWNQdVVoWm5lQXVGVm3SAZgBQVVfeXFMTkhwcnNVVER1cWZqSWhiWFRBT183U2Y5dnhjZ1FFX0JlX09QcS1CRzd4UDhnYnp6akhZM1pqcVZCZVBtbFg4UEhPclFzNUNCWkxjRl83MTlMbjVITFl3WWRXOVVZOUNkUkIzUlFuUjFDbmMyRHlhdG9qVHRuYUFWNkpmVXFzeHl5TEhhSzF6a3UtS2dZU29jSVU?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-11T18:06:54.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "joins",
-            "official"
-          ]
-        },
-        {
-          "title": "Team Zenith is disqualified from DreamLeague Division 2 Season 5",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtohzd/team_zenith_is_disqualified_from_dreamleague/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T17:50:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dreamleague"
-          ]
-        },
-        {
-          "title": "Dota 2 Update for November 11, 2026",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtvhw6/dota_2_update_for_november_11_2026/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T22:19:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Flam3ss has been dropping map change hints potentially related to next update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xttwnh/flam3ss_has_been_dropping_map_change_hints/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T21:15:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "What do you think will be in the update?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtrvya/what_do_you_think_will_be_in_the_update/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T19:56:43.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "What are your predictions about what will be added in the next Global Patch?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtqgl3/what_are_your_predictions_about_what_will_be/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T19:03:06.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        },
-        {
-          "title": "Malr1ne Reflected on Dyrachyo’s Current Skill Level in Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSktfQWEtVTJoZWVhczdIN2JZN3RkZ0FtOFZXMFRiejV0Rk01VkJfbHd5b2c5YmtZWVRTZUJGLXN4ZTZ1U2JsSjN0YjJiT1ZtUG1pRjNuWFM5R3ZWZmxYRmpjOEJZQ2xVUkRDU2ZoVEh1LTI2Um1vd0lMQTdacWpXMDdkcTA?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-11T14:20:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Patch might be later than my optimistic ass thought",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtsff4/patch_might_be_later_than_my_optimistic_ass/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T20:17:13.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-11T15:53:36.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "XE - FRG, November 11, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3Z2OEdKbl9wQzdaTGVpTWcwekxDeW5mNHlQdkV1N1QwU2RQcElLcy1raFgycE9CUHJRY1daYVRuR3JvSFg1dXBvcFNKcXZZUF9FUEtZa0F1QkltWEprcUc1TGZlTW85eFBoWTN2ZGR2RjFJcTZNZUVZT1c5NFh4UlNaX05hYUtWeUk1ZlZlU1dKWEVyS01WbmNfWHlrcW5fUzYtUg?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-11T14:24:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 18,
       "stories": [
         {
           "title": "G2 Beat MOUZ 2-1 at BLAST Rivals 2026 Season 2",
@@ -235,6 +107,17 @@
           ]
         },
         {
+          "title": "BLAST Gets $2M Las Vegas Deal for 2028 Counter-Strike Major",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUQ4NVRaZUF6UEVZNUJoNHpiT2hjMGpqcTc3bzhQQXZpbDZxaW9oNzE1NTN0UkN5ekRaeXE3R1N5Zk16VFppOG1ES2phTjlwSURFdTVPZUFDaUZnMHlJdEhqbEYwa3M0bmpsejFNSnc5aVZHUzUtTHdMT3doMTVISjhSR2hJWExJNjlrdWlmRWF3bjlMTXpWbWh3?oc=5",
+          "source": "Google News: CS2 (Skin.Club)",
+          "published": "2026-11-11T22:09:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
           "title": "PGL is heading to Ulaanbaatar: Mongolia to host top international Counter-Strike 2 tournament in 2027",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazc5YVY0LXVpOVY0cmZWT0lfRTJQNXhkR3ZzOWE3Qm9YRERmUzN4aVNSeDBiVXBHMDcwU0xHTmJMM1NETjF2dlBpNmtxOVlBdVY2MTloX0ZOaHBLOHdDZW5hT0dWZmRiYURjZE1MREgtV0t4U1R2ZWtELW5fN0I2OXZvdWVPZUdOTUszVDZNdjhDUEVtOWRIV0Z3YmFHUnRTYjM1UVFaSjFCSWtudExXMXg4alRwNGVkQldFWA?oc=5",
           "source": "Google News: CS2 (Focus Gaming News)",
@@ -267,15 +150,108 @@
             "furia*",
             "blast*"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 9,
+      "stories": [
+        {
+          "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1dZTzdsZ2VrdlVQdGdQYWVwTUpQVmZTYmNvVGlSbG8zdGViMmtKYkF4dG4tMWpuMzFxNktiNkVKRTNSQlVnaHhDZVFjd1ljc2VjNGNtdnkxMHRGT0szT0hWMUtoaWtGVmN0VkRCNTVwMDJXUm9iWXd6UTl0QV9IWVhkNWNQdVVoWm5lQXVGVm3SAZgBQVVfeXFMTkhwcnNVVER1cWZqSWhiWFRBT183U2Y5dnhjZ1FFX0JlX09QcS1CRzd4UDhnYnp6akhZM1pqcVZCZVBtbFg4UEhPclFzNUNCWkxjRl83MTlMbjVITFl3WWRXOVVZOUNkUkIzUlFuUjFDbmMyRHlhdG9qVHRuYUFWNkpmVXFzeHl5TEhhSzF6a3UtS2dZU29jSVU?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-11T18:06:54.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "joins",
+            "official"
+          ]
         },
         {
-          "title": "Fluxo W7M Pauses Counter-Strike After Major Payout Changes and a Sponsor Exit",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcXVPdExLUG9RNHFjTFVuWkVwU1RTdjFpQTVTOHVhSC1XZ1BpVHlQQ2I4SE84dFFqX2xQd2pUdHFtYTdzZzdyTUVNOVgxSFV4ZWxoV0VwVXZ1dmdGNVdDdk02djE3MTFyeGIzRm9RcjhyR1Zoa0VN?oc=5",
-          "source": "Google News: CS2 (The Esports Advocate)",
-          "published": "2026-11-11T17:41:22.000Z",
+          "title": "Dota 2 Update for November 11, 2026",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtvhw6/dota_2_update_for_november_11_2026/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T22:19:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Flam3ss has been dropping map change hints potentially related to next update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xttwnh/flam3ss_has_been_dropping_map_change_hints/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T21:15:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "What do you think will be in the update?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtrvya/what_do_you_think_will_be_in_the_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T19:56:43.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "What are your predictions about what will be added in the next Global Patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtqgl3/what_are_your_predictions_about_what_will_be/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T19:03:06.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
+          ]
+        },
+        {
+          "title": "Malr1ne Reflected on Dyrachyo’s Current Skill Level in Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSktfQWEtVTJoZWVhczdIN2JZN3RkZ0FtOFZXMFRiejV0Rk01VkJfbHd5b2c5YmtZWVRTZUJGLXN4ZTZ1U2JsSjN0YjJiT1ZtUG1pRjNuWFM5R3ZWZmxYRmpjOEJZQ2xVUkRDU2ZoVEh1LTI2Um1vd0lMQTdacWpXMDdkcTA?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-11T14:20:00.000Z",
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Patch might be later than my optimistic ass thought",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xtsff4/patch_might_be_later_than_my_optimistic_ass/",
+          "source": "r/DotA2",
+          "published": "2026-11-11T20:17:13.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-11T15:53:36.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
+          "title": "XE - FRG, November 11, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3Z2OEdKbl9wQzdaTGVpTWcwekxDeW5mNHlQdkV1N1QwU2RQcElLcy1raFgycE9CUHJRY1daYVRuR3JvSFg1dXBvcFNKcXZZUF9FUEtZa0F1QkltWEprcUc1TGZlTW85eFBoWTN2ZGR2RjFJcTZNZUVZT1c5NFh4UlNaX05hYUtWeUk1ZlZlU1dKWEVyS01WbmNfWHlrcW5fUzYtUg?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-11T14:24:50.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -318,17 +294,6 @@
           ]
         },
         {
-          "title": "How JDCR Became a Korean Tekken Legend (EvoFGC Channel)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xtnrtl/how_jdcr_became_a_korean_tekken_legend_evofgc/",
-          "source": "r/Tekken",
-          "published": "2026-11-11T17:24:01.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "jdcr"
-          ]
-        },
-        {
           "title": "4o4 by Sh33rz: Tekken 8 #123",
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9KYWFsWk5UMnhNalB1UUdrMEFmYUFteUhVSlFGLWwycHFFR3FrMU5iQ3NkNWttb3JNUHU4?oc=5",
           "source": "Google News: Tekken (Howl.Link)",
@@ -347,6 +312,17 @@
           "why": [
             "update",
             "official*",
+            "-patch notes"
+          ]
+        },
+        {
+          "title": "Roger Jr. compatibility patch notes for Tekken 8",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZ19iNGFoMzhReDRmTnFZY2ZUMTNRRFFSOFMtUEtKTUxMSjJ5WmtnTm9yQ3BCZXc1RHNMMl9CNXNPWFMxZEhkR3dOaHJOUUN0Y01VQ0U2UmFnTWdxVV9jTTRwVWxUZWg0bnJjMFBFN2liMk9wWk9UUg?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-11T23:15:42.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
             "-patch notes"
           ]
         }
@@ -371,8 +347,30 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
+        {
+          "title": "Monster Kickoff Cards - Hydra (via @GGBreakingPoint)",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtxj25/monster_kickoff_cards_hydra_via_ggbreakingpoint/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T23:47:31.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "hydra"
+          ]
+        },
+        {
+          "title": "Dashy BIG 1V3 CLUTCH",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtwxcd/dashy_big_1v3_clutch/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-11T23:20:10.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dashy"
+          ]
+        },
         {
           "title": "Ghosty j1v3 in a Map 5 Round 11 with 15secs left",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtv74l/ghosty_j1v3_in_a_map_5_round_11_with_15secs_left/",
@@ -411,20 +409,20 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "Zangief actor Olivier Richters lives up to his promise and enters a Street Fighter 6 tournament... and he was kind of popping off",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEl6THJSeTFwQlBXbW9KY3NpWDFsWmVHa1c5czVrODFZR2JrNWtFMThxUDdyQTJ3VzIxb1J2VUVoZm5VWWhlbTBuLWx3UjBLRERvUlRpRW95R19zVVYwLWYzQUFkcmhmbXhhVFZQSjFKTkh6VFFNNzlIQjBLME9hcUM4VmEzbmw1Mld5X3gxTWFTdw?oc=5",
+          "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbi12bVVJcTRvWUlXSHRSR1NZUEVNOFhISjhVWDhnZDJET0xZa0pRMjluZ0traGsxZ2kwQVVoRjM3VzdXc29nRTdsalFkU3BNd0hwaW9FSHhnMXB3UGFYa2VBbFQ2dFl3WDVuQU4xQzNzM1ZyakozU2tHQmk?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-11T14:09:07.000Z",
+          "published": "2026-11-11T23:06:45.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Besides the expected Tifa reveal at TGA, what else are you hoping Capcom shows for SF6 at TGA?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xtnno0/besides_the_expected_tifa_reveal_at_tga_what_else/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-11T17:19:47.000Z",
-          "score": 0,
+          "title": "Zangief actor Olivier Richters lives up to his promise and enters a Street Fighter 6 tournament... and he was kind of popping off",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEl6THJSeTFwQlBXbW9KY3NpWDFsWmVHa1c5czVrODFZR2JrNWtFMThxUDdyQTJ3VzIxb1J2VUVoZm5VWWhlbTBuLWx3UjBLRERvUlRpRW95R19zVVYwLWYzQUFkcmhmbXhhVFZQSjFKTkh6VFFNNzlIQjBLME9hcUM4VmEzbmw1Mld5X3gxTWFTdw?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-11T14:09:07.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }

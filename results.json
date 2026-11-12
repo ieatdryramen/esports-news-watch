@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:30:30.899Z",
+  "generatedAt": "2026-11-12T00:00:25.971Z",
   "source": "start.gg",
   "completed": [
     {
@@ -152,7 +152,7 @@
       "game": "Street Fighter 6",
       "tournament": "TNS Street Fighter 6 #172",
       "event": "Street Fighter 6",
-      "entrants": 148,
+      "entrants": 177,
       "online": true,
       "major": false,
       "startAt": "2026-11-12T01:00:00.000Z",
@@ -165,7 +165,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Adam's Smash Series #210: I got a Port Priority for ya right here pal",
       "event": "Melee Singles",
-      "entrants": 67,
+      "entrants": 66,
       "online": false,
       "major": false,
       "startAt": "2026-11-12T02:00:00.000Z",
@@ -256,7 +256,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "BOPME XXX",
       "event": "Melee Singles",
-      "entrants": 67,
+      "entrants": 66,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T18:00:00.000Z",
