@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-12T05:00:24.512Z",
+  "generatedAt": "2026-11-12T05:30:23.033Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1750077",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TNS Street Fighter 6 #172",
+      "event": "Street Fighter 6",
+      "entrants": 184,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-12T01:00:00.000Z",
+      "endAt": "2026-11-12T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-street-fighter-6-172/event/street-fighter-6",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "SR NuckleDu"
+        },
+        {
+          "placement": 2,
+          "name": "Ferreras"
+        },
+        {
+          "placement": 3,
+          "name": "Elryonsof"
+        },
+        {
+          "placement": 4,
+          "name": "KB | Star Platinum"
+        },
+        {
+          "placement": 5,
+          "name": "EDLN | zMetra"
+        },
+        {
+          "placement": 5,
+          "name": "Bryan-D"
+        },
+        {
+          "placement": 7,
+          "name": "FightRise | Lazyboredom"
+        },
+        {
+          "placement": 7,
+          "name": "Shine"
+        }
+      ]
+    },
     {
       "eventId": "1754450",
       "scene": "streetfighter",
@@ -204,19 +251,6 @@
       "startAt": "2026-11-11T23:00:00.000Z",
       "endAt": "2026-11-12T05:00:00.000Z",
       "url": "https://www.start.gg/tournament/the-cashbox-48-port-priority-dx-edition/event/melee-singles"
-    },
-    {
-      "eventId": "1750077",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #172",
-      "event": "Street Fighter 6",
-      "entrants": 184,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-12T01:00:00.000Z",
-      "endAt": "2026-11-12T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-172/event/street-fighter-6"
     }
   ],
   "upcoming": [
