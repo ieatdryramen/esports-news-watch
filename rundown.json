@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-12T17:00:38.120Z",
+  "generatedAt": "2026-11-12T18:00:39.252Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 18,
       "stories": [
         {
-          "title": "FUT vs MOUZ / BLAST Rivals 2026 Season 2 - Group B Lower Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu9gbz/fut_vs_mouz_blast_rivals_2026_season_2_group_b/",
+          "title": "Spirit vs G2 / BLAST Rivals 2026 Season 2 - Group B Upper Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xud4yy/spirit_vs_g2_blast_rivals_2026_season_2_group_b/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-12T10:33:49.000Z",
-          "score": 7.5,
+          "published": "2026-11-12T13:45:34.000Z",
+          "score": 5.5,
           "level": "possible",
           "why": [
-            "benched*",
             "roster*",
             "official*",
-            "mouz",
-            "blast",
-            "reddit only"
+            "donk*",
+            "g2",
+            "spirit",
+            "blast"
           ]
         },
         {
@@ -71,19 +71,6 @@
           "why": [
             "vitality",
             "furia"
-          ]
-        },
-        {
-          "title": "Can we just all stop being stupid about donk and ZywOo ?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu9cyj/can_we_just_all_stop_being_stupid_about_donk_and/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-12T10:28:12.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "zywoo",
-            "donk",
-            "vitality*"
           ]
         },
         {
@@ -142,22 +129,32 @@
           ]
         },
         {
-          "title": "IEM. Beijing 2026 - advanced stats (xR + Big Chances + PPxR)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu9jl0/iem_beijing_2026_advanced_stats_xr_big_chances/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-12T10:39:09.000Z",
+          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-12T07:10:40.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "won*",
-            "iem"
+            "m0nesy"
+          ]
+        },
+        {
+          "title": "PGL is heading to Ulaanbaatar: Mongolia to host top international Counter-Strike 2 tournament in 2027",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQkZvOUZmbmF5SDZfVDA2SFVGYTAyTDRVSlg0WldqdnlvcXpDc3ZZelhBaGhycTVMVGlmeFJPd2U5RmZFaGtNTl9MQ1VlaWdOMlNKNzk4S2F5RWJQdVpoVHl0dlBXd3Q4S29PMGdKT3hia3owUmNrRkVRc045alVLRGVrUS1sb096S0ZIdWVkLWhvSUdDdUJ5cmlud0JXdXFkRnlQZWNZVFFwRnVIQWxpbjdyTnhKdGV2QlNFYmdyZkVDNEdiWjhocUl0aHU0M3ZuVmJYS28xZHZjak9oa1Q4UzFabTlzQW5PbUdoRlFyMllnUQ?oc=5",
+          "source": "Google News: CS2 (Yogonet)",
+          "published": "2026-11-12T02:04:57.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
@@ -192,17 +189,6 @@
           "why": [
             "confirmed",
             "prize pool"
-          ]
-        },
-        {
-          "title": "This community also needs a spy that will leak when and what will be the future patches.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xugtng/this_community_also_needs_a_spy_that_will_leak/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T16:10:59.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "leak"
           ]
         },
         {
@@ -248,15 +234,13 @@
           "why": []
         },
         {
-          "title": "Everybody, what shall we do to kill time while waiting for the update?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xu8o4l/everybody_what_shall_we_do_to_kill_time_while/",
+          "title": "My highest kill so far this season..",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xui8ft/my_highest_kill_so_far_this_season/",
           "source": "r/DotA2",
-          "published": "2026-11-12T09:46:29.000Z",
-          "score": 1,
+          "published": "2026-11-12T17:03:30.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "update"
-          ]
+          "why": []
         },
         {
           "title": "Was the penguin not convincing enough? Number patch now, or the Remlings get it!",
@@ -275,21 +259,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Will the new patch favour Yandex this TI?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuajnb/will_the_new_patch_favour_yandex_this_ti/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T11:37:16.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 1,
       "stories": [
         {
           "title": "FaZe x The Flank $100K Invitational | Discussion Thread",
@@ -306,33 +281,24 @@
             "abezy*",
             "cellium*"
           ]
-        },
-        {
-          "title": "Scrap and Dashy Getting Warmed Up before the $100K Flank Invitational",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xu8nn6/scrap_and_dashy_getting_warmed_up_before_the_100k/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T09:45:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
-          ]
-        },
-        {
-          "title": "Bracket for the Flank invitational",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xu8sh2/bracket_for_the_flank_invitational/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T09:54:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
+        {
+          "title": "Anyone know how to combat this error? Won’t let me play online anymore",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xujaqu/anyone_know_how_to_combat_this_error_wont_let_me/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T17:42:38.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
         {
           "title": "Roger Jr Is utterly embarrassing, the worst DLC ever released",
           "url": "https://www.reddit.com/r/Tekken/comments/1xuciqu/roger_jr_is_utterly_embarrassing_the_worst_dlc/",
@@ -381,6 +347,15 @@
           "why": []
         },
         {
+          "title": "I played in my first tournament",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xujgx9/i_played_in_my_first_tournament/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T17:48:59.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "I've used Roger Jr. and I can safely say he's the weakest DLC.",
           "url": "https://www.reddit.com/r/Tekken/comments/1xubye4/ive_used_roger_jr_and_i_can_safely_say_hes_the/",
           "source": "r/Tekken",
@@ -399,6 +374,42 @@
           "why": [
             "-patch notes"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "i keep having hardcore lags on sa1 and sa2 since arjun's update",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xui67c/i_keep_having_hardcore_lags_on_sa1_and_sa2_since/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-12T17:01:20.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update",
+            "won*"
+          ]
+        },
+        {
+          "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbi12bVVJcTRvWUlXSHRSR1NZUEVNOFhISjhVWDhnZDJET0xZa0pRMjluZ0traGsxZ2kwQVVoRjM3VzdXc29nRTdsalFkU3BNd0hwaW9FSHhnMXB3UGFYa2VBbFQ2dFl3WDVuQU4xQzNzM1ZyakozU2tHQmk?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-11T23:06:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dumbest/Weirdest balance changes that you can think of?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xuhikv/dumbestweirdest_balance_changes_that_you_can/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-12T16:37:14.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -438,30 +449,6 @@
           "source": "Tetris Interest",
           "published": "2026-11-12T01:51:43.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbi12bVVJcTRvWUlXSHRSR1NZUEVNOFhISjhVWDhnZDJET0xZa0pRMjluZ0traGsxZ2kwQVVoRjM3VzdXc29nRTdsalFkU3BNd0hwaW9FSHhnMXB3UGFYa2VBbFQ2dFl3WDVuQU4xQzNzM1ZyakozU2tHQmk?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-11T23:06:45.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dumbest/Weirdest balance changes that you can think of?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xuhikv/dumbestweirdest_balance_changes_that_you_can/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-12T16:37:14.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }

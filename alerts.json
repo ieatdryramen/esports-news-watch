@@ -199,27 +199,6 @@
       ],
       "summary": "Krabeni's visa issues mean he will miss the event in Hong Kong.",
       "published": "2026-11-10T18:17:00.000Z"
-    },
-    {
-      "alertedAt": "2026-11-10T17:55:25.824Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "Got a 31-day VACNet cooldown despite not cheating",
-      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xstmir/got_a_31day_vacnet_cooldown_despite_not_cheating/",
-      "source": "r/GlobalOffensive",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 9.5,
-      "why": [
-        "banned*",
-        "cheating",
-        "vac*",
-        "cancelled*",
-        "reddit only"
-      ],
-      "summary": "I recently got VAC Live banned for 31 days and I'm looking for some help, advice or feedback from people who might know more about this. I got the cooldown on November 6th, 2026, and honestly have no idea why. I was playing Premier with a 5-stack on Mirage when our match suddenly got cancelled because of irregular gameplay. Something I found weird was that my cooldown message said \"VAC has flagged YOUR gameplay as irregular\", while all 4 of my teammates got \"A party member's gameplay was flagged as irregular\". We all received cooldowns, but mine was 31 days while theirs were shorter (some got 7 days, others 1 day). For some context, I hadn't played CS2 for around 2–3 weeks before this happened, and this was only my second game after coming back. I had recently started playing again with friends who were also returning to CS2. I wasn't using any cheats, scripts, macros or anything like that. The only thing I can think of that might have looked suspicious was that I was trying to bhop quite a bit using my scroll wheel (just normal jump binds, nothing automated). I was also AFK at the beginning of some rounds because I was chatting with someone. I also hit two pretty suspicious-looking headshots in a row during one round on Mirage. I peeked Window as T, saw someone and prefired a headshot, then did pretty much the same thing to another player. Both shots were legit, but I guess they might have looked suspicious from VACNet's perspective. I've had cooldowns before, but those were",
-      "published": "2026-11-10T17:52:56.000Z"
     }
   ]
 }
