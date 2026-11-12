@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T02:00:37.317Z",
+  "generatedAt": "2026-11-12T03:00:34.085Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -154,7 +154,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
@@ -231,15 +231,6 @@
           "why": []
         },
         {
-          "title": "Patch might be later than my optimistic ass thought",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xtsff4/patch_might_be_later_than_my_optimistic_ass/",
-          "source": "r/DotA2",
-          "published": "2026-11-11T20:17:13.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "OB - XE, November 12, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VOVWNvUl9jdGhEbHZQX05YRTNyMXZOUF9PNDZFcTJFc0E2VnhDdXUzMGdEQUF5RGJFTmUxNXJRYm1odTNOMDNsN0cyY256dmxDSVpubG16NG00M21hRjVoVm1ZcjlHQ3cyRFFDdldRXy1oRjJmdlozemN2X3lTWlpWd0NHT0JNel80a2FMTWJtNVI5WGgzcEdrRQ?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -265,7 +256,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -288,6 +279,17 @@
           "level": null,
           "why": [
             "revealed"
+          ]
+        },
+        {
+          "title": "What are you guys thoughts about harada comment on series s? he is being heavily attacked by xbox users who are also saying very bad stuff about tekken 8",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xu0r0k/what_are_you_guys_thoughts_about_harada_comment/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T02:17:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "harada"
           ]
         },
         {
@@ -326,25 +328,26 @@
       ]
     },
     {
-      "scene": "AoE2",
+      "scene": "Melee",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Called a Cheater 😂",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xtsgy0/called_a_cheater/",
-          "source": "r/aoe2",
-          "published": "2026-11-11T20:18:57.000Z",
+          "title": "On the left is Zain vs Sirmeris at Full Bloom 2024. On the right is the same game built using MP4 video footage alone. Armada, Ken, PPMD stats will soon be possible.",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xu11l7/on_the_left_is_zain_vs_sirmeris_at_full_bloom/",
+          "source": "r/SSBM",
+          "published": "2026-11-12T02:31:17.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "cheater"
+            "zain",
+            "armada"
           ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Monster Kickoff Cards - Hydra (via @GGBreakingPoint)",
@@ -377,17 +380,6 @@
           "level": null,
           "why": [
             "ghosty"
-          ]
-        },
-        {
-          "title": "Official mapset for MW4",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xttaci/official_mapset_for_mw4/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-11T20:51:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "official"
           ]
         }
       ]
@@ -433,7 +425,7 @@
     }
   ],
   "quiet": [
-    "Melee",
+    "AoE2",
     "Brood War",
     "Trackmania",
     "Warcraft III",
