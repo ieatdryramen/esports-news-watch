@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T12:30:34.956Z",
+  "generatedAt": "2026-11-12T13:30:34.674Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
@@ -47,6 +47,18 @@
             "revealed",
             "season",
             "roadmap"
+          ]
+        },
+        {
+          "title": "Marvel Rivals lines up a PC performance boost as Nightcrawler joins Season 11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3BhZUFWd0d1TldPWjlvQzdaRWthTGVpYXdrNV9NLUEzeWNEc0htVXpwbEJfMTdmejdVT2NOaUVfZ0xhb3NDZ0ZfYjhyWTAwRlN4aUdSdWc5VGhiM080TzJhd2M4MVNCdGxhNzczMDJET2VEU3RielY4bE1Gem5Lc0hGTWNmWS01Rzlz?oc=5",
+          "source": "Google News: Rivals patches (MIXED News)",
+          "published": "2026-11-12T12:30:46.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "joins",
+            "season"
           ]
         },
         {
@@ -118,17 +130,6 @@
           "why": [
             "season",
             "guangguang*"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Expands Its X-Men Roster on November 13",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1YyaDJ6OUc3cE9ldkF2cjQ4NzRURzJDOHZRTjk0NDJRQnNZMXhyd1ZjZXE3NGtsazE2ZUdXbUNJWE5pdDdmNUdkNHpMVGtHNmFxTTlaMXpUa1diUkZRM0p1aUpaVnhyUV9Sbm9GdWM5MHB0RWFLRHZ6OEFkbElsMHlwWktSV0JOUlpRWUdZVQ?oc=5",
-          "source": "Google News: Rivals patches (VICE)",
-          "published": "2026-11-11T13:22:26.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
           ]
         },
         {
