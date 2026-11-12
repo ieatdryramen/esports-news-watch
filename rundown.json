@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T12:00:39.250Z",
+  "generatedAt": "2026-11-12T13:00:36.597Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 21,
       "stories": [
         {
           "title": "FUT vs MOUZ / BLAST Rivals 2026 Season 2 - Group B Lower Bracket Final / Post-Match Discussion",
@@ -44,30 +44,6 @@
           "why": [
             "vitality",
             "furia"
-          ]
-        },
-        {
-          "title": "G2 snap loss streak with win over MOUZ",
-          "url": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
-          "source": "HLTV news",
-          "published": "2026-11-11T12:54:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "g2",
-            "mouz"
-          ]
-        },
-        {
-          "title": "LVCVA Approves $2M BLAST Sponsorship for 2028 CS2 Major",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHpxbWtvOUNMVmlxR0RYRVVMc1prbzB3UC1BMW1YZGFkckl3YTJvVWFXcUhjd1hreVhqLVBmYXVqN2JrUjY3WE5lSVNrX2pqN0FEcDl6SDYyZDh3cldFa1c1ZWJESWc3MlVLN09BckhnSGFUc0k0R3E2R3BfblJSVmpjU1k5MHI3QnYzZVVOMnA5R0RBVGUzaDhPQQ?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-11T12:34:49.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "blast",
-            "cs2 major"
           ]
         },
         {
@@ -152,6 +128,28 @@
           "why": [
             "won*",
             "iem"
+          ]
+        },
+        {
+          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-12T07:10:40.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "m0nesy"
+          ]
+        },
+        {
+          "title": "BLAST Gets $2M Las Vegas Deal for 2028 Counter-Strike Major",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUQ4NVRaZUF6UEVZNUJoNHpiT2hjMGpqcTc3bzhQQXZpbDZxaW9oNzE1NTN0UkN5ekRaeXE3R1N5Zk16VFppOG1ES2phTjlwSURFdTVPZUFDaUZnMHlJdEhqbEYwa3M0bmpsejFNSnc5aVZHUzUtTHdMT3doMTVISjhSR2hJWExJNjlrdWlmRWF3bjlMTXpWbWh3?oc=5",
+          "source": "Google News: CS2 (Skin.Club Community)",
+          "published": "2026-11-11T22:09:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
           ]
         }
       ]
@@ -261,7 +259,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -309,6 +307,15 @@
           "source": "Google News: Tekken (Howl.Link)",
           "published": "2026-11-11T19:13:25.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "I've used Roger Jr. and I can safely say he's the weakest DLC.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xubye4/ive_used_roger_jr_and_i_can_safely_say_hes_the/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T12:51:14.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -408,19 +415,8 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "Favorite Official Artworks of Ken?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xu50dp/favorite_official_artworks_of_ken/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-12T05:59:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "official"
-          ]
-        },
         {
           "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbi12bVVJcTRvWUlXSHRSR1NZUEVNOFhISjhVWDhnZDJET0xZa0pRMjluZ0traGsxZ2kwQVVoRjM3VzdXc29nRTdsalFkU3BNd0hwaW9FSHhnMXB3UGFYa2VBbFQ2dFl3WDVuQU4xQzNzM1ZyakozU2tHQmk?oc=5",
