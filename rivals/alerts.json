@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-12T12:35:19.764Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals lines up a PC performance boost as Nightcrawler joins Season 11",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3BhZUFWd0d1TldPWjlvQzdaRWthTGVpYXdrNV9NLUEzeWNEc0htVXpwbEJfMTdmejdVT2NOaUVfZ0xhb3NDZ0ZfYjhyWTAwRlN4aUdSdWc5VGhiM080TzJhd2M4MVNCdGxhNzczMDJET2VEU3RielY4bE1Gem5Lc0hGTWNmWS01Rzlz?oc=5",
+      "source": "Google News: Rivals patches (MIXED News)",
+      "outlets": [
+        "MIXED News"
+      ],
+      "score": 5,
+      "why": [
+        "joins",
+        "season"
+      ],
+      "summary": "",
+      "published": "2026-11-12T12:31:13.000Z"
+    },
+    {
       "alertedAt": "2026-11-12T09:45:19.607Z",
       "level": "breaking",
       "scene": "Marvel Rivals",
