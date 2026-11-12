@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T05:40:22.691Z",
+  "generatedAt": "2026-11-12T06:40:24.342Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 16,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
@@ -105,18 +105,6 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 Battle Pass Leak Reveals Classic Outfits for Daredevil, Iron Man, and More",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ybXZLVGF5R1N0NnBkSjdtQ2NvV0tVdzI2MlFFZEs2OVhZYjdYMVVlSXZYb1l2ZU9LS2RuVV82akxmaEVVWEhvQlJIVk85SkluZklpbjlOZlk1S09hbTUtUkVDRjYyVmd5Y2pIVtIBckFVX3lxTFBYVkNRbUd0a1hjVkxsLTdSQWxUa0NlZk1sQ1pKdktJOXA2YTJyM1pQN21lRGVsNVhRV1Z1cEl4NVJ2dTBZZDB5ZXdYN2VpNlBSblhqUmg0blJfZm1XZHFyRnJId0tJLTMyeUZnV1VNUTBmQQ?oc=5",
-          "source": "Google News: Rivals patches (Beebom)",
-          "published": "2026-11-11T06:12:59.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "leak",
-            "season"
-          ]
-        },
-        {
           "title": "Marvel Rivals Expands Its X-Men Roster on November 13",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1YyaDJ6OUc3cE9ldkF2cjQ4NzRURzJDOHZRTjk0NDJRQnNZMXhyd1ZjZXE3NGtsazE2ZUdXbUNJWE5pdDdmNUdkNHpMVGtHNmFxTTlaMXpUa1diUkZRM0p1aUpaVnhyUV9Sbm9GdWM5MHB0RWFLRHZ6OEFkbElsMHlwWktSV0JOUlpRWUdZVQ?oc=5",
           "source": "Google News: Rivals patches (VICE)",
@@ -128,10 +116,10 @@
           ]
         },
         {
-          "title": "Nightcrawler Teleports Into ‘Marvel Rivals’ Season 11 as a Strategist",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFFSVXd3YTROekh1YjF3MjAyaWtpUjlIelNLSk1oUWVGWWE4V3pMN2cyYk1UQWxQRklDcmpqMTMyTWFTM0QzT09iMjNlWnVOWWs1d3ozd1RMX2JfY3VYT3A1S28tYXgyRTN2VHVRd25EQlZzc1ptY3N2VzVsOENiUUlhZlU?oc=5",
-          "source": "Google News: Rivals patches (Geeks of Color)",
-          "published": "2026-11-12T03:00:45.000Z",
+          "title": "BAMF! Nightcrawler Arrives In Marvel Rivals Season 11",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3VJa09BNHFGeXlyNTlYelAwMTczZ0E2SGpnVnZmVGI5bEM2Qi1mandQZHZXQVNzOTc1VE9nOVNIZ2N0Ujk1SVNLM29fVmVaUmljNm9qbjdTcUpMRk53U1RWQlB5S2dqNlpHX2NJeGJDdGU1MEZ0cV9RMXZBWXM3RGZ4T0N1ZnRHeVQ0VXVGTQ?oc=5",
+          "source": "Google News: Rivals patches (THE MAGIC RAIN)",
+          "published": "2026-11-12T06:29:09.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -143,6 +131,17 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUZEY0VnLS11b0NLTE1jX2pfSU92Yk9FdTEtN2doVHpCLVdUUE9KNnJEX3Nsb1pIdUVoNUF1QXdnVGdiX2tTY0JLSDlCbUxnZ1FTTVBtSlMydHBuTmxPRUkxM2QydnBFV0ZzWUdXWFpuVEc5MmlSdzNBX3hjUmtzUmNZajIwODZpTzNN?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-11T20:34:51.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11: Doomsday Launches This Week With Debut of Nightcrawler",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEYyVVE2OWdiWjlGeFBXb0NldnRUaGd2VS1fVV9QNE90a2QtWDM5bDVXaHgzVXhBWmRSR3hIOGtvUURsRzZ5cm42djVDenh0RE5qVkFvZVJxb0JZcDU2elZ5cFNvLVl1c3JoNTNEUWthQWItV3BBQTZuV1BXR0lvaWdPSG4zbllHZ1BOWUNaeU1aTTNTYzRzQ2RQRE83ZHB5SlBvTk93?oc=5",
+          "source": "Google News: Rivals esports (Xbox Achievements)",
+          "published": "2026-11-11T12:56:53.000Z",
           "score": 2,
           "level": null,
           "why": [
