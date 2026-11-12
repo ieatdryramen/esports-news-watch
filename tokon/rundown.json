@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T02:50:23.933Z",
+  "generatedAt": "2026-11-12T03:50:27.544Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
@@ -15,6 +15,17 @@
           "level": null,
           "why": [
             "dlc"
+          ]
+        },
+        {
+          "title": "NJPW Issues Statement On Tokon Shop Global + Fred Rosser Reacts",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaTZEWEpIYWEtRW1QNEtSa1N3aERSTWNIY0tBWHlXMHdFVjVubmVZVHNWY2Vmb2ZrY281YkU0bmdNLXVIZWNFX3FjQjl6M0JUYUNlazdXeHB4bmo1VUk0a2pEd2doRmhXMmxMMjE4RmltUkdvSWdzSDR2UmdUUlplMTR3WDhVWG1GSzNpLUJqenRZUFB2VjAyd1k4ME9aWnJOXzZRSw?oc=5",
+          "source": "Google News: Tokon competitive (eWrestlingNews.com)",
+          "published": "2026-11-12T03:18:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "statement"
           ]
         }
       ]
