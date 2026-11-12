@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-11-12T23:00:41.118Z",
+  "generatedAt": "2026-11-12T23:30:43.508Z",
   "source": "start.gg",
   "completed": [],
   "live": [],
   "upcoming": [
+    {
+      "eventId": "1751157",
+      "scene": "tokon",
+      "game": "Fighting Souls",
+      "tournament": "MA: MARVEL Tōkon Fighting Souls NA #14 (PC/PS5) Are You Motivated?",
+      "event": "MA: MARVEL Tōkon Fighting Souls NA #14 (PC/PS5) Are You Motivated?",
+      "entrants": 51,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-13T01:00:00.000Z",
+      "endAt": "2026-11-14T01:00:00.000Z",
+      "url": "https://www.start.gg/tournament/ma-marvel-t-kon-fighting-souls-na-14-pc-ps5-are-you-motivated/event/ma-marvel-t-kon-fighting-souls-na-14-pc-ps5-are-you-motivated"
+    },
     {
       "eventId": "1650870",
       "scene": "tokon",
