@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T06:00:36.998Z",
+  "generatedAt": "2026-11-12T07:00:37.488Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Legacy vs Falcons / BLAST Rivals 2026 Season 2 - Group A Lower Bracket Final / Post-Match Discussion",
@@ -59,19 +59,6 @@
           ]
         },
         {
-          "title": "Vitality sweep Falcons to make Rivals playoffs on apEX's return",
-          "url": "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
-          "source": "HLTV news",
-          "published": "2026-11-11T06:32:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "return",
-            "vitality",
-            "esl pro league*"
-          ]
-        },
-        {
           "title": "Another banger. Another banger by NiKo, TeSeS, m0NESY, kyousuke and karrigan from Team Falcons",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu2oby/another_banger_another_banger_by_niko_teses/",
           "source": "r/GlobalOffensive",
@@ -123,6 +110,29 @@
           ]
         },
         {
+          "title": "Career lowest ratings for ZywOo and apEX",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xu5yb8/career_lowest_ratings_for_zywoo_and_apex/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-12T06:54:23.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "zywoo",
+            "furia*"
+          ]
+        },
+        {
+          "title": "Four gambling-backed teams forced to rebrand for CS2 PGL Singapore Major 2026",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTZuMW1lcVotZDM4VDVISUV0M2wxUVpzS09qVENsa2YwQ2RqbWwzZ2I3c1VMMWlKeUg5MkZXQ2tRWnhoYXlZd3ZQU1QySko4VUxoWWtKQlA1Sk5QZG5DVHF3Zkw4NmMzV2xuU0ozdkRqQXVtM0JGNGMzQndjS1l3NVpvSVpseWt0MDFuR2lMYjc0RjB6VG9Qbw?oc=5",
+          "source": "Google News: CS2 (WIN.GG)",
+          "published": "2026-11-11T22:52:09.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "BLAST Gets $2M Las Vegas Deal for 2028 Counter-Strike Major",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUQ4NVRaZUF6UEVZNUJoNHpiT2hjMGpqcTc3bzhQQXZpbDZxaW9oNzE1NTN0UkN5ekRaeXE3R1N5Zk16VFppOG1ES2phTjlwSURFdTVPZUFDaUZnMHlJdEhqbEYwa3M0bmpsejFNSnc5aVZHUzUtTHdMT3doMTVISjhSR2hJWExJNjlrdWlmRWF3bjlMTXpWbWh3?oc=5",
           "source": "Google News: CS2 (Skin.Club Community)",
@@ -142,17 +152,6 @@
           "level": null,
           "why": [
             "pgl"
-          ]
-        },
-        {
-          "title": "The Most Influential Maps In Counter-Strike ESports History",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGxLdHBUV0FVczNLbnc4SEVWaE1saW5xQkoxVHlNZHo1MHV6bks4QWl3TlMxLWduaVpGT2RxX0dFMVExWFRvUkxnbkR0VkdmcUx6VHEwUVN0SDRkRVVxZFlsamFBaFN4Uk1lY0lUdC1hcXk4NWlHSjhFc2hQUmpkbUViMW1hUzBLWV9wS3g2YUU?oc=5",
-          "source": "Google News: CS2 (MKAU Gaming)",
-          "published": "2026-11-11T13:07:56.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "history"
           ]
         }
       ]
@@ -202,11 +201,11 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVdIBmAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1dZTzdsZ2VrdlVQdGdQYWVwTUpQVmZTYmNvVGlSbG8zdGViMmtKYkF4dG4tMWpuMzFxNktiNkVKRTNSQlVnaHhDZVFjd1ljc2VjNGNtdnkxMHRGT0szT0hWMUtoaWtGVmN0VkRCNTVwMDJXUm9iWXd6UTl0QV9IWVhkNWNQdVVoWm5lQXVGVm3SAZgBQVVfeXFMTkhwcnNVVER1cWZqSWhiWFRBT183U2Y5dnhjZ1FFX0JlX09QcS1CRzd4UDhnYnp6akhZM1pqcVZCZVBtbFg4UEhPclFzNUNCWkxjRl83MTlMbjVITFl3WWRXOVVZOUNkUkIzUlFuUjFDbmMyRHlhdG9qVHRuYUFWNkpmVXFzeHl5TEhhSzF6a3UtS2dZU29jSVU?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-11T18:06:54.000Z",
           "score": 5,
@@ -227,6 +226,18 @@
             "the last*",
             "wins*",
             "won"
+          ]
+        },
+        {
+          "title": "Dota 2 confirmed for a fourth straight Esports World Cup, with 2027 format and prize pool unannounced",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONF9FSzlKTHJrQXVIaHVRTktYWEhGa2V0SGhNWmlMLVpwb1Q0WFdRY1FsS2FIZ3N0NHRjTUpQSnpMRWQzSFp6SGtTTTg3eXB2VXJCLWFQWVgtM2dZOTVtYzg4UFVXM2NCbjRVNFU1cVVHVEd0RlNLTWZuTlNDVjVFUTRPVHdaWG9FSkR4SGxfd2pMOWhGZkxwcE1BTWVIa1hHVTI4cmNFekdrSVh5MUVhZjAxUFU1VHEzNlZqLUs1RGY5Z1hEdWNPNTlTUElIWVp0TGM4?oc=5",
+          "source": "Google News: Dota (Esports.net)",
+          "published": "2026-11-12T06:21:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "confirmed",
+            "prize pool"
           ]
         },
         {
@@ -304,7 +315,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Roger Jr. Returns in Tekken 8: History, Story & Release Date",
@@ -352,17 +363,6 @@
           ]
         },
         {
-          "title": "Did the update break the game?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xu3i27/did_the_update_break_the_game/",
-          "source": "r/Tekken",
-          "published": "2026-11-12T04:35:13.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "4o4 by Sh33rz: Tekken 8 #123",
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9KYWFsWk5UMnhNalB1UUdrMEFmYUFteUhVSlFGLWwycHFFR3FrMU5iQ3NkNWttb3JNUHU4?oc=5",
           "source": "Google News: Tekken (Howl.Link)",
@@ -394,18 +394,18 @@
       ]
     },
     {
-      "scene": "CoD",
+      "scene": "AoE2",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Monster Kickoff Cards - Hydra (via @GGBreakingPoint)",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtxj25/monster_kickoff_cards_hydra_via_ggbreakingpoint/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-11T23:47:31.000Z",
-          "score": 2,
+          "title": "If you want to ban Arabia this map pool, you're not allowed to ban anything else.",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xu5b09/if_you_want_to_ban_arabia_this_map_pool_youre_not/",
+          "source": "r/aoe2",
+          "published": "2026-11-12T06:15:45.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "hydra"
+            "ban"
           ]
         }
       ]
@@ -456,8 +456,17 @@
     },
     {
       "scene": "Classic Tetris",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Final Day and Afterparty – 2026 CTWC Experience – Day 3 – Part 9",
+          "url": "https://tetrisinterest.com/final-day-and-afterparty-2026-ctwc-experience-day-3-part-9/",
+          "source": "Tetris Interest",
+          "published": "2026-11-12T06:53:56.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Touring the Expo and Doing Stats Work at the Classic Tetris World Championship – 2026 CTWC Experience – Day 2 – Part 8",
           "url": "https://tetrisinterest.com/touring-the-expo-and-doing-stats-work-at-the-classic-tetris-world-championship-2026-ctwc-experience-day-2-part-8/",
@@ -488,10 +497,10 @@
     }
   ],
   "quiet": [
-    "AoE2",
     "Brood War",
     "Trackmania",
     "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
