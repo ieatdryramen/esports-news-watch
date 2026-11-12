@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:00:35.376Z",
+  "generatedAt": "2026-11-12T06:00:36.998Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -125,7 +125,7 @@
         {
           "title": "BLAST Gets $2M Las Vegas Deal for 2028 Counter-Strike Major",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUQ4NVRaZUF6UEVZNUJoNHpiT2hjMGpqcTc3bzhQQXZpbDZxaW9oNzE1NTN0UkN5ekRaeXE3R1N5Zk16VFppOG1ES2phTjlwSURFdTVPZUFDaUZnMHlJdEhqbEYwa3M0bmpsejFNSnc5aVZHUzUtTHdMT3doMTVISjhSR2hJWExJNjlrdWlmRWF3bjlMTXpWbWh3?oc=5",
-          "source": "Google News: CS2 (Skin.Club)",
+          "source": "Google News: CS2 (Skin.Club Community)",
           "published": "2026-11-11T22:09:19.000Z",
           "score": 3,
           "level": null,
@@ -159,7 +159,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Hungrybox announces \"Blitbox\", a 1-day major on Dec 20 in Orlando, feat. Plup, Hbox, Zain, moky, Wizzrobe, Magi, Jchu, and more",
@@ -186,16 +186,27 @@
             "zain",
             "armada"
           ]
+        },
+        {
+          "title": "Cloud9 debuts in Deadlock with Melee Creeps signing",
+          "url": "https://esports.gg/news/deadlock/cloud9-acquires-melee-creeps/",
+          "source": "esports.gg",
+          "published": "2026-11-12T05:15:27.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Official: Dota 2 joins the Esports World Cup 2027 lineup",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1dZTzdsZ2VrdlVQdGdQYWVwTUpQVmZTYmNvVGlSbG8zdGViMmtKYkF4dG4tMWpuMzFxNktiNkVKRTNSQlVnaHhDZVFjd1ljc2VjNGNtdnkxMHRGT0szT0hWMUtoaWtGVmN0VkRCNTVwMDJXUm9iWXd6UTl0QV9IWVhkNWNQdVVoWm5lQXVGVm3SAZgBQVVfeXFMTkhwcnNVVER1cWZqSWhiWFRBT183U2Y5dnhjZ1FFX0JlX09QcS1CRzd4UDhnYnp6akhZM1pqcVZCZVBtbFg4UEhPclFzNUNCWkxjRl83MTlMbjVITFl3WWRXOVVZOUNkUkIzUlFuUjFDbmMyRHlhdG9qVHRuYUFWNkpmVXFzeHl5TEhhSzF6a3UtS2dZU29jSVU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVdIBmAFBVV95cUxOSHByc1VURHVxZmpJaGJYVEFPXzdTZjl2eGNnUUVfQmVfT1BxLUJHN3hQOGdienpqSFkzWmpxVkJlUG1sWDhQSE9yUXM1Q0JaTGNGXzcxOUxuNUhMWXdZZFc5VVk5Q2RSQjNSUW5SMUNuYzJEeWF0b2pUdG5hQVY2SmZVcXN4eXlMSGFLMXprdS1LZ1lTb2NJVQ?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-11T18:06:54.000Z",
           "score": 5,
@@ -239,15 +250,6 @@
           "why": [
             "update"
           ]
-        },
-        {
-          "title": "Please report all posts related to patch updates.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xu3qpl/please_report_all_posts_related_to_patch_updates/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T04:48:33.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         },
         {
           "title": "What hero’s do you want to see reworked and what hero’s buffed?",
@@ -393,7 +395,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Monster Kickoff Cards - Hydra (via @GGBreakingPoint)",
@@ -405,24 +407,24 @@
           "why": [
             "hydra"
           ]
-        },
-        {
-          "title": "Dashy BIG 1V3 CLUTCH",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xtwxcd/dashy_big_1v3_clutch/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-11T23:20:10.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
-          ]
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Favorite Official Artworks of Ken?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xu50dp/favorite_official_artworks_of_ken/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-12T05:59:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        },
         {
           "title": "Esports World Cup 2027 brings back Fatal Fury: City of the Wolves alongside Street Fighter 6 while Tekken 8 is likely to follow",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lbi12bVVJcTRvWUlXSHRSR1NZUEVNOFhISjhVWDhnZDJET0xZa0pRMjluZ0traGsxZ2kwQVVoRjM3VzdXc29nRTdsalFkU3BNd0hwaW9FSHhnMXB3UGFYa2VBbFQ2dFl3WDVuQU4xQzNzM1ZyakozU2tHQmk?oc=5",
@@ -438,6 +440,15 @@
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-11T14:09:07.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "STREET FIGHTER 6 RYU DLC & CHUN-LI DLC Desktop Mate Now Available on Steam",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xu4ywn/street_fighter_6_ryu_dlc_chunli_dlc_desktop_mate/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-12T05:56:41.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }

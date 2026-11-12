@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-12T05:30:23.033Z",
+  "generatedAt": "2026-11-12T06:00:26.688Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1751306",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Cashbox #48: Port Priority DX Edition",
+      "event": "Melee Singles",
+      "entrants": 158,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-11T23:00:00.000Z",
+      "endAt": "2026-11-12T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-cashbox-48-port-priority-dx-edition/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Liquid | Hungrybox"
+        },
+        {
+          "placement": 2,
+          "name": "parry.gg | Ultra"
+        },
+        {
+          "placement": 3,
+          "name": "Ginger"
+        },
+        {
+          "placement": 4,
+          "name": "Tempo | Axe"
+        },
+        {
+          "placement": 5,
+          "name": "UMF | Agent"
+        },
+        {
+          "placement": 5,
+          "name": "Parry.gg | Dial M"
+        },
+        {
+          "placement": 7,
+          "name": "RC 20GX | Gahtzu"
+        },
+        {
+          "placement": 7,
+          "name": "RC | Eggdog | Kacey"
+        }
+      ]
+    },
     {
       "eventId": "1750077",
       "scene": "streetfighter",
@@ -238,21 +285,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1751306",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "The Cashbox #48: Port Priority DX Edition",
-      "event": "Melee Singles",
-      "entrants": 158,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-11T23:00:00.000Z",
-      "endAt": "2026-11-12T05:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-cashbox-48-port-priority-dx-edition/event/melee-singles"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1725717",
