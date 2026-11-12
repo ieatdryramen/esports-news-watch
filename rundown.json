@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T21:00:38.871Z",
+  "generatedAt": "2026-11-12T22:00:42.579Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 22,
       "stories": [
         {
           "title": "Am I the only one who randomly saw this Mysterious Button (with the icon of an insect) appear next to the shut down button?",
@@ -93,6 +93,17 @@
           ]
         },
         {
+          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-12T18:17:26.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
           "title": "BLAST Rivals Season 2 2026: Day 2 Results & Highlights",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXlDVDRoakMxM3picTgtTTJRTWY4NHhlbmFzUHNqcjdTUy1iUFV1b3NHd1lIbTNaaDdJaGVjWDFHZGNaZjhwb2x0aC03dko2RjRNYWljRV9HRkxkdVhybHlNMkhqa0d0bGhhVFVfS0dDeUl4b3o3YVZVUkJXaEY1d3N5Yw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -135,23 +146,12 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-12T07:10:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
@@ -210,17 +210,6 @@
           ]
         },
         {
-          "title": "The bestest game with a 2 on it, will, TODAY, get a HUGE update which brings a whole new Act 2!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuf99r/the_bestest_game_with_a_2_on_it_will_today_get_a/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T15:11:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "No[o]ne Complained About the Long Delay in Dota 2 Patches",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbWFUM3FMOFdadEk2ZnZTTWRsOE9td1VNTnlHRHI2djJZLTZ3UkQyaTdEWkx1UVdscGsycVhySVdSTHJhbnVRc0M0MjY3RGZEQ0VMQkR5QzdzbHNlWGJkdWxvaEVWRm80NjJTVVB1b3hPZFoz?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -273,48 +262,6 @@
           "source": "r/DotA2",
           "published": "2026-11-12T17:03:30.000Z",
           "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "FaZe x The Flank $100K Invitational | Discussion Thread",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xugj1m/faze_x_the_flank_100k_invitational_discussion/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T16:00:15.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "prize pool*",
-            "faze",
-            "shotzzy*",
-            "simp*",
-            "abezy*",
-            "cellium*"
-          ]
-        },
-        {
-          "title": "Shotzzy on what separates top teams from the rest",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xumm3t/shotzzy_on_what_separates_top_teams_from_the_rest/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T19:44:25.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "shotzzy"
-          ]
-        },
-        {
-          "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-12T19:05:34.000Z",
-          "score": 1,
           "level": null,
           "why": []
         }
@@ -432,6 +379,43 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Most CLUTCHES in CDL History",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xupn0j/most_clutches_in_cdl_history/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-12T21:42:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "history"
+          ]
+        },
+        {
+          "title": "Shotzzy on what separates top teams from the rest",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xumm3t/shotzzy_on_what_separates_top_teams_from_the_rest/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-12T19:44:25.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "shotzzy"
+          ]
+        },
+        {
+          "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-12T19:05:34.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -473,23 +457,6 @@
       ]
     },
     {
-      "scene": "Warcraft III",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "How a student learned to build Warcraft III patch packs in 2003",
-          "url": "https://www.reddit.com/r/WC3/comments/1xugys2/how_a_student_learned_to_build_warcraft_iii_patch/",
-          "source": "r/WC3",
-          "published": "2026-11-12T16:16:23.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "history*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
       "storyCount": 1,
       "stories": [
@@ -508,6 +475,7 @@
   "quiet": [
     "Brood War",
     "Trackmania",
+    "Warcraft III",
     "Legacy FGC",
     "Quake",
     "Halo"
