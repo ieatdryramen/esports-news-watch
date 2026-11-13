@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-13T18:55:20.662Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "SAW bench NOPEEj and promote Jayy2s",
+      "url": "https://www.hltv.org/news/45986/saw-bench-nopeej-and-promote-jayy2s",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 5,
+      "why": [
+        "bench",
+        "roster*"
+      ],
+      "summary": "The Portuguese team's roster overhaul continues after the coach's dismissal two weeks ago.",
+      "published": "2026-11-13T18:52:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-13T11:25:16.609Z",
       "level": "possible",
       "scene": "Dota",
