@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-13T10:00:41.148Z",
+  "generatedAt": "2026-11-13T11:00:35.976Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 20,
       "stories": [
+        {
+          "title": "Vitality vs MOUZ [0:2]",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv49gd/vitality_vs_mouz_02/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T10:19:23.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "official*",
+            "zywoo*",
+            "ropz*",
+            "vitality",
+            "spirit*"
+          ]
+        },
+        {
+          "title": "MOUZ sweep Vitality as ZywOo confirms career-worst LAN event",
+          "url": "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
+          "source": "HLTV news",
+          "published": "2026-11-13T10:20:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "zywoo",
+            "vitality",
+            "mouz",
+            "blast*"
+          ]
+        },
         {
           "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
@@ -34,14 +64,38 @@
           ]
         },
         {
-          "title": "MOUZ narrowly escape last-place elimination at BLAST against FUT",
-          "url": "https://www.hltv.org/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut",
-          "source": "HLTV news",
-          "published": "2026-11-12T10:35:00.000Z",
-          "score": 5,
+          "title": "Over the last 11 maps on HLTV, ZywOo has a rating of only 0.92",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv49ng/over_the_last_11_maps_on_hltv_zywoo_has_a_rating/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T10:19:42.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "mouz",
+            "the last",
+            "zywoo"
+          ]
+        },
+        {
+          "title": "NAVI were the last team to switch to CS:GO and were at least six months behind the other teams.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv47ak/navi_were_the_last_team_to_switch_to_csgo_and/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T10:15:34.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "the last",
+            "navi"
+          ]
+        },
+        {
+          "title": "At 0.91, BLAST Rivals Hong Kong 2026 is officially the lowest-rated LAN in ZywOo's career (and the only one below 1.0)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv44jc/at_091_blast_rivals_hong_kong_2026_is_officially/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T10:10:58.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "zywoo",
             "blast"
           ]
         },
@@ -102,45 +156,30 @@
           "why": [
             "pgl"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 2,
+      "stories": [
         {
-          "title": "BLAST Rivals Season 2 2026: Day 2 Results & Highlights",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXlDVDRoakMxM3picTgtTTJRTWY4NHhlbmFzUHNqcjdTUy1iUFV1b3NHd1lIbTNaaDdJaGVjWDFHZGNaZjhwb2x0aC03dko2RjRNYWljRV9HRkxkdVhybHlNMkhqa0d0bGhhVFVfS0dDeUl4b3o3YVZVUkJXaEY1d3N5Yw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-12T14:20:39.000Z",
-          "score": 3,
+          "title": "2026-11-15 - Casual of the Week - 075 - Snowsage (previously postponed)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xv4uea/20261115_casual_of_the_week_075_snowsage/",
+          "source": "r/TrackMania",
+          "published": "2026-11-13T10:54:54.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "blast"
+            "postponed",
+            "scrapie*"
           ]
         },
         {
-          "title": "Sky Esports Win G2 x PUBG MOBILE Community Challenge on a Dust II-Inspired Map, Undisputed",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVZvS015TkMyanNFN2pvZ0N6TW9kYTdydWc4NlhQT01jSENjejlfRGljeGpySHZoaXVWUUNPV2dRR2JhS0Eyb0tLQnA3OHJzWVhpbmF2RTRSdDNVWEV1TWlIeDFseDJ1aHR5V0h6U0lHMWQwTEh6UXZaRnlHVk5RUDE5MVUySU5tc0pSbEVFQm5jT3kxVGd4b2xxWnM?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-12T13:31:26.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "g2"
-          ]
-        },
-        {
-          "title": "1w dominates Moscow Cyber Games to punch ticket for PGL Major Singapore",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkJ2SVFjdnE3VnRrVHV2eHdYSzRGZjU4MWhvYS1SMXRXQVBJMnB4QkRIVUxOM0ZHQjJYVFhiVkNVR1FfU21iSDJuSTVHQVEwOXhDNGdPSFhrMU1jNXZUODVNT000dWVKZ2w5MWlfSFhXR2RCUUFwc3ZFTzl5VVhadHFwUGpKZlNqX243OGl5RUFnemI2bjdDRTBadnFMU1dNNklQNlhjZWNhVkhGWnZXS3JXNFU?oc=5",
-          "source": "Google News: CS2 (OneArabia)",
-          "published": "2026-11-12T11:36:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Who are 2026's rookies?",
-          "url": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
-          "source": "HLTV news",
-          "published": "2026-11-12T18:55:00.000Z",
+          "title": "Why Trackmania still matters in sim racing",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGQjlIUmoyNTU3WmQ1bnluR3JXWEowWUktaUNiY1FQeVc3OHV6c1l3OFBaTmdpWERUa1RmWUJEVXVIaWhna0wxbkdzWjZFUlY5UUVTTnM3U3dkQU5XSXlUak82Rm1zMkNyLThiR2d3QWJJbm1fU2M3NDNoT0E?oc=5",
+          "source": "Google News: Trackmania (TopGear South Africa)",
+          "published": "2026-11-13T06:00:46.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -149,7 +188,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
@@ -163,15 +202,13 @@
           ]
         },
         {
-          "title": "Esports World Cup 2027: Dota 2 confirmed for fourth year",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VRF91SHRwMzlNVjhVclJyMFFnNFMxRHJiYlVfc2Z3ZEFlSUF1YnZSTkpIOE9IcndMMWd6a1M0Y2tiaHRjLTBSd0NCb0xRWW5uaG1lQ1YyRFVieWtnN0E?oc=5",
-          "source": "Google News: Dota (Tbreak UAE)",
-          "published": "2026-11-12T10:23:00.000Z",
-          "score": 2,
+          "title": "Malr1ne Reveals His Main Motivation as a Dota 2 Pro Player",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9va3FVNGFZQkpIRUI3Q3VIY2lVaWE4OUgtWElfZDdLLVIzdjdISjN6bmRraTNvc0tTZ0pYdFpFeG1LbDRSWkVJTXFUbTB3LVFBU3FVQXhtY0NjSHgwcUJpOHJRLUV1WFZ6Nm5veFdDMEJnYk04Vmp0YXg0SWxEZw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-13T09:18:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "confirmed"
-          ]
+          "why": []
         },
         {
           "title": "Yay, VALVEs finally dropped an update",
@@ -183,26 +220,6 @@
           "why": [
             "update"
           ]
-        },
-        {
-          "title": "actual update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuveog/actual_update/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T01:58:30.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "No[o]ne Complained About the Long Delay in Dota 2 Patches",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbWFUM3FMOFdadEk2ZnZTTWRsOE9td1VNTnlHRHI2djJZLTZ3UkQyaTdEWkx1UVdscGsycVhySVdSTHJhbnVRc0M0MjY3RGZEQ0VMQkR5QzdzbHNlWGJkdWxvaEVWRm80NjJTVVB1b3hPZFoz?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-12T10:13:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "I'm sure Patch will come next week, because...",
@@ -241,37 +258,21 @@
           "why": []
         },
         {
-          "title": "It’s 5 am should I sleep or wait for patch?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuvgvu/its_5_am_should_i_sleep_or_wait_for_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T02:01:14.000Z",
+          "title": "Z10 - XE, November 13, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHlrdmU0MzJLb2FnRkp1ekhiR05ZS2NXeXZoZUpOUjlPTG5rMFhkTWNUY3N1SnBDQ0txS2JpTzF4S2hTUXBfVTJBQU5SNnFBYm11dkVKa28xRHlLRlJVWTlwWVFPdURvVV93bU13NVl4aGJmNUQ3M3JzeUJQQU5mbHh0c0IxVG9jdjZ4TDRNNEN1c2FTeTZSczFoNnpLTEdv?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-12T15:25:48.000Z",
           "score": 0,
           "level": null,
-          "why": []
-        },
-        {
-          "title": "Nerf OD immediately Valve!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuvfv3/nerf_od_immediately_valve/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T02:00:05.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "This 60 mgb patch was a test before releasing the big one.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuvc0q/this_60_mgb_patch_was_a_test_before_releasing_the/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T01:54:56.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Breaking the most insane (legit) win rate i ever seen in Tekken",
@@ -294,42 +295,58 @@
           "why": [
             "won"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "What if Crusader Knight replaced Cavalier & Paladin upgrades for Teutons?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xv4jhg/what_if_crusader_knight_replaced_cavalier_paladin/",
+          "source": "r/aoe2",
+          "published": "2026-11-13T10:36:22.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "replaced"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Street Fighter Ø Null Set: Roster of One-Off Characters [OC]",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xv4ick/street_fighter_ø_null_set_roster_of_oneoff/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-13T10:34:31.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
         },
         {
-          "title": "Tekken 8 x Nike First Look: King-Inspired Air Max 1 Pieces",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGJnMDZkRVhKNXhObDg1UWJ6NDVLOTVQcS1Rdm8wa1JsMnExcVFpcnRpdzdXRUZSSEFqSmc4dk8yM2xFTGRvd29zaUw3WEFaeFV2QmpNM1VYQXd0SmFDSEg3SWxZSTI3REh6Vjd5NVYwSnI2Uk5hbWRscXQtdE5CeWtLbFdFVTUzYzlz?oc=5",
-          "source": "Google News: Tekken (https://thegame.ph/)",
-          "published": "2026-11-12T10:44:03.000Z",
-          "score": 1,
+          "title": "NYC Locals - $500 prize pot SF6 tournament with comedians roasting",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xv4ob4/nyc_locals_500_prize_pot_sf6_tournament_with/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-13T10:44:45.000Z",
+          "score": 0.5,
           "level": null,
-          "why": []
-        },
-        {
-          "title": "Made the Edgerunners season 1 crew in Tekken",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xuvd7k/made_the_edgerunners_season_1_crew_in_tekken/",
-          "source": "r/Tekken",
-          "published": "2026-11-13T01:56:30.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
+          "why": [
+            "official*"
+          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Flank 100K Invitational Champs: Team ZooMaa(HyDra, Alluka, KiSMET, Owakening)",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xuvmcn/flank_100k_invitational_champs_team_zoomaahydra/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-13T02:08:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "hydra"
-          ]
-        },
         {
           "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
@@ -340,30 +357,13 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Why Trackmania still matters in sim racing",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGQjlIUmoyNTU3WmQ1bnluR3JXWEowWUktaUNiY1FQeVc3OHV6c1l3OFBaTmdpWERUa1RmWUJEVXVIaWhna0wxbkdzWjZFUlY5UUVTTnM3U3dkQU5XSXlUak82Rm1zMkNyLThiR2d3QWJJbm1fU2M3NDNoT0E?oc=5",
-          "source": "Google News: Trackmania (TopGear South Africa)",
-          "published": "2026-11-13T06:00:46.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
     "Melee",
-    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
-    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
