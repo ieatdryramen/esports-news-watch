@@ -1,24 +1,164 @@
 {
-  "generatedAt": "2026-11-13T18:00:55.305Z",
+  "generatedAt": "2026-11-13T19:00:36.480Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "CS2",
+      "storyCount": 14,
+      "stories": [
+        {
+          "title": "G2 vs Falcons / BLAST Rivals 2026 Season 2 - Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv8vxx/g2_vs_falcons_blast_rivals_2026_season_2/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T14:10:45.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "official*",
+            "niko*",
+            "m0nesy*",
+            "karrigan*",
+            "g2"
+          ]
+        },
+        {
+          "title": "SAW bench NOPEEj and promote Jayy2s",
+          "url": "https://www.hltv.org/news/45986/saw-bench-nopeej-and-promote-jayy2s",
+          "source": "HLTV news",
+          "published": "2026-11-13T18:52:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "bench",
+            "roster*"
+          ]
+        },
+        {
+          "title": "Falcons qualify for BLAST Rivals semis over G2",
+          "url": "https://www.hltv.org/news/45984/falcons-qualify-for-blast-rivals-semis-over-g2",
+          "source": "HLTV news",
+          "published": "2026-11-13T14:24:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "karrigan*",
+            "g2",
+            "furia*",
+            "blast"
+          ]
+        },
+        {
+          "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
+          "source": "Google News: CS2 (Field Level Media)",
+          "published": "2026-11-13T11:48:45.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "furia",
+            "blast"
+          ]
+        },
+        {
+          "title": "MOUZ sweep Vitality as ZywOo confirms career-worst LAN event",
+          "url": "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
+          "source": "HLTV news",
+          "published": "2026-11-13T10:20:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "zywoo",
+            "vitality",
+            "mouz",
+            "blast*"
+          ]
+        },
+        {
+          "title": "Hype Tech enters Counter-Strike with ex-Zero Tenacity roster",
+          "url": "https://www.hltv.org/news/45985/hype-tech-enters-counter-strike-with-ex-zero-tenacity-roster",
+          "source": "HLTV news",
+          "published": "2026-11-13T18:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "Record Viewers, Smaller Sticker Checks: CS2’s Biggest Major Paid Teams Less",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeF80OEdQQkM3cmJMRlZEdWdTN0pjVG9jZkxLd0VZUVdXM0lHRXk4MmY0NWg5SkE4MHBLbUhoaVY4Slg2dTFJWW95X3N4cGNFa01oenRzbk9GbWtkMTk5dnZtZXhGTzl3YUMwc09wQWtMeHJXcVY2R252OUprakk0b1VmajdTSVktckhPbWM2QnU0Y0JEc0sxM1ZLaGcydmJlUGNpMXFiWmYxcVE?oc=5",
+          "source": "Google News: CS2 (Guided.news)",
+          "published": "2026-11-13T17:37:21.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "record"
+          ]
+        },
+        {
+          "title": "xelex on playing arena matches: \"It's a lot of experience and prepares me a bit for the Major\"",
+          "url": "https://www.hltv.org/news/45983/xelex-on-playing-arena-matches-its-a-lot-of-experience-and-prepares-me-a-bit-for-the-major",
+          "source": "HLTV news",
+          "published": "2026-11-13T17:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "vitality*",
+            "mouz*"
+          ]
+        },
+        {
+          "title": "BLAST Rivals quarter-finals as they happened",
+          "url": "https://www.hltv.org/news/45979/blast-rivals-quarter-finals-as-they-happened",
+          "source": "HLTV news",
+          "published": "2026-11-13T15:22:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
+          "title": "m0NESY ranks 14th on Forbes Russia's athlete brand list",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTlKZnkwdWVrbmRFcHRfOW45dHpoY0F1WWYwazFOQkZvZFk0V2p1SlJaZ3VKelFObC10VGVzZjRESERxWXFyX3llbzJRaDllSUxxZXdVMTF6Y0Jpa2htSVg1NnlyYnRhbnduVHJBQU4yM0xBbTFzNGw1a3lGOWlCaGpHb0tGRGxCd2JJ?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-13T12:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "m0nesy"
+          ]
+        },
+        {
+          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlBLY3Jsa2lXMnFSYmJ4bGlOOUNzQWdJdkZxVnFrM0tTOEFpSVhKZTNRY0ZxY01ZTEt5ZDk5MloxU19WVUQ1YUNmUUM4R1BtQTg3UVVya1dGZ3lHR0ZReDJ5dXZNWGRrbTI4anJveXRTUl9yY3picVdyNHo2LUwzZGlUb2R4OXc4cTF0SzFNUUwtR0RjSmNWeC02UkFKM1BKVWJ4aWd3YldCUjFaTDZLTkxrTFZabDJQZ1gycHJ3WHNUb2FvU2otb2hsblhVREU1Y2tHSEFab05VVVJM?oc=5",
+          "source": "Google News: CS2 (Big News Network.com)",
+          "published": "2026-11-13T01:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "apEX: \"Probably my worst calling in a long time\"",
+          "url": "https://www.hltv.org/news/45982/apex-probably-my-worst-calling-in-a-long-time",
+          "source": "HLTV news",
+          "published": "2026-11-13T11:18:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "vitality*"
+          ]
+        }
+      ]
+    },
     {
       "scene": "Dota",
       "storyCount": 10,
       "stories": [
-        {
-          "title": "Another Day, another 322: Rottweilas receive lifetime Esports Pro Circuit ban for match-fixing",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv5cp5/another_day_another_322_rottweilas_receive/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T11:23:27.000Z",
-          "score": 8,
-          "level": "possible",
-          "why": [
-            "ban",
-            "match-fixing",
-            "reddit only"
-          ]
-        },
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
@@ -42,10 +182,30 @@
           ]
         },
         {
+          "title": "Astra Invicta updated its roster ahead of BLAST SLAM IX",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvf5gz/astra_invicta_updated_its_roster_ahead_of_blast/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T18:10:11.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
           "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
           "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
           "source": "esports.gg",
           "published": "2026-11-13T14:23:34.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Malr1ne Reveals His Main Motivation as a Dota 2 Pro Player",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9va3FVNGFZQkpIRUI3Q3VIY2lVaWE4OUgtWElfZDdLLVIzdjdISjN6bmRraTNvc0tTZ0pYdFpFeG1LbDRSWkVJTXFUbTB3LVFBU3FVQXhtY0NjSHgwcUJpOHJRLUV1WFZ6Nm5veFdDMEJnYk04Vmp0YXg0SWxEZw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-13T09:18:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -94,150 +254,6 @@
           "source": "r/DotA2",
           "published": "2026-11-13T13:35:27.000Z",
           "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New patch is coming",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv6xxn/new_patch_is_coming/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T12:45:53.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 11,
-      "stories": [
-        {
-          "title": "G2 vs Falcons / BLAST Rivals 2026 Season 2 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv8vxx/g2_vs_falcons_blast_rivals_2026_season_2/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T14:10:45.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "official*",
-            "niko*",
-            "m0nesy*",
-            "karrigan*",
-            "g2"
-          ]
-        },
-        {
-          "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
-          "source": "Google News: CS2 (Field Level Media)",
-          "published": "2026-11-13T11:48:45.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "furia",
-            "blast"
-          ]
-        },
-        {
-          "title": "M0nesy insane triple kill vs G2",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv6zbw/m0nesy_insane_triple_kill_vs_g2/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T12:47:36.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "m0nesy",
-            "g2"
-          ]
-        },
-        {
-          "title": "Record Viewers, Smaller Sticker Checks: CS2’s Biggest Major Paid Teams Less",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeF80OEdQQkM3cmJMRlZEdWdTN0pjVG9jZkxLd0VZUVdXM0lHRXk4MmY0NWg5SkE4MHBLbUhoaVY4Slg2dTFJWW95X3N4cGNFa01oenRzbk9GbWtkMTk5dnZtZXhGTzl3YUMwc09wQWtMeHJXcVY2R252OUprakk0b1VmajdTSVktckhPbWM2QnU0Y0JEc0sxM1ZLaGcydmJlUGNpMXFiWmYxcVE?oc=5",
-          "source": "Google News: CS2 (Guided.news)",
-          "published": "2026-11-13T17:37:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "record"
-          ]
-        },
-        {
-          "title": "m0NESY ranks 14th on Forbes Russia's athlete brand list",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTlKZnkwdWVrbmRFcHRfOW45dHpoY0F1WWYwazFOQkZvZFk0V2p1SlJaZ3VKelFObC10VGVzZjRESERxWXFyX3llbzJRaDllSUxxZXdVMTF6Y0Jpa2htSVg1NnlyYnRhbnduVHJBQU4yM0xBbTFzNGw1a3lGOWlCaGpHb0tGRGxCd2JJ?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-13T12:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
-          ]
-        },
-        {
-          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlBLY3Jsa2lXMnFSYmJ4bGlOOUNzQWdJdkZxVnFrM0tTOEFpSVhKZTNRY0ZxY01ZTEt5ZDk5MloxU19WVUQ1YUNmUUM4R1BtQTg3UVVya1dGZ3lHR0ZReDJ5dXZNWGRrbTI4anJveXRTUl9yY3picVdyNHo2LUwzZGlUb2R4OXc4cTF0SzFNUUwtR0RjSmNWeC02UkFKM1BKVWJ4aWd3YldCUjFaTDZLTkxrTFZabDJQZ1gycHJ3WHNUb2FvU2otb2hsblhVREU1Y2tHSEFab05VVVJM?oc=5",
-          "source": "Google News: CS2 (Big News Network.com)",
-          "published": "2026-11-13T01:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-12T18:17:26.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "karrigan pistol 4k",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv5k66/karrigan_pistol_4k/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T11:35:07.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "karrigan"
-          ]
-        },
-        {
-          "title": "Announcing the first new FACEIT server location coming to Europe. Live December 09 with Season 10.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvdagz/announcing_the_first_new_faceit_server_location/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T17:02:03.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update*",
-            "announced*"
-          ]
-        },
-        {
-          "title": "BLAST Rivals Season 2 2026: Quarterfinals Results & Semifinals Schedule",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnNzbG5qSG9wTnhSX19LRlE4N3B1QUl4TXdnajFJRUFrR0V6SEl4cWlRVXJ6Z3RPV0lrbTlONW1tb1VnTjlZUndEYWtTeXh4cXZhdkY1RGpUY3Z3ZVJTd1ZXNmlmRVBVa2JVZi1Xci1iMXI4SWhYdDBUN3Z3WVo4TEEzelVDR2NkWm1MU2c2RW5Ra3Z4YVNDVnh2TDN5SUdrdXUtVnltVlk?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-13T14:29:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "blast",
-            "-schedule"
-          ]
-        },
-        {
-          "title": "What Esports Sponsorships Reveal About a Web3 Casino: Team Deals, CS2 and Brand Accountability",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU9LZHV6MUtIa1I3dnUtczd1QU9WdkhoVXNadDBNd2RxTkdZYWRqcmIwcTJGaF9acXZQTjItanZqZHRKZWJjTXBzX3Q4NWkyMHNrZEVRUnY2b1VNWmIzS0kzMlRTOGdHZ3VlbU1QSTlxVTRKVGlpc21qMGpQUVAtV1BPXzdkQkdTYktSdm5HN0RET2J2N3Q0bzdfRFRzTERTUHBOTFEtdHdjZVp3alY5MnNiZGROMDZGZUpCbGtDSVZFR0JO?oc=5",
-          "source": "Google News: CS2 (CryptoDaily)",
-          "published": "2026-11-12T18:22:20.000Z",
-          "score": 1,
           "level": null,
           "why": []
         }
@@ -298,6 +314,32 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Dashy and Scrap on the tac sprint GA",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvgff7/dashy_and_scrap_on_the_tac_sprint_ga/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-13T18:58:17.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dashy"
+          ]
+        },
+        {
+          "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-12T19:05:34.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "AoE2",
       "storyCount": 2,
       "stories": [
@@ -326,23 +368,6 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cammy vs Juri in a cyber-punk themed match by me",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xv72h2/cammy_vs_juri_in_a_cyberpunk_themed_match_by_me/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-13T12:51:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "punk"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Trackmania",
       "storyCount": 2,
       "stories": [
@@ -365,43 +390,13 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-12T19:05:34.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "[BSL23] RO16 Group A - TerrOr, OyA, Ultra, Gosudark - Trailer Video",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xv6g4i/bsl23_ro16_group_a_terror_oya_ultra_gosudark/",
-          "source": "r/broodwar",
-          "published": "2026-11-13T12:20:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "bw*"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
     "Classic Tetris",
+    "Brood War",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
