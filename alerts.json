@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-13T11:25:16.609Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Another Day, another 322: Rottweilas receive lifetime Esports Pro Circuit ban for match-fixing",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xv5cp5/another_day_another_322_rottweilas_receive/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 8,
+      "why": [
+        "ban",
+        "match-fixing",
+        "reddit only"
+      ],
+      "summary": "Toxic James Bsk7 Bastian Michael submitted by /u/Dota2ProTips to r/DotA2 [link] [comments]",
+      "published": "2026-11-13T11:23:27.000Z"
+    },
+    {
       "alertedAt": "2026-11-13T10:25:17.396Z",
       "level": "possible",
       "scene": "CS2",
