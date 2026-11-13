@@ -1,6 +1,31 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-13T10:25:17.396Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Team Vitality vs MOUZ / BLAST Rivals 2026 Season 2 - Quarter-Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv4cqf/team_vitality_vs_mouz_blast_rivals_2026_season_2/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "roster*",
+        "eliminated*",
+        "official*",
+        "zywoo*",
+        "ropz*",
+        "vitality",
+        "mouz",
+        "blast",
+        "reddit only"
+      ],
+      "summary": "Team Vitality 🇪🇺 0-2 🇪🇺 MOUZ Mirage: 8-13 Cache: 14-16 Inferno: 🇪🇺 MOUZ MOUZ advances to the Semi-Final. 🇪🇺 Team Vitality Vitality is eliminated. Predicted VRS Impact Team Rank Diff Total 🇪🇺 Vitality #3 → #3 -12 pts 1891 pts 🇪🇺 MOUZ #1 → #1 +16 pts 1979 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Team Information 🇪🇺 Team Vitality | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | TikTok | Weibo | YouTube | Twitch | Bilibili Roster : 🇫🇷 apEX ♛ | 🇫🇷 ZywOo | 🇮🇱 flameZ | 🇬🇧 mezii | 🇪🇪 ropz Coach : 🇫🇷 XTQZZZ 🇪🇺 MOUZ | Liquipedia | HLTV | Official Site | Steam | Faceit | Twitter | Facebook | Instagram | Weibo | YouTube | Twitch | Subreddit Roster : 🇭🇺 torzsi | 🇮🇱 xertioN ♛ | 🇮🇱 Spinx | 🇭🇺 xelex | 🇨🇿 PR Coach : 🇩🇰 sycrone Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes Vitality MAP MOUZ anubis X X ancient mirage ✔ ✔ cache dust2 X X nuke inferno Full Match Stats Team K-D ADR Swing Rating 🇪🇺 Vitality 0.95 🇪🇪 ropz 38-34 79.4 +2.60% 1.21 🇮🇱 flameZ 39-41 82.4 -0.43% 1.13 🇬🇧 mezii 28-36 63.2 +0.55% 1.00 🇫🇷 ZywOo 33-38 67.7 -0.83% 0.86 🇫🇷 apEX 17-39 47.6 -6.47% 0.53 🇪🇺 MOUZ 1.20 🇭🇺 xelex 41-31 81.9 +4.07% 1.44 🇮🇱 xertioN 45-32 88.1 +2.05% 1.41 🇨🇿 PR 36-31 80.7 +1.60% 1.21 🇮🇱 Spinx 34-31 67.3 -0.83% 1.04 🇭🇺 torzsi 32-30 65.0 -2.3",
+      "published": "2026-11-13T10:25:01.000Z"
+    },
+    {
       "alertedAt": "2026-11-12T21:35:17.575Z",
       "level": "possible",
       "scene": "Dota",
