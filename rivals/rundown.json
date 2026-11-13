@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T22:05:26.943Z",
+  "generatedAt": "2026-11-13T23:00:45.120Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -52,6 +52,18 @@
           "why": [
             "season",
             "mrc"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11: Nightcrawler Release Time, Battle Pass and Balance – Esports News Network",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUdVZEdwSWxnVlg1a0xvZ0FDT081RUlkc1U0UlBrUWcwa1ZiX0o3WkZydjlMTFJ5bTZGWmdURGpvZVVoaFRLWWRSNXlhMkhpZ0k2VDRLVHQyUnZIYkxiSFRsZTlHN0piTkFCWkFvdGlIcXBYRWg1TDNZdzdXSlNWbXRpajNYMTQ?oc=5",
+          "source": "Google News: Rivals patches (ESTNN)",
+          "published": "2026-11-13T14:34:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "balance",
+            "season"
           ]
         },
         {
@@ -132,15 +144,6 @@
           "why": [
             "season"
           ]
-        },
-        {
-          "title": "Nightcrawler (Strategist) Full Match Gameplay | Marvel Rivals",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1VmelRmTlJyamRyZmFiejNzUk0xamsyQ3B1b0hZb1d1ZkY2UEFGSURCLWdZdkY5UmxVd3ktRUMzNHhxVHRxRVQweS1RTzN4a214dGhRU3EwNTVwUkFzS0lZb3VpbkloU09Dc1d3SndEb25oUERIUG5ueDY0b2xHOU9vb3kycko4YWRORA?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-13T21:55:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
