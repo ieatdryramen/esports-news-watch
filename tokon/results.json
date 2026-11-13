@@ -1,22 +1,9 @@
 {
-  "generatedAt": "2026-11-13T15:30:38.231Z",
+  "generatedAt": "2026-11-13T16:00:49.620Z",
   "source": "start.gg",
   "completed": [],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1613007",
-      "scene": "tokon",
-      "game": "Fighting Souls",
-      "tournament": "Astral Finish 2026",
-      "event": "Marvel Tokon: Fighting Souls",
-      "entrants": 49,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T16:00:00.000Z",
-      "endAt": "2026-11-16T05:00:00.000Z",
-      "url": "https://www.start.gg/tournament/astral-finish-2026/event/marvel-tokon-fighting-souls"
-    },
     {
       "eventId": "1608371",
       "scene": "tokon",
