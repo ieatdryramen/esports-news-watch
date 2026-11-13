@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T02:00:38.772Z",
+  "generatedAt": "2026-11-13T03:00:40.296Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 18,
       "stories": [
         {
           "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
@@ -135,21 +135,21 @@
           ]
         },
         {
-          "title": "PGL is heading to Ulaanbaatar: Mongolia to host top international Counter-Strike 2 tournament in 2027",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQkZvOUZmbmF5SDZfVDA2SFVGYTAyTDRVSlg0WldqdnlvcXpDc3ZZelhBaGhycTVMVGlmeFJPd2U5RmZFaGtNTl9MQ1VlaWdOMlNKNzk4S2F5RWJQdVpoVHl0dlBXd3Q4S29PMGdKT3hia3owUmNrRkVRc045alVLRGVrUS1sb096S0ZIdWVkLWhvSUdDdUJ5cmlud0JXdXFkRnlQZWNZVFFwRnVIQWxpbjdyTnhKdGV2QlNFYmdyZkVDNEdiWjhocUl0aHU0M3ZuVmJYS28xZHZjak9oa1Q4UzFabTlzQW5PbUdoRlFyMllnUQ?oc=5",
-          "source": "Google News: CS2 (Yogonet)",
-          "published": "2026-11-12T02:04:57.000Z",
-          "score": 3,
+          "title": "CS2 Update Hides a New Frost Mechanic That Freezes Players and Weapons, and Snowy Cobblestone Looks Next",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSW9JMFUwQk5OU3JRODZNYlJ3bVNlUzBmOEFWQ3pNSk5ON2xFblcwRWgwWlFtSEZxdEl6MTZwSnMzeVBlamRnYXRqVmpxVVV0bXBWVzdMaF9IZjhzUkxwbGVzLTgzaDM3SV9xZm1nSnpWNVRwUzJ5ZV81bzRVOG1odGhrNnNuY25Pdnp3bFhTR0tVTXlQV1Vj?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-12T08:52:11.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "pgl"
+            "update"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
@@ -276,10 +276,10 @@
           ]
         },
         {
-          "title": "Nerf OD immediately Valve!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuvfv3/nerf_od_immediately_valve/",
+          "title": "It’s 5 am should I sleep or wait for patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuvgvu/its_5_am_should_i_sleep_or_wait_for_patch/",
           "source": "r/DotA2",
-          "published": "2026-11-13T02:00:05.000Z",
+          "published": "2026-11-13T02:01:14.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -302,14 +302,14 @@
           ]
         },
         {
-          "title": "Most CLUTCHES in CDL History",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xupn0j/most_clutches_in_cdl_history/",
+          "title": "Flank 100K Invitational Champs: Team ZooMaa(HyDra, Alluka, KiSMET, Owakening)",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xuvmcn/flank_100k_invitational_champs_team_zoomaahydra/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-12T21:42:43.000Z",
+          "published": "2026-11-13T02:08:43.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "history"
+            "hydra"
           ]
         },
         {
@@ -343,7 +343,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "New Tekken 8 Season Announced",
@@ -370,15 +370,6 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWdNWHRURjFyZGg4ZmpPQVpMbkRZOHMtUkZuSzhGM2lTc3pFSUt2VHJ1U2pYLS04bGtNRy1fN19RYmRyY2xLOW95Rmw5Z0hiWlNRVTJxUlV3UlI5YnMzX1ZQUFF1VUllRGRTcTI3UUFmc3E5ZTViYWxLZ0ZabWZ3ckdKa1RtUC1aTDR4aW1RRkthMUFZZUIzMFhPZzdGQUVOS2VzelVHM0xjVVEtSV9wZDA4cjFEcUs3M1g0TVB1Y28?oc=5",
           "source": "Google News: Tekken (Bandai Namco Europe)",
           "published": "2026-11-12T09:12:06.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken 8 Roger Jr. | All Special Interaction",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE10bVNjMlMteTlPbWNTbVc2X2g1SzNYZTJHcklHUDFuMVhrNXlTVG92THRJS05nSlhCeU9F?oc=5",
-          "source": "Google News: Tekken (Howl.Link)",
-          "published": "2026-11-12T02:29:32.000Z",
           "score": 1,
           "level": null,
           "why": []
