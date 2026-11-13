@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-11-13T19:00:36.480Z",
+  "generatedAt": "2026-11-13T20:00:41.741Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 14,
       "stories": [
-        {
-          "title": "G2 vs Falcons / BLAST Rivals 2026 Season 2 - Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv8vxx/g2_vs_falcons_blast_rivals_2026_season_2/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T14:10:45.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "official*",
-            "niko*",
-            "m0nesy*",
-            "karrigan*",
-            "g2"
-          ]
-        },
         {
           "title": "SAW bench NOPEEj and promote Jayy2s",
           "url": "https://www.hltv.org/news/45986/saw-bench-nopeej-and-promote-jayy2s",
@@ -73,6 +57,17 @@
             "vitality",
             "mouz",
             "blast*"
+          ]
+        },
+        {
+          "title": "Hype Tech enter CS2 by signing former Zero Tenacity roster",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpNaDV1VEF1bnJxZU9JcGpneHNCN3Jya0JIMFVZclFYNVJvUEhEdkpkcEdoaWRXbFU5VEJ4bnpLLXVINGdwS2Y0ZHlpRVpxQm5EeFFJaGhacV95MC10cDVpNTZuTGFaS3FiX0RoNFdST1NhTmdfMEZQVWc0dVh1Rm1WWkh4MWpZalk4c0Yya2pTZw?oc=5",
+          "source": "Google News: CS2 (Skin.Club)",
+          "published": "2026-11-13T19:39:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
           ]
         },
         {
@@ -157,13 +152,13 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
           "source": "Google News: Dota (Esports Insider)",
-          "published": "2026-11-13T13:10:03.000Z",
+          "published": "2026-11-13T13:21:03.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -197,15 +192,6 @@
           "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
           "source": "esports.gg",
           "published": "2026-11-13T14:23:34.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Malr1ne Reveals His Main Motivation as a Dota 2 Pro Player",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9va3FVNGFZQkpIRUI3Q3VIY2lVaWE4OUgtWElfZDdLLVIzdjdISjN6bmRraTNvc0tTZ0pYdFpFeG1LbDRSWkVJTXFUbTB3LVFBU3FVQXhtY0NjSHgwcUJpOHJRLUV1WFZ6Nm5veFdDMEJnYk04Vmp0YXg0SWxEZw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-13T09:18:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -247,52 +233,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Astra Invicta new lineup (+Sabrelight +RincyQ -Nightfall -DM)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv81cx/astra_invicta_new_lineup_sabrelight_rincyq/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T13:35:27.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Noob Saibot (MK9) wins! Round 12, Fight! What is the best costume from Tekken?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xv9g7k/noob_saibot_mk9_wins_round_12_fight_what_is_the/",
-          "source": "r/Tekken",
-          "published": "2026-11-13T14:33:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Does anyone know where i can download a European release of TTT2 wii u edition as a .wua archive? i want to play as the T7/T8 roster so bad",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xvc0fg/does_anyone_know_where_i_can_download_a_european/",
-          "source": "r/Tekken",
-          "published": "2026-11-13T16:14:04.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "Roger's giant swing has a trailer camera switch",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xvd5mz/rogers_giant_swing_has_a_trailer_camera_switch/",
-          "source": "r/Tekken",
-          "published": "2026-11-13T16:57:16.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -315,8 +255,19 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Dashy \"2 of the 4 teams that voted for OUT on tac sprint btw 😂😂😂 what changed???\" w/ receipts",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvhadj/dashy_2_of_the_4_teams_that_voted_for_out_on_tac/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-13T19:30:19.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dashy"
+          ]
+        },
         {
           "title": "Dashy and Scrap on the tac sprint GA",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvgff7/dashy_and_scrap_on_the_tac_sprint_ga/",
@@ -329,11 +280,48 @@
           ]
         },
         {
-          "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-12T19:05:34.000Z",
+          "title": "Toronto Koi x Monster $25k tournament",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvhr6b/toronto_koi_x_monster_25k_tournament/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-13T19:48:27.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Does anyone know where i can download a European release of TTT2 wii u edition as a .wua archive? i want to play as the T7/T8 roster so bad",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvc0fg/does_anyone_know_where_i_can_download_a_european/",
+          "source": "r/Tekken",
+          "published": "2026-11-13T16:14:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "Would a playable Tekken 7 Season 1/2 get love if it were to get the same rollback love that's been given to older Tekken games and even some other modern FGs (MK9, USF4)?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvgjw9/would_a_playable_tekken_7_season_12_get_love_if/",
+          "source": "r/Tekken",
+          "published": "2026-11-13T19:02:43.000Z",
           "score": 1,
+          "level": null,
+          "why": [
+            "the last*"
+          ]
+        },
+        {
+          "title": "Roger's giant swing has a trailer camera switch",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvd5mz/rogers_giant_swing_has_a_trailer_camera_switch/",
+          "source": "r/Tekken",
+          "published": "2026-11-13T16:57:16.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
