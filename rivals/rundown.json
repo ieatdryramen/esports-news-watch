@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T06:30:35.148Z",
+  "generatedAt": "2026-11-13T07:30:38.497Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 13,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
@@ -96,6 +96,17 @@
           ]
         },
         {
+          "title": "When Will Marvel Rivals Servers Be Back Up? Marvel Rivals Season 11 November 13 Downtime",
+          "url": "https://insider-gaming.com/when-will-marvel-rivals-servers-be-back-up-marvel-rivals-season-11-november-13-downtime/",
+          "source": "Insider Gaming",
+          "published": "2026-11-13T07:00:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
           "title": "Marvel Rivals Season 11: Doomsday Launches on November 13 With Nightcrawler",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGU0dkxfZlNwZWUxOVcxaEZjUjZuNV94SllwQWtUOEZsWjBGcURXdHVKcGNpQkhlSndJZUhWeklkYVR6Mzh4VUpJM1MwUDBQNzl5RXZPZDgyUkdqOG95UTU2N3BWRWw1QVA5Z3o0QzJlak5EM0hPMVI4WVk4RUdBTm5ZckZQZ2VXNmM4M2JSRzF0NUNTdVJxZS1GMGMxWEhvUVRqR2ZOT0gzc19QRFA0d3RIT1RBZw?oc=5",
           "source": "Google News: Rivals esports (KeenGamer)",
@@ -133,17 +144,6 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWZ1c2Ywa3NRbTFzSmlVWFF4SmxibGI5SUtRREhoWGF2d3pSS0NQb09WeExkMjY1MkpnNlk0WGZ5eEpSd0tFcFhJNzNjSlgtNzhjbjR4YWR3U2FTem9fYkl0Q0tTTzNXVE5JcG9SeVlWTFNHVlhfNEFEdkJEc0dFS1MxVTRORGJ6Mm1jMUtNTVNKUQ?oc=5",
           "source": "Google News: Rivals patches (IGN)",
           "published": "2026-11-12T13:31:21.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "All season 11 battle pass skins in Marvel Rivals – The Incursion",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUFvMkQ1Skx1bHFCNkRKcEN1dkNWbWxGS2l5bFhDYVk4dVlDVFFxejlDbnluYnZTVFplbUk3T082a3gwQzBlclhULWN3VU9XaFA1TXpDTGRaRm1SbUJpM1FPMGk4M0VObGxnandqRWJQX2d0dzh0cXh5MTVfLVF3UlZEWWtuU2d4eEtRRTNaWXE2WGRwVkE?oc=5",
-          "source": "Google News: Rivals esports (Destructoid)",
-          "published": "2026-11-12T11:18:00.000Z",
           "score": 2,
           "level": null,
           "why": [

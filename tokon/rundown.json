@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T06:30:37.603Z",
+  "generatedAt": "2026-11-13T07:30:41.593Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Phoenix Cyclops Is the First DLC Fighter in Marvel Tokon: Fighting Souls",
@@ -27,15 +27,6 @@
           "why": [
             "tier list"
           ]
-        },
-        {
-          "title": "【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with @NinomaeInanis !! #calliolive #PR",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBhX19RMWpuZFhfelVUZzVMeFk0ZWUzS2tkTmRxcmJiQkZxbnVOX2lRV1Fnc0JsV2tlQ1NR?oc=5",
-          "source": "Google News: Tokon (Howl.Link)",
-          "published": "2026-11-12T07:16:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
