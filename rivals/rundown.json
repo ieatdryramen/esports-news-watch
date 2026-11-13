@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T17:10:25.394Z",
+  "generatedAt": "2026-11-13T18:10:25.060Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
         {
           "title": "Marvel Rivals IGNITE Grand Finals: Predictions and Rewards",
@@ -28,6 +28,19 @@
           "why": [
             "balance",
             "balance changes"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Balance Update Nerfs Devil Dinosaur, Emma Frost And Doctor Strange",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc2pfX1o0SEo0blZEQW9KRG1NRXgxOU9weWp4bm1lWDVrYkYzUVhESzhMd3VaWUNVMDR0S2d4bnZBaFh4UFhLRlI1WXFJdmo1SEFXVEZEbGFISENQVk8zcGFweldib1lFYWRCelh5dDdGcWx0WGNheDYtUUtFdm5CWW44aHRQU1ZmejU0YVN2ZkM0V1UtM09zN0dMYlBRRHRJVmwxYjlDM1N4QWRBYjVTRmdsUzBrSjN0MGtHa1BDTUpHT1IzbmU0aW1EajhIZXpLcGxtN0pYRHY3LTZjVjRWSEdB?oc=5",
+          "source": "Google News: Rivals patches (GameFragger.com)",
+          "published": "2026-11-12T20:11:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "update",
+            "balance",
+            "season"
           ]
         },
         {
@@ -127,17 +140,6 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzM4RzRJYkRfM05jeWg4dXJvSk05TG5FVWFMbnQ0X3hJcG9CVzJQZmlLSzZDNTV4X1AtZ085bmRaTXFIVlVyQ0FLd2dVTC1lWUNXanVibUVBOEozQk5UZW9iZzNubE4wM3ZrQlllR0w2VzIxRHo2bTgtWEJPSFkwOVZTLVBEOHdhWVRQZHI4S0hCMXEzdVo4aHMyQkoyYXFYMVJjNmlVZ29lYXNSZkdLM0s0QlFiQQ?oc=5",
           "source": "Google News: Rivals patches (Insider Gaming)",
           "published": "2026-11-13T07:00:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 brings Nightcrawler and a new Battle Pass; Gold-tier players can earn his ‘Hope S",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR3VYXzhTaFI0SjFhU2tHbXNVOFA2d1FGSGpnN3RBWE9XdFlwMkdCVW1WYmdGTWt6TGhNby0tVXJ1eWVqNE5Dd3doYkhFOUNSLTdlWTBvSEVaM1RhYk1LNndXUFphYXpKaFhaN0hobmpvRUJlSjhheU9VT0ZaMVU1U0lQRFFneDNvS2oxYjh5dUh3dzBpWmN1WUhIN0NRRDF1Y1RnenV2MUlWUnloWUQ3cHBrdDUxRVdyTWFsVUIzUWZad3U5OHFoM21FN0VHZmJZOTlmOGVUc2VDS0R1NDh2ZVhvYWtaOTdLbmNsZUw5MzE2XzhOekhyUWFrTDhEZ2VrZUFSdXdiMDB4X3h2bUs2aFMtWHdwdXJVUWNEQXg1RU9qd9IBpwJBVV95cUxOQlJ0VkdSRjYyQWgxNVZQX1hHRW1NTWwtYlJiRDJPQ3I0REZnOTNrVDNMaUZONlJkQU1VZi0tZjRPUW0ySWVxOUx5bVgtZ0R1MnoxdnF2NWdtWWhLM3R4RXY3elFhNGd3M3lMNnVITDVia3hMdzRMeWo4bTY5b3o0dDFFZ3FaNmhEa3JWRnV3UHRpS2R1ZThoN2lBRjBDX3BfejF1QTVpbWdyYlVIdVJ6c0tvb29OSnFTTGVVV1ZpZlBPX29Gbi1wTWdvamZLU1p2b3hpbGcwTWRWeXFWdExOdHExMjFacUViVjI4a3dxU3V3bmtFel9iamN4amV1WlRyRmdYRzRfVjJPaExSa3Bod2ZJalhEa0dsUW1xN1dpejdHamh2TldJ?oc=5",
-          "source": "Google News: Rivals patches (The Times of India)",
-          "published": "2026-11-12T17:53:00.000Z",
           "score": 2,
           "level": null,
           "why": [
