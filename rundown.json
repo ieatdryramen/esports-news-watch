@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T13:00:41.807Z",
+  "generatedAt": "2026-11-13T14:00:43.582Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Another Day, another 322: Rottweilas receive lifetime Esports Pro Circuit ban for match-fixing",
@@ -20,15 +20,14 @@
           ]
         },
         {
-          "title": "Topson Reveals When the New Dota 2 Patch Will Actually Be Released",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSG8zYnlQYk1nUm1UOWFUT0pSYURPbjAzU1lXT3FMdkFEVXZBY1RYWjZaUm1UN2hwbEVqdV9IWmkxTzZyZlM4NG5TbkRPYlVSWXJoUDZERlc3cnJBN1VFaGZkSkZkeVlZdEU0TmZYUmFCMmUzelBqazFWb0tQazhtQ09UWWU?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-12T16:07:00.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
+          "source": "Google News: Dota (Esports Insider)",
+          "published": "2026-11-13T13:10:03.000Z",
+          "score": 3,
+          "level": null,
           "why": [
-            "released",
-            "topson"
+            "returns"
           ]
         },
         {
@@ -63,6 +62,15 @@
           ]
         },
         {
+          "title": "Astra Invicta new lineup (+Sabrelight +RincyQ -Nightfall -DM)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv81cx/astra_invicta_new_lineup_sabrelight_rincyq/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T13:35:27.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "New patch is coming",
           "url": "https://www.reddit.com/r/DotA2/comments/1xv6xxn/new_patch_is_coming/",
           "source": "r/DotA2",
@@ -90,24 +98,6 @@
           "why": []
         },
         {
-          "title": "New incoming patch so heavy that is affecting current game version",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuz85z/new_incoming_patch_so_heavy_that_is_affecting/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T05:12:52.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "patch hopium",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuykof/patch_hopium/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T04:37:49.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Z10 - XE, November 13, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHlrdmU0MzJLb2FnRkp1ekhiR05ZS2NXeXZoZUpOUjlPTG5rMFhkTWNUY3N1SnBDQ0txS2JpTzF4S2hTUXBfVTJBQU5SNnFBYm11dkVKa28xRHlLRlJVWTlwWVFPdURvVV93bU13NVl4aGJmNUQ3M3JzeUJQQU5mbHh0c0IxVG9jdjZ4TDRNNEN1c2FTeTZSczFoNnpLTEdv?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -122,8 +112,21 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 26,
+      "storyCount": 25,
       "stories": [
+        {
+          "title": "FURIA hand Vitality the first 13-0 defeat in the organization’s CS history",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkhvQkg5LVhSY3dKMVJkVW5yYVJWbXhBS1lneDlVMDNfUm5fV3VCODZ4MURSZHRJQmdscmhVMTJHTGlZZG44Z09zODJEZTVua2VlYWZtdEpTT3h3ekdBTEs3elZna0RNVWFld2hVTi02Znp2cTVqTDJIYUV4RTdyQzhmeFV4eHZ4TVlkU3hnd0gtM0dVY0x4YzZ0eEJERlk0V2pOMGFhSzJJUTZrS2dRbjYyOVhKUy1meWc?oc=5",
+          "source": "Google News: CS2 (Sheep Esports)",
+          "published": "2026-11-12T15:58:48.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "history",
+            "vitality",
+            "furia"
+          ]
+        },
         {
           "title": "Vitality vs MOUZ [0:2]",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv49gd/vitality_vs_mouz_02/",
@@ -141,6 +144,19 @@
           ]
         },
         {
+          "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
+          "source": "Google News: CS2 (Field Level Media)",
+          "published": "2026-11-13T11:48:45.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "furia",
+            "blast"
+          ]
+        },
+        {
           "title": "MOUZ sweep Vitality as ZywOo confirms career-worst LAN event",
           "url": "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
           "source": "HLTV news",
@@ -152,33 +168,6 @@
             "vitality",
             "mouz",
             "blast*"
-          ]
-        },
-        {
-          "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
-          "source": "Google News: CS2 (Field Level Media)",
-          "published": "2026-11-12T16:58:15.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "furia",
-            "blast"
-          ]
-        },
-        {
-          "title": "Spirit through to Hong Kong semis as BLAST Rivals bracket is set",
-          "url": "https://www.hltv.org/news/45978/spirit-through-to-hong-kong-semis-as-blast-rivals-bracket-is-set",
-          "source": "HLTV news",
-          "published": "2026-11-12T13:58:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality*",
-            "spirit",
-            "mouz*",
-            "blast"
           ]
         },
         {
