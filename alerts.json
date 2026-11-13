@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-13T20:20:26.100Z",
+      "level": "possible",
+      "scene": "Melee",
+      "title": "Zain’s Bowser vs Cody Schwab",
+      "url": "https://www.reddit.com/r/SSBM/comments/1xvigof/zains_bowser_vs_cody_schwab/",
+      "source": "r/SSBM",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "wins*",
+        "zain",
+        "cody schwab"
+      ],
+      "summary": "Imagine Zain trained Lil Bow Wow (his bowser) for a few hours every day for 100 years straight without fatiguing or aging. Once the 100 years are up, he then reverses time and plays current day Cody Schwab in a first to 5 set. Cody is given one day to prepare for the match. Who wins? submitted by /u/DaHero06 to r/SSBM [link] [comments]",
+      "published": "2026-11-13T20:16:04.000Z"
+    },
+    {
       "alertedAt": "2026-11-13T18:55:20.662Z",
       "level": "possible",
       "scene": "CS2",
