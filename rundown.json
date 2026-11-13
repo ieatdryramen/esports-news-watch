@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T07:00:32.877Z",
+  "generatedAt": "2026-11-13T08:00:40.259Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 15,
       "stories": [
         {
           "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
@@ -46,18 +46,6 @@
           ]
         },
         {
-          "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals",
-          "url": "https://www.hltv.org/news/45975/furia-hand-vitality-first-ever-13-0-defeat-to-make-rivals-semi-finals",
-          "source": "HLTV news",
-          "published": "2026-11-12T07:02:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality",
-            "furia"
-          ]
-        },
-        {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN2drblBQNEZ4MHcxZUt4V3VFV1liWHpTcFE1NDBpSm1GMng4TGxZQ2NYLXlpYU9jVkxKOUdUc0psaXY0SHR2NkIxZjBrbnVDR05sbU81NURLME5hV0U1dkdnVU5rdFJUWFRQM2VFWkxWeVdVbFA2MmZyajdVNm5Fd1RtX1R5Q0ZlZEdSRmd0VjdrQVF2WWpYLVdEdXM0TGZFcEVqVHBFb2pib0k5UU56QTRYeHJNSjNkYWRUMVAzaXhwbTVyeDFGQnMwbDRES2YyczJyV2wtemtyNzBxRThlWTBhMDhUbmd4YXfSAfABQVVfeXFMUGZ2UnA0cWFzWGRNejZIOVNjd3ZHV0Z4S1JKVEhwM3hFcmQwT3JQcUJ2WUR6eEprUWN4MTVQa0JUUloxN0h0a3h6eHBXRVZpaHFzN092SS14NkRocFJFdk1aYm1qYWZQUG5rR2RXeXNnbEpyTWtGRmdxZkFGUW9VaFJYZ3pHMUd2VUZwTG5YMlJKaklEeGdNY3g1YUNjeVNUVTRvNXd3UmwyVGhsc001dm5QUWl2Z2dGWTVlQmNRQkMwTG8yeW52amM5ZFhvYmF1VGppWHBjXy13WUVWZmYwMjhvcXRlZ0FXdVpGSXRUYjZf?oc=5",
           "source": "Google News: CS2 (Sportstar)",
@@ -77,6 +65,17 @@
           "level": null,
           "why": [
             "vac"
+          ]
+        },
+        {
+          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlBLY3Jsa2lXMnFSYmJ4bGlOOUNzQWdJdkZxVnFrM0tTOEFpSVhKZTNRY0ZxY01ZTEt5ZDk5MloxU19WVUQ1YUNmUUM4R1BtQTg3UVVya1dGZ3lHR0ZReDJ5dXZNWGRrbTI4anJveXRTUl9yY3picVdyNHo2LUwzZGlUb2R4OXc4cTF0SzFNUUwtR0RjSmNWeC02UkFKM1BKVWJ4aWd3YldCUjFaTDZLTkxrTFZabDJQZ1gycHJ3WHNUb2FvU2otb2hsblhVREU1Y2tHSEFab05VVVJM?oc=5",
+          "source": "Google News: CS2 (Big News Network.com)",
+          "published": "2026-11-13T01:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -113,28 +112,6 @@
           ]
         },
         {
-          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHhKd2pnNUxvR2p4bVZndHl4US1HLVg1ZXM5NU5DLVozNW5hMFFoblVqaUtCTFJoMU9EaGhOTFZMTlA2YXY4blFVSExCM1VERkwtOFhNUFZmR0F6MkFpSUx2WVF6QzFPVGNZeW1UOC1ZV0JyZ3hScUZvZEdNWUV6WnFzYnphT2xia3Nacm9JOUItWXpYNkZwZFVJNFRXSDhaY0c3SlViVEVDaEhfSHZCTENiUXZnMmtEMnZUNGZIWmR1UUZqX0lYZlpXcm5tYS1sOGV5UmpiTGtmRGFrcmllbEROSQ?oc=5",
-          "source": "Google News: CS2 (ANI News)",
-          "published": "2026-11-12T10:44:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "m0NESY Is the Only Esports Player in Forbes Russia’s 30 Most Valuable Athlete Brands",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRXNlMzUTJlWDhucVJodFEzZlQ4Vkk3SWxYQUw0X1Q0NmZYV3dxYWpKR3NVRkhxVGdhaWtXcnI5Vl9aUlVvM2FmYkFSbmVBSnc0UUpPYTZXVFN6NmR1Q0RHUGRyQV9tSDJoblRIMElpT3g3b0tmdXFlS0R5QW1XYy1OMHlOTWg5SGhxdjVESV9XSC1YQnRv?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-12T07:10:40.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "m0nesy"
-          ]
-        },
-        {
           "title": "CS2 Update Hides a New Frost Mechanic That Freezes Players and Weapons, and Snowy Cobblestone Looks Next",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSW9JMFUwQk5OU3JRODZNYlJ3bVNlUzBmOEFWQ3pNSk5ON2xFblcwRWgwWlFtSEZxdEl6MTZwSnMzeVBlamRnYXRqVmpxVVV0bXBWVzdMaF9IZjhzUkxwbGVzLTgzaDM3SV9xZm1nSnpWNVRwUzJ5ZV81bzRVOG1odGhrNnNuY25Pdnp3bFhTR0tVTXlQV1Vj?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -144,12 +121,30 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Who are 2026's rookies?",
+          "url": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
+          "source": "HLTV news",
+          "published": "2026-11-12T18:55:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "What Esports Sponsorships Reveal About a Web3 Casino: Team Deals, CS2 and Brand Accountability",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU9LZHV6MUtIa1I3dnUtczd1QU9WdkhoVXNadDBNd2RxTkdZYWRqcmIwcTJGaF9acXZQTjItanZqZHRKZWJjTXBzX3Q4NWkyMHNrZEVRUnY2b1VNWmIzS0kzMlRTOGdHZ3VlbU1QSTlxVTRKVGlpc21qMGpQUVAtV1BPXzdkQkdTYktSdm5HN0RET2J2N3Q0bzdfRFRzTERTUHBOTFEtdHdjZVp3alY5MnNiZGROMDZGZUpCbGtDSVZFR0JO?oc=5",
+          "source": "Google News: CS2 (CryptoDaily)",
+          "published": "2026-11-12T18:22:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
@@ -182,19 +177,6 @@
           "level": null,
           "why": [
             "removed"
-          ]
-        },
-        {
-          "title": "233 days since 7.41: the longest wait for a big patch since 2023, and about a week from the all-time",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xutyzy/233_days_since_741_the_longest_wait_for_a_big/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T00:50:10.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "the last*",
-            "record*",
-            "history*"
           ]
         },
         {
@@ -271,6 +253,15 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xuvfv3/nerf_od_immediately_valve/",
           "source": "r/DotA2",
           "published": "2026-11-13T02:00:05.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "This 60 mgb patch was a test before releasing the big one.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuvc0q/this_60_mgb_patch_was_a_test_before_releasing_the/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T01:54:56.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -370,15 +361,15 @@
       ]
     },
     {
-      "scene": "Street Fighter",
+      "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
         {
-          "title": "What do you guys prefer: slim Poison or buff Poison?",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xutlou/what_do_you_guys_prefer_slim_poison_or_buff_poison/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-13T00:32:44.000Z",
-          "score": 0,
+          "title": "Why Trackmania still matters in sim racing",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGQjlIUmoyNTU3WmQ1bnluR3JXWEowWUktaUNiY1FQeVc3OHV6c1l3OFBaTmdpWERUa1RmWUJEVXVIaWhna0wxbkdzWjZFUlY5UUVTTnM3U3dkQU5XSXlUak82Rm1zMkNyLThiR2d3QWJJbm1fU2M3NDNoT0E?oc=5",
+          "source": "Google News: Trackmania (TopGear South Africa)",
+          "published": "2026-11-13T06:00:46.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }
@@ -390,8 +381,8 @@
     "AoE2",
     "Classic Tetris",
     "Brood War",
-    "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
