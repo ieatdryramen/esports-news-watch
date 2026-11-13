@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-13T06:30:20.692Z",
+  "generatedAt": "2026-11-13T07:00:23.079Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1736123",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "GameWorks: DX",
+      "event": "Melee Singles",
+      "entrants": 66,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-13T02:00:00.000Z",
+      "endAt": "2026-11-13T06:45:00.000Z",
+      "url": "https://www.start.gg/tournament/gameworks-dx/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Inngenn"
+        },
+        {
+          "placement": 2,
+          "name": "PEPIS | Noire"
+        },
+        {
+          "placement": 3,
+          "name": "Eggdog | Graves"
+        },
+        {
+          "placement": 4,
+          "name": "Gaz!"
+        },
+        {
+          "placement": 5,
+          "name": "echelon | SirTaco"
+        },
+        {
+          "placement": 5,
+          "name": "oomf | rainy"
+        },
+        {
+          "placement": 7,
+          "name": "TUK | SpiritGun"
+        },
+        {
+          "placement": 7,
+          "name": "Divine Senator Kelly"
+        }
+      ]
+    },
     {
       "eventId": "1751306",
       "scene": "melee",
