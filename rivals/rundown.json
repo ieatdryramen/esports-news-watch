@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:10:25.587Z",
+  "generatedAt": "2026-11-13T20:10:47.742Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -31,19 +31,6 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 Balance Update Nerfs Devil Dinosaur, Emma Frost And Doctor Strange",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc2pfX1o0SEo0blZEQW9KRG1NRXgxOU9weWp4bm1lWDVrYkYzUVhESzhMd3VaWUNVMDR0S2d4bnZBaFh4UFhLRlI1WXFJdmo1SEFXVEZEbGFISENQVk8zcGFweldib1lFYWRCelh5dDdGcWx0WGNheDYtUUtFdm5CWW44aHRQU1ZmejU0YVN2ZkM0V1UtM09zN0dMYlBRRHRJVmwxYjlDM1N4QWRBYjVTRmdsUzBrSjN0MGtHa1BDTUpHT1IzbmU0aW1EajhIZXpLcGxtN0pYRHY3LTZjVjRWSEdB?oc=5",
-          "source": "Google News: Rivals patches (GameFragger.com)",
-          "published": "2026-11-12T20:11:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "update",
-            "balance",
-            "season"
-          ]
-        },
-        {
           "title": "MRC Season 11: Doomsday - China PC",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0xhMklSSlVRcE10dFcyZVlSLWNtd2I0a0RjdTJJcThvTDFZSGVjOW5TRHRfRGZHN0w5S2N5N3hnMkVnZGdhdlh0bld3dTg2bl9rdkc2RXJBMmtyb29pWFZFQzJfWnllRDVsOFlKOVhjZXRteVFrZF9maE02OUFkODBHcmdUY1E1?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
@@ -53,18 +40,6 @@
           "why": [
             "season",
             "mrc"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Drops Full Season 11.0 Roadmap Ahead of Nightcrawler Release",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDN2UTE1cE80bUNyWWNTRmJmYzg3WUJkeHVtbTZiVnc3TmlyMkF3NjNTQ0xnV01Ec1ZlaWVNZl9CNEFJMnE3SGV5WlRxRS1xTjFHbk5WQUU3c3BzbVVuUWN3NHJWaVRHbFdwZlFJYm1DQzM4bHV1bTA4cDFuRjJ6eEs2VmFmNjR2eWVVZDhMT3lLMkx6NnBSOXN4QUtGMjJwMUp2T1h6Rmk1cmM?oc=5",
-          "source": "Google News: Rivals patches (VICE)",
-          "published": "2026-11-12T20:02:35.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "roadmap"
           ]
         },
         {
@@ -145,6 +120,24 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Origins Of The Hood: Marvel Rivals #1 Brings Parker Robbins' Path To Power To Marvel Unlimited",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSElOOVlFdHg4UTBFRU02RUpzZUxvZ2VnSGdoLWd2N1FaRVZENGZucExoYWMwQWt2Z3N6Vk9IMnVVYWxsNVhoZmRmVjBhRDdKa0lqb3JDaUxYRzdOOGppTVJERHNDMm92dWFZd1dWWGJvZlhON0otSy1haHZudW5rZXVCUkdTZ1l1bi1tTXBlTC0wbnFkaEUzejVQRHp5cGVHcDdsNXdmdHV0UnhfUUlCSEwxeEQwTFFwV2ZhRGFySkRGTFBZU21tMWJsREVhMzdjU19XU21xYURGU25rUFNaRQ?oc=5",
+          "source": "Google News: Rivals patches (ComicBookMovie.com)",
+          "published": "2026-11-13T19:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Grassroots: MENA",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pN1FLS3d0d1U3RXREZWtEV3FvSUhiQ1MzcjdBRVpBS0hoNlJmbmg1WWw5dnBrUFJWZ0x1ME9TU1dkS1U5eUROdnB0eDFiOXI3MjlEZk1aX1k1RW5EaGp1TG5JUXVwaEgtby1Ka21uRllZUVk?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-13T18:59:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
