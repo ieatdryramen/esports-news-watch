@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T10:30:32.937Z",
+  "generatedAt": "2026-11-13T11:25:55.970Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Marvel Rivals IGNITE Grand Finals: Predictions and Rewards",
@@ -78,14 +78,14 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 Battle Pass Costs 990 Lattice, Season 5 Pass Returns",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1RMQWxzTjJPNEVGOURMNFNGczBET19zVFcwZW9PSy0yRTRaXzNjLWZnQjJyc2U0ZmpxTmw2TU5IcWNkU2JSZzVCYXIzT0xrLXpQS2FvVG9pZTBDRzZBbTU5MUdsYkZfdjZQYTBKVzd0QVNvc196cG1DeUZMaF9aTm10X0hjTjZmNElnelF3UW1RTTZZRUJrNHlkQQ?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-12T10:35:00.000Z",
-          "score": 4,
+          "title": "Marvel Rivals Season 11: Nightcrawler Arrives Today, 18v18 Mode Waits for Nov 26 Update",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQnFldGNGdXJBX2xBdzM3d2RyN1dyRlVuQ0VOcm5Cb1cxWEpwdU83ODZGQTducVMxckhsYS1PMnQ1NE94RlMwemFFR3pTd1dRSkFwVWVmNXItb1p1TW9VXy0zY0ZQUC1KM3JFTnhuaWZodUJuT2IzRzJkTHE5Qk52TzhHb2VHSk1xRTlCcFR4RFY2MWR1OHg2anpEVEJLVVFaS3BQM0JUcWVPaGVrZC1pY09hTTMtOFdVM0lfUkJyMW1iekNnVDZjNE9ZNFd6VEFjblE?oc=5",
+          "source": "Google News: Rivals patches (Tech Times)",
+          "published": "2026-11-13T11:10:07.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "returns",
+            "update",
             "season"
           ]
         },
