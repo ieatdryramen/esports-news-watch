@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:00:22.351Z",
+  "generatedAt": "2026-11-13T01:30:21.474Z",
   "source": "start.gg",
   "completed": [
     {
@@ -187,53 +187,6 @@
         {
           "placement": 7,
           "name": "DXCorp | PhiDX"
-        }
-      ]
-    },
-    {
-      "eventId": "1746057",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Sudden Death @ Pine Box 19 - A Port Priority: DX Prelocal!",
-      "event": "Melee Singles",
-      "entrants": 67,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-10T02:30:00.000Z",
-      "endAt": "2026-11-10T06:30:00.000Z",
-      "url": "https://www.start.gg/tournament/sudden-death-pine-box-19-a-port-priority-dx-prelocal/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "EggDog | JCAM"
-        },
-        {
-          "placement": 2,
-          "name": "max"
-        },
-        {
-          "placement": 3,
-          "name": "Nerin"
-        },
-        {
-          "placement": 4,
-          "name": "Jello"
-        },
-        {
-          "placement": 5,
-          "name": "Eggdog | Chango"
-        },
-        {
-          "placement": 5,
-          "name": "Eggdog | Moe"
-        },
-        {
-          "placement": 7,
-          "name": "melo"
-        },
-        {
-          "placement": 7,
-          "name": "TUK | ganobrator"
         }
       ]
     }
