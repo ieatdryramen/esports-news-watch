@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:25:21.289Z",
+  "generatedAt": "2026-11-13T13:20:21.983Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -43,18 +43,6 @@
           ]
         },
         {
-          "title": "Marvel Rivals lines up a PC performance boost as Nightcrawler joins Season 11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3BhZUFWd0d1TldPWjlvQzdaRWthTGVpYXdrNV9NLUEzeWNEc0htVXpwbEJfMTdmejdVT2NOaUVfZ0xhb3NDZ0ZfYjhyWTAwRlN4aUdSdWc5VGhiM080TzJhd2M4MVNCdGxhNzczMDJET2VEU3RielY4bE1Gem5Lc0hGTWNmWS01Rzlz?oc=5",
-          "source": "Google News: Rivals patches (MIXED News)",
-          "published": "2026-11-12T12:30:46.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "joins",
-            "season"
-          ]
-        },
-        {
           "title": "Marvel Rivals Drops Full Season 11.0 Roadmap Ahead of Nightcrawler Release",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDN2UTE1cE80bUNyWWNTRmJmYzg3WUJkeHVtbTZiVnc3TmlyMkF3NjNTQ0xnV01Ec1ZlaWVNZl9CNEFJMnE3SGV5WlRxRS1xTjFHbk5WQUU3c3BzbVVuUWN3NHJWaVRHbFdwZlFJYm1DQzM4bHV1bTA4cDFuRjJ6eEs2VmFmNjR2eWVVZDhMT3lLMkx6NnBSOXN4QUtGMjJwMUp2T1h6Rmk1cmM?oc=5",
           "source": "Google News: Rivals patches (VICE)",
@@ -94,6 +82,17 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXAxWHREbVVoYldpRl9fWkk5U2tPWE12SlNCS3lYN1hoU0t6N0RMV0JBOFhreDkwUUs5OFg3RnRhSzlOVUhDX3M2TmtmYjJieEVpOWVUbmFoRjdZUEhETjlORkZwNmNvVERiYVlLRUJVa1pyV3ltVWtYeHlzY2JEQ1lGMkhQazJCbEVzaldMcTVDYTNUbTVOR091T0F1ZEtCVjV0aWtYc014YzJaR1Mw?oc=5",
           "source": "Google News: Rivals esports (SSBCrack)",
           "published": "2026-11-13T09:10:13.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Nightcrawler drives Marvel Rivals Season 11 Release Date to November 13 - El-Balad.com",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5MW9vWFRLblY2dGV2aDl1ZjIta3hfbXNQZTdCWTRlUmRkcjMzckxjM3hNaURtMFJ1NlBBY0d5eWVwNVoyYzNWSA?oc=5",
+          "source": "Google News: Rivals patches",
+          "published": "2026-11-13T07:53:47.000Z",
           "score": 2,
           "level": null,
           "why": [
