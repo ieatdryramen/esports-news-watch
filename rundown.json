@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:00:38.781Z",
+  "generatedAt": "2026-11-13T05:00:39.700Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -147,7 +147,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 16,
+      "storyCount": 17,
       "stories": [
         {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
@@ -250,6 +250,15 @@
           "why": []
         },
         {
+          "title": "patch hopium",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuykof/patch_hopium/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T04:37:49.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "It’s 5 am should I sleep or wait for patch?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xuvgvu/its_5_am_should_i_sleep_or_wait_for_patch/",
           "source": "r/DotA2",
@@ -263,15 +272,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xuvfv3/nerf_od_immediately_valve/",
           "source": "r/DotA2",
           "published": "2026-11-13T02:00:05.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "This 60 mgb patch was a test before releasing the big one.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuvc0q/this_60_mgb_patch_was_a_test_before_releasing_the/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T01:54:56.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -312,6 +312,26 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "How to Fix BW balance for Good.",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xuyiho/how_to_fix_bw_balance_for_good/",
+          "source": "r/broodwar",
+          "published": "2026-11-13T04:34:30.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "bw",
+            "soulkey*",
+            "soma*",
+            "best*"
+          ]
         }
       ]
     },
@@ -378,23 +398,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cloud9 debuts in Deadlock with Melee Creeps signing",
-          "url": "https://esports.gg/news/deadlock/cloud9-acquires-melee-creeps/",
-          "source": "esports.gg",
-          "published": "2026-11-12T05:15:27.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
       "storyCount": 1,
       "stories": [
@@ -443,7 +446,7 @@
     }
   ],
   "quiet": [
-    "Brood War",
+    "Melee",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
