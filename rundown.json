@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T03:00:40.296Z",
+  "generatedAt": "2026-11-13T04:00:38.781Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 16,
       "stories": [
         {
           "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
@@ -66,17 +66,6 @@
           "level": null,
           "why": [
             "joins"
-          ]
-        },
-        {
-          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-12T18:17:26.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
           ]
         },
         {
@@ -144,12 +133,21 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Who are 2026's rookies?",
+          "url": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
+          "source": "HLTV news",
+          "published": "2026-11-12T18:55:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 19,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
@@ -160,6 +158,17 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-13T03:45:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
           ]
         },
         {
@@ -184,30 +193,6 @@
             "the last*",
             "record*",
             "history*"
-          ]
-        },
-        {
-          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-13T00:47:50.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Patch Drop Predictor",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuqcmg/patch_drop_predictor/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T22:10:51.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "the last*",
-            "history*",
-            "dreamleague*"
           ]
         },
         {
@@ -265,21 +250,28 @@
           "why": []
         },
         {
-          "title": "Are there any games who are so crazy about the next patch or Dota players are just different",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuqmmi/are_there_any_games_who_are_so_crazy_about_the/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T22:22:24.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "update*"
-          ]
-        },
-        {
           "title": "It’s 5 am should I sleep or wait for patch?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xuvgvu/its_5_am_should_i_sleep_or_wait_for_patch/",
           "source": "r/DotA2",
           "published": "2026-11-13T02:01:14.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Nerf OD immediately Valve!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuvfv3/nerf_od_immediately_valve/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T02:00:05.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "This 60 mgb patch was a test before releasing the big one.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuvc0q/this_60_mgb_patch_was_a_test_before_releasing_the/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T01:54:56.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -343,7 +335,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "New Tekken 8 Season Announced",
@@ -379,15 +371,6 @@
           "url": "https://www.reddit.com/r/Tekken/comments/1xuvd7k/made_the_edgerunners_season_1_crew_in_tekken/",
           "source": "r/Tekken",
           "published": "2026-11-13T01:56:30.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Why does everyone start saying a DLC is broken and complaining about stupid things every time one comes out? It's always the same thing",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xuqy3i/why_does_everyone_start_saying_a_dlc_is_broken/",
-          "source": "r/Tekken",
-          "published": "2026-11-12T22:36:02.000Z",
           "score": 0,
           "level": null,
           "why": []
