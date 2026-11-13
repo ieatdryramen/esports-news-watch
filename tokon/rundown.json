@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-11-13T02:30:40.472Z",
+  "generatedAt": "2026-11-13T03:30:51.010Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 1,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1FZa3I4WkFTMjAycEZ6YzFZWThkOWlyUllxOXh0Uzc4RjMtSGFUQ3lpaEFXUmRJX1FWbTNrVVFvdTllTWdTYUx3S3IydWI1WTJQV0Q2WnlvbFA2UGIwOHZjeFBfUVpMRi15N2ZBUjNlNnN5VGdPS0FFV1VrcVZWQ0pTZVI1alkwMmdWLUc5WUtLQjN3N2ZGTFFNQ1pKRmNkcWZN?oc=5",
+          "source": "Google News: Tokon patches + DLC (TechJuice)",
+          "published": "2026-11-12T07:23:27.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "dlc"
+          ]
+        },
         {
           "title": "Tournament competitor showcases new tier list for Marvel Tokon: Fighting Souls that features Phoenix Cyclops as a top tier",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkZjQmNZWjJGaTVyVnRtUXFJZ1k5c3lUY21EUlczOWcyYUdPcWlqaUprRUMwSHg2YXlYa3FudFRSemJucUgycFE1cm9mQ1g2TDc0YlRLb1loLVYwZXczcWdpYW9UdExIbVZzb0h3MWd5SGlhUElNcHJrQ19LTm1SakJ3?oc=5",
@@ -16,6 +27,15 @@
           "why": [
             "tier list"
           ]
+        },
+        {
+          "title": "【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with @NinomaeInanis !! #calliolive #PR",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBhX19RMWpuZFhfelVUZzVMeFk0ZWUzS2tkTmRxcmJiQkZxbnVOX2lRV1Fnc0JsV2tlQ1NR?oc=5",
+          "source": "Google News: Tokon (Howl.Link)",
+          "published": "2026-11-12T07:16:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
