@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T03:30:47.675Z",
+  "generatedAt": "2026-11-13T04:30:43.670Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
@@ -96,18 +96,6 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11 Roadmap Drops With Nov 13 Maintenance at 9 AM UTC",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUlESVJOMDl4WHp4bWdOeFlMM19Vb0FZWGRWbnJxUGNneHlpLWltMHEyZk9wbGtBSzhkREgzNDNwWUNNYUl2VEpOUG1DX2thWDU1RU9RQ0htRkZtY3lESnFfdW1MQnJsWEQ0WkdnLWNybUJKRVB4NlpOSDRQbXVuLU9neDF5YjhN?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-12T04:24:11.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "roadmap"
-          ]
-        },
-        {
           "title": "Season 11: Doomsday // Dev Vision Vol. 23 | Marvel Rivals",
           "url": "https://store.steampowered.com/news/app/2767030/view/695403626868244545",
           "source": "Steam: Marvel Rivals (official news + patch notes)",
@@ -146,6 +134,17 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUh1SnRMUzQ1a1JJX0FNTHU2OUM1NTdJUG1BcUEtazlWTm5uY3JjQUh4VXBXRmZXVUlraU5aSU1GWjVuTU0zZ3Q3dmFfdF9qVEVDOUdPMU94VXJDc0FJNGRkdERtMkZ0YXh5UzM1ZUh6NzN3OGpfdTV5SjRLZG1GeF9pcVFjdS0zcDlyeEhFUFAtdklBZWZnOFJZUjI?oc=5",
           "source": "Google News: Rivals esports (Sportskeeda)",
           "published": "2026-11-12T15:31:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Release Date and Details",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWZ1c2Ywa3NRbTFzSmlVWFF4SmxibGI5SUtRREhoWGF2d3pSS0NQb09WeExkMjY1MkpnNlk0WGZ5eEpSd0tFcFhJNzNjSlgtNzhjbjR4YWR3U2FTem9fYkl0Q0tTTzNXVE5JcG9SeVlWTFNHVlhfNEFEdkJEc0dFS1MxVTRORGJ6Mm1jMUtNTVNKUQ?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-12T13:31:21.000Z",
           "score": 2,
           "level": null,
           "why": [
