@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T12:00:35.491Z",
+  "generatedAt": "2026-11-13T13:00:41.807Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Another Day, another 322: Rottweilas receive lifetime Esports Pro Circuit ban for match-fixing",
@@ -63,6 +63,15 @@
           ]
         },
         {
+          "title": "New patch is coming",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv6xxn/new_patch_is_coming/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T12:45:53.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "I'm sure Patch will come next week, because...",
           "url": "https://www.reddit.com/r/DotA2/comments/1xv32qg/im_sure_patch_will_come_next_week_because/",
           "source": "r/DotA2",
@@ -113,7 +122,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 26,
       "stories": [
         {
           "title": "Vitality vs MOUZ [0:2]",
@@ -173,6 +182,18 @@
           ]
         },
         {
+          "title": "M0nesy insane triple kill vs G2",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv6zbw/m0nesy_insane_triple_kill_vs_g2/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T12:47:36.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "m0nesy",
+            "g2"
+          ]
+        },
+        {
           "title": "Over the last 11 maps on HLTV, ZywOo has a rating of only 0.92",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv49ng/over_the_last_11_maps_on_hltv_zywoo_has_a_rating/",
           "source": "r/GlobalOffensive",
@@ -222,6 +243,29 @@
           ]
         },
         {
+          "title": "well at least karrigan did his job",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv65d3/well_at_least_karrigan_did_his_job/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T12:05:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "niko*",
+            "karrigan"
+          ]
+        },
+        {
+          "title": "m0NESY ranks 14th on Forbes Russia's athlete brand list",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTlKZnkwdWVrbmRFcHRfOW45dHpoY0F1WWYwazFOQkZvZFk0V2p1SlJaZ3VKelFObC10VGVzZjRESERxWXFyX3llbzJRaDllSUxxZXdVMTF6Y0Jpa2htSVg1NnlyYnRhbnduVHJBQU4yM0xBbTFzNGw1a3lGOWlCaGpHb0tGRGxCd2JJ?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-13T12:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "m0nesy"
+          ]
+        },
+        {
           "title": "Vitality ain't winning Major with the current form",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv37xm/vitality_aint_winning_major_with_the_current_form/",
           "source": "r/GlobalOffensive",
@@ -231,39 +275,6 @@
           "why": [
             "the last*",
             "vitality"
-          ]
-        },
-        {
-          "title": "Live updates from the BLAST Rivals quarter-finals",
-          "url": "https://www.hltv.org/news/45979/live-updates-from-the-blast-rivals-quarter-finals",
-          "source": "HLTV news",
-          "published": "2026-11-13T08:11:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "Highlights from the game I received a VAC live cooldown. Rumors are true about scouts on d2.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv0aw3/highlights_from_the_game_i_received_a_vac_live/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T06:12:55.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vac"
-          ]
-        },
-        {
-          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlBLY3Jsa2lXMnFSYmJ4bGlOOUNzQWdJdkZxVnFrM0tTOEFpSVhKZTNRY0ZxY01ZTEt5ZDk5MloxU19WVUQ1YUNmUUM4R1BtQTg3UVVya1dGZ3lHR0ZReDJ5dXZNWGRrbTI4anJveXRTUl9yY3picVdyNHo2LUwzZGlUb2R4OXc4cTF0SzFNUUwtR0RjSmNWeC02UkFKM1BKVWJ4aWd3YldCUjFaTDZLTkxrTFZabDJQZ1gycHJ3WHNUb2FvU2otb2hsblhVREU1Y2tHSEFab05VVVJM?oc=5",
-          "source": "Google News: CS2 (Big News Network.com)",
-          "published": "2026-11-13T01:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         }
       ]
@@ -345,14 +356,14 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "Street Fighter Ø Null Set: Roster of One-Off Characters [OC]",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xv4ick/street_fighter_ø_null_set_roster_of_oneoff/",
+          "title": "Cammy vs Juri in a cyber-punk themed match by me",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xv72h2/cammy_vs_juri_in_a_cyberpunk_themed_match_by_me/",
           "source": "r/StreetFighter",
-          "published": "2026-11-13T10:34:31.000Z",
+          "published": "2026-11-13T12:51:40.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "roster"
+            "punk"
           ]
         },
         {
@@ -382,12 +393,28 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "[BSL23] RO16 Group A - TerrOr, OyA, Ultra, Gosudark - Trailer Video",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xv6g4i/bsl23_ro16_group_a_terror_oya_ultra_gosudark/",
+          "source": "r/broodwar",
+          "published": "2026-11-13T12:20:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "bw*"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
     "Melee",
     "Classic Tetris",
-    "Brood War",
     "Warcraft III",
     "Legacy FGC",
     "Quake",
