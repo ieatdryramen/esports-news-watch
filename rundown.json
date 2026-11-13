@@ -1,10 +1,119 @@
 {
-  "generatedAt": "2026-11-13T11:00:35.976Z",
+  "generatedAt": "2026-11-13T12:00:35.491Z",
   "windowHours": 24,
   "scenes": [
     {
+      "scene": "Dota",
+      "storyCount": 10,
+      "stories": [
+        {
+          "title": "Another Day, another 322: Rottweilas receive lifetime Esports Pro Circuit ban for match-fixing",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv5cp5/another_day_another_322_rottweilas_receive/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T11:23:27.000Z",
+          "score": 8,
+          "level": "possible",
+          "why": [
+            "ban",
+            "match-fixing",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "Topson Reveals When the New Dota 2 Patch Will Actually Be Released",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSG8zYnlQYk1nUm1UOWFUT0pSYURPbjAzU1lXT3FMdkFEVXZBY1RYWjZaUm1UN2hwbEVqdV9IWmkxTzZyZlM4NG5TbkRPYlVSWXJoUDZERlc3cnJBN1VFaGZkSkZkeVlZdEU0TmZYUmFCMmUzelBqazFWb0tQazhtQ09UWWU?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-12T16:07:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "released",
+            "topson"
+          ]
+        },
+        {
+          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-13T03:47:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Malr1ne Reveals His Main Motivation as a Dota 2 Pro Player",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9va3FVNGFZQkpIRUI3Q3VIY2lVaWE4OUgtWElfZDdLLVIzdjdISjN6bmRraTNvc0tTZ0pYdFpFeG1LbDRSWkVJTXFUbTB3LVFBU3FVQXhtY0NjSHgwcUJpOHJRLUV1WFZ6Nm5veFdDMEJnYk04Vmp0YXg0SWxEZw?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-13T09:18:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Yay, VALVEs finally dropped an update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv2kse/yay_valves_finally_dropped_an_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T08:32:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "I'm sure Patch will come next week, because...",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv32qg/im_sure_patch_will_come_next_week_because/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T09:04:23.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "New hero idea (for fun)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv2e5q/new_hero_idea_for_fun/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T08:20:43.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "New incoming patch so heavy that is affecting current game version",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuz85z/new_incoming_patch_so_heavy_that_is_affecting/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T05:12:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "patch hopium",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuykof/patch_hopium/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T04:37:49.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Z10 - XE, November 13, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHlrdmU0MzJLb2FnRkp1ekhiR05ZS2NXeXZoZUpOUjlPTG5rMFhkTWNUY3N1SnBDQ0txS2JpTzF4S2hTUXBfVTJBQU5SNnFBYm11dkVKa28xRHlLRlJVWTlwWVFPdURvVV93bU13NVl4aGJmNUQ3M3JzeUJQQU5mbHh0c0IxVG9jdjZ4TDRNNEN1c2FTeTZSczFoNnpLTEdv?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-12T15:25:48.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 23,
       "stories": [
         {
           "title": "Vitality vs MOUZ [0:2]",
@@ -183,90 +292,6 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 8,
-      "stories": [
-        {
-          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-13T03:47:27.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Malr1ne Reveals His Main Motivation as a Dota 2 Pro Player",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9va3FVNGFZQkpIRUI3Q3VIY2lVaWE4OUgtWElfZDdLLVIzdjdISjN6bmRraTNvc0tTZ0pYdFpFeG1LbDRSWkVJTXFUbTB3LVFBU3FVQXhtY0NjSHgwcUJpOHJRLUV1WFZ6Nm5veFdDMEJnYk04Vmp0YXg0SWxEZw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-13T09:18:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Yay, VALVEs finally dropped an update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv2kse/yay_valves_finally_dropped_an_update/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T08:32:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "I'm sure Patch will come next week, because...",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv32qg/im_sure_patch_will_come_next_week_because/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T09:04:23.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New hero idea (for fun)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv2e5q/new_hero_idea_for_fun/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T08:20:43.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New incoming patch so heavy that is affecting current game version",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuz85z/new_incoming_patch_so_heavy_that_is_affecting/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T05:12:52.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "patch hopium",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuykof/patch_hopium/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T04:37:49.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Z10 - XE, November 13, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHlrdmU0MzJLb2FnRkp1ekhiR05ZS2NXeXZoZUpOUjlPTG5rMFhkTWNUY3N1SnBDQ0txS2JpTzF4S2hTUXBfVTJBQU5SNnFBYm11dkVKa28xRHlLRlJVWTlwWVFPdURvVV93bU13NVl4aGJmNUQ3M3JzeUJQQU5mbHh0c0IxVG9jdjZ4TDRNNEN1c2FTeTZSczFoNnpLTEdv?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-12T15:25:48.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
