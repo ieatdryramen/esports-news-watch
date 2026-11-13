@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T15:00:24.801Z",
+  "generatedAt": "2026-11-13T15:30:22.817Z",
   "source": "start.gg",
   "completed": [
     {
@@ -343,6 +343,19 @@
       "startAt": "2026-11-14T22:00:00.000Z",
       "endAt": "2026-11-16T04:30:00.000Z",
       "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/street-fighter-iii-3rd-strike"
+    },
+    {
+      "eventId": "1741745",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Cactus League Season 4: Ranking Battle Edition #2",
+      "event": "Cactus League Season 4: Ranking Battle Edition #2 - 3rd Strike",
+      "entrants": 16,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T23:00:00.000Z",
+      "endAt": "2026-11-15T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/cactus-league-season-4-ranking-battle-edition-2/event/cactus-league-season-4-ranking-battle-edition-2-3rd-strike"
     },
     {
       "eventId": "1734139",
