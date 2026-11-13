@@ -155,25 +155,6 @@
       ],
       "summary": "",
       "published": "2026-11-11T07:15:21.000Z"
-    },
-    {
-      "alertedAt": "2026-11-11T06:35:17.443Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "Vitality sweep Falcons to make Rivals playoffs on apEX's return",
-      "url": "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
-      "source": "HLTV news",
-      "outlets": [
-        "HLTV news"
-      ],
-      "score": 5,
-      "why": [
-        "return",
-        "vitality",
-        "esl pro league*"
-      ],
-      "summary": "A rematch of the teams' battle at ESL Pro League went the same way, this time in two maps.",
-      "published": "2026-11-11T06:32:00.000Z"
     }
   ]
 }
