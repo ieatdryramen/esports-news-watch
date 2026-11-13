@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-11-13T20:00:41.741Z",
+  "generatedAt": "2026-11-13T21:00:38.707Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Zain’s Bowser vs Cody Schwab",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xvigof/zains_bowser_vs_cody_schwab/",
+          "source": "r/SSBM",
+          "published": "2026-11-13T20:16:04.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "wins*",
+            "zain",
+            "cody schwab"
+          ]
+        },
+        {
+          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-13T16:31:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "hungrybox"
+          ]
+        }
+      ]
+    },
     {
       "scene": "CS2",
       "storyCount": 14,
@@ -152,7 +182,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
@@ -197,6 +227,24 @@
           "why": []
         },
         {
+          "title": "New patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvjftb/new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T20:54:29.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "99th copium for today. Patch? I can feel CM ms speed reduction in my bones.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvje0n/99th_copium_for_today_patch_i_can_feel_cm_ms/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T20:52:36.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "My one request for the patch",
           "url": "https://www.reddit.com/r/DotA2/comments/1xve555/my_one_request_for_the_patch/",
           "source": "r/DotA2",
@@ -237,26 +285,20 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 1,
+      "scene": "CoD",
+      "storyCount": 4,
       "stories": [
         {
-          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-13T16:31:05.000Z",
+          "title": "It sounds like Devs tried to ask the players to only play with 3 attachments per gun for more balanced and they refused",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvie3x/it_sounds_like_devs_tried_to_ask_the_players_to/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-13T20:13:07.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "hungrybox"
+            "refused"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
+        },
         {
           "title": "Dashy \"2 of the 4 teams that voted for OUT on tac sprint btw 😂😂😂 what changed???\" w/ receipts",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvhadj/dashy_2_of_the_4_teams_that_voted_for_out_on_tac/",
