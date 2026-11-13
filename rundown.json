@@ -1,139 +1,10 @@
 {
-  "generatedAt": "2026-11-13T09:00:36.137Z",
+  "generatedAt": "2026-11-13T10:00:41.148Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Dota",
-      "storyCount": 17,
-      "stories": [
-        {
-          "title": "Topson Reveals When the New Dota 2 Patch Will Actually Be Released",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSG8zYnlQYk1nUm1UOWFUT0pSYURPbjAzU1lXT3FMdkFEVXZBY1RYWjZaUm1UN2hwbEVqdV9IWmkxTzZyZlM4NG5TbkRPYlVSWXJoUDZERlc3cnJBN1VFaGZkSkZkeVlZdEU0TmZYUmFCMmUzelBqazFWb0tQazhtQ09UWWU?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-12T16:07:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "released",
-            "topson"
-          ]
-        },
-        {
-          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-13T03:45:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "wow they removed neutrals, made the map smaller again AND re added side shop?!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuuurz/wow_they_removed_neutrals_made_the_map_smaller/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T01:31:42.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
-          ]
-        },
-        {
-          "title": "Esports World Cup 2027: Dota 2 confirmed for fourth year",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VRF91SHRwMzlNVjhVclJyMFFnNFMxRHJiYlVfc2Z3ZEFlSUF1YnZSTkpIOE9IcndMMWd6a1M0Y2tiaHRjLTBSd0NCb0xRWW5uaG1lQ1YyRFVieWtnN0E?oc=5",
-          "source": "Google News: Dota (Tbreak UAE)",
-          "published": "2026-11-12T10:23:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "confirmed"
-          ]
-        },
-        {
-          "title": "Yay, VALVEs finally dropped an update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv2kse/yay_valves_finally_dropped_an_update/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T08:32:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "actual update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuveog/actual_update/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T01:58:30.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Dota 2 Update for November 12, 2026",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuusm7/dota_2_update_for_november_12_2026/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T01:28:53.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "No[o]ne Complained About the Long Delay in Dota 2 Patches",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbWFUM3FMOFdadEk2ZnZTTWRsOE9td1VNTnlHRHI2djJZLTZ3UkQyaTdEWkx1UVdscGsycVhySVdSTHJhbnVRc0M0MjY3RGZEQ0VMQkR5QzdzbHNlWGJkdWxvaEVWRm80NjJTVVB1b3hPZFoz?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-12T10:13:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New hero idea (for fun)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv2e5q/new_hero_idea_for_fun/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T08:20:43.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New incoming patch so heavy that is affecting current game version",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuz85z/new_incoming_patch_so_heavy_that_is_affecting/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T05:12:52.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "patch hopium",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuykof/patch_hopium/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T04:37:49.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "It’s 5 am should I sleep or wait for patch?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuvgvu/its_5_am_should_i_sleep_or_wait_for_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T02:01:14.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 16,
       "stories": [
         {
           "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
@@ -172,6 +43,31 @@
           "why": [
             "mouz",
             "blast"
+          ]
+        },
+        {
+          "title": "Vitality's Pistol Rounds",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv37c9/vitalitys_pistol_rounds/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T09:12:23.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "the last*",
+            "won*",
+            "vitality"
+          ]
+        },
+        {
+          "title": "Vitality ain't winning Major with the current form",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv37xm/vitality_aint_winning_major_with_the_current_form/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T09:13:33.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "the last*",
+            "vitality"
           ]
         },
         {
@@ -248,22 +144,126 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 13,
+      "stories": [
+        {
+          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-13T03:47:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
         },
         {
-          "title": "What Esports Sponsorships Reveal About a Web3 Casino: Team Deals, CS2 and Brand Accountability",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU9LZHV6MUtIa1I3dnUtczd1QU9WdkhoVXNadDBNd2RxTkdZYWRqcmIwcTJGaF9acXZQTjItanZqZHRKZWJjTXBzX3Q4NWkyMHNrZEVRUnY2b1VNWmIzS0kzMlRTOGdHZ3VlbU1QSTlxVTRKVGlpc21qMGpQUVAtV1BPXzdkQkdTYktSdm5HN0RET2J2N3Q0bzdfRFRzTERTUHBOTFEtdHdjZVp3alY5MnNiZGROMDZGZUpCbGtDSVZFR0JO?oc=5",
-          "source": "Google News: CS2 (CryptoDaily)",
-          "published": "2026-11-12T18:22:20.000Z",
+          "title": "Esports World Cup 2027: Dota 2 confirmed for fourth year",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VRF91SHRwMzlNVjhVclJyMFFnNFMxRHJiYlVfc2Z3ZEFlSUF1YnZSTkpIOE9IcndMMWd6a1M0Y2tiaHRjLTBSd0NCb0xRWW5uaG1lQ1YyRFVieWtnN0E?oc=5",
+          "source": "Google News: Dota (Tbreak UAE)",
+          "published": "2026-11-12T10:23:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "confirmed"
+          ]
+        },
+        {
+          "title": "Yay, VALVEs finally dropped an update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv2kse/yay_valves_finally_dropped_an_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T08:32:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "actual update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuveog/actual_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T01:58:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "No[o]ne Complained About the Long Delay in Dota 2 Patches",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbWFUM3FMOFdadEk2ZnZTTWRsOE9td1VNTnlHRHI2djJZLTZ3UkQyaTdEWkx1UVdscGsycVhySVdSTHJhbnVRc0M0MjY3RGZEQ0VMQkR5QzdzbHNlWGJkdWxvaEVWRm80NjJTVVB1b3hPZFoz?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-12T10:13:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Short news: Week 44",
-          "url": "https://www.hltv.org/news/45949/short-news-week-44",
-          "source": "HLTV news",
-          "published": "2026-11-12T18:17:00.000Z",
-          "score": 1,
+          "title": "I'm sure Patch will come next week, because...",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv32qg/im_sure_patch_will_come_next_week_because/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T09:04:23.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "New hero idea (for fun)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xv2e5q/new_hero_idea_for_fun/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T08:20:43.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "New incoming patch so heavy that is affecting current game version",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuz85z/new_incoming_patch_so_heavy_that_is_affecting/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T05:12:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "patch hopium",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuykof/patch_hopium/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T04:37:49.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "It’s 5 am should I sleep or wait for patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuvgvu/its_5_am_should_i_sleep_or_wait_for_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T02:01:14.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Nerf OD immediately Valve!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuvfv3/nerf_od_immediately_valve/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T02:00:05.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "This 60 mgb patch was a test before releasing the big one.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuvc0q/this_60_mgb_patch_was_a_test_before_releasing_the/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T01:54:56.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -271,7 +271,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Breaking the most insane (legit) win rate i ever seen in Tekken",
@@ -300,15 +300,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGJnMDZkRVhKNXhObDg1UWJ6NDVLOTVQcS1Rdm8wa1JsMnExcVFpcnRpdzdXRUZSSEFqSmc4dk8yM2xFTGRvd29zaUw3WEFaeFV2QmpNM1VYQXd0SmFDSEg3SWxZSTI3REh6Vjd5NVYwSnI2Uk5hbWRscXQtdE5CeWtLbFdFVTUzYzlz?oc=5",
           "source": "Google News: Tekken (https://thegame.ph/)",
           "published": "2026-11-12T10:44:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TEKKEN 8 DLC adds kicking powerhouse Roger Jr., features new King-inspired Nike in-game items",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWdNWHRURjFyZGg4ZmpPQVpMbkRZOHMtUkZuSzhGM2lTc3pFSUt2VHJ1U2pYLS04bGtNRy1fN19RYmRyY2xLOW95Rmw5Z0hiWlNRVTJxUlV3UlI5YnMzX1ZQUFF1VUllRGRTcTI3UUFmc3E5ZTViYWxLZ0ZabWZ3ckdKa1RtUC1aTDR4aW1RRkthMUFZZUIzMFhPZzdGQUVOS2VzelVHM0xjVVEtSV9wZDA4cjFEcUs3M1g0TVB1Y28?oc=5",
-          "source": "Google News: Tekken (Bandai Namco Europe)",
-          "published": "2026-11-12T09:12:06.000Z",
           "score": 1,
           "level": null,
           "why": []
