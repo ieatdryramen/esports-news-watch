@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-13T21:10:23.580Z",
+  "generatedAt": "2026-11-13T22:05:26.943Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 18,
+      "storyCount": 20,
       "stories": [
+        {
+          "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
+          "url": "https://esports.gg/guides/marvel-rivals/marvel-rivals-upcoming-characters-new-heroes-leaks-and-rumors/",
+          "source": "esports.gg",
+          "published": "2026-11-13T21:26:06.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "new heroes"
+          ]
+        },
         {
           "title": "Marvel Rivals IGNITE Grand Finals: Predictions and Rewards",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWhVbXhaOU5GM3hHbTlTNkJLWE9HZzZtR2lrMjFBcWVtYVBOaW5rYUQ0OU94SEctenZ2NDhlV1pzTnp1eU45SThINkdIam5XYnlPQ0xNTEpTWTZVNV9kYVhtTzZScGxleldvREVUVi1Tby1mVTkzQmk1NmZScjNwZTdSQnA5U01FbnUyam5pbUVlenlhX05n?oc=5",
@@ -122,19 +134,10 @@
           ]
         },
         {
-          "title": "Origins Of The Hood: Marvel Rivals #1 Brings Parker Robbins' Path To Power To Marvel Unlimited",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSElOOVlFdHg4UTBFRU02RUpzZUxvZ2VnSGdoLWd2N1FaRVZENGZucExoYWMwQWt2Z3N6Vk9IMnVVYWxsNVhoZmRmVjBhRDdKa0lqb3JDaUxYRzdOOGppTVJERHNDMm92dWFZd1dWWGJvZlhON0otSy1haHZudW5rZXVCUkdTZ1l1bi1tTXBlTC0wbnFkaEUzejVQRHp5cGVHcDdsNXdmdHV0UnhfUUlCSEwxeEQwTFFwV2ZhRGFySkRGTFBZU21tMWJsREVhMzdjU19XU21xYURGU25rUFNaRQ?oc=5",
-          "source": "Google News: Rivals patches (ComicBookMovie.com)",
-          "published": "2026-11-13T19:11:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Grassroots: MENA",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pN1FLS3d0d1U3RXREZWtEV3FvSUhiQ1MzcjdBRVpBS0hoNlJmbmg1WWw5dnBrUFJWZ0x1ME9TU1dkS1U5eUROdnB0eDFiOXI3MjlEZk1aX1k1RW5EaGp1TG5JUXVwaEgtby1Ka21uRllZUVk?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-13T18:59:03.000Z",
+          "title": "Nightcrawler (Strategist) Full Match Gameplay | Marvel Rivals",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1VmelRmTlJyamRyZmFiejNzUk0xamsyQ3B1b0hZb1d1ZkY2UEFGSURCLWdZdkY5UmxVd3ktRUMzNHhxVHRxRVQweS1RTzN4a214dGhRU3EwNTVwUkFzS0lZb3VpbkloU09Dc1d3SndEb25oUERIUG5ueDY0b2xHOU9vb3kycko4YWRORA?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-13T21:55:00.000Z",
           "score": 1,
           "level": null,
           "why": []
