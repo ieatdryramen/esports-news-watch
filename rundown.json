@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T05:00:39.700Z",
+  "generatedAt": "2026-11-13T06:00:48.333Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 10,
       "stories": [
         {
           "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
@@ -17,44 +17,6 @@
             "spirit",
             "furia",
             "blast"
-          ]
-        },
-        {
-          "title": "Spirit through to Hong Kong semis as BLAST Rivals bracket is set",
-          "url": "https://www.hltv.org/news/45978/spirit-through-to-hong-kong-semis-as-blast-rivals-bracket-is-set",
-          "source": "HLTV news",
-          "published": "2026-11-12T13:58:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality*",
-            "spirit",
-            "mouz*",
-            "blast"
-          ]
-        },
-        {
-          "title": "MOUZ narrowly escape last-place elimination at BLAST against FUT",
-          "url": "https://www.hltv.org/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut",
-          "source": "HLTV news",
-          "published": "2026-11-12T10:35:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "mouz",
-            "blast"
-          ]
-        },
-        {
-          "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals",
-          "url": "https://www.hltv.org/news/45975/furia-hand-vitality-first-ever-13-0-defeat-to-make-rivals-semi-finals",
-          "source": "HLTV news",
-          "published": "2026-11-12T07:02:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "vitality",
-            "furia"
           ]
         },
         {
@@ -135,10 +97,19 @@
           ]
         },
         {
-          "title": "Who are 2026's rookies?",
-          "url": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
-          "source": "HLTV news",
-          "published": "2026-11-12T18:55:00.000Z",
+          "title": "What Esports Sponsorships Reveal About a Web3 Casino: Team Deals, CS2 and Brand Accountability",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU9LZHV6MUtIa1I3dnUtczd1QU9WdkhoVXNadDBNd2RxTkdZYWRqcmIwcTJGaF9acXZQTjItanZqZHRKZWJjTXBzX3Q4NWkyMHNrZEVRUnY2b1VNWmIzS0kzMlRTOGdHZ3VlbU1QSTlxVTRKVGlpc21qMGpQUVAtV1BPXzdkQkdTYktSdm5HN0RET2J2N3Q0bzdfRFRzTERTUHBOTFEtdHdjZVp3alY5MnNiZGROMDZGZUpCbGtDSVZFR0JO?oc=5",
+          "source": "Google News: CS2 (CryptoDaily)",
+          "published": "2026-11-12T18:22:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Las Vegas Counter-Strike Major Gets $2M LVCVA Backing",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSDZ4cTF3bGo4NVcwSFhlOHVab1FjZFI4Q2lfZmRURExJbDBsNVN4cmhBTUxXNWYzN19tdTZKRkpOTlotRFBaWk5VQ3BRblRTdVBmS2hHaEI4Vk5lbGZQLWRUREdFS2VlaFBOejJIZGl5Q2ROSGtrd1V0RVBFcU9ZRExXUDZxREZPemNBQVNFcnZtUkFnZFE?oc=5",
+          "source": "Google News: CS2 (Casino.com)",
+          "published": "2026-11-12T17:38:24.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -250,6 +221,15 @@
           "why": []
         },
         {
+          "title": "New incoming patch so heavy that is affecting current game version",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuz85z/new_incoming_patch_so_heavy_that_is_affecting/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T05:12:52.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "patch hopium",
           "url": "https://www.reddit.com/r/DotA2/comments/1xuykof/patch_hopium/",
           "source": "r/DotA2",
@@ -266,97 +246,35 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Nerf OD immediately Valve!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xuvfv3/nerf_od_immediately_valve/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T02:00:05.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Team Kaysan reverse sweep Team Aches out of The Flank 100k as Teej drops 14 in Game 5",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xur8dz/team_kaysan_reverse_sweep_team_aches_out_of_the/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T22:48:03.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "reverse sweep"
-          ]
-        },
-        {
-          "title": "Flank 100K Invitational Champs: Team ZooMaa(HyDra, Alluka, KiSMET, Owakening)",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xuvmcn/flank_100k_invitational_champs_team_zoomaahydra/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-13T02:08:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "hydra"
-          ]
-        },
-        {
-          "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-12T19:05:34.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "How to Fix BW balance for Good.",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xuyiho/how_to_fix_bw_balance_for_good/",
-          "source": "r/broodwar",
-          "published": "2026-11-13T04:34:30.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "bw",
-            "soulkey*",
-            "soma*",
-            "best*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "KrakenSeas Announces Roster for LVT Lan & HaloFest - Falcated, Kuhlect, Lucid, Pznguin | Coach: Hoaxer",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xusijk/krakenseas_announces_roster_for_lvt_lan_halofest/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-12T23:44:50.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "roster",
-            "announces"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-12T06:14:11.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Breaking the most insane (legit) win rate i ever seen in Tekken",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xuzjfl/breaking_the_most_insane_legit_win_rate_i_ever/",
+          "source": "r/Tekken",
+          "published": "2026-11-13T05:29:58.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "breaking"
+          ]
+        },
         {
           "title": "New Tekken 8 Season Announced",
           "url": "https://www.reddit.com/r/Tekken/comments/1xuub9j/new_tekken_8_season_announced/",
@@ -398,19 +316,28 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 1,
+      "scene": "CoD",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Hera on the red carpet at the Streamer Awards!",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xurk4y/hera_on_the_red_carpet_at_the_streamer_awards/",
-          "source": "r/aoe2",
-          "published": "2026-11-12T23:02:07.000Z",
+          "title": "Flank 100K Invitational Champs: Team ZooMaa(HyDra, Alluka, KiSMET, Owakening)",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xuvmcn/flank_100k_invitational_champs_team_zoomaahydra/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-13T02:08:43.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "hera"
+            "hydra"
           ]
+        },
+        {
+          "title": "CDL Issues MW4 V1 Ruleset With Seven-Map Pool Before Kickoff",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2UxbVdVZmFNMkJKMXlJMzVrNkRqS21pNU9GSC1YNnZoYWJaZ0R4WWFLNlJQaHh3RTJoNmNULWVFdHRPcllqZlY5OGNfZk9tMi1RcnA0TDlsY3FJc3FYVzN6SlhsLXQtRDIxQTV2d3ROT3dCdko1NFMxWFBHeFo5dlh1cWVVbWF6?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-12T19:05:34.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -447,9 +374,12 @@
   ],
   "quiet": [
     "Melee",
+    "AoE2",
+    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
