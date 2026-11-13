@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T22:00:37.421Z",
+  "generatedAt": "2026-11-13T23:00:39.663Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -182,19 +182,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
-        {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvk2cf/removed_by_reddit/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T21:18:55.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
-          ]
-        },
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
@@ -288,7 +277,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "It sounds like Devs tried to ask the players to only play with 3 attachments per gun for more balanced and they refused",
@@ -324,6 +313,15 @@
           ]
         },
         {
+          "title": "Could the sub be nerfed ?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvlaaq/could_the_sub_be_nerfed/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-13T22:08:10.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Is this the best \"The Flank\" lineup yet?",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvjs03/is_this_the_best_the_flank_lineup_yet/",
           "source": "r/CoDCompetitive",
@@ -345,7 +343,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Michelle is too gorgeous to be replaced so easily (outfit and makeup by me)",
@@ -368,15 +366,6 @@
           "why": [
             "the last*"
           ]
-        },
-        {
-          "title": "Roger's giant swing has a trailer camera switch",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xvd5mz/rogers_giant_swing_has_a_trailer_camera_switch/",
-          "source": "r/Tekken",
-          "published": "2026-11-13T16:57:16.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
