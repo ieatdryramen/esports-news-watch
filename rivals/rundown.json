@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:30:43.670Z",
+  "generatedAt": "2026-11-13T05:30:39.291Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -45,18 +45,6 @@
           "level": "possible",
           "why": [
             "joins",
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Patch Notes: Nightcrawler, The Incursion Battle Pass, New Skins, and More",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96b1huWFViandVcUlWc2VhODlUbUVXR1BLM0g5Z3Y2VkJmZGhOTUN6UXZQTkZoZmxETXFLUnc4NVRueUVCMmIwZ0hvdm1MVWVOVWJ4SjZudlZBUXNFQnhqVnZlUDNzUdIBa0FVX3lxTE11LTdKMmh4eHVSQ3p2Ums2X0wxcHRTR20ydHVNckN2eFZNcTBjcW5EOGNRSDFVOWJWSHdENWVLOXR3Tmx0MDZTRTA5bC1pYnVyNktUTDJodTlNc2dZaUZoVVVYSFpzeDBndEdr?oc=5",
-          "source": "Google News: Rivals esports (Beebom)",
-          "published": "2026-11-12T05:22:38.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "patch notes",
             "season"
           ]
         },
@@ -110,7 +98,7 @@
         {
           "title": "Marvel Rivals Season 11: Doomsday Launches on November 13 With Nightcrawler",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGU0dkxfZlNwZWUxOVcxaEZjUjZuNV94SllwQWtUOEZsWjBGcURXdHVKcGNpQkhlSndJZUhWeklkYVR6Mzh4VUpJM1MwUDBQNzl5RXZPZDgyUkdqOG95UTU2N3BWRWw1QVA5Z3o0QzJlak5EM0hPMVI4WVk4RUdBTm5ZckZQZ2VXNmM4M2JSRzF0NUNTdVJxZS1GMGMxWEhvUVRqR2ZOT0gzc19QRFA0d3RIT1RBZw?oc=5",
-          "source": "Google News: Rivals patches (KeenGamer)",
+          "source": "Google News: Rivals esports (KeenGamer)",
           "published": "2026-11-12T20:01:57.000Z",
           "score": 2,
           "level": null,
@@ -145,6 +133,17 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWZ1c2Ywa3NRbTFzSmlVWFF4SmxibGI5SUtRREhoWGF2d3pSS0NQb09WeExkMjY1MkpnNlk0WGZ5eEpSd0tFcFhJNzNjSlgtNzhjbjR4YWR3U2FTem9fYkl0Q0tTTzNXVE5JcG9SeVlWTFNHVlhfNEFEdkJEc0dFS1MxVTRORGJ6Mm1jMUtNTVNKUQ?oc=5",
           "source": "Google News: Rivals patches (IGN)",
           "published": "2026-11-12T13:31:21.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "All season 11 battle pass skins in Marvel Rivals – The Incursion",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUFvMkQ1Skx1bHFCNkRKcEN1dkNWbWxGS2l5bFhDYVk4dVlDVFFxejlDbnluYnZTVFplbUk3T082a3gwQzBlclhULWN3VU9XaFA1TXpDTGRaRm1SbUJpM1FPMGk4M0VObGxnandqRWJQX2d0dzh0cXh5MTVfLVF3UlZEWWtuU2d4eEtRRTNaWXE2WGRwVkE?oc=5",
+          "source": "Google News: Rivals esports (Destructoid)",
+          "published": "2026-11-12T11:18:00.000Z",
           "score": 2,
           "level": null,
           "why": [
