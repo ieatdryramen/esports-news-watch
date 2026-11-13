@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T17:00:42.749Z",
+  "generatedAt": "2026-11-13T18:00:55.305Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Another Day, another 322: Rottweilas receive lifetime Esports Pro Circuit ban for match-fixing",
@@ -51,13 +51,33 @@
           "why": []
         },
         {
-          "title": "Malr1ne Reveals His Main Motivation as a Dota 2 Pro Player",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9va3FVNGFZQkpIRUI3Q3VIY2lVaWE4OUgtWElfZDdLLVIzdjdISjN6bmRraTNvc0tTZ0pYdFpFeG1LbDRSWkVJTXFUbTB3LVFBU3FVQXhtY0NjSHgwcUJpOHJRLUV1WFZ6Nm5veFdDMEJnYk04Vmp0YXg0SWxEZw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-13T09:18:00.000Z",
-          "score": 1,
+          "title": "My one request for the patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xve555/my_one_request_for_the_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T17:33:08.000Z",
+          "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Dota 2 patch definitely falled on my luck",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvdqfc/dota_2_patch_definitely_falled_on_my_luck/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T17:18:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "CH - XE, November 13, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0szcHhrUTRSZGlyczBSdGZQNzg5Q09OeWRPNG5wcmRfLTB3WUlRYVMzX0VQbTZONlFVNmVoM0pqSFpmRVFhS2JUY1F4UHhyUDh1dTlseld6dl9pM1hBTjBWRDlLUEFybDYyV2IwVnJZMFBqdGJycGJmc1F5V3BURWRPX1pZYUdUUHRwZVRncG5wM3VETFBFdVFhYnFhVzQ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-13T17:03:58.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         },
         {
           "title": "If there is a patch soon, please let there be this change.",
@@ -90,7 +110,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 11,
       "stories": [
         {
           "title": "G2 vs Falcons / BLAST Rivals 2026 Season 2 - Quarter-Final / Post-Match Discussion",
@@ -109,36 +129,6 @@
           ]
         },
         {
-          "title": "Vitality vs MOUZ [0:2]",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv49gd/vitality_vs_mouz_02/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T10:19:23.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "official*",
-            "zywoo*",
-            "ropz*",
-            "vitality",
-            "spirit*"
-          ]
-        },
-        {
-          "title": "Falcons qualify for BLAST Rivals semis over G2",
-          "url": "https://www.hltv.org/news/45984/falcons-qualify-for-blast-rivals-semis-over-g2",
-          "source": "HLTV news",
-          "published": "2026-11-13T14:24:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "karrigan*",
-            "g2",
-            "furia*",
-            "blast"
-          ]
-        },
-        {
           "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
           "source": "Google News: CS2 (Field Level Media)",
@@ -149,20 +139,6 @@
             "spirit",
             "furia",
             "blast"
-          ]
-        },
-        {
-          "title": "MOUZ sweep Vitality as ZywOo confirms career-worst LAN event",
-          "url": "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
-          "source": "HLTV news",
-          "published": "2026-11-13T10:20:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "zywoo",
-            "vitality",
-            "mouz",
-            "blast*"
           ]
         },
         {
@@ -178,50 +154,14 @@
           ]
         },
         {
-          "title": "Over the last 11 maps on HLTV, ZywOo has a rating of only 0.92",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv49ng/over_the_last_11_maps_on_hltv_zywoo_has_a_rating/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T10:19:42.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last",
-            "zywoo"
-          ]
-        },
-        {
-          "title": "NAVI were the last team to switch to CS:GO and were at least six months behind the other teams.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv47ak/navi_were_the_last_team_to_switch_to_csgo_and/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T10:15:34.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last",
-            "navi"
-          ]
-        },
-        {
-          "title": "At 0.91, BLAST Rivals Hong Kong 2026 is officially the lowest-rated LAN in ZywOo's career (and the only one below 1.0)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv44jc/at_091_blast_rivals_hong_kong_2026_is_officially/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T10:10:58.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "zywoo",
-            "blast"
-          ]
-        },
-        {
-          "title": "BLAST Rivals quarter-finals as they happened",
-          "url": "https://www.hltv.org/news/45979/blast-rivals-quarter-finals-as-they-happened",
-          "source": "HLTV news",
-          "published": "2026-11-13T15:22:00.000Z",
+          "title": "Record Viewers, Smaller Sticker Checks: CS2’s Biggest Major Paid Teams Less",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeF80OEdQQkM3cmJMRlZEdWdTN0pjVG9jZkxLd0VZUVdXM0lHRXk4MmY0NWg5SkE4MHBLbUhoaVY4Slg2dTFJWW95X3N4cGNFa01oenRzbk9GbWtkMTk5dnZtZXhGTzl3YUMwc09wQWtMeHJXcVY2R252OUprakk0b1VmajdTSVktckhPbWM2QnU0Y0JEc0sxM1ZLaGcydmJlUGNpMXFiWmYxcVE?oc=5",
+          "source": "Google News: CS2 (Guided.news)",
+          "published": "2026-11-13T17:37:21.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "blast"
+            "record"
           ]
         },
         {
@@ -245,39 +185,58 @@
           "why": [
             "pgl"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Trackmania",
-      "storyCount": 3,
-      "stories": [
+        },
         {
-          "title": "2026-11-15 - Casual of the Week - 075 - Snowsage (previously postponed)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xv4uea/20261115_casual_of_the_week_075_snowsage/",
-          "source": "r/TrackMania",
-          "published": "2026-11-13T10:54:54.000Z",
-          "score": 4,
+          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-12T18:17:26.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "postponed",
-            "scrapie*"
+            "blast"
           ]
         },
         {
-          "title": "Trackmania Summit Presented by Visa: Registrations Are Open!",
-          "url": "https://blog.trackmania.com/2026/11/13/trackmania-summit-presented-by-visa-registrations-are-open/",
-          "source": "Trackmania blog",
-          "published": "2026-11-13T16:30:00.000Z",
-          "score": 1,
+          "title": "karrigan pistol 4k",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv5k66/karrigan_pistol_4k/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T11:35:07.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "karrigan"
+          ]
         },
         {
-          "title": "Why Trackmania still matters in sim racing",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGQjlIUmoyNTU3WmQ1bnluR3JXWEowWUktaUNiY1FQeVc3OHV6c1l3OFBaTmdpWERUa1RmWUJEVXVIaWhna0wxbkdzWjZFUlY5UUVTTnM3U3dkQU5XSXlUak82Rm1zMkNyLThiR2d3QWJJbm1fU2M3NDNoT0E?oc=5",
-          "source": "Google News: Trackmania (TopGear South Africa)",
-          "published": "2026-11-13T06:00:46.000Z",
+          "title": "Announcing the first new FACEIT server location coming to Europe. Live December 09 with Season 10.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvdagz/announcing_the_first_new_faceit_server_location/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-13T17:02:03.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update*",
+            "announced*"
+          ]
+        },
+        {
+          "title": "BLAST Rivals Season 2 2026: Quarterfinals Results & Semifinals Schedule",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnNzbG5qSG9wTnhSX19LRlE4N3B1QUl4TXdnajFJRUFrR0V6SEl4cWlRVXJ6Z3RPV0lrbTlONW1tb1VnTjlZUndEYWtTeXh4cXZhdkY1RGpUY3Z3ZVJTd1ZXNmlmRVBVa2JVZi1Xci1iMXI4SWhYdDBUN3Z3WVo4TEEzelVDR2NkWm1MU2c2RW5Ra3Z4YVNDVnh2TDN5SUdrdXUtVnltVlk?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-13T14:29:01.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "blast",
+            "-schedule"
+          ]
+        },
+        {
+          "title": "What Esports Sponsorships Reveal About a Web3 Casino: Team Deals, CS2 and Brand Accountability",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU9LZHV6MUtIa1I3dnUtczd1QU9WdkhoVXNadDBNd2RxTkdZYWRqcmIwcTJGaF9acXZQTjItanZqZHRKZWJjTXBzX3Q4NWkyMHNrZEVRUnY2b1VNWmIzS0kzMlRTOGdHZ3VlbU1QSTlxVTRKVGlpc21qMGpQUVAtV1BPXzdkQkdTYktSdm5HN0RET2J2N3Q0bzdfRFRzTERTUHBOTFEtdHdjZVp3alY5MnNiZGROMDZGZUpCbGtDSVZFR0JO?oc=5",
+          "source": "Google News: CS2 (CryptoDaily)",
+          "published": "2026-11-12T18:22:20.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -322,20 +281,26 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 3,
+      "scene": "Melee",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "What if Crusader Knight replaced Cavalier & Paladin upgrades for Teutons?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xv4jhg/what_if_crusader_knight_replaced_cavalier_paladin/",
-          "source": "r/aoe2",
-          "published": "2026-11-13T10:36:22.000Z",
+          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-13T16:31:05.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "replaced"
+            "hungrybox"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 2,
+      "stories": [
         {
           "title": "\"How do you push them off the edge of the map?!\" - TheViper. This is how:",
           "url": "https://www.reddit.com/r/aoe2/comments/1xv4t3d/how_do_you_push_them_off_the_edge_of_the_map/",
@@ -361,25 +326,8 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-13T16:31:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "hungrybox"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Cammy vs Juri in a cyber-punk themed match by me",
@@ -391,17 +339,30 @@
           "why": [
             "punk"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Trackmania Summit Presented by Visa: Registrations Are Open!",
+          "url": "https://blog.trackmania.com/2026/11/13/trackmania-summit-presented-by-visa-registrations-are-open/",
+          "source": "Trackmania blog",
+          "published": "2026-11-13T16:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
-          "title": "NYC Locals - $500 prize pot SF6 tournament with comedians roasting",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xv4ob4/nyc_locals_500_prize_pot_sf6_tournament_with/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-13T10:44:45.000Z",
-          "score": 0.5,
+          "title": "Why Trackmania still matters in sim racing",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGQjlIUmoyNTU3WmQ1bnluR3JXWEowWUktaUNiY1FQeVc3OHV6c1l3OFBaTmdpWERUa1RmWUJEVXVIaWhna0wxbkdzWjZFUlY5UUVTTnM3U3dkQU5XSXlUak82Rm1zMkNyLThiR2d3QWJJbm1fU2M3NDNoT0E?oc=5",
+          "source": "Google News: Trackmania (TopGear South Africa)",
+          "published": "2026-11-13T06:00:46.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "official*"
-          ]
+          "why": []
         }
       ]
     },
