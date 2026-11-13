@@ -1,39 +1,21 @@
 {
-  "generatedAt": "2026-11-13T09:30:44.599Z",
+  "generatedAt": "2026-11-13T10:30:32.937Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
-          "title": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
-          "url": "https://store.steampowered.com/news/app/2767030/view/703284306606293379",
-          "source": "Steam: Marvel Rivals (official news + patch notes)",
-          "published": "2026-11-12T09:44:14.000Z",
-          "score": 9,
-          "level": "breaking",
+          "title": "Marvel Rivals IGNITE Grand Finals: Predictions and Rewards",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWhVbXhaOU5GM3hHbTlTNkJLWE9HZzZtR2lrMjFBcWVtYVBOaW5rYUQ0OU94SEctenZ2NDhlV1pzTnp1eU45SThINkdIam5XYnlPQ0xNTEpTWTZVNV9kYVhtTzZScGxleldvREVUVi1Tby1mVTkzQmk1NmZScjNwZTdSQnA5U01FbnUyam5pbUVlenlhX05n?oc=5",
+          "source": "Google News: Rivals esports (games.gg)",
+          "published": "2026-11-13T09:23:33.000Z",
+          "score": 6,
+          "level": "possible",
           "why": [
-            "update*",
-            "return*",
-            "patch notes",
-            "balance*",
-            "new hero*",
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Version 20261113 Balance Post",
-          "url": "https://store.steampowered.com/news/app/2767030/view/695403626868244527",
-          "source": "Steam: Marvel Rivals (official news + patch notes)",
-          "published": "2026-11-12T09:43:34.000Z",
-          "score": 7.5,
-          "level": "breaking",
-          "why": [
-            "ban*",
-            "patch notes*",
-            "balance",
-            "buff*"
+            "grand finals",
+            "grand finals"
           ]
         },
         {
@@ -46,6 +28,18 @@
           "why": [
             "balance",
             "balance changes"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Patch Notes and Fixes",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6SEF6QUtQTzVXWE4zZkY1S2tLLVR0b0tsRDRaSWloMXRiY3lod2RFSURjUWRKWkQ2LW85RDVWMGFWbjVlblpyRUxTb0d3dnJUc3I1T2FjdTBxQVhrVnZMQk51NFFYR2syUlRDRmJn?oc=5",
+          "source": "Google News: Rivals esports (TwistedVoxel)",
+          "published": "2026-11-12T16:01:28.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "patch notes",
+            "season"
           ]
         },
         {
@@ -96,18 +90,6 @@
           ]
         },
         {
-          "title": "Season 11: Doomsday // Dev Vision Vol. 23 | Marvel Rivals",
-          "url": "https://store.steampowered.com/news/app/2767030/view/695403626868244545",
-          "source": "Steam: Marvel Rivals (official news + patch notes)",
-          "published": "2026-11-12T09:43:52.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "season",
-            "guangguang*"
-          ]
-        },
-        {
           "title": "Marvel Rivals Season 11 Brings Nightcrawler, New Battle Pass, and More on November 13",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXAxWHREbVVoYldpRl9fWkk5U2tPWE12SlNCS3lYN1hoU0t6N0RMV0JBOFhreDkwUUs5OFg3RnRhSzlOVUhDX3M2TmtmYjJieEVpOWVUbmFoRjdZUEhETjlORkZwNmNvVERiYVlLRUJVa1pyV3ltVWtYeHlzY2JEQ1lGMkhQazJCbEVzaldMcTVDYTNUbTVOR091T0F1ZEtCVjV0aWtYc014YzJaR1Mw?oc=5",
           "source": "Google News: Rivals esports (SSBCrack)",
@@ -145,6 +127,17 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUh1SnRMUzQ1a1JJX0FNTHU2OUM1NTdJUG1BcUEtazlWTm5uY3JjQUh4VXBXRmZXVUlraU5aSU1GWjVuTU0zZ3Q3dmFfdF9qVEVDOUdPMU94VXJDc0FJNGRkdERtMkZ0YXh5UzM1ZUh6NzN3OGpfdTV5SjRLZG1GeF9pcVFjdS0zcDlyeEhFUFAtdklBZWZnOFJZUjI?oc=5",
           "source": "Google News: Rivals esports (Sportskeeda)",
           "published": "2026-11-12T15:31:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Release Date and Details",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWZ1c2Ywa3NRbTFzSmlVWFF4SmxibGI5SUtRREhoWGF2d3pSS0NQb09WeExkMjY1MkpnNlk0WGZ5eEpSd0tFcFhJNzNjSlgtNzhjbjR4YWR3U2FTem9fYkl0Q0tTTzNXVE5JcG9SeVlWTFNHVlhfNEFEdkJEc0dFS1MxVTRORGJ6Mm1jMUtNTVNKUQ?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-12T13:31:21.000Z",
           "score": 2,
           "level": null,
           "why": [
