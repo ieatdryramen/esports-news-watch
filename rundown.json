@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:00:43.477Z",
+  "generatedAt": "2026-11-13T01:00:36.198Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -149,7 +149,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 17,
+      "storyCount": 16,
       "stories": [
         {
           "title": "Topson Reveals When the New Dota 2 Patch Will Actually Be Released",
@@ -172,6 +172,30 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "233 days since 7.41: the longest wait for a big patch since 2023, and about a week from the all-time",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xutyzy/233_days_since_741_the_longest_wait_for_a_big/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T00:50:10.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "the last*",
+            "record*",
+            "history*"
+          ]
+        },
+        {
+          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-13T00:47:50.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
           ]
         },
         {
@@ -222,17 +246,6 @@
           ]
         },
         {
-          "title": "The Days of 'Attack modifiers won't stack with each other'",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xul9fz/the_days_of_attack_modifiers_wont_stack_with_each/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T18:54:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
           "title": "No[o]ne Complained About the Long Delay in Dota 2 Patches",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbWFUM3FMOFdadEk2ZnZTTWRsOE9td1VNTnlHRHI2djJZLTZ3UkQyaTdEWkx1UVdscGsycVhySVdSTHJhbnVRc0M0MjY3RGZEQ0VMQkR5QzdzbHNlWGJkdWxvaEVWRm80NjJTVVB1b3hPZFoz?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -250,17 +263,6 @@
           "level": null,
           "why": [
             "update*"
-          ]
-        },
-        {
-          "title": "How long will the event last?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xulrvt/how_long_will_the_event_last/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T19:13:34.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "confirmed*"
           ]
         },
         {
@@ -285,7 +287,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Kaysan reverse sweep Team Aches out of The Flank 100k as Teej drops 14 in Game 5",
@@ -318,17 +320,6 @@
           "level": null,
           "why": [
             "shotzzy"
-          ]
-        },
-        {
-          "title": "Wonderful idea from the main MW4 Sub, should IW implement this in the next Update?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xus7wj/wonderful_idea_from_the_main_mw4_sub_should_iw/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T23:31:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
@@ -390,23 +381,6 @@
           "level": null,
           "why": [
             "hera"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Street Fighter Ø Null Set: Roster",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xuqa7v/street_fighter_ø_null_set_roster/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-12T22:08:12.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
           ]
         }
       ]
@@ -483,6 +457,21 @@
           "source": "Tetris Interest",
           "published": "2026-11-12T01:51:43.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "What do you guys prefer: slim Poison or buff Poison?",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xutlou/what_do_you_guys_prefer_slim_poison_or_buff_poison/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-13T00:32:44.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
