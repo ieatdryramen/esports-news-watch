@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-13T21:30:39.335Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
+      "url": "https://esports.gg/guides/marvel-rivals/marvel-rivals-upcoming-characters-new-heroes-leaks-and-rumors/",
+      "source": "esports.gg",
+      "outlets": [
+        "esports.gg"
+      ],
+      "score": 6,
+      "why": [
+        "roster*",
+        "new heroes"
+      ],
+      "summary": "Here's what Marvel Rivals players should know about the heroes who could join the roster next.",
+      "published": "2026-11-13T21:26:06.000Z"
+    },
+    {
       "alertedAt": "2026-11-13T18:01:02.120Z",
       "level": "possible",
       "scene": "Marvel Rivals",
