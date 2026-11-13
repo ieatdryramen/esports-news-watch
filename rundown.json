@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:00:36.198Z",
+  "generatedAt": "2026-11-13T02:00:38.772Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -149,20 +149,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 16,
+      "storyCount": 18,
       "stories": [
-        {
-          "title": "Topson Reveals When the New Dota 2 Patch Will Actually Be Released",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSG8zYnlQYk1nUm1UOWFUT0pSYURPbjAzU1lXT3FMdkFEVXZBY1RYWjZaUm1UN2hwbEVqdV9IWmkxTzZyZlM4NG5TbkRPYlVSWXJoUDZERlc3cnJBN1VFaGZkSkZkeVlZdEU0TmZYUmFCMmUzelBqazFWb0tQazhtQ09UWWU?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-12T16:07:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "released",
-            "topson"
-          ]
-        },
         {
           "title": "Chess to continue as a title at Esports World Cup 2027; joins DOTA 2, Counter Strike among others",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN2drblBQNEZ4MHcxZUt4V3VFV1liWHpTcFE1NDBpSm1GMng4TGxZQ2NYLXlpYU9jVkxKOUdUc0psaXY0SHR2NkIxZjBrbnVDR05sbU81NURLME5hV0U1dkdnVU5rdFJUWFRQM2VFWkxWeVdVbFA2MmZyajdVNm5Fd1RtX1R5Q0ZlZEdSRmd0VjdrQVF2WWpYLVdEdXM0TGZFcEVqVHBFb2pib0k5UU56QTRYeHJNSjNkYWRUMVAzaXhwbTVyeDFGQnMwbDRES2YyczJyV2wtemtyNzBxRThlWTBhMDhUbmd4YXfSAfABQVVfeXFMUGZ2UnA0cWFzWGRNejZIOVNjd3ZHV0Z4S1JKVEhwM3hFcmQwT3JQcUJ2WUR6eEprUWN4MTVQa0JUUloxN0h0a3h6eHBXRVZpaHFzN092SS14NkRocFJFdk1aYm1qYWZQUG5rR2RXeXNnbEpyTWtGRmdxZkFGUW9VaFJYZ3pHMUd2VUZwTG5YMlJKaklEeGdNY3g1YUNjeVNUVTRvNXd3UmwyVGhsc001dm5QUWl2Z2dGWTVlQmNRQkMwTG8yeW52amM5ZFhvYmF1VGppWHBjXy13WUVWZmYwMjhvcXRlZ0FXdVpGSXRUYjZf?oc=5",
@@ -172,6 +160,17 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "wow they removed neutrals, made the map smaller again AND re added side shop?!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuuurz/wow_they_removed_neutrals_made_the_map_smaller/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T01:31:42.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
           ]
         },
         {
@@ -212,17 +211,6 @@
           ]
         },
         {
-          "title": "[ Removed by Reddit ]",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xummdy/removed_by_reddit/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T19:44:44.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
-          ]
-        },
-        {
           "title": "Dota 2 confirmed for a fourth straight Esports World Cup, with 2027 format and prize pool unannounced",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONF9FSzlKTHJrQXVIaHVRTktYWEhGa2V0SGhNWmlMLVpwb1Q0WFdRY1FsS2FIZ3N0NHRjTUpQSnpMRWQzSFp6SGtTTTg3eXB2VXJCLWFQWVgtM2dZOTVtYzg4UFVXM2NCbjRVNFU1cVVHVEd0RlNLTWZuTlNDVjVFUTRPVHdaWG9FSkR4SGxfd2pMOWhGZkxwcE1BTWVIa1hHVTI4cmNFekdrSVh5MUVhZjAxUFU1VHEzNlZqLUs1RGY5Z1hEdWNPNTlTUElIWVp0TGM4?oc=5",
           "source": "Google News: Dota (Esports.net)",
@@ -246,6 +234,28 @@
           ]
         },
         {
+          "title": "actual update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuveog/actual_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T01:58:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Dota 2 Update for November 12, 2026",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuusm7/dota_2_update_for_november_12_2026/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T01:28:53.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "No[o]ne Complained About the Long Delay in Dota 2 Patches",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbWFUM3FMOFdadEk2ZnZTTWRsOE9td1VNTnlHRHI2djJZLTZ3UkQyaTdEWkx1UVdscGsycVhySVdSTHJhbnVRc0M0MjY3RGZEQ0VMQkR5QzdzbHNlWGJkdWxvaEVWRm80NjJTVVB1b3hPZFoz?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -266,19 +276,10 @@
           ]
         },
         {
-          "title": "I really could not be happier when a large dota patch drops.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xusd3n/i_really_could_not_be_happier_when_a_large_dota/",
+          "title": "Nerf OD immediately Valve!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xuvfv3/nerf_od_immediately_valve/",
           "source": "r/DotA2",
-          "published": "2026-11-12T23:37:54.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "I have patch 8.0",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xus1na/i_have_patch_80/",
-          "source": "r/DotA2",
-          "published": "2026-11-12T23:23:39.000Z",
+          "published": "2026-11-13T02:00:05.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -287,7 +288,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Team Kaysan reverse sweep Team Aches out of The Flank 100k as Teej drops 14 in Game 5",
@@ -309,17 +310,6 @@
           "level": null,
           "why": [
             "history"
-          ]
-        },
-        {
-          "title": "Shotzzy on what separates top teams from the rest",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xumm3t/shotzzy_on_what_separates_top_teams_from_the_rest/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-12T19:44:25.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "shotzzy"
           ]
         },
         {
@@ -348,6 +338,68 @@
             "roster",
             "announces"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 6,
+      "stories": [
+        {
+          "title": "New Tekken 8 Season Announced",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xuub9j/new_tekken_8_season_announced/",
+          "source": "r/Tekken",
+          "published": "2026-11-13T01:06:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "announced"
+          ]
+        },
+        {
+          "title": "Tekken 8 x Nike First Look: King-Inspired Air Max 1 Pieces",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGJnMDZkRVhKNXhObDg1UWJ6NDVLOTVQcS1Rdm8wa1JsMnExcVFpcnRpdzdXRUZSSEFqSmc4dk8yM2xFTGRvd29zaUw3WEFaeFV2QmpNM1VYQXd0SmFDSEg3SWxZSTI3REh6Vjd5NVYwSnI2Uk5hbWRscXQtdE5CeWtLbFdFVTUzYzlz?oc=5",
+          "source": "Google News: Tekken (https://thegame.ph/)",
+          "published": "2026-11-12T10:44:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "TEKKEN 8 DLC adds kicking powerhouse Roger Jr., features new King-inspired Nike in-game items",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWdNWHRURjFyZGg4ZmpPQVpMbkRZOHMtUkZuSzhGM2lTc3pFSUt2VHJ1U2pYLS04bGtNRy1fN19RYmRyY2xLOW95Rmw5Z0hiWlNRVTJxUlV3UlI5YnMzX1ZQUFF1VUllRGRTcTI3UUFmc3E5ZTViYWxLZ0ZabWZ3ckdKa1RtUC1aTDR4aW1RRkthMUFZZUIzMFhPZzdGQUVOS2VzelVHM0xjVVEtSV9wZDA4cjFEcUs3M1g0TVB1Y28?oc=5",
+          "source": "Google News: Tekken (Bandai Namco Europe)",
+          "published": "2026-11-12T09:12:06.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken 8 Roger Jr. | All Special Interaction",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE10bVNjMlMteTlPbWNTbVc2X2g1SzNYZTJHcklHUDFuMVhrNXlTVG92THRJS05nSlhCeU9F?oc=5",
+          "source": "Google News: Tekken (Howl.Link)",
+          "published": "2026-11-12T02:29:32.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Made the Edgerunners season 1 crew in Tekken",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xuvd7k/made_the_edgerunners_season_1_crew_in_tekken/",
+          "source": "r/Tekken",
+          "published": "2026-11-13T01:56:30.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Why does everyone start saying a DLC is broken and complaining about stupid things every time one comes out? It's always the same thing",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xuqy3i/why_does_everyone_start_saying_a_dlc_is_broken/",
+          "source": "r/Tekken",
+          "published": "2026-11-12T22:36:02.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -386,76 +438,14 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Update forced a reset and wiped all my customs (PS5)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xumz1q/update_forced_a_reset_and_wiped_all_my_customs_ps5/",
-          "source": "r/Tekken",
-          "published": "2026-11-12T19:57:48.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Tekken 8 x Nike First Look: King-Inspired Air Max 1 Pieces",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGJnMDZkRVhKNXhObDg1UWJ6NDVLOTVQcS1Rdm8wa1JsMnExcVFpcnRpdzdXRUZSSEFqSmc4dk8yM2xFTGRvd29zaUw3WEFaeFV2QmpNM1VYQXd0SmFDSEg3SWxZSTI3REh6Vjd5NVYwSnI2Uk5hbWRscXQtdE5CeWtLbFdFVTUzYzlz?oc=5",
-          "source": "Google News: Tekken (https://thegame.ph/)",
-          "published": "2026-11-12T10:44:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TEKKEN 8 DLC adds kicking powerhouse Roger Jr., features new King-inspired Nike in-game items",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWdNWHRURjFyZGg4ZmpPQVpMbkRZOHMtUkZuSzhGM2lTc3pFSUt2VHJ1U2pYLS04bGtNRy1fN19RYmRyY2xLOW95Rmw5Z0hiWlNRVTJxUlV3UlI5YnMzX1ZQUFF1VUllRGRTcTI3UUFmc3E5ZTViYWxLZ0ZabWZ3ckdKa1RtUC1aTDR4aW1RRkthMUFZZUIzMFhPZzdGQUVOS2VzelVHM0xjVVEtSV9wZDA4cjFEcUs3M1g0TVB1Y28?oc=5",
-          "source": "Google News: Tekken (Bandai Namco Europe)",
-          "published": "2026-11-12T09:12:06.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken 8 Roger Jr. | All Special Interaction",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE10bVNjMlMteTlPbWNTbVc2X2g1SzNYZTJHcklHUDFuMVhrNXlTVG92THRJS05nSlhCeU9F?oc=5",
-          "source": "Google News: Tekken (Howl.Link)",
-          "published": "2026-11-12T02:29:32.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Why does everyone start saying a DLC is broken and complaining about stupid things every time one comes out? It's always the same thing",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xuqy3i/why_does_everyone_start_saying_a_dlc_is_broken/",
-          "source": "r/Tekken",
-          "published": "2026-11-12T22:36:02.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Classic Tetris",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Final Day and Afterparty – 2026 CTWC Experience – Day 3 – Part 9",
           "url": "https://tetrisinterest.com/final-day-and-afterparty-2026-ctwc-experience-day-3-part-9/",
           "source": "Tetris Interest",
           "published": "2026-11-12T06:53:56.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Touring the Expo and Doing Stats Work at the Classic Tetris World Championship – 2026 CTWC Experience – Day 2 – Part 8",
-          "url": "https://tetrisinterest.com/touring-the-expo-and-doing-stats-work-at-the-classic-tetris-world-championship-2026-ctwc-experience-day-2-part-8/",
-          "source": "Tetris Interest",
-          "published": "2026-11-12T01:51:43.000Z",
           "score": 1,
           "level": null,
           "why": []
