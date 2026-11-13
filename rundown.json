@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T16:00:43.711Z",
+  "generatedAt": "2026-11-13T17:00:42.749Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Another Day, another 322: Rottweilas receive lifetime Esports Pro Circuit ban for match-fixing",
@@ -60,15 +60,13 @@
           "why": []
         },
         {
-          "title": "Yay, VALVEs finally dropped an update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv2kse/yay_valves_finally_dropped_an_update/",
+          "title": "If there is a patch soon, please let there be this change.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvbrtc/if_there_is_a_patch_soon_please_let_there_be_this/",
           "source": "r/DotA2",
-          "published": "2026-11-13T08:32:17.000Z",
-          "score": 1,
+          "published": "2026-11-13T16:05:02.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "update"
-          ]
+          "why": []
         },
         {
           "title": "Astra Invicta new lineup (+Sabrelight +RincyQ -Nightfall -DM)",
@@ -87,30 +85,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "I'm sure Patch will come next week, because...",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv32qg/im_sure_patch_will_come_next_week_because/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T09:04:23.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New hero idea (for fun)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xv2e5q/new_hero_idea_for_fun/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T08:20:43.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 21,
       "stories": [
         {
           "title": "G2 vs Falcons / BLAST Rivals 2026 Season 2 - Quarter-Final / Post-Match Discussion",
@@ -234,19 +214,6 @@
           ]
         },
         {
-          "title": "Vitality's Pistol Rounds",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xv37c9/vitalitys_pistol_rounds/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-13T09:12:23.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "the last*",
-            "won*",
-            "vitality"
-          ]
-        },
-        {
           "title": "BLAST Rivals quarter-finals as they happened",
           "url": "https://www.hltv.org/news/45979/blast-rivals-quarter-finals-as-they-happened",
           "source": "HLTV news",
@@ -267,12 +234,23 @@
           "why": [
             "m0nesy"
           ]
+        },
+        {
+          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlBLY3Jsa2lXMnFSYmJ4bGlOOUNzQWdJdkZxVnFrM0tTOEFpSVhKZTNRY0ZxY01ZTEt5ZDk5MloxU19WVUQ1YUNmUUM4R1BtQTg3UVVya1dGZ3lHR0ZReDJ5dXZNWGRrbTI4anJveXRTUl9yY3picVdyNHo2LUwzZGlUb2R4OXc4cTF0SzFNUUwtR0RjSmNWeC02UkFKM1BKVWJ4aWd3YldCUjFaTDZLTkxrTFZabDJQZ1gycHJ3WHNUb2FvU2otb2hsblhVREU1Y2tHSEFab05VVVJM?oc=5",
+          "source": "Google News: CS2 (Big News Network.com)",
+          "published": "2026-11-13T01:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
         }
       ]
     },
     {
       "scene": "Trackmania",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "2026-11-15 - Casual of the Week - 075 - Snowsage (previously postponed)",
@@ -287,6 +265,15 @@
           ]
         },
         {
+          "title": "Trackmania Summit Presented by Visa: Registrations Are Open!",
+          "url": "https://blog.trackmania.com/2026/11/13/trackmania-summit-presented-by-visa-registrations-are-open/",
+          "source": "Trackmania blog",
+          "published": "2026-11-13T16:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Why Trackmania still matters in sim racing",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGQjlIUmoyNTU3WmQ1bnluR3JXWEowWUktaUNiY1FQeVc3OHV6c1l3OFBaTmdpWERUa1RmWUJEVXVIaWhna0wxbkdzWjZFUlY5UUVTTnM3U3dkQU5XSXlUak82Rm1zMkNyLThiR2d3QWJJbm1fU2M3NDNoT0E?oc=5",
           "source": "Google News: Trackmania (TopGear South Africa)",
@@ -299,7 +286,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Noob Saibot (MK9) wins! Round 12, Fight! What is the best costume from Tekken?",
@@ -311,12 +298,32 @@
           "why": [
             "wins"
           ]
+        },
+        {
+          "title": "Does anyone know where i can download a European release of TTT2 wii u edition as a .wua archive? i want to play as the T7/T8 roster so bad",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvc0fg/does_anyone_know_where_i_can_download_a_european/",
+          "source": "r/Tekken",
+          "published": "2026-11-13T16:14:04.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "Roger's giant swing has a trailer camera switch",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvd5mz/rogers_giant_swing_has_a_trailer_camera_switch/",
+          "source": "r/Tekken",
+          "published": "2026-11-13T16:57:16.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 3,
       "stories": [
         {
           "title": "What if Crusader Knight replaced Cavalier & Paladin upgrades for Teutons?",
@@ -327,6 +334,45 @@
           "level": null,
           "why": [
             "replaced"
+          ]
+        },
+        {
+          "title": "\"How do you push them off the edge of the map?!\" - TheViper. This is how:",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xv4t3d/how_do_you_push_them_off_the_edge_of_the_map/",
+          "source": "r/aoe2",
+          "published": "2026-11-13T10:52:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "theviper"
+          ]
+        },
+        {
+          "title": "Wololo",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xv34yw/wololo/",
+          "source": "r/aoe2",
+          "published": "2026-11-13T09:08:23.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "wololo"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-13T16:31:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "hungrybox"
           ]
         }
       ]
@@ -393,7 +439,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "Classic Tetris",
     "Warcraft III",
     "Legacy FGC",
