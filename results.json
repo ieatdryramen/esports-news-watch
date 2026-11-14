@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-14T13:00:22.834Z",
+  "generatedAt": "2026-11-14T13:30:20.077Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1752460",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "LENP 2026 Tekken 8 Tournament",
+      "event": "LENP 2026 Tekken 8 Tournament",
+      "entrants": 74,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T04:00:00.000Z",
+      "endAt": "2026-11-14T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/lenp-2026-tekken-8-tournament/event/lenp-2026-tekken-8-tournament",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ONIC | RTM"
+        },
+        {
+          "placement": 2,
+          "name": "Zenex"
+        },
+        {
+          "placement": 3,
+          "name": "UwU | Believe"
+        },
+        {
+          "placement": 4,
+          "name": "DDD | SapiTekken"
+        },
+        {
+          "placement": 5,
+          "name": "UwU | Ar'Fear"
+        },
+        {
+          "placement": 5,
+          "name": "+CREW | KCS | yiyifan"
+        },
+        {
+          "placement": 7,
+          "name": "UwU | Davai"
+        },
+        {
+          "placement": 7,
+          "name": "MYTH | IFT | Kamasutraspirit"
+        }
+      ]
+    },
     {
       "eventId": "1725717",
       "scene": "melee",
@@ -332,21 +379,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1752460",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "LENP 2026 Tekken 8 Tournament",
-      "event": "LENP 2026 Tekken 8 Tournament",
-      "entrants": 74,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T04:00:00.000Z",
-      "endAt": "2026-11-14T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/lenp-2026-tekken-8-tournament/event/lenp-2026-tekken-8-tournament"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1587277",
