@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-11-14T00:30:37.429Z",
+  "generatedAt": "2026-11-14T01:00:47.613Z",
   "source": "start.gg",
-  "completed": [],
+  "completed": [
+    {
+      "eventId": "1751157",
+      "scene": "tokon",
+      "game": "Fighting Souls",
+      "tournament": "MA: MARVEL Tōkon Fighting Souls NA #14 (PC/PS5) Are You Motivated?",
+      "event": "MA: MARVEL Tōkon Fighting Souls NA #14 (PC/PS5) Are You Motivated?",
+      "entrants": 58,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-13T01:00:00.000Z",
+      "endAt": "2026-11-14T01:00:00.000Z",
+      "url": "https://www.start.gg/tournament/ma-marvel-t-kon-fighting-souls-na-14-pc-ps5-are-you-motivated/event/ma-marvel-t-kon-fighting-souls-na-14-pc-ps5-are-you-motivated",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ONi | Lucky"
+        },
+        {
+          "placement": 2,
+          "name": "PoppyJan"
+        },
+        {
+          "placement": 3,
+          "name": "Help | Naire"
+        },
+        {
+          "placement": 4,
+          "name": "Inception"
+        },
+        {
+          "placement": 5,
+          "name": "LYRA | | RllyShiesty"
+        },
+        {
+          "placement": 5,
+          "name": "100A | Poohbear"
+        },
+        {
+          "placement": 7,
+          "name": "100A | Yellow_SB2"
+        },
+        {
+          "placement": 7,
+          "name": "Hooplah"
+        }
+      ]
+    }
+  ],
   "live": [],
   "upcoming": [],
   "games": {
