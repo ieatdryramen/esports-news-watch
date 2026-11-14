@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T13:40:29.547Z",
+  "generatedAt": "2026-11-14T14:40:23.891Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
@@ -40,18 +40,6 @@
           "why": [
             "season",
             "mrc"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11: Nightcrawler Release Time, Battle Pass and Balance – Esports News Network",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUdVZEdwSWxnVlg1a0xvZ0FDT081RUlkc1U0UlBrUWcwa1ZiX0o3WkZydjlMTFJ5bTZGWmdURGpvZVVoaFRLWWRSNXlhMkhpZ0k2VDRLVHQyUnZIYkxiSFRsZTlHN0piTkFCWkFvdGlIcXBYRWg1TDNZdzdXSlNWbXRpajNYMTQ?oc=5",
-          "source": "Google News: Rivals esports (ESTNN)",
-          "published": "2026-11-13T14:34:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "balance",
-            "season"
           ]
         },
         {
@@ -91,7 +79,7 @@
         {
           "title": "Marvel Rivals Season 11 Launches Nightcrawler, Dracula And 18v18 Battles",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDNhcUJnMjdRdThTTHUzVXBHMU5DWmhCOWZJaHZwZjk5VHVSSG03dWxKMXUwQ3VEY2FfR21mc1AyRjhhek9rWC0ySGxOdTZoSnNPWnRKRi1pNEx1Z3VBRldobFlDQ256NlpFbXcyTnRUMzNhRlRtMWlaYjZXTmpXSV9PVWozYU5WblZRdVVqUHlxN3JGaUVvbHVCVV82c0xa?oc=5",
-          "source": "Google News: Rivals patches (TheXboxHub)",
+          "source": "Google News: Rivals esports (TheXboxHub)",
           "published": "2026-11-13T16:03:32.000Z",
           "score": 2,
           "level": null,
@@ -131,6 +119,15 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRnY1UmpXcHRpZlFpQjhaSzk1dmZzTjZCVFQ0c2NnZUJqelpWMXppT2Y3MFFxaGlhVi02N2R6cl9LVFZsS3Z3VnkzNndlZWtrVjN3RnpPMzNGQ3dsRzJsT3AzRTg4SmgyQkFtQVNQMFpBMngtNklZczliX2huMVpabG9yV1djYWtFV04xS3ZneHM3RktqLVBpMmExeERTNnZSaWZiSm50WFdKUG5YQms4WW5BdGtZSWFsaktoN01OT013NGVVaTRrWUw1a1Jpb0U?oc=5",
           "source": "Google News: Rivals patches (Massively Overpowered)",
           "published": "2026-11-13T17:00:10.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "5 Marvel Rivals Characters Who Could Be Added To The Game After Nightcrawler & Dracula",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXU1RTN5VXNKYm1zdUc4dm94OXB0UEVnSUMzU0hXemRBWDRNSU93TEJFTUotd1ZvOWgzWVJ2eFd4Szl5QTBzby1BM2MwbWQ3ejI4bGlWLWV3MUJNalVsV0xqTldnOURYaXF1R1dEeVlZcDFVT3BGbXNRbWNHN1RhaE1IV3NOM1FBVVVzMU90c0l3bklRTTZoMnItUFFiR0l6VlVPbzN1M19BcW1pOVlMMm9UQ2tZclJ6UFUw?oc=5",
+          "source": "Google News: Rivals patches (ComicBook.com)",
+          "published": "2026-11-13T17:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
