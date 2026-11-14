@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T08:25:16.087Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Asian crowd controversy and should we expect the same for the major?",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvx7u1/asian_crowd_controversy_and_should_we_expect_the/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "the last*",
+        "cheating*",
+        "controversy",
+        "blast*",
+        "reddit only"
+      ],
+      "summary": "The last few S tier events(including today at Blast) have some of the most bizzare \"crowd cheating\" moments and all of those events were in asian countries. As a neutral fan I really don't like how the crowd is affecting basically every buy round - should we expect the same for the Major as well? I am not new to watching big arena cs - but I have witnessed something similar only in Brazil events (when Brazil teams play). Is there any explanation why the crowd cheating is happening so often in Beijing and now in Hong Kong? I am genuinely interested in any explanation - is the ESL/BLAST X Ray observer different or anything else? submitted by /u/fedexpres to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-14T08:21:16.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T02:20:20.665Z",
       "level": "possible",
       "scene": "CS2",
