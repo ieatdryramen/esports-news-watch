@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:00:39.663Z",
+  "generatedAt": "2026-11-14T00:00:48.288Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 17,
       "stories": [
         {
           "title": "SAW bench NOPEEj and promote Jayy2s",
@@ -181,101 +181,6 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 9,
-      "stories": [
-        {
-          "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
-          "source": "Google News: Dota (Esports Insider)",
-          "published": "2026-11-13T13:21:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        },
-        {
-          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-13T03:47:27.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Astra Invicta updated its roster ahead of BLAST SLAM IX",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvf5gz/astra_invicta_updated_its_roster_ahead_of_blast/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T18:10:11.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
-          "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
-          "source": "esports.gg",
-          "published": "2026-11-13T14:23:34.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvjftb/new_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T20:54:29.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "99th copium for today. Patch? I can feel CM ms speed reduction in my bones.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvje0n/99th_copium_for_today_patch_i_can_feel_cm_ms/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T20:52:36.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "My one request for the patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xve555/my_one_request_for_the_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T17:33:08.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 patch definitely falled on my luck",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvdqfc/dota_2_patch_definitely_falled_on_my_luck/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T17:18:06.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "CH - XE, November 13, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0szcHhrUTRSZGlyczBSdGZQNzg5Q09OeWRPNG5wcmRfLTB3WUlRYVMzX0VQbTZONlFVNmVoM0pqSFpmRVFhS2JUY1F4UHhyUDh1dTlseld6dl9pM1hBTjBWRDlLUEFybDYyV2IwVnJZMFBqdGJycGJmc1F5V3BURWRPX1pZYUdUUHRwZVRncG5wM3VETFBFdVFhYnFhVzQ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-13T17:03:58.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CoD",
       "storyCount": 6,
       "stories": [
@@ -342,6 +247,61 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 5,
+      "stories": [
+        {
+          "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
+          "source": "Google News: Dota (Esports Insider)",
+          "published": "2026-11-13T13:21:03.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "returns"
+          ]
+        },
+        {
+          "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
+          "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
+          "source": "esports.gg",
+          "published": "2026-11-13T14:23:34.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "New patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvjftb/new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T20:54:29.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "99th copium for today. Patch? I can feel CM ms speed reduction in my bones.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvje0n/99th_copium_for_today_patch_i_can_feel_cm_ms/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T20:52:36.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "CH - XE, November 13, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0szcHhrUTRSZGlyczBSdGZQNzg5Q09OeWRPNG5wcmRfLTB3WUlRYVMzX0VQbTZONlFVNmVoM0pqSFpmRVFhS2JUY1F4UHhyUDh1dTlseld6dl9pM1hBTjBWRDlLUEFybDYyV2IwVnJZMFBqdGJycGJmc1F5V3BURWRPX1pZYUdUUHRwZVRncG5wM3VETFBFdVFhYnFhVzQ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-13T17:03:58.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
       "storyCount": 2,
       "stories": [
@@ -392,12 +352,28 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "[BSL 23] RO16 Group C: 🇷🇺 Dewalt 🇺🇸 Artosis 🇨🇱 Tech 🇳🇱 ret - Trailer Video ||🎙️ Azhi_Dahaki & EleGant[AoV] - Sunday 21:00 CET",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xvn244/bsl_23_ro16_group_c_dewalt_artosis_tech_ret/",
+          "source": "r/broodwar",
+          "published": "2026-11-13T23:24:16.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "bw*"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
     "AoE2",
     "Classic Tetris",
-    "Brood War",
     "Warcraft III",
     "Street Fighter",
     "Legacy FGC",
