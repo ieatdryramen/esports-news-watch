@@ -338,24 +338,6 @@
       ],
       "summary": "",
       "published": "2026-11-12T16:07:00.000Z"
-    },
-    {
-      "alertedAt": "2026-11-12T18:20:20.461Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "Am I the only one who randomly saw this Mysterious Button (with the icon of an insect) appear next to the shut down button?",
-      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xuk89y/am_i_the_only_one_who_randomly_saw_this/",
-      "source": "r/GlobalOffensive",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 5.5,
-      "why": [
-        "update*",
-        "shut down"
-      ],
-      "summary": "https://preview.redd.it/l9tbltdr381i1.png?width=1920&format=png&auto=webp&s=50b4f64b5a1acb0d774ba18c3b27ccb6e64c0eb9 I randomly saw this appear while I was playing a competitive match. It looks like a developer debug menu or something like that, and I don't see this very often + I haven't seen anyone talk about it. The first time I saw it was after the latest update submitted by /u/Longjumping_Gap3146 to r/GlobalOffensive [link] [comments]",
-      "published": "2026-11-12T18:16:37.000Z"
     }
   ]
 }
