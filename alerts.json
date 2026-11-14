@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T18:20:20.292Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Rumor: Gaimin Gladiators may have signed Parker",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xw9935/rumor_gaimin_gladiators_may_have_signed_parker/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "signed",
+        "gaimin gladiators"
+      ],
+      "summary": "submitted by /u/thexbeatboxer to r/DotA2 [link] [comments]",
+      "published": "2026-11-14T18:16:53.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T15:45:20.309Z",
       "level": "possible",
       "scene": "CS2",
