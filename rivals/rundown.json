@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T22:50:20.825Z",
+  "generatedAt": "2026-11-14T23:45:25.627Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -48,17 +48,6 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdjdNdy1YSEd0aEY0QXZISXA4UXFIZExNdG1QR2drUUJ3ZkoxbVhDNk43TklFRHlWRFZseFZ3MzFUNkxCVHpnOHlQZlp3aXdzWmhOdmZ6Z1N4WGxpMVRnempLREM5Y091MUo3TUZic09mdzA0cDVyZ3UzdlNCSDdRV2syZE9UMlUwZ3ZSaUx1X1FfY3NZZERqTFoyY0lUMk5YTVZsSE4xdkcwVzhsRUxGUXFsQnQwdXBVenNWNTBTVHdybm8tUkk0d1VZejhSTkNmOTktS2QyS0ROdjZlQV82WmpLMGk?oc=5",
           "source": "Google News: Rivals patches (GameFragger.com)",
           "published": "2026-11-14T14:11:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Adds Nightcrawler and a New Aim Assist Setting",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdZRVZpT05OYkZURUl3UXNmTXIyVE5GQm9jNGFENUdlRW1sa3dIZElXbGFBTTFqN290QWZvNm9EbGR2SHhEcDFmakpUNEVIWHlBRmg4Q1lwdXdhTGZJVUZ6RnMyeUU1WmR1aTVMa2VHeEh1MURzeEdnRmEzdlVjcFNmeURiU0tkV1VDdWtTOA?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-13T23:31:15.000Z",
           "score": 2,
           "level": null,
           "why": [

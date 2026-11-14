@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T22:50:21.839Z",
+  "generatedAt": "2026-11-14T23:45:26.743Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 1,
+      "storyCount": 3,
       "stories": [
         {
           "title": "MARVEL Tōkon: Fighting Souls Spotlights Phoenix Cyclops, Its First DLC Fighter, In A New Clip",
@@ -17,6 +17,24 @@
             "dlc",
             "-clip"
           ]
+        },
+        {
+          "title": "Marvel Tokon: Fighting Souls (2026)",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeUtlWmJBSWR4bXJfQkt3dzN1TGk3WWlZY0JwOUhiY1BQMUItNmxyWC03NEt0LWM3ei1CTFRraTBxNGxUVjJRemJJZjJGX1p3dTBqVW1MZkFUQkpaellKNDl4ZGtTcjZRYUxVY1J3OFVkZUxGUHVNY0VveXd1S3N5cm5SM1Nidw?oc=5",
+          "source": "Google News: Tokon (IMDb)",
+          "published": "2026-11-14T22:54:38.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Tokon stories",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56UDNvNy1idmZCVklHNEJyLWdLcVozY3pOSVFaTkFlX3JiemV3VEdrY3ZhQjJoc2NvN1AwYmd5NzJyb3VqSTRkUWduZ2hHWGlWOXRHQ1FvLXViTTZpOGxWN1cxX3A?oc=5",
+          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
+          "published": "2026-11-14T21:46:01.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
