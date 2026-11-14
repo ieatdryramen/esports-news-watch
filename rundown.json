@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T14:00:39.952Z",
+  "generatedAt": "2026-11-14T15:00:41.946Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 24,
+      "storyCount": 26,
       "stories": [
         {
           "title": "\"Spirit map win despite donk negative rating\" counter: today marked 15th all-time, 4th this year.",
@@ -20,6 +20,36 @@
             "donk",
             "faze*",
             "g2*"
+          ]
+        },
+        {
+          "title": "r/GlobalOffensive Flair Updates – Singapore Major 2026",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw3drw/rglobaloffensive_flair_updates_singapore_major/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T14:13:40.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "update*",
+            "returns*",
+            "return*",
+            "won*",
+            "natus vincere*",
+            "vitality*"
+          ]
+        },
+        {
+          "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzM2TzJOZUFXQV9jcW9LRjJ6Ui00bWt5N002dzFEY2NPTUU4ZzF4aDhRNzRDQ3JDRlN2cW11UFBWbk5VX1gtdmF2cmJ0dXNaRFoyNEFOUFRDT3ZsRU01VTYxRzdKN0Nlc0puMHlPWThhbXNQSXpEaU56UHhmRTZTWlJHbXdzNUV4bmFnZEdwMnNaV012NFJxUzJR?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-14T13:50:01.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "grand final",
+            "spirit",
+            "furia",
+            "blast"
           ]
         },
         {
@@ -95,24 +125,35 @@
           ]
         },
         {
-          "title": "Falcons qualify for BLAST Rivals semis over G2",
-          "url": "https://www.hltv.org/news/45984/falcons-qualify-for-blast-rivals-semis-over-g2",
-          "source": "HLTV news",
-          "published": "2026-11-13T14:24:00.000Z",
-          "score": 5,
+          "title": "What BLAST's own rulebook states on round replays",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw41ci/what_blasts_own_rulebook_states_on_round_replays/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T14:42:15.000Z",
+          "score": 4.5,
           "level": null,
           "why": [
-            "karrigan*",
-            "g2",
+            "controversy*",
             "furia*",
             "blast"
           ]
         },
         {
+          "title": "I’ve just been given a global cooldown from VAC for absolutely no reason - is there anyway I can fix this?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw3jj2/ive_just_been_given_a_global_cooldown_from_vac/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T14:20:46.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "cheat*",
+            "vac"
+          ]
+        },
+        {
           "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUM0YjN2VWpLZEJnRWowbG8yTjEyLUtraDNrbTduakVuQXUwM3Q2OHVCRWVSdTFpMUVraGF2dzRtZDV5MzUtQjJmM1FZcU9uNkFLWnVuX0pEcDBDcWhhTlNKbnlNNXgtSk5ta1pPVk5yUVR1ZjRQbUtES0R2bjZCNElOd19lSGstN0FVb2RWZDBQb0VheE9WMWFKeVFOTmMwZ19kSmc1b1JKeEdkWU5IdVZNX3JzNkk?oc=5",
-          "source": "Google News: CS2 (The Straits Times)",
-          "published": "2026-11-14T13:55:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3F1QXpFVjFObE54Si13UjVIWk8xMGFiakpLd2dWQWNwek1WZFFvdE5jQzZWenZWaWVxdVkwT1FoNlA0ZXRWVllJZUdfVnMtdDFTVjljVDk3YnIwX1E5bW5zR0hTQjRlcFpfZ3JHLTFTZXFWUmVzVXhveUlKbFlkMGtB?oc=5",
+          "source": "Google News: CS2 (Yahoo News Singapore)",
+          "published": "2026-11-14T13:55:55.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -130,46 +171,12 @@
             "won",
             "blast"
           ]
-        },
-        {
-          "title": "Blast Rivals drinking game: Take a drink every time Scrawny says a player \"activates\"",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw1i12/blast_rivals_drinking_game_take_a_drink_every/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T12:42:25.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia*",
-            "blast"
-          ]
-        },
-        {
-          "title": "FURIA sweep Falcons to reach Hong Kong final",
-          "url": "https://www.hltv.org/news/45990/furia-sweep-falcons-to-reach-hong-kong-final",
-          "source": "HLTV news",
-          "published": "2026-11-14T12:02:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia"
-          ]
-        },
-        {
-          "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU5GVXhSeTZnRlY1R05uQ3FNWTEzSDl3LVRoZW1lWUtwSUFqMjVyTWpDd2tyVmpxaURob0lNN2NpbjlZWHlXN1AtRk9wVXB6bklJdHVReXpCXzRSaWI3enFTUVdIOEpEY2t2WFF5VVhGRGdiQXhSekp0YlB3cFV5NmdZQWxoWktJazZaQVlsTzBPVjk3a1RaMTBJcDJOREhoSWRHb1BnbnF3UQ?oc=5",
-          "source": "Google News: CS2 (HardwareZone)",
-          "published": "2026-11-14T07:43:17.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "how is cheating still okay?",
@@ -183,6 +190,18 @@
             "ban*",
             "cheating",
             "reddit only"
+          ]
+        },
+        {
+          "title": "World record hero healing! 581,453!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xw37ht/world_record_hero_healing_581453/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T14:05:39.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "world record",
+            "record"
           ]
         },
         {
@@ -217,26 +236,6 @@
           "why": [
             "yatoro"
           ]
-        },
-        {
-          "title": "Smoke break into a game-ending swift RAMPAGE",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvwi9u/smoke_break_into_a_gameending_swift_rampage/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T07:37:44.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        },
-        {
-          "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
-          "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
-          "source": "esports.gg",
-          "published": "2026-11-13T14:23:34.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
@@ -316,7 +315,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "1 Pro Tip for each Civ in AOE2 - Liereyy",
@@ -328,6 +327,15 @@
           "why": [
             "liereyy"
           ]
+        },
+        {
+          "title": "Name 5 things you would patch",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xw3bo9/name_5_things_you_would_patch/",
+          "source": "r/aoe2",
+          "published": "2026-11-14T14:11:00.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -345,13 +353,27 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Olivier Richters, Zangief From ‘Street Fighter’, Enters ‘Street Fighter 6’ Tournament and Plays Zangief",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkMtblFQLXg1YVJnalFEc1pGb01ldmMxRktpV2pmbm5YdnZKaUZqQm1Sc3F1NEFKNUNPREV6M241Yy1SRTlacHBXSUxSYWpRZUlJMkJDMXhWdy1vcFA5Zy14OUJCSE1SMGJ3ZVVHQ1hsMlJQRURfT3h1bnFWRF9IX0JoYm9iZGJaOEpIbUk3N0k0ZXhsSlJjNk54bzBHc2N4anhybG5HQWVNZUlUdWZCajc2Yno2TC1iNjRvZE55NElqSTRkNnZ4V0RDdGFNUWVMTHJ2WU1R?oc=5",
+          "source": "Google News: Street Fighter (Men's Journal)",
+          "published": "2026-11-14T14:37:42.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
-    "Street Fighter",
     "Legacy FGC",
     "CoD",
     "Quake",
