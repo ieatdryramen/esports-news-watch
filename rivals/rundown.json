@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T14:40:23.891Z",
+  "generatedAt": "2026-11-14T15:35:29.546Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
@@ -20,9 +20,9 @@
         },
         {
           "title": "Marvel Rivals Season 11 Roadmap Breakdown: New Map, Skins, Events & More",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfQ1UwRVdPYk9MVFhvUVVxeVc2YVg0bUdBUzBxVC0zczM4aHFHWUZtcERIbjZUTE1vWWxnT2FWYUM1RUczTXdhdzZIbHZvaTlPUWdySWpPVHk3b0IySkJPUTFWVUNReGRkbkpaYl9PdFE3NTQ?oc=5",
-          "source": "Google News: Rivals patches (FandomWire)",
-          "published": "2026-11-14T11:53:40.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaUloVUFKeHhCejYtcGJlZGFKankyS3Z6T1Z6N2ZCd0JrS3N6am0tQVIyX211ZHhBSF9DUWtwSDNUcjdpdG9seWI4ZFBCLUtuN01LdVhueDNNWTl1SWg5V1F3?oc=5",
+          "source": "Google News: Rivals patches (IMDb)",
+          "published": "2026-11-14T13:35:28.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -31,10 +31,10 @@
           ]
         },
         {
-          "title": "MRC Season 11: Doomsday - China PC",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0xhMklSSlVRcE10dFcyZVlSLWNtd2I0a0RjdTJJcThvTDFZSGVjOW5TRHRfRGZHN0w5S2N5N3hnMkVnZGdhdlh0bld3dTg2bl9rdkc2RXJBMmtyb29pWFZFQzJfWnllRDVsOFlKOVhjZXRteVFrZF9maE02OUFkODBHcmdUY1E1?oc=5",
+          "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-13T14:48:07.000Z",
+          "published": "2026-11-14T12:56:20.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -43,14 +43,13 @@
           ]
         },
         {
-          "title": "All hero buffs and nerfs in Marvel Rivals Season 11 update",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObmcxT3FsbW5VWXNGVVUxQkh1eXNYSXZxMDZraW9MODhMTWJXWGs4XzdscVJOQ296MG9fcFNBNnk2dERIWjB0bzFWVUxlb2FLVy1yZzdGejhOMmM0MVFlenhhWVdDUUpaa2UxQlBMWFlGSHRoZnlvc0lJNW54N0tSQWl3NC12cUpLcjNhSjNsTFM?oc=5",
-          "source": "Google News: Rivals esports (Sportskeeda)",
-          "published": "2026-11-13T15:14:00.000Z",
-          "score": 3,
+          "title": "Marvel Rivals Villain The Hood Gets His Origin Story On Marvel Unlimited Ahead Of Season 11",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdjdNdy1YSEd0aEY0QXZISXA4UXFIZExNdG1QR2drUUJ3ZkoxbVhDNk43TklFRHlWRFZseFZ3MzFUNkxCVHpnOHlQZlp3aXdzWmhOdmZ6Z1N4WGxpMVRnempLREM5Y091MUo3TUZic09mdzA0cDVyZ3UzdlNCSDdRV2syZE9UMlUwZ3ZSaUx1X1FfY3NZZERqTFoyY0lUMk5YTVZsSE4xdkcwVzhsRUxGUXFsQnQwdXBVenNWNTBTVHdybm8tUkk0d1VZejhSTkNmOTktS2QyS0ROdjZlQV82WmpLMGk?oc=5",
+          "source": "Google News: Rivals patches (GameFragger.com)",
+          "published": "2026-11-14T14:11:00.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "update",
             "season"
           ]
         },
@@ -59,6 +58,17 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdZRVZpT05OYkZURUl3UXNmTXIyVE5GQm9jNGFENUdlRW1sa3dIZElXbGFBTTFqN290QWZvNm9EbGR2SHhEcDFmakpUNEVIWHlBRmg4Q1lwdXdhTGZJVUZ6RnMyeUU1WmR1aTVMa2VHeEh1MURzeEdnRmEzdlVjcFNmeURiU0tkV1VDdWtTOA?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-13T23:31:15.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals: Season 11 Buffs & Nerfs Explained",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kMUVXWmtVRnJCM3U4WnZFQ0drVkVScWZtaGtsSlhYY1JudUM4R3gzSW5TdlY3Z1g5NThsWXlMeU1ZeUVGeHJKaUdZYS1WTFNPZHhuZkJwUVZoZTZweG9NVVhneEtBOXphTVpiekM2YVQ0TExaS3ZvcVRjVHB0X0E?oc=5",
+          "source": "Google News: Rivals patches (ScreenRant)",
+          "published": "2026-11-13T23:30:18.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -79,7 +89,7 @@
         {
           "title": "Marvel Rivals Season 11 Launches Nightcrawler, Dracula And 18v18 Battles",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDNhcUJnMjdRdThTTHUzVXBHMU5DWmhCOWZJaHZwZjk5VHVSSG03dWxKMXUwQ3VEY2FfR21mc1AyRjhhek9rWC0ySGxOdTZoSnNPWnRKRi1pNEx1Z3VBRldobFlDQ256NlpFbXcyTnRUMzNhRlRtMWlaYjZXTmpXSV9PVWozYU5WblZRdVVqUHlxN3JGaUVvbHVCVV82c0xa?oc=5",
-          "source": "Google News: Rivals esports (TheXboxHub)",
+          "source": "Google News: Rivals patches (TheXboxHub)",
           "published": "2026-11-13T16:03:32.000Z",
           "score": 2,
           "level": null,
@@ -119,15 +129,6 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRnY1UmpXcHRpZlFpQjhaSzk1dmZzTjZCVFQ0c2NnZUJqelpWMXppT2Y3MFFxaGlhVi02N2R6cl9LVFZsS3Z3VnkzNndlZWtrVjN3RnpPMzNGQ3dsRzJsT3AzRTg4SmgyQkFtQVNQMFpBMngtNklZczliX2huMVpabG9yV1djYWtFV04xS3ZneHM3RktqLVBpMmExeERTNnZSaWZiSm50WFdKUG5YQms4WW5BdGtZSWFsaktoN01OT013NGVVaTRrWUw1a1Jpb0U?oc=5",
           "source": "Google News: Rivals patches (Massively Overpowered)",
           "published": "2026-11-13T17:00:10.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "5 Marvel Rivals Characters Who Could Be Added To The Game After Nightcrawler & Dracula",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXU1RTN5VXNKYm1zdUc4dm94OXB0UEVnSUMzU0hXemRBWDRNSU93TEJFTUotd1ZvOWgzWVJ2eFd4Szl5QTBzby1BM2MwbWQ3ejI4bGlWLWV3MUJNalVsV0xqTldnOURYaXF1R1dEeVlZcDFVT3BGbXNRbWNHN1RhaE1IV3NOM1FBVVVzMU90c0l3bklRTTZoMnItUFFiR0l6VlVPbzN1M19BcW1pOVlMMm9UQ2tZclJ6UFUw?oc=5",
-          "source": "Google News: Rivals patches (ComicBook.com)",
-          "published": "2026-11-13T17:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
