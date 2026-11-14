@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:56:22.225Z",
+  "generatedAt": "2026-11-14T03:55:19.534Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -156,21 +156,8 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
-        {
-          "title": "Zain’s Bowser vs Cody Schwab",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xvigof/zains_bowser_vs_cody_schwab/",
-          "source": "r/SSBM",
-          "published": "2026-11-13T20:16:04.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "wins*",
-            "zain",
-            "cody schwab"
-          ]
-        },
         {
           "title": "[Tournament Thread] Port Priority DX Day 1| November 14th–15th | Feat. Cody Schwab, Zain, Hungrybox, Joshman, RapMonster, moky, Wizzrobe, Krudo, Jmook, Salt, Soonsay, Trif, Magi, Ginger, Free Cuba, SDJ, and many many more!",
           "url": "https://www.reddit.com/r/SSBM/comments/1xvq525/tournament_thread_port_priority_dx_day_1_november/",
@@ -202,7 +189,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
@@ -216,14 +203,26 @@
           ]
         },
         {
-          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-13T03:47:27.000Z",
-          "score": 3,
+          "title": "New patch should be released in Christmas.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvsjdj/new_patch_should_be_released_in_christmas/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T03:52:32.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "team spirit"
+            "released"
+          ]
+        },
+        {
+          "title": "Update leaks",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvrilw/update_leaks/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T02:59:01.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update",
+            "revealed*"
           ]
         },
         {
@@ -276,52 +275,8 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "It sounds like Devs tried to ask the players to only play with 3 attachments per gun for more balanced and they refused",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvie3x/it_sounds_like_devs_tried_to_ask_the_players_to/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-13T20:13:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "refused"
-          ]
-        },
-        {
-          "title": "[CDC Intel] Are we just gonna ignore the fact that there’s 0 ARs on the map for 80% of the time on every Hijack? When there was 4 ARs on Scar at the start of last year that was a major problem apparently but when it’s 4 SMGs (Same as the MPC) it’s no problem at all?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvouee/cdc_intel_are_we_just_gonna_ignore_the_fact_that/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-14T00:45:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Could the sub be nerfed ?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvlaaq/could_the_sub_be_nerfed/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-13T22:08:10.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Is this the best \"The Flank\" lineup yet?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvjs03/is_this_the_best_the_flank_lineup_yet/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-13T21:07:46.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Michelle is too gorgeous to be replaced so easily (outfit and makeup by me)",
@@ -333,6 +288,15 @@
           "why": [
             "replaced"
           ]
+        },
+        {
+          "title": "Thaiger Uppercut 2026 Day 1 Livestream (November 13, 2026) [Final TWT Master Event]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvrkwm/thaiger_uppercut_2026_day_1_livestream_november/",
+          "source": "r/Tekken",
+          "published": "2026-11-14T03:02:07.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -408,6 +372,39 @@
           "why": [
             "bw*"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "[CDC Intel] Are we just gonna ignore the fact that there’s 0 ARs on the map for 80% of the time on every Hijack? When there was 4 ARs on Scar at the start of last year that was a major problem apparently but when it’s 4 SMGs (Same as the MPC) it’s no problem at all?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvouee/cdc_intel_are_we_just_gonna_ignore_the_fact_that/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-14T00:45:25.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Could the sub be nerfed ?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvlaaq/could_the_sub_be_nerfed/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-13T22:08:10.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Is this the best \"The Flank\" lineup yet?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvjs03/is_this_the_best_the_flank_lineup_yet/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-13T21:07:46.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     }
