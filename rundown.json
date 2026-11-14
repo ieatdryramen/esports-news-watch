@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-14T09:50:16.800Z",
+  "generatedAt": "2026-11-14T10:45:20.501Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 21,
       "stories": [
+        {
+          "title": "\"Spirit map win despite donk negative rating\" counter: today marked 15th all-time, 4th this year.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvyrsp/spirit_map_win_despite_donk_negative_rating/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T10:00:51.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "wins*",
+            "grand final*",
+            "donk",
+            "faze*",
+            "g2*"
+          ]
+        },
         {
           "title": "Asian crowd controversy and should we expect the same for the major?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvx7u1/asian_crowd_controversy_and_should_we_expect_the/",
@@ -34,6 +50,35 @@
             "cheat*",
             "cancelled*",
             "reddit only"
+          ]
+        },
+        {
+          "title": "Spirit vs MOUZ / BLAST Rivals 2026 Season 2 - Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvyqvy/spirit_vs_mouz_blast_rivals_2026_season_2/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T09:59:30.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "grand final*",
+            "official*",
+            "donk*",
+            "spirit",
+            "mouz"
+          ]
+        },
+        {
+          "title": "Spirit defeat MOUZ to make BLAST Rivals final",
+          "url": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
+          "source": "HLTV news",
+          "published": "2026-11-14T10:04:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "mouz",
+            "blast"
           ]
         },
         {
@@ -73,20 +118,6 @@
             "spirit",
             "furia",
             "blast"
-          ]
-        },
-        {
-          "title": "MOUZ sweep Vitality as ZywOo confirms career-worst LAN event",
-          "url": "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
-          "source": "HLTV news",
-          "published": "2026-11-13T10:20:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "zywoo",
-            "vitality",
-            "mouz",
-            "blast*"
           ]
         },
         {
@@ -132,36 +163,27 @@
           "why": [
             "roster"
           ]
-        },
-        {
-          "title": "Record Viewers, Smaller Sticker Checks: CS2’s Biggest Major Paid Teams Less",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeF80OEdQQkM3cmJMRlZEdWdTN0pjVG9jZkxLd0VZUVdXM0lHRXk4MmY0NWg5SkE4MHBLbUhoaVY4Slg2dTFJWW95X3N4cGNFa01oenRzbk9GbWtkMTk5dnZtZXhGTzl3YUMwc09wQWtMeHJXcVY2R252OUprakk0b1VmajdTSVktckhPbWM2QnU0Y0JEc0sxM1ZLaGcydmJlUGNpMXFiWmYxcVE?oc=5",
-          "source": "Google News: CS2 (Guided.news)",
-          "published": "2026-11-13T17:37:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "record"
-          ]
-        },
-        {
-          "title": "xelex on playing arena matches: \"It's a lot of experience and prepares me a bit for the Major\"",
-          "url": "https://www.hltv.org/news/45983/xelex-on-playing-arena-matches-its-a-lot-of-experience-and-prepares-me-a-bit-for-the-major",
-          "source": "HLTV news",
-          "published": "2026-11-13T17:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vitality*",
-            "mouz*"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 13,
       "stories": [
+        {
+          "title": "how is cheating still okay?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvz1sa/how_is_cheating_still_okay/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T10:17:53.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "ban*",
+            "cheating",
+            "reddit only"
+          ]
+        },
         {
           "title": "I dislike the spirits so much I ensure ONE is banned in my game at all times.",
           "url": "https://www.reddit.com/r/DotA2/comments/1xvy3nb/i_dislike_the_spirits_so_much_i_ensure_one_is/",
@@ -182,6 +204,17 @@
           "level": null,
           "why": [
             "returns"
+          ]
+        },
+        {
+          "title": "Yatoro trippin'",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvzbyj/yatoro_trippin/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T10:35:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "yatoro"
           ]
         },
         {
@@ -239,6 +272,24 @@
           "why": []
         },
         {
+          "title": "How devs sleep after releasing trove of terror treasure chest instead of patch.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvz87s/how_devs_sleep_after_releasing_trove_of_terror/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T10:29:21.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Major server issues in EU/RU?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvywal/major_server_issues_in_euru/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T10:08:22.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Starting dota as an ex league player",
           "url": "https://www.reddit.com/r/DotA2/comments/1xvt4ui/starting_dota_as_an_ex_league_player/",
           "source": "r/DotA2",
@@ -246,17 +297,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "CH - XE, November 13, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0szcHhrUTRSZGlyczBSdGZQNzg5Q09OeWRPNG5wcmRfLTB3WUlRYVMzX0VQbTZONlFVNmVoM0pqSFpmRVFhS2JUY1F4UHhyUDh1dTlseld6dl9pM1hBTjBWRDlLUEFybDYyV2IwVnJZMFBqdGJycGJmc1F5V3BURWRPX1pZYUdUUHRwZVRncG5wM3VETFBFdVFhYnFhVzQ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-13T17:03:58.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -332,7 +372,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "All these Scrap and Dashy memes remind me of last year with Sib.",
@@ -344,15 +384,6 @@
           "why": [
             "dashy"
           ]
-        },
-        {
-          "title": "[CDC Intel] Are we just gonna ignore the fact that there’s 0 ARs on the map for 80% of the time on every Hijack? When there was 4 ARs on Scar at the start of last year that was a major problem apparently but when it’s 4 SMGs (Same as the MPC) it’s no problem at all?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvouee/cdc_intel_are_we_just_gonna_ignore_the_fact_that/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-14T00:45:25.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
