@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T20:58:23.054Z",
+  "generatedAt": "2026-11-14T21:55:21.611Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
@@ -56,19 +56,6 @@
           "level": null,
           "why": [
             "grand finals",
-            "blast"
-          ]
-        },
-        {
-          "title": "Karrigan ends Blast Rivals Hong Kong with a higher rating than ZywOo",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw6l2d/karrigan_ends_blast_rivals_hong_kong_with_a/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T16:29:56.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "zywoo",
-            "karrigan",
             "blast"
           ]
         },
@@ -149,12 +136,24 @@
           "why": [
             "furia*"
           ]
+        },
+        {
+          "title": "Announcing the second new FACEIT server location coming to Europe. Live December 09 with Season 10.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw7d4y/announcing_the_second_new_faceit_server_location/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T17:01:20.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update*",
+            "announced*"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Rumor: Gaimin Gladiators may have signed Parker",
@@ -203,17 +202,6 @@
           ]
         },
         {
-          "title": "Let's talk about great update that Dota 2 mobile is getting, Last ver. 1.4 is impressive",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwc544/lets_talk_about_great_update_that_dota_2_mobile/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T20:15:25.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Posting shitty memes about new favorite child until we get an update DAY 1",
           "url": "https://www.reddit.com/r/DotA2/comments/1xwa1vf/posting_shitty_memes_about_new_favorite_child/",
           "source": "r/DotA2",
@@ -257,8 +245,23 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-14T19:06:18.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "arslan ash",
+            "atif",
+            "lowhigh",
+            "rangchu",
+            "-stream"
+          ]
+        },
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
@@ -269,6 +272,15 @@
           "why": [
             "wins"
           ]
+        },
+        {
+          "title": "13-year-old Tekken player beats pro PINYA at Tekken World Tour event",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9HZXlNTy1pNkc4c3VRZ0lHMS1OQkMxdnJUN2N3X05kbTk3S1paMlNnb19iVENRY1dfU1JfUHBYM1poVmNHUXRKMUlnOERPQklsXzdLQ0l6SjJjVkdYRjQ0dVMwUGhXMldPbjdnVzdkajNOb0U5TTlyUlJXR241VG44bjlGVGI1WHJnSTJMWS1oVlhJUnRRWWREQ1FMWW8yUXFIRC1ydHlJVlND?oc=5",
+          "source": "Google News: Tekken (Dexerto)",
+          "published": "2026-11-14T21:06:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Anyone else getting connection issues after the latest T8 update? (PS5)",
@@ -284,6 +296,32 @@
       ]
     },
     {
+      "scene": "AoE2",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Anyone else getting falsely banned? Mac ladder",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xw5u54/anyone_else_getting_falsely_banned_mac_ladder/",
+          "source": "r/aoe2",
+          "published": "2026-11-14T15:59:06.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "banned"
+          ]
+        },
+        {
+          "title": "Mountain Royals is done. Good DLC.",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xw6mrr/mountain_royals_is_done_good_dlc/",
+          "source": "r/aoe2",
+          "published": "2026-11-14T16:31:50.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Halo",
       "storyCount": 1,
       "stories": [
@@ -292,11 +330,46 @@
           "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwcvdc/shopify_vs_fatal_ambition_series_results_winner/",
           "source": "r/CompetitiveHalo",
           "published": "2026-11-14T20:47:06.000Z",
-          "score": 2.5,
+          "score": 4,
           "level": null,
           "why": [
             "roster*",
+            "wins*",
             "champions*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Finished my clean sweep and won div 5 today, i <3 nascar",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xwdrtn/finished_my_clean_sweep_and_won_div_5_today_i_3/",
+          "source": "r/TrackMania",
+          "published": "2026-11-14T21:26:34.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Zain vs BizzaroFlame in pools",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xwdkis/zain_vs_bizzaroflame_in_pools/",
+          "source": "r/SSBM",
+          "published": "2026-11-14T21:17:37.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
           ]
         }
       ]
@@ -361,10 +434,7 @@
     }
   ],
   "quiet": [
-    "Melee",
-    "AoE2",
     "Classic Tetris",
-    "Trackmania",
     "Warcraft III",
     "Legacy FGC",
     "Quake"
