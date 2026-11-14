@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T20:30:45.142Z",
+  "generatedAt": "2026-11-14T21:50:25.286Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -17,18 +17,6 @@
             "balance",
             "balance changes",
             "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
-          "url": "https://esports.gg/guides/marvel-rivals/marvel-rivals-upcoming-characters-new-heroes-leaks-and-rumors/",
-          "source": "esports.gg",
-          "published": "2026-11-13T21:26:06.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "new heroes"
           ]
         },
         {

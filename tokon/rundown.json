@@ -1,8 +1,25 @@
 {
-  "generatedAt": "2026-11-14T20:30:47.793Z",
+  "generatedAt": "2026-11-14T21:50:26.414Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "MARVEL Tōkon: Fighting Souls Spotlights Phoenix Cyclops, Its First DLC Fighter, In A New Clip",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZW03bHJ6M0MxZGdqOFNobWFhV0h4VUItRFQtU1B1cGRhTENPb1hrUnoyU1p0T0o3dWVRdlRRR0FfZ3Y5NUNTZGxFUHBYMnIweGdSZEpxWFE3ZDFLc1F1MnR2TTAtdjNvMWpEQ1RiclFWVVFqQTFRdlJLUDJybEZTbWxJSzZXX0NTbXg3TVdva0ZvT3lZblI3OTV5SHJTMWRaNnBzc3VGdk5ucDZXbzNST21HRXBHQmpISXlkYjI3SlB3b1RtY0plajFPSTFMMGdaNURtenVpMXFUS0tKQ2k3XzluMA?oc=5",
+          "source": "Google News: Tokon (GameFragger.com)",
+          "published": "2026-11-14T20:11:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dlc",
+            "-clip"
+          ]
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
