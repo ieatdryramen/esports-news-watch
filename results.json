@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:30:25.385Z",
+  "generatedAt": "2026-11-14T21:00:27.122Z",
   "source": "start.gg",
   "completed": [
     {
@@ -419,6 +419,19 @@
       "startAt": "2026-11-15T10:00:00.000Z",
       "endAt": "2026-11-15T18:00:00.000Z",
       "url": "https://www.start.gg/tournament/annul-kayane-session-novembre-2026/event/session-freeplay-tekken-8-ladder"
+    },
+    {
+      "eventId": "1673800",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Provisional",
+      "event": "Melee Singles",
+      "entrants": 77,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T11:00:00.000Z",
+      "endAt": "2026-11-21T21:00:00.000Z",
+      "url": "https://www.start.gg/tournament/provisional/event/melee-singles"
     }
   ],
   "games": {
