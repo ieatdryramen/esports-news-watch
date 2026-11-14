@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T08:50:21.352Z",
+  "generatedAt": "2026-11-14T09:50:16.800Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -159,42 +159,20 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
+      "scene": "Dota",
+      "storyCount": 9,
       "stories": [
         {
-          "title": "[Tournament Thread] Port Priority DX Day 1| November 14th–15th | Feat. Cody Schwab, Zain, Hungrybox, Joshman, RapMonster, moky, Wizzrobe, Krudo, Jmook, Salt, Soonsay, Trif, Magi, Ginger, Free Cuba, SDJ, and many many more!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xvq525/tournament_thread_port_priority_dx_day_1_november/",
-          "source": "r/SSBM",
-          "published": "2026-11-14T01:49:20.000Z",
+          "title": "I dislike the spirits so much I ensure ONE is banned in my game at all times.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvy3nb/i_dislike_the_spirits_so_much_i_ensure_one_is/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T09:16:59.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "hungrybox",
-            "zain",
-            "cody schwab",
-            "jmook",
-            "moky",
-            "trif"
+            "banned"
           ]
         },
-        {
-          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-13T16:31:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "hungrybox"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 10,
-      "stories": [
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
@@ -261,28 +239,10 @@
           "why": []
         },
         {
-          "title": "Malr1ne Reveals His Main Motivation as a Dota 2 Pro Player",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9va3FVNGFZQkpIRUI3Q3VIY2lVaWE4OUgtWElfZDdLLVIzdjdISjN6bmRraTNvc0tTZ0pYdFpFeG1LbDRSWkVJTXFUbTB3LVFBU3FVQXhtY0NjSHgwcUJpOHJRLUV1WFZ6Nm5veFdDMEJnYk04Vmp0YXg0SWxEZw?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-13T09:18:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Starting dota as an ex league player",
           "url": "https://www.reddit.com/r/DotA2/comments/1xvt4ui/starting_dota_as_an_ex_league_player/",
           "source": "r/DotA2",
           "published": "2026-11-14T04:24:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "We got GTA 6 before a dota patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvrams/we_got_gta_6_before_a_dota_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T02:47:33.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -296,6 +256,76 @@
           "level": null,
           "why": [
             "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-14T06:45:56.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Tekken Card Tournament (2013) raised from the dead! Game runs again on modern 64-bit Android phones (offline only for now)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvyddc/tekken_card_tournament_2013_raised_from_the_dead/",
+          "source": "r/Tekken",
+          "published": "2026-11-14T09:34:34.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
+        },
+        {
+          "title": "Thaiger Uppercut 2026 Day 1 Livestream (November 13, 2026) [Final TWT Master Event]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvrkwm/thaiger_uppercut_2026_day_1_livestream_november/",
+          "source": "r/Tekken",
+          "published": "2026-11-14T03:02:07.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "[Tournament Thread] Port Priority DX Day 1| November 14th–15th | Feat. Cody Schwab, Zain, Hungrybox, Joshman, RapMonster, moky, Wizzrobe, Krudo, Jmook, Salt, Soonsay, Trif, Magi, Ginger, Free Cuba, SDJ, and many many more!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xvq525/tournament_thread_port_priority_dx_day_1_november/",
+          "source": "r/SSBM",
+          "published": "2026-11-14T01:49:20.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "hungrybox",
+            "zain",
+            "cody schwab",
+            "jmook",
+            "moky",
+            "trif"
+          ]
+        },
+        {
+          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-13T16:31:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "hungrybox"
           ]
         }
       ]
@@ -370,21 +400,6 @@
           "source": "Trackmania blog",
           "published": "2026-11-13T16:30:00.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Thaiger Uppercut 2026 Day 1 Livestream (November 13, 2026) [Final TWT Master Event]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xvrkwm/thaiger_uppercut_2026_day_1_livestream_november/",
-          "source": "r/Tekken",
-          "published": "2026-11-14T03:02:07.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
