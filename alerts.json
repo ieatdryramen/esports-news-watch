@@ -1,6 +1,37 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T14:15:19.581Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "r/GlobalOffensive Flair Updates – Singapore Major 2026",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw3drw/rglobaloffensive_flair_updates_singapore_major/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "update*",
+        "returns*",
+        "return*",
+        "won*",
+        "natus vincere*",
+        "vitality*",
+        "faze*",
+        "g2*",
+        "spirit*",
+        "mouz*",
+        "astralis*",
+        "liquid*",
+        "furia*",
+        "pgl*",
+        "reddit only"
+      ],
+      "summary": "r/GlobalOffensive Flair Updates – Singapore Major 2026 If you do not see the flairs in this post, please switch to old reddit With the PGL Singapore Major 2026 just around the corner, we're rotating our available user flairs! This update brings three new team flairs, the return of the popular 100 Thieves flair, and two flairs leaving the available selection. New & Returning Flairs Flair - Team DENDELE THE ONE GOSH 100 Thieves (Returning) Major Participants Flair List Stage 1 Invites Stage 2 Invites Stage 3 Invites Ninjas in Pyjamas FUT MOUZ PVISION Nemiga Vitality HEROIC G2 Aurora FaZe Clan THE ONE Spirit Eternal Fire Natus Vincere BB Team 100 Thieves Astralis Falcons Team Liquid MIBR FURIA 9z The MongolZ Legacy M80 DENDELE Imperial Wildcard GOSH FlyQuest Chinggis Warriors Lynn Vision Flairs Leaving The following teams have missed two consecutive Majors and their flairs will become contraband until they qualify for another Major. Flair - Team OG Metizport If you already have one of these flairs equipped, you can keep it! However, once you switch to another flair, you won't be able to select it again until it returns to rotation. Flair Policy Quick rundown on how team flairs work. Flairs are only available for teams that have qualified for a Major. Teams that qualify for their first Major get a shiny new flair. Teams that miss two Majors in a row become contraband until they qualify again. So some flairs are rarer than others. Major winners get their flair permanently availabl",
+      "published": "2026-11-14T14:13:40.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T14:10:18.924Z",
       "level": "possible",
       "scene": "Dota",
