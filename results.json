@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-14T06:30:20.778Z",
+  "generatedAt": "2026-11-14T07:00:22.601Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1725717",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
+      "event": "Melee Singles",
+      "entrants": 136,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T01:30:00.000Z",
+      "endAt": "2026-11-14T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/big-dawg-xd-the-port-priority-dx-prelocal/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Eggdog | Ossify"
+        },
+        {
+          "placement": 2,
+          "name": "Ginger"
+        },
+        {
+          "placement": 3,
+          "name": "Brotherhood | Aklo"
+        },
+        {
+          "placement": 4,
+          "name": "RC | Eggdog | Kacey"
+        },
+        {
+          "placement": 5,
+          "name": "Kevbot"
+        },
+        {
+          "placement": 5,
+          "name": "Parry.gg | Dial M"
+        },
+        {
+          "placement": 7,
+          "name": "ABG | Mr. Motion"
+        },
+        {
+          "placement": 7,
+          "name": "SDG | Khalid"
+        }
+      ]
+    },
     {
       "eventId": "1729952",
       "scene": "streetfighter",
@@ -285,21 +332,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1725717",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
-      "event": "Melee Singles",
-      "entrants": 136,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T01:30:00.000Z",
-      "endAt": "2026-11-14T06:00:00.000Z",
-      "url": "https://www.start.gg/tournament/big-dawg-xd-the-port-priority-dx-prelocal/event/melee-singles"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1587277",
