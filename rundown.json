@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T05:55:16.019Z",
+  "generatedAt": "2026-11-14T06:50:24.308Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -189,7 +189,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
@@ -200,17 +200,6 @@
           "level": null,
           "why": [
             "returns"
-          ]
-        },
-        {
-          "title": "New patch should be released in Christmas.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvsjdj/new_patch_should_be_released_in_christmas/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T03:52:32.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "released"
           ]
         },
         {
@@ -367,22 +356,13 @@
     },
     {
       "scene": "Trackmania",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Trackmania Summit Presented by Visa: Registrations Are Open!",
           "url": "https://blog.trackmania.com/2026/11/13/trackmania-summit-presented-by-visa-registrations-are-open/",
           "source": "Trackmania blog",
           "published": "2026-11-13T16:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Why Trackmania still matters in sim racing",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGQjlIUmoyNTU3WmQ1bnluR3JXWEowWUktaUNiY1FQeVc3OHV6c1l3OFBaTmdpWERUa1RmWUJEVXVIaWhna0wxbkdzWjZFUlY5UUVTTnM3U3dkQU5XSXlUak82Rm1zMkNyLThiR2d3QWJJbm1fU2M3NDNoT0E?oc=5",
-          "source": "Google News: Trackmania (TopGear South Africa)",
-          "published": "2026-11-13T06:00:46.000Z",
           "score": 1,
           "level": null,
           "why": []
