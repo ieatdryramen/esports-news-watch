@@ -1,6 +1,28 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T12:30:20.235Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "donk on tN1R and magixx's aces vs MOUZ: \"I gave them a chance, decided not to take that opportunity away from them\"",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw16wh/donk_on_tn1r_and_magixxs_aces_vs_mouz_i_gave_them/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "grand final*",
+        "official*",
+        "donk",
+        "spirit*",
+        "mouz",
+        "blast*"
+      ],
+      "summary": "Translation (source: Team Spirit's official Telegram): \"Hi everyone, we beat MOUZ 2-0. Two of my teammates got aces. I gave them a chance — decided not to take that opportunity away from them. Anyway, we're through to the BLAST grand final. Come and cheer for us in the final. Maybe tomorrow I'll get an ace.\" submitted by /u/SCrom9k to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-14T12:25:17.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T11:15:18.097Z",
       "level": "possible",
       "scene": "CS2",
