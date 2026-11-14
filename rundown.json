@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:00:46.782Z",
+  "generatedAt": "2026-11-14T20:58:23.054Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -21,29 +21,6 @@
           ]
         },
         {
-          "title": "karrigan retirement when",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwa8r8/karrigan_retirement_when/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T18:56:41.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "retirement",
-            "karrigan"
-          ]
-        },
-        {
-          "title": "IS Cs Resurgence Shut down?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw5gf8/is_cs_resurgence_shut_down/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T15:42:57.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "shut down"
-          ]
-        },
-        {
           "title": "Spirit defeat MOUZ to make BLAST Rivals final",
           "url": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
           "source": "HLTV news",
@@ -53,6 +30,32 @@
           "why": [
             "spirit",
             "mouz",
+            "blast"
+          ]
+        },
+        {
+          "title": "s1mple ranks ZywOo #1 and donk #2 in the world, says m0NESY's struggles are down to Falcons' teamplay",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwbtyi/s1mple_ranks_zywoo_1_and_donk_2_in_the_world_says/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T20:02:19.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "s1mple",
+            "zywoo",
+            "donk",
+            "m0nesy"
+          ]
+        },
+        {
+          "title": "Kscerato is the highest rated player of Blast Hong Kong 2026 heading into the grand finals with a 1.50 rating. Will he get mvp?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwbs36/kscerato_is_the_highest_rated_player_of_blast/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T20:00:26.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "grand finals",
             "blast"
           ]
         },
@@ -70,19 +73,6 @@
           ]
         },
         {
-          "title": "BLAST, I'm begging you, PLEASE add a spoiler section to your VOD uploads",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw4ty2/blast_im_begging_you_please_add_a_spoiler_section/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T15:16:37.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "spirit*",
-            "mouz*",
-            "blast"
-          ]
-        },
-        {
           "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3F1QXpFVjFObE54Si13UjVIWk8xMGFiakpLd2dWQWNwek1WZFFvdE5jQzZWenZWaWVxdVkwT1FoNlA0ZXRWVllJZUdfVnMtdDFTVjljVDk3YnIwX1E5bW5zR0hTQjRlcFpfZ3JHLTFTZXFWUmVzVXhveUlKbFlkMGtB?oc=5",
           "source": "Google News: CS2 (Yahoo News Singapore)",
@@ -91,6 +81,18 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "Blast Drama",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwclgi/blast_drama/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T20:35:11.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "karrigan*",
+            "blast"
           ]
         },
         {
@@ -152,7 +154,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Rumor: Gaimin Gladiators may have signed Parker",
@@ -201,6 +203,17 @@
           ]
         },
         {
+          "title": "Let's talk about great update that Dota 2 mobile is getting, Last ver. 1.4 is impressive",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwc544/lets_talk_about_great_update_that_dota_2_mobile/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T20:15:25.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "Posting shitty memes about new favorite child until we get an update DAY 1",
           "url": "https://www.reddit.com/r/DotA2/comments/1xwa1vf/posting_shitty_memes_about_new_favorite_child/",
           "source": "r/DotA2",
@@ -210,6 +223,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Counter-Strike overtakes League of Legends and Dota 2 is left without prizes",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGJOSHlSTTFHbzNOOVRFdUEzdWdUR2ZDc0p5c1JZVWZPRF9MdFltWE1yUEpESEYtcWZYSFg1YVVGOHFFYXJ2ekJwc0lZM25nWEVRWXN5ekdDdGN6TkU3MHJ5RlFXcmtkVTRqUmdYYWROOWxCWW1xdjlsV1lldXJib29aRUZEczhfUWNJNmZvZVdqODhsdGhFU01jMW5ZbnVYbEhpMzZnLUFuRm1XbHJuZ3R3?oc=5",
+          "source": "Google News: Dota (Foro3D)",
+          "published": "2026-11-14T18:34:21.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Made a daily quiz/puzzle game while waiting for patch",
@@ -257,6 +279,24 @@
           "level": null,
           "why": [
             "update"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Shopify vs Fatal Ambition Series Results | Winner Semifinals | LVT Halo Pro League $100k LAN | Day 2",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwcvdc/shopify_vs_fatal_ambition_series_results_winner/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-14T20:47:06.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "roster*",
+            "champions*"
           ]
         }
       ]
@@ -327,7 +367,6 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
