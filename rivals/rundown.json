@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-14T05:55:19.505Z",
+  "generatedAt": "2026-11-14T06:50:28.888Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
       "storyCount": 23,
       "stories": [
-        {
-          "title": "Marvel Rivals Season 11 Buffs and Nerfs: All Hero Balance Changes Explained",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiLWtKVjdVMDVzenhpdkplcTJ5YWlxc2lnd2JPZS1RVFh1MWlhYkJrR0M0Z2tTMGo1NGVCanVvOEZEeGZCRTNvamRjc0dERFJILUJfNURvN2tsZWhhT3hZMV9DNnVMd9IBa0FVX3lxTE45U29DN1V3empwVnNfNlk3Q2l6ZXJZUFBwWjZjVVNvb1pZaWdsSVVCY254ODhLSU95YlhyZ0V4NGRJX3UwY3drVlA2Y3FyMnR0R1FtZ21fMGFia3pENVNTZjNSRmgxTEEzbUdj?oc=5",
-          "source": "Google News: Rivals patches (Beebom)",
-          "published": "2026-11-13T06:19:34.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "balance",
-            "balance changes",
-            "season"
-          ]
-        },
         {
           "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
           "url": "https://esports.gg/guides/marvel-rivals/marvel-rivals-upcoming-characters-new-heroes-leaks-and-rumors/",
@@ -88,6 +75,18 @@
           "level": null,
           "why": [
             "balance",
+            "season"
+          ]
+        },
+        {
+          "title": "All hero buffs and nerfs in Marvel Rivals Season 11 update",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObmcxT3FsbW5VWXNGVVUxQkh1eXNYSXZxMDZraW9MODhMTWJXWGs4XzdscVJOQ296MG9fcFNBNnk2dERIWjB0bzFWVUxlb2FLVy1yZzdGejhOMmM0MVFlenhhWVdDUUpaa2UxQlBMWFlGSHRoZnlvc0lJNW54N0tSQWl3NC12cUpLcjNhSjNsTFM?oc=5",
+          "source": "Google News: Rivals esports (Sportskeeda)",
+          "published": "2026-11-13T15:14:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "update",
             "season"
           ]
         },
