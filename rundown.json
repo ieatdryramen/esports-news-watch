@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T22:00:41.073Z",
+  "generatedAt": "2026-11-14T23:00:37.514Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
@@ -138,16 +138,13 @@
           ]
         },
         {
-          "title": "Announcing the second new FACEIT server location coming to Europe. Live December 09 with Season 10.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw7d4y/announcing_the_second_new_faceit_server_location/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T17:01:20.000Z",
-          "score": 1.5,
+          "title": "Short news: Week 44",
+          "url": "https://www.hltv.org/news/45949/short-news-week-44",
+          "source": "HLTV news",
+          "published": "2026-11-14T21:03:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "update*",
-            "announced*"
-          ]
+          "why": []
         }
       ]
     },
@@ -213,10 +210,10 @@
           ]
         },
         {
-          "title": "Made a daily quiz/puzzle game while waiting for patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xw7fop/made_a_daily_quizpuzzle_game_while_waiting_for/",
+          "title": "Will we ever see a 8.00 patch?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwfn7f/will_we_ever_see_a_800_patch/",
           "source": "r/DotA2",
-          "published": "2026-11-14T17:04:04.000Z",
+          "published": "2026-11-14T22:51:33.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -236,7 +233,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
@@ -265,6 +262,17 @@
           ]
         },
         {
+          "title": "Hopkick king. Armor hop. Tiger knee. The hopkick machine",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xwfs1q/hopkick_king_armor_hop_tiger_knee_the_hopkick/",
+          "source": "r/Tekken",
+          "published": "2026-11-14T22:57:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "knee"
+          ]
+        },
+        {
           "title": "13-year-old Tekken player beats pro PINYA at Tekken World Tour event",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9HZXlNTy1pNkc4c3VRZ0lHMS1OQkMxdnJUN2N3X05kbTk3S1paMlNnb19iVENRY1dfU1JfUHBYM1poVmNHUXRKMUlnOERPQklsXzdLQ0l6SjJjVkdYRjQ0dVMwUGhXMldPbjdnVzdkajNOb0U5TTlyUlJXR241VG44bjlGVGI1WHJnSTJMWS1oVlhJUnRRWWREQ1FMWW8yUXFIRC1ydHlJVlND?oc=5",
           "source": "Google News: Tekken (Dexerto)",
@@ -283,6 +291,34 @@
           "why": [
             "update"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Shopify vs Fatal Ambition Series Results | Winner Semifinals | LVT Halo Pro League $100k LAN | Day 2",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwcvdc/shopify_vs_fatal_ambition_series_results_winner/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-14T20:47:06.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "roster*",
+            "wins*",
+            "champions*"
+          ]
+        },
+        {
+          "title": "AB League teammates",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwemy4/ab_league_teammates/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-14T22:05:33.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -313,21 +349,41 @@
       ]
     },
     {
-      "scene": "Halo",
-      "storyCount": 1,
+      "scene": "Street Fighter",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "Shopify vs Fatal Ambition Series Results | Winner Semifinals | LVT Halo Pro League $100k LAN | Day 2",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwcvdc/shopify_vs_fatal_ambition_series_results_winner/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-14T20:47:06.000Z",
-          "score": 4,
+          "title": "Street fighter Movie official reaches $100Mil at box office",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xwfb4b/street_fighter_movie_official_reaches_100mil_at/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-14T22:36:07.000Z",
+          "score": 2.5,
           "level": null,
           "why": [
-            "roster*",
-            "wins*",
-            "champions*"
+            "removed*",
+            "official"
           ]
+        },
+        {
+          "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-14T19:06:18.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "justin wong",
+            "-stream"
+          ]
+        },
+        {
+          "title": "Olivier Richters, Zangief From ‘Street Fighter’, Enters ‘Street Fighter 6’ Tournament and Plays Zangief",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkMtblFQLXg1YVJnalFEc1pGb01ldmMxRktpV2pmbm5YdnZKaUZqQm1Sc3F1NEFKNUNPREV6M241Yy1SRTlacHBXSUxSYWpRZUlJMkJDMXhWdy1vcFA5Zy14OUJCSE1SMGJ3ZVVHQ1hsMlJQRURfT3h1bnFWRF9IX0JoYm9iZGJaOEpIbUk3N0k0ZXhsSlJjNk54bzBHc2N4anhybG5HQWVNZUlUdWZCajc2Yno2TC1iNjRvZE55NElqSTRkNnZ4V0RDdGFNUWVMTHJ2WU1R?oc=5",
+          "source": "Google News: Street Fighter (Men's Journal)",
+          "published": "2026-11-14T14:37:42.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -366,34 +422,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "GA Update - Tac sprint is back in, pros have ga'd ATS & Single tap run",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xw90m0/ga_update_tac_sprint_is_back_in_pros_have_gad_ats/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-14T18:07:18.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "NA Challengers Cup #1: 366 teams for 8 spots in Sunday's bracket. Which team outside the top 10 seeds makes it?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xw7xk6/na_challengers_cup_1_366_teams_for_8_spots_in/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-14T17:23:45.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -409,17 +437,19 @@
       ]
     },
     {
-      "scene": "Street Fighter",
+      "scene": "CoD",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Olivier Richters, Zangief From ‘Street Fighter’, Enters ‘Street Fighter 6’ Tournament and Plays Zangief",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkMtblFQLXg1YVJnalFEc1pGb01ldmMxRktpV2pmbm5YdnZKaUZqQm1Sc3F1NEFKNUNPREV6M241Yy1SRTlacHBXSUxSYWpRZUlJMkJDMXhWdy1vcFA5Zy14OUJCSE1SMGJ3ZVVHQ1hsMlJQRURfT3h1bnFWRF9IX0JoYm9iZGJaOEpIbUk3N0k0ZXhsSlJjNk54bzBHc2N4anhybG5HQWVNZUlUdWZCajc2Yno2TC1iNjRvZE55NElqSTRkNnZ4V0RDdGFNUWVMTHJ2WU1R?oc=5",
-          "source": "Google News: Street Fighter (Men's Journal)",
-          "published": "2026-11-14T14:37:42.000Z",
+          "title": "GA Update - Tac sprint is back in, pros have ga'd ATS & Single tap run",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xw90m0/ga_update_tac_sprint_is_back_in_pros_have_gad_ats/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-14T18:07:18.000Z",
           "score": 1,
           "level": null,
-          "why": []
+          "why": [
+            "update"
+          ]
         }
       ]
     }
