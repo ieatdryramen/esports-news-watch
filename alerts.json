@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T10:20:16.442Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "how is cheating still okay?",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xvz1sa/how_is_cheating_still_okay/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7.5,
+      "why": [
+        "banned*",
+        "ban*",
+        "cheating",
+        "reddit only"
+      ],
+      "summary": "I somewhat understand valve not banning smurfs. there are way too many in party queue and we'll lose a lot of players if they ban them consistently but not banning cheaters is absurd. many aren't even trying to hide it. even minor cases should get permaban. a streamer just now looked up what heroes the enemy mid plays and picked the best matchup against him?? people will be mad if they can't play with their friend anymore. NO ONE will care if cheaters get banned. pls valve submitted by /u/BeAnIllusion to r/DotA2 [link] [comments]",
+      "published": "2026-11-14T10:17:53.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T10:03:37.373Z",
       "level": "possible",
       "scene": "CS2",
