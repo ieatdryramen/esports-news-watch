@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T07:50:22.142Z",
+  "generatedAt": "2026-11-14T08:50:26.753Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 22,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
@@ -28,18 +28,6 @@
           "why": [
             "grand finals",
             "grand finals"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Patch Delivers Major Balance Changes Across All Roles",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDQxekpZQzJ2UmdVRjJ5dWZXem9QSlo3eFVvVGljbTNld3IzRFN2bnlSbjVwWFZHUV9tZEFpWUFWYi1jTXpmRHhVdGdvSVVmRjFfaEVIV1VUbkVpbUdCYWhEcXhDVWhUQjNua0gzaXRQT1ZlUElpZ0E4Y0UwVGlEWUtFb252b0JfWWJkLXdxUExITGtJSGdwc1hB?oc=5",
-          "source": "Google News: Rivals patches (SSBCrack)",
-          "published": "2026-11-13T08:16:36.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "balance",
-            "balance changes"
           ]
         },
         {
@@ -145,6 +133,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Marvel Rivals Nightcrawler abilities, team-ups, and skins",
+          "url": "https://esports.gg/guides/marvel-rivals/marvel-rivals-nightcrawler-abilities-team-ups-and-skins/",
+          "source": "esports.gg",
+          "published": "2026-11-14T00:22:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
