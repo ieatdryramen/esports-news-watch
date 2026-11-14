@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T14:05:17.178Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzM2TzJOZUFXQV9jcW9LRjJ6Ui00bWt5N002dzFEY2NPTUU4ZzF4aDhRNzRDQ3JDRlN2cW11UFBWbk5VX1gtdmF2cmJ0dXNaRFoyNEFOUFRDT3ZsRU01VTYxRzdKN0Nlc0puMHlPWThhbXNQSXpEaU56UHhmRTZTWlJHbXdzNUV4bmFnZEdwMnNaV012NFJxUzJR?oc=5",
+      "source": "Google News: CS2 (TalkEsport)",
+      "outlets": [
+        "TalkEsport"
+      ],
+      "score": 7,
+      "why": [
+        "grand final",
+        "spirit",
+        "furia",
+        "blast"
+      ],
+      "summary": "",
+      "published": "2026-11-14T13:50:01.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T12:30:20.235Z",
       "level": "possible",
       "scene": "CS2",
