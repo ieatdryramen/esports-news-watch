@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T16:10:26.744Z",
+      "level": "breaking",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNHpBY3d3N2lpejljMEJtdGJkY1hkVXYxS01rei04TjhhRWFfX3JWbGlCRnpUdk50dUQ2TE5DdWl0VGRZR3pHcnlkRGcxeEpaNWlYVGhTWnItZ21nVEd4YjJWYThNQjNHaUZpSEtiaDl1TnNpMm92M3dQWHdQREk?oc=5",
+      "source": "Google News: Rivals patches (FandomWire)",
+      "outlets": [
+        "FandomWire"
+      ],
+      "score": 7,
+      "why": [
+        "balance",
+        "balance changes",
+        "season"
+      ],
+      "summary": "",
+      "published": "2026-11-14T16:02:58.000Z"
+    },
+    {
       "alertedAt": "2026-11-13T21:30:39.335Z",
       "level": "possible",
       "scene": "Marvel Rivals",
