@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:55:19.534Z",
+  "generatedAt": "2026-11-14T04:55:20.823Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -189,7 +189,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
@@ -226,11 +226,31 @@
           ]
         },
         {
+          "title": "Valve when it comes to ACT 2 update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvt0jb/valve_when_it_comes_to_act_2_update/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T04:18:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
           "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
           "source": "esports.gg",
           "published": "2026-11-13T14:23:34.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Starting dota as an ex league player",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvt4ui/starting_dota_as_an_ex_league_player/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T04:24:50.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -248,15 +268,6 @@
           "url": "https://www.reddit.com/r/DotA2/comments/1xvjftb/new_patch/",
           "source": "r/DotA2",
           "published": "2026-11-13T20:54:29.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "99th copium for today. Patch? I can feel CM ms speed reduction in my bones.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvje0n/99th_copium_for_today_patch_i_can_feel_cm_ms/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T20:52:36.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -297,23 +308,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Sutanmi Japan Named Official Ambassador for Tokyo eSports Festa 2027 for Second Consecutive Year! Street Fighter 6 Added to Competitive Titles",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQjJYMmhzcUxtb1pTaENTNTlFeUhFMTEwRFJKNENRY0RkVHpEcExNQ0xVbktUTFdPUk5EVnV1TktRcGlmZ0JIbjZpQUxTM1BSQVZ4dFdLRy10X2ZPT3dibFVsNm9GY3pvbEVDTHltUWFHWVJ4d2Y0MmtiVEZ1a1HSAYQBQVVfeXFMTVUtNmVEdFNPX09sWkJOSlE2RW1rN3lEcmpjVFFVZk1XdnVyU3FzQU4tbUoxSjdCZFBUV3pPb1k4TkR3a0tBdEVCYi0wbUs0UkhiQjJBRGVLYXJPZUNodVhfMGdDMUtxNHVQWVc1S2VncGVKa1E2bUtjTlhqODY2SkJBc051?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-13T04:36:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "official"
-          ]
         }
       ]
     },
@@ -413,6 +407,7 @@
     "AoE2",
     "Classic Tetris",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "Quake"
   ]
