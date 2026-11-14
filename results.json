@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:30:21.639Z",
+  "generatedAt": "2026-11-14T19:00:23.651Z",
   "source": "start.gg",
   "completed": [
     {
@@ -387,12 +387,25 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "Cactus League Season 4: Ranking Battle Edition #2",
       "event": "Cactus League Season 4: Ranking Battle Edition #2 - 3rd Strike",
-      "entrants": 18,
+      "entrants": 19,
       "online": false,
       "major": false,
       "startAt": "2026-11-14T23:00:00.000Z",
       "endAt": "2026-11-15T05:00:00.000Z",
       "url": "https://www.start.gg/tournament/cactus-league-season-4-ranking-battle-edition-2/event/cactus-league-season-4-ranking-battle-edition-2-3rd-strike"
+    },
+    {
+      "eventId": "1741755",
+      "scene": "streetfighter",
+      "game": "Super Street Fighter II Turbo",
+      "tournament": "Cactus League Season 4: Ranking Battle Edition #2",
+      "event": "Cactus League Season 4: Ranking Battle Edition #2 - Super Street Fighter II Turbo",
+      "entrants": 16,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T23:00:00.000Z",
+      "endAt": "2026-11-15T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/cactus-league-season-4-ranking-battle-edition-2/event/cactus-league-season-4-ranking-battle-edition-2-super-street-fighter-ii-turbo"
     },
     {
       "eventId": "1734139",

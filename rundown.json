@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T18:00:39.406Z",
+  "generatedAt": "2026-11-14T19:00:37.200Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 20,
       "stories": [
         {
           "title": "r/GlobalOffensive Flair Updates – Singapore Major 2026",
@@ -37,19 +37,15 @@
           ]
         },
         {
-          "title": "FURIA vs Falcons / BLAST Rivals 2026 Season 2 - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw2dyo/furia_vs_falcons_blast_rivals_2026_season_2/",
+          "title": "karrigan retirement when",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwa8r8/karrigan_retirement_when/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-14T13:27:14.000Z",
-          "score": 6.5,
+          "published": "2026-11-14T18:56:41.000Z",
+          "score": 6,
           "level": "possible",
           "why": [
-            "roster*",
-            "grand final*",
-            "official*",
-            "niko*",
-            "m0nesy*",
-            "karrigan*"
+            "retirement",
+            "karrigan"
           ]
         },
         {
@@ -74,18 +70,6 @@
             "spirit",
             "mouz",
             "blast"
-          ]
-        },
-        {
-          "title": "SAW bench NOPEEj and promote Jayy2s",
-          "url": "https://www.hltv.org/news/45986/saw-bench-nopeej-and-promote-jayy2s",
-          "source": "HLTV news",
-          "published": "2026-11-13T18:52:00.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "bench",
-            "roster*"
           ]
         },
         {
@@ -139,26 +123,35 @@
           ]
         },
         {
-          "title": "Blast restarts round Falcons won on low buy because Yekindar decided to rage quit",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw1uev/blast_restarts_round_falcons_won_on_low_buy/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T13:00:16.000Z",
-          "score": 4,
+          "title": "BLAST Rivals semi-finals as they happened",
+          "url": "https://www.hltv.org/news/45988/blast-rivals-semi-finals-as-they-happened",
+          "source": "HLTV news",
+          "published": "2026-11-14T12:14:00.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "won",
             "blast"
           ]
         },
         {
-          "title": "Blast Rivals drinking game: Take a drink every time Scrawny says a player \"activates\"",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw1i12/blast_rivals_drinking_game_take_a_drink_every/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T12:42:25.000Z",
+          "title": "FURIA sweep Falcons to reach Hong Kong final",
+          "url": "https://www.hltv.org/news/45990/furia-sweep-falcons-to-reach-hong-kong-final",
+          "source": "HLTV news",
+          "published": "2026-11-14T12:02:00.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "furia*",
+            "furia"
+          ]
+        },
+        {
+          "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU5GVXhSeTZnRlY1R05uQ3FNWTEzSDl3LVRoZW1lWUtwSUFqMjVyTWpDd2tyVmpxaURob0lNN2NpbjlZWHlXN1AtRk9wVXB6bklJdHVReXpCXzRSaWI3enFTUVdIOEpEY2t2WFF5VVhGRGdiQXhSekp0YlB3cFV5NmdZQWxoWktJazZaQVlsTzBPVjk3a1RaMTBJcDJOREhoSWRHb1BnbnF3UQ?oc=5",
+          "source": "Google News: CS2 (HardwareZone)",
+          "published": "2026-11-14T07:43:17.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "blast"
           ]
         }
@@ -166,7 +159,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 7,
       "stories": [
         {
           "title": "World record hero healing! 581,453!",
@@ -181,6 +174,18 @@
           ]
         },
         {
+          "title": "Rumor: Gaimin Gladiators may have signed Parker",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xw9935/rumor_gaimin_gladiators_may_have_signed_parker/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T18:16:53.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "signed",
+            "gaimin gladiators"
+          ]
+        },
+        {
           "title": "FaZe Clan sweep Yuzus’ Falcons to reach BLAST R6 Major Osaka final against DarkZero",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmptR1pyYTB2MVBvYktFOUw0OGVONEE1azFQRnR6SFp2RG56RE9oc2pjd1BPQ0NnTXdUMWhhV2pVckF0VDhkVHRVTE13d1dDdjlGUURONlVkVXFRMmVfMXFndmJfLTNNTTdvTTAwaFJxTS1rWVFMM2o5MVlzajBiOS1KZWc0QXU5YVJzZlY5UGpaVlRMdEZVeFhpWjNJQ2dndWRWc2o0Zi1OOUtqc0h1UW4ySjFtR3MyZ3c5LXJ3?oc=5",
           "source": "Google News: Dota (Esports News UK)",
@@ -192,14 +197,25 @@
           ]
         },
         {
-          "title": "XE - P9, November 15, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-14T17:20:41.000Z",
-          "score": 0,
+          "title": "Ryvex Esports Dota 2 Team | Ryvex Esports Matches, Roster, & Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02OXlRN0JrY2ZHaHQxN3pCdk5hSTV5bkhES3k1N3Y5MHhRdV9ZLXdiM0tCVUliSjBBUGo3RGlkbUdFcXE3aEJTTWRfaDVoOWM3MkN1NVEzME1pUmVRWXlOWTZn?oc=5",
+          "source": "Google News: Dota (GosuGamers)",
+          "published": "2026-11-14T05:38:46.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "-stream"
+            "roster"
+          ]
+        },
+        {
+          "title": "Posting shitty memes about new favorite child until we get an update DAY 1",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwa1vf/posting_shitty_memes_about_new_favorite_child/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T18:48:50.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -226,7 +242,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -238,32 +254,45 @@
           "why": [
             "wins"
           ]
+        },
+        {
+          "title": "Anyone else getting connection issues after the latest T8 update? (PS5)",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xw9ial/anyone_else_getting_connection_issues_after_the/",
+          "source": "r/Tekken",
+          "published": "2026-11-14T18:26:57.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
         }
       ]
     },
     {
-      "scene": "AoE2",
+      "scene": "CoD",
       "storyCount": 2,
       "stories": [
         {
-          "title": "1 Pro Tip for each Civ in AOE2 - Liereyy",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xvhgfs/1_pro_tip_for_each_civ_in_aoe2_liereyy/",
-          "source": "r/aoe2",
-          "published": "2026-11-13T19:36:47.000Z",
-          "score": 2,
+          "title": "GA Update - Tac sprint is back in, pros have ga'd ATS & Single tap run",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xw90m0/ga_update_tac_sprint_is_back_in_pros_have_gad_ats/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-14T18:07:18.000Z",
+          "score": 1,
           "level": null,
           "why": [
-            "liereyy"
+            "update"
           ]
         },
         {
-          "title": "Name 5 things you would patch",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xw3bo9/name_5_things_you_would_patch/",
-          "source": "r/aoe2",
-          "published": "2026-11-14T14:11:00.000Z",
-          "score": 0,
+          "title": "NA Challengers Cup #1: 366 teams for 8 spots in Sunday's bracket. Which team outside the top 10 seeds makes it?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xw7xk6/na_challengers_cup_1_366_teams_for_8_spots_in/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-14T17:23:45.000Z",
+          "score": 1,
           "level": null,
-          "why": []
+          "why": [
+            "roster*"
+          ]
         }
       ]
     },
@@ -298,19 +327,17 @@
       ]
     },
     {
-      "scene": "CoD",
+      "scene": "AoE2",
       "storyCount": 1,
       "stories": [
         {
-          "title": "NA Challengers Cup #1: 366 teams for 8 spots in Sunday's bracket. Which team outside the top 10 seeds makes it?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xw7xk6/na_challengers_cup_1_366_teams_for_8_spots_in/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-14T17:23:45.000Z",
-          "score": 1,
+          "title": "Name 5 things you would patch",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xw3bo9/name_5_things_you_would_patch/",
+          "source": "r/aoe2",
+          "published": "2026-11-14T14:11:00.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "roster*"
-          ]
+          "why": []
         }
       ]
     }
