@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-11-14T19:00:37.200Z",
+  "generatedAt": "2026-11-14T20:00:46.782Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 16,
       "stories": [
-        {
-          "title": "r/GlobalOffensive Flair Updates – Singapore Major 2026",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw3drw/rglobaloffensive_flair_updates_singapore_major/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T14:13:40.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "update*",
-            "returns*",
-            "return*",
-            "won*",
-            "natus vincere*",
-            "vitality*"
-          ]
-        },
         {
           "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzM2TzJOZUFXQV9jcW9LRjJ6Ui00bWt5N002dzFEY2NPTUU4ZzF4aDhRNzRDQ3JDRlN2cW11UFBWbk5VX1gtdmF2cmJ0dXNaRFoyNEFOUFRDT3ZsRU01VTYxRzdKN0Nlc0puMHlPWThhbXNQSXpEaU56UHhmRTZTWlJHbXdzNUV4bmFnZEdwMnNaV012NFJxUzJR?oc=5",
@@ -69,19 +53,6 @@
           "why": [
             "spirit",
             "mouz",
-            "blast"
-          ]
-        },
-        {
-          "title": "What BLAST's own rulebook states on round replays",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw41ci/what_blasts_own_rulebook_states_on_round_replays/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T14:42:15.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "controversy*",
-            "furia*",
             "blast"
           ]
         },
@@ -154,6 +125,28 @@
           "why": [
             "blast"
           ]
+        },
+        {
+          "title": "just saw this in x, wtf Blast",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw9yf6/just_saw_this_in_x_wtf_blast/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T18:45:02.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
+          "title": "yuurih: \"I really want to thank Falcons for their fair play\"",
+          "url": "https://www.hltv.org/news/45992/yuurih-i-really-want-to-thank-falcons-for-their-fair-play",
+          "source": "HLTV news",
+          "published": "2026-11-14T15:53:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "furia*"
+          ]
         }
       ]
     },
@@ -161,18 +154,6 @@
       "scene": "Dota",
       "storyCount": 7,
       "stories": [
-        {
-          "title": "World record hero healing! 581,453!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xw37ht/world_record_hero_healing_581453/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T14:05:39.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "world record",
-            "record"
-          ]
-        },
         {
           "title": "Rumor: Gaimin Gladiators may have signed Parker",
           "url": "https://www.reddit.com/r/DotA2/comments/1xw9935/rumor_gaimin_gladiators_may_have_signed_parker/",
@@ -183,6 +164,18 @@
           "why": [
             "signed",
             "gaimin gladiators"
+          ]
+        },
+        {
+          "title": "Team [Spoiler] eliminated from 1win Essence III",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwbps8/team_spoiler_eliminated_from_1win_essence_iii/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T19:57:44.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "eliminated",
+            "team liquid*"
           ]
         },
         {
@@ -325,25 +318,11 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Name 5 things you would patch",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xw3bo9/name_5_things_you_would_patch/",
-          "source": "r/aoe2",
-          "published": "2026-11-14T14:11:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
     "Melee",
+    "AoE2",
     "Classic Tetris",
     "Trackmania",
     "Warcraft III",
