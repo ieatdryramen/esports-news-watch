@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T23:00:45.120Z",
+  "generatedAt": "2026-11-14T00:00:51.620Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 20,
+      "storyCount": 21,
       "stories": [
         {
           "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
@@ -57,7 +57,7 @@
         {
           "title": "Marvel Rivals Season 11: Nightcrawler Release Time, Battle Pass and Balance – Esports News Network",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUdVZEdwSWxnVlg1a0xvZ0FDT081RUlkc1U0UlBrUWcwa1ZiX0o3WkZydjlMTFJ5bTZGWmdURGpvZVVoaFRLWWRSNXlhMkhpZ0k2VDRLVHQyUnZIYkxiSFRsZTlHN0piTkFCWkFvdGlIcXBYRWg1TDNZdzdXSlNWbXRpajNYMTQ?oc=5",
-          "source": "Google News: Rivals patches (ESTNN)",
+          "source": "Google News: Rivals esports (ESTNN)",
           "published": "2026-11-13T14:34:00.000Z",
           "score": 4,
           "level": null,
@@ -87,6 +87,17 @@
           "level": null,
           "why": [
             "update",
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Adds Nightcrawler and a New Aim Assist Setting",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdZRVZpT05OYkZURUl3UXNmTXIyVE5GQm9jNGFENUdlRW1sa3dIZElXbGFBTTFqN290QWZvNm9EbGR2SHhEcDFmakpUNEVIWHlBRmg4Q1lwdXdhTGZJVUZ6RnMyeUU1WmR1aTVMa2VHeEh1MURzeEdnRmEzdlVjcFNmeURiU0tkV1VDdWtTOA?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-13T23:31:15.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
             "season"
           ]
         },
@@ -128,17 +139,6 @@
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5MW9vWFRLblY2dGV2aDl1ZjIta3hfbXNQZTdCWTRlUmRkcjMzckxjM3hNaURtMFJ1NlBBY0d5eWVwNVoyYzNWSA?oc=5",
           "source": "Google News: Rivals patches",
           "published": "2026-11-13T07:53:47.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "When Will Marvel Rivals Servers Be Back Up? Marvel Rivals Season 11 November 13 Downtime",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzM4RzRJYkRfM05jeWg4dXJvSk05TG5FVWFMbnQ0X3hJcG9CVzJQZmlLSzZDNTV4X1AtZ085bmRaTXFIVlVyQ0FLd2dVTC1lWUNXanVibUVBOEozQk5UZW9iZzNubE4wM3ZrQlllR0w2VzIxRHo2bTgtWEJPSFkwOVZTLVBEOHdhWVRQZHI4S0hCMXEzdVo4aHMyQkoyYXFYMVJjNmlVZ29lYXNSZkdLM0s0QlFiQQ?oc=5",
-          "source": "Google News: Rivals patches (Insider Gaming)",
-          "published": "2026-11-13T07:00:00.000Z",
           "score": 2,
           "level": null,
           "why": [
