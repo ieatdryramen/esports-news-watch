@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-11-14T16:00:37.633Z",
+  "generatedAt": "2026-11-14T17:00:32.951Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 26,
+      "storyCount": 25,
       "stories": [
-        {
-          "title": "\"Spirit map win despite donk negative rating\" counter: today marked 15th all-time, 4th this year.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvyrsp/spirit_map_win_despite_donk_negative_rating/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T10:00:51.000Z",
-          "score": 7.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "wins*",
-            "grand final*",
-            "donk",
-            "faze*",
-            "g2*"
-          ]
-        },
         {
           "title": "r/GlobalOffensive Flair Updates – Singapore Major 2026",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw3drw/rglobaloffensive_flair_updates_singapore_major/",
@@ -134,15 +118,16 @@
           ]
         },
         {
-          "title": "I’ve just been given a global cooldown from VAC for absolutely no reason - is there anyway I can fix this?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw3jj2/ive_just_been_given_a_global_cooldown_from_vac/",
+          "title": "Karrigan ends Blast Rivals Hong Kong with a higher rating than ZywOo",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw6l2d/karrigan_ends_blast_rivals_hong_kong_with_a/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-14T14:20:46.000Z",
-          "score": 4.5,
+          "published": "2026-11-14T16:29:56.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "cheat*",
-            "vac"
+            "zywoo",
+            "karrigan",
+            "blast"
           ]
         },
         {
@@ -168,27 +153,25 @@
           "why": [
             "wins"
           ]
+        },
+        {
+          "title": "Blast restarts round Falcons won on low buy because Yekindar decided to rage quit",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw1uev/blast_restarts_round_falcons_won_on_low_buy/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T13:00:16.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "won",
+            "blast"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "how is cheating still okay?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvz1sa/how_is_cheating_still_okay/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T10:17:53.000Z",
-          "score": 7.5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "ban*",
-            "cheating",
-            "reddit only"
-          ]
-        },
         {
           "title": "World record hero healing! 581,453!",
           "url": "https://www.reddit.com/r/DotA2/comments/1xw37ht/world_record_hero_healing_581453/",
@@ -199,17 +182,6 @@
           "why": [
             "world record",
             "record"
-          ]
-        },
-        {
-          "title": "I dislike the spirits so much I ensure ONE is banned in my game at all times.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvy3nb/i_dislike_the_spirits_so_much_i_ensure_one_is/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T09:16:59.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned"
           ]
         },
         {
@@ -224,17 +196,6 @@
           ]
         },
         {
-          "title": "Yatoro trippin'",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvzbyj/yatoro_trippin/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T10:35:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "yatoro"
-          ]
-        },
-        {
           "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUo0dlFZblBjT2VoQWdSbWk3M0UyaWF5LVNYdTI1cy1hZDZUX0xvM1RhcGNodUpDa194SnljUDF2Z1licE9jZTJQQlFIRk81TVNDbjdERFVjd3RUZjJXUU5SZW9OZFRNSFZkdzNqTi02Mi0yQ1N3TVF3amlCbFlxc2EyMUdMelR2VFY1TDZTYWR1dFh4VEoyaVVtT1FkSlR4RmJmMw?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -244,30 +205,12 @@
           "why": [
             "-stream"
           ]
-        },
-        {
-          "title": "How devs sleep after releasing trove of terror treasure chest instead of patch.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvz87s/how_devs_sleep_after_releasing_trove_of_terror/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T10:29:21.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Major server issues in EU/RU?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvywal/major_server_issues_in_euru/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T10:08:22.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -278,34 +221,6 @@
           "level": null,
           "why": [
             "wins"
-          ]
-        },
-        {
-          "title": "Tekken Card Tournament (2013) raised from the dead! Game runs again on modern 64-bit Android phones (offline only for now)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xvyddc/tekken_card_tournament_2013_raised_from_the_dead/",
-          "source": "r/Tekken",
-          "published": "2026-11-14T09:34:34.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-13T16:31:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "hungrybox"
           ]
         }
       ]
@@ -337,21 +252,6 @@
       ]
     },
     {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Trackmania Summit Presented by Visa: Registrations Are Open!",
-          "url": "https://blog.trackmania.com/2026/11/13/trackmania-summit-presented-by-visa-registrations-are-open/",
-          "source": "Trackmania blog",
-          "published": "2026-11-13T16:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -368,8 +268,10 @@
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Brood War",
+    "Trackmania",
     "Warcraft III",
     "Legacy FGC",
     "CoD",
