@@ -1,57 +1,26 @@
 {
-  "generatedAt": "2026-11-14T02:00:40.133Z",
+  "generatedAt": "2026-11-14T02:56:22.225Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Melee",
-      "storyCount": 3,
+      "scene": "CS2",
+      "storyCount": 19,
       "stories": [
         {
-          "title": "Zain’s Bowser vs Cody Schwab",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xvigof/zains_bowser_vs_cody_schwab/",
-          "source": "r/SSBM",
-          "published": "2026-11-13T20:16:04.000Z",
-          "score": 5.5,
+          "title": "New Idea to detect cheats (non invasive)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvqobl/new_idea_to_detect_cheats_non_invasive/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T02:16:30.000Z",
+          "score": 7,
           "level": "possible",
           "why": [
-            "wins*",
-            "zain",
-            "cody schwab"
+            "ban*",
+            "cheater*",
+            "cheat*",
+            "cancelled*",
+            "reddit only"
           ]
         },
-        {
-          "title": "[Tournament Thread] Port Priority DX Day 1| November 14th–15th | Feat. Cody Schwab, Zain, Hungrybox, Joshman, RapMonster, moky, Wizzrobe, Krudo, Jmook, Salt, Soonsay, Trif, Magi, Ginger, Free Cuba, SDJ, and many many more!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xvq525/tournament_thread_port_priority_dx_day_1_november/",
-          "source": "r/SSBM",
-          "published": "2026-11-14T01:49:20.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "hungrybox",
-            "zain",
-            "cody schwab",
-            "jmook",
-            "moky",
-            "trif"
-          ]
-        },
-        {
-          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-13T16:31:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "hungrybox"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 18,
-      "stories": [
         {
           "title": "SAW bench NOPEEj and promote Jayy2s",
           "url": "https://www.hltv.org/news/45986/saw-bench-nopeej-and-promote-jayy2s",
@@ -182,23 +151,58 @@
           "why": [
             "pgl"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Zain’s Bowser vs Cody Schwab",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xvigof/zains_bowser_vs_cody_schwab/",
+          "source": "r/SSBM",
+          "published": "2026-11-13T20:16:04.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "wins*",
+            "zain",
+            "cody schwab"
+          ]
         },
         {
-          "title": "PURE eSports CSGO Team Announces Partnership with CCC.io",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxTTBNZ28zZXpmeUxYTk5DRVJPSVFoTG1fZDF3SEhJQTNBZzc5RWpHRFU1bHg0WDltY3BnTTlTVGhOSlI1OU51Wk41UU9VNDRQLWdSeWp4M2JNTy1OS2E0TXZBSG83dThCb3hjZjVOX096Zw?oc=5",
-          "source": "Google News: CS2 (AffPapa)",
-          "published": "2026-11-13T07:13:23.000Z",
+          "title": "[Tournament Thread] Port Priority DX Day 1| November 14th–15th | Feat. Cody Schwab, Zain, Hungrybox, Joshman, RapMonster, moky, Wizzrobe, Krudo, Jmook, Salt, Soonsay, Trif, Magi, Ginger, Free Cuba, SDJ, and many many more!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xvq525/tournament_thread_port_priority_dx_day_1_november/",
+          "source": "r/SSBM",
+          "published": "2026-11-14T01:49:20.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "hungrybox",
+            "zain",
+            "cody schwab",
+            "jmook",
+            "moky",
+            "trif"
+          ]
+        },
+        {
+          "title": "Hungrybox gets inspired to release his own Super Smash Bros. Melee tier list after the 'worst tier list takes' he's ever witnessed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmQ5ZVVsQWl5UVcwNXFkaWVkN3dLU2QxQU5VeE1FNkJ2dktPeEJEU3lkaE50REViY0ZHM19XQjJZSzlybjlRNzdtcE9ld1pCYUVZc3YxWmpONHZLSWJDbVUtU3ZnT090OWlKSlQ5Uzh0b0pUWjhPY0RkcWNuYzJicA?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-13T16:31:05.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "announces"
+            "hungrybox"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
@@ -228,6 +232,15 @@
           "source": "esports.gg",
           "published": "2026-11-13T14:23:34.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "We got GTA 6 before a dota patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvrams/we_got_gta_6_before_a_dota_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T02:47:33.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -264,7 +277,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 6,
+      "storyCount": 4,
       "stories": [
         {
           "title": "It sounds like Devs tried to ask the players to only play with 3 attachments per gun for more balanced and they refused",
@@ -275,17 +288,6 @@
           "level": null,
           "why": [
             "refused"
-          ]
-        },
-        {
-          "title": "Dashy \"2 of the 4 teams that voted for OUT on tac sprint btw 😂😂😂 what changed???\" w/ receipts",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvhadj/dashy_2_of_the_4_teams_that_voted_for_out_on_tac/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-13T19:30:19.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
           ]
         },
         {
@@ -311,15 +313,6 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvjs03/is_this_the_best_the_flank_lineup_yet/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-13T21:07:46.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Toronto Koi x Monster $25k tournament",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvhr6b/toronto_koi_x_monster_25k_tournament/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-13T19:48:27.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -385,6 +378,23 @@
       ]
     },
     {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cloud9 vs Fatal Ambition Series Results | LVT Halo Pro League $100k LAN | Day 1",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xvr7mr/cloud9_vs_fatal_ambition_series_results_lvt_halo/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-14T02:43:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "won*"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -407,7 +417,6 @@
     "Classic Tetris",
     "Warcraft III",
     "Legacy FGC",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
