@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:00:41.946Z",
+  "generatedAt": "2026-11-14T16:00:37.633Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -53,21 +53,6 @@
           ]
         },
         {
-          "title": "Asian crowd controversy and should we expect the same for the major?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvx7u1/asian_crowd_controversy_and_should_we_expect_the/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T08:21:16.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "cheating*",
-            "controversy",
-            "blast*",
-            "reddit only"
-          ]
-        },
-        {
           "title": "FURIA vs Falcons / BLAST Rivals 2026 Season 2 - Semi-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw2dyo/furia_vs_falcons_blast_rivals_2026_season_2/",
           "source": "r/GlobalOffensive",
@@ -97,6 +82,17 @@
             "spirit*",
             "mouz",
             "blast*"
+          ]
+        },
+        {
+          "title": "IS Cs Resurgence Shut down?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw5gf8/is_cs_resurgence_shut_down/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T15:42:57.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "shut down"
           ]
         },
         {
@@ -150,6 +146,19 @@
           ]
         },
         {
+          "title": "BLAST, I'm begging you, PLEASE add a spoiler section to your VOD uploads",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw4ty2/blast_im_begging_you_please_add_a_spoiler_section/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T15:16:37.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "spirit*",
+            "mouz*",
+            "blast"
+          ]
+        },
+        {
           "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3F1QXpFVjFObE54Si13UjVIWk8xMGFiakpLd2dWQWNwek1WZFFvdE5jQzZWenZWaWVxdVkwT1FoNlA0ZXRWVllJZUdfVnMtdDFTVjljVDk3YnIwX1E5bW5zR0hTQjRlcFpfZ3JHLTFTZXFWUmVzVXhveUlKbFlkMGtB?oc=5",
           "source": "Google News: CS2 (Yahoo News Singapore)",
@@ -158,18 +167,6 @@
           "level": null,
           "why": [
             "wins"
-          ]
-        },
-        {
-          "title": "Blast restarts round Falcons won on low buy because Yekindar decided to rage quit",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw1uev/blast_restarts_round_falcons_won_on_low_buy/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T13:00:16.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "won",
-            "blast"
           ]
         }
       ]
