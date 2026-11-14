@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T02:20:20.665Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "New Idea to detect cheats (non invasive)",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvqobl/new_idea_to_detect_cheats_non_invasive/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "ban*",
+        "cheater*",
+        "cheat*",
+        "cancelled*",
+        "reddit only"
+      ],
+      "summary": "There should be live anonymous overwatch. A matchmaking search for players acting as referees and joining anonymous games (cross their region, 70 ping or more so no win trading) They will review 5 rounds from a game where a player has been reported 4 times or more including reports from previous game. He will review it for 5 rounds and pass judgement. 5 refrees will join the same game together and pass their judgement. if they flag the gameplay (All 5) then game gets cancelled and sent to overwatch where actual verdict is done for ban. if actual verdict is indeed a ban, the refrees get to ref more games, if the verdict is not a ban then they dont get to ref for couple of days (bad refreeing cooldown) This is to make the overwarch process more \"fun\" and also make the cheater infested games end quicker. If there is a better suggestion or idea let me know. Apart from invasive anti cheat because thats never gonna happen i guess submitted by /u/Ultimate_Goathan to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-14T02:16:30.000Z"
+    },
+    {
       "alertedAt": "2026-11-13T20:20:26.100Z",
       "level": "possible",
       "scene": "Melee",
