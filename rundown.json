@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-11-14T07:50:18.945Z",
+  "generatedAt": "2026-11-14T08:50:21.352Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 20,
       "stories": [
+        {
+          "title": "Asian crowd controversy and should we expect the same for the major?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvx7u1/asian_crowd_controversy_and_should_we_expect_the/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T08:21:16.000Z",
+          "score": 7,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "cheating*",
+            "controversy",
+            "blast*",
+            "reddit only"
+          ]
+        },
         {
           "title": "New Idea to detect cheats (non invasive)",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvqobl/new_idea_to_detect_cheats_non_invasive/",
@@ -75,10 +90,10 @@
           ]
         },
         {
-          "title": "Live updates from BLAST Rivals semi-finals",
-          "url": "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
-          "source": "HLTV news",
-          "published": "2026-11-14T07:16:00.000Z",
+          "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU5GVXhSeTZnRlY1R05uQ3FNWTEzSDl3LVRoZW1lWUtwSUFqMjVyTWpDd2tyVmpxaURob0lNN2NpbjlZWHlXN1AtRk9wVXB6bklJdHVReXpCXzRSaWI3enFTUVdIOEpEY2t2WFF5VVhGRGdiQXhSekp0YlB3cFV5NmdZQWxoWktJazZaQVlsTzBPVjk3a1RaMTBJcDJOREhoSWRHb1BnbnF3UQ?oc=5",
+          "source": "Google News: CS2 (HardwareZone)",
+          "published": "2026-11-14T07:43:17.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -86,10 +101,10 @@
           ]
         },
         {
-          "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOelllejRKR0hzclFlcTB2YWdod0M4YXQ3dHd1VjM3bUtpa0ZGbHNJZXMweUo1S19HZzJ6cXpVNkFhWko3dFQ4ZlpyWlR0YXVra0RyTEpOa05MdEMxY29DYTA3aVJ5bmhUbjZqVmsybGZhOXJvZGhGTlJvQktBSmhqR1ZvdnR5V3dOVUlWZVBpU2VMNng1OUN3SWZMQ0s1TmVfdXVUQlZlTmd6QVBiYzhZanFPdmE2dHEyZGhkYlc4VHNQZw?oc=5",
-          "source": "Google News: CS2 (HardwareZone)",
-          "published": "2026-11-14T06:36:41.000Z",
+          "title": "Live updates from BLAST Rivals semi-finals",
+          "url": "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
+          "source": "HLTV news",
+          "published": "2026-11-14T07:16:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -140,17 +155,6 @@
             "vitality*",
             "mouz*"
           ]
-        },
-        {
-          "title": "BLAST Rivals quarter-finals as they happened",
-          "url": "https://www.hltv.org/news/45979/blast-rivals-quarter-finals-as-they-happened",
-          "source": "HLTV news",
-          "published": "2026-11-13T15:22:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
         }
       ]
     },
@@ -184,37 +188,6 @@
           "why": [
             "hungrybox"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "TGU 2026 live stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera, Knee and more",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-13T08:39:06.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "arslan ash",
-            "knee",
-            "atif",
-            "lowhigh",
-            "rangchu",
-            "-stream"
-          ]
-        },
-        {
-          "title": "Thaiger Uppercut 2026 Day 1 Livestream (November 13, 2026) [Final TWT Master Event]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xvrkwm/thaiger_uppercut_2026_day_1_livestream_november/",
-          "source": "r/Tekken",
-          "published": "2026-11-14T03:02:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -354,24 +327,6 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "TGU 2026 live stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera, Knee and more",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-13T08:39:06.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "justin wong",
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Quake",
       "storyCount": 1,
       "stories": [
@@ -421,19 +376,17 @@
       ]
     },
     {
-      "scene": "Brood War",
+      "scene": "Tekken",
       "storyCount": 1,
       "stories": [
         {
-          "title": "[BSL 23] RO16 Group C: 🇷🇺 Dewalt 🇺🇸 Artosis 🇨🇱 Tech 🇳🇱 ret - Trailer Video ||🎙️ Azhi_Dahaki & EleGant[AoV] - Sunday 21:00 CET",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xvn244/bsl_23_ro16_group_c_dewalt_artosis_tech_ret/",
-          "source": "r/broodwar",
-          "published": "2026-11-13T23:24:16.000Z",
-          "score": 1,
+          "title": "Thaiger Uppercut 2026 Day 1 Livestream (November 13, 2026) [Final TWT Master Event]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xvrkwm/thaiger_uppercut_2026_day_1_livestream_november/",
+          "source": "r/Tekken",
+          "published": "2026-11-14T03:02:07.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "bw*"
-          ]
+          "why": []
         }
       ]
     }
@@ -441,7 +394,9 @@
   "quiet": [
     "AoE2",
     "Classic Tetris",
+    "Brood War",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC"
   ]
 }
