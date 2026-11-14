@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T10:45:23.951Z",
+  "generatedAt": "2026-11-14T11:45:27.432Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 17,
+      "storyCount": 15,
       "stories": [
         {
           "title": "Marvel Rivals upcoming characters: New heroes, leaks, and rumors",
@@ -67,18 +67,6 @@
           ]
         },
         {
-          "title": "Marvel Rivals Season 11: Nightcrawler Arrives Today, 18v18 Mode Waits for Nov 26 Update",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQnFldGNGdXJBX2xBdzM3d2RyN1dyRlVuQ0VOcm5Cb1cxWEpwdU83ODZGQTducVMxckhsYS1PMnQ1NE94RlMwemFFR3pTd1dRSkFwVWVmNXItb1p1TW9VXy0zY0ZQUC1KM3JFTnhuaWZodUJuT2IzRzJkTHE5Qk52TzhHb2VHSk1xRTlCcFR4RFY2MWR1OHg2anpEVEJLVVFaS3BQM0JUcWVPaGVrZC1pY09hTTMtOFdVM0lfUkJyMW1iekNnVDZjNE9ZNFd6VEFjblE?oc=5",
-          "source": "Google News: Rivals patches (Tech Times)",
-          "published": "2026-11-13T11:10:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "update",
-            "season"
-          ]
-        },
-        {
           "title": "Marvel Rivals Season 11 Adds Nightcrawler and a New Aim Assist Setting",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdZRVZpT05OYkZURUl3UXNmTXIyVE5GQm9jNGFENUdlRW1sa3dIZElXbGFBTTFqN290QWZvNm9EbGR2SHhEcDFmakpUNEVIWHlBRmg4Q1lwdXdhTGZJVUZ6RnMyeUU1WmR1aTVMa2VHeEh1MURzeEdnRmEzdlVjcFNmeURiU0tkV1VDdWtTOA?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
@@ -103,7 +91,7 @@
         {
           "title": "Marvel Rivals Season 11 Launches Nightcrawler, Dracula And 18v18 Battles",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDNhcUJnMjdRdThTTHUzVXBHMU5DWmhCOWZJaHZwZjk5VHVSSG03dWxKMXUwQ3VEY2FfR21mc1AyRjhhek9rWC0ySGxOdTZoSnNPWnRKRi1pNEx1Z3VBRldobFlDQ256NlpFbXcyTnRUMzNhRlRtMWlaYjZXTmpXSV9PVWozYU5WblZRdVVqUHlxN3JGaUVvbHVCVV82c0xa?oc=5",
-          "source": "Google News: Rivals patches (TheXboxHub)",
+          "source": "Google News: Rivals esports (TheXboxHub)",
           "published": "2026-11-13T16:03:32.000Z",
           "score": 2,
           "level": null,
@@ -134,6 +122,15 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pN1FLS3d0d1U3RXREZWtEV3FvSUhiQ1MzcjdBRVpBS0hoNlJmbmg1WWw5dnBrUFJWZ0x1ME9TU1dkS1U5eUROdnB0eDFiOXI3MjlEZk1aX1k1RW5EaGp1TG5JUXVwaEgtby1Ka21uRllZUVk?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
           "published": "2026-11-13T18:59:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals brings Nightcrawler, Dracula, a new mode, and a second anniversary starting November 13",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRnY1UmpXcHRpZlFpQjhaSzk1dmZzTjZCVFQ0c2NnZUJqelpWMXppT2Y3MFFxaGlhVi02N2R6cl9LVFZsS3Z3VnkzNndlZWtrVjN3RnpPMzNGQ3dsRzJsT3AzRTg4SmgyQkFtQVNQMFpBMngtNklZczliX2huMVpabG9yV1djYWtFV04xS3ZneHM3RktqLVBpMmExeERTNnZSaWZiSm50WFdKUG5YQms4WW5BdGtZSWFsaktoN01OT013NGVVaTRrWUw1a1Jpb0U?oc=5",
+          "source": "Google News: Rivals patches (Massively Overpowered)",
+          "published": "2026-11-13T17:00:10.000Z",
           "score": 1,
           "level": null,
           "why": []
