@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:00:48.288Z",
+  "generatedAt": "2026-11-14T01:00:41.575Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 19,
       "stories": [
         {
           "title": "SAW bench NOPEEj and promote Jayy2s",
@@ -168,14 +168,14 @@
           ]
         },
         {
-          "title": "Moscow Hosts International Counter-Strike 2 Tournament; Winners Secure Place at PGL Major Singapore",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlBLY3Jsa2lXMnFSYmJ4bGlOOUNzQWdJdkZxVnFrM0tTOEFpSVhKZTNRY0ZxY01ZTEt5ZDk5MloxU19WVUQ1YUNmUUM4R1BtQTg3UVVya1dGZ3lHR0ZReDJ5dXZNWGRrbTI4anJveXRTUl9yY3picVdyNHo2LUwzZGlUb2R4OXc4cTF0SzFNUUwtR0RjSmNWeC02UkFKM1BKVWJ4aWd3YldCUjFaTDZLTkxrTFZabDJQZ1gycHJ3WHNUb2FvU2otb2hsblhVREU1Y2tHSEFab05VVVJM?oc=5",
-          "source": "Google News: CS2 (Big News Network.com)",
-          "published": "2026-11-13T01:30:00.000Z",
+          "title": "PURE eSports CSGO Team Announces Partnership with CCC.io",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxTTBNZ28zZXpmeUxYTk5DRVJPSVFoTG1fZDF3SEhJQTNBZzc5RWpHRFU1bHg0WDltY3BnTTlTVGhOSlI1OU51Wk41UU9VNDRQLWdSeWp4M2JNTy1OS2E0TXZBSG83dThCb3hjZjVOX096Zw?oc=5",
+          "source": "Google News: CS2 (AffPapa)",
+          "published": "2026-11-13T07:13:23.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "pgl"
+            "announces"
           ]
         }
       ]
@@ -207,15 +207,13 @@
           ]
         },
         {
-          "title": "Dashy and Scrap on the tac sprint GA",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvgff7/dashy_and_scrap_on_the_tac_sprint_ga/",
+          "title": "[CDC Intel] Are we just gonna ignore the fact that there’s 0 ARs on the map for 80% of the time on every Hijack? When there was 4 ARs on Scar at the start of last year that was a major problem apparently but when it’s 4 SMGs (Same as the MPC) it’s no problem at all?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvouee/cdc_intel_are_we_just_gonna_ignore_the_fact_that/",
           "source": "r/CoDCompetitive",
-          "published": "2026-11-13T18:58:17.000Z",
-          "score": 2,
+          "published": "2026-11-14T00:45:25.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "dashy"
-          ]
+          "why": []
         },
         {
           "title": "Could the sub be nerfed ?",
@@ -303,7 +301,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Michelle is too gorgeous to be replaced so easily (outfit and makeup by me)",
@@ -315,16 +313,22 @@
           "why": [
             "replaced"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "Would a playable Tekken 7 Season 1/2 get love if it were to get the same rollback love that's been given to older Tekken games and even some other modern FGs (MK9, USF4)?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xvgjw9/would_a_playable_tekken_7_season_12_get_love_if/",
-          "source": "r/Tekken",
-          "published": "2026-11-13T19:02:43.000Z",
-          "score": 1,
+          "title": "Sutanmi Japan Named Official Ambassador for Tokyo eSports Festa 2027 for Second Consecutive Year! Street Fighter 6 Added to Competitive Titles",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQjJYMmhzcUxtb1pTaENTNTlFeUhFMTEwRFJKNENRY0RkVHpEcExNQ0xVbktUTFdPUk5EVnV1TktRcGlmZ0JIbjZpQUxTM1BSQVZ4dFdLRy10X2ZPT3dibFVsNm9GY3pvbEVDTHltUWFHWVJ4d2Y0MmtiVEZ1a1HSAYQBQVVfeXFMTVUtNmVEdFNPX09sWkJOSlE2RW1rN3lEcmpjVFFVZk1XdnVyU3FzQU4tbUoxSjdCZFBUV3pPb1k4TkR3a0tBdEVCYi0wbUs0UkhiQjJBRGVLYXJPZUNodVhfMGdDMUtxNHVQWVc1S2VncGVKa1E2bUtjTlhqODY2SkJBc051?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-13T04:36:52.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "the last*"
+            "official"
           ]
         }
       ]
@@ -375,7 +379,6 @@
     "AoE2",
     "Classic Tetris",
     "Warcraft III",
-    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
