@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:55:21.611Z",
+  "generatedAt": "2026-11-14T22:00:41.073Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -153,7 +153,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Rumor: Gaimin Gladiators may have signed Parker",
@@ -211,15 +211,6 @@
           "why": [
             "update"
           ]
-        },
-        {
-          "title": "Counter-Strike overtakes League of Legends and Dota 2 is left without prizes",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGJOSHlSTTFHbzNOOVRFdUEzdWdUR2ZDc0p5c1JZVWZPRF9MdFltWE1yUEpESEYtcWZYSFg1YVVGOHFFYXJ2ekJwc0lZM25nWEVRWXN5ekdDdGN6TkU3MHJ5RlFXcmtkVTRqUmdYYWROOWxCWW1xdjlsV1lldXJib29aRUZEczhfUWNJNmZvZVdqODhsdGhFU01jMW5ZbnVYbEhpMzZnLUFuRm1XbHJuZ3R3?oc=5",
-          "source": "Google News: Dota (Foro3D)",
-          "published": "2026-11-14T18:34:21.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Made a daily quiz/puzzle game while waiting for patch",
