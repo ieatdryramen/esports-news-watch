@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T11:45:21.504Z",
+  "generatedAt": "2026-11-14T12:00:48.768Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 18,
       "stories": [
         {
           "title": "\"Spirit map win despite donk negative rating\" counter: today marked 15th all-time, 4th this year.",
@@ -164,7 +164,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 12,
       "stories": [
         {
           "title": "how is cheating still okay?",
@@ -189,6 +189,17 @@
           "level": null,
           "why": [
             "banned"
+          ]
+        },
+        {
+          "title": "BLAST Rivals Fall 2026 Semifinals Preview: Spirit vs MOUZ, FURIA vs Falcons",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUJFQTN6bHlYSlpoeWw4eTgxSkJBanBzenIwR0pxY214S1VaTGhVLUtIcHNqcVJveUdMSmpucWFYUFllMHBGZDdkUUpjU1FDOFJBWlZ0VjU4cFRadEU1OUxyTk1LN2tkdXhjTTEtelo4dUlPNmUtdWNpclVtMDJySlBNMWFUM3FsbWozV3ZkU3hpOHFP?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-11-13T19:51:12.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "falcons"
           ]
         },
         {
@@ -222,18 +233,6 @@
           "level": null,
           "why": [
             "ending"
-          ]
-        },
-        {
-          "title": "Update leaks",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvrilw/update_leaks/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T02:59:01.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update",
-            "revealed*"
           ]
         },
         {
