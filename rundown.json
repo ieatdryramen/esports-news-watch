@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T12:00:48.768Z",
+  "generatedAt": "2026-11-14T13:00:39.504Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 21,
       "stories": [
         {
           "title": "\"Spirit map win despite donk negative rating\" counter: today marked 15th all-time, 4th this year.",
@@ -51,6 +51,22 @@
             "donk*",
             "spirit",
             "mouz"
+          ]
+        },
+        {
+          "title": "donk on tN1R and magixx's aces vs MOUZ: \"I gave them a chance, decided not to take that opportunity away from them\"",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw16wh/donk_on_tn1r_and_magixxs_aces_vs_mouz_i_gave_them/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T12:25:17.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "grand final*",
+            "official*",
+            "donk",
+            "spirit*",
+            "mouz",
+            "blast*"
           ]
         },
         {
@@ -106,6 +122,18 @@
           ]
         },
         {
+          "title": "Blast Rivals drinking game: Take a drink every time Scrawny says a player \"activates\"",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw1i12/blast_rivals_drinking_game_take_a_drink_every/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T12:42:25.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia*",
+            "blast"
+          ]
+        },
+        {
           "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU5GVXhSeTZnRlY1R05uQ3FNWTEzSDl3LVRoZW1lWUtwSUFqMjVyTWpDd2tyVmpxaURob0lNN2NpbjlZWHlXN1AtRk9wVXB6bklJdHVReXpCXzRSaWI3enFTUVdIOEpEY2t2WFF5VVhGRGdiQXhSekp0YlB3cFV5NmdZQWxoWktJazZaQVlsTzBPVjk3a1RaMTBJcDJOREhoSWRHb1BnbnF3UQ?oc=5",
           "source": "Google News: CS2 (HardwareZone)",
@@ -137,34 +165,12 @@
           "why": [
             "roster"
           ]
-        },
-        {
-          "title": "Hype Tech enters Counter-Strike with ex-Zero Tenacity roster",
-          "url": "https://www.hltv.org/news/45985/hype-tech-enters-counter-strike-with-ex-zero-tenacity-roster",
-          "source": "HLTV news",
-          "published": "2026-11-13T18:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "Record Viewers, Smaller Sticker Checks: CS2’s Biggest Major Paid Teams Less",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeF80OEdQQkM3cmJMRlZEdWdTN0pjVG9jZkxLd0VZUVdXM0lHRXk4MmY0NWg5SkE4MHBLbUhoaVY4Slg2dTFJWW95X3N4cGNFa01oenRzbk9GbWtkMTk5dnZtZXhGTzl3YUMwc09wQWtMeHJXcVY2R252OUprakk0b1VmajdTSVktckhPbWM2QnU0Y0JEc0sxM1ZLaGcydmJlUGNpMXFiWmYxcVE?oc=5",
-          "source": "Google News: CS2 (Guided.news)",
-          "published": "2026-11-13T17:37:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "record"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "how is cheating still okay?",
@@ -192,10 +198,10 @@
           ]
         },
         {
-          "title": "BLAST Rivals Fall 2026 Semifinals Preview: Spirit vs MOUZ, FURIA vs Falcons",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUJFQTN6bHlYSlpoeWw4eTgxSkJBanBzenIwR0pxY214S1VaTGhVLUtIcHNqcVJveUdMSmpucWFYUFllMHBGZDdkUUpjU1FDOFJBWlZ0VjU4cFRadEU1OUxyTk1LN2tkdXhjTTEtelo4dUlPNmUtdWNpclVtMDJySlBNMWFUM3FsbWozV3ZkU3hpOHFP?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-13T19:51:12.000Z",
+          "title": "FaZe Clan sweep Yuzus’ Falcons to reach BLAST R6 Major Osaka final against DarkZero",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmptR1pyYTB2MVBvYktFOUw0OGVONEE1azFQRnR6SFp2RG56RE9oc2pjd1BPQ0NnTXdUMWhhV2pVckF0VDhkVHRVTE13d1dDdjlGUURONlVkVXFRMmVfMXFndmJfLTNNTTdvTTAwaFJxTS1rWVFMM2o5MVlzajBiOS1KZWc0QXU5YVJzZlY5UGpaVlRMdEZVeFhpWjNJQ2dndWRWc2o0Zi1OOUtqc0h1UW4ySjFtR3MyZ3c5LXJ3?oc=5",
+          "source": "Google News: Dota (Esports News UK)",
+          "published": "2026-11-14T11:28:16.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -247,17 +253,6 @@
           ]
         },
         {
-          "title": "Valve when it comes to ACT 2 update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvt0jb/valve_when_it_comes_to_act_2_update/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T04:18:20.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
           "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
           "source": "esports.gg",
@@ -283,21 +278,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Starting dota as an ex league player",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvt4ui/starting_dota_as_an_ex_league_player/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T04:24:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -320,15 +306,6 @@
           "why": [
             "roster*"
           ]
-        },
-        {
-          "title": "Thaiger Uppercut 2026 Day 1 Livestream (November 13, 2026) [Final TWT Master Event]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xvrkwm/thaiger_uppercut_2026_day_1_livestream_november/",
-          "source": "r/Tekken",
-          "published": "2026-11-14T03:02:07.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -345,6 +322,23 @@
           "level": null,
           "why": [
             "hungrybox"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "1 Pro Tip for each Civ in AOE2 - Liereyy",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xvhgfs/1_pro_tip_for_each_civ_in_aoe2_liereyy/",
+          "source": "r/aoe2",
+          "published": "2026-11-13T19:36:47.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liereyy"
           ]
         }
       ]
@@ -367,40 +361,6 @@
       ]
     },
     {
-      "scene": "Quake",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Nov 12: id software confirms they are working on a New Game (under the direction of Hugo Martin)......?! (link in comments)",
-          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xvu0sz/nov_12_id_software_confirms_they_are_working_on_a/",
-          "source": "r/QuakeChampions",
-          "published": "2026-11-14T05:12:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "id software"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Burn the Ships vs Kraken Seas Series Results | LVT Halo Pro League $100k LAN | Day 1",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xvu5kz/burn_the_ships_vs_kraken_seas_series_results_lvt/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-14T05:20:19.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "wins*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
@@ -417,11 +377,12 @@
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Warcraft III",
     "Street Fighter",
-    "Legacy FGC"
+    "Legacy FGC",
+    "Quake",
+    "Halo"
   ]
 }
