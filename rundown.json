@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T13:00:39.504Z",
+  "generatedAt": "2026-11-14T14:00:39.952Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 24,
       "stories": [
         {
           "title": "\"Spirit map win despite donk negative rating\" counter: today marked 15th all-time, 4th this year.",
@@ -38,19 +38,19 @@
           ]
         },
         {
-          "title": "Spirit vs MOUZ / BLAST Rivals 2026 Season 2 - Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvyqvy/spirit_vs_mouz_blast_rivals_2026_season_2/",
+          "title": "FURIA vs Falcons / BLAST Rivals 2026 Season 2 - Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw2dyo/furia_vs_falcons_blast_rivals_2026_season_2/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-14T09:59:30.000Z",
+          "published": "2026-11-14T13:27:14.000Z",
           "score": 6.5,
           "level": "possible",
           "why": [
             "roster*",
             "grand final*",
             "official*",
-            "donk*",
-            "spirit",
-            "mouz"
+            "niko*",
+            "m0nesy*",
+            "karrigan*"
           ]
         },
         {
@@ -109,15 +109,25 @@
           ]
         },
         {
-          "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
-          "source": "Google News: CS2 (Field Level Media)",
-          "published": "2026-11-13T13:55:21.000Z",
-          "score": 5,
+          "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUM0YjN2VWpLZEJnRWowbG8yTjEyLUtraDNrbTduakVuQXUwM3Q2OHVCRWVSdTFpMUVraGF2dzRtZDV5MzUtQjJmM1FZcU9uNkFLWnVuX0pEcDBDcWhhTlNKbnlNNXgtSk5ta1pPVk5yUVR1ZjRQbUtES0R2bjZCNElOd19lSGstN0FVb2RWZDBQb0VheE9WMWFKeVFOTmMwZ19kSmc1b1JKeEdkWU5IdVZNX3JzNkk?oc=5",
+          "source": "Google News: CS2 (The Straits Times)",
+          "published": "2026-11-14T13:55:00.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "spirit",
-            "furia",
+            "wins"
+          ]
+        },
+        {
+          "title": "Blast restarts round Falcons won on low buy because Yekindar decided to rage quit",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw1uev/blast_restarts_round_falcons_won_on_low_buy/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T13:00:16.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "won",
             "blast"
           ]
         },
@@ -134,6 +144,17 @@
           ]
         },
         {
+          "title": "FURIA sweep Falcons to reach Hong Kong final",
+          "url": "https://www.hltv.org/news/45990/furia-sweep-falcons-to-reach-hong-kong-final",
+          "source": "HLTV news",
+          "published": "2026-11-14T12:02:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia"
+          ]
+        },
+        {
           "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU5GVXhSeTZnRlY1R05uQ3FNWTEzSDl3LVRoZW1lWUtwSUFqMjVyTWpDd2tyVmpxaURob0lNN2NpbjlZWHlXN1AtRk9wVXB6bklJdHVReXpCXzRSaWI3enFTUVdIOEpEY2t2WFF5VVhGRGdiQXhSekp0YlB3cFV5NmdZQWxoWktJazZaQVlsTzBPVjk3a1RaMTBJcDJOREhoSWRHb1BnbnF3UQ?oc=5",
           "source": "Google News: CS2 (HardwareZone)",
@@ -143,34 +164,12 @@
           "why": [
             "blast"
           ]
-        },
-        {
-          "title": "Live updates from BLAST Rivals semi-finals",
-          "url": "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
-          "source": "HLTV news",
-          "published": "2026-11-14T07:16:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "Hype Tech enter CS2 with former Zero Tenacity roster",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpNaDV1VEF1bnJxZU9JcGpneHNCN3Jya0JIMFVZclFYNVJvUEhEdkpkcEdoaWRXbFU5VEJ4bnpLLXVINGdwS2Y0ZHlpRVpxQm5EeFFJaGhacV95MC10cDVpNTZuTGFaS3FiX0RoNFdST1NhTmdfMEZQVWc0dVh1Rm1WWkh4MWpZalk4c0Yya2pTZw?oc=5",
-          "source": "Google News: CS2 (Skin.Club)",
-          "published": "2026-11-13T19:39:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "how is cheating still okay?",
@@ -209,17 +208,6 @@
           ]
         },
         {
-          "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
-          "source": "Google News: Dota (Esports Insider)",
-          "published": "2026-11-13T13:21:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        },
-        {
           "title": "Yatoro trippin'",
           "url": "https://www.reddit.com/r/DotA2/comments/1xvzbyj/yatoro_trippin/",
           "source": "r/DotA2",
@@ -242,17 +230,6 @@
           ]
         },
         {
-          "title": "guys the new hero is no rumor",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvuh2h/guys_the_new_hero_is_no_rumor/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T05:38:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "leak*"
-          ]
-        },
-        {
           "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
           "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
           "source": "esports.gg",
@@ -260,6 +237,17 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUo0dlFZblBjT2VoQWdSbWk3M0UyaWF5LVNYdTI1cy1hZDZUX0xvM1RhcGNodUpDa194SnljUDF2Z1licE9jZTJQQlFIRk81TVNDbjdERFVjd3RUZjJXUU5SZW9OZFRNSFZkdzNqTi02Mi0yQ1N3TVF3amlCbFlxc2EyMUdMelR2VFY1TDZTYWR1dFh4VEoyaVVtT1FkSlR4RmJmMw?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-14T13:39:41.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         },
         {
           "title": "How devs sleep after releasing trove of terror treasure chest instead of patch.",
@@ -344,23 +332,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "All these Scrap and Dashy memes remind me of last year with Sib.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xvumeb/all_these_scrap_and_dashy_memes_remind_me_of_last/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-14T05:46:57.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "dashy"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
@@ -382,6 +353,7 @@
     "Warcraft III",
     "Street Fighter",
     "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
