@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-11-14T05:30:23.668Z",
+  "generatedAt": "2026-11-14T06:00:27.586Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1729952",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Arcade UFO Monthly: November 2026",
+      "event": "Street Fighter III: 3rd Strike",
+      "entrants": 22,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T02:00:00.000Z",
+      "endAt": "2026-11-14T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/arcade-ufo-monthly-november-2026/event/street-fighter-iii-3rd-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Big Game James"
+        },
+        {
+          "placement": 2,
+          "name": "Luke"
+        },
+        {
+          "placement": 3,
+          "name": "kreichjr"
+        },
+        {
+          "placement": 4,
+          "name": "Foolish Genius"
+        },
+        {
+          "placement": 5,
+          "name": "Tommy2step"
+        },
+        {
+          "placement": 5,
+          "name": "FPT | Rasha"
+        },
+        {
+          "placement": 7,
+          "name": "FPT.WGYL | mantra"
+        },
+        {
+          "placement": 7,
+          "name": "Karlantuk"
+        }
+      ]
+    },
+    {
+      "eventId": "1745976",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Torneo 2do Aniversario 3rd Strike México",
+      "event": "3rd Strike Singles",
+      "entrants": 17,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-14T02:00:00.000Z",
+      "endAt": "2026-11-14T05:56:00.000Z",
+      "url": "https://www.start.gg/tournament/torneo-2do-aniversario-3rd-strike-m-xico/event/3rd-strike-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Vought | PlayboyPepsiKO"
+        },
+        {
+          "placement": 2,
+          "name": "Fc Bc | EfrzCave"
+        },
+        {
+          "placement": 3,
+          "name": "OtraLuz"
+        },
+        {
+          "placement": 4,
+          "name": "tremolo3"
+        },
+        {
+          "placement": 5,
+          "name": "MFC | Lovin_n"
+        },
+        {
+          "placement": 5,
+          "name": "Cerdical"
+        },
+        {
+          "placement": 5,
+          "name": "Calakin"
+        },
+        {
+          "placement": 5,
+          "name": "io | chems map"
+        }
+      ]
+    },
     {
       "eventId": "1736123",
       "scene": "melee",
@@ -191,7 +285,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1725717",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Big Dawg XD - The Port Priority: DX Prelocal",
+      "event": "Melee Singles",
+      "entrants": 136,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T01:30:00.000Z",
+      "endAt": "2026-11-14T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/big-dawg-xd-the-port-priority-dx-prelocal/event/melee-singles"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1587277",
