@@ -114,49 +114,6 @@
       ],
       "summary": "",
       "published": "2026-11-12T12:31:13.000Z"
-    },
-    {
-      "alertedAt": "2026-11-12T09:45:19.607Z",
-      "level": "breaking",
-      "scene": "Marvel Rivals",
-      "title": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
-      "url": "https://store.steampowered.com/news/app/2767030/view/703284306606293379",
-      "source": "Steam: Marvel Rivals (official news + patch notes)",
-      "outlets": [
-        "Steam: Marvel Rivals (official news + patch notes)",
-        "TwistedVoxel"
-      ],
-      "score": 9,
-      "why": [
-        "update*",
-        "return*",
-        "patch notes",
-        "balance*",
-        "new hero*",
-        "season"
-      ],
-      "summary": "Greetings, Rivals! Worlds collide in Season 11! With two timelines on the brink of total devastation, it's time to step up. The fate of both worlds hangs in the balance, and it's up to us to save them alongside a demonic-looking saint of unwavering faith and a displaced king fighting for a home he can't return to. This update begins on November 13th, 2026, at 09 : 00 : 00 (UTC) , with estimated maintenance lasting 2 hours. All-New Content New Hero: Nightcrawler BAMF! The fuzzy elf teleports into Marvel Rivals! New Stories New Serial - Doomsday New Nightcrawler Lore - Leap of Faith New In Store - Nightcrawler - Steadfast Swordsman Bundle - Gambit - Versatile Valet Bundle - The Hood - Astral Oblivion Bundle - Nightcrawler - X-Force - Nightcrawler - Emoji Bundle - Versatile Valet - Emoji Bundle - Gambit - Versatile Valet Chroma Matcha Maid/Pastel Primp and Ultimate Ability VFX - Mantis - Chronal Harmony Chroma Sundial Shadow/Twilight Time and Ultimate Ability VFX - Take a Seat: New animation for Nightcrawler. - Nightcrawler Accessory - Pickles Plush Available From: November 13th, 2026, at 09 : 00 : 00 (UTC) S11 Battle Pass Brace for impact with a reality-shattering new Battle Pass: The Incursion, featuring 10 all-new sets of heroic costumes! Highlights include: Emma Frost - Seat of Winter, Mantis - Chronal Harmony, and Daredevil - The Man Without Fear. Season Event: The Acts of Kurt Wagner The brand-new seasonal story event, The Acts of Kurt Wagner, is about to BAMF into action!",
-      "published": "2026-11-12T09:44:14.000Z"
-    },
-    {
-      "alertedAt": "2026-11-12T09:45:19.607Z",
-      "level": "breaking",
-      "scene": "Marvel Rivals",
-      "title": "Marvel Rivals Version 20261113 Balance Post",
-      "url": "https://store.steampowered.com/news/app/2767030/view/695403626868244527",
-      "source": "Steam: Marvel Rivals (official news + patch notes)",
-      "outlets": [
-        "Steam: Marvel Rivals (official news + patch notes)"
-      ],
-      "score": 7.5,
-      "why": [
-        "ban*",
-        "patch notes*",
-        "balance",
-        "buff*"
-      ],
-      "summary": "ADJUSTMENTS The cosmos is ever-expanding, and our balance team is working in overdrive! We're rolling out another massive wave of balance tweaks to Marvel Rivals. Let's dive into the patch notes and see how the meta is shifting! VANGUARD Angela We noticed that, compared to her aerial flexibility and the pressure she applies to enemies, Angela is relatively weak in her ground form, making it difficult to chain actions after engaging. Due to the loss of aerial mobility upon landing, her survivability on the ground is also rather fragile. In this adjustment, we will slightly buff the strength of her ground form, making it a more integral part of her gameplay loop. - Increase Axes of Ichors damage for the first three strikes from 30 to 35. - After casting Divine Judgement, Angela no longer needs to remain within the domain to receive the Movement Speed and Bonus Health buffs. Instead, she now gains both buffs for 6s. Using Wingblade Ascent during this time will remove the buffs. - In dual-axe form, increase Bonus Health gained per Axes of Ichors hit from 50 to 55. Increase continuous damage dealt to enemies within Divine Judgement from 12.5/s to 15/s. Deadpool (Vanguard) In the current meta, Vanguard Deadpool often takes on the role of roaming and applying pressure to the enemy backline. We've observed that players tend to favor The Ban Hammer instead of dynamically switching between The Ban Hammer and The Big Test based on the battlefield situation. We re-evaluated the Ultimate ",
-      "published": "2026-11-12T09:43:34.000Z"
     }
   ]
 }
