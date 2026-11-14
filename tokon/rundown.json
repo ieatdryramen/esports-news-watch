@@ -1,24 +1,8 @@
 {
-  "generatedAt": "2026-11-14T02:56:27.235Z",
+  "generatedAt": "2026-11-14T03:55:25.656Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Tokon",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Phoenix Cyclops Is the First DLC Fighter in Marvel Tokon: Fighting Souls",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV05ZeUQza1lNaktodEotMnNWTWhHc1ZlQk5KZFBxRm1ZaHdyWm9xdFRhNmJzYW9VYUIwbHFWaGdPQW04cmNacEE4V1Q3bDlmcFYyUXIwQUJKc2p0VXNTZ0JJZlhCYzVkbDloUEZ6YUREaXdWd0M3RE4tMEY3NVU3VzFCOA?oc=5",
-          "source": "Google News: Tokon (Happy Gamer)",
-          "published": "2026-11-13T03:51:30.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "dlc"
-          ]
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Tokon"
+  ]
 }
