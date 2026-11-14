@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T14:10:18.924Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "World record hero healing! 581,453!",
+      "url": "https://www.reddit.com/r/DotA2/comments/1xw37ht/world_record_hero_healing_581453/",
+      "source": "r/DotA2",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6,
+      "why": [
+        "world record",
+        "record"
+      ],
+      "summary": "submitted by /u/gayretardedboy to r/DotA2 [link] [comments]",
+      "published": "2026-11-14T14:05:39.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T14:05:17.178Z",
       "level": "breaking",
       "scene": "CS2",
