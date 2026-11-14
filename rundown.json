@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T17:00:32.951Z",
+  "generatedAt": "2026-11-14T18:00:39.406Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 25,
+      "storyCount": 22,
       "stories": [
         {
           "title": "r/GlobalOffensive Flair Updates – Singapore Major 2026",
@@ -50,22 +50,6 @@
             "niko*",
             "m0nesy*",
             "karrigan*"
-          ]
-        },
-        {
-          "title": "donk on tN1R and magixx's aces vs MOUZ: \"I gave them a chance, decided not to take that opportunity away from them\"",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw16wh/donk_on_tn1r_and_magixxs_aces_vs_mouz_i_gave_them/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T12:25:17.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "grand final*",
-            "official*",
-            "donk",
-            "spirit*",
-            "mouz",
-            "blast*"
           ]
         },
         {
@@ -165,12 +149,24 @@
             "won",
             "blast"
           ]
+        },
+        {
+          "title": "Blast Rivals drinking game: Take a drink every time Scrawny says a player \"activates\"",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw1i12/blast_rivals_drinking_game_take_a_drink_every/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T12:42:25.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia*",
+            "blast"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
         {
           "title": "World record hero healing! 581,453!",
@@ -194,6 +190,26 @@
           "why": [
             "falcons"
           ]
+        },
+        {
+          "title": "XE - P9, November 15, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-14T17:20:41.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
+          "title": "Made a daily quiz/puzzle game while waiting for patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xw7fop/made_a_daily_quizpuzzle_game_while_waiting_for/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T17:04:04.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
@@ -252,6 +268,21 @@
       ]
     },
     {
+      "scene": "Brood War",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Top 2 on Shield Battery Face Off! Epic TvT Battle | StarCraft Remastered",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLMDVsQ054c1BsUVJ3cWZSbzdkUU15NGhsMElnUmo0NHU3T0dsSmw1RGhLUlNLV3hvZlJOc0hGZXRLZw?oc=5",
+          "source": "Google News: Brood War (YouTube)",
+          "published": "2026-11-14T01:38:42.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -265,16 +296,31 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "NA Challengers Cup #1: 366 teams for 8 spots in Sunday's bracket. Which team outside the top 10 seeds makes it?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xw7xk6/na_challengers_cup_1_366_teams_for_8_spots_in/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-14T17:23:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
     "Melee",
     "Classic Tetris",
-    "Brood War",
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "CoD",
     "Quake",
     "Halo"
   ]
