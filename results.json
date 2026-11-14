@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:30:25.010Z",
+  "generatedAt": "2026-11-14T02:00:25.715Z",
   "source": "start.gg",
   "completed": [
     {
@@ -193,32 +193,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1729952",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Arcade UFO Monthly: November 2026",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 21,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T02:00:00.000Z",
-      "endAt": "2026-11-14T06:00:00.000Z",
-      "url": "https://www.start.gg/tournament/arcade-ufo-monthly-november-2026/event/street-fighter-iii-3rd-strike"
-    },
-    {
-      "eventId": "1745976",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Torneo 2do Aniversario 3rd Strike México",
-      "event": "3rd Strike Singles",
-      "entrants": 16,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-14T02:00:00.000Z",
-      "endAt": "2026-11-14T05:56:00.000Z",
-      "url": "https://www.start.gg/tournament/torneo-2do-aniversario-3rd-strike-m-xico/event/3rd-strike-singles"
-    },
     {
       "eventId": "1752460",
       "scene": "tekken",

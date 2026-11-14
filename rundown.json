@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T01:00:41.575Z",
+  "generatedAt": "2026-11-14T02:00:40.133Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Zain’s Bowser vs Cody Schwab",
@@ -17,6 +17,22 @@
             "wins*",
             "zain",
             "cody schwab"
+          ]
+        },
+        {
+          "title": "[Tournament Thread] Port Priority DX Day 1| November 14th–15th | Feat. Cody Schwab, Zain, Hungrybox, Joshman, RapMonster, moky, Wizzrobe, Krudo, Jmook, Salt, Soonsay, Trif, Magi, Ginger, Free Cuba, SDJ, and many many more!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xvq525/tournament_thread_port_priority_dx_day_1_november/",
+          "source": "r/SSBM",
+          "published": "2026-11-14T01:49:20.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "hungrybox",
+            "zain",
+            "cody schwab",
+            "jmook",
+            "moky",
+            "trif"
           ]
         },
         {
@@ -34,7 +50,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 18,
       "stories": [
         {
           "title": "SAW bench NOPEEj and promote Jayy2s",
@@ -66,7 +82,7 @@
           "title": "FURIA, Spirit win BLAST Rivals Fall groups in Hong Kong",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPby1KVmFwNHg3UThGcnVkZFVJMWJQa1NBWXB0LUU4UHZSM05uazJiMWxvejNYMFJnV3A4U3V3LUFLUDhaZjFLMG5Zakp1LVpDX3QtUHdrYTdVYzd5Y3NDOTFvc0RBczlHbVJYbUFaeHU3VFUwQk1sYnA0VExMZFVwdHRwNjY3c25zSkFlWnd1WnA3YkRnM3c?oc=5",
           "source": "Google News: CS2 (Field Level Media)",
-          "published": "2026-11-13T11:48:45.000Z",
+          "published": "2026-11-13T13:55:21.000Z",
           "score": 5,
           "level": null,
           "why": [
@@ -90,7 +106,7 @@
           ]
         },
         {
-          "title": "Hype Tech enter CS2 by signing former Zero Tenacity roster",
+          "title": "Hype Tech enter CS2 with former Zero Tenacity roster",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpNaDV1VEF1bnJxZU9JcGpneHNCN3Jya0JIMFVZclFYNVJvUEhEdkpkcEdoaWRXbFU5VEJ4bnpLLXVINGdwS2Y0ZHlpRVpxQm5EeFFJaGhacV95MC10cDVpNTZuTGFaS3FiX0RoNFdST1NhTmdfMEZQVWc0dVh1Rm1WWkh4MWpZalk4c0Yya2pTZw?oc=5",
           "source": "Google News: CS2 (Skin.Club)",
           "published": "2026-11-13T19:39:49.000Z",
@@ -181,6 +197,72 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 6,
+      "stories": [
+        {
+          "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
+          "source": "Google News: Dota (Esports Insider)",
+          "published": "2026-11-13T13:21:03.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "returns"
+          ]
+        },
+        {
+          "title": "Stariy_bog’s Pro Debut Ruined By Team Spirit – 1win Essence III Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0k4RnlyOGJreXRIM0tMR3NMQXZqUjZuYW1ia0RQTWtZRHY3XzBZZ1NaS3MwV1B1dFVhTmZ0bkZuMkhYeVRYMXZySWYyMEJURXpTeDNmTHFkbzZQd09iVW1LNWFSc01DXzRPSmljNTQtS0lVSEplZUlZdE93MW45OGtXSHI4SlppTzRGUnRPb0sybXU0WWFCTlNSNlQ1cU1DdzRsTENlaUV0cGQ5?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-13T03:47:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
+          "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
+          "source": "esports.gg",
+          "published": "2026-11-13T14:23:34.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "New patch",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvjftb/new_patch/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T20:54:29.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "99th copium for today. Patch? I can feel CM ms speed reduction in my bones.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xvje0n/99th_copium_for_today_patch_i_can_feel_cm_ms/",
+          "source": "r/DotA2",
+          "published": "2026-11-13T20:52:36.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "CH - XE, November 13, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0szcHhrUTRSZGlyczBSdGZQNzg5Q09OeWRPNG5wcmRfLTB3WUlRYVMzX0VQbTZONlFVNmVoM0pqSFpmRVFhS2JUY1F4UHhyUDh1dTlseld6dl9pM1hBTjBWRDlLUEFybDYyV2IwVnJZMFBqdGJycGJmc1F5V3BURWRPX1pZYUdUUHRwZVRncG5wM3VETFBFdVFhYnFhVzQ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-13T17:03:58.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 6,
       "stories": [
@@ -241,61 +323,6 @@
           "score": 0,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQay1CWVBERVRtYmhQelUtT0RrQ1pheDgtQ2RyRE14QVNwVFVmeUQwUWktd2VCN2FVR2dGUDFJSDg5Q1pvVW13dm92MUZfV1VYTTFBNUxWZ3lQTG1BVE5saFo0QWZIRGRGRTd6OHppcFI3YUdQbFQyalNENnVfZThxdUliaGJRakNYYlg2c3ZqajRfQ3RvUmJoZW8zUHlnakJYY01TTndzdUtreS1pMmtWaWt4c3JIWms?oc=5",
-          "source": "Google News: Dota (Esports Insider)",
-          "published": "2026-11-13T13:21:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        },
-        {
-          "title": "Sportradar adds 94,000+ annual esports matches through DATA.BET deal",
-          "url": "https://esports.gg/news/betting/sportradar-adds-94000-annual-esports-matches-through-data-bet-deal/",
-          "source": "esports.gg",
-          "published": "2026-11-13T14:23:34.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "New patch",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvjftb/new_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T20:54:29.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "99th copium for today. Patch? I can feel CM ms speed reduction in my bones.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xvje0n/99th_copium_for_today_patch_i_can_feel_cm_ms/",
-          "source": "r/DotA2",
-          "published": "2026-11-13T20:52:36.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "CH - XE, November 13, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0szcHhrUTRSZGlyczBSdGZQNzg5Q09OeWRPNG5wcmRfLTB3WUlRYVMzX0VQbTZONlFVNmVoM0pqSFpmRVFhS2JUY1F4UHhyUDh1dTlseld6dl9pM1hBTjBWRDlLUEFybDYyV2IwVnJZMFBqdGJycGJmc1F5V3BURWRPX1pZYUdUUHRwZVRncG5wM3VETFBFdVFhYnFhVzQ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-13T17:03:58.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
