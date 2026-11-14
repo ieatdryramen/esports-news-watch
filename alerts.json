@@ -1,6 +1,29 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T11:15:18.097Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "FURIA vs Falcons / BLAST Rivals 2026 Season 2 - Semi-Final / Live Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvzwhp/furia_vs_falcons_blast_rivals_2026_season_2/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5.5,
+      "why": [
+        "roster*",
+        "official*",
+        "niko*",
+        "m0nesy*",
+        "karrigan*",
+        "furia",
+        "blast"
+      ],
+      "summary": "FURIA 🇧🇷 vs 🇪🇺 Team Falcons Ancient: LIVE Dust2 Mirage Best of 3 (LAN) LIVE Event Information BLAST Rivals 2026 Season 2 | 🇭🇰 Chek Lap Kok ($1m LAN) | Liquipedia | HLTV Streams | BLAST Premier | BLAST Premier | BLAST Premier | shadowkekw Team Information 🇧🇷 FURIA | Liquipedia | HLTV | Official Site | Faceit | Twitter | Facebook | Instagram | TikTok | YouTube | Twitch | Steam Roster : 🇧🇷 yuurih | 🇧🇷 KSCERATO | 🇧🇷 FalleN ♛ | 🇰🇿 molodoy ⊕ | 🇱🇻 YEKINDAR Coach : 🇧🇷 sidde 🇪🇺 Team Falcons | Liquipedia | HLTV | Official Site | Twitter | Facebook | Instagram | TikTok | YouTube | Twitch Roster : 🇧🇦 NiKo | 🇩🇰 TeSeS | 🇷🇺 m0NESY ⊕ | 🇷🇺 kyousuke | 🇩🇰 karrigan ♛ Coach : 🇩🇰 zonic Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Lineups Team KPR DPR KAST ADR Swing Rating 🇧🇷 FURIA 1.06 🇧🇷 KSCERATO 0.73 0.60 76.4% 80.2 +1.51% 1.19 🇰🇿 molodoy ⊕ 0.75 0.59 74.4% 75.6 +1.46% 1.13 🇱🇻 YEKINDAR 0.70 0.69 71.6% 79.3 +0.76% 1.10 🇧🇷 yuurih 0.58 0.60 74.6% 66.2 -0.36% 0.98 🇧🇷 FalleN ♛ 0.55 0.66 69.4% 61.1 -1.22% 0.91 🇪🇺 Falcons 1.06 🇷🇺 m0NESY ⊕ 0.80 0.59 74.9% 80.0 +3.42% 1.28 🇷🇺 kyousuke 0.74 0.70 72.5% 80.5 -0.01% 1.10 🇧🇦 NiKo 0.67 0.65 71.8% 75.9 +0.74% 1.08 🇩🇰 TeSeS 0.61 0.62 71.7% 66.3 +0.37% 1.03 🇩🇰 karrigan ♛ 0.49 0.69 66.7% 56.1 -2.25% 0.80 Last 3 months on HLTV. This is who is playing this match, including stand-ins. Map Vetoes The vetoes for this match are not yet available. This thread ",
+      "published": "2026-11-14T11:10:47.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T10:20:16.442Z",
       "level": "possible",
       "scene": "Dota",
