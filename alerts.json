@@ -1,6 +1,35 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-14T10:03:37.373Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "\"Spirit map win despite donk negative rating\" counter: today marked 15th all-time, 4th this year.",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvyrsp/spirit_map_win_despite_donk_negative_rating/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7.5,
+      "why": [
+        "roster*",
+        "wins*",
+        "grand final*",
+        "donk",
+        "faze*",
+        "g2*",
+        "spirit",
+        "mouz*",
+        "astralis*",
+        "iem*",
+        "blast*",
+        "pgl*",
+        "reddit only"
+      ],
+      "summary": "Full chronological list of Spirit map wins with donk sub-1.0 (since he joined the main roster): 10.10.2023, ESL Challenger Jonkoping 2023 European Closed Qualifier (online) vs Movistar Riders , map 1 Anubis (0.82, 13-6) 30.10.2023, Thunderpick World Championship 2023 group stage vs Mouz , map 2 Mirage (0.97, 13-6) 13.11.2023, BetBoom Dacha 2023 Closed Qualifier (online) vs MIBR , map 1 Ancient (0.96, 13-11) 19.02.2024, PGL Copenhagen Major 2024 RMR vs Astralis , BO1 Vertigo (0.96, 13-11) 29.05.2024, IEM Dallas 2024 group stage vs FaZe , map 3 Nuke (0.88, 13-10) 18.07.2024, Esports World Cup 2024 quarterfinal vs G2 , map 2 Nuke (0.83, 16-14) 29.07.2024, BLAST Fall Groups 2024 vs OG , map 2 Mirage (0.92, 13-9) 26.09.2024, BLAST Fall Final 2024 group stage vs Astralis , map 3 Mirage (0.91, 13-11) 27.09.2024, BLAST Fall Final 2024 quarterfinal vs G2 , map 2 Mirage (0.97, 16-13) 23.03.2025, BLAST Open Lisbon 2025 group strage vs FaZe , map 1 Anubis (0.91, 13-8) 09.08.2025, BLAST Bounty 2025 S2 round of 32 (online) vs G2 , map 1 Mirage (0.78, 13-11) 15.04.2026, IEM Rio 2026 group stage vs G2 , map 3 Dust2 (0.91, 13-11) 01.08.2026, BLAST Bounty 2026 S2 semifinal vs FaZe , map 3 Anubis (0.70, 13-11) 05.09.2026, BLAST Open Porto 2026 semifinal vs Falcons , map 2 Ancient (0.96, 13-11) 14.11.2026, BLAST Rivals Hong Kong 2026 semifinal vs Mouz , map 1 Mirage (0.93, 13-7) Note: map 1 Dust2 of BLAST Open Porto 2026 grand final vs Mouz (13-11 win) was initially rated 0.99, however adjusted ",
+      "published": "2026-11-14T10:00:51.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T08:25:16.087Z",
       "level": "possible",
       "scene": "CS2",
