@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T23:45:25.627Z",
+  "generatedAt": "2026-11-15T00:45:22.510Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -20,6 +20,18 @@
           ]
         },
         {
+          "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-14T23:28:57.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "season",
+            "mrc"
+          ]
+        },
+        {
           "title": "Marvel Rivals Season 11 Roadmap Breakdown: New Map, Skins, Events & More",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaUloVUFKeHhCejYtcGJlZGFKankyS3Z6T1Z6N2ZCd0JrS3N6am0tQVIyX211ZHhBSF9DUWtwSDNUcjdpdG9seWI4ZFBCLUtuN01LdVhueDNNWTl1SWg5V1F3?oc=5",
           "source": "Google News: Rivals patches (IMDb)",
@@ -29,18 +41,6 @@
           "why": [
             "season",
             "roadmap"
-          ]
-        },
-        {
-          "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-14T12:56:20.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "mrc"
           ]
         },
         {
@@ -59,15 +59,6 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mX3U1bS12QWJ3YlZIQm5XNTdpdFQ3dXBqckZ1dlhyUmV6QzJlTkJwcjgtWWNRQXRfX2h4N1BkOFl2aU5MdEhTQlhkcW5fVm9zMjZLTmduMTJwZFNuQXRTNW9rU0FVQk5iM0JMNklZUQ?oc=5",
           "source": "Google News: Rivals patches (But Why Tho?)",
           "published": "2026-11-14T15:07:21.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Nightcrawler abilities, team-ups, and skins",
-          "url": "https://esports.gg/guides/marvel-rivals/marvel-rivals-nightcrawler-abilities-team-ups-and-skins/",
-          "source": "esports.gg",
-          "published": "2026-11-14T00:22:03.000Z",
           "score": 1,
           "level": null,
           "why": []
