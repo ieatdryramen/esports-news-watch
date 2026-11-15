@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T04:00:32.877Z",
+  "generatedAt": "2026-11-15T05:00:38.108Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 13,
       "stories": [
         {
           "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
@@ -45,17 +45,6 @@
           ]
         },
         {
-          "title": "Got false flagged by VAC the other day",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwld66/got_false_flagged_by_vac_the_other_day/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T03:36:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vac"
-          ]
-        },
-        {
           "title": "The moment the Astralis era almost never began.",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwk8ff/the_moment_the_astralis_era_almost_never_began/",
           "source": "r/GlobalOffensive",
@@ -65,17 +54,6 @@
           "why": [
             "won*",
             "astralis"
-          ]
-        },
-        {
-          "title": "why am i losing significantly more elo on my losses than the amount gained on my wins",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwhna2/why_am_i_losing_significantly_more_elo_on_my/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T00:23:59.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
           ]
         },
         {
@@ -144,6 +122,26 @@
           "why": [
             "ropz"
           ]
+        },
+        {
+          "title": "yuurih: \"I really want to thank Falcons for their fair play\"",
+          "url": "https://www.hltv.org/news/45992/yuurih-i-really-want-to-thank-falcons-for-their-fair-play",
+          "source": "HLTV news",
+          "published": "2026-11-14T15:53:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "furia*"
+          ]
+        },
+        {
+          "title": "Short news: Week 44",
+          "url": "https://www.hltv.org/news/45949/short-news-week-44",
+          "source": "HLTV news",
+          "published": "2026-11-14T21:03:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -175,17 +173,6 @@
           ]
         },
         {
-          "title": "Team Liquid And 1win Team Bomb Out – 1win Essence III Group Stage Results",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmdLREhnci0xNk1Bbl9RdHZsT1daTFhCZVlCN0hJdGxNNFlvYXpCaEpwc2VKTUtEcVNkYzdkVXVqY09qMS14Y0MzNGR5TjcyNWZ2OTBIUzhRR1R1bDJlbXkwYWJWQTdKLXZZQmN2cWJmcDEtUk5wdkcxYVROc3dlbXBzdHZ0UDJYVnZkQ1lxTkVUYVFBN3FQYmFULWFPXzl5WVNCc3p4MmNfcXM?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-15T03:26:35.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
           "title": "Just encountered some kind of cheat today",
           "url": "https://www.reddit.com/r/DotA2/comments/1xwgw2l/just_encountered_some_kind_of_cheat_today/",
           "source": "r/DotA2",
@@ -194,17 +181,6 @@
           "level": null,
           "why": [
             "cheat"
-          ]
-        },
-        {
-          "title": "FaZe Clan sweep Yuzus’ Falcons to reach BLAST R6 Major Osaka final against DarkZero",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmptR1pyYTB2MVBvYktFOUw0OGVONEE1azFQRnR6SFp2RG56RE9oc2pjd1BPQ0NnTXdUMWhhV2pVckF0VDhkVHRVTE13d1dDdjlGUURONlVkVXFRMmVfMXFndmJfLTNNTTdvTTAwaFJxTS1rWVFMM2o5MVlzajBiOS1KZWc0QXU5YVJzZlY5UGpaVlRMdEZVeFhpWjNJQ2dndWRWc2o0Zi1OOUtqc0h1UW4ySjFtR3MyZ3c5LXJ3?oc=5",
-          "source": "Google News: Dota (Esports News UK)",
-          "published": "2026-11-14T11:28:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "falcons"
           ]
         },
         {
@@ -235,6 +211,28 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "XE - P9, November 15, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-14T17:20:41.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
+          "title": "CR - RE, November 15, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXQtVEdxM1FTMFZvaWFwRHlVb3E5aGJFSEw0LVNhay02QWV5aDVjWG54QXlBQWlHODRWV2hmUWlVMjY5UEdyTGFLb29reEZycnVlWkNEa2Y4MUVscE43ZFB3QjdTUEJKSHVkWGpDS0FubVZmSGZUWWRLaTlOWVNWLUR5TjliakdHRjNPc1BORlY1WDJ6SEhCU2ZWVFNtV2tjOVZqc0pmSUE4VWNlLUcxcmowSVhqUQ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-14T14:31:59.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         },
         {
           "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
@@ -352,32 +350,6 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Anyone else getting falsely banned? Mac ladder",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xw5u54/anyone_else_getting_falsely_banned_mac_ladder/",
-          "source": "r/aoe2",
-          "published": "2026-11-14T15:59:06.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned"
-          ]
-        },
-        {
-          "title": "Mountain Royals is done. Good DLC.",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xw6mrr/mountain_royals_is_done_good_dlc/",
-          "source": "r/aoe2",
-          "published": "2026-11-14T16:31:50.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CoD",
       "storyCount": 1,
       "stories": [
@@ -392,6 +364,23 @@
             "abezy",
             "hydra",
             "ghosty"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "AoE2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Anyone else getting falsely banned? Mac ladder",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xw5u54/anyone_else_getting_falsely_banned_mac_ladder/",
+          "source": "r/aoe2",
+          "published": "2026-11-14T15:59:06.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "banned"
           ]
         }
       ]

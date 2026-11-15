@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-11-15T04:30:29.092Z",
+  "generatedAt": "2026-11-15T05:00:27.050Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1741745",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Cactus League Season 4: Ranking Battle Edition #2",
+      "event": "Cactus League Season 4: Ranking Battle Edition #2 - 3rd Strike",
+      "entrants": 22,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T23:00:00.000Z",
+      "endAt": "2026-11-15T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/cactus-league-season-4-ranking-battle-edition-2/event/cactus-league-season-4-ranking-battle-edition-2-3rd-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ReNiC"
+        },
+        {
+          "placement": 2,
+          "name": "Bling"
+        },
+        {
+          "placement": 3,
+          "name": "BMXer3S"
+        },
+        {
+          "placement": 4,
+          "name": "J M E"
+        },
+        {
+          "placement": 5,
+          "name": "El Guapo"
+        },
+        {
+          "placement": 5,
+          "name": "HN | O.FAKA"
+        },
+        {
+          "placement": 7,
+          "name": "Zee"
+        },
+        {
+          "placement": 7,
+          "name": "RickyRozayyy"
+        }
+      ]
+    },
+    {
+      "eventId": "1741755",
+      "scene": "streetfighter",
+      "game": "Super Street Fighter II Turbo",
+      "tournament": "Cactus League Season 4: Ranking Battle Edition #2",
+      "event": "Cactus League Season 4: Ranking Battle Edition #2 - Super Street Fighter II Turbo",
+      "entrants": 19,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T23:00:00.000Z",
+      "endAt": "2026-11-15T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/cactus-league-season-4-ranking-battle-edition-2/event/cactus-league-season-4-ranking-battle-edition-2-super-street-fighter-ii-turbo",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "BMXer3S"
+        },
+        {
+          "placement": 2,
+          "name": "HN | O.FAKA"
+        },
+        {
+          "placement": 3,
+          "name": "VMP | ActionHank"
+        },
+        {
+          "placement": 4,
+          "name": "HN | DeepExhale"
+        },
+        {
+          "placement": 5,
+          "name": "J M E"
+        },
+        {
+          "placement": 5,
+          "name": "PierceNightmare"
+        },
+        {
+          "placement": 7,
+          "name": "SeeSee"
+        },
+        {
+          "placement": 7,
+          "name": "MateoHavel"
+        }
+      ]
+    },
     {
       "eventId": "1752460",
       "scene": "tekken",
@@ -251,19 +345,6 @@
       "startAt": "2026-11-14T19:00:00.000Z",
       "endAt": "2026-11-15T04:00:00.000Z",
       "url": "https://www.start.gg/tournament/bopme-xxx/event/melee-singles"
-    },
-    {
-      "eventId": "1756172",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "PSU FGC #34: FA26 Week 12",
-      "event": "Back in my days...",
-      "entrants": 18,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-15T00:00:00.000Z",
-      "endAt": "2026-11-15T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/psu-fgc-34-fa26-week-12/event/back-in-my-days"
     }
   ],
   "upcoming": [
@@ -305,6 +386,19 @@
       "startAt": "2026-11-21T18:00:00.000Z",
       "endAt": "2026-11-22T04:00:00.000Z",
       "url": "https://www.start.gg/tournament/taking-back-tampa-the-movie/event/melee-singles"
+    },
+    {
+      "eventId": "1748200",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "A DIY Friendsgiving",
+      "event": "DIY 3s Singles",
+      "entrants": 18,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-22T00:00:00.000Z",
+      "endAt": "2026-11-22T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/a-diy-friendsgiving/event/diy-3s-singles"
     }
   ],
   "games": {
