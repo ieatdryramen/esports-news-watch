@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T11:05:15.356Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Furia beats Team spirit 3-0 and are champions of Blast Rivals Hong Kong 2026!",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsruu/furia_beats_team_spirit_30_and_are_champions_of/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "champions",
+        "spirit",
+        "furia",
+        "blast",
+        "reddit only"
+      ],
+      "summary": "submitted by /u/_player-3 to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-15T11:01:22.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T10:30:21.877Z",
       "level": "possible",
       "scene": "CS2",
