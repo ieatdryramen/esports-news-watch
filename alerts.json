@@ -1,6 +1,28 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T21:10:21.761Z",
+      "level": "possible",
+      "scene": "Halo",
+      "title": "Kraken Seas vs Burn the Ships Series Results | Elimination Semifinals | LVT Halo Pro League $100k LAN",
+      "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xx6ukk/kraken_seas_vs_burn_the_ships_series_results/",
+      "source": "r/CompetitiveHalo",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 8,
+      "why": [
+        "ban*",
+        "wins*",
+        "champions*",
+        "eliminated*",
+        "reverse sweep*",
+        "reddit only"
+      ],
+      "summary": "Kraken Seas defeat Burn the Ships in an incredible 4-3 reverse sweep to secure top 3. Burn the Ships are eliminated at top 4 and get $10,000. This was a really exciting start to Champ Sunday in the $100,000 Pro League LAN. Burn the Ships had all the momentum to start, winning the first three maps. The map 2 Live Fire Slayer was especially dominant, a 50-25 steaktacular win for BTS with Acid getting a Killing Frenzy and having an amazing 20-5 scoreline. Kraken got a much needed win in map 4 and continued that momentum for the rest of the series earning a reverse sweep. Two of Kraken's wins came in Slayers, which has been a weak point for their team earlier in the tournament (Kraken lost all three Slayers to BTS on Friday). Lucid secured the game 7 win with an impressive 21-8 scoreline. Congrats to Kraken! The next matchup is the one everyone wants to see: TSM vs Shopify Rebellion in the Winners Finals. TSM are looking like a real threat to the champions - they've beat them in an online tournament, beat them in scrims, and looked phenomenal in their LAN debut with Legend yesterday. Map Picks and Bans Kuhlect on Kraken Seas and coach Thug Nasty of Burn the Ships did the picks/bans for their team. Kraken being higher seed chose Team B (gets to ban first OBJ map), BTS being team A picked KOTH Map 1 Kraken bans Recharge KOTH, BTS picked Lattice KOTH, Kraken pick Eagle side Map 3 Kraken picks Oddball, BTS bans Streets Ball, Kraken picks Live Fire Ball, BTS picks Cobra side Map 4 BTS",
+      "published": "2026-11-15T21:09:52.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T15:35:16.515Z",
       "level": "breaking",
       "scene": "CS2",
