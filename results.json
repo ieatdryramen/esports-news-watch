@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:30:21.418Z",
+  "generatedAt": "2026-11-15T10:00:25.824Z",
   "source": "start.gg",
   "completed": [
     {
@@ -349,17 +349,17 @@
   ],
   "upcoming": [
     {
-      "eventId": "1734139",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "[ANNULÉ] Kayane Session - Novembre 2026",
-      "event": "Session Freeplay TEKKEN 8 + Ladder",
-      "entrants": 100,
-      "online": false,
+      "eventId": "1750564",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "takeraCUP〈マスター以下限定〉 #8",
+      "event": "takeraCUP〈マスター以下限定〉",
+      "entrants": 128,
+      "online": true,
       "major": false,
-      "startAt": "2026-11-15T10:00:00.000Z",
-      "endAt": "2026-11-15T18:00:00.000Z",
-      "url": "https://www.start.gg/tournament/annul-kayane-session-novembre-2026/event/session-freeplay-tekken-8-ladder"
+      "startAt": "2026-11-16T11:00:00.000Z",
+      "endAt": "2026-11-16T14:00:00.000Z",
+      "url": "https://www.start.gg/tournament/takeracup-8/event/takeracup"
     },
     {
       "eventId": "1673800",
