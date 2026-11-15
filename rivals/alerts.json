@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T14:58:01.492Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "did sentinels disband or are they just reforming their roster?",
+      "url": "https://www.reddit.com/r/MarvelRivalsEsports/comments/1xwwlk2/did_sentinels_disband_or_are_they_just_reforming/",
+      "source": "r/MarvelRivalsEsports",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6.5,
+      "why": [
+        "roster",
+        "shutting down*",
+        "sentinels"
+      ],
+      "summary": "noticed flamay and eusher are LFT, is sen rivals shutting down or are they getting new players? submitted by /u/batfl to r/MarvelRivalsEsports [link] [comments]",
+      "published": "2026-11-15T14:17:39.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T03:05:22.951Z",
       "level": "possible",
       "scene": "Marvel Rivals",
