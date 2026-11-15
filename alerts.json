@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T06:35:18.192Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "Live updates from BLAST Rivals grand final",
+      "url": "https://www.hltv.org/news/45993/live-updates-from-blast-rivals-grand-final",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 7,
+      "why": [
+        "grand final",
+        "spirit*",
+        "furia*",
+        "blast"
+      ],
+      "summary": "Keep up with the storylines and action as FURIA take on Spirit for the penultimate trophy of the season.",
+      "published": "2026-11-15T06:30:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T01:30:24.439Z",
       "level": "possible",
       "scene": "AoE2",
