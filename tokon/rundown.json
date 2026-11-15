@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T22:10:22.583Z",
+  "generatedAt": "2026-11-15T23:10:28.469Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Marvel Tōkon's First Dlc Fighter Is Phoenix Cyclops From The Avengers Vs. X-Men Comics",
@@ -16,15 +16,6 @@
           "why": [
             "dlc"
           ]
-        },
-        {
-          "title": "Marvel Tokon: Fighting Souls (2026)",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeUtlWmJBSWR4bXJfQkt3dzN1TGk3WWlZY0JwOUhiY1BQMUItNmxyWC03NEt0LWM3ei1CTFRraTBxNGxUVjJRemJJZjJGX1p3dTBqVW1MZkFUQkpaellKNDl4ZGtTcjZRYUxVY1J3OFVkZUxGUHVNY0VveXd1S3N5cm5SM1Nidw?oc=5",
-          "source": "Google News: Tokon (IMDb)",
-          "published": "2026-11-14T22:54:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
