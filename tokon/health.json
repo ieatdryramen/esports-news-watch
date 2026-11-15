@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:15:21.655Z",
+  "generatedAt": "2026-11-15T22:10:22.173Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -14,7 +14,7 @@
       "ok": true,
       "skipped": false,
       "items": 50,
-      "newest": "2026-11-15T20:11:19.000Z",
+      "newest": "2026-11-15T21:26:04.000Z",
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-15T16:56:35.000Z",
+      "newest": "2026-11-15T21:22:04.000Z",
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-15T20:20:09.000Z",
+      "newest": "2026-11-15T21:53:00.000Z",
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "ok": true,
       "skipped": false,
       "items": 1,
-      "newest": "2026-11-15T13:43:07.000Z",
+      "newest": "2026-11-15T13:43:18.000Z",
       "error": null
     },
     {
@@ -93,8 +93,8 @@
       "name": "Google News: EventHubs/Dot/Dashfight",
       "ok": true,
       "skipped": false,
-      "items": 2,
-      "newest": "2026-11-15T13:43:07.000Z",
+      "items": 1,
+      "newest": "2026-11-15T13:43:18.000Z",
       "error": null
     },
     {
