@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T13:00:40.889Z",
+  "generatedAt": "2026-11-15T14:00:41.289Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 28,
+      "storyCount": 33,
       "stories": [
         {
           "title": "FaZe vs fnatic / PGL Cluj-Napoca 2027 Closed Qualifier - Upper Bracket Quarter-Final / Post-Match Discussion",
@@ -120,6 +120,19 @@
           ]
         },
         {
+          "title": "FURIA sweep Team Falcons to set up BLAST Rivals Fall 2026 final with Spirit",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3NmeGg4QTFyX0hmdWNvdnNWMnpFSnRRZlFQRE9vSnozQmU2VTVWY0JVQnYxLU12WU54UHlWTjR2ZnpETFdMck4zN1ZXOUJzSXFTSElKODNiZWtNcThVZU5FbDIzUFlDUFVDNjBTN3djdDRDaUpxQ2J5RnVSUWltQ3dOZFBpbVhwZW53YTN6dVZmcGp4VVB3MUxfeWdYRWp5OHZyc2lOZUpVb0hVOUl6QmlvOGo?oc=5",
+          "source": "Google News: CS2 (Esports News UK)",
+          "published": "2026-11-15T09:08:25.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "furia",
+            "blast"
+          ]
+        },
+        {
           "title": "magixx on the 0-3: Spirit hadn't played Dust2 once at the event before the final",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwu9yv/magixx_on_the_03_spirit_hadnt_played_dust2_once/",
           "source": "r/GlobalOffensive",
@@ -159,26 +172,38 @@
             "vitality*",
             "furia"
           ]
-        },
-        {
-          "title": "blast complaint?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsgd2/blast_complaint/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T10:41:14.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "spirit*",
-            "furia*",
-            "blast"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Thaiger Uppercut 2026 Champion [Final TWT 2026 Master Event]",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xwvm85/thaiger_uppercut_2026_champion_final_twt_2026/",
+          "source": "r/Tekken",
+          "published": "2026-11-15T13:34:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "champion",
+            "knee*",
+            "atif*"
+          ]
+        },
+        {
+          "title": "Atif's Bob speedrun in TGU grand finals",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xww5od/atifs_bob_speedrun_in_tgu_grand_finals/",
+          "source": "r/Tekken",
+          "published": "2026-11-15T13:58:52.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "grand finals",
+            "atif"
+          ]
+        },
         {
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
@@ -193,6 +218,15 @@
             "rangchu",
             "-stream"
           ]
+        },
+        {
+          "title": "13-year-old finishes 25th out of 187 in global Tekken tournament",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTRNdC1SbFFRR05yWHpLbF9GbEtNZi0ta01wUUktTEVYMTJlTHlCVjhjSlFiQ2d1c2RMQWRBLVpNVG9LekpDSXd1UGEzZFFQR3IxTEpHTS1TNm1IYTZCeHBNUFI4UWdPZ0pjZk1IVzJ4OU5td1RQTHctRFpXLWtUREhINkluSFhva0h2OTRjbjdkb2Q0cG9XcVpmLUJ4U3VDYVZJT0h30gGrAUFVX3lxTE84eU9HaVNHV2ZNZ1ZEd3VyMG96TncyZk5DaXEwWVB4SzhDTnNlWjZZOVdwV3JJM3FhbVJJWTJjRFBXTGM4OUs3aWF2TWpNYlhnbGt6SkNSTjVhbUJ5cjV0NjdvZHJLM2xOUnk5d3gzWUc4am95Q1Q4QVdUTlVlak5MZU83bjVYUm90WEdmbXpaMUd1RmFrcmVKVnpfdWstUVVhNEpYbm1HdnFxaw?oc=5",
+          "source": "Google News: Tekken (Inquirer Technology)",
+          "published": "2026-11-15T13:21:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "13-year-old Tekken player beats pro PINYA at Tekken World Tour event",
@@ -247,7 +281,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
@@ -259,6 +293,15 @@
           "why": [
             "prize pool"
           ]
+        },
+        {
+          "title": "I lowkey skip GTA6 if Underlord give a patch. Don't test me bro, Don't you f dare!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwvcow/i_lowkey_skip_gta6_if_underlord_give_a_patch_dont/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T13:20:58.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "FPS drops every time I click LMB – is this a known bug? (InputSystem / SDL event issue)",
@@ -281,39 +324,10 @@
           ]
         },
         {
-          "title": "If you played League, what features or spell interactions do you wish existed in Dota?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwog0z/if_you_played_league_what_features_or_spell/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T06:29:55.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Apparently, League is going to add a facet system.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwn14g/apparently_league_is_going_to_add_a_facet_system/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T05:07:48.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "XE - P9, November 15, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
           "source": "Google News: Dota (escorenews.com)",
           "published": "2026-11-14T17:20:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUo0dlFZblBjT2VoQWdSbWk3M0UyaWF5LVNYdTI1cy1hZDZUX0xvM1RhcGNodUpDa194SnljUDF2Z1licE9jZTJQQlFIRk81TVNDbjdERFVjd3RUZjJXUU5SZW9OZFRNSFZkdzNqTi02Mi0yQ1N3TVF3amlCbFlxc2EyMUdMelR2VFY1TDZTYWR1dFh4VEoyaVVtT1FkSlR4RmJmMw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-14T13:39:41.000Z",
           "score": 0,
           "level": null,
           "why": [

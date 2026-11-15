@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-15T13:30:24.451Z",
+  "generatedAt": "2026-11-15T14:00:25.649Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1591654",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TGU 2026",
+      "event": "TEKKEN 8 : TWT Master",
+      "entrants": 187,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T03:30:00.000Z",
+      "endAt": "2026-11-15T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tgu-2026/event/tekken-8-twt-master",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Falcons | ATIF"
+        },
+        {
+          "placement": 2,
+          "name": "NIP | Meo-IL"
+        },
+        {
+          "placement": 3,
+          "name": "GEN | Mulgold"
+        },
+        {
+          "placement": 4,
+          "name": "Virtus.pro | Mangja"
+        },
+        {
+          "placement": 5,
+          "name": "WBG | XCC"
+        },
+        {
+          "placement": 5,
+          "name": "KRX | Crescent"
+        },
+        {
+          "placement": 7,
+          "name": "AK"
+        },
+        {
+          "placement": 7,
+          "name": "KIWOOM DRX | KNEE"
+        }
+      ]
+    },
     {
       "eventId": "1645737",
       "scene": "streetfighter",
@@ -428,19 +475,6 @@
   ],
   "live": [
     {
-      "eventId": "1591654",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TGU 2026",
-      "event": "TEKKEN 8 : TWT Master",
-      "entrants": 187,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T03:30:00.000Z",
-      "endAt": "2026-11-15T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/tgu-2026/event/tekken-8-twt-master"
-    },
-    {
       "eventId": "1679364",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -461,7 +495,7 @@
       "game": "Street Fighter 6",
       "tournament": "takeraCUP〈マスター以下限定〉 #8",
       "event": "takeraCUP〈マスター以下限定〉",
-      "entrants": 130,
+      "entrants": 131,
       "online": true,
       "major": false,
       "startAt": "2026-11-16T11:00:00.000Z",
