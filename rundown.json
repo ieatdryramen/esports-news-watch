@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:00:38.108Z",
+  "generatedAt": "2026-11-15T06:00:43.177Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -103,7 +103,7 @@
         },
         {
           "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU5GVXhSeTZnRlY1R05uQ3FNWTEzSDl3LVRoZW1lWUtwSUFqMjVyTWpDd2tyVmpxaURob0lNN2NpbjlZWHlXN1AtRk9wVXB6bklJdHVReXpCXzRSaWI3enFTUVdIOEpEY2t2WFF5VVhGRGdiQXhSekp0YlB3cFV5NmdZQWxoWktJazZaQVlsTzBPVjk3a1RaMTBJcDJOREhoSWRHb1BnbnF3UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlTNzNSQ3o3QnFiZTJESVJOQVJiRVhfc3FDOUNKS2Q5MWF4ZnFjeVJtQkp4VzZsVVhEc3RnbjRUQ2QtQlp6U0xERVhYQmNPSzVVeFEtSnNzcW1rSVc2MHc0NzloN0JMZnl0eXBrb2lxY3FGVlZzUUtRZnlIRHhEdEFvU2FJLVp4MmdLaGtOQ19OZkVpTlJtQUFEMExkbHF0dFdPN3Y4M3Awckh3YzJNWjVTbkYzOHRtUDVNUGVmajZ4QQ?oc=5",
           "source": "Google News: CS2 (HardwareZone)",
           "published": "2026-11-14T07:43:17.000Z",
           "score": 3,
@@ -184,15 +184,24 @@
           ]
         },
         {
-          "title": "Ryvex Esports Dota 2 Team | Ryvex Esports Matches, Roster, & Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02OXlRN0JrY2ZHaHQxN3pCdk5hSTV5bkhES3k1N3Y5MHhRdV9ZLXdiM0tCVUliSjBBUGo3RGlkbUdFcXE3aEJTTWRfaDVoOWM3MkN1NVEzME1pUmVRWXlOWTZn?oc=5",
-          "source": "Google News: Dota (GosuGamers)",
-          "published": "2026-11-14T05:38:46.000Z",
-          "score": 3,
+          "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-15T05:33:43.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "roster"
+            "prize pool"
           ]
+        },
+        {
+          "title": "Apparently, League is going to add a facet system.",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwn14g/apparently_league_is_going_to_add_a_facet_system/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T05:07:48.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "What other games do you play while waiting for another big patch/event?",
@@ -217,17 +226,6 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
           "source": "Google News: Dota (escorenews.com)",
           "published": "2026-11-14T17:20:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "CR - RE, November 15, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXQtVEdxM1FTMFZvaWFwRHlVb3E5aGJFSEw0LVNhay02QWV5aDVjWG54QXlBQWlHODRWV2hmUWlVMjY5UEdyTGFLb29reEZycnVlWkNEa2Y4MUVscE43ZFB3QjdTUEJKSHVkWGpDS0FubVZmSGZUWWRLaTlOWVNWLUR5TjliakdHRjNPc1BORlY1WDJ6SEhCU2ZWVFNtV2tjOVZqc0pmSUE4VWNlLUcxcmowSVhqUQ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-14T14:31:59.000Z",
           "score": 0,
           "level": null,
           "why": [
@@ -301,7 +299,7 @@
     },
     {
       "scene": "Halo",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Kraken Seas vs Fatal Ambition Series Results | Elimination Quarterfinals | LVT Halo Pro League $100k LAN | Day 2",
@@ -337,15 +335,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "AB League teammates",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwemy4/ab_league_teammates/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-14T22:05:33.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -364,23 +353,6 @@
             "abezy",
             "hydra",
             "ghosty"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Anyone else getting falsely banned? Mac ladder",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xw5u54/anyone_else_getting_falsely_banned_mac_ladder/",
-          "source": "r/aoe2",
-          "published": "2026-11-14T15:59:06.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned"
           ]
         }
       ]
@@ -441,6 +413,7 @@
     }
   ],
   "quiet": [
+    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
