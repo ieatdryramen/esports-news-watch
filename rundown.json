@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T14:00:41.289Z",
+  "generatedAt": "2026-11-15T14:57:56.384Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -67,6 +67,18 @@
           ]
         },
         {
+          "title": "FURIA defend their BLAST Hong Kong crown in front of raucous AsiaWorld-Arena",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlJNS0hWSTlTdnFNdmRmMDhtTmM0bk5NZUlrVUxBTW9xNmdwbm96RWtyZERFM0NVY3BqQXJBek8tWE4xd1FEMDFKSXQtbDRFR25ZMERZZ2I4V3ltWkl2NjVPaDUyOElBVmtiUDZsZTFqT25QX3pKeGpsODdkemthR3p1cmRGa05YYkt2akxlNXdyc2xGMVZrTVBCbTNiWlJOM1JBRWxWZEdJX3JZVk9WQW5rUU1ha3UxT0dXN0hLZjkxY2VfbHVj0gHHAUFVX3lxTFB6OUFzZ1FKOVhrWmt3cDlheUcwMVhjWnJUekZ5YWk4eUpETnZTQndFRjBtWHY4OXdBUnQ1d2kxa0dZdmhVR2ZMZnExaU90TGtuX1NTVWd3WnNmUE9YQm1NdHhvNENGOURINnFSTThfZEFGdVhXV2daTjBNZ0JpRTNaWmF1Z2tWTVRDd2ZKTTNuTmlXRjhSZk1yelpXbzRGQ1FtcXJQcmg0NWtBaWVuTGlueG12aEw0eGI1OGhrQmM3UUhrQklQQzA?oc=5",
+          "source": "Google News: CS2 (South China Morning Post)",
+          "published": "2026-11-15T14:00:12.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "furia",
+            "blast"
+          ]
+        },
+        {
           "title": "2025 2nd season vs 2026 2nd season",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwttej/2025_2nd_season_vs_2026_2nd_season/",
           "source": "r/GlobalOffensive",
@@ -120,19 +132,6 @@
           ]
         },
         {
-          "title": "FURIA sweep Team Falcons to set up BLAST Rivals Fall 2026 final with Spirit",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3NmeGg4QTFyX0hmdWNvdnNWMnpFSnRRZlFQRE9vSnozQmU2VTVWY0JVQnYxLU12WU54UHlWTjR2ZnpETFdMck4zN1ZXOUJzSXFTSElKODNiZWtNcThVZU5FbDIzUFlDUFVDNjBTN3djdDRDaUpxQ2J5RnVSUWltQ3dOZFBpbVhwZW53YTN6dVZmcGp4VVB3MUxfeWdYRWp5OHZyc2lOZUpVb0hVOUl6QmlvOGo?oc=5",
-          "source": "Google News: CS2 (Esports News UK)",
-          "published": "2026-11-15T09:08:25.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "furia",
-            "blast"
-          ]
-        },
-        {
           "title": "magixx on the 0-3: Spirit hadn't played Dust2 once at the event before the final",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwu9yv/magixx_on_the_03_spirit_hadnt_played_dust2_once/",
           "source": "r/GlobalOffensive",
@@ -177,18 +176,18 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
-          "title": "Thaiger Uppercut 2026 Champion [Final TWT 2026 Master Event]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xwvm85/thaiger_uppercut_2026_champion_final_twt_2026/",
+          "title": "Thaiger Uppercut 2026 Champion",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xwwdt1/thaiger_uppercut_2026_champion/",
           "source": "r/Tekken",
-          "published": "2026-11-15T13:34:00.000Z",
+          "published": "2026-11-15T14:08:20.000Z",
           "score": 5,
           "level": "possible",
           "why": [
+            "won*",
             "champion",
-            "knee*",
             "atif*"
           ]
         },
@@ -236,15 +235,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "TWT 2026: TGU 2026 - Top 48 & Top 8 Livestream (November 15, 2026) [Final TWT 2026 Master Event]",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xwpcr3/twt_2026_tgu_2026_top_48_top_8_livestream/",
-          "source": "r/Tekken",
-          "published": "2026-11-15T07:24:42.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -281,7 +271,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
@@ -292,6 +282,17 @@
           "level": null,
           "why": [
             "prize pool"
+          ]
+        },
+        {
+          "title": "Posting shitty memes about new favorite child until we get an update DAY 2",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwwujc/posting_shitty_memes_about_new_favorite_child/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T14:28:15.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -338,7 +339,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "The ending led to \"Invite to Custom Room\"",
@@ -362,15 +363,6 @@
             "justin wong",
             "-stream"
           ]
-        },
-        {
-          "title": "Olivier Richters, Zangief From ‘Street Fighter’, Enters ‘Street Fighter 6’ Tournament and Plays Zangief",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkMtblFQLXg1YVJnalFEc1pGb01ldmMxRktpV2pmbm5YdnZKaUZqQm1Sc3F1NEFKNUNPREV6M241Yy1SRTlacHBXSUxSYWpRZUlJMkJDMXhWdy1vcFA5Zy14OUJCSE1SMGJ3ZVVHQ1hsMlJQRURfT3h1bnFWRF9IX0JoYm9iZGJaOEpIbUk3N0k0ZXhsSlJjNk54bzBHc2N4anhybG5HQWVNZUlUdWZCajc2Yno2TC1iNjRvZE55NElqSTRkNnZ4V0RDdGFNUWVMTHJ2WU1R?oc=5",
-          "source": "Google News: Street Fighter (Men's Journal)",
-          "published": "2026-11-14T14:37:42.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
