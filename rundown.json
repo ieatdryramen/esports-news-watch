@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-15T14:57:56.384Z",
+  "generatedAt": "2026-11-15T15:55:19.582Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 33,
+      "storyCount": 27,
       "stories": [
+        {
+          "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN1h5alVNX29Sa2ktOHNzR1R0NmZ6VDE2aUdYem0ya3lBTUdOc1RaeWZXQTZjWWh1U0Iya0tqVlRrZE12LUQyanY0NzQyOUNVMUR1bWQwdlRBcVZnYUhGcWs3ck1IV05jMTM4M1JWN3RQeGVyZFhpMFZ5Wk0xdFppWk9iNTRiWHpkWkxWa1U1NTI2dGloNnlNSVY0UGdmMVRTTUtiRHUybW43TjFMRklmUTBLWjVnMl9veG5rbnh4M3MwbVh6bXduTlFhYm1PT25CV2FORm4yOThNclc4ZEg2SlVLYlZYVkdUS1oyLXBMOFNvbExkMWotUU1uVF9XWkNmN1VOSmxfNUJraGdtNzZiMXZxOVNER2E2NWfSAZ8CQVVfeXFMTXI2djlZa2tUX1gzVE84S2lCektXTTdlWUVOdVBKNUZwSUVMb183WDdxa1hOTU5GMXZjdzFtTDFHZ1pCLUZQV1RKdTg3QzZpYmxGNkZQZkszZS1ka3VoVTVmSVZFd3NGQnhJMy1IREl6blRQVmRfUVlkSEViLVlHZ3VCajBlRm9UdFh6VENWWUZQM0JiYzl1dmVkV2pDUnIyRm1WcVcyX2FBN1BDOU1hSnVfR3B2TGNpdkY5VWlXb2JDN1B6dTNscmo2dlBGTmJHTERVZUc4Z2VmNHBNTEpJQUI5NUZScThQQ3g2UDhGXzQydlBzTkRpY1JqS2I2cGtSd2ctNDJqX3BlbE9ndERYdUdGSmZQb1V5RTFKZ0dNbk0?oc=5",
+          "source": "Google News: CS2 (The Manila Times)",
+          "published": "2026-11-15T15:44:53.000Z",
+          "score": 12,
+          "level": "breaking",
+          "why": [
+            "champions",
+            "crowned",
+            "furia",
+            "blast"
+          ]
+        },
         {
           "title": "FaZe vs fnatic / PGL Cluj-Napoca 2027 Closed Qualifier - Upper Bracket Quarter-Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwupr2/faze_vs_fnatic_pgl_clujnapoca_2027_closed/",
@@ -67,18 +81,6 @@
           ]
         },
         {
-          "title": "FURIA defend their BLAST Hong Kong crown in front of raucous AsiaWorld-Arena",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlJNS0hWSTlTdnFNdmRmMDhtTmM0bk5NZUlrVUxBTW9xNmdwbm96RWtyZERFM0NVY3BqQXJBek8tWE4xd1FEMDFKSXQtbDRFR25ZMERZZ2I4V3ltWkl2NjVPaDUyOElBVmtiUDZsZTFqT25QX3pKeGpsODdkemthR3p1cmRGa05YYkt2akxlNXdyc2xGMVZrTVBCbTNiWlJOM1JBRWxWZEdJX3JZVk9WQW5rUU1ha3UxT0dXN0hLZjkxY2VfbHVj0gHHAUFVX3lxTFB6OUFzZ1FKOVhrWmt3cDlheUcwMVhjWnJUekZ5YWk4eUpETnZTQndFRjBtWHY4OXdBUnQ1d2kxa0dZdmhVR2ZMZnExaU90TGtuX1NTVWd3WnNmUE9YQm1NdHhvNENGOURINnFSTThfZEFGdVhXV2daTjBNZ0JpRTNaWmF1Z2tWTVRDd2ZKTTNuTmlXRjhSZk1yelpXbzRGQ1FtcXJQcmg0NWtBaWVuTGlueG12aEw0eGI1OGhrQmM3UUhrQklQQzA?oc=5",
-          "source": "Google News: CS2 (South China Morning Post)",
-          "published": "2026-11-15T14:00:12.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "furia",
-            "blast"
-          ]
-        },
-        {
           "title": "2025 2nd season vs 2026 2nd season",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwttej/2025_2nd_season_vs_2026_2nd_season/",
           "source": "r/GlobalOffensive",
@@ -120,18 +122,6 @@
           ]
         },
         {
-          "title": "Vac live is to fast!",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwr4ox/vac_live_is_to_fast/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T09:17:13.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "cheater*",
-            "vac"
-          ]
-        },
-        {
           "title": "magixx on the 0-3: Spirit hadn't played Dust2 once at the event before the final",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwu9yv/magixx_on_the_03_spirit_hadnt_played_dust2_once/",
           "source": "r/GlobalOffensive",
@@ -170,6 +160,19 @@
             "the last*",
             "vitality*",
             "furia"
+          ]
+        },
+        {
+          "title": "blast complaint?",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsgd2/blast_complaint/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T10:41:14.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "spirit*",
+            "furia*",
+            "blast"
           ]
         }
       ]
@@ -271,7 +274,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
@@ -305,15 +308,6 @@
           "why": []
         },
         {
-          "title": "FPS drops every time I click LMB – is this a known bug? (InputSystem / SDL event issue)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwr2h2/fps_drops_every_time_i_click_lmb_is_this_a_known/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T09:13:18.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "CR - RE, November 15, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXQtVEdxM1FTMFZvaWFwRHlVb3E5aGJFSEw0LVNhay02QWV5aDVjWG54QXlBQWlHODRWV2hmUWlVMjY5UEdyTGFLb29reEZycnVlWkNEa2Y4MUVscE43ZFB3QjdTUEJKSHVkWGpDS0FubVZmSGZUWWRLaTlOWVNWLUR5TjliakdHRjNPc1BORlY1WDJ6SEhCU2ZWVFNtV2tjOVZqc0pmSUE4VWNlLUcxcmowSVhqUQ?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -339,7 +333,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "The ending led to \"Invite to Custom Room\"",
@@ -363,6 +357,15 @@
             "justin wong",
             "-stream"
           ]
+        },
+        {
+          "title": "Hosting a fighting game tournament on Hardcore Ninjas server!",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xwysc1/hosting_a_fighting_game_tournament_on_hardcore/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-15T15:49:48.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
