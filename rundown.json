@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-15T06:00:43.177Z",
+  "generatedAt": "2026-11-15T06:55:34.482Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 9,
       "stories": [
         {
-          "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzM2TzJOZUFXQV9jcW9LRjJ6Ui00bWt5N002dzFEY2NPTUU4ZzF4aDhRNzRDQ3JDRlN2cW11UFBWbk5VX1gtdmF2cmJ0dXNaRFoyNEFOUFRDT3ZsRU01VTYxRzdKN0Nlc0puMHlPWThhbXNQSXpEaU56UHhmRTZTWlJHbXdzNUV4bmFnZEdwMnNaV012NFJxUzJR?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-14T13:50:01.000Z",
+          "title": "Live updates from BLAST Rivals grand final",
+          "url": "https://www.hltv.org/news/45993/live-updates-from-blast-rivals-grand-final",
+          "source": "HLTV news",
+          "published": "2026-11-15T06:30:00.000Z",
           "score": 7,
           "level": "breaking",
           "why": [
             "grand final",
-            "spirit",
-            "furia",
+            "spirit*",
+            "furia*",
             "blast"
           ]
         },
@@ -31,17 +31,6 @@
             "spirit",
             "mouz",
             "blast"
-          ]
-        },
-        {
-          "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3F1QXpFVjFObE54Si13UjVIWk8xMGFiakpLd2dWQWNwek1WZFFvdE5jQzZWenZWaWVxdVkwT1FoNlA0ZXRWVllJZUdfVnMtdDFTVjljVDk3YnIwX1E5bW5zR0hTQjRlcFpfZ3JHLTFTZXFWUmVzVXhveUlKbFlkMGtB?oc=5",
-          "source": "Google News: CS2 (Yahoo News Singapore)",
-          "published": "2026-11-14T13:55:55.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
           ]
         },
         {
@@ -69,17 +58,6 @@
           ]
         },
         {
-          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-14T17:52:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
           "title": "BLAST Rivals semi-finals as they happened",
           "url": "https://www.hltv.org/news/45988/blast-rivals-semi-finals-as-they-happened",
           "source": "HLTV news",
@@ -99,17 +77,6 @@
           "level": null,
           "why": [
             "furia"
-          ]
-        },
-        {
-          "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXlTNzNSQ3o3QnFiZTJESVJOQVJiRVhfc3FDOUNKS2Q5MWF4ZnFjeVJtQkp4VzZsVVhEc3RnbjRUQ2QtQlp6U0xERVhYQmNPSzVVeFEtSnNzcW1rSVc2MHc0NzloN0JMZnl0eXBrb2lxY3FGVlZzUUtRZnlIRHhEdEFvU2FJLVp4MmdLaGtOQ19OZkVpTlJtQUFEMExkbHF0dFdPN3Y4M3Awckh3YzJNWjVTbkYzOHRtUDVNUGVmajZ4QQ?oc=5",
-          "source": "Google News: CS2 (HardwareZone)",
-          "published": "2026-11-14T07:43:17.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
           ]
         },
         {
@@ -147,7 +114,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 6,
       "stories": [
         {
           "title": "SPOILER has been eliminated from 1 win essence 3",
@@ -184,15 +151,13 @@
           ]
         },
         {
-          "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-15T05:33:43.000Z",
-          "score": 2,
+          "title": "If you played League, what features or spell interactions do you wish existed in Dota?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwog0z/if_you_played_league_what_features_or_spell/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T06:29:55.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "prize pool"
-          ]
+          "why": []
         },
         {
           "title": "Apparently, League is going to add a facet system.",
@@ -211,95 +176,12 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Will we ever see a 8.00 patch?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwfn7f/will_we_ever_see_a_800_patch/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T22:51:33.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - P9, November 15, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-14T17:20:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
-          "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUo0dlFZblBjT2VoQWdSbWk3M0UyaWF5LVNYdTI1cy1hZDZUX0xvM1RhcGNodUpDa194SnljUDF2Z1licE9jZTJQQlFIRk81TVNDbjdERFVjd3RUZjJXUU5SZW9OZFRNSFZkdzNqTi02Mi0yQ1N3TVF3amlCbFlxc2EyMUdMelR2VFY1TDZTYWR1dFh4VEoyaVVtT1FkSlR4RmJmMw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-14T13:39:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-14T19:07:03.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "arslan ash",
-            "atif",
-            "lowhigh",
-            "rangchu",
-            "-stream"
-          ]
-        },
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-14T06:45:56.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Hopkick king. Armor hop. Tiger knee. The hopkick machine",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xwfs1q/hopkick_king_armor_hop_tiger_knee_the_hopkick/",
-          "source": "r/Tekken",
-          "published": "2026-11-14T22:57:48.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "knee"
-          ]
-        },
-        {
-          "title": "13-year-old Tekken player beats pro PINYA at Tekken World Tour event",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9HZXlNTy1pNkc4c3VRZ0lHMS1OQkMxdnJUN2N3X05kbTk3S1paMlNnb19iVENRY1dfU1JfUHBYM1poVmNHUXRKMUlnOERPQklsXzdLQ0l6SjJjVkdYRjQ0dVMwUGhXMldPbjdnVzdkajNOb0U5TTlyUlJXR241VG44bjlGVGI1WHJnSTJMWS1oVlhJUnRRWWREQ1FMWW8yUXFIRC1ydHlJVlND?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-14T21:06:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Halo",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Kraken Seas vs Fatal Ambition Series Results | Elimination Quarterfinals | LVT Halo Pro League $100k LAN | Day 2",
@@ -312,19 +194,6 @@
             "ban*",
             "won*",
             "eliminated*"
-          ]
-        },
-        {
-          "title": "TSM vs Burn the Ships Series Results | Winner Semifinals | LVT Halo Pro League $100k LAN | Day 2",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwf1si/tsm_vs_burn_the_ships_series_results_winner/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-14T22:24:06.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "roster*",
-            "won*",
-            "champions*"
           ]
         },
         {
@@ -358,53 +227,25 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 3,
+      "scene": "Tekken",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Street fighter Movie official reaches $100Mil at box office",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xwfb4b/street_fighter_movie_official_reaches_100mil_at/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-14T22:36:07.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "removed*",
-            "official"
-          ]
-        },
-        {
-          "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-14T19:07:03.000Z",
+          "title": "Hopkick king. Armor hop. Tiger knee. The hopkick machine",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xwfs1q/hopkick_king_armor_hop_tiger_knee_the_hopkick/",
+          "source": "r/Tekken",
+          "published": "2026-11-14T22:57:48.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "justin wong",
-            "-stream"
+            "knee"
           ]
         },
         {
-          "title": "Olivier Richters, Zangief From ‘Street Fighter’, Enters ‘Street Fighter 6’ Tournament and Plays Zangief",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkMtblFQLXg1YVJnalFEc1pGb01ldmMxRktpV2pmbm5YdnZKaUZqQm1Sc3F1NEFKNUNPREV6M241Yy1SRTlacHBXSUxSYWpRZUlJMkJDMXhWdy1vcFA5Zy14OUJCSE1SMGJ3ZVVHQ1hsMlJQRURfT3h1bnFWRF9IX0JoYm9iZGJaOEpIbUk3N0k0ZXhsSlJjNk54bzBHc2N4anhybG5HQWVNZUlUdWZCajc2Yno2TC1iNjRvZE55NElqSTRkNnZ4V0RDdGFNUWVMTHJ2WU1R?oc=5",
-          "source": "Google News: Street Fighter (Men's Journal)",
-          "published": "2026-11-14T14:37:42.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Port Priority didn't let a national flight grounding stop its first Melee tourney",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yejY0YU92cTNud2UzSU9FUFlqZzl0MUF2b3FFWmVoVm9nd1d2d0gwdGZFNVh4QS1XbzQwN1pndnVrWTFfbnVTa3dxXy1fUDRyT1VyNTRXaXBUZ2Y4UnJORWdyRmQ5MG9xNFdTOVpkSlA4dm1fMjVxem9tcW5sdw?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-15T03:00:03.000Z",
+          "title": "13-year-old Tekken player beats pro PINYA at Tekken World Tour event",
+          "url": "https://www.dexerto.com/tekken/13-year-old-tekken-player-beats-pro-pinya-at-tekken-world-tour-event-3428240/",
+          "source": "Dexerto",
+          "published": "2026-11-14T21:03:52.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -413,11 +254,13 @@
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "Quake"
   ]
