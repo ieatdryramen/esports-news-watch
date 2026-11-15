@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-15T18:45:20.541Z",
+  "generatedAt": "2026-11-15T19:45:29.844Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 11,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN1h5alVNX29Sa2ktOHNzR1R0NmZ6VDE2aUdYem0ya3lBTUdOc1RaeWZXQTZjWWh1U0Iya0tqVlRrZE12LUQyanY0NzQyOUNVMUR1bWQwdlRBcVZnYUhGcWs3ck1IV05jMTM4M1JWN3RQeGVyZFhpMFZ5Wk0xdFppWk9iNTRiWHpkWkxWa1U1NTI2dGloNnlNSVY0UGdmMVRTTUtiRHUybW43TjFMRklmUTBLWjVnMl9veG5rbnh4M3MwbVh6bXduTlFhYm1PT25CV2FORm4yOThNclc4ZEg2SlVLYlZYVkdUS1oyLXBMOFNvbExkMWotUU1uVF9XWkNmN1VOSmxfNUJraGdtNzZiMXZxOVNER2E2NWfSAZ8CQVVfeXFMTXI2djlZa2tUX1gzVE84S2lCektXTTdlWUVOdVBKNUZwSUVMb183WDdxa1hOTU5GMXZjdzFtTDFHZ1pCLUZQV1RKdTg3QzZpYmxGNkZQZkszZS1ka3VoVTVmSVZFd3NGQnhJMy1IREl6blRQVmRfUVlkSEViLVlHZ3VCajBlRm9UdFh6VENWWUZQM0JiYzl1dmVkV2pDUnIyRm1WcVcyX2FBN1BDOU1hSnVfR3B2TGNpdkY5VWlXb2JDN1B6dTNscmo2dlBGTmJHTERVZUc4Z2VmNHBNTEpJQUI5NUZScThQQ3g2UDhGXzQydlBzTkRpY1JqS2I2cGtSd2ctNDJqX3BlbE9ndERYdUdGSmZQb1V5RTFKZ0dNbk0?oc=5",
-          "source": "Google News: CS2 (The Manila Times)",
-          "published": "2026-11-15T15:44:53.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZVlpdUFKNFhpZFNFWHUzaHptWHdwNmZlM2dCbVRvNVRwRGM0OVdxZzJmcDFtb1RQMXFwTmRRemdCLXB0dXNBcWpaeEFTYnFDbTVhX1lwWlVYeUZoalVfMjNVWXR1akY1NlFLbkVraUdhNkVRQ01wNUtZQ0tmZUxLUTl0dXI4RDBZN2RycU8yOEpDYU5xd0ZwUEVvNUJleWdYTk1JeXktRlltMnY3U0NZblRWVG5pVlNxWEV4alEzdGdteVBtTld3OUVIQmdjWTJ1UllJbzNoNmlnLVliZXR3SGZyRld5cVJsbXIwTFViV0FSOUJr?oc=5",
+          "source": "Google News: CS2 (The Malaysian Reserve)",
+          "published": "2026-11-15T16:42:53.000Z",
           "score": 12,
           "level": "breaking",
           "why": [
@@ -34,20 +34,6 @@
             "faze",
             "pgl",
             "reddit only"
-          ]
-        },
-        {
-          "title": "The BLAST Rivals grand final as it happened",
-          "url": "https://www.hltv.org/news/45993/the-blast-rivals-grand-final-as-it-happened",
-          "source": "HLTV news",
-          "published": "2026-11-15T12:33:00.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "grand final",
-            "spirit*",
-            "furia*",
-            "blast"
           ]
         },
         {
@@ -78,42 +64,6 @@
           ]
         },
         {
-          "title": "FURIA rout Spirit in Hong Kong final to win third trophy in four events",
-          "url": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events",
-          "source": "HLTV news",
-          "published": "2026-11-15T11:11:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "furia"
-          ]
-        },
-        {
-          "title": "magixx on the 0-3: Spirit hadn't played Dust2 once at the event before the final",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwu9yv/magixx_on_the_03_spirit_hadnt_played_dust2_once/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T12:27:32.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "banned*",
-            "spirit"
-          ]
-        },
-        {
-          "title": "BLAST to return to Hong Kong in 2027",
-          "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
-          "source": "HLTV news",
-          "published": "2026-11-15T10:21:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "blast"
-          ]
-        },
-        {
           "title": "Furia might do the funniest thing",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwv3lg/furia_might_do_the_funniest_thing/",
           "source": "r/GlobalOffensive",
@@ -123,17 +73,6 @@
           "why": [
             "wins*",
             "furia"
-          ]
-        },
-        {
-          "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
-          "url": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
-          "source": "HLTV news",
-          "published": "2026-11-15T11:27:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
           ]
         },
         {
@@ -157,12 +96,58 @@
           "why": [
             "furia"
           ]
+        },
+        {
+          "title": "Eh I guess Fallen is about to break another record...",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwv6eo/eh_i_guess_fallen_is_about_to_break_another_record/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T13:12:45.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "record"
+          ]
+        },
+        {
+          "title": "Expanding FACEIT servers to Spain & Romania, joining Istanbul and Warsaw. Live December 09 with Season 10.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx1gi6/expanding_faceit_servers_to_spain_romania_joining/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T17:34:28.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "update*",
+            "announced*"
+          ]
+        },
+        {
+          "title": "CS2 Iceworld Update Trailer",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwwaub/cs2_iceworld_update_trailer/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T14:04:49.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "ESL Pro League Season 24 - EPL CS2 - Schedule and Results",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cXpzUXZVTUhUY0FmSWlBUFRpUTRWUlVEcHVVdGltSkpfUWdnZU4tVGZQNGlGRkphRnVXYVJtMnRxZEQ2SW9GNjVGM1A4WjVRYkxleWxhbVNFSVVSX0ViUmJEY2lrYnVhRVJYQi1zUDdRSnZxTU9Hakw2Zw?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-15T06:07:08.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "esl pro league",
+            "-schedule"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Thaiger Uppercut 2026 Champion",
@@ -194,15 +179,6 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTRNdC1SbFFRR05yWHpLbF9GbEtNZi0ta01wUUktTEVYMTJlTHlCVjhjSlFiQ2d1c2RMQWRBLVpNVG9LekpDSXd1UGEzZFFQR3IxTEpHTS1TNm1IYTZCeHBNUFI4UWdPZ0pjZk1IVzJ4OU5td1RQTHctRFpXLWtUREhINkluSFhva0h2OTRjbjdkb2Q0cG9XcVpmLUJ4U3VDYVZJT0h30gGrAUFVX3lxTE84eU9HaVNHV2ZNZ1ZEd3VyMG96TncyZk5DaXEwWVB4SzhDTnNlWjZZOVdwV3JJM3FhbVJJWTJjRFBXTGM4OUs3aWF2TWpNYlhnbGt6SkNSTjVhbUJ5cjV0NjdvZHJLM2xOUnk5d3gzWUc4am95Q1Q4QVdUTlVlak5MZU83bjVYUm90WEdmbXpaMUd1RmFrcmVKVnpfdWstUVVhNEpYbm1HdnFxaw?oc=5",
           "source": "Google News: Tekken (Inquirer Technology)",
           "published": "2026-11-15T13:21:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Young Prodigy: 13-Year-Old Tekken Player Defeats Pro Gamer!",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1ZFcDFpbGtidkUybHFpTGV6UkxueXRKbTRmcmpkUEYxZk1Tb3lua3QyajdYMWlNeGRqaXFTdkNaQWt6Wmh5M25QZnFSTzNmbFNzRWV5Tm40dk5NaWNWVTdBcVM0R3JUY1kwallqTWhxcDlRdW5Bb2xYa0JiQ09mMmVFQk1GZE1fOEVzYjZQaEw?oc=5",
-          "source": "Google News: Tekken (Unboxholics)",
-          "published": "2026-11-15T09:17:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -287,10 +263,10 @@
           "why": []
         },
         {
-          "title": "CR - RE, November 15, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXQtVEdxM1FTMFZvaWFwRHlVb3E5aGJFSEw0LVNhay02QWV5aDVjWG54QXlBQWlHODRWV2hmUWlVMjY5UEdyTGFLb29reEZycnVlWkNEa2Y4MUVscE43ZFB3QjdTUEJKSHVkWGpDS0FubVZmSGZUWWRLaTlOWVNWLUR5TjliakdHRjNPc1BORlY1WDJ6SEhCU2ZWVFNtV2tjOVZqc0pmSUE4VWNlLUcxcmowSVhqUQ?oc=5",
+          "title": "RE - COH, November 16, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYms1Zk1qYVdfdUQ2S3dHQkJxVlpiR0tJcFdpSE94SUNzNU8wU01PT1A3Wmd3UmJ4Vm5aRW1qQk1LMU84M0dzd3U4bUl5RHJlQWpiRWdqSmFRVHFkcUtER25GS0dTRUFFdlBJU3Q1MEFfRFRScHUzVUZFN01EaXBpSUVfNXV4QkMwcWhaYzh4eF9VRHh1OFozeXB5X2EzNzlqWTRqNG9UQjRhMW1JRGMyMkRhSW05N0k?oc=5",
           "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-15T07:31:56.000Z",
+          "published": "2026-11-15T09:15:02.000Z",
           "score": 0,
           "level": null,
           "why": [
@@ -301,7 +277,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "The Flank 100K Invitational used drafted teams. Would you want a drafted exhibition event with CDL pros during the season?",
@@ -314,15 +290,6 @@
             "shotzzy*",
             "hydra*"
           ]
-        },
-        {
-          "title": "Top 8 teams for NA Challenger Cup #1",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xwut32/top_8_teams_for_na_challenger_cup_1/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-15T12:55:12.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
