@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T15:55:19.582Z",
+  "generatedAt": "2026-11-15T16:55:15.978Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 27,
+      "storyCount": 21,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -37,22 +37,6 @@
           ]
         },
         {
-          "title": "Spirit vs FURIA / BLAST Rivals 2026 Season 2 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsrd8/spirit_vs_furia_blast_rivals_2026_season_2_grand/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T11:00:42.000Z",
-          "score": 7.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "grand final",
-            "official*",
-            "donk*",
-            "spirit",
-            "furia"
-          ]
-        },
-        {
           "title": "The BLAST Rivals grand final as it happened",
           "url": "https://www.hltv.org/news/45993/the-blast-rivals-grand-final-as-it-happened",
           "source": "HLTV news",
@@ -64,20 +48,6 @@
             "spirit*",
             "furia*",
             "blast"
-          ]
-        },
-        {
-          "title": "The highest Elo in FACEIT CS2 now belongs to 18-year-old taini- at 5,528, breaking the record of 5,513 set by donk in August.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsa2f/the_highest_elo_in_faceit_cs2_now_belongs_to/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T10:30:10.000Z",
-          "score": 7,
-          "level": "possible",
-          "why": [
-            "breaking",
-            "record",
-            "donk",
-            "reddit only"
           ]
         },
         {
@@ -150,28 +120,49 @@
           ]
         },
         {
-          "title": "Will Furia be Team of The Year if they win the Singapore Major?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwss10/will_furia_be_team_of_the_year_if_they_win_the/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T11:01:38.000Z",
+          "title": "BLAST to return to Hong Kong in 2027",
+          "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
+          "source": "HLTV news",
+          "published": "2026-11-15T10:21:00.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "the last*",
-            "vitality*",
+            "return",
+            "blast"
+          ]
+        },
+        {
+          "title": "Furia might do the funniest thing",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwv3lg/furia_might_do_the_funniest_thing/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T13:09:05.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "wins*",
             "furia"
           ]
         },
         {
-          "title": "blast complaint?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsgd2/blast_complaint/",
+          "title": "🇧🇷 Kaike Cerato has set a new CS2 record for the highest rating on the CT side at MVP tournaments! — 1.83",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwtmvv/kaike_cerato_has_set_a_new_cs2_record_for_the/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-15T10:41:14.000Z",
-          "score": 4,
+          "published": "2026-11-15T11:53:03.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "spirit*",
-            "furia*",
+            "record",
+            "donk*"
+          ]
+        },
+        {
+          "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
+          "url": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
+          "source": "HLTV news",
+          "published": "2026-11-15T11:27:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "blast"
           ]
         }
@@ -333,7 +324,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "The ending led to \"Invite to Custom Room\"",
@@ -357,15 +348,6 @@
             "justin wong",
             "-stream"
           ]
-        },
-        {
-          "title": "Hosting a fighting game tournament on Hardcore Ninjas server!",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xwysc1/hosting_a_fighting_game_tournament_on_hardcore/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-15T15:49:48.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
