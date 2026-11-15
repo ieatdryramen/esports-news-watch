@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:55:17.624Z",
+  "generatedAt": "2026-11-15T23:25:16.334Z",
   "source": "start.gg",
   "completed": [
     {
@@ -98,7 +98,21 @@
     }
   ],
   "live": [],
-  "upcoming": [],
+  "upcoming": [
+    {
+      "eventId": "1645174",
+      "scene": "tokon",
+      "game": "Fighting Souls",
+      "tournament": "Battle Coliseum 2026",
+      "event": "Marvel Tokon: Fighting Souls (ARC World Tour) - PS5",
+      "entrants": 55,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-20T13:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/marvel-tokon-fighting-souls-arc-world-tour-ps5"
+    }
+  ],
   "games": {
     "Fighting Souls": [
       {
