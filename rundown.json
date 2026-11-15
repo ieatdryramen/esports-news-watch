@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:50:25.807Z",
+  "generatedAt": "2026-11-15T12:00:37.742Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -90,19 +90,6 @@
           ]
         },
         {
-          "title": "FURIA sweep Team Falcons to set up BLAST Rivals Fall 2026 final with Spirit",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3NmeGg4QTFyX0hmdWNvdnNWMnpFSnRRZlFQRE9vSnozQmU2VTVWY0JVQnYxLU12WU54UHlWTjR2ZnpETFdMck4zN1ZXOUJzSXFTSElKODNiZWtNcThVZU5FbDIzUFlDUFVDNjBTN3djdDRDaUpxQ2J5RnVSUWltQ3dOZFBpbVhwZW53YTN6dVZmcGp4VVB3MUxfeWdYRWp5OHZyc2lOZUpVb0hVOUl6QmlvOGo?oc=5",
-          "source": "Google News: CS2 (Esports News UK)",
-          "published": "2026-11-15T09:08:25.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "furia",
-            "blast"
-          ]
-        },
-        {
           "title": "Will Furia be Team of The Year if they win the Singapore Major?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwss10/will_furia_be_team_of_the_year_if_they_win_the/",
           "source": "r/GlobalOffensive",
@@ -163,6 +150,17 @@
             "donk",
             "spirit"
           ]
+        },
+        {
+          "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3F1QXpFVjFObE54Si13UjVIWk8xMGFiakpLd2dWQWNwek1WZFFvdE5jQzZWenZWaWVxdVkwT1FoNlA0ZXRWVllJZUdfVnMtdDFTVjljVDk3YnIwX1E5bW5zR0hTQjRlcFpfZ3JHLTFTZXFWUmVzVXhveUlKbFlkMGtB?oc=5",
+          "source": "Google News: CS2 (Yahoo News Singapore)",
+          "published": "2026-11-14T13:55:55.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
         }
       ]
     },
@@ -206,27 +204,8 @@
       ]
     },
     {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cloud9 vs Burn the Ships Series Results | Elimination Quarterfinals | LVT Halo Pro League $100k LAN | Day 2",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwl4zj/cloud9_vs_burn_the_ships_series_results/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-15T03:24:03.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "roster*",
-            "won*",
-            "eliminated*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Moving Items Into Stash Cheat Epidemic",
@@ -287,6 +266,17 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "XE - P9, November 15, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-14T17:20:41.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         },
         {
           "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
@@ -363,6 +353,7 @@
     "Warcraft III",
     "Legacy FGC",
     "CoD",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
