@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-15T07:55:19.299Z",
+  "generatedAt": "2026-11-15T08:55:19.385Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
+        {
+          "title": "Spirit vs FURIA / BLAST Rivals 2026 Season 2 - Grand Final / Live Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwpu76/spirit_vs_furia_blast_rivals_2026_season_2_grand/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T07:55:36.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "grand final",
+            "official*",
+            "donk*",
+            "spirit",
+            "furia"
+          ]
+        },
         {
           "title": "Live updates from BLAST Rivals grand final",
           "url": "https://www.hltv.org/news/45993/live-updates-from-blast-rivals-grand-final",
@@ -17,20 +33,6 @@
             "grand final",
             "spirit*",
             "furia*",
-            "blast"
-          ]
-        },
-        {
-          "title": "FURIA, Spirit reach BLAST Rivals Fall 2026 grand final",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXVxVWJEd1JsZWxDMndwN3dFQVdGQzItalh5Z1hpZDdZUlFqUExLZTZkQXZjSVN5bmJVTi10dkpwN0JPRF9mTFNNRWl2bTZEVXRSLXhtVFMtdUg2UlhITXJCYVNyQ1RXU0JJS0ZSWkZ3TmRsbzh3Rld5bWFPN0FJYVhFRnZWVXp6ZWNURm85eEx4T3d6?oc=5",
-          "source": "Google News: CS2 (Field Level Media)",
-          "published": "2026-11-14T16:44:52.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "grand final",
-            "spirit",
-            "furia",
             "blast"
           ]
         },
@@ -68,18 +70,6 @@
           "why": [
             "won*",
             "astralis"
-          ]
-        },
-        {
-          "title": "🇧🇷KSCERATO has effectively secured the BLAST Rivals 2026 Season 2 MVP title!",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwguco/kscerato_has_effectively_secured_the_blast_rivals/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T23:46:39.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "donk*",
-            "blast"
           ]
         },
         {
@@ -145,12 +135,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Counter-Strike overtakes League of Legends and Dota 2 is left without prizes",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGJOSHlSTTFHbzNOOVRFdUEzdWdUR2ZDc0p5c1JZVWZPRF9MdFltWE1yUEpESEYtcWZYSFg1YVVGOHFFYXJ2ekJwc0lZM25nWEVRWXN5ekdDdGN6TkU3MHJ5RlFXcmtkVTRqUmdYYWROOWxCWW1xdjlsV1lldXJib29aRUZEczhfUWNJNmZvZVdqODhsdGhFU01jMW5ZbnVYbEhpMzZnLUFuRm1XbHJuZ3R3?oc=5",
+          "source": "Google News: CS2 (Foro3D)",
+          "published": "2026-11-14T18:34:21.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "SPOILER has been eliminated from 1 win essence 3",
@@ -236,17 +235,6 @@
           "why": []
         },
         {
-          "title": "XE - P9, November 15, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-14T17:20:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        },
-        {
           "title": "XE - Z10, November 14, 2026 - match stream, live broadcast - DL Div 2 S5 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUo0dlFZblBjT2VoQWdSbWk3M0UyaWF5LVNYdTI1cy1hZDZUX0xvM1RhcGNodUpDa194SnljUDF2Z1licE9jZTJQQlFIRk81TVNDbjdERFVjd3RUZjJXUU5SZW9OZFRNSFZkdzNqTi02Mi0yQ1N3TVF3amlCbFlxc2EyMUdMelR2VFY1TDZTYWR1dFh4VEoyaVVtT1FkSlR4RmJmMw?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -261,7 +249,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
@@ -284,6 +272,15 @@
           "source": "Google News: Tekken (Dexerto)",
           "published": "2026-11-14T21:06:11.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Playing Tekken 8 again after dropping it at the beginning of season 2.",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xwq5jo/playing_tekken_8_again_after_dropping_it_at_the/",
+          "source": "r/Tekken",
+          "published": "2026-11-15T08:14:43.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
