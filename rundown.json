@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:00:41.901Z",
+  "generatedAt": "2026-11-15T23:00:39.733Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -48,20 +48,6 @@
             "spirit*",
             "furia*",
             "blast"
-          ]
-        },
-        {
-          "title": "Eternal Fire vs 100 Thieves / PGL Cluj-Napoca 2027 Closed Qualifier - Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwz2t1/eternal_fire_vs_100_thieves_pgl_clujnapoca_2027/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T16:01:49.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "pgl"
           ]
         },
         {
@@ -156,12 +142,21 @@
             "update*",
             "announced*"
           ]
+        },
+        {
+          "title": "Short news: Week 44",
+          "url": "https://www.hltv.org/news/45949/short-news-week-44",
+          "source": "HLTV news",
+          "published": "2026-11-15T21:45:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Halo",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Kraken Seas vs Burn the Ships Series Results | Elimination Semifinals | LVT Halo Pro League $100k LAN",
@@ -177,6 +172,58 @@
             "eliminated*",
             "reverse sweep*",
             "reddit only"
+          ]
+        },
+        {
+          "title": "Shopify vs TSM Series Results | Winners Finals | LVT Halo Pro League $100,000 LAN",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xx97h9/shopify_vs_tsm_series_results_winners_finals_lvt/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-15T22:51:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "grand finals*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Toronto KOI Mixed Mayhem Champions: Team Abezy",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx92y1/toronto_koi_mixed_mayhem_champions_team_abezy/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-15T22:45:33.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "champions",
+            "abezy"
+          ]
+        },
+        {
+          "title": "HyDra so far in MW4.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx9dh7/hydra_so_far_in_mw4/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-15T22:58:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "hydra"
+          ]
+        },
+        {
+          "title": "The Flank 100K Invitational used drafted teams. Would you want a drafted exhibition event with CDL pros during the season?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx1e0u/the_flank_100k_invitational_used_drafted_teams/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-15T17:31:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "shotzzy*",
+            "hydra*"
           ]
         }
       ]
@@ -199,17 +246,6 @@
           ]
         },
         {
-          "title": "Lost 1000 Behaviour Score and a 24h ban for having 2 bad turbo games. What a Joke system",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xx0ky2/lost_1000_behaviour_score_and_a_24h_ban_for/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T17:00:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "ban"
-          ]
-        },
-        {
           "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
           "source": "Google News: Dota (RG.org)",
@@ -218,6 +254,18 @@
           "level": null,
           "why": [
             "prize pool"
+          ]
+        },
+        {
+          "title": "Major Overhaul is Coming...",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xx856w/major_overhaul_is_coming/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T22:04:49.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "the last*",
+            "update*"
           ]
         },
         {
@@ -274,24 +322,6 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "The Flank 100K Invitational used drafted teams. Would you want a drafted exhibition event with CDL pros during the season?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx1e0u/the_flank_100k_invitational_used_drafted_teams/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-15T17:31:48.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "shotzzy*",
-            "hydra*"
-          ]
         }
       ]
     },
