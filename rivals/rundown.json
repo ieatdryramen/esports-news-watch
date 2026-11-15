@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T14:30:36.162Z",
+  "generatedAt": "2026-11-15T15:30:39.394Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -23,7 +23,7 @@
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
           "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-14T23:28:57.000Z",
+          "published": "2026-11-15T00:20:57.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -36,15 +36,6 @@
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJGdkdtblNaamlkYThWSHpfMG9JTW1kVUozRWxfcGV5dVRhYV9jTFdTLXlPdEdGczkwVG5HUnJ2a1c3Y0tjLUxseEZMNHdSaGtsb1pxb0RMWE5DU2JCVWlicTB6WjI1TlFSTjlKeHNabWNlbTAzYUVwcDhuZ29BYVEtWFVLbUZNejFQWUdTSVNPLWN6MkE?oc=5",
           "source": "Google News: Rivals rosters (Murphy's Multiverse)",
           "published": "2026-11-14T17:38:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Nightcrawler Makes His High-Flying Debut In ‘Marvel Rivals’",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mX3U1bS12QWJ3YlZIQm5XNTdpdFQ3dXBqckZ1dlhyUmV6QzJlTkJwcjgtWWNRQXRfX2h4N1BkOFl2aU5MdEhTQlhkcW5fVm9zMjZLTmduMTJwZFNuQXRTNW9rU0FVQk5iM0JMNklZUQ?oc=5",
-          "source": "Google News: Rivals patches (But Why Tho?)",
-          "published": "2026-11-14T15:07:21.000Z",
           "score": 1,
           "level": null,
           "why": []
