@@ -1,6 +1,49 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T12:05:17.477Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "HEROIC vs magic / PGL Cluj-Napoca 2027 Closed Qualifier - Upper Bracket Quarter-Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwtuyk/heroic_vs_magic_pgl_clujnapoca_2027_closed/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6.5,
+      "why": [
+        "benched*",
+        "roster*",
+        "official*",
+        "faze*",
+        "pgl"
+      ],
+      "summary": "HEROIC 🇸🇪 1-2 🇷🇺 magic Inferno: 13-6 Dust2: 10-13 Cache: 3-13 🇷🇺 magic advance to Upper Semi Finals and will face FaZe Clan or 🇺🇦 Fnatic 🇸🇪 HEROIC drop to the Lower bracket Predicted VRS Impact Team Rank Diff Total 🇸🇪 HEROIC #17 → #20 -22 pts 1483 pts 🇷🇺 magic #36 → #32 +22 pts 1356 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information PGL Cluj-Napoca 2027 Closed Qualifier | 🇪🇺 Europe (Online) | Liquipedia | HLTV Team Information 🇸🇪 HEROIC | Liquipedia | HLTV | Official Site | Twitter | Facebook | Instagram | TikTok | YouTube | Twitch Roster : 🇸🇪 nilo | 🇩🇰 Chr1zN ♛ | 🇸🇪 susp | 🇪🇸 Martinez | 🇸🇪 Brollan Coach : 🇩🇰 Snappi Subs/Benched : 🇰🇿 Alkaren 🇷🇺 magic | Liquipedia | HLTV | Twitter Roster : 🇧🇾 MaSvAl | 🇷🇺 tenzy | 🇺🇦 sFade8 ♛ | 🇷🇺 AW | 🇷🇺 lattykk ⊕ Coach : 🇷🇺 eksiver Subs/Benched : 🇰🇿 mo0N Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes HEROIC MAP magic nuke X X anubis inferno ✔ ✔ dust2 X mirage ancient X cache Full Match Stats Team K-D ADR Swing Rating 🇸🇪 HEROIC 0.96 🇸🇪 susp 44-40 76.3 +2.31% 1.19 🇪🇸 MartinezSa ⊕ 44-43 77.7 -1.19% 1.02 🇩🇰 Chr1zN ♛ 33-44 71.2 -1.14% 0.89 🇸🇪 Brollan 38-43 67.7 -3.15% 0.87 🇸🇪 nilo 33-40 63.6 -1.61% 0.84 🇷🇺 magic 1.14 🇷🇺 lattykk ⊕ 48-32 81.6 +3.48% 1.38 🇷🇺 tenzy 46-46 84.9 +1.17% 1.26 🇧🇾 MaSvAl 39-32 ",
+      "published": "2026-11-15T12:05:03.000Z"
+    },
+    {
+      "alertedAt": "2026-11-15T12:05:17.477Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "2025 2nd season vs 2026 2nd season",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwttej/2025_2nd_season_vs_2026_2nd_season/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "won*",
+        "vitality*",
+        "spirit*",
+        "furia*",
+        "blast*",
+        "esl pro league*"
+      ],
+      "summary": "Season 2, 2025: 1) Spirit won two tournaments in a row at the beginning of the season and then dropped off significantly 2) Vitality won ESL Pro League 3) Furia prime form, won 3 tournaments before the Major (two of which were Thunderpick and Blast Hong Kong) 4) Vitality won the Major Season 2, 2026: 1) Spirit won two tournaments in a row at the beginning of the season and then dropped off significantly 2) Vitality won ESL Pro League 3) Furia Prime form, won 3 tournaments before the Major (two of which were Thunderpick and Blast Hong Kong) 4) ??? submitted by /u/nikkizor to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-15T12:02:38.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T11:05:15.356Z",
       "level": "possible",
       "scene": "CS2",
