@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T00:50:17.524Z",
+      "level": "possible",
+      "scene": "CoD",
+      "title": "Without looking it up, rank these duos from highest average placing to lowest",
+      "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xwi3kq/without_looking_it_up_rank_these_duos_from/",
+      "source": "r/CoDCompetitive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "won*",
+        "shotzzy*",
+        "dashy*",
+        "kenny*",
+        "hydra*"
+      ],
+      "summary": "Potentially a fun little brain exercise for you all. All of these duos have played in at least 3 different seasons together and have won multiple championships together. Try to order them from highest to lowest average placement as a duo. Shotzzy/Dashy 04/Abuzah CleanX/Insight Kenny/Octane Hydra/Kismet submitted by /u/CeeDoggyy to r/CoDCompetitive [link] [comments]",
+      "published": "2026-11-15T00:46:31.000Z"
+    },
+    {
       "alertedAt": "2026-11-14T19:00:23.651Z",
       "level": "possible",
       "scene": "CS2",
