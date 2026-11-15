@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:30:24.722Z",
+  "generatedAt": "2026-11-15T04:00:21.251Z",
   "source": "start.gg",
   "completed": [
     {
@@ -238,7 +238,34 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1679364",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "BOPME XXX",
+      "event": "Melee Singles",
+      "entrants": 64,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T19:00:00.000Z",
+      "endAt": "2026-11-15T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/bopme-xxx/event/melee-singles"
+    },
+    {
+      "eventId": "1756172",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "PSU FGC #34: FA26 Week 12",
+      "event": "Back in my days...",
+      "entrants": 18,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-15T00:00:00.000Z",
+      "endAt": "2026-11-15T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/psu-fgc-34-fa26-week-12/event/back-in-my-days"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1734139",
@@ -265,6 +292,19 @@
       "startAt": "2026-11-21T11:00:00.000Z",
       "endAt": "2026-11-21T21:00:00.000Z",
       "url": "https://www.start.gg/tournament/provisional/event/melee-singles"
+    },
+    {
+      "eventId": "1684091",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Taking Back Tampa: The Movie",
+      "event": "Melee Singles",
+      "entrants": 134,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T18:00:00.000Z",
+      "endAt": "2026-11-22T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/taking-back-tampa-the-movie/event/melee-singles"
     }
   ],
   "games": {

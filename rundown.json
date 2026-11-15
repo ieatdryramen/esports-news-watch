@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:00:42.182Z",
+  "generatedAt": "2026-11-15T04:00:32.877Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -45,6 +45,17 @@
           ]
         },
         {
+          "title": "Got false flagged by VAC the other day",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwld66/got_false_flagged_by_vac_the_other_day/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T03:36:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "vac"
+          ]
+        },
+        {
           "title": "The moment the Astralis era almost never began.",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwk8ff/the_moment_the_astralis_era_almost_never_began/",
           "source": "r/GlobalOffensive",
@@ -76,18 +87,6 @@
           "level": null,
           "why": [
             "donk*",
-            "blast"
-          ]
-        },
-        {
-          "title": "Blast Drama",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwclgi/blast_drama/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T20:35:11.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "karrigan*",
             "blast"
           ]
         },
@@ -150,7 +149,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 9,
       "stories": [
         {
           "title": "SPOILER has been eliminated from 1 win essence 3",
@@ -162,6 +161,28 @@
           "why": [
             "eliminated",
             "knocked out*"
+          ]
+        },
+        {
+          "title": "Moving Items Into Stash Cheat Epidemic",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwljwt/moving_items_into_stash_cheat_epidemic/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T03:46:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "cheat"
+          ]
+        },
+        {
+          "title": "Team Liquid And 1win Team Bomb Out – 1win Essence III Group Stage Results",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmdLREhnci0xNk1Bbl9RdHZsT1daTFhCZVlCN0hJdGxNNFlvYXpCaEpwc2VKTUtEcVNkYzdkVXVqY09qMS14Y0MzNGR5TjcyNWZ2OTBIUzhRR1R1bDJlbXkwYWJWQTdKLXZZQmN2cWJmcDEtUk5wdkcxYVROc3dlbXBzdHZ0UDJYVnZkQ1lxTkVUYVFBN3FQYmFULWFPXzl5WVNCc3p4MmNfcXM?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-15T03:26:35.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
           ]
         },
         {
@@ -198,6 +219,15 @@
           ]
         },
         {
+          "title": "What other games do you play while waiting for another big patch/event?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwksxg/what_other_games_do_you_play_while_waiting_for/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T03:06:16.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Will we ever see a 8.00 patch?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xwfn7f/will_we_ever_see_a_800_patch/",
           "source": "r/DotA2",
@@ -227,7 +257,7 @@
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
           "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-14T19:06:27.000Z",
+          "published": "2026-11-14T19:07:03.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -386,7 +416,7 @@
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-14T19:06:27.000Z",
+          "published": "2026-11-14T19:07:03.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -396,8 +426,8 @@
         },
         {
           "title": "Olivier Richters, Zangief From ‘Street Fighter’, Enters ‘Street Fighter 6’ Tournament and Plays Zangief",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW55NW5Ecm5iUmZWRDdUWFQyWmd2VHJ6LUtjdkpWRG9wU0x6Z2JFalo4T0ZyNWx6UW5ucFRadDVSNExqbEo0Y1UyQzI5bzNDcVU1cW5sU2o3RzB6ajR4Z256ZWdPa1hRS203NFVvaFNIU3gwY2pZZWhKcGhWeWlwTEpRbWxWV1cydm9hbFE3dDV2Mk5fWWxoRFJjYmRndTdVQVVYcEFYQUdnM2hCUFE?oc=5",
-          "source": "Google News: Street Fighter (Yahoo)",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkMtblFQLXg1YVJnalFEc1pGb01ldmMxRktpV2pmbm5YdnZKaUZqQm1Sc3F1NEFKNUNPREV6M241Yy1SRTlacHBXSUxSYWpRZUlJMkJDMXhWdy1vcFA5Zy14OUJCSE1SMGJ3ZVVHQ1hsMlJQRURfT3h1bnFWRF9IX0JoYm9iZGJaOEpIbUk3N0k0ZXhsSlJjNk54bzBHc2N4anhybG5HQWVNZUlUdWZCajc2Yno2TC1iNjRvZE55NElqSTRkNnZ4V0RDdGFNUWVMTHJ2WU1R?oc=5",
+          "source": "Google News: Street Fighter (Men's Journal)",
           "published": "2026-11-14T14:37:42.000Z",
           "score": 1,
           "level": null,
@@ -406,36 +436,17 @@
       ]
     },
     {
-      "scene": "Trackmania",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Finished my clean sweep and won div 5 today, i <3 nascar",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xwdrtn/finished_my_clean_sweep_and_won_div_5_today_i_3/",
-          "source": "r/TrackMania",
-          "published": "2026-11-14T21:26:34.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Zain vs BizzaroFlame in pools",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xwdkis/zain_vs_bizzaroflame_in_pools/",
-          "source": "r/SSBM",
-          "published": "2026-11-14T21:17:37.000Z",
-          "score": 2,
+          "title": "Port Priority didn't let a national flight grounding stop its first Melee tourney",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yejY0YU92cTNud2UzSU9FUFlqZzl0MUF2b3FFWmVoVm9nd1d2d0gwdGZFNVh4QS1XbzQwN1pndnVrWTFfbnVTa3dxXy1fUDRyT1VyNTRXaXBUZ2Y4UnJORWdyRmQ5MG9xNFdTOVpkSlA4dm1fMjVxem9tcW5sdw?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-15T03:00:03.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "zain"
-          ]
+          "why": []
         }
       ]
     }
@@ -443,6 +454,7 @@
   "quiet": [
     "Classic Tetris",
     "Brood War",
+    "Trackmania",
     "Warcraft III",
     "Legacy FGC",
     "Quake"
