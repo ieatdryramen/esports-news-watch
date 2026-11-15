@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-14T23:00:37.514Z",
+  "generatedAt": "2026-11-15T00:00:39.016Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 10,
       "stories": [
-        {
-          "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzM2TzJOZUFXQV9jcW9LRjJ6Ui00bWt5N002dzFEY2NPTUU4ZzF4aDhRNzRDQ3JDRlN2cW11UFBWbk5VX1gtdmF2cmJ0dXNaRFoyNEFOUFRDT3ZsRU01VTYxRzdKN0Nlc0puMHlPWThhbXNQSXpEaU56UHhmRTZTWlJHbXdzNUV4bmFnZEdwMnNaV012NFJxUzJR?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-14T13:50:01.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "grand final",
-            "spirit",
-            "furia",
-            "blast"
-          ]
-        },
         {
           "title": "Spirit defeat MOUZ to make BLAST Rivals final",
           "url": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
@@ -60,14 +46,15 @@
           ]
         },
         {
-          "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3F1QXpFVjFObE54Si13UjVIWk8xMGFiakpLd2dWQWNwek1WZFFvdE5jQzZWenZWaWVxdVkwT1FoNlA0ZXRWVllJZUdfVnMtdDFTVjljVDk3YnIwX1E5bW5zR0hTQjRlcFpfZ3JHLTFTZXFWUmVzVXhveUlKbFlkMGtB?oc=5",
-          "source": "Google News: CS2 (Yahoo News Singapore)",
-          "published": "2026-11-14T13:55:55.000Z",
-          "score": 4,
+          "title": "🇧🇷KSCERATO has effectively secured the BLAST Rivals 2026 Season 2 MVP title!",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwguco/kscerato_has_effectively_secured_the_blast_rivals/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-14T23:46:39.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "wins"
+            "donk*",
+            "blast"
           ]
         },
         {
@@ -102,17 +89,6 @@
           "level": null,
           "why": [
             "furia"
-          ]
-        },
-        {
-          "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU5GVXhSeTZnRlY1R05uQ3FNWTEzSDl3LVRoZW1lWUtwSUFqMjVyTWpDd2tyVmpxaURob0lNN2NpbjlZWHlXN1AtRk9wVXB6bklJdHVReXpCXzRSaWI3enFTUVdIOEpEY2t2WFF5VVhGRGdiQXhSekp0YlB3cFV5NmdZQWxoWktJazZaQVlsTzBPVjk3a1RaMTBJcDJOREhoSWRHb1BnbnF3UQ?oc=5",
-          "source": "Google News: CS2 (HardwareZone)",
-          "published": "2026-11-14T07:43:17.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
           ]
         },
         {
@@ -153,18 +129,6 @@
       "storyCount": 7,
       "stories": [
         {
-          "title": "Rumor: Gaimin Gladiators may have signed Parker",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xw9935/rumor_gaimin_gladiators_may_have_signed_parker/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T18:16:53.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "signed",
-            "gaimin gladiators"
-          ]
-        },
-        {
           "title": "Team [Spoiler] eliminated from 1win Essence III",
           "url": "https://www.reddit.com/r/DotA2/comments/1xwbps8/team_spoiler_eliminated_from_1win_essence_iii/",
           "source": "r/DotA2",
@@ -174,6 +138,17 @@
           "why": [
             "eliminated",
             "team liquid*"
+          ]
+        },
+        {
+          "title": "Just encountered some kind of cheat today",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwgw2l/just_encountered_some_kind_of_cheat_today/",
+          "source": "r/DotA2",
+          "published": "2026-11-14T23:48:59.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "cheat"
           ]
         },
         {
@@ -233,7 +208,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
@@ -280,17 +255,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Anyone else getting connection issues after the latest T8 update? (PS5)",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xw9ial/anyone_else_getting_connection_issues_after_the/",
-          "source": "r/Tekken",
-          "published": "2026-11-14T18:26:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
         }
       ]
     },
@@ -435,29 +399,13 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "GA Update - Tac sprint is back in, pros have ga'd ATS & Single tap run",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xw90m0/ga_update_tac_sprint_is_back_in_pros_have_gad_ats/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-14T18:07:18.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
     "Classic Tetris",
     "Warcraft III",
     "Legacy FGC",
+    "CoD",
     "Quake"
   ]
 }
