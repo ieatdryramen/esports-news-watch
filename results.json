@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-11-15T12:30:21.396Z",
+  "generatedAt": "2026-11-15T13:00:25.794Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1645737",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TGU 2026",
+      "event": "Street Fighter 6",
+      "entrants": 158,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T04:00:00.000Z",
+      "endAt": "2026-11-15T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tgu-2026/event/street-fighter-6",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ONIC | NYChrisG"
+        },
+        {
+          "placement": 2,
+          "name": "b3lLz"
+        },
+        {
+          "placement": 3,
+          "name": "GTW | XiaoZhai"
+        },
+        {
+          "placement": 4,
+          "name": "Music4friends"
+        },
+        {
+          "placement": 5,
+          "name": "MCB | Ayane"
+        },
+        {
+          "placement": 5,
+          "name": "GTW | XiaoXu"
+        },
+        {
+          "placement": 7,
+          "name": "GTW | SUNHUI"
+        },
+        {
+          "placement": 7,
+          "name": "GTW | Xiao Hu"
+        }
+      ]
+    },
+    {
+      "eventId": "1650865",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "TGU 2026",
+      "event": "Guilty Gear -Strive- : AWT Gold+ Event",
+      "entrants": 69,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T04:00:00.000Z",
+      "endAt": "2026-11-15T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tgu-2026/event/guilty-gear-strive-awt-gold-event",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "LAGLESS | 御傍 GOBOU"
+        },
+        {
+          "placement": 2,
+          "name": "T Y"
+        },
+        {
+          "placement": 3,
+          "name": "Tim119"
+        },
+        {
+          "placement": 4,
+          "name": "DRX poka"
+        },
+        {
+          "placement": 5,
+          "name": "MetallicCake"
+        },
+        {
+          "placement": 5,
+          "name": "immortal | Lox"
+        },
+        {
+          "placement": 7,
+          "name": "IMM Summit(サミット)"
+        },
+        {
+          "placement": 7,
+          "name": "PainLiver"
+        }
+      ]
+    },
     {
       "eventId": "1741745",
       "scene": "streetfighter",
@@ -333,6 +427,19 @@
     }
   ],
   "live": [
+    {
+      "eventId": "1591654",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TGU 2026",
+      "event": "TEKKEN 8 : TWT Master",
+      "entrants": 187,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T03:30:00.000Z",
+      "endAt": "2026-11-15T13:00:00.000Z",
+      "url": "https://www.start.gg/tournament/tgu-2026/event/tekken-8-twt-master"
+    },
     {
       "eventId": "1679364",
       "scene": "melee",

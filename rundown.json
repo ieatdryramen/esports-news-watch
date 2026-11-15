@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-15T12:00:37.742Z",
+  "generatedAt": "2026-11-15T13:00:40.889Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 28,
       "stories": [
+        {
+          "title": "FaZe vs fnatic / PGL Cluj-Napoca 2027 Closed Qualifier - Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwupr2/faze_vs_fnatic_pgl_clujnapoca_2027_closed/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T12:50:22.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "faze",
+            "pgl",
+            "reddit only"
+          ]
+        },
         {
           "title": "Spirit vs FURIA / BLAST Rivals 2026 Season 2 - Grand Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsrd8/spirit_vs_furia_blast_rivals_2026_season_2_grand/",
@@ -23,18 +39,17 @@
           ]
         },
         {
-          "title": "Furia beats Team spirit 3-0 and are champions of Blast Rivals Hong Kong 2026!",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsruu/furia_beats_team_spirit_30_and_are_champions_of/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T11:01:22.000Z",
+          "title": "The BLAST Rivals grand final as it happened",
+          "url": "https://www.hltv.org/news/45993/the-blast-rivals-grand-final-as-it-happened",
+          "source": "HLTV news",
+          "published": "2026-11-15T12:33:00.000Z",
           "score": 7,
-          "level": "possible",
+          "level": "breaking",
           "why": [
-            "champions",
-            "spirit",
-            "furia",
-            "blast",
-            "reddit only"
+            "grand final",
+            "spirit*",
+            "furia*",
+            "blast"
           ]
         },
         {
@@ -52,16 +67,31 @@
           ]
         },
         {
-          "title": "Live updates from BLAST Rivals grand final",
-          "url": "https://www.hltv.org/news/45993/live-updates-from-blast-rivals-grand-final",
-          "source": "HLTV news",
-          "published": "2026-11-15T06:30:00.000Z",
-          "score": 7,
-          "level": "breaking",
+          "title": "2025 2nd season vs 2026 2nd season",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwttej/2025_2nd_season_vs_2026_2nd_season/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T12:02:38.000Z",
+          "score": 5,
+          "level": "possible",
           "why": [
-            "grand final",
+            "won*",
+            "vitality*",
             "spirit*",
             "furia*",
+            "blast*",
+            "esl pro league*"
+          ]
+        },
+        {
+          "title": "FURIA Crushes Spirit to Win BLAST Rivals Season 2",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXFtaHNIZF9BWkljWVVuLWRwbk5PWnRCT1kxdWZUQlo4Yi0yakdNUS10RkV1eWpxcllqNzZZTV9fcUdPNHJfLVd1ZmQ1akZNLThmWERtMWkzN3J4Q0lOQUxMVzVuVV9OLUNSLUFXQ2xFcVl5TUc2N2tKLWZFSVpyUDJ5YlZ5UXVsYnc?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-15T12:01:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "furia",
             "blast"
           ]
         },
@@ -90,6 +120,34 @@
           ]
         },
         {
+          "title": "magixx on the 0-3: Spirit hadn't played Dust2 once at the event before the final",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwu9yv/magixx_on_the_03_spirit_hadnt_played_dust2_once/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T12:27:32.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "banned*",
+            "spirit"
+          ]
+        },
+        {
+          "title": "Player of the year discussion before the major",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwu1l5/player_of_the_year_discussion_before_the_major/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T12:15:03.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "zywoo*",
+            "donk*",
+            "m0nesy*",
+            "vitality*",
+            "spirit*",
+            "iem*"
+          ]
+        },
+        {
           "title": "Will Furia be Team of The Year if they win the Singapore Major?",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwss10/will_furia_be_team_of_the_year_if_they_win_the/",
           "source": "r/GlobalOffensive",
@@ -114,53 +172,6 @@
             "furia*",
             "blast"
           ]
-        },
-        {
-          "title": "BLAST to return to Hong Kong in 2027",
-          "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
-          "source": "HLTV news",
-          "published": "2026-11-15T10:21:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "blast"
-          ]
-        },
-        {
-          "title": "Furia bully Spirit on map 2. Molodoy goes crazy",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwrsb9/furia_bully_spirit_on_map_2_molodoy_goes_crazy/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T09:59:28.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "spirit",
-            "furia"
-          ]
-        },
-        {
-          "title": "Spirit's rating feels like Donk's faceit once again",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwqx36/spirits_rating_feels_like_donks_faceit_once_again/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T09:03:55.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "donk",
-            "spirit"
-          ]
-        },
-        {
-          "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3F1QXpFVjFObE54Si13UjVIWk8xMGFiakpLd2dWQWNwek1WZFFvdE5jQzZWenZWaWVxdVkwT1FoNlA0ZXRWVllJZUdfVnMtdDFTVjljVDk3YnIwX1E5bW5zR0hTQjRlcFpfZ3JHLTFTZXFWUmVzVXhveUlKbFlkMGtB?oc=5",
-          "source": "Google News: CS2 (Yahoo News Singapore)",
-          "published": "2026-11-14T13:55:55.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
         }
       ]
     },
@@ -172,7 +183,7 @@
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
           "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-15T09:10:31.000Z",
+          "published": "2026-11-15T09:10:23.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -204,20 +215,40 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 8,
+      "scene": "Melee",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Moving Items Into Stash Cheat Epidemic",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwljwt/moving_items_into_stash_cheat_epidemic/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T03:46:27.000Z",
-          "score": 3,
+          "title": "[Tournament Thread] Port Priority DX Day 2 | November 14th—15th | Feat. Cody Schwab, Zain, Hungrybox, Joshman, RapMonster, moky, Wizzrobe, Krudo, Jmook, Salt, Trif, Magi, Ginger, Free Cuba, SDJ, Ossify, Aklo, and many more!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xwu6fl/tournament_thread_port_priority_dx_day_2_november/",
+          "source": "r/SSBM",
+          "published": "2026-11-15T12:22:11.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "cheat"
+            "hungrybox",
+            "zain",
+            "cody schwab",
+            "jmook",
+            "moky",
+            "trif"
           ]
         },
+        {
+          "title": "Port Priority didn't let a national flight grounding stop its first Melee tourney",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yejY0YU92cTNud2UzSU9FUFlqZzl0MUF2b3FFWmVoVm9nd1d2d0gwdGZFNVh4QS1XbzQwN1pndnVrWTFfbnVTa3dxXy1fUDRyT1VyNTRXaXBUZ2Y4UnJORWdyRmQ5MG9xNFdTOVpkSlA4dm1fMjVxem9tcW5sdw?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-15T03:00:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 7,
+      "stories": [
         {
           "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
@@ -310,7 +341,7 @@
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-15T09:10:31.000Z",
+          "published": "2026-11-15T09:10:23.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -330,15 +361,15 @@
       ]
     },
     {
-      "scene": "Melee",
+      "scene": "CoD",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Port Priority didn't let a national flight grounding stop its first Melee tourney",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yejY0YU92cTNud2UzSU9FUFlqZzl0MUF2b3FFWmVoVm9nd1d2d0gwdGZFNVh4QS1XbzQwN1pndnVrWTFfbnVTa3dxXy1fUDRyT1VyNTRXaXBUZ2Y4UnJORWdyRmQ5MG9xNFdTOVpkSlA4dm1fMjVxem9tcW5sdw?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-15T03:00:03.000Z",
-          "score": 1,
+          "title": "Top 8 teams for NA Challenger Cup #1",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xwut32/top_8_teams_for_na_challenger_cup_1/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-15T12:55:12.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -352,7 +383,6 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "CoD",
     "Quake",
     "Halo"
   ]
