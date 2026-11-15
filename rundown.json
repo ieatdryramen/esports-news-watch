@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T08:55:19.385Z",
+  "generatedAt": "2026-11-15T09:50:20.521Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Spirit vs FURIA / BLAST Rivals 2026 Season 2 - Grand Final / Live Match Discussion",
@@ -37,6 +37,31 @@
           ]
         },
         {
+          "title": "Vac live is to fast!",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwr4ox/vac_live_is_to_fast/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T09:17:13.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "cheater*",
+            "vac"
+          ]
+        },
+        {
+          "title": "FURIA sweep Team Falcons to set up BLAST Rivals Fall 2026 final with Spirit",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3NmeGg4QTFyX0hmdWNvdnNWMnpFSnRRZlFQRE9vSnozQmU2VTVWY0JVQnYxLU12WU54UHlWTjR2ZnpETFdMck4zN1ZXOUJzSXFTSElKODNiZWtNcThVZU5FbDIzUFlDUFVDNjBTN3djdDRDaUpxQ2J5RnVSUWltQ3dOZFBpbVhwZW53YTN6dVZmcGp4VVB3MUxfeWdYRWp5OHZyc2lOZUpVb0hVOUl6QmlvOGo?oc=5",
+          "source": "Google News: CS2 (Esports News UK)",
+          "published": "2026-11-15T09:08:25.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "furia",
+            "blast"
+          ]
+        },
+        {
           "title": "Spirit defeat MOUZ to make BLAST Rivals final",
           "url": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
           "source": "HLTV news",
@@ -47,6 +72,29 @@
             "spirit",
             "mouz",
             "blast"
+          ]
+        },
+        {
+          "title": "Spirit's rating feels like Donk's faceit once again",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwqx36/spirits_rating_feels_like_donks_faceit_once_again/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T09:03:55.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "donk",
+            "spirit"
+          ]
+        },
+        {
+          "title": "How it used to feel when 4 man queue kicked you last round before winning",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwqsu9/how_it_used_to_feel_when_4_man_queue_kicked_you/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T08:56:29.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "kicked"
           ]
         },
         {
@@ -104,46 +152,6 @@
           "why": [
             "furia"
           ]
-        },
-        {
-          "title": "ropz Inferno Aggro Apps Push Play",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwi70j/ropz_inferno_aggro_apps_push_play/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T00:51:12.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ropz"
-          ]
-        },
-        {
-          "title": "yuurih: \"I really want to thank Falcons for their fair play\"",
-          "url": "https://www.hltv.org/news/45992/yuurih-i-really-want-to-thank-falcons-for-their-fair-play",
-          "source": "HLTV news",
-          "published": "2026-11-14T15:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "furia*"
-          ]
-        },
-        {
-          "title": "Short news: Week 44",
-          "url": "https://www.hltv.org/news/45949/short-news-week-44",
-          "source": "HLTV news",
-          "published": "2026-11-14T21:03:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Counter-Strike overtakes League of Legends and Dota 2 is left without prizes",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGJOSHlSTTFHbzNOOVRFdUEzdWdUR2ZDc0p5c1JZVWZPRF9MdFltWE1yUEpESEYtcWZYSFg1YVVGOHFFYXJ2ekJwc0lZM25nWEVRWXN5ekdDdGN6TkU3MHJ5RlFXcmtkVTRqUmdYYWROOWxCWW1xdjlsV1lldXJib29aRUZEczhfUWNJNmZvZVdqODhsdGhFU01jMW5ZbnVYbEhpMzZnLUFuRm1XbHJuZ3R3?oc=5",
-          "source": "Google News: CS2 (Foro3D)",
-          "published": "2026-11-14T18:34:21.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -175,17 +183,6 @@
           ]
         },
         {
-          "title": "Just encountered some kind of cheat today",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwgw2l/just_encountered_some_kind_of_cheat_today/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T23:48:59.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cheat"
-          ]
-        },
-        {
           "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
           "source": "Google News: Dota (RG.org)",
@@ -195,6 +192,15 @@
           "why": [
             "prize pool"
           ]
+        },
+        {
+          "title": "FPS drops every time I click LMB – is this a known bug? (InputSystem / SDL event issue)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwr2h2/fps_drops_every_time_i_click_lmb_is_this_a_known/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T09:13:18.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "CR - RE, November 15, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
@@ -249,13 +255,13 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
           "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-14T19:06:19.000Z",
+          "published": "2026-11-15T09:10:31.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -272,15 +278,6 @@
           "source": "Google News: Tekken (Dexerto)",
           "published": "2026-11-14T21:06:11.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Playing Tekken 8 again after dropping it at the beginning of season 2.",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xwq5jo/playing_tekken_8_again_after_dropping_it_at_the/",
-          "source": "r/Tekken",
-          "published": "2026-11-15T08:14:43.000Z",
-          "score": 0,
           "level": null,
           "why": []
         },
@@ -350,7 +347,7 @@
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-14T19:06:19.000Z",
+          "published": "2026-11-15T09:10:31.000Z",
           "score": 2,
           "level": null,
           "why": [
