@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-15T17:50:18.446Z",
+  "generatedAt": "2026-11-15T18:45:20.541Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 20,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZVlpdUFKNFhpZFNFWHUzaHptWHdwNmZlM2dCbVRvNVRwRGM0OVdxZzJmcDFtb1RQMXFwTmRRemdCLXB0dXNBcWpaeEFTYnFDbTVhX1lwWlVYeUZoalVfMjNVWXR1akY1NlFLbkVraUdhNkVRQ01wNUtZQ0tmZUxLUTl0dXI4RDBZN2RycU8yOEpDYU5xd0ZwUEVvNUJleWdYTk1JeXktRlltMnY3U0NZblRWVG5pVlNxWEV4alEzdGdteVBtTld3OUVIQmdjWTJ1UllJbzNoNmlnLVliZXR3SGZyRld5cVJsbXIwTFViV0FSOUJr?oc=5",
-          "source": "Google News: CS2 (The Malaysian Reserve)",
-          "published": "2026-11-15T16:42:53.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN1h5alVNX29Sa2ktOHNzR1R0NmZ6VDE2aUdYem0ya3lBTUdOc1RaeWZXQTZjWWh1U0Iya0tqVlRrZE12LUQyanY0NzQyOUNVMUR1bWQwdlRBcVZnYUhGcWs3ck1IV05jMTM4M1JWN3RQeGVyZFhpMFZ5Wk0xdFppWk9iNTRiWHpkWkxWa1U1NTI2dGloNnlNSVY0UGdmMVRTTUtiRHUybW43TjFMRklmUTBLWjVnMl9veG5rbnh4M3MwbVh6bXduTlFhYm1PT25CV2FORm4yOThNclc4ZEg2SlVLYlZYVkdUS1oyLXBMOFNvbExkMWotUU1uVF9XWkNmN1VOSmxfNUJraGdtNzZiMXZxOVNER2E2NWfSAZ8CQVVfeXFMTXI2djlZa2tUX1gzVE84S2lCektXTTdlWUVOdVBKNUZwSUVMb183WDdxa1hOTU5GMXZjdzFtTDFHZ1pCLUZQV1RKdTg3QzZpYmxGNkZQZkszZS1ka3VoVTVmSVZFd3NGQnhJMy1IREl6blRQVmRfUVlkSEViLVlHZ3VCajBlRm9UdFh6VENWWUZQM0JiYzl1dmVkV2pDUnIyRm1WcVcyX2FBN1BDOU1hSnVfR3B2TGNpdkY5VWlXb2JDN1B6dTNscmo2dlBGTmJHTERVZUc4Z2VmNHBNTEpJQUI5NUZScThQQ3g2UDhGXzQydlBzTkRpY1JqS2I2cGtSd2ctNDJqX3BlbE9ndERYdUdGSmZQb1V5RTFKZ0dNbk0?oc=5",
+          "source": "Google News: CS2 (The Manila Times)",
+          "published": "2026-11-15T15:44:53.000Z",
           "score": 12,
           "level": "breaking",
           "why": [
@@ -21,10 +21,10 @@
           ]
         },
         {
-          "title": "FaZe vs fnatic / PGL Cluj-Napoca 2027 Closed Qualifier - Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwupr2/faze_vs_fnatic_pgl_clujnapoca_2027_closed/",
+          "title": "HEROIC vs FaZe / PGL Cluj-Napoca 2027 Closed Qualifier - Lower Bracket Round 1 / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx2vo6/heroic_vs_faze_pgl_clujnapoca_2027_closed/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-15T12:50:22.000Z",
+          "published": "2026-11-15T18:29:51.000Z",
           "score": 7.5,
           "level": "possible",
           "why": [
@@ -51,19 +51,17 @@
           ]
         },
         {
-          "title": "2025 2nd season vs 2026 2nd season",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwttej/2025_2nd_season_vs_2026_2nd_season/",
+          "title": "Eternal Fire vs 100 Thieves / PGL Cluj-Napoca 2027 Closed Qualifier - Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwz2t1/eternal_fire_vs_100_thieves_pgl_clujnapoca_2027/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-15T12:02:38.000Z",
-          "score": 5,
+          "published": "2026-11-15T16:01:49.000Z",
+          "score": 5.5,
           "level": "possible",
           "why": [
-            "won*",
-            "vitality*",
-            "spirit*",
-            "furia*",
-            "blast*",
-            "esl pro league*"
+            "benched*",
+            "roster*",
+            "official*",
+            "pgl"
           ]
         },
         {
@@ -104,22 +102,6 @@
           ]
         },
         {
-          "title": "Player of the year discussion before the major",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwu1l5/player_of_the_year_discussion_before_the_major/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T12:15:03.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "zywoo*",
-            "donk*",
-            "m0nesy*",
-            "vitality*",
-            "spirit*",
-            "iem*"
-          ]
-        },
-        {
           "title": "BLAST to return to Hong Kong in 2027",
           "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
           "source": "HLTV news",
@@ -144,18 +126,6 @@
           ]
         },
         {
-          "title": "🇧🇷 Kaike Cerato has set a new CS2 record for the highest rating on the CT side at MVP tournaments! — 1.83",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwtmvv/kaike_cerato_has_set_a_new_cs2_record_for_the/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T11:53:03.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "record",
-            "donk*"
-          ]
-        },
-        {
           "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
           "url": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
           "source": "HLTV news",
@@ -165,12 +135,34 @@
           "why": [
             "blast"
           ]
+        },
+        {
+          "title": "‘People have written us off for the major’ - karrigan on X",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwvd83/people_have_written_us_off_for_the_major_karrigan/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T13:21:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "karrigan"
+          ]
+        },
+        {
+          "title": "flash bug during falcons vs furia",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwv7sp/flash_bug_during_falcons_vs_furia/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T13:14:36.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "furia"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Thaiger Uppercut 2026 Champion",
@@ -207,6 +199,15 @@
           "why": []
         },
         {
+          "title": "Young Prodigy: 13-Year-Old Tekken Player Defeats Pro Gamer!",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1ZFcDFpbGtidkUybHFpTGV6UkxueXRKbTRmcmpkUEYxZk1Tb3lua3QyajdYMWlNeGRqaXFTdkNaQWt6Wmh5M25QZnFSTzNmbFNzRWV5Tm40dk5NaWNWVTdBcVM0R3JUY1kwallqTWhxcDlRdW5Bb2xYa0JiQ09mMmVFQk1GZE1fOEVzYjZQaEw?oc=5",
+          "source": "Google News: Tekken (Unboxholics)",
+          "published": "2026-11-15T09:17:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "13-year-old Tekken player beats pro PINYA at Tekken World Tour event",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9HZXlNTy1pNkc4c3VRZ0lHMS1OQkMxdnJUN2N3X05kbTk3S1paMlNnb19iVENRY1dfU1JfUHBYM1poVmNHUXRKMUlnOERPQklsXzdLQ0l6SjJjVkdYRjQ0dVMwUGhXMldPbjdnVzdkajNOb0U5TTlyUlJXR241VG44bjlGVGI1WHJnSTJMWS1oVlhJUnRRWWREQ1FMWW8yUXFIRC1ydHlJVlND?oc=5",
           "source": "Google News: Tekken (Dexerto)",
@@ -218,40 +219,22 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
+      "scene": "Dota",
+      "storyCount": 7,
       "stories": [
         {
-          "title": "[Tournament Thread] Port Priority DX Day 2 | November 14th—15th | Feat. Cody Schwab, Zain, Hungrybox, Joshman, RapMonster, moky, Wizzrobe, Krudo, Jmook, Salt, Trif, Magi, Ginger, Free Cuba, SDJ, Ossify, Aklo, and many more!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xwu6fl/tournament_thread_port_priority_dx_day_2_november/",
-          "source": "r/SSBM",
-          "published": "2026-11-15T12:22:11.000Z",
+          "title": "Team Spirit.Larl Dota Unspoken Part 2/2",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xx2zmw/team_spiritlarl_dota_unspoken_part_22/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T18:34:05.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "hungrybox",
-            "zain",
-            "cody schwab",
-            "jmook",
-            "moky",
-            "trif"
+            "team spirit",
+            "yatoro*",
+            "collapse*"
           ]
         },
-        {
-          "title": "Port Priority didn't let a national flight grounding stop its first Melee tourney",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yejY0YU92cTNud2UzSU9FUFlqZzl0MUF2b3FFWmVoVm9nd1d2d0gwdGZFNVh4QS1XbzQwN1pndnVrWTFfbnVTa3dxXy1fUDRyT1VyNTRXaXBUZ2Y4UnJORWdyRmQ5MG9xNFdTOVpkSlA4dm1fMjVxem9tcW5sdw?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-15T03:00:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 6,
-      "stories": [
         {
           "title": "Lost 1000 Behaviour Score and a 24h ban for having 2 bad turbo games. What a Joke system",
           "url": "https://www.reddit.com/r/DotA2/comments/1xx0ky2/lost_1000_behaviour_score_and_a_24h_ban_for/",
@@ -338,6 +321,21 @@
           "source": "r/CoDCompetitive",
           "published": "2026-11-15T12:55:12.000Z",
           "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Port Priority didn't let a national flight grounding stop its first Melee tourney",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yejY0YU92cTNud2UzSU9FUFlqZzl0MUF2b3FFWmVoVm9nd1d2d0gwdGZFNVh4QS1XbzQwN1pndnVrWTFfbnVTa3dxXy1fUDRyT1VyNTRXaXBUZ2Y4UnJORWdyRmQ5MG9xNFdTOVpkSlA4dm1fMjVxem9tcW5sdw?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-15T03:00:03.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }
