@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T21:40:18.703Z",
+  "generatedAt": "2026-11-15T22:00:41.901Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -113,6 +113,17 @@
           ]
         },
         {
+          "title": "846K Peak Viewers for BLAST Rivals Fall 2026 (TOP-3 matches)",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx7yw1/846k_peak_viewers_for_blast_rivals_fall_2026_top3/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T21:57:18.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
           "title": "With Ksharp's Hall of Fame induction, I'd like to share my favorite video of that era (ft. Team 3D): Electronic Warfare (CPL Winter 2002)",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx5wv6/with_ksharps_hall_of_fame_induction_id_like_to/",
           "source": "r/GlobalOffensive",
@@ -145,15 +156,6 @@
             "update*",
             "announced*"
           ]
-        },
-        {
-          "title": "Short news: Week 44",
-          "url": "https://www.hltv.org/news/45949/short-news-week-44",
-          "source": "HLTV news",
-          "published": "2026-11-15T19:11:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -241,27 +243,20 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 1,
+      "scene": "Tekken",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "The Flank 100K Invitational used drafted teams. Would you want a drafted exhibition event with CDL pros during the season?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx1e0u/the_flank_100k_invitational_used_drafted_teams/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-15T17:31:48.000Z",
-          "score": 2,
+          "title": "Roger Jr. joins TEKKEN 8 alongside Nike collaboration and King-inspired items",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWFkdVZwTHBWdnhkMnZEem9RUGRlNFhoclA1UUlHSWptX3JjLUwxZDlkdVFZUi10T3RNeEU0U1haV0NnX3QweVhya2g3czMxdVpxZDl2dGdVcUxseGF3Sm9na0ZZRWpSR0NUdU9fTldqZW9Ha3VFV0pkeEh4REUyekdTdE9McW9adXNCTDRBX1lSY0tqSV9ncVpHdlhIU01JSXVld1dGVXgza0M3S2l5Nkt1aG9IODBPNkhpa0VNTDB4TTg?oc=5",
+          "source": "Google News: Tekken (Esports Kingdom)",
+          "published": "2026-11-15T21:56:20.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "shotzzy*",
-            "hydra*"
+            "joins"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
+        },
         {
           "title": "13-year-old finishes 25th out of 187 in global Tekken tournament",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTRNdC1SbFFRR05yWHpLbF9GbEtNZi0ta01wUUktTEVYMTJlTHlCVjhjSlFiQ2d1c2RMQWRBLVpNVG9LekpDSXd1UGEzZFFQR3IxTEpHTS1TNm1IYTZCeHBNUFI4UWdPZ0pjZk1IVzJ4OU5td1RQTHctRFpXLWtUREhINkluSFhva0h2OTRjbjdkb2Q0cG9XcVpmLUJ4U3VDYVZJT0h30gGrAUFVX3lxTE84eU9HaVNHV2ZNZ1ZEd3VyMG96TncyZk5DaXEwWVB4SzhDTnNlWjZZOVdwV3JJM3FhbVJJWTJjRFBXTGM4OUs3aWF2TWpNYlhnbGt6SkNSTjVhbUJ5cjV0NjdvZHJLM2xOUnk5d3gzWUc4am95Q1Q4QVdUTlVlak5MZU83bjVYUm90WEdmbXpaMUd1RmFrcmVKVnpfdWstUVVhNEpYbm1HdnFxaw?oc=5",
@@ -279,6 +274,24 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "The Flank 100K Invitational used drafted teams. Would you want a drafted exhibition event with CDL pros during the season?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx1e0u/the_flank_100k_invitational_used_drafted_teams/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-15T17:31:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "shotzzy*",
+            "hydra*"
+          ]
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:30:22.894Z",
+  "generatedAt": "2026-11-15T22:00:28.174Z",
   "source": "start.gg",
   "completed": [
     {
@@ -620,6 +620,19 @@
       "startAt": "2026-11-22T00:00:00.000Z",
       "endAt": "2026-11-22T04:59:00.000Z",
       "url": "https://www.start.gg/tournament/a-diy-friendsgiving/event/diy-3s-singles"
+    },
+    {
+      "eventId": "1738498",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "HEATWAVE Tournament #4",
+      "event": "Heatwave Tournament",
+      "entrants": 79,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-22T13:00:00.000Z",
+      "endAt": "2026-11-22T22:00:00.000Z",
+      "url": "https://www.start.gg/tournament/heatwave-tournament-4/event/heatwave-tournament"
     }
   ],
   "games": {
