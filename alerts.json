@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T22:50:20.015Z",
+      "level": "possible",
+      "scene": "CoD",
+      "title": "Toronto KOI Mixed Mayhem Champions: Team Abezy",
+      "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx92y1/toronto_koi_mixed_mayhem_champions_team_abezy/",
+      "source": "r/CoDCompetitive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "champions",
+        "abezy"
+      ],
+      "summary": "submitted by /u/arunvenu_ to r/CoDCompetitive [link] [comments]",
+      "published": "2026-11-15T22:45:33.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T21:10:21.761Z",
       "level": "possible",
       "scene": "Halo",
