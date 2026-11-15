@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-15T16:55:15.978Z",
+  "generatedAt": "2026-11-15T17:50:18.446Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 22,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN1h5alVNX29Sa2ktOHNzR1R0NmZ6VDE2aUdYem0ya3lBTUdOc1RaeWZXQTZjWWh1U0Iya0tqVlRrZE12LUQyanY0NzQyOUNVMUR1bWQwdlRBcVZnYUhGcWs3ck1IV05jMTM4M1JWN3RQeGVyZFhpMFZ5Wk0xdFppWk9iNTRiWHpkWkxWa1U1NTI2dGloNnlNSVY0UGdmMVRTTUtiRHUybW43TjFMRklmUTBLWjVnMl9veG5rbnh4M3MwbVh6bXduTlFhYm1PT25CV2FORm4yOThNclc4ZEg2SlVLYlZYVkdUS1oyLXBMOFNvbExkMWotUU1uVF9XWkNmN1VOSmxfNUJraGdtNzZiMXZxOVNER2E2NWfSAZ8CQVVfeXFMTXI2djlZa2tUX1gzVE84S2lCektXTTdlWUVOdVBKNUZwSUVMb183WDdxa1hOTU5GMXZjdzFtTDFHZ1pCLUZQV1RKdTg3QzZpYmxGNkZQZkszZS1ka3VoVTVmSVZFd3NGQnhJMy1IREl6blRQVmRfUVlkSEViLVlHZ3VCajBlRm9UdFh6VENWWUZQM0JiYzl1dmVkV2pDUnIyRm1WcVcyX2FBN1BDOU1hSnVfR3B2TGNpdkY5VWlXb2JDN1B6dTNscmo2dlBGTmJHTERVZUc4Z2VmNHBNTEpJQUI5NUZScThQQ3g2UDhGXzQydlBzTkRpY1JqS2I2cGtSd2ctNDJqX3BlbE9ndERYdUdGSmZQb1V5RTFKZ0dNbk0?oc=5",
-          "source": "Google News: CS2 (The Manila Times)",
-          "published": "2026-11-15T15:44:53.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZVlpdUFKNFhpZFNFWHUzaHptWHdwNmZlM2dCbVRvNVRwRGM0OVdxZzJmcDFtb1RQMXFwTmRRemdCLXB0dXNBcWpaeEFTYnFDbTVhX1lwWlVYeUZoalVfMjNVWXR1akY1NlFLbkVraUdhNkVRQ01wNUtZQ0tmZUxLUTl0dXI4RDBZN2RycU8yOEpDYU5xd0ZwUEVvNUJleWdYTk1JeXktRlltMnY3U0NZblRWVG5pVlNxWEV4alEzdGdteVBtTld3OUVIQmdjWTJ1UllJbzNoNmlnLVliZXR3SGZyRld5cVJsbXIwTFViV0FSOUJr?oc=5",
+          "source": "Google News: CS2 (The Malaysian Reserve)",
+          "published": "2026-11-15T16:42:53.000Z",
           "score": 12,
           "level": "breaking",
           "why": [
@@ -170,7 +170,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Thaiger Uppercut 2026 Champion",
@@ -195,21 +195,6 @@
           "why": [
             "grand finals",
             "atif"
-          ]
-        },
-        {
-          "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-15T09:10:23.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "arslan ash",
-            "atif",
-            "lowhigh",
-            "rangchu",
-            "-stream"
           ]
         },
         {
@@ -265,8 +250,19 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Lost 1000 Behaviour Score and a 24h ban for having 2 bad turbo games. What a Joke system",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xx0ky2/lost_1000_behaviour_score_and_a_24h_ban_for/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T17:00:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "ban"
+          ]
+        },
         {
           "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
@@ -290,6 +286,15 @@
           ]
         },
         {
+          "title": "Patch may be tomorrow!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xx138c/patch_may_be_tomorrow/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T17:20:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "I lowkey skip GTA6 if Underlord give a patch. Don't test me bro, Don't you f dare!",
           "url": "https://www.reddit.com/r/DotA2/comments/1xwvcow/i_lowkey_skip_gta6_if_underlord_give_a_patch_dont/",
           "source": "r/DotA2",
@@ -308,58 +313,45 @@
           "why": [
             "-stream"
           ]
-        },
-        {
-          "title": "XE - P9, November 15, 2026 - match stream, live broadcast - EPC S3 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFR3QV9TaTV6ZXlCd3VVcTlzSjV5eHkxQmNvNS1EVGpzYWE1bHpvTWtPcUFpM0FOT3NqTmNxa2Nvb1lhQ2dkeUNINGdqaDNYRVJ0S0E4eEtiYUlxU1cwSlJjUl9DbVd4U3JkRzNJdzdoN2JyR2hQQXY3YlVhWlJmSHg2SjIxSkZtZmsteUxVdmVNdHJwNTV2eg?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-14T17:20:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "The ending led to \"Invite to Custom Room\"",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xwsune/the_ending_led_to_invite_to_custom_room/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-15T11:06:01.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "ending"
-          ]
-        },
-        {
-          "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-15T09:10:23.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "justin wong",
-            "-stream"
-          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "The Flank 100K Invitational used drafted teams. Would you want a drafted exhibition event with CDL pros during the season?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx1e0u/the_flank_100k_invitational_used_drafted_teams/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-15T17:31:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "shotzzy*",
+            "hydra*"
+          ]
+        },
         {
           "title": "Top 8 teams for NA Challenger Cup #1",
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xwut32/top_8_teams_for_na_challenger_cup_1/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-15T12:55:12.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Regional Finals - Middle East - Big Bird got Knowledge Checked by Arjun...",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xx1a3f/regional_finals_middle_east_big_bird_got/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-15T17:27:35.000Z",
           "score": 0,
           "level": null,
           "why": []
