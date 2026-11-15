@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:30:21.328Z",
+  "generatedAt": "2026-11-15T01:00:21.954Z",
   "source": "start.gg",
   "completed": [
     {
@@ -234,100 +234,6 @@
         {
           "placement": 7,
           "name": "Divine Senator Kelly"
-        }
-      ]
-    },
-    {
-      "eventId": "1750077",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #172",
-      "event": "Street Fighter 6",
-      "entrants": 184,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-12T01:00:00.000Z",
-      "endAt": "2026-11-12T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-172/event/street-fighter-6",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "SR NuckleDu"
-        },
-        {
-          "placement": 2,
-          "name": "Ferreras"
-        },
-        {
-          "placement": 3,
-          "name": "Elryonsof"
-        },
-        {
-          "placement": 4,
-          "name": "KB | Star Platinum"
-        },
-        {
-          "placement": 5,
-          "name": "EDLN | zMetra"
-        },
-        {
-          "placement": 5,
-          "name": "Bryan-D"
-        },
-        {
-          "placement": 7,
-          "name": "FightRise | Lazyboredom"
-        },
-        {
-          "placement": 7,
-          "name": "Shine"
-        }
-      ]
-    },
-    {
-      "eventId": "1754450",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Run The Se.T! #131",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 21,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-12T01:00:00.000Z",
-      "endAt": "2026-11-12T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/run-the-se-t-131/event/street-fighter-iii-3rd-strike",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "4077 | SkipperNLW"
-        },
-        {
-          "placement": 2,
-          "name": "OPH | Nica K.O"
-        },
-        {
-          "placement": 3,
-          "name": "Nero"
-        },
-        {
-          "placement": 4,
-          "name": "Devilmaycats | MrPomegranX"
-        },
-        {
-          "placement": 5,
-          "name": "One who seeks Jesus"
-        },
-        {
-          "placement": 5,
-          "name": "Se.T! | Dark Hokage SFL"
-        },
-        {
-          "placement": 7,
-          "name": "downrightlag"
-        },
-        {
-          "placement": 7,
-          "name": "drose"
         }
       ]
     }

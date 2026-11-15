@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-15T00:00:39.016Z",
+  "generatedAt": "2026-11-15T01:00:35.130Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 17,
       "stories": [
+        {
+          "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzM2TzJOZUFXQV9jcW9LRjJ6Ui00bWt5N002dzFEY2NPTUU4ZzF4aDhRNzRDQ3JDRlN2cW11UFBWbk5VX1gtdmF2cmJ0dXNaRFoyNEFOUFRDT3ZsRU01VTYxRzdKN0Nlc0puMHlPWThhbXNQSXpEaU56UHhmRTZTWlJHbXdzNUV4bmFnZEdwMnNaV012NFJxUzJR?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-14T13:50:01.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "grand final",
+            "spirit",
+            "furia",
+            "blast"
+          ]
+        },
         {
           "title": "Spirit defeat MOUZ to make BLAST Rivals final",
           "url": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
@@ -46,6 +60,28 @@
           ]
         },
         {
+          "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3F1QXpFVjFObE54Si13UjVIWk8xMGFiakpLd2dWQWNwek1WZFFvdE5jQzZWenZWaWVxdVkwT1FoNlA0ZXRWVllJZUdfVnMtdDFTVjljVDk3YnIwX1E5bW5zR0hTQjRlcFpfZ3JHLTFTZXFWUmVzVXhveUlKbFlkMGtB?oc=5",
+          "source": "Google News: CS2 (Yahoo News Singapore)",
+          "published": "2026-11-14T13:55:55.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "why am i losing significantly more elo on my losses than the amount gained on my wins",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwhna2/why_am_i_losing_significantly_more_elo_on_my/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T00:23:59.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
           "title": "🇧🇷KSCERATO has effectively secured the BLAST Rivals 2026 Season 2 MVP title!",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwguco/kscerato_has_effectively_secured_the_blast_rivals/",
           "source": "r/GlobalOffensive",
@@ -66,6 +102,17 @@
           "level": null,
           "why": [
             "karrigan*",
+            "blast"
+          ]
+        },
+        {
+          "title": "CS2 BLAST Rivals Fall 2026 overview and results: Final showcase before the Major",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0o5eDFLRERNdGdiSGV1NTY3NTB5cVpqM3FRQTU3SVptcDI3ZUZ1ejdvT3JPUVFtYVVfaHV6NzEzYjJoTDI5N3E1NXJ1S3dJaXFFUFVzTzRSS0o1U1l5MUdDNjNVRHVKM3VqdjJoXzRNbFpDRVpjdTA2NlYzRkpSQ09tdEFuUEVScE5SRG5B?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-14T17:52:04.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "blast"
           ]
         },
@@ -92,41 +139,21 @@
           ]
         },
         {
-          "title": "just saw this in x, wtf Blast",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xw9yf6/just_saw_this_in_x_wtf_blast/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T18:45:02.000Z",
-          "score": 2,
+          "title": "BLAST Premier Hong Kong: Counter-Strike esports action",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU5GVXhSeTZnRlY1R05uQ3FNWTEzSDl3LVRoZW1lWUtwSUFqMjVyTWpDd2tyVmpxaURob0lNN2NpbjlZWHlXN1AtRk9wVXB6bklJdHVReXpCXzRSaWI3enFTUVdIOEpEY2t2WFF5VVhGRGdiQXhSekp0YlB3cFV5NmdZQWxoWktJazZaQVlsTzBPVjk3a1RaMTBJcDJOREhoSWRHb1BnbnF3UQ?oc=5",
+          "source": "Google News: CS2 (HardwareZone)",
+          "published": "2026-11-14T07:43:17.000Z",
+          "score": 3,
           "level": null,
           "why": [
             "blast"
           ]
-        },
-        {
-          "title": "yuurih: \"I really want to thank Falcons for their fair play\"",
-          "url": "https://www.hltv.org/news/45992/yuurih-i-really-want-to-thank-falcons-for-their-fair-play",
-          "source": "HLTV news",
-          "published": "2026-11-14T15:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "furia*"
-          ]
-        },
-        {
-          "title": "Short news: Week 44",
-          "url": "https://www.hltv.org/news/45949/short-news-week-44",
-          "source": "HLTV news",
-          "published": "2026-11-14T21:03:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Team [Spoiler] eliminated from 1win Essence III",
@@ -174,17 +201,6 @@
           ]
         },
         {
-          "title": "Posting shitty memes about new favorite child until we get an update DAY 1",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwa1vf/posting_shitty_memes_about_new_favorite_child/",
-          "source": "r/DotA2",
-          "published": "2026-11-14T18:48:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Will we ever see a 8.00 patch?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xwfn7f/will_we_ever_see_a_800_patch/",
           "source": "r/DotA2",
@@ -214,7 +230,7 @@
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
           "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-14T19:06:18.000Z",
+          "published": "2026-11-14T19:06:27.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -332,7 +348,7 @@
           "title": "TGU 2026 early results, stream ft. Arslan Ash, Farzeen, Mulgold, LowHigh, Rangchu, JeonDDing, Xian, ChrisG, Atif, Justin Wong, Summit, Gamera and more",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2lLT1ZzTlROUjJ4aFhPTTNpeXk3YklKWGc5QlMyZ1ZmMHlGMER2RWJBQVJlY0Zwalo1NlRkeFZSYWNOdXgtRmh2ZU9hOC1HYVVrdGxONUZaXzU0TGl5S2hReWUxNXRwSGlibQ?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-14T19:06:18.000Z",
+          "published": "2026-11-14T19:06:27.000Z",
           "score": 2,
           "level": null,
           "why": [
