@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T01:00:35.130Z",
+  "generatedAt": "2026-11-15T02:00:35.754Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 16,
       "stories": [
         {
           "title": "BLAST Rivals 2026 Season 2 Semifinals Recap: FURIA to Face Spirit in Grand Final",
@@ -45,18 +45,6 @@
             "zywoo",
             "donk",
             "m0nesy"
-          ]
-        },
-        {
-          "title": "Kscerato is the highest rated player of Blast Hong Kong 2026 heading into the grand finals with a 1.50 rating. Will he get mvp?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwbs36/kscerato_is_the_highest_rated_player_of_blast/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-14T20:00:26.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "grand finals",
-            "blast"
           ]
         },
         {
@@ -148,6 +136,17 @@
           "why": [
             "blast"
           ]
+        },
+        {
+          "title": "ropz Inferno Aggro Apps Push Play",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwi70j/ropz_inferno_aggro_apps_push_play/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-15T00:51:12.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "ropz"
+          ]
         }
       ]
     },
@@ -156,15 +155,15 @@
       "storyCount": 6,
       "stories": [
         {
-          "title": "Team [Spoiler] eliminated from 1win Essence III",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwbps8/team_spoiler_eliminated_from_1win_essence_iii/",
+          "title": "SPOILER has been eliminated from 1 win essence 3",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xwj2xa/spoiler_has_been_eliminated_from_1_win_essence_3/",
           "source": "r/DotA2",
-          "published": "2026-11-14T19:57:44.000Z",
-          "score": 4,
+          "published": "2026-11-15T01:36:45.000Z",
+          "score": 4.5,
           "level": null,
           "why": [
             "eliminated",
-            "team liquid*"
+            "knocked out*"
           ]
         },
         {
@@ -276,20 +275,42 @@
     },
     {
       "scene": "Halo",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
         {
-          "title": "Shopify vs Fatal Ambition Series Results | Winner Semifinals | LVT Halo Pro League $100k LAN | Day 2",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwcvdc/shopify_vs_fatal_ambition_series_results_winner/",
+          "title": "Kraken Seas vs Fatal Ambition Series Results | Elimination Quarterfinals | LVT Halo Pro League $100k LAN | Day 2",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwiyh3/kraken_seas_vs_fatal_ambition_series_results/",
           "source": "r/CompetitiveHalo",
-          "published": "2026-11-14T20:47:06.000Z",
+          "published": "2026-11-15T01:30:22.000Z",
           "score": 4,
           "level": null,
           "why": [
+            "ban*",
+            "won*",
+            "eliminated*"
+          ]
+        },
+        {
+          "title": "TSM vs Burn the Ships Series Results | Winner Semifinals | LVT Halo Pro League $100k LAN | Day 2",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwf1si/tsm_vs_burn_the_ships_series_results_winner/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-14T22:24:06.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
             "roster*",
-            "wins*",
+            "won*",
             "champions*"
           ]
+        },
+        {
+          "title": "Kuhlect's overkill and pop off in $100k Halo Pro League LAN",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xwja26/kuhlects_overkill_and_pop_off_in_100k_halo_pro/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-15T01:47:06.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         },
         {
           "title": "AB League teammates",
@@ -400,25 +421,11 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Top 2 on Shield Battery Face Off! Epic TvT Battle | StarCraft Remastered",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLMDVsQ054c1BsUVJ3cWZSbzdkUU15NGhsMElnUmo0NHU3T0dsSmw1RGhLUlNLV3hvZlJOc0hGZXRLZw?oc=5",
-          "source": "Google News: Brood War (YouTube)",
-          "published": "2026-11-14T01:38:42.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
     "Classic Tetris",
+    "Brood War",
     "Warcraft III",
     "Legacy FGC",
     "CoD",
