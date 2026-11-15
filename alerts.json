@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T15:35:16.515Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORmRVaFQteFFzMTFvZW9kalBoWU9Cdm8zakRlZVZCY05KLW52X2hXQnp0TkVhVDA2T0JkWmFYVkM2eGN5X0VqeFgzbG91bzN2dEhfTHlvcy1iamNnNzFrUmlFcFlhNmptY2JyYWxTdlh2UDg0TnlKbVk3eWFMbTBKOVZXOXBIbDZBU1VkSXFtVGx0cGFPN24za0t0TXhGc3psM292cTZETFlrQ0VvOG13eXZreHVoMWVWN2x0UHRORTNCNmJLUm8waGVYc3V3TmF0Q3BMakt1akw4TkZmWUNtWEtvNS15SWpaUmhnT0g0Rl84ZHh0X2NZWQ?oc=5",
+      "source": "Google News: CS2 (Plataforma Media)",
+      "outlets": [
+        "Plataforma Media"
+      ],
+      "score": 12,
+      "why": [
+        "champions",
+        "crowned",
+        "furia",
+        "blast"
+      ],
+      "summary": "",
+      "published": "2026-11-15T15:12:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T13:35:14.113Z",
       "level": "possible",
       "scene": "Tekken",
