@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T01:45:26.038Z",
+  "generatedAt": "2026-11-15T02:45:21.831Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -53,15 +53,6 @@
           "why": [
             "season"
           ]
-        },
-        {
-          "title": "Marvel Launches New ‘Angela’ Ongoing Series Following Breakout ‘Marvel Rivals’ Surge",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJGdkdtblNaamlkYThWSHpfMG9JTW1kVUozRWxfcGV5dVRhYV9jTFdTLXlPdEdGczkwVG5HUnJ2a1c3Y0tjLUxseEZMNHdSaGtsb1pxb0RMWE5DU2JCVWlicTB6WjI1TlFSTjlKeHNabWNlbTAzYUVwcDhuZ29BYVEtWFVLbUZNejFQWUdTSVNPLWN6MkE?oc=5",
-          "source": "Google News: Rivals rosters (Murphy's Multiverse)",
-          "published": "2026-11-14T17:38:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Nightcrawler Makes His High-Flying Debut In ‘Marvel Rivals’",
