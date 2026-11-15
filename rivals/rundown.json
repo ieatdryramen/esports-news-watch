@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-15T13:30:40.997Z",
+  "generatedAt": "2026-11-15T14:30:36.162Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa2gxU1pTSTJjM1B0UXEwRUJmSWFkeEh0bllYeFpvZ0tSc3dqTWdIX280eFJSWG5RSGhDdTV2eERPNHVJeXFnV184X0N2SU9MczBfSlRxRUw4OHM0OEctQlZ5TnhjLW8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90MTVKc3NXeDU0QzBEWlBoMXVaMTIyeGppcWFXbWJ2d296MlZYXzN1SEd6SHA3TXZxRHVHRmRPenZ2TjU5Slh1djFpell0RnN4RUoyUVFYNDJ1a2twMlZ0Z2pLZ3M?oc=5",
           "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-14T16:22:51.000Z",
+          "published": "2026-11-14T23:50:40.000Z",
           "score": 7,
           "level": "breaking",
           "why": [
@@ -29,29 +29,6 @@
           "why": [
             "season",
             "mrc"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Roadmap Breakdown: New Map, Skins, Events & More",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaUloVUFKeHhCejYtcGJlZGFKankyS3Z6T1Z6N2ZCd0JrS3N6am0tQVIyX211ZHhBSF9DUWtwSDNUcjdpdG9seWI4ZFBCLUtuN01LdVhueDNNWTl1SWg5V1F3?oc=5",
-          "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-14T13:35:28.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "season",
-            "roadmap"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Villain The Hood Gets His Origin Story On Marvel Unlimited Ahead Of Season 11",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdjdNdy1YSEd0aEY0QXZISXA4UXFIZExNdG1QR2drUUJ3ZkoxbVhDNk43TklFRHlWRFZseFZ3MzFUNkxCVHpnOHlQZlp3aXdzWmhOdmZ6Z1N4WGxpMVRnempLREM5Y091MUo3TUZic09mdzA0cDVyZ3UzdlNCSDdRV2syZE9UMlUwZ3ZSaUx1X1FfY3NZZERqTFoyY0lUMk5YTVZsSE4xdkcwVzhsRUxGUXFsQnQwdXBVenNWNTBTVHdybm8tUkk0d1VZejhSTkNmOTktS2QyS0ROdjZlQV82WmpLMGk?oc=5",
-          "source": "Google News: Rivals patches (GameFragger.com)",
-          "published": "2026-11-14T14:11:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
           ]
         },
         {
