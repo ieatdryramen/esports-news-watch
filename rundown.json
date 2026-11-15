@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T20:45:18.223Z",
+  "generatedAt": "2026-11-15T21:40:18.703Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -158,66 +158,30 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 5,
+      "scene": "Halo",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Thaiger Uppercut 2026 Champion",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xwwdt1/thaiger_uppercut_2026_champion/",
-          "source": "r/Tekken",
-          "published": "2026-11-15T14:08:20.000Z",
-          "score": 5,
+          "title": "Kraken Seas vs Burn the Ships Series Results | Elimination Semifinals | LVT Halo Pro League $100k LAN",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xx6ukk/kraken_seas_vs_burn_the_ships_series_results/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-15T21:09:52.000Z",
+          "score": 8,
           "level": "possible",
           "why": [
-            "won*",
-            "champion",
-            "atif*"
+            "ban*",
+            "wins*",
+            "champions*",
+            "eliminated*",
+            "reverse sweep*",
+            "reddit only"
           ]
-        },
-        {
-          "title": "Atif's Bob speedrun in TGU grand finals",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xww5od/atifs_bob_speedrun_in_tgu_grand_finals/",
-          "source": "r/Tekken",
-          "published": "2026-11-15T13:58:52.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "grand finals",
-            "atif"
-          ]
-        },
-        {
-          "title": "13-year-old finishes 25th out of 187 in global Tekken tournament",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTRNdC1SbFFRR05yWHpLbF9GbEtNZi0ta01wUUktTEVYMTJlTHlCVjhjSlFiQ2d1c2RMQWRBLVpNVG9LekpDSXd1UGEzZFFQR3IxTEpHTS1TNm1IYTZCeHBNUFI4UWdPZ0pjZk1IVzJ4OU5td1RQTHctRFpXLWtUREhINkluSFhva0h2OTRjbjdkb2Q0cG9XcVpmLUJ4U3VDYVZJT0h30gGrAUFVX3lxTE84eU9HaVNHV2ZNZ1ZEd3VyMG96TncyZk5DaXEwWVB4SzhDTnNlWjZZOVdwV3JJM3FhbVJJWTJjRFBXTGM4OUs3aWF2TWpNYlhnbGt6SkNSTjVhbUJ5cjV0NjdvZHJLM2xOUnk5d3gzWUc4am95Q1Q4QVdUTlVlak5MZU83bjVYUm90WEdmbXpaMUd1RmFrcmVKVnpfdWstUVVhNEpYbm1HdnFxaw?oc=5",
-          "source": "Google News: Tekken (Inquirer Technology)",
-          "published": "2026-11-15T13:21:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Young Prodigy: 13-Year-Old Tekken Player Defeats Pro Gamer!",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1ZFcDFpbGtidkUybHFpTGV6UkxueXRKbTRmcmpkUEYxZk1Tb3lua3QyajdYMWlNeGRqaXFTdkNaQWt6Wmh5M25QZnFSTzNmbFNzRWV5Tm40dk5NaWNWVTdBcVM0R3JUY1kwallqTWhxcDlRdW5Bb2xYa0JiQ09mMmVFQk1GZE1fOEVzYjZQaEw?oc=5",
-          "source": "Google News: Tekken (Unboxholics)",
-          "published": "2026-11-15T09:17:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "13-year-old Tekken player beats pro PINYA at Tekken World Tour event",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9HZXlNTy1pNkc4c3VRZ0lHMS1OQkMxdnJUN2N3X05kbTk3S1paMlNnb19iVENRY1dfU1JfUHBYM1poVmNHUXRKMUlnOERPQklsXzdLQ0l6SjJjVkdYRjQ0dVMwUGhXMldPbjdnVzdkajNOb0U5TTlyUlJXR241VG44bjlGVGI1WHJnSTJMWS1oVlhJUnRRWWREQ1FMWW8yUXFIRC1ydHlJVlND?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-14T21:06:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Team Spirit.Larl Dota Unspoken Part 2/2",
@@ -252,17 +216,6 @@
           "level": null,
           "why": [
             "prize pool"
-          ]
-        },
-        {
-          "title": "Posting shitty memes about new favorite child until we get an update DAY 2",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xwwujc/posting_shitty_memes_about_new_favorite_child/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T14:28:15.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
@@ -306,6 +259,30 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "13-year-old finishes 25th out of 187 in global Tekken tournament",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTRNdC1SbFFRR05yWHpLbF9GbEtNZi0ta01wUUktTEVYMTJlTHlCVjhjSlFiQ2d1c2RMQWRBLVpNVG9LekpDSXd1UGEzZFFQR3IxTEpHTS1TNm1IYTZCeHBNUFI4UWdPZ0pjZk1IVzJ4OU5td1RQTHctRFpXLWtUREhINkluSFhva0h2OTRjbjdkb2Q0cG9XcVpmLUJ4U3VDYVZJT0h30gGrAUFVX3lxTE84eU9HaVNHV2ZNZ1ZEd3VyMG96TncyZk5DaXEwWVB4SzhDTnNlWjZZOVdwV3JJM3FhbVJJWTJjRFBXTGM4OUs3aWF2TWpNYlhnbGt6SkNSTjVhbUJ5cjV0NjdvZHJLM2xOUnk5d3gzWUc4am95Q1Q4QVdUTlVlak5MZU83bjVYUm90WEdmbXpaMUd1RmFrcmVKVnpfdWstUVVhNEpYbm1HdnFxaw?oc=5",
+          "source": "Google News: Tekken (Inquirer Technology)",
+          "published": "2026-11-15T13:21:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Young Prodigy: 13-Year-Old Tekken Player Defeats Pro Gamer!",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1ZFcDFpbGtidkUybHFpTGV6UkxueXRKbTRmcmpkUEYxZk1Tb3lua3QyajdYMWlNeGRqaXFTdkNaQWt6Wmh5M25QZnFSTzNmbFNzRWV5Tm40dk5NaWNWVTdBcVM0R3JUY1kwallqTWhxcDlRdW5Bb2xYa0JiQ09mMmVFQk1GZE1fOEVzYjZQaEw?oc=5",
+          "source": "Google News: Tekken (Unboxholics)",
+          "published": "2026-11-15T09:17:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -343,7 +320,6 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
