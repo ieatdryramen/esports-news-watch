@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-15T10:30:21.877Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "The highest Elo in FACEIT CS2 now belongs to 18-year-old taini- at 5,528, breaking the record of 5,513 set by donk in August.",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xwsa2f/the_highest_elo_in_faceit_cs2_now_belongs_to/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 7,
+      "why": [
+        "breaking",
+        "record",
+        "donk",
+        "reddit only"
+      ],
+      "summary": "Since starting Season 9 at 3,204, he’s climbed 2324 Elo across 551 matches, averaging a 1.26 FACEIT Rating. 23 days remain in Season 9. submitted by /u/FACEIT_Xylo to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-15T10:30:10.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T09:20:20.997Z",
       "level": "possible",
       "scene": "CS2",
