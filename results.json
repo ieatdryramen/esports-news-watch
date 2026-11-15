@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-15T14:00:25.649Z",
+  "generatedAt": "2026-11-15T14:30:20.651Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1738716",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "Versus Experience - ANIME INDIA HYDERABAD",
+      "event": "Street Fighter 6",
+      "entrants": 284,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-15T06:30:00.000Z",
+      "endAt": "2026-11-15T14:30:00.000Z",
+      "url": "https://www.start.gg/tournament/versus-experience-anime-india-hyderabad/event/street-fighter-6",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ClosingRegent"
+        },
+        {
+          "placement": 2,
+          "name": "DRAKEN"
+        },
+        {
+          "placement": 3,
+          "name": "Magma"
+        },
+        {
+          "placement": 4,
+          "name": "Darts"
+        },
+        {
+          "placement": 5,
+          "name": "Shunitsu"
+        },
+        {
+          "placement": 5,
+          "name": "sonicps"
+        },
+        {
+          "placement": 7,
+          "name": "ACE_Holmes"
+        },
+        {
+          "placement": 7,
+          "name": "Abu"
+        }
+      ]
+    },
     {
       "eventId": "1591654",
       "scene": "tekken",
@@ -234,6 +281,53 @@
         {
           "placement": 7,
           "name": "MateoHavel"
+        }
+      ]
+    },
+    {
+      "eventId": "1679364",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "BOPME XXX",
+      "event": "Melee Singles",
+      "entrants": 64,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T19:00:00.000Z",
+      "endAt": "2026-11-15T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/bopme-xxx/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Blue"
+        },
+        {
+          "placement": 2,
+          "name": "Roast | Toast"
+        },
+        {
+          "placement": 3,
+          "name": "Grompy00"
+        },
+        {
+          "placement": 4,
+          "name": "Suidt"
+        },
+        {
+          "placement": 5,
+          "name": "NetherCole"
+        },
+        {
+          "placement": 5,
+          "name": "WNSS | Acid"
+        },
+        {
+          "placement": 7,
+          "name": "Anconoid"
+        },
+        {
+          "placement": 7,
+          "name": "iiwii"
         }
       ]
     },
@@ -473,21 +567,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1679364",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "BOPME XXX",
-      "event": "Melee Singles",
-      "entrants": 64,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T19:00:00.000Z",
-      "endAt": "2026-11-15T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/bopme-xxx/event/melee-singles"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1750564",
