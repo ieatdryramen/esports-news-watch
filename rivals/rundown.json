@@ -1,37 +1,8 @@
 {
-  "generatedAt": "2026-11-15T23:25:15.612Z",
+  "generatedAt": "2026-11-16T00:20:45.262Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Rivals",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90MTVKc3NXeDU0QzBEWlBoMXVaMTIyeGppcWFXbWJ2d296MlZYXzN1SEd6SHA3TXZxRHVHRmRPenZ2TjU5Slh1djFpell0RnN4RUoyUVFYNDJ1a2twMlZ0Z2pLZ3M?oc=5",
-          "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-14T23:50:40.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "balance",
-            "balance changes",
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Leak Points to New Nightcrawler Content for Seasons Greetings",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0pnOXpUdjR6aHp6bVlwYThCZHJ0MG9CTnVxeVowY25MY25QYmhqRWJuVG9VRUdKbnpxNmlZMU5FdTRONHFna0NQVkVIc1pYaDl1Y245enZLdTZZTzF0b1hJcXA0OFdqX3k5SC0tYTIzU2FmSHhRcklCcWNWMEswaWc4TW9mQzA?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-15T09:32:34.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "leak"
-          ]
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Rivals"
+  ]
 }

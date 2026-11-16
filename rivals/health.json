@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:25:15.499Z",
+  "generatedAt": "2026-11-16T00:20:45.238Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -59,35 +59,35 @@
     },
     {
       "name": "Google News: Rivals esports",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "items": 9,
-      "newest": "2026-11-15T21:45:45.000Z",
-      "error": null
+      "items": 0,
+      "newest": null,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: Rivals patches",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "items": 9,
-      "newest": "2026-11-15T18:18:20.000Z",
-      "error": null
+      "items": 0,
+      "newest": null,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: Rivals rosters",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "items": 1,
-      "newest": "2026-11-14T23:50:40.000Z",
-      "error": null
+      "items": 0,
+      "newest": null,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: Sheep/Dot/Liquipedia",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "items": 100,
-      "newest": "2026-11-15T23:20:51.000Z",
-      "error": null
+      "items": 0,
+      "newest": null,
+      "error": "HTTP 503"
     },
     {
       "name": "Reddit (3 subs, public feed)",
