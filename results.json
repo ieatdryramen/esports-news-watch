@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:30:23.001Z",
+  "generatedAt": "2026-11-16T11:00:24.938Z",
   "source": "start.gg",
   "completed": [
     {
@@ -758,25 +758,12 @@
   "live": [],
   "upcoming": [
     {
-      "eventId": "1750564",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "takeraCUP〈マスター以下限定〉 #8",
-      "event": "takeraCUP〈マスター以下限定〉",
-      "entrants": 144,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-16T11:00:00.000Z",
-      "endAt": "2026-11-16T14:00:00.000Z",
-      "url": "https://www.start.gg/tournament/takeracup-8/event/takeracup"
-    },
-    {
       "eventId": "1749226",
       "scene": "streetfighter",
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 129,
+      "entrants": 130,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
@@ -906,7 +893,7 @@
       "game": "Tekken 8",
       "tournament": "HEATWAVE Tournament #4",
       "event": "Heatwave Tournament",
-      "entrants": 79,
+      "entrants": 80,
       "online": true,
       "major": false,
       "startAt": "2026-11-22T13:00:00.000Z",
