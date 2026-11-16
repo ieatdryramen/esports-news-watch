@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T19:55:34.245Z",
+  "generatedAt": "2026-11-16T20:55:19.457Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 12,
       "stories": [
         {
           "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
@@ -21,10 +21,10 @@
           ]
         },
         {
-          "title": "magic vs Eternal Fire / PGL Cluj-Napoca 2027 Closed Qualifier - Lower Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxub23/magic_vs_eternal_fire_pgl_clujnapoca_2027_closed/",
+          "title": "HEROIC vs VISION / PGL Cluj-Napoca 2027 Closed Qualifier - Lower Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxznkm/heroic_vs_vision_pgl_clujnapoca_2027_closed/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-16T16:46:55.000Z",
+          "published": "2026-11-16T20:04:57.000Z",
           "score": 5.5,
           "level": "possible",
           "why": [
@@ -43,6 +43,29 @@
           "level": null,
           "why": [
             "iem",
+            "blast"
+          ]
+        },
+        {
+          "title": "Astralis announce jabbi departure",
+          "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
+          "source": "HLTV news",
+          "published": "2026-11-16T17:50:00.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "leaves*",
+            "astralis"
+          ]
+        },
+        {
+          "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
+          "url": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
+          "source": "HLTV news",
+          "published": "2026-11-16T17:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "blast"
           ]
         },
@@ -80,6 +103,24 @@
           ]
         },
         {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-16T19:03:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Community Awards: Vox Populi nominations open",
+          "url": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
+          "source": "HLTV news",
+          "published": "2026-11-16T18:59:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Old T player model had an hidding advantage. Previously, the gun was positioned lower, and its barrel tip didn't reach as far as the CT's. After latest update CT & T models are now identical and unified",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxxuxb/old_t_player_model_had_an_hidding_advantage/",
           "source": "r/GlobalOffensive",
@@ -89,114 +130,13 @@
           "why": [
             "update"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "Pakistan’s Atif Butt wins Tekken 8 title at Thaiger Uppercut 2026 in Bangkok",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzJjV2g0Q0lhcHBtYzVoNDBlS2Ezc2JNcXpVVHltelRoTm1rOTlnc19YcE45ZVdQVnp2VVhRdzJFS3EyNTN2b183SXc5Nzd6WlFtUEQ1ZS1IcTVDYlI2U2o1ZjBSV0F5SnNOY3ZHZ25LaUdpeVN2Y2VST0RvbXVrUnFmSWE4Z3VNSlQwT1NZaTExb29rMzloS19qTDQ5b05ieDhJcEM3U1g4XzRyREJTQTlzcklqMXpVcjhR?oc=5",
-          "source": "Google News: Tekken (Daily Pakistan)",
-          "published": "2026-11-16T15:31:22.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "wins",
-            "atif"
-          ]
         },
         {
-          "title": "Atif Butt defeats South Korea’s lowhigh to claim Tekken 8 title",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajFGN1Q5d3dYbFpKeW41T2o5ckJ5dFZmY19MTDFXUEJDWE9jZkc2UWNFdnoxblhhenotWWdFeTZaOFhhOFkzNE1IN1lCS0FCdW5SQmhmNXhtNHlCcHcwc2VEZ0h6ZUlDZ3NpYUJpVElxenVIXy1JN1N5N2ZZNElXNFIxVnVUdHBHSUJSVzE1ZkdZYkE1WmZ0bEFoRHk?oc=5",
-          "source": "Google News: Tekken (24 News HD)",
-          "published": "2026-11-16T15:41:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "atif",
-            "lowhigh"
-          ]
-        },
-        {
-          "title": "Roger Jr. joins TEKKEN 8 alongside Nike collaboration and King-inspired items",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWFkdVZwTHBWdnhkMnZEem9RUGRlNFhoclA1UUlHSWptX3JjLUwxZDlkdVFZUi10T3RNeEU0U1haV0NnX3QweVhya2g3czMxdVpxZDl2dGdVcUxseGF3Sm9na0ZZRWpSR0NUdU9fTldqZW9Ha3VFV0pkeEh4REUyekdTdE9McW9adXNCTDRBX1lSY0tqSV9ncVpHdlhIU01JSXVld1dGVXgza0M3S2l5Nkt1aG9IODBPNkhpa0VNTDB4TTg?oc=5",
-          "source": "Google News: Tekken (Esports Kingdom)",
-          "published": "2026-11-15T21:56:20.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "joins"
-          ]
-        },
-        {
-          "title": "8 of the bottom 10 pick characters were base roster characters. In a new Tekken would you want them in the base game again? Is there a real purpose to having two bears? Why did Anna fall off so hard?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xxz3qw/8_of_the_bottom_10_pick_characters_were_base/",
-          "source": "r/Tekken",
-          "published": "2026-11-16T19:44:42.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXdRb1ZNWVN2RjlDdFVaNjNPY0RZV2thY1hKckgyRVVfc0VhbWx6cnYwdWNxZkF4aUNxd0s2OVR2M05NZEltbU1xQVNQalgzMGFBQ2ItMVVzdk5kZ3J2UGtRSXpqRUNuTHQ0Ti0xT2ZOeTRqUHA2bjJTT3ZFOXI1UmRSWmludkRBR1FjMF9rTl91QVp0WXp3U1RvSlVjbnd4X1hVWXVEWWxvTjFSR3dkNVhSTlN2N2hyZ3NtanZvS2w4VXRrYjh0aDNUbWw4Q0NPZjVkcDFBT0tSQjk1Q1E?oc=5",
-          "source": "Google News: Tekken (IGN)",
-          "published": "2026-11-16T19:49:35.000Z",
+          "title": "Alliance part ways with head coach Hawk",
+          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
+          "source": "HLTV news",
+          "published": "2026-11-16T12:09:00.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken 8 x Nike Collaboration Adds King’s Air Max 1 Sneakers",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MVGw0STVpZUt3SUpQU01lMkpDQ1BDMXl2Sm1BX1Z5bUlMMkpIZHZsSDlxVS1aNG5KTGNrcTFBVEFiZVhGRnJrS1I5V0kyanNDVWZuUWdQZ3VkRkRtM1k5VXUybWx3c3pZZFQ5dlFOSURQZlQyQ05Vd2lkT01Pdw?oc=5",
-          "source": "Google News: Tekken (The Outerhaven)",
-          "published": "2026-11-16T00:05:48.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Anyone else notice the \"break\" in the song Equator Line 2nd (Jungle Outpost final round track)?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xxyh38/anyone_else_notice_the_break_in_the_song_equator/",
-          "source": "r/Tekken",
-          "published": "2026-11-16T19:21:46.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "official*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Post-LI, is anyone actually close to KOI and Paris, or is it a two-team league heading into Kickoff?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxvna8/postli_is_anyone_actually_close_to_koi_and_paris/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T17:35:41.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "breaking*",
-            "grand final*",
-            "faze*",
-            "hydra*"
-          ]
-        },
-        {
-          "title": "Cobra getting black mailed in challengers finals",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxva4g/cobra_getting_black_mailed_in_challengers_finals/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T17:22:08.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -204,8 +144,20 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 10,
       "stories": [
+        {
+          "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmk3U3ZWcm5MSHhEVUNOcEtlejZ0TmZYZTk5TWVlZjdVb3NkbUR1dkVDZ2ZsZ25KR042bEdwSmtrMkhWSXkycWFDYjUwQmpjZ3ZjZ3Y0STVOZjFraU05YWlFYU5FSzlCaG9RaDZZQzA2S0lvUzdDRktybDlHYmQ5TTVHMllmSVFZZk9kdXZzb3hiek5TSXppa1RQLU12RjBGYWRuR1VEV1lfazNlNXRrUDU5dGNkNmJ5RHk1TQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-16T03:31:39.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "wins",
+            "team spirit"
+          ]
+        },
         {
           "title": "Cheating not even being discreet about it. Item's being transferred to stash",
           "url": "https://www.reddit.com/r/DotA2/comments/1xxrieh/cheating_not_even_being_discreet_about_it_items/",
@@ -241,14 +193,25 @@
           ]
         },
         {
-          "title": "App to look match results from phone",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxqf0w/app_to_look_match_results_from_phone/",
+          "title": "Who won today T.Spirt or PVison??",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxzwx0/who_won_today_tspirt_or_pvison/",
           "source": "r/DotA2",
-          "published": "2026-11-16T14:15:20.000Z",
-          "score": 1,
+          "published": "2026-11-16T20:14:47.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "history*"
+            "won"
+          ]
+        },
+        {
+          "title": "Guess The Hero, Dreamleague Division 2 Edition",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxzw5y/guess_the_hero_dreamleague_division_2_edition/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T20:14:01.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dreamleague"
           ]
         },
         {
@@ -279,15 +242,6 @@
           "why": []
         },
         {
-          "title": "Hosting a Mini Tournament for EU ADCL!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxq5tl/hosting_a_mini_tournament_for_eu_adcl/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T14:04:27.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0pyTDdPZGpuS2JpNHhzNThSWm1iam9CUGVkYmhqR1Jqd2ppMVpSOFp0SS1fV2RMcDl1Nk9jYlF4OHBtM1Q5cndvZGoyVWFvZ1B6MkhaaWp3cGZKSWVnNjRCd3k4X2JtanFQVk9DbDRUSl9TQjNvMkZZUGRfbDZUWFhEOWFGVDJrQ1h0RGh0LXBXSnFWOVZZ?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -297,6 +251,44 @@
           "why": [
             "-stream"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Post-LI, is anyone actually close to KOI and Paris, or is it a two-team league heading into Kickoff?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxvna8/postli_is_anyone_actually_close_to_koi_and_paris/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T17:35:41.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "breaking*",
+            "grand final*",
+            "faze*",
+            "hydra*"
+          ]
+        },
+        {
+          "title": "[CDL] The CDL 2027 season is kicking off earlier than ever, with all online CDL matches beginning at 11AM PST/2PM EST/7PM GMT. We're making it easier for fans around the world to tune in, catch the action, and never miss a map from their favorite team.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxzlhg/cdl_the_cdl_2027_season_is_kicking_off_earlier/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T20:02:48.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Cobra getting black mailed in challengers finals",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxva4g/cobra_getting_black_mailed_in_challengers_finals/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T17:22:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -335,6 +327,34 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "8 of the bottom 10 pick characters were base roster characters. In a new Tekken would you want them in the base game again? Is there a real purpose to having two bears? Why did Anna fall off so hard?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xxz3qw/8_of_the_bottom_10_pick_characters_were_base/",
+          "source": "r/Tekken",
+          "published": "2026-11-16T19:44:42.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "Anyone else notice the \"break\" in the song Equator Line 2nd (Jungle Outpost final round track)?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xxyh38/anyone_else_notice_the_break_in_the_song_equator/",
+          "source": "r/Tekken",
+          "published": "2026-11-16T19:21:46.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "official*"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Warcraft III",
       "storyCount": 1,
       "stories": [
@@ -349,30 +369,6 @@
             "history*",
             "official*"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-16T07:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TGU 2026 results, congrats to the SF6 top8",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xxv8vu/tgu_2026_results_congrats_to_the_sf6_top8/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-16T17:20:48.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -402,6 +398,21 @@
           "url": "https://www.reddit.com/r/broodwar/comments/1xxxawc/open_bracket_player_tickets_for_sc4all_ii_are/",
           "source": "r/broodwar",
           "published": "2026-11-16T18:37:28.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "TGU 2026 results, congrats to the SF6 top8",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xxv8vu/tgu_2026_results_congrats_to_the_sf6_top8/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-16T17:20:48.000Z",
           "score": 0,
           "level": null,
           "why": []
