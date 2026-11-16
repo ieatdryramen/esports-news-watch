@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T13:00:48.713Z",
+  "generatedAt": "2026-11-16T14:00:50.565Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -30,17 +30,6 @@
           "why": [
             "iem",
             "blast"
-          ]
-        },
-        {
-          "title": "Team Spirit Mirage B Site CT Pistol Setup",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxgkge/team_spirit_mirage_b_site_ct_pistol_setup/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-16T04:52:30.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "spirit"
           ]
         },
         {
@@ -83,24 +72,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 9,
       "stories": [
-        {
-          "title": "Possibly the worst exploit/cheat in the history of Dota: Enemy moved item from MY inventory to stash",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxhjzg/possibly_the_worst_exploitcheat_in_the_history_of/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T05:47:28.000Z",
-          "score": 10,
-          "level": "possible",
-          "why": [
-            "ban*",
-            "cheating*",
-            "cheat",
-            "vac*",
-            "history",
-            "reddit only"
-          ]
-        },
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmk3U3ZWcm5MSHhEVUNOcEtlejZ0TmZYZTk5TWVlZjdVb3NkbUR1dkVDZ2ZsZ25KR042bEdwSmtrMkhWSXkycWFDYjUwQmpjZ3ZjZ3Y0STVOZjFraU05YWlFYU5FSzlCaG9RaDZZQzA2S0lvUzdDRktybDlHYmQ5TTVHMllmSVFZZk9kdXZzb3hiek5TSXppa1RQLU12RjBGYWRuR1VEV1lfazNlNXRrUDU5dGNkNmJ5RHk1TQ?oc=5",
@@ -111,6 +84,29 @@
           "why": [
             "wins",
             "team spirit"
+          ]
+        },
+        {
+          "title": "Is this community still upset over this?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxpng0/is_this_community_still_upset_over_this/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T13:42:27.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "upset"
+          ]
+        },
+        {
+          "title": "Will a leak of this scale happen again for 7.42?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxp8sg/will_a_leak_of_this_scale_happen_again_for_742/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T13:23:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "leak",
+            "history*"
           ]
         },
         {
@@ -130,6 +126,24 @@
           "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-16T02:51:31.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Even copied how the New Frontiers patch was introduced. 😅",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxp78s/even_copied_how_the_new_frontiers_patch_was/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T13:21:44.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Act 2 and Gameplay patch wont arrive at the same time, right?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxp2y6/act_2_and_gameplay_patch_wont_arrive_at_the_same/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T13:16:15.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -195,19 +209,21 @@
           ]
         },
         {
+          "title": "Harada’s old Tweet regarding Kazumi really makes me wonder, what does Currently even mean?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xxho04/haradas_old_tweet_regarding_kazumi_really_makes/",
+          "source": "r/Tekken",
+          "published": "2026-11-16T05:53:59.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "harada"
+          ]
+        },
+        {
           "title": "Tekken 8 x Nike Collaboration Adds King’s Air Max 1 Sneakers",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MVGw0STVpZUt3SUpQU01lMkpDQ1BDMXl2Sm1BX1Z5bUlMMkpIZHZsSDlxVS1aNG5KTGNrcTFBVEFiZVhGRnJrS1I5V0kyanNDVWZuUWdQZ3VkRkRtM1k5VXUybWx3c3pZZFQ5dlFOSURQZlQyQ05Vd2lkT01Pdw?oc=5",
           "source": "Google News: Tekken (The Outerhaven)",
           "published": "2026-11-16T00:05:48.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "13-year-old finishes 25th out of 187 in global Tekken tournament",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTRNdC1SbFFRR05yWHpLbF9GbEtNZi0ta01wUUktTEVYMTJlTHlCVjhjSlFiQ2d1c2RMQWRBLVpNVG9LekpDSXd1UGEzZFFQR3IxTEpHTS1TNm1IYTZCeHBNUFI4UWdPZ0pjZk1IVzJ4OU5td1RQTHctRFpXLWtUREhINkluSFhva0h2OTRjbjdkb2Q0cG9XcVpmLUJ4U3VDYVZJT0h30gGrAUFVX3lxTE84eU9HaVNHV2ZNZ1ZEd3VyMG96TncyZk5DaXEwWVB4SzhDTnNlWjZZOVdwV3JJM3FhbVJJWTJjRFBXTGM4OUs3aWF2TWpNYlhnbGt6SkNSTjVhbUJ5cjV0NjdvZHJLM2xOUnk5d3gzWUc4am95Q1Q4QVdUTlVlak5MZU83bjVYUm90WEdmbXpaMUd1RmFrcmVKVnpfdWstUVVhNEpYbm1HdnFxaw?oc=5",
-          "source": "Google News: Tekken (Inquirer Technology)",
-          "published": "2026-11-15T13:21:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -242,8 +258,19 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Where is Hera?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xxptac/where_is_hera/",
+          "source": "r/aoe2",
+          "published": "2026-11-16T13:49:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "hera"
+          ]
+        },
         {
           "title": "Does anyone else have this achievement without even owning the DLC?",
           "url": "https://www.reddit.com/r/aoe2/comments/1xxmvrp/does_anyone_else_have_this_achievement_without/",
@@ -254,6 +281,21 @@
           "why": [
             "released*"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-16T07:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -271,21 +313,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Halo",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Shoutout to u/OpenSpartan for the map overlay in the recent LVT tournament",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxhqgv/shoutout_to_uopenspartan_for_the_map_overlay_in/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-16T05:58:11.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -293,8 +320,8 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Street Fighter",
     "CoD",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
