@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-11-16T00:20:45.262Z",
+  "generatedAt": "2026-11-16T01:20:18.751Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Rivals"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Rivals",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Marvel Rivals Leak Points to New Nightcrawler Content for Seasons Greetings",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0pnOXpUdjR6aHp6bVlwYThCZHJ0MG9CTnVxeVowY25MY25QYmhqRWJuVG9VRUdKbnpxNmlZMU5FdTRONHFna0NQVkVIc1pYaDl1Y245enZLdTZZTzF0b1hJcXA0OFdqX3k5SC0tYTIzU2FmSHhRcklCcWNWMEswaWc4TW9mQzA?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-15T09:32:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "leak"
+          ]
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
