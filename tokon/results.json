@@ -1,54 +1,7 @@
 {
-  "generatedAt": "2026-11-16T15:55:19.131Z",
+  "generatedAt": "2026-11-16T16:25:24.028Z",
   "source": "start.gg",
   "completed": [
-    {
-      "eventId": "1613007",
-      "scene": "tokon",
-      "game": "Fighting Souls",
-      "tournament": "Astral Finish 2026",
-      "event": "Marvel Tokon: Fighting Souls",
-      "entrants": 49,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T16:00:00.000Z",
-      "endAt": "2026-11-16T05:00:00.000Z",
-      "url": "https://www.start.gg/tournament/astral-finish-2026/event/marvel-tokon-fighting-souls",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Gen.G | Dany \"El Maza\""
-        },
-        {
-          "placement": 2,
-          "name": "0skill | romanticstyle"
-        },
-        {
-          "placement": 3,
-          "name": "TiempoGris"
-        },
-        {
-          "placement": 4,
-          "name": "Oso Ragna"
-        },
-        {
-          "placement": 5,
-          "name": "AR/0Skill | Folkena"
-        },
-        {
-          "placement": 5,
-          "name": "CDM | MAZAFGC | Neku"
-        },
-        {
-          "placement": 7,
-          "name": "4P | Spawnangel"
-        },
-        {
-          "placement": 7,
-          "name": "TKF | Syzoth"
-        }
-      ]
-    },
     {
       "eventId": "1608371",
       "scene": "tokon",
