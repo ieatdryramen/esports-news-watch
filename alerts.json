@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-16T09:25:20.172Z",
+      "level": "possible",
+      "scene": "Tekken",
+      "title": "Pakistan’s Atif Butt wins Thaiger Uppercut 2026 Tekken 8 title",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaERCOHNZNGF4dnUxem1BWkdWNkpFMnBuN0tBRi1WWEtRQjJyVUMzS3NtcXpFYjZrTmx2OHdCNWpfV251RlI3UFRoR3BvRkplNXFGX1c2VzJJZVpOUXIyU2RKNTFGNWVIelBmRkRSQS1EVTZRelY0U3RFU2RreVB1NVUyVGhqUjFwRjR3dg?oc=5",
+      "source": "Google News: Tekken (thecurrent.pk)",
+      "outlets": [
+        "thecurrent.pk"
+      ],
+      "score": 6,
+      "why": [
+        "wins",
+        "atif"
+      ],
+      "summary": "",
+      "published": "2026-11-16T09:23:25.000Z"
+    },
+    {
       "alertedAt": "2026-11-16T09:00:41.171Z",
       "level": "breaking",
       "scene": "Melee",
