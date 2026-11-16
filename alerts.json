@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-16T08:25:16.260Z",
+      "level": "possible",
+      "scene": "Melee",
+      "title": "Cody Schwab is the fucking Terminator",
+      "url": "https://www.reddit.com/r/SSBM/comments/1xxjzoc/cody_schwab_is_the_fucking_terminator/",
+      "source": "r/SSBM",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "won*",
+        "record*",
+        "zain*",
+        "cody schwab"
+      ],
+      "summary": "This crackhead has now won 3/3 supermajors this year. Has that even been done before? He won 4/5 majors he attended and got 2nd at the 5th, and let's be honest, if it wasn't for the poop lettuce CEO might've looked a little different. He is up 5-0 on Zain this year, and has only lost sets to Hbox and Swift, who funnily enough is the only one who doesn't have a losing record against Mr Schwab (1-0). Meanwhile, to pay his bills he's been training an army of freaks that are also popping off and taking names. Cody has ascended to the status of an elder statesman of Melee while simultaneously being more dominant than ever when he decides to descend from his monk throne. submitted by /u/krautbaguette to r/SSBM [link] [comments]",
+      "published": "2026-11-16T08:16:24.000Z"
+    },
+    {
       "alertedAt": "2026-11-16T05:50:19.785Z",
       "level": "possible",
       "scene": "Dota",
@@ -556,27 +576,6 @@
       ],
       "summary": "Full chronological list of Spirit map wins with donk sub-1.0 (since he joined the main roster): 10.10.2023, ESL Challenger Jonkoping 2023 European Closed Qualifier (online) vs Movistar Riders , map 1 Anubis (0.82, 13-6) 30.10.2023, Thunderpick World Championship 2023 group stage vs Mouz , map 2 Mirage (0.97, 13-6) 13.11.2023, BetBoom Dacha 2023 Closed Qualifier (online) vs MIBR , map 1 Ancient (0.96, 13-11) 19.02.2024, PGL Copenhagen Major 2024 RMR vs Astralis , BO1 Vertigo (0.96, 13-11) 29.05.2024, IEM Dallas 2024 group stage vs FaZe , map 3 Nuke (0.88, 13-10) 18.07.2024, Esports World Cup 2024 quarterfinal vs G2 , map 2 Nuke (0.83, 16-14) 29.07.2024, BLAST Fall Groups 2024 vs OG , map 2 Mirage (0.92, 13-9) 26.09.2024, BLAST Fall Final 2024 group stage vs Astralis , map 3 Mirage (0.91, 13-11) 27.09.2024, BLAST Fall Final 2024 quarterfinal vs G2 , map 2 Mirage (0.97, 16-13) 23.03.2025, BLAST Open Lisbon 2025 group strage vs FaZe , map 1 Anubis (0.91, 13-8) 09.08.2025, BLAST Bounty 2025 S2 round of 32 (online) vs G2 , map 1 Mirage (0.78, 13-11) 15.04.2026, IEM Rio 2026 group stage vs G2 , map 3 Dust2 (0.91, 13-11) 01.08.2026, BLAST Bounty 2026 S2 semifinal vs FaZe , map 3 Anubis (0.70, 13-11) 05.09.2026, BLAST Open Porto 2026 semifinal vs Falcons , map 2 Ancient (0.96, 13-11) 14.11.2026, BLAST Rivals Hong Kong 2026 semifinal vs Mouz , map 1 Mirage (0.93, 13-7) Note: map 1 Dust2 of BLAST Open Porto 2026 grand final vs Mouz (13-11 win) was initially rated 0.99, however adjusted ",
       "published": "2026-11-14T10:00:51.000Z"
-    },
-    {
-      "alertedAt": "2026-11-14T08:25:16.087Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "Asian crowd controversy and should we expect the same for the major?",
-      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xvx7u1/asian_crowd_controversy_and_should_we_expect_the/",
-      "source": "r/GlobalOffensive",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 7,
-      "why": [
-        "the last*",
-        "cheating*",
-        "controversy",
-        "blast*",
-        "reddit only"
-      ],
-      "summary": "The last few S tier events(including today at Blast) have some of the most bizzare \"crowd cheating\" moments and all of those events were in asian countries. As a neutral fan I really don't like how the crowd is affecting basically every buy round - should we expect the same for the Major as well? I am not new to watching big arena cs - but I have witnessed something similar only in Brazil events (when Brazil teams play). Is there any explanation why the crowd cheating is happening so often in Beijing and now in Hong Kong? I am genuinely interested in any explanation - is the ESL/BLAST X Ray observer different or anything else? submitted by /u/fedexpres to r/GlobalOffensive [link] [comments]",
-      "published": "2026-11-14T08:21:16.000Z"
     }
   ]
 }
