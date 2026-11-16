@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-16T16:00:45.994Z",
+  "generatedAt": "2026-11-16T17:00:43.138Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
-          "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fOEZMY2V0RUItbU1sb1lmbVNRbmtkcHZ1NHhuXzBjUVUxU1UzNzZ1UHV1Tm9RTFNlMlRsZTBuU0k4UGU4VU9rd3kwLXEwTU1Gck9aQ2pKVTRhUnZz?oc=5",
-          "source": "Google News: CS2 (ACROFAN USA)",
-          "published": "2026-11-16T04:12:00.000Z",
+          "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDT1AtVFU2a3NYQnV1WTlzUWpkdmszUzF4alpubGNvdUxYTkM2ekZvNlBPT0wyRW1JRlNVbHVMZFBpeV9fWXUwUnN5N2YwMnRlSGM4RjljRkJ1T1FjTTBYNWt5aV9UTUF6RmFSVmlIX0dqWGZzaXBDMUc1STVBREU?oc=5",
+          "source": "Google News: CS2 (Pokde.Net)",
+          "published": "2026-11-16T15:50:57.000Z",
           "score": 12,
           "level": "breaking",
           "why": [
@@ -18,6 +18,20 @@
             "crowned",
             "furia",
             "blast"
+          ]
+        },
+        {
+          "title": "magic vs Eternal Fire / PGL Cluj-Napoca 2027 Closed Qualifier - Lower Bracket Semi-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxub23/magic_vs_eternal_fire_pgl_clujnapoca_2027_closed/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-16T16:46:55.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "pgl"
           ]
         },
         {
@@ -41,6 +55,17 @@
           "level": null,
           "why": [
             "furia"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major COI list, also confirms end dates of various loaned players",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxr7dx/pgl_singapore_major_coi_list_also_confirms_end/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-16T14:47:38.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -83,7 +108,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
@@ -190,15 +215,6 @@
           "why": []
         },
         {
-          "title": "Act 2 and Gameplay patch wont arrive at the same time, right?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxp2y6/act_2_and_gameplay_patch_wont_arrive_at_the_same/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T13:16:15.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "how league handles false reports vs how dota 2 handles them",
           "url": "https://www.reddit.com/r/DotA2/comments/1xxnez6/how_league_handles_false_reports_vs_how_dota_2/",
           "source": "r/DotA2",
@@ -206,12 +222,23 @@
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0pyTDdPZGpuS2JpNHhzNThSWm1iam9CUGVkYmhqR1Jqd2ppMVpSOFp0SS1fV2RMcDl1Nk9jYlF4OHBtM1Q5cndvZGoyVWFvZ1B6MkhaaWp3cGZKSWVnNjRCd3k4X2JtanFQVk9DbDRUSl9TQjNvMkZZUGRfbDZUWFhEOWFGVDJrQ1h0RGh0LXBXSnFWOVZZ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-16T03:38:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt wins Tekken 8 title at Thaiger Uppercut 2026 in Bangkok",
@@ -223,6 +250,18 @@
           "why": [
             "wins",
             "atif"
+          ]
+        },
+        {
+          "title": "Atif Butt defeats South Korea’s lowhigh to claim Tekken 8 title",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajFGN1Q5d3dYbFpKeW41T2o5ckJ5dFZmY19MTDFXUEJDWE9jZkc2UWNFdnoxblhhenotWWdFeTZaOFhhOFkzNE1IN1lCS0FCdW5SQmhmNXhtNHlCcHcwc2VEZ0h6ZUlDZ3NpYUJpVElxenVIXy1JN1N5N2ZZNElXNFIxVnVUdHBHSUJSVzE1ZkdZYkE1WmZ0bEFoRHk?oc=5",
+          "source": "Google News: Tekken (24 News HD)",
+          "published": "2026-11-16T15:41:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "atif",
+            "lowhigh"
           ]
         },
         {
@@ -316,6 +355,24 @@
       ]
     },
     {
+      "scene": "Warcraft III",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "The Warcraft III event that nearly lost its venue three weeks before opening",
+          "url": "https://www.reddit.com/r/WC3/comments/1xxtc1f/the_warcraft_iii_event_that_nearly_lost_its_venue/",
+          "source": "r/WC3",
+          "published": "2026-11-16T16:10:10.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "history*",
+            "official*"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -352,7 +409,6 @@
     "Classic Tetris",
     "Brood War",
     "Trackmania",
-    "Warcraft III",
     "CoD",
     "Quake",
     "Halo"
