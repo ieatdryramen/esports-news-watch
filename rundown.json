@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T10:40:23.661Z",
+  "generatedAt": "2026-11-16T11:40:18.790Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -56,29 +56,6 @@
           "why": [
             "spirit",
             "furia",
-            "blast"
-          ]
-        },
-        {
-          "title": "FURIA rout Spirit in Hong Kong final to win third trophy in four events",
-          "url": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events",
-          "source": "HLTV news",
-          "published": "2026-11-15T11:11:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "furia"
-          ]
-        },
-        {
-          "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
-          "url": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
-          "source": "HLTV news",
-          "published": "2026-11-15T11:27:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
             "blast"
           ]
         },
@@ -183,8 +160,8 @@
         {
           "title": "Pakistan’s Atif Butt wins Thaiger Uppercut 2026 Tekken 8 title",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaERCOHNZNGF4dnUxem1BWkdWNkpFMnBuN0tBRi1WWEtRQjJyVUMzS3NtcXpFYjZrTmx2OHdCNWpfV251RlI3UFRoR3BvRkplNXFGX1c2VzJJZVpOUXIyU2RKNTFGNWVIelBmRkRSQS1EVTZRelY0U3RFU2RreVB1NVUyVGhqUjFwRjR3dg?oc=5",
-          "source": "Google News: Tekken (thecurrent.pk)",
-          "published": "2026-11-16T09:23:25.000Z",
+          "source": "Google News: Tekken (The Current)",
+          "published": "2026-11-16T11:18:06.000Z",
           "score": 6,
           "level": "possible",
           "why": [
@@ -233,35 +210,6 @@
       ]
     },
     {
-      "scene": "Halo",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Shopify vs TSM Series Results | Grand Finals | LVT Halo Pro League $100,000 LAN",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxe0vz/shopify_vs_tsm_series_results_grand_finals_lvt/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-16T02:38:13.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "signs*",
-            "won*",
-            "grand finals",
-            "prize pool*"
-          ]
-        },
-        {
-          "title": "Shoutout to u/OpenSpartan for the map overlay in the recent LVT tournament",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxhqgv/shoutout_to_uopenspartan_for_the_map_overlay_in/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-16T05:58:11.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
       "storyCount": 1,
       "stories": [
@@ -296,20 +244,26 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
+      "scene": "AoE2",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "How would you nerf fox?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xxdyt5/how_would_you_nerf_fox/",
-          "source": "r/SSBM",
-          "published": "2026-11-16T02:35:11.000Z",
+          "title": "Does anyone else have this achievement without even owning the DLC?",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xxmvrp/does_anyone_else_have_this_achievement_without/",
+          "source": "r/aoe2",
+          "published": "2026-11-16T11:19:07.000Z",
           "score": 1,
           "level": null,
           "why": [
-            "ending*"
+            "released*"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
         {
           "title": "Congratulations to the winner of Melee Singles at Port Priority: DX!",
           "url": "https://www.reddit.com/r/SSBM/comments/1xxiaxe/congratulations_to_the_winner_of_melee_singles_at/",
@@ -320,10 +274,24 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Shoutout to u/OpenSpartan for the map overlay in the recent LVT tournament",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxhqgv/shoutout_to_uopenspartan_for_the_map_overlay_in/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-16T05:58:11.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
-    "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
