@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:00:50.565Z",
+  "generatedAt": "2026-11-16T15:00:40.580Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -33,19 +33,19 @@
           ]
         },
         {
-          "title": "Alliance part ways with head coach Hawk",
-          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
-          "published": "2026-11-16T12:09:00.000Z",
+          "published": "2026-11-16T14:50:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "title": "Alliance part ways with head coach Hawk",
+          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
           "source": "HLTV news",
-          "published": "2026-11-16T09:24:00.000Z",
+          "published": "2026-11-16T12:09:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -72,7 +72,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
@@ -84,6 +84,17 @@
           "why": [
             "wins",
             "team spirit"
+          ]
+        },
+        {
+          "title": "Cheating not even being discreet about it. Item's being transferred to stash",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxrieh/cheating_not_even_being_discreet_about_it_items/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T14:59:50.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheating"
           ]
         },
         {
@@ -110,6 +121,17 @@
           ]
         },
         {
+          "title": "App to look match results from phone",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxqf0w/app_to_look_match_results_from_phone/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T14:15:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "history*"
+          ]
+        },
+        {
           "title": "Pearls of wisdom from Oracle to folks losing their minds over the upcoming update",
           "url": "https://www.reddit.com/r/DotA2/comments/1xxog14/pearls_of_wisdom_from_oracle_to_folks_losing/",
           "source": "r/DotA2",
@@ -126,6 +148,15 @@
           "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-16T02:51:31.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Hosting a Mini Tournament for EU ADCL!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxq5tl/hosting_a_mini_tournament_for_eu_adcl/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T14:04:27.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
@@ -298,24 +329,10 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Congratulations to the winner of Melee Singles at Port Priority: DX!",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xxiaxe/congratulations_to_the_winner_of_melee_singles_at/",
-          "source": "r/SSBM",
-          "published": "2026-11-16T06:31:23.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
