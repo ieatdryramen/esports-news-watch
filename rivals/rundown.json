@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:01:11.854Z",
+  "generatedAt": "2026-11-16T08:01:11.911Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,15 +7,15 @@
       "storyCount": 14,
       "stories": [
         {
-          "title": "Hey seriously don't ban your teammates pick.",
-          "url": "https://www.reddit.com/r/marvelrivals/comments/1xxi2dp/hey_seriously_dont_ban_your_teammates_pick/",
+          "title": "Comms Ban Length/Fairness",
+          "url": "https://www.reddit.com/r/marvelrivals/comments/1xx53r1/comms_ban_lengthfairness/",
           "source": "r/marvelrivals",
-          "published": "2026-11-16T06:17:21.000Z",
+          "published": "2026-11-15T19:58:34.000Z",
           "score": 5,
           "level": "possible",
           "why": [
-            "ban",
-            "suspended*"
+            "banned*",
+            "ban"
           ]
         },
         {
