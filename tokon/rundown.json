@@ -1,24 +1,8 @@
 {
-  "generatedAt": "2026-11-16T00:10:21.570Z",
+  "generatedAt": "2026-11-16T01:06:00.348Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Tokon",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Marvel Tōkon's First Dlc Fighter Is Phoenix Cyclops From The Avengers Vs. X-Men Comics",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02R3Q4Nm5ZU1luS3RJMTVEUGRpVklwX3B1YWcyaFM3WlZ0S2M2SWZuOXp1WHVKTFlEeGwxNnE0clAwVTNiUkplSkpwSktJZnRCVEdMVks4dmVGZUU4VVlUdXZR?oc=5",
-          "source": "Google News: Tokon (IMDb)",
-          "published": "2026-11-15T01:41:15.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "dlc"
-          ]
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Tokon"
+  ]
 }
