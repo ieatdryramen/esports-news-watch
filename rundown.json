@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T05:45:31.762Z",
+  "generatedAt": "2026-11-16T06:45:20.272Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 5,
+      "storyCount": 11,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -17,6 +17,20 @@
             "champions",
             "crowned",
             "furia",
+            "blast"
+          ]
+        },
+        {
+          "title": "The BLAST Rivals grand final as it happened",
+          "url": "https://www.hltv.org/news/45993/the-blast-rivals-grand-final-as-it-happened",
+          "source": "HLTV news",
+          "published": "2026-11-15T12:33:00.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "grand final",
+            "spirit*",
+            "furia*",
             "blast"
           ]
         },
@@ -47,6 +61,41 @@
           ]
         },
         {
+          "title": "FURIA rout Spirit in Hong Kong final to win third trophy in four events",
+          "url": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events",
+          "source": "HLTV news",
+          "published": "2026-11-15T11:11:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "furia"
+          ]
+        },
+        {
+          "title": "BLAST to return to Hong Kong in 2027",
+          "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
+          "source": "HLTV news",
+          "published": "2026-11-15T10:21:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "blast"
+          ]
+        },
+        {
+          "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
+          "url": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
+          "source": "HLTV news",
+          "published": "2026-11-15T11:27:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
           "title": "Team Spirit Mirage B Site CT Pistol Setup",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxgkge/team_spirit_mirage_b_site_ct_pistol_setup/",
           "source": "r/GlobalOffensive",
@@ -58,23 +107,54 @@
           ]
         },
         {
-          "title": "ESL Pro League Season 24 - EPL CS2 - Schedule and Results",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cXpzUXZVTUhUY0FmSWlBUFRpUTRWUlVEcHVVdGltSkpfUWdnZU4tVGZQNGlGRkphRnVXYVJtMnRxZEQ2SW9GNjVGM1A4WjVRYkxleWxhbVNFSVVSX0ViUmJEY2lrYnVhRVJYQi1zUDdRSnZxTU9Hakw2Zw?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-15T06:07:08.000Z",
+          "title": "Short news: Week 44",
+          "url": "https://www.hltv.org/news/45949/short-news-week-44",
+          "source": "HLTV news",
+          "published": "2026-11-15T21:45:00.000Z",
           "score": 1,
           "level": null,
-          "why": [
-            "esl pro league",
-            "-schedule"
-          ]
+          "why": []
+        },
+        {
+          "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame",
+          "url": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
+          "source": "HLTV news",
+          "published": "2026-11-15T18:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "KSCERATO: \"We need to be humble and go to the Major with the mentality that we need to show our best\"",
+          "url": "https://www.hltv.org/news/45997/kscerato-we-need-to-be-humble-and-go-to-the-major-with-the-mentality-that-we-need-to-show-our-best",
+          "source": "HLTV news",
+          "published": "2026-11-15T13:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 8,
       "stories": [
+        {
+          "title": "Possibly the worst exploit/cheat in the history of Dota: Enemy moved item from MY inventory to stash",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxhjzg/possibly_the_worst_exploitcheat_in_the_history_of/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T05:47:28.000Z",
+          "score": 10,
+          "level": "possible",
+          "why": [
+            "ban*",
+            "cheating*",
+            "cheat",
+            "vac*",
+            "history",
+            "reddit only"
+          ]
+        },
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmk3U3ZWcm5MSHhEVUNOcEtlejZ0TmZYZTk5TWVlZjdVb3NkbUR1dkVDZ2ZsZ25KR042bEdwSmtrMkhWSXkycWFDYjUwQmpjZ3ZjZ3Y0STVOZjFraU05YWlFYU5FSzlCaG9RaDZZQzA2S0lvUzdDRktybDlHYmQ5TTVHMllmSVFZZk9kdXZzb3hiek5TSXppa1RQLU12RjBGYWRuR1VEV1lfazNlNXRrUDU5dGNkNmJ5RHk1TQ?oc=5",
@@ -97,6 +177,26 @@
           "why": [
             "removed"
           ]
+        },
+        {
+          "title": "FURIA sweep Team Falcons to set up BLAST Rivals Fall 2026 final with Spirit",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3NmeGg4QTFyX0hmdWNvdnNWMnpFSnRRZlFQRE9vSnozQmU2VTVWY0JVQnYxLU12WU54UHlWTjR2ZnpETFdMck4zN1ZXOUJzSXFTSElKODNiZWtNcThVZU5FbDIzUFlDUFVDNjBTN3djdDRDaUpxQ2J5RnVSUWltQ3dOZFBpbVhwZW53YTN6dVZmcGp4VVB3MUxfeWdYRWp5OHZyc2lOZUpVb0hVOUl6QmlvOGo?oc=5",
+          "source": "Google News: Dota (Esports News UK)",
+          "published": "2026-11-15T09:18:16.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "falcons"
+          ]
+        },
+        {
+          "title": "Dota 2 1win Essence III: All teams, schedules, results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-16T02:51:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
@@ -133,7 +233,7 @@
     },
     {
       "scene": "Halo",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "TSM vs Kraken Seas Series Results | Elimination Finals | LVT Halo Pro League $100,000 LAN",
@@ -148,57 +248,15 @@
             "grand finals*",
             "eliminated*"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "Toronto KOI Mixed Mayhem Champions: Team Abezy",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx92y1/toronto_koi_mixed_mayhem_champions_team_abezy/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-15T22:45:33.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "champions",
-            "abezy"
-          ]
         },
         {
-          "title": "NA Challengers Cup #1 Champions!",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxfjq4/na_challengers_cup_1_champions/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T03:56:34.000Z",
-          "score": 3,
+          "title": "Shoutout to u/OpenSpartan for the map overlay in the recent LVT tournament",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxhqgv/shoutout_to_uopenspartan_for_the_map_overlay_in/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-16T05:58:11.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "champions"
-          ]
-        },
-        {
-          "title": "NA Cup #1 Grand Final - M8's Acad #1 Vs M8's Acad #2",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxcr14/na_cup_1_grand_final_m8s_acad_1_vs_m8s_acad_2/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T01:35:12.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand final"
-          ]
-        },
-        {
-          "title": "HyDra so far in MW4.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx9dh7/hydra_so_far_in_mw4/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-15T22:58:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "hydra"
-          ]
+          "why": []
         }
       ]
     },
@@ -258,6 +316,34 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "NA Challengers Cup #1 Champions!",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxfjq4/na_challengers_cup_1_champions/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T03:56:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champions"
+          ]
+        },
+        {
+          "title": "NA Cup #1 Grand Final - M8's Acad #1 Vs M8's Acad #2",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxcr14/na_cup_1_grand_final_m8s_acad_1_vs_m8s_acad_2/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T01:35:12.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand final"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Legacy FGC",
       "storyCount": 1,
       "stories": [
@@ -276,7 +362,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "How would you nerf fox?",
@@ -310,6 +396,15 @@
           "why": [
             "zain*"
           ]
+        },
+        {
+          "title": "Congratulations to the winner of Melee Singles at Port Priority: DX!",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xxiaxe/congratulations_to_the_winner_of_melee_singles_at/",
+          "source": "r/SSBM",
+          "published": "2026-11-16T06:31:23.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     }
