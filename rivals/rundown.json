@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-11-16T09:01:03.049Z",
+  "generatedAt": "2026-11-16T10:00:42.126Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Rivals"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Rivals",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Marvel Rivals Ignite 2026 Stage 2 - Pacific Oceania",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZeDlIaGRHTi02VHBVX3pQaTQzLVNzVnhGOWF6eGRaUGt1UVdOTnRYRDgwU1N1cjhpcS1NSzh3Y2FFUUtWV0lBbmxmSGhQWXBmd3lUODRoTW82U1FWajlEUmJpamk3VEZ2cFFRcFJyNGNkLUU3aThlOUtrVlpOSVk?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-16T08:01:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals : Jeff The Landshark Incognito Dolphin Plushie/Skin Recolor Gameplay!!!",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tZy1CZmdSWkNiTFFGNzdDYlQxWEo2SmJWYXBVQXgxU1dUeEpyd3VCU1RPVlBKMmlDeWdlcV9FbVdsVzdaTWR5cUdGbzJLOHo4SlRxYXBDQjhfb0FT?oc=5",
+          "source": "Google News: Rivals patches (YouTube)",
+          "published": "2026-11-16T03:30:13.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-skin"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Adds White Fox Shining Moment Skin and a Rivals’ Day 2026 Event",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZTI2OWhtcTZ3aEt2RmhWMHlfa09OOFhCMXV2eVJoU3YwMW5jblM3ampoZlhJNkdGT0szNmJ3TndsRHpnSllFOF9qZFJhajlqbHhsM0xYNGJYNHZJU0pyR1pYNlMxRnRFQnRkVWstenpJZEhpNklpY1ZYLXFxRnAzTVRn?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-15T23:32:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-skin"
+          ]
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }

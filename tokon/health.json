@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:01:12.151Z",
+  "generatedAt": "2026-11-16T10:00:42.831Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -30,7 +30,7 @@
       "ok": true,
       "skipped": false,
       "items": 15,
-      "newest": "2026-11-15T09:08:25.000Z",
+      "newest": "2026-11-16T09:08:47.000Z",
       "error": null
     },
     {
@@ -62,48 +62,48 @@
       "ok": true,
       "skipped": false,
       "items": 25,
-      "newest": "2026-11-15T13:00:00.000Z",
+      "newest": "2026-11-16T10:00:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Tokon",
-      "ok": false,
+      "ok": true,
       "skipped": false,
-      "items": 0,
-      "newest": null,
-      "error": "HTTP 503"
+      "items": 8,
+      "newest": "2026-11-16T09:03:36.000Z",
+      "error": null
     },
     {
       "name": "Google News: Tokon competitive",
-      "ok": false,
+      "ok": true,
       "skipped": false,
-      "items": 0,
-      "newest": null,
-      "error": "HTTP 503"
+      "items": 1,
+      "newest": "2026-11-15T13:43:11.000Z",
+      "error": null
     },
     {
       "name": "Google News: Tokon patches + DLC",
-      "ok": false,
+      "ok": true,
       "skipped": false,
-      "items": 0,
-      "newest": null,
-      "error": "HTTP 503"
+      "items": 4,
+      "newest": "2026-11-15T23:02:10.000Z",
+      "error": null
     },
     {
       "name": "Google News: EventHubs/Dot/Dashfight",
-      "ok": false,
+      "ok": true,
       "skipped": false,
-      "items": 0,
-      "newest": null,
-      "error": "HTTP 503"
+      "items": 1,
+      "newest": "2026-11-15T13:43:11.000Z",
+      "error": null
     },
     {
       "name": "Reddit (2 subs, public feed)",
-      "ok": true,
-      "skipped": false,
-      "items": 100,
-      "newest": "2026-11-16T01:07:51.000Z",
-      "error": null
+      "ok": false,
+      "skipped": true,
+      "items": 0,
+      "newest": null,
+      "error": "Reddit blocks this server without app keys"
     }
   ]
 }
