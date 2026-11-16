@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-16T22:50:18.636Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "IEM Cologne Major sticker update was 11 days before its Stage 1, we are now 8 days away from PGL Major and no Stickers",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xy3shw/iem_cologne_major_sticker_update_was_11_days/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "update",
+        "iem",
+        "pgl",
+        "cologne major"
+      ],
+      "summary": "submitted by /u/SpareThisOne2thPls to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-16T22:47:30.000Z"
+    },
+    {
       "alertedAt": "2026-11-16T22:05:33.047Z",
       "level": "possible",
       "scene": "Dota",
