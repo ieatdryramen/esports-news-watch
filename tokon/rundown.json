@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-11-16T14:00:54.058Z",
+  "generatedAt": "2026-11-16T15:00:45.584Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Official Black Friday PS5 game deals now live up to 60% off: Wolverine, Marvel Tōkon, Control, Saros, more",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2Q0UThVMm9yVjhfTXkwSTNPVC0zN2lLZ2dBcUZSZHFrU3FzZzQ2Y3hXTHg5MWIwaHJNTjZFVHhZQ19sY3dXNVlZdDR1VUpTSGtXTUNEaW9Hd0t3MTZXVE9jUUoxQVZEMHYycGh0Ym5tVlVNVDA3QVVsX0E4YjRmMlc4MDE?oc=5",
+          "source": "Google News: Tokon (9to5Toys)",
+          "published": "2026-11-16T14:21:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
