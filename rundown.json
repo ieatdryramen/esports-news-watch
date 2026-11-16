@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T17:55:31.746Z",
+  "generatedAt": "2026-11-16T18:55:24.704Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 10,
       "stories": [
         {
           "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
@@ -47,6 +47,29 @@
           ]
         },
         {
+          "title": "Astralis announce jabbi departure",
+          "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
+          "source": "HLTV news",
+          "published": "2026-11-16T17:50:00.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "leaves*",
+            "astralis"
+          ]
+        },
+        {
+          "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
+          "url": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
+          "source": "HLTV news",
+          "published": "2026-11-16T17:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
           "title": "The CS2 Mayonnaise Team: How Hellmann’s Became FURIA’s Most Famous Sponsor",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTdYUzBwNDdBdWlDN2IyWWlrOGRLQVZqVGdoLTY5NXJpdVFmY3hXZ19qeXdhcnNzd1E5SlhLSmVnSnhLUG81dXlJUEtRS3RZdkx4cHNoaWljOHBtbXNkQndQQS1zMjNuMmNITjgzUm5XSzBKYndWQzdZeUp6OV9tNTdITUxTQUk?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -80,11 +103,20 @@
           ]
         },
         {
-          "title": "Ranked every pro flash lineup by the kills it sets up. Inferno's Default B flash from Coffins is in a league of its own",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxnui5/ranked_every_pro_flash_lineup_by_the_kills_it/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-16T12:14:01.000Z",
-          "score": 0,
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-16T14:50:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Alliance part ways with head coach Hawk",
+          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
+          "source": "HLTV news",
+          "published": "2026-11-16T12:09:00.000Z",
+          "score": 1,
           "level": null,
           "why": []
         }
@@ -92,7 +124,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
@@ -163,6 +195,18 @@
           ]
         },
         {
+          "title": "I will now make a Lone Druid Dota parody of Gangam Style in anticipation of the new update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxxd1d/i_will_now_make_a_lone_druid_dota_parody_of/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T18:39:35.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "update",
+            "ban*"
+          ]
+        },
+        {
           "title": "App to look match results from phone",
           "url": "https://www.reddit.com/r/DotA2/comments/1xxqf0w/app_to_look_match_results_from_phone/",
           "source": "r/DotA2",
@@ -171,17 +215,6 @@
           "level": null,
           "why": [
             "history*"
-          ]
-        },
-        {
-          "title": "Pearls of wisdom from Oracle to folks losing their minds over the upcoming update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxog14/pearls_of_wisdom_from_oracle_to_folks_losing/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T12:45:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
@@ -224,7 +257,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt wins Tekken 8 title at Thaiger Uppercut 2026 in Bangkok",
@@ -248,18 +281,6 @@
           "why": [
             "atif",
             "lowhigh"
-          ]
-        },
-        {
-          "title": "Will I get an issue (ban or penalty) if I use these mods?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xx7606/will_i_get_an_issue_ban_or_penalty_if_i_use_these/",
-          "source": "r/Tekken",
-          "published": "2026-11-15T21:23:10.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "ban",
-            "replaces*"
           ]
         },
         {
@@ -318,6 +339,32 @@
           "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxva4g/cobra_getting_black_mailed_in_challengers_finals/",
           "source": "r/CoDCompetitive",
           "published": "2026-11-16T17:22:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "[TOTD] 16/11/2026, Star Signs by iGaffy, (discussion)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xxwaie/totd_16112026_star_signs_by_igaffy_discussion/",
+          "source": "r/TrackMania",
+          "published": "2026-11-16T18:00:16.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "signs"
+          ]
+        },
+        {
+          "title": "The Final Alt Car Campaign (for now...)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xxw1d2/the_final_alt_car_campaign_for_now/",
+          "source": "r/TrackMania",
+          "published": "2026-11-16T17:50:37.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -418,14 +465,14 @@
       ]
     },
     {
-      "scene": "Trackmania",
+      "scene": "Brood War",
       "storyCount": 1,
       "stories": [
         {
-          "title": "The Final Alt Car Campaign (for now...)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xxw1d2/the_final_alt_car_campaign_for_now/",
-          "source": "r/TrackMania",
-          "published": "2026-11-16T17:50:37.000Z",
+          "title": "Open Bracket Player Tickets for SC4ALL: II are SOLD OUT! We will have over 100 players competing in Philly between Brood War and StarCraft 2. GET HYPED, Dec 5th and 6th are going to be unforgettable days for StarCraft fans around the world!",
+          "url": "https://www.reddit.com/r/broodwar/comments/1xxxawc/open_bracket_player_tickets_for_sc4all_ii_are/",
+          "source": "r/broodwar",
+          "published": "2026-11-16T18:37:28.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -435,7 +482,6 @@
   ],
   "quiet": [
     "Classic Tetris",
-    "Brood War",
     "Quake",
     "Halo"
   ]
