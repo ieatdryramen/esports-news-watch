@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:55:19.457Z",
+  "generatedAt": "2026-11-16T21:50:22.388Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -144,7 +144,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
@@ -156,17 +156,6 @@
           "why": [
             "wins",
             "team spirit"
-          ]
-        },
-        {
-          "title": "Cheating not even being discreet about it. Item's being transferred to stash",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxrieh/cheating_not_even_being_discreet_about_it_items/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T14:59:50.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
           ]
         },
         {
@@ -233,15 +222,6 @@
           "why": []
         },
         {
-          "title": "What will happen with dota now that League is stepping up?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxrzp2/what_will_happen_with_dota_now_that_league_is/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T15:18:08.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0pyTDdPZGpuS2JpNHhzNThSWm1iam9CUGVkYmhqR1Jqd2ppMVpSOFp0SS1fV2RMcDl1Nk9jYlF4OHBtM1Q5cndvZGoyVWFvZ1B6MkhaaWp3cGZKSWVnNjRCd3k4X2JtanFQVk9DbDRUSl9TQjNvMkZZUGRfbDZUWFhEOWFGVDJrQ1h0RGh0LXBXSnFWOVZZ?oc=5",
           "source": "Google News: Dota (escorenews.com)",
@@ -250,6 +230,87 @@
           "level": null,
           "why": [
             "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 7,
+      "stories": [
+        {
+          "title": "Pakistan’s Atif Butt wins Thaiger Uppercut 2026 Tekken 8 title",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaERCOHNZNGF4dnUxem1BWkdWNkpFMnBuN0tBRi1WWEtRQjJyVUMzS3NtcXpFYjZrTmx2OHdCNWpfV251RlI3UFRoR3BvRkplNXFGX1c2VzJJZVpOUXIyU2RKNTFGNWVIelBmRkRSQS1EVTZRelY0U3RFU2RreVB1NVUyVGhqUjFwRjR3dg?oc=5",
+          "source": "Google News: Tekken (The Current)",
+          "published": "2026-11-16T21:05:02.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "wins",
+            "atif"
+          ]
+        },
+        {
+          "title": "Atif Butt defeats South Korea’s lowhigh to claim Tekken 8 title",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajFGN1Q5d3dYbFpKeW41T2o5ckJ5dFZmY19MTDFXUEJDWE9jZkc2UWNFdnoxblhhenotWWdFeTZaOFhhOFkzNE1IN1lCS0FCdW5SQmhmNXhtNHlCcHcwc2VEZ0h6ZUlDZ3NpYUJpVElxenVIXy1JN1N5N2ZZNElXNFIxVnVUdHBHSUJSVzE1ZkdZYkE1WmZ0bEFoRHk?oc=5",
+          "source": "Google News: Tekken (24 News HD)",
+          "published": "2026-11-16T15:41:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "atif",
+            "lowhigh"
+          ]
+        },
+        {
+          "title": "Roger Jr. joins TEKKEN 8 alongside Nike collaboration and King-inspired items",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWFkdVZwTHBWdnhkMnZEem9RUGRlNFhoclA1UUlHSWptX3JjLUwxZDlkdVFZUi10T3RNeEU0U1haV0NnX3QweVhya2g3czMxdVpxZDl2dGdVcUxseGF3Sm9na0ZZRWpSR0NUdU9fTldqZW9Ha3VFV0pkeEh4REUyekdTdE9McW9adXNCTDRBX1lSY0tqSV9ncVpHdlhIU01JSXVld1dGVXgza0M3S2l5Nkt1aG9IODBPNkhpa0VNTDB4TTg?oc=5",
+          "source": "Google News: Tekken (Esports Kingdom)",
+          "published": "2026-11-15T21:56:20.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "joins"
+          ]
+        },
+        {
+          "title": "8 of the bottom 10 pick characters were base roster characters. In a new Tekken would you want them in the base game again? Is there a real purpose to having two bears? Why did Anna fall off so hard?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xxz3qw/8_of_the_bottom_10_pick_characters_were_base/",
+          "source": "r/Tekken",
+          "published": "2026-11-16T19:44:42.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
+          "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXdRb1ZNWVN2RjlDdFVaNjNPY0RZV2thY1hKckgyRVVfc0VhbWx6cnYwdWNxZkF4aUNxd0s2OVR2M05NZEltbU1xQVNQalgzMGFBQ2ItMVVzdk5kZ3J2UGtRSXpqRUNuTHQ0Ti0xT2ZOeTRqUHA2bjJTT3ZFOXI1UmRSWmludkRBR1FjMF9rTl91QVp0WXp3U1RvSlVjbnd4X1hVWXVEWWxvTjFSR3dkNVhSTlN2N2hyZ3NtanZvS2w4VXRrYjh0aDNUbWw4Q0NPZjVkcDFBT0tSQjk1Q1E?oc=5",
+          "source": "Google News: Tekken (IGN)",
+          "published": "2026-11-16T19:49:35.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken 8 x Nike Collaboration Adds King’s Air Max 1 Sneakers",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MVGw0STVpZUt3SUpQU01lMkpDQ1BDMXl2Sm1BX1Z5bUlMMkpIZHZsSDlxVS1aNG5KTGNrcTFBVEFiZVhGRnJrS1I5V0kyanNDVWZuUWdQZ3VkRkRtM1k5VXUybWx3c3pZZFQ5dlFOSURQZlQyQ05Vd2lkT01Pdw?oc=5",
+          "source": "Google News: Tekken (The Outerhaven)",
+          "published": "2026-11-16T00:05:48.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Anyone else notice the \"break\" in the song Equator Line 2nd (Jungle Outpost final round track)?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xxyh38/anyone_else_notice_the_break_in_the_song_equator/",
+          "source": "r/Tekken",
+          "published": "2026-11-16T19:21:46.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "official*"
           ]
         }
       ]
@@ -293,18 +354,29 @@
       ]
     },
     {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
+      "scene": "AoE2",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "Why Kintaro is technically the least competitively viable character in Mortal Kombat history",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2h2Y3lxOThhTnVlMXFjX2IzTXNHaFY5bGE2c3d5R1djSmhsN0R1ekg2TFRXYWoybldhU2RheDMzR21RV2RRaXhWaEdheEZZWXdWS0U3dnpKSTMtM0cwdmJ0dzc2YmNJNXVfWWNLTnZfdm1sdlNDMUZVN29SdWR2bGQ1TQ?oc=5",
-          "source": "Google News: Legacy FGC (EventHubs)",
-          "published": "2026-11-16T03:20:50.000Z",
+          "title": "After 2000 games, I have 1002 wins vs 998 losses",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xxgp0g/after_2000_games_i_have_1002_wins_vs_998_losses/",
+          "source": "r/aoe2",
+          "published": "2026-11-16T04:59:37.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "history"
+            "wins"
+          ]
+        },
+        {
+          "title": "Tagalogs, the Philippine Civilization Variant v2 (a rather needed update)",
+          "url": "https://www.reddit.com/r/aoe2/comments/1xxnhd1/tagalogs_the_philippine_civilization_variant_v2_a/",
+          "source": "r/aoe2",
+          "published": "2026-11-16T11:54:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         }
       ]
@@ -327,30 +399,37 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 2,
+      "scene": "Street Fighter",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "8 of the bottom 10 pick characters were base roster characters. In a new Tekken would you want them in the base game again? Is there a real purpose to having two bears? Why did Anna fall off so hard?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xxz3qw/8_of_the_bottom_10_pick_characters_were_base/",
-          "source": "r/Tekken",
-          "published": "2026-11-16T19:44:42.000Z",
+          "title": "How much longer till our favorite Spaniard returns??? Really miss his theme as well.",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xy24k8/how_much_longer_till_our_favorite_spaniard/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-16T21:39:33.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "roster"
+            "returns"
           ]
         },
         {
-          "title": "Anyone else notice the \"break\" in the song Equator Line 2nd (Jungle Outpost final round track)?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xxyh38/anyone_else_notice_the_break_in_the_song_equator/",
-          "source": "r/Tekken",
-          "published": "2026-11-16T19:21:46.000Z",
-          "score": 0.5,
+          "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-16T07:30:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "official*"
-          ]
+          "why": []
+        },
+        {
+          "title": "TGU 2026 results, congrats to the SF6 top8",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xxv8vu/tgu_2026_results_congrats_to_the_sf6_top8/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-16T17:20:48.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -373,23 +452,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Cody's results for the past 2 years",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xxsv14/codys_results_for_the_past_2_years/",
-          "source": "r/SSBM",
-          "published": "2026-11-16T15:52:09.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "the last*"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Brood War",
       "storyCount": 1,
       "stories": [
@@ -403,26 +465,12 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "TGU 2026 results, congrats to the SF6 top8",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xxv8vu/tgu_2026_results_congrats_to_the_sf6_top8/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-16T17:20:48.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
-    "AoE2",
+    "Melee",
     "Classic Tetris",
+    "Legacy FGC",
     "Quake",
     "Halo"
   ]
