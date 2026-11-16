@@ -1,15 +1,37 @@
 {
-  "generatedAt": "2026-11-16T21:05:37.420Z",
+  "generatedAt": "2026-11-16T22:05:53.384Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
+        {
+          "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa2gxU1pTSTJjM1B0UXEwRUJmSWFkeEh0bllYeFpvZ0tSc3dqTWdIX280eFJSWG5RSGhDdTV2eERPNHVJeXFnV184X0N2SU9MczBfSlRxRUw4OHM0OEctQlZ5TnhjLW8?oc=5",
+          "source": "Google News: Rivals patches (IMDb)",
+          "published": "2026-11-16T21:41:07.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "balance",
+            "balance changes",
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Ignite 2026 Stage 2 - Pacific Oceania",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZeDlIaGRHTi02VHBVX3pQaTQzLVNzVnhGOWF6eGRaUGt1UVdOTnRYRDgwU1N1cjhpcS1NSzh3Y2FFUUtWV0lBbmxmSGhQWXBmd3lUODRoTW82U1FWajlEUmJpamk3VEZ2cFFRcFJyNGNkLUU3aThlOUtrVlpOSVk?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-16T08:01:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Marvel Rivals Guide: All Season 11 Twitch Drop Rewards & How to Claim",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmJ3QzhWRlFXdU5kek1MeUZNTXFVa2k2SXNyYmRWaGdPT0E1XzVjZ1plT1NLb2g2UjZtMzhDRFdkRE52X2kxajZIeUdHWUVtQlgxVkRtdnRXbmthSE16X3UxVVhsOWJDZnZBWTJKT2hrTnNrUTZ4c3pQRmczdGVxbkEycHZBcnhDd3c?oc=5",
-          "source": "Google News: Rivals esports (games.gg)",
+          "source": "Google News: Rivals patches (games.gg)",
           "published": "2026-11-16T12:24:18.000Z",
           "score": 0,
           "level": null,
