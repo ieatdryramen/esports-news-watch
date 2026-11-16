@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-16T07:01:11.559Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Hey seriously don't ban your teammates pick.",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xxi2dp/hey_seriously_dont_ban_your_teammates_pick/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "ban",
+        "suspended*"
+      ],
+      "summary": "I don't care. If you ban the char I pick when I was the first to pick my character. Then you say you had bad ones before and didn't want them on your team. Legit jump and go somewhere. I will throw I do not care. I'm making this cause I got suspended for throwing... but seriously idc. I legit hate this player base and hope yall get everything yall deserve. Toxic trash players. submitted by /u/MunkiiJunkii to r/marvelrivals [link] [comments]",
+      "published": "2026-11-16T06:17:21.000Z"
+    },
+    {
       "alertedAt": "2026-11-16T05:50:25.969Z",
       "level": "possible",
       "scene": "Marvel Rivals",
