@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-16T08:30:20.345Z",
+  "generatedAt": "2026-11-16T09:00:41.171Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1587277",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Port Priority: DX",
+      "event": "Melee Singles",
+      "entrants": 512,
+      "online": false,
+      "major": true,
+      "startAt": "2026-11-14T18:00:00.000Z",
+      "endAt": "2026-11-16T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Eggdog | Cody Schwab"
+        },
+        {
+          "placement": 2,
+          "name": "SR | Zain"
+        },
+        {
+          "placement": 3,
+          "name": "Liquid | Hungrybox"
+        },
+        {
+          "placement": 4,
+          "name": "Eggdog | Ossify"
+        },
+        {
+          "placement": 5,
+          "name": "SR | Joshman"
+        },
+        {
+          "placement": 5,
+          "name": "Envy | Wizzrobe"
+        },
+        {
+          "placement": 7,
+          "name": "LuckyStats.gg | Soonsay"
+        },
+        {
+          "placement": 7,
+          "name": "Eggdog | Trif"
+        }
+      ]
+    },
     {
       "eventId": "1616764",
       "scene": "melee",
@@ -708,21 +755,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1587277",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Port Priority: DX",
-      "event": "Melee Singles",
-      "entrants": 512,
-      "online": false,
-      "major": true,
-      "startAt": "2026-11-14T18:00:00.000Z",
-      "endAt": "2026-11-16T06:00:00.000Z",
-      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-singles"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1750564",
@@ -730,7 +763,7 @@
       "game": "Street Fighter 6",
       "tournament": "takeraCUP〈マスター以下限定〉 #8",
       "event": "takeraCUP〈マスター以下限定〉",
-      "entrants": 138,
+      "entrants": 140,
       "online": true,
       "major": false,
       "startAt": "2026-11-16T11:00:00.000Z",
