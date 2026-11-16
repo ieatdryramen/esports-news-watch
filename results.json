@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:30:21.742Z",
+  "generatedAt": "2026-11-16T12:00:25.307Z",
   "source": "start.gg",
   "completed": [
     {
@@ -763,7 +763,7 @@
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 132,
+      "entrants": 137,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
@@ -841,7 +841,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Taking Back Tampa: The Movie",
       "event": "Melee Singles",
-      "entrants": 134,
+      "entrants": 135,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T18:00:00.000Z",

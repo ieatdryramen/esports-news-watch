@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:40:18.790Z",
+  "generatedAt": "2026-11-16T12:00:41.652Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -101,7 +101,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Possibly the worst exploit/cheat in the history of Dota: Enemy moved item from MY inventory to stash",
@@ -137,6 +137,15 @@
           "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-16T02:51:31.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "how league handles false reports vs how dota 2 handles them",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxnez6/how_league_handles_false_reports_vs_how_dota_2/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T11:50:57.000Z",
+          "score": 0,
           "level": null,
           "why": []
         },
