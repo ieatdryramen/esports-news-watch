@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-16T05:50:25.969Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Another one leaving the game for a long time",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1xxfwsp/another_one_leaving_the_game_for_a_long_time/",
+      "source": "r/marvelrivals",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "banned*",
+        "suspended*",
+        "released*"
+      ],
+      "summary": "I'm someone that plays every single role, and I spend time to learn at least 3/4 characters for every role because this is something that should be required to play every hero shooter competitive. This game was always poisoned with an awful matchmaking, A LOT of smurfing accounts that are NEVER BANNED (thank you streamers and Youtubers), throwers and DPS mains that are cry babies. Yall keep crying about stratergists nerfs but yall forgot to raise yall voices for them to fix this awful matchmaking, I was suspended for the game because someone was on Spider for the first whole round and of course we only got ONE KILL THAT WAS BY ME (was playing Punisher), we had no chance to win and I knew that because we didn't had any damage, I asked politely to surrender because I was tired, It was my first match of the day and It was already an IMPOSSIBLE MATCH because tanks where doing nothing, stratergist were playing the character that just got released and was healing nothing but what my team did? They decided to try because this game comunity has an awful toxic positivy, no one was trying and we have a surrender button but no, we are the real Avengers and we are going to win this game with the powers of friendship. Results? Got mass reported because I did not wanted to try anymore (I was still playing but of course has not hard trying anymore because they had 4 minutes to try to win) and I got suspended, but I just want to say that this game is already dead because of how terrible and ",
+      "published": "2026-11-16T04:15:54.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T14:58:01.492Z",
       "level": "possible",
       "scene": "Marvel Rivals",
