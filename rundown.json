@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T00:55:29.891Z",
+  "generatedAt": "2026-11-16T01:55:21.980Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 16,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -17,6 +17,20 @@
             "champions",
             "crowned",
             "furia",
+            "blast"
+          ]
+        },
+        {
+          "title": "The BLAST Rivals grand final as it happened",
+          "url": "https://www.hltv.org/news/45993/the-blast-rivals-grand-final-as-it-happened",
+          "source": "HLTV news",
+          "published": "2026-11-15T12:33:00.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "grand final",
+            "spirit*",
+            "furia*",
             "blast"
           ]
         },
@@ -50,6 +64,19 @@
           ]
         },
         {
+          "title": "Voca vs LAG / Austin LAN 2026 - Grand Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxd3k0/voca_vs_lag_austin_lan_2026_grand_final_postmatch/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-16T01:52:32.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "grand final"
+          ]
+        },
+        {
           "title": "FURIA Crushes Spirit to Win BLAST Rivals Season 2",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXFtaHNIZF9BWkljWVVuLWRwbk5PWnRCT1kxdWZUQlo4Yi0yakdNUS10RkV1eWpxcllqNzZZTV9fcUdPNHJfLVd1ZmQ1akZNLThmWERtMWkzN3J4Q0lOQUxMVzVuVV9OLUNSLUFXQ2xFcVl5TUc2N2tKLWZFSVpyUDJ5YlZ5UXVsYnc?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -59,6 +86,41 @@
           "why": [
             "spirit",
             "furia",
+            "blast"
+          ]
+        },
+        {
+          "title": "FURIA rout Spirit in Hong Kong final to win third trophy in four events",
+          "url": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events",
+          "source": "HLTV news",
+          "published": "2026-11-15T11:11:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "spirit",
+            "furia"
+          ]
+        },
+        {
+          "title": "BLAST to return to Hong Kong in 2027",
+          "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
+          "source": "HLTV news",
+          "published": "2026-11-15T10:21:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "blast"
+          ]
+        },
+        {
+          "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
+          "url": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
+          "source": "HLTV news",
+          "published": "2026-11-15T11:27:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "blast"
           ]
         },
@@ -85,27 +147,13 @@
           ]
         },
         {
-          "title": "Furia already played 230maps this year, is this the most maps played by a team in one year?",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx4u6k/furia_already_played_230maps_this_year_is_this/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T19:47:47.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "furia"
-          ]
-        },
-        {
-          "title": "ESL Pro League Season 24 - EPL CS2 - Schedule and Results",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cXpzUXZVTUhUY0FmSWlBUFRpUTRWUlVEcHVVdGltSkpfUWdnZU4tVGZQNGlGRkphRnVXYVJtMnRxZEQ2SW9GNjVGM1A4WjVRYkxleWxhbVNFSVVSX0ViUmJEY2lrYnVhRVJYQi1zUDdRSnZxTU9Hakw2Zw?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-15T06:07:08.000Z",
+          "title": "Short news: Week 44",
+          "url": "https://www.hltv.org/news/45949/short-news-week-44",
+          "source": "HLTV news",
+          "published": "2026-11-15T21:45:00.000Z",
           "score": 1,
           "level": null,
-          "why": [
-            "esl pro league",
-            "-schedule"
-          ]
+          "why": []
         }
       ]
     },
@@ -144,7 +192,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Toronto KOI Mixed Mayhem Champions: Team Abezy",
@@ -156,6 +204,17 @@
           "why": [
             "champions",
             "abezy"
+          ]
+        },
+        {
+          "title": "NA Cup #1 Grand Final - M8's Acad #1 Vs M8's Acad #2",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxcr14/na_cup_1_grand_final_m8s_acad_1_vs_m8s_acad_2/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T01:35:12.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "grand final"
           ]
         },
         {

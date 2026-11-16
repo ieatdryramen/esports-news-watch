@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-16T01:55:20.987Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Voca vs LAG / Austin LAN 2026 - Grand Final / Post-Match Discussion",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxd3k0/voca_vs_lag_austin_lan_2026_grand_final_postmatch/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "benched*",
+        "roster*",
+        "grand final"
+      ],
+      "summary": "Team Voca 🇺🇸 3-0 🇺🇸 LAG Anubis: 13-11 Ancient: 13-7 Nuke: 13-5 Dust2 Mirage Predicted VRS Impact Team Rank Diff Total 🇺🇸 Voca #65 → #61 +48 pts 1183 pts 🇺🇸 LAG #85 → #92 -10 pts 1041 pts Note: VRS officially updates once per month. This is simply a prediction that might not take into account all factors that go into VRS calculations. Event Information Austin LAN 2026 | 🇺🇸 Chicago ($30k LAN) | Liquipedia | HLTV Team Information 🇺🇸 Team Voca | Liquipedia | HLTV | Faceit | Twitter Roster : 🇺🇸 snav | 🇺🇸 junior ⊕ | 🇲🇽 MarKE | 🇺🇸 dare Coach : 🇨🇦 SEMPHIS Subs/Benched : 🇺🇸 nosraC 🇺🇸 LAG | HLTV Note: Above rosters do not reflect temporary subs and may be out of date if recent changes were made Map Vetoes Voca MAP LAG cache X X inferno anubis ✔ ✔ ancient nuke ✔ ✔ dust2 mirage Full Match Stats Team K-D ADR Swing Rating 🇺🇸 Voca 1.21 🇺🇸 Infinite 59-39 89.6 +7.05% 1.62 🇲🇽 MarKE 48-35 82.3 +4.38% 1.38 🇺🇸 snav 50-43 83.9 -1.68% 1.07 🇺🇸 junior ⊕ 43-36 74.9 +0.38% 1.06 🇺🇸 dare 36-44 66.3 -1.51% 0.92 🇺🇸 LAG 0.96 🇺🇸 Cryptic 51-48 81.5 +1.95% 1.26 🇺🇸 Bwills 41-43 77.6 +0.79% 1.13 🇺🇸 SLIGHT ⊕ 43-44 64.5 -1.16% 0.99 🇺🇸 Sandman 33-52 59.8 -5.69% 0.73 🇨🇦 djay 28-51 69.8 -4.96% 0.71 HLTV Match Page MAP 1: Anubis Team T CT Total 🇺🇸 Voca 7 6 13 CT T 🇺🇸 LAG 5 6 11 Team K-D ADR Swing Rating 🇺🇸 Voca 1.07 🇺🇸 snav 22-16 100.0 +3.36% 1.46 🇺🇸 Infinite 18-16 69.8 +4.17% 1.24 🇲🇽 MarKE 15-17 72.0 +0.48% 1.01 🇺🇸 junior ⊕ 15-15 66.9 -1.90% 0.86 🇺🇸 da",
+      "published": "2026-11-16T01:52:32.000Z"
+    },
+    {
       "alertedAt": "2026-11-15T23:20:21.287Z",
       "level": "possible",
       "scene": "CS2",
