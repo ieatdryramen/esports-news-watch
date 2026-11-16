@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-11-16T12:00:47.609Z",
+  "generatedAt": "2026-11-16T13:00:54.234Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "A SUPER HERO LEVEL DOMINATION! NAVI Voice Comms at Marvel Rivals Ignite 2026 EMEA Stage 2 Playoffs",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83Z2JxTU9hUG92TW8xWjdhVnJCaWJQQWZaQ0J4S2V1RmU3YXdyTWw5R3VTSk9tbGdyNHQ1QUZsbEJadw?oc=5",
+          "source": "Google News: Rivals esports (YouTube)",
+          "published": "2026-11-15T17:05:18.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "navi"
+          ]
+        },
         {
           "title": "Marvel Rivals Ignite 2026 Stage 2 - Pacific Oceania",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZeDlIaGRHTi02VHBVX3pQaTQzLVNzVnhGOWF6eGRaUGt1UVdOTnRYRDgwU1N1cjhpcS1NSzh3Y2FFUUtWV0lBbmxmSGhQWXBmd3lUODRoTW82U1FWajlEUmJpamk3VEZ2cFFRcFJyNGNkLUU3aThlOUtrVlpOSVk?oc=5",
