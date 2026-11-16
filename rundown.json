@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T12:00:41.652Z",
+  "generatedAt": "2026-11-16T13:00:48.713Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -21,20 +21,6 @@
           ]
         },
         {
-          "title": "The BLAST Rivals grand final as it happened",
-          "url": "https://www.hltv.org/news/45993/the-blast-rivals-grand-final-as-it-happened",
-          "source": "HLTV news",
-          "published": "2026-11-15T12:33:00.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "grand final",
-            "spirit*",
-            "furia*",
-            "blast"
-          ]
-        },
-        {
           "title": "BLAST Rivals final pulls 845K viewers to beat IEM Beijing’s peak",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNem1vaWVfeEZ0NlViVWR0cUpoYVFCNWRNbTFZZF9jSk80MkpIdUk5Y21xWUczTVdJOXNIU2swcFJpZWZYV0JBVHVZMlJ6dm02X1c2UjlvSENtSFZyY05LYVNHSzVYbk5DbXF3dGtJamtzSE83VjFPQW50MmYwQXE3WklJb1dOdVlSZzJKMA?oc=5",
           "source": "Google News: CS2 (Pley.gg)",
@@ -43,19 +29,6 @@
           "level": null,
           "why": [
             "iem",
-            "blast"
-          ]
-        },
-        {
-          "title": "FURIA Crushes Spirit to Win BLAST Rivals Season 2",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXFtaHNIZF9BWkljWVVuLWRwbk5PWnRCT1kxdWZUQlo4Yi0yakdNUS10RkV1eWpxcllqNzZZTV9fcUdPNHJfLVd1ZmQ1akZNLThmWERtMWkzN3J4Q0lOQUxMVzVuVV9OLUNSLUFXQ2xFcVl5TUc2N2tKLWZFSVpyUDJ5YlZ5UXVsYnc?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-15T12:01:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "spirit",
-            "furia",
             "blast"
           ]
         },
@@ -69,6 +42,15 @@
           "why": [
             "spirit"
           ]
+        },
+        {
+          "title": "Alliance part ways with head coach Hawk",
+          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
+          "source": "HLTV news",
+          "published": "2026-11-16T12:09:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Short news: Week 45",
@@ -89,11 +71,11 @@
           "why": []
         },
         {
-          "title": "KSCERATO: \"We need to be humble and go to the Major with the mentality that we need to show our best\"",
-          "url": "https://www.hltv.org/news/45997/kscerato-we-need-to-be-humble-and-go-to-the-major-with-the-mentality-that-we-need-to-show-our-best",
-          "source": "HLTV news",
-          "published": "2026-11-15T13:00:00.000Z",
-          "score": 1,
+          "title": "Ranked every pro flash lineup by the kills it sets up. Inferno's Default B flash from Coffins is in a league of its own",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxnui5/ranked_every_pro_flash_lineup_by_the_kills_it/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-16T12:14:01.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -101,7 +83,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Possibly the worst exploit/cheat in the history of Dota: Enemy moved item from MY inventory to stash",
@@ -129,6 +111,17 @@
           "why": [
             "wins",
             "team spirit"
+          ]
+        },
+        {
+          "title": "Pearls of wisdom from Oracle to folks losing their minds over the upcoming update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxog14/pearls_of_wisdom_from_oracle_to_folks_losing/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T12:45:01.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -164,7 +157,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt wins Thaiger Uppercut 2026 Tekken 8 title",
@@ -176,6 +169,18 @@
           "why": [
             "wins",
             "atif"
+          ]
+        },
+        {
+          "title": "Will I get an issue (ban or penalty) if I use these mods?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xx7606/will_i_get_an_issue_ban_or_penalty_if_i_use_these/",
+          "source": "r/Tekken",
+          "published": "2026-11-15T21:23:10.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "ban",
+            "replaces*"
           ]
         },
         {
@@ -236,23 +241,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "NA Challengers Cup #1 Champions!",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxfjq4/na_challengers_cup_1_champions/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T03:56:34.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "AoE2",
       "storyCount": 1,
       "stories": [
@@ -306,6 +294,7 @@
     "Trackmania",
     "Warcraft III",
     "Street Fighter",
+    "CoD",
     "Quake"
   ]
 }

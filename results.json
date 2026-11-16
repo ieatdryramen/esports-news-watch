@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:30:32.658Z",
+  "generatedAt": "2026-11-16T13:00:28.570Z",
   "source": "start.gg",
   "completed": [
     {
@@ -763,7 +763,7 @@
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 140,
+      "entrants": 141,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
@@ -873,19 +873,6 @@
       "startAt": "2026-11-22T00:00:00.000Z",
       "endAt": "2026-11-22T04:59:00.000Z",
       "url": "https://www.start.gg/tournament/a-diy-friendsgiving/event/diy-3s-singles"
-    },
-    {
-      "eventId": "1738498",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "HEATWAVE Tournament #4",
-      "event": "Heatwave Tournament",
-      "entrants": 80,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-22T13:00:00.000Z",
-      "endAt": "2026-11-22T22:00:00.000Z",
-      "url": "https://www.start.gg/tournament/heatwave-tournament-4/event/heatwave-tournament"
     }
   ],
   "games": {
