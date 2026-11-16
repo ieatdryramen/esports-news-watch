@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T19:30:22.569Z",
+  "generatedAt": "2026-11-16T20:00:26.467Z",
   "source": "start.gg",
   "completed": [
     {
@@ -596,6 +596,19 @@
       "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/the-king-of-fighters-xv-pc"
     },
     {
+      "eventId": "1635588",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "Battle Coliseum 2026",
+      "event": "Street Fighter 6 - PC",
+      "entrants": 134,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-20T17:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/street-fighter-6-pc"
+    },
+    {
       "eventId": "1673800",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -620,19 +633,6 @@
       "startAt": "2026-11-21T13:00:00.000Z",
       "endAt": "2026-11-22T23:00:00.000Z",
       "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/guilty-gear-strive-awt-platinum-pc"
-    },
-    {
-      "eventId": "1635588",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "Battle Coliseum 2026",
-      "event": "Street Fighter 6 - PC",
-      "entrants": 134,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T16:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/street-fighter-6-pc"
     },
     {
       "eventId": "1720181",
