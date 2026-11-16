@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-16T22:05:33.047Z",
+  "generatedAt": "2026-11-16T22:35:19.523Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1750564",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "takeraCUP〈マスター以下限定〉 #8",
+      "event": "takeraCUP〈マスター以下限定〉",
+      "entrants": 141,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-16T11:00:00.000Z",
+      "endAt": "2026-11-16T14:00:00.000Z",
+      "url": "https://www.start.gg/tournament/takeracup-8/event/takeracup",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Koyomi"
+        },
+        {
+          "placement": 2,
+          "name": "えいり"
+        },
+        {
+          "placement": 3,
+          "name": "銀河系スパーズ"
+        },
+        {
+          "placement": 4,
+          "name": "むいちも"
+        },
+        {
+          "placement": 5,
+          "name": "すんすん"
+        },
+        {
+          "placement": 5,
+          "name": "ninosk"
+        },
+        {
+          "placement": 7,
+          "name": "itsuse"
+        },
+        {
+          "placement": 7,
+          "name": "comet-SR25"
+        }
+      ]
+    },
     {
       "eventId": "1587277",
       "scene": "melee",
@@ -570,6 +617,19 @@
   "live": [],
   "upcoming": [
     {
+      "eventId": "1753251",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "TNS Guilty Gear Strive #231",
+      "event": "Guilty Gear Strive (Crossplay)",
+      "entrants": 70,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-17T01:00:00.000Z",
+      "endAt": "2026-11-17T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-231/event/guilty-gear-strive-crossplay"
+    },
+    {
       "eventId": "1749226",
       "scene": "streetfighter",
       "game": "Street Fighter 6",
@@ -614,7 +674,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Provisional",
       "event": "Melee Singles",
-      "entrants": 72,
+      "entrants": 71,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T11:00:00.000Z",
