@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-16T15:00:40.580Z",
+  "generatedAt": "2026-11-16T16:00:45.994Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUmllaEl1XzUzdnRtYi1ZbXB3Z1JXTE00S2N0X0dTX293cnBDZGRITXFrQ25VWUVsOFZqeURMWXpJUWJ6Zlo0Q05BUnI1VUhPM0NaTE1odjZKa2M5Qll4M0NuWFV5alhnLU9PalJ4RHpIQ2dYSnFkMUNpTjczbE04VTd1RjNvNlM4NVNPUUJ2R3R3eDZ3T3VJLVJnaklKSGFHamtKMjdISllBMUlsVGo0SHlnbHIwdVoyTmFtbzZ0NmF3X0pqTm1HTnU0bl9mSklhaGxRVVZLWFpEa28zd1BSY0todmxpMUVBVjNEWTNKdHMyQmttY1ZKRWtFYUVYMHc?oc=5",
-          "source": "Google News: CS2 (巴士的報)",
-          "published": "2026-11-15T15:12:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fOEZMY2V0RUItbU1sb1lmbVNRbmtkcHZ1NHhuXzBjUVUxU1UzNzZ1UHV1Tm9RTFNlMlRsZTBuU0k4UGU4VU9rd3kwLXEwTU1Gck9aQ2pKVTRhUnZz?oc=5",
+          "source": "Google News: CS2 (ACROFAN USA)",
+          "published": "2026-11-16T04:12:00.000Z",
           "score": 12,
           "level": "breaking",
           "why": [
@@ -30,6 +30,17 @@
           "why": [
             "iem",
             "blast"
+          ]
+        },
+        {
+          "title": "The CS2 Mayonnaise Team: How Hellmann’s Became FURIA’s Most Famous Sponsor",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTdYUzBwNDdBdWlDN2IyWWlrOGRLQVZqVGdoLTY5NXJpdVFmY3hXZ19qeXdhcnNzd1E5SlhLSmVnSnhLUG81dXlJUEtRS3RZdkx4cHNoaWljOHBtbXNkQndQQS1zMjNuMmNITjgzUm5XSzBKYndWQzdZeUp6OV9tNTdITUxTQUk?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-16T15:44:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia"
           ]
         },
         {
@@ -72,7 +83,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
@@ -152,6 +163,15 @@
           "why": []
         },
         {
+          "title": "What will happen with dota now that League is stepping up?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxrzp2/what_will_happen_with_dota_now_that_league_is/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T15:18:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Hosting a Mini Tournament for EU ADCL!",
           "url": "https://www.reddit.com/r/DotA2/comments/1xxq5tl/hosting_a_mini_tournament_for_eu_adcl/",
           "source": "r/DotA2",
@@ -186,29 +206,18 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0pyTDdPZGpuS2JpNHhzNThSWm1iam9CUGVkYmhqR1Jqd2ppMVpSOFp0SS1fV2RMcDl1Nk9jYlF4OHBtM1Q5cndvZGoyVWFvZ1B6MkhaaWp3cGZKSWVnNjRCd3k4X2JtanFQVk9DbDRUSl9TQjNvMkZZUGRfbDZUWFhEOWFGVDJrQ1h0RGh0LXBXSnFWOVZZ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-16T03:38:26.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
-          "title": "Pakistan’s Atif Butt wins Thaiger Uppercut 2026 Tekken 8 title",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaERCOHNZNGF4dnUxem1BWkdWNkpFMnBuN0tBRi1WWEtRQjJyVUMzS3NtcXpFYjZrTmx2OHdCNWpfV251RlI3UFRoR3BvRkplNXFGX1c2VzJJZVpOUXIyU2RKNTFGNWVIelBmRkRSQS1EVTZRelY0U3RFU2RreVB1NVUyVGhqUjFwRjR3dg?oc=5",
-          "source": "Google News: Tekken (The Current)",
-          "published": "2026-11-16T11:18:06.000Z",
+          "title": "Pakistan’s Atif Butt wins Tekken 8 title at Thaiger Uppercut 2026 in Bangkok",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzJjV2g0Q0lhcHBtYzVoNDBlS2Ezc2JNcXpVVHltelRoTm1rOTlnc19YcE45ZVdQVnp2VVhRdzJFS3EyNTN2b183SXc5Nzd6WlFtUEQ1ZS1IcTVDYlI2U2o1ZjBSV0F5SnNOY3ZHZ25LaUdpeVN2Y2VST0RvbXVrUnFmSWE4Z3VNSlQwT1NZaTExb29rMzloS19qTDQ5b05ieDhJcEM3U1g4XzRyREJTQTlzcklqMXpVcjhR?oc=5",
+          "source": "Google News: Tekken (Daily Pakistan)",
+          "published": "2026-11-16T15:31:22.000Z",
           "score": 6,
           "level": "possible",
           "why": [
@@ -256,15 +265,6 @@
           "source": "Google News: Tekken (The Outerhaven)",
           "published": "2026-11-16T00:05:48.000Z",
           "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Hi. How long do you think it will be before we get young heihachi hair option dlc?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xxkipg/hi_how_long_do_you_think_it_will_be_before_we_get/",
-          "source": "r/Tekken",
-          "published": "2026-11-16T08:51:38.000Z",
-          "score": 0,
           "level": null,
           "why": []
         }
@@ -329,10 +329,26 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Cody's results for the past 2 years",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xxsv14/codys_results_for_the_past_2_years/",
+          "source": "r/SSBM",
+          "published": "2026-11-16T15:52:09.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "the last*"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
-    "Melee",
     "Classic Tetris",
     "Brood War",
     "Trackmania",

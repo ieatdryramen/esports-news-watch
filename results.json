@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T15:30:27.485Z",
+  "generatedAt": "2026-11-16T16:00:30.112Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,53 +93,6 @@
         {
           "placement": 7,
           "name": "Salt / LunarySSF2"
-        }
-      ]
-    },
-    {
-      "eventId": "1625698",
-      "scene": "streetfighter",
-      "game": "Super Street Fighter II Turbo",
-      "tournament": "Astral Finish 2026",
-      "event": "Super Street Fighter II Turbo [Community]",
-      "entrants": 22,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T23:00:00.000Z",
-      "endAt": "2026-11-16T05:00:00.000Z",
-      "url": "https://www.start.gg/tournament/astral-finish-2026/event/super-street-fighter-ii-turbo-community",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "DJFrijoles"
-        },
-        {
-          "placement": 2,
-          "name": "DJ_Vanilla"
-        },
-        {
-          "placement": 3,
-          "name": "Hokuto"
-        },
-        {
-          "placement": 4,
-          "name": "curtidor"
-        },
-        {
-          "placement": 5,
-          "name": "Rey del Tekino"
-        },
-        {
-          "placement": 5,
-          "name": "VELOZTAMPS"
-        },
-        {
-          "placement": 7,
-          "name": "GrEXTooN"
-        },
-        {
-          "placement": 7,
-          "name": "memoherdez"
         }
       ]
     },
@@ -763,7 +716,7 @@
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 156,
+      "entrants": 158,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
