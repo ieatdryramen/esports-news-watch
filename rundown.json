@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T04:50:17.547Z",
+  "generatedAt": "2026-11-16T05:45:31.762Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 5,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -17,20 +17,6 @@
             "champions",
             "crowned",
             "furia",
-            "blast"
-          ]
-        },
-        {
-          "title": "The BLAST Rivals grand final as it happened",
-          "url": "https://www.hltv.org/news/45993/the-blast-rivals-grand-final-as-it-happened",
-          "source": "HLTV news",
-          "published": "2026-11-15T12:33:00.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "grand final",
-            "spirit*",
-            "furia*",
             "blast"
           ]
         },
@@ -61,66 +47,15 @@
           ]
         },
         {
-          "title": "FURIA rout Spirit in Hong Kong final to win third trophy in four events",
-          "url": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events",
-          "source": "HLTV news",
-          "published": "2026-11-15T11:11:00.000Z",
-          "score": 5,
+          "title": "Team Spirit Mirage B Site CT Pistol Setup",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxgkge/team_spirit_mirage_b_site_ct_pistol_setup/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-16T04:52:30.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "spirit",
-            "furia"
+            "spirit"
           ]
-        },
-        {
-          "title": "BLAST to return to Hong Kong in 2027",
-          "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
-          "source": "HLTV news",
-          "published": "2026-11-15T10:21:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "blast"
-          ]
-        },
-        {
-          "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
-          "url": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
-          "source": "HLTV news",
-          "published": "2026-11-15T11:27:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "Short news: Week 44",
-          "url": "https://www.hltv.org/news/45949/short-news-week-44",
-          "source": "HLTV news",
-          "published": "2026-11-15T21:45:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame",
-          "url": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
-          "source": "HLTV news",
-          "published": "2026-11-15T18:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "KSCERATO: \"We need to be humble and go to the Major with the mentality that we need to show our best\"",
-          "url": "https://www.hltv.org/news/45997/kscerato-we-need-to-be-humble-and-go-to-the-major-with-the-mentality-that-we-need-to-show-our-best",
-          "source": "HLTV news",
-          "published": "2026-11-15T13:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "ESL Pro League Season 24 - EPL CS2 - Schedule and Results",
@@ -138,7 +73,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
@@ -161,17 +96,6 @@
           "level": null,
           "why": [
             "removed"
-          ]
-        },
-        {
-          "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-15T05:33:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "prize pool"
           ]
         },
         {
