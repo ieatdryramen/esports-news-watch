@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:00:41.171Z",
+  "generatedAt": "2026-11-16T09:30:22.826Z",
   "source": "start.gg",
   "completed": [
     {
@@ -763,12 +763,25 @@
       "game": "Street Fighter 6",
       "tournament": "takeraCUP〈マスター以下限定〉 #8",
       "event": "takeraCUP〈マスター以下限定〉",
-      "entrants": 140,
+      "entrants": 142,
       "online": true,
       "major": false,
       "startAt": "2026-11-16T11:00:00.000Z",
       "endAt": "2026-11-16T14:00:00.000Z",
       "url": "https://www.start.gg/tournament/takeracup-8/event/takeracup"
+    },
+    {
+      "eventId": "1749226",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TTA",
+      "event": "TTA #5",
+      "entrants": 128,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-17T11:00:00.000Z",
+      "endAt": "2026-11-17T14:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tta-6/event/tta-5"
     },
     {
       "eventId": "1645172",
