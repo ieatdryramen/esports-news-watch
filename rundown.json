@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-15T23:00:39.733Z",
+  "generatedAt": "2026-11-16T00:00:44.503Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZVlpdUFKNFhpZFNFWHUzaHptWHdwNmZlM2dCbVRvNVRwRGM0OVdxZzJmcDFtb1RQMXFwTmRRemdCLXB0dXNBcWpaeEFTYnFDbTVhX1lwWlVYeUZoalVfMjNVWXR1akY1NlFLbkVraUdhNkVRQ01wNUtZQ0tmZUxLUTl0dXI4RDBZN2RycU8yOEpDYU5xd0ZwUEVvNUJleWdYTk1JeXktRlltMnY3U0NZblRWVG5pVlNxWEV4alEzdGdteVBtTld3OUVIQmdjWTJ1UllJbzNoNmlnLVliZXR3SGZyRld5cVJsbXIwTFViV0FSOUJr?oc=5",
-          "source": "Google News: CS2 (The Malaysian Reserve)",
-          "published": "2026-11-15T16:42:53.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUmllaEl1XzUzdnRtYi1ZbXB3Z1JXTE00S2N0X0dTX293cnBDZGRITXFrQ25VWUVsOFZqeURMWXpJUWJ6Zlo0Q05BUnI1VUhPM0NaTE1odjZKa2M5Qll4M0NuWFV5alhnLU9PalJ4RHpIQ2dYSnFkMUNpTjczbE04VTd1RjNvNlM4NVNPUUJ2R3R3eDZ3T3VJLVJnaklKSGFHamtKMjdISllBMUlsVGo0SHlnbHIwdVoyTmFtbzZ0NmF3X0pqTm1HTnU0bl9mSklhaGxRVVZLWFpEa28zd1BSY0todmxpMUVBVjNEWTNKdHMyQmttY1ZKRWtFYUVYMHc?oc=5",
+          "source": "Google News: CS2 (巴士的報)",
+          "published": "2026-11-15T15:12:00.000Z",
           "score": 12,
           "level": "breaking",
           "why": [
@@ -132,22 +132,19 @@
           ]
         },
         {
-          "title": "Expanding FACEIT servers to Spain & Romania, joining Istanbul and Warsaw. Live December 09 with Season 10.",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx1gi6/expanding_faceit_servers_to_spain_romania_joining/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T17:34:28.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "update*",
-            "announced*"
-          ]
-        },
-        {
           "title": "Short news: Week 44",
           "url": "https://www.hltv.org/news/45949/short-news-week-44",
           "source": "HLTV news",
           "published": "2026-11-15T21:45:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame",
+          "url": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
+          "source": "HLTV news",
+          "published": "2026-11-15T18:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -189,7 +186,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Toronto KOI Mixed Mayhem Champions: Team Abezy",
@@ -213,18 +210,6 @@
           "why": [
             "hydra"
           ]
-        },
-        {
-          "title": "The Flank 100K Invitational used drafted teams. Would you want a drafted exhibition event with CDL pros during the season?",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xx1e0u/the_flank_100k_invitational_used_drafted_teams/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-15T17:31:48.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "shotzzy*",
-            "hydra*"
-          ]
         }
       ]
     },
@@ -243,6 +228,17 @@
             "team spirit",
             "yatoro*",
             "collapse*"
+          ]
+        },
+        {
+          "title": "Team Liquid And 1win Team Bomb Out – 1win Essence III Group Stage Results",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmdLREhnci0xNk1Bbl9RdHZsT1daTFhCZVlCN0hJdGxNNFlvYXpCaEpwc2VKTUtEcVNkYzdkVXVqY09qMS14Y0MzNGR5TjcyNWZ2OTBIUzhRR1R1bDJlbXkwYWJWQTdKLXZZQmN2cWJmcDEtUk5wdkcxYVROc3dlbXBzdHZ0UDJYVnZkQ1lxTkVUYVFBN3FQYmFULWFPXzl5WVNCc3p4MmNfcXM?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-15T03:26:35.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
           ]
         },
         {
@@ -267,15 +263,6 @@
             "the last*",
             "update*"
           ]
-        },
-        {
-          "title": "Patch may be tomorrow!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xx138c/patch_may_be_tomorrow/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T17:20:08.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         },
         {
           "title": "RE - COH, November 16, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
@@ -339,21 +326,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Regional Finals - Middle East - Big Bird got Knowledge Checked by Arjun...",
-          "url": "https://www.reddit.com/r/StreetFighter/comments/1xx1a3f/regional_finals_middle_east_big_bird_got/",
-          "source": "r/StreetFighter",
-          "published": "2026-11-15T17:27:35.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -362,6 +334,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "Quake"
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:30:22.159Z",
+  "generatedAt": "2026-11-16T00:00:25.808Z",
   "source": "start.gg",
   "completed": [
     {
@@ -614,7 +614,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1715412",
+      "scene": "streetfighter",
+      "game": "Super Street Fighter II Turbo",
+      "tournament": "Central GXRIO",
+      "event": "Super Street Fighter 2 Turbo/X",
+      "entrants": 16,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-15T14:00:00.000Z",
+      "endAt": "2026-11-15T21:00:00.000Z",
+      "url": "https://www.start.gg/tournament/central-gxrio/event/super-street-fighter-2-turbo-x"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1750564",
@@ -622,7 +636,7 @@
       "game": "Street Fighter 6",
       "tournament": "takeraCUP〈マスター以下限定〉 #8",
       "event": "takeraCUP〈マスター以下限定〉",
-      "entrants": 133,
+      "entrants": 134,
       "online": true,
       "major": false,
       "startAt": "2026-11-16T11:00:00.000Z",
