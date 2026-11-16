@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T17:00:43.138Z",
+  "generatedAt": "2026-11-16T17:55:31.746Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
@@ -58,6 +58,17 @@
           ]
         },
         {
+          "title": "jabbi left Astralis",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxv5iq/jabbi_left_astralis/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-16T17:17:25.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "astralis"
+          ]
+        },
+        {
           "title": "PGL Singapore Major COI list, also confirms end dates of various loaned players",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxr7dx/pgl_singapore_major_coi_list_also_confirms_end/",
           "source": "r/GlobalOffensive",
@@ -67,33 +78,6 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-16T14:50:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Alliance part ways with head coach Hawk",
-          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
-          "source": "HLTV news",
-          "published": "2026-11-16T12:09:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame",
-          "url": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
-          "source": "HLTV news",
-          "published": "2026-11-15T18:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Ranked every pro flash lineup by the kills it sets up. Inferno's Default B flash from Coffins is in a league of its own",
@@ -108,7 +92,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
@@ -120,6 +104,17 @@
           "why": [
             "wins",
             "team spirit"
+          ]
+        },
+        {
+          "title": "Quinn called South America the worst region in Dota 2 due to match-fixing",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxv39q/quinn_called_south_america_the_worst_region_in/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T17:14:56.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "match-fixing"
           ]
         },
         {
@@ -142,6 +137,17 @@
           "level": null,
           "why": [
             "upset"
+          ]
+        },
+        {
+          "title": "[Spoiler] Has been eliminated from 1win Essence",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxw0dm/spoiler_has_been_eliminated_from_1win_essence/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T17:49:35.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "eliminated"
           ]
         },
         {
@@ -213,26 +219,6 @@
           "score": 0,
           "level": null,
           "why": []
-        },
-        {
-          "title": "how league handles false reports vs how dota 2 handles them",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxnez6/how_league_handles_false_reports_vs_how_dota_2/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T11:50:57.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0pyTDdPZGpuS2JpNHhzNThSWm1iam9CUGVkYmhqR1Jqd2ppMVpSOFp0SS1fV2RMcDl1Nk9jYlF4OHBtM1Q5cndvZGoyVWFvZ1B6MkhaaWp3cGZKSWVnNjRCd3k4X2JtanFQVk9DbDRUSl9TQjNvMkZZUGRfbDZUWFhEOWFGVDJrQ1h0RGh0LXBXSnFWOVZZ?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-16T03:38:26.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -310,6 +296,35 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Post-LI, is anyone actually close to KOI and Paris, or is it a two-team league heading into Kickoff?",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxvna8/postli_is_anyone_actually_close_to_koi_and_paris/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T17:35:41.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "breaking*",
+            "grand final*",
+            "faze*",
+            "hydra*"
+          ]
+        },
+        {
+          "title": "Cobra getting black mailed in challengers finals",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxva4g/cobra_getting_black_mailed_in_challengers_finals/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T17:22:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Legacy FGC",
       "storyCount": 1,
       "stories": [
@@ -328,7 +343,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Where is Hera?",
@@ -339,17 +354,6 @@
           "level": null,
           "why": [
             "hera"
-          ]
-        },
-        {
-          "title": "Does anyone else have this achievement without even owning the DLC?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xxmvrp/does_anyone_else_have_this_achievement_without/",
-          "source": "r/aoe2",
-          "published": "2026-11-16T11:19:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "released*"
           ]
         }
       ]
@@ -374,7 +378,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
@@ -382,6 +386,15 @@
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-16T07:30:00.000Z",
           "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "TGU 2026 results, congrats to the SF6 top8",
+          "url": "https://www.reddit.com/r/StreetFighter/comments/1xxv8vu/tgu_2026_results_congrats_to_the_sf6_top8/",
+          "source": "r/StreetFighter",
+          "published": "2026-11-16T17:20:48.000Z",
+          "score": 0,
           "level": null,
           "why": []
         }
@@ -403,13 +416,26 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "Trackmania",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "The Final Alt Car Campaign (for now...)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xxw1d2/the_final_alt_car_campaign_for_now/",
+          "source": "r/TrackMania",
+          "published": "2026-11-16T17:50:37.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "Classic Tetris",
     "Brood War",
-    "Trackmania",
-    "CoD",
     "Quake",
     "Halo"
   ]
