@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:35:19.523Z",
+  "generatedAt": "2026-11-16T23:05:18.185Z",
   "source": "start.gg",
   "completed": [
     {
@@ -622,7 +622,7 @@
       "game": "Guilty Gear -Strive-",
       "tournament": "TNS Guilty Gear Strive #231",
       "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 70,
+      "entrants": 80,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T01:00:00.000Z",
@@ -674,10 +674,10 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Provisional",
       "event": "Melee Singles",
-      "entrants": 71,
+      "entrants": 72,
       "online": false,
       "major": false,
-      "startAt": "2026-11-21T11:00:00.000Z",
+      "startAt": "2026-11-21T12:00:00.000Z",
       "endAt": "2026-11-21T21:00:00.000Z",
       "url": "https://www.start.gg/tournament/provisional/event/melee-singles"
     },
