@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T18:55:24.704Z",
+  "generatedAt": "2026-11-16T19:55:34.245Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 7,
       "stories": [
         {
           "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
@@ -47,29 +47,6 @@
           ]
         },
         {
-          "title": "Astralis announce jabbi departure",
-          "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
-          "source": "HLTV news",
-          "published": "2026-11-16T17:50:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "leaves*",
-            "astralis"
-          ]
-        },
-        {
-          "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
-          "url": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
-          "source": "HLTV news",
-          "published": "2026-11-16T17:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
           "title": "The CS2 Mayonnaise Team: How Hellmann’s Became FURIA’s Most Famous Sponsor",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTdYUzBwNDdBdWlDN2IyWWlrOGRLQVZqVGdoLTY5NXJpdVFmY3hXZ19qeXdhcnNzd1E5SlhLSmVnSnhLUG81dXlJUEtRS3RZdkx4cHNoaWljOHBtbXNkQndQQS1zMjNuMmNITjgzUm5XSzBKYndWQzdZeUp6OV9tNTdITUxTQUk?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -103,161 +80,21 @@
           ]
         },
         {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-16T14:50:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Alliance part ways with head coach Hawk",
-          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
-          "source": "HLTV news",
-          "published": "2026-11-16T12:09:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 13,
-      "stories": [
-        {
-          "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmk3U3ZWcm5MSHhEVUNOcEtlejZ0TmZYZTk5TWVlZjdVb3NkbUR1dkVDZ2ZsZ25KR042bEdwSmtrMkhWSXkycWFDYjUwQmpjZ3ZjZ3Y0STVOZjFraU05YWlFYU5FSzlCaG9RaDZZQzA2S0lvUzdDRktybDlHYmQ5TTVHMllmSVFZZk9kdXZzb3hiek5TSXppa1RQLU12RjBGYWRuR1VEV1lfazNlNXRrUDU5dGNkNmJ5RHk1TQ?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-16T03:31:39.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "wins",
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Quinn called South America the worst region in Dota 2 due to match-fixing",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxv39q/quinn_called_south_america_the_worst_region_in/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T17:14:56.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "match-fixing"
-          ]
-        },
-        {
-          "title": "Cheating not even being discreet about it. Item's being transferred to stash",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxrieh/cheating_not_even_being_discreet_about_it_items/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T14:59:50.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheating"
-          ]
-        },
-        {
-          "title": "Is this community still upset over this?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxpng0/is_this_community_still_upset_over_this/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T13:42:27.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "upset"
-          ]
-        },
-        {
-          "title": "[Spoiler] Has been eliminated from 1win Essence",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxw0dm/spoiler_has_been_eliminated_from_1win_essence/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T17:49:35.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "eliminated"
-          ]
-        },
-        {
-          "title": "Will a leak of this scale happen again for 7.42?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxp8sg/will_a_leak_of_this_scale_happen_again_for_742/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T13:23:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "leak",
-            "history*"
-          ]
-        },
-        {
-          "title": "I will now make a Lone Druid Dota parody of Gangam Style in anticipation of the new update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxxd1d/i_will_now_make_a_lone_druid_dota_parody_of/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T18:39:35.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "update",
-            "ban*"
-          ]
-        },
-        {
-          "title": "App to look match results from phone",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxqf0w/app_to_look_match_results_from_phone/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T14:15:20.000Z",
+          "title": "Old T player model had an hidding advantage. Previously, the gun was positioned lower, and its barrel tip didn't reach as far as the CT's. After latest update CT & T models are now identical and unified",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxxuxb/old_t_player_model_had_an_hidding_advantage/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-16T18:58:36.000Z",
           "score": 1,
           "level": null,
           "why": [
-            "history*"
+            "update"
           ]
-        },
-        {
-          "title": "Dota 2 1win Essence III: All teams, schedules, results",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-16T02:51:31.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "What will happen with dota now that League is stepping up?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxrzp2/what_will_happen_with_dota_now_that_league_is/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T15:18:08.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Hosting a Mini Tournament for EU ADCL!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxq5tl/hosting_a_mini_tournament_for_eu_adcl/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T14:04:27.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Even copied how the New Frontiers patch was introduced. 😅",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxp78s/even_copied_how_the_new_frontiers_patch_was/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T13:21:44.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt wins Tekken 8 title at Thaiger Uppercut 2026 in Bangkok",
@@ -295,15 +132,24 @@
           ]
         },
         {
-          "title": "Harada’s old Tweet regarding Kazumi really makes me wonder, what does Currently even mean?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xxho04/haradas_old_tweet_regarding_kazumi_really_makes/",
+          "title": "8 of the bottom 10 pick characters were base roster characters. In a new Tekken would you want them in the base game again? Is there a real purpose to having two bears? Why did Anna fall off so hard?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xxz3qw/8_of_the_bottom_10_pick_characters_were_base/",
           "source": "r/Tekken",
-          "published": "2026-11-16T05:53:59.000Z",
+          "published": "2026-11-16T19:44:42.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "harada"
+            "roster"
           ]
+        },
+        {
+          "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXdRb1ZNWVN2RjlDdFVaNjNPY0RZV2thY1hKckgyRVVfc0VhbWx6cnYwdWNxZkF4aUNxd0s2OVR2M05NZEltbU1xQVNQalgzMGFBQ2ItMVVzdk5kZ3J2UGtRSXpqRUNuTHQ0Ti0xT2ZOeTRqUHA2bjJTT3ZFOXI1UmRSWmludkRBR1FjMF9rTl91QVp0WXp3U1RvSlVjbnd4X1hVWXVEWWxvTjFSR3dkNVhSTlN2N2hyZ3NtanZvS2w4VXRrYjh0aDNUbWw4Q0NPZjVkcDFBT0tSQjk1Q1E?oc=5",
+          "source": "Google News: Tekken (IGN)",
+          "published": "2026-11-16T19:49:35.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Tekken 8 x Nike Collaboration Adds King’s Air Max 1 Sneakers",
@@ -313,6 +159,17 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Anyone else notice the \"break\" in the song Equator Line 2nd (Jungle Outpost final round track)?",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xxyh38/anyone_else_notice_the_break_in_the_song_equator/",
+          "source": "r/Tekken",
+          "published": "2026-11-16T19:21:46.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "official*"
+          ]
         }
       ]
     },
@@ -346,28 +203,100 @@
       ]
     },
     {
-      "scene": "Trackmania",
-      "storyCount": 2,
+      "scene": "Dota",
+      "storyCount": 9,
       "stories": [
         {
-          "title": "[TOTD] 16/11/2026, Star Signs by iGaffy, (discussion)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xxwaie/totd_16112026_star_signs_by_igaffy_discussion/",
-          "source": "r/TrackMania",
-          "published": "2026-11-16T18:00:16.000Z",
-          "score": 3,
+          "title": "Cheating not even being discreet about it. Item's being transferred to stash",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxrieh/cheating_not_even_being_discreet_about_it_items/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T14:59:50.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "signs"
+            "cheating"
           ]
         },
         {
-          "title": "The Final Alt Car Campaign (for now...)",
-          "url": "https://www.reddit.com/r/TrackMania/comments/1xxw1d2/the_final_alt_car_campaign_for_now/",
-          "source": "r/TrackMania",
-          "published": "2026-11-16T17:50:37.000Z",
+          "title": "[Spoilers] have been eliminated from 1win Essence III",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxyttm/spoilers_have_been_eliminated_from_1win_essence/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T19:34:50.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "eliminated"
+          ]
+        },
+        {
+          "title": "I will now make a Lone Druid Dota parody of Gangam Style in anticipation of the new update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxxd1d/i_will_now_make_a_lone_druid_dota_parody_of/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T18:39:35.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "update",
+            "ban*"
+          ]
+        },
+        {
+          "title": "App to look match results from phone",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxqf0w/app_to_look_match_results_from_phone/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T14:15:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "history*"
+          ]
+        },
+        {
+          "title": "Dota 2 1win Essence III: All teams, schedules, results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-16T02:51:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "League's copying DOTA again!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxyfdx/leagues_copying_dota_again/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T19:20:06.000Z",
           "score": 0,
           "level": null,
           "why": []
+        },
+        {
+          "title": "What will happen with dota now that League is stepping up?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxrzp2/what_will_happen_with_dota_now_that_league_is/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T15:18:08.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Hosting a Mini Tournament for EU ADCL!",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxq5tl/hosting_a_mini_tournament_for_eu_adcl/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T14:04:27.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0pyTDdPZGpuS2JpNHhzNThSWm1iam9CUGVkYmhqR1Jqd2ppMVpSOFp0SS1fV2RMcDl1Nk9jYlF4OHBtM1Q5cndvZGoyVWFvZ1B6MkhaaWp3cGZKSWVnNjRCd3k4X2JtanFQVk9DbDRUSl9TQjNvMkZZUGRfbDZUWFhEOWFGVDJrQ1h0RGh0LXBXSnFWOVZZ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-16T03:38:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -389,18 +318,18 @@
       ]
     },
     {
-      "scene": "AoE2",
+      "scene": "Trackmania",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Where is Hera?",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xxptac/where_is_hera/",
-          "source": "r/aoe2",
-          "published": "2026-11-16T13:49:43.000Z",
-          "score": 2,
+          "title": "[TOTD] 16/11/2026, Star Signs by iGaffy, (discussion)",
+          "url": "https://www.reddit.com/r/TrackMania/comments/1xxwaie/totd_16112026_star_signs_by_igaffy_discussion/",
+          "source": "r/TrackMania",
+          "published": "2026-11-16T18:00:16.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "hera"
+            "signs"
           ]
         }
       ]
@@ -481,6 +410,7 @@
     }
   ],
   "quiet": [
+    "AoE2",
     "Classic Tetris",
     "Quake",
     "Halo"
