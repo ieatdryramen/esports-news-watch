@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T09:45:18.458Z",
+  "generatedAt": "2026-11-16T10:40:23.661Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -47,19 +47,6 @@
           ]
         },
         {
-          "title": "Voca vs LAG / Austin LAN 2026 - Grand Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxd3k0/voca_vs_lag_austin_lan_2026_grand_final_postmatch/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-16T01:52:32.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "grand final"
-          ]
-        },
-        {
           "title": "FURIA Crushes Spirit to Win BLAST Rivals Season 2",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXFtaHNIZF9BWkljWVVuLWRwbk5PWnRCT1kxdWZUQlo4Yi0yakdNUS10RkV1eWpxcllqNzZZTV9fcUdPNHJfLVd1ZmQ1akZNLThmWERtMWkzN3J4Q0lOQUxMVzVuVV9OLUNSLUFXQ2xFcVl5TUc2N2tKLWZFSVpyUDJ5YlZ5UXVsYnc?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -82,18 +69,6 @@
           "why": [
             "spirit",
             "furia"
-          ]
-        },
-        {
-          "title": "BLAST to return to Hong Kong in 2027",
-          "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
-          "source": "HLTV news",
-          "published": "2026-11-15T10:21:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "return",
-            "blast"
           ]
         },
         {
@@ -287,34 +262,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "NA Challengers Cup #1 Champions!",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxfjq4/na_challengers_cup_1_champions/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T03:56:34.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "champions"
-          ]
-        },
-        {
-          "title": "NA Cup #1 Grand Final - M8's Acad #1 Vs M8's Acad #2",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxcr14/na_cup_1_grand_final_m8s_acad_1_vs_m8s_acad_2/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T01:35:12.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "grand final"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
       "storyCount": 1,
       "stories": [
@@ -327,6 +274,23 @@
           "level": null,
           "why": [
             "history"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "NA Challengers Cup #1 Champions!",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxfjq4/na_challengers_cup_1_champions/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T03:56:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champions"
           ]
         }
       ]
