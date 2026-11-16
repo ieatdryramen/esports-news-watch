@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T19:00:30.062Z",
+  "generatedAt": "2026-11-16T19:30:22.569Z",
   "source": "start.gg",
   "completed": [
     {
@@ -653,7 +653,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Taking Back Tampa: The Movie",
       "event": "Melee Singles",
-      "entrants": 136,
+      "entrants": 135,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T18:00:00.000Z",
@@ -666,7 +666,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Buckeye Beatdown 2026",
       "event": "Melee Singles",
-      "entrants": 66,
+      "entrants": 67,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T19:00:00.000Z",
