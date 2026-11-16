@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:35:33.599Z",
+  "generatedAt": "2026-11-16T22:05:33.047Z",
   "source": "start.gg",
   "completed": [
     {
@@ -575,7 +575,7 @@
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 163,
+      "entrants": 164,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
@@ -614,7 +614,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Provisional",
       "event": "Melee Singles",
-      "entrants": 75,
+      "entrants": 72,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T11:00:00.000Z",
@@ -666,7 +666,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Buckeye Beatdown 2026",
       "event": "Melee Singles",
-      "entrants": 67,
+      "entrants": 66,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T19:00:00.000Z",
