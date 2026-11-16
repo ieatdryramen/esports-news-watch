@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T01:55:21.980Z",
+  "generatedAt": "2026-11-16T02:50:24.454Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -46,20 +46,6 @@
             "roster*",
             "official*",
             "device*",
-            "pgl"
-          ]
-        },
-        {
-          "title": "33 vs Eternal Fire / PGL Cluj-Napoca 2027 Closed Qualifier - Lower Bracket Round 1 / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx5mjy/33_vs_eternal_fire_pgl_clujnapoca_2027_closed/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T20:19:08.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
             "pgl"
           ]
         },
@@ -136,21 +122,28 @@
           ]
         },
         {
-          "title": "With Ksharp's Hall of Fame induction, I'd like to share my favorite video of that era (ft. Team 3D): Electronic Warfare (CPL Winter 2002)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx5wv6/with_ksharps_hall_of_fame_induction_id_like_to/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T20:30:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "electronic"
-          ]
-        },
-        {
           "title": "Short news: Week 44",
           "url": "https://www.hltv.org/news/45949/short-news-week-44",
           "source": "HLTV news",
           "published": "2026-11-15T21:45:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame",
+          "url": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
+          "source": "HLTV news",
+          "published": "2026-11-15T18:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "KSCERATO: \"We need to be humble and go to the Major with the mentality that we need to show our best\"",
+          "url": "https://www.hltv.org/news/45997/kscerato-we-need-to-be-humble-and-go-to-the-major-with-the-mentality-that-we-need-to-show-our-best",
+          "source": "HLTV news",
+          "published": "2026-11-15T13:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -178,14 +171,111 @@
           ]
         },
         {
-          "title": "Shopify vs TSM Series Results | Winners Finals | LVT Halo Pro League $100,000 LAN",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xx97h9/shopify_vs_tsm_series_results_winners_finals_lvt/",
+          "title": "Shopify vs TSM Series Results | Grand Finals | LVT Halo Pro League $100,000 LAN",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxe0vz/shopify_vs_tsm_series_results_grand_finals_lvt/",
           "source": "r/CompetitiveHalo",
-          "published": "2026-11-15T22:51:13.000Z",
-          "score": 1,
+          "published": "2026-11-16T02:38:13.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "signs*",
+            "won*",
+            "grand finals",
+            "prize pool*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 8,
+      "stories": [
+        {
+          "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmk3U3ZWcm5MSHhEVUNOcEtlejZ0TmZYZTk5TWVlZjdVb3NkbUR1dkVDZ2ZsZ25KR042bEdwSmtrMkhWSXkycWFDYjUwQmpjZ3ZjZ3Y0STVOZjFraU05YWlFYU5FSzlCaG9RaDZZQzA2S0lvUzdDRktybDlHYmQ5TTVHMllmSVFZZk9kdXZzb3hiek5TSXppa1RQLU12RjBGYWRuR1VEV1lfazNlNXRrUDU5dGNkNmJ5RHk1TQ?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-16T02:09:16.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "wins",
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Is this some kind of cheat?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxdd0a/is_this_some_kind_of_cheat/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T02:05:31.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "grand finals*"
+            "cheat"
+          ]
+        },
+        {
+          "title": "Pinging on teammates should be removed",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxbnrl/pinging_on_teammates_should_be_removed/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T00:42:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "removed"
+          ]
+        },
+        {
+          "title": "Team Liquid And 1win Team Bomb Out – 1win Essence III Group Stage Results",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmdLREhnci0xNk1Bbl9RdHZsT1daTFhCZVlCN0hJdGxNNFlvYXpCaEpwc2VKTUtEcVNkYzdkVXVqY09qMS14Y0MzNGR5TjcyNWZ2OTBIUzhRR1R1bDJlbXkwYWJWQTdKLXZZQmN2cWJmcDEtUk5wdkcxYVROc3dlbXBzdHZ0UDJYVnZkQ1lxTkVUYVFBN3FQYmFULWFPXzl5WVNCc3p4MmNfcXM?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-15T03:26:35.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
+          "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
+          "source": "Google News: Dota (RG.org)",
+          "published": "2026-11-15T05:33:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "prize pool"
+          ]
+        },
+        {
+          "title": "Major Overhaul is Coming...",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xx856w/major_overhaul_is_coming/",
+          "source": "r/DotA2",
+          "published": "2026-11-15T22:04:49.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "the last*",
+            "update*"
+          ]
+        },
+        {
+          "title": "since there's no patch today. How many calories does Flying courier have if cooked properly?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxb04c/since_theres_no_patch_today_how_many_calories/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T00:11:10.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "RE - COH, November 16, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYms1Zk1qYVdfdUQ2S3dHQkJxVlpiR0tJcFdpSE94SUNzNU8wU01PT1A3Wmd3UmJ4Vm5aRW1qQk1LMU84M0dzd3U4bUl5RHJlQWpiRWdqSmFRVHFkcUtER25GS0dTRUFFdlBJU3Q1MEFfRFRScHUzVUZFN01EaXBpSUVfNXV4QkMwcWhaYzh4eF9VRHh1OFozeXB5X2EzNzlqWTRqNG9UQjRhMW1JRGMyMkRhSW05N0k?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-15T09:15:02.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
           ]
         }
       ]
@@ -286,91 +376,20 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "Pinging on teammates should be removed",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxbnrl/pinging_on_teammates_should_be_removed/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T00:42:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "removed"
-          ]
-        },
-        {
-          "title": "FURIA sweep Team Falcons to set up BLAST Rivals Fall 2026 final with Spirit",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3NmeGg4QTFyX0hmdWNvdnNWMnpFSnRRZlFQRE9vSnozQmU2VTVWY0JVQnYxLU12WU54UHlWTjR2ZnpETFdMck4zN1ZXOUJzSXFTSElKODNiZWtNcThVZU5FbDIzUFlDUFVDNjBTN3djdDRDaUpxQ2J5RnVSUWltQ3dOZFBpbVhwZW53YTN6dVZmcGp4VVB3MUxfeWdYRWp5OHZyc2lOZUpVb0hVOUl6QmlvOGo?oc=5",
-          "source": "Google News: Dota (Esports News UK)",
-          "published": "2026-11-15T09:18:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "falcons"
-          ]
-        },
-        {
-          "title": "Team Liquid And 1win Team Bomb Out – 1win Essence III Group Stage Results",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmdLREhnci0xNk1Bbl9RdHZsT1daTFhCZVlCN0hJdGxNNFlvYXpCaEpwc2VKTUtEcVNkYzdkVXVqY09qMS14Y0MzNGR5TjcyNWZ2OTBIUzhRR1R1bDJlbXkwYWJWQTdKLXZZQmN2cWJmcDEtUk5wdkcxYVROc3dlbXBzdHZ0UDJYVnZkQ1lxTkVUYVFBN3FQYmFULWFPXzl5WVNCc3p4MmNfcXM?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-15T03:26:35.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "Dota 2 Back at Esports World Cup 2027, Prize Pool Unset",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BFNkJ2YmtyaWstNzdHRWRCU1QwaVVUTUc5cGxrR1o3QkEzWXZPZVd4SllISFd6blJwbldNYmxybEhfSG1vZnpZVTlfNEk3MzE0RnVzMkZ5bkRRRmllWXRaMUZaNGhaQUVPSjJ2akx1UThDZVAxMGRkdW41b0w4V2htQkM3NUp6YU1JbGxhZw?oc=5",
-          "source": "Google News: Dota (RG.org)",
-          "published": "2026-11-15T05:33:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "prize pool"
-          ]
-        },
-        {
-          "title": "Major Overhaul is Coming...",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xx856w/major_overhaul_is_coming/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T22:04:49.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "the last*",
-            "update*"
-          ]
-        },
-        {
-          "title": "since there's no patch today. How many calories does Flying courier have if cooked properly?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxb04c/since_theres_no_patch_today_how_many_calories/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T00:11:10.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "RE - COH, November 16, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYms1Zk1qYVdfdUQ2S3dHQkJxVlpiR0tJcFdpSE94SUNzNU8wU01PT1A3Wmd3UmJ4Vm5aRW1qQk1LMU84M0dzd3U4bUl5RHJlQWpiRWdqSmFRVHFkcUtER25GS0dTRUFFdlBJU3Q1MEFfRFRScHUzVUZFN01EaXBpSUVfNXV4QkMwcWhaYzh4eF9VRHh1OFozeXB5X2EzNzlqWTRqNG9UQjRhMW1JRGMyMkRhSW05N0k?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-15T09:15:02.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "How would you nerf fox?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xxdyt5/how_would_you_nerf_fox/",
+          "source": "r/SSBM",
+          "published": "2026-11-16T02:35:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "ending*"
+          ]
+        },
         {
           "title": "Update: Port Priority Crowd Mic is PERFECT",
           "url": "https://www.reddit.com/r/SSBM/comments/1xxb497/update_port_priority_crowd_mic_is_perfect/",
