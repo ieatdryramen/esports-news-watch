@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-11-16T04:25:17.833Z",
+  "generatedAt": "2026-11-16T04:55:22.900Z",
   "source": "start.gg",
-  "completed": [],
+  "completed": [
+    {
+      "eventId": "1608371",
+      "scene": "tokon",
+      "game": "Fighting Souls",
+      "tournament": "Midwest Mixfest '26",
+      "event": "Marvel Tokon: Fighting Souls",
+      "entrants": 69,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T16:00:00.000Z",
+      "endAt": "2026-11-16T04:30:00.000Z",
+      "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/marvel-tokon-fighting-souls",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "RTM | Max!"
+        },
+        {
+          "placement": 2,
+          "name": "TNS | Diecrazyhard"
+        },
+        {
+          "placement": 3,
+          "name": "Bomb"
+        },
+        {
+          "placement": 4,
+          "name": "Ly"
+        },
+        {
+          "placement": 5,
+          "name": "Jaxzen"
+        },
+        {
+          "placement": 5,
+          "name": "0wen2"
+        },
+        {
+          "placement": 7,
+          "name": "RiceandCinnamon"
+        },
+        {
+          "placement": 7,
+          "name": "SwimCheesy"
+        }
+      ]
+    }
+  ],
   "live": [],
   "upcoming": [
     {
