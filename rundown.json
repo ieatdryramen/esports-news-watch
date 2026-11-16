@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T02:50:24.454Z",
+  "generatedAt": "2026-11-16T03:50:20.987Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 12,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -32,21 +32,6 @@
             "spirit*",
             "furia*",
             "blast"
-          ]
-        },
-        {
-          "title": "VISION vs 100 Thieves / PGL Cluj-Napoca 2027 Closed Qualifier - Upper Bracket Semi-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx7okl/vision_vs_100_thieves_pgl_clujnapoca_2027_closed/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T21:44:54.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "device*",
-            "pgl"
           ]
         },
         {
@@ -147,70 +132,35 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Halo",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Kraken Seas vs Burn the Ships Series Results | Elimination Semifinals | LVT Halo Pro League $100k LAN",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xx6ukk/kraken_seas_vs_burn_the_ships_series_results/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-15T21:09:52.000Z",
-          "score": 8,
-          "level": "possible",
-          "why": [
-            "ban*",
-            "wins*",
-            "champions*",
-            "eliminated*",
-            "reverse sweep*",
-            "reddit only"
-          ]
         },
         {
-          "title": "Shopify vs TSM Series Results | Grand Finals | LVT Halo Pro League $100,000 LAN",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxe0vz/shopify_vs_tsm_series_results_grand_finals_lvt/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-16T02:38:13.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "ESL Pro League Season 24 - EPL CS2 - Schedule and Results",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cXpzUXZVTUhUY0FmSWlBUFRpUTRWUlVEcHVVdGltSkpfUWdnZU4tVGZQNGlGRkphRnVXYVJtMnRxZEQ2SW9GNjVGM1A4WjVRYkxleWxhbVNFSVVSX0ViUmJEY2lrYnVhRVJYQi1zUDdRSnZxTU9Hakw2Zw?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-15T06:07:08.000Z",
+          "score": 1,
+          "level": null,
           "why": [
-            "signs*",
-            "won*",
-            "grand finals",
-            "prize pool*"
+            "esl pro league",
+            "-schedule"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmk3U3ZWcm5MSHhEVUNOcEtlejZ0TmZYZTk5TWVlZjdVb3NkbUR1dkVDZ2ZsZ25KR042bEdwSmtrMkhWSXkycWFDYjUwQmpjZ3ZjZ3Y0STVOZjFraU05YWlFYU5FSzlCaG9RaDZZQzA2S0lvUzdDRktybDlHYmQ5TTVHMllmSVFZZk9kdXZzb3hiek5TSXppa1RQLU12RjBGYWRuR1VEV1lfazNlNXRrUDU5dGNkNmJ5RHk1TQ?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-16T02:09:16.000Z",
+          "published": "2026-11-16T03:22:30.000Z",
           "score": 6,
           "level": "possible",
           "why": [
             "wins",
             "team spirit"
-          ]
-        },
-        {
-          "title": "Is this some kind of cheat?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxdd0a/is_this_some_kind_of_cheat/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T02:05:31.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cheat"
           ]
         },
         {
@@ -222,17 +172,6 @@
           "level": null,
           "why": [
             "removed"
-          ]
-        },
-        {
-          "title": "Team Liquid And 1win Team Bomb Out – 1win Essence III Group Stage Results",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmdLREhnci0xNk1Bbl9RdHZsT1daTFhCZVlCN0hJdGxNNFlvYXpCaEpwc2VKTUtEcVNkYzdkVXVqY09qMS14Y0MzNGR5TjcyNWZ2OTBIUzhRR1R1bDJlbXkwYWJWQTdKLXZZQmN2cWJmcDEtUk5wdkcxYVROc3dlbXBzdHZ0UDJYVnZkQ1lxTkVUYVFBN3FQYmFULWFPXzl5WVNCc3p4MmNfcXM?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-15T03:26:35.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
           ]
         },
         {
@@ -259,6 +198,17 @@
           ]
         },
         {
+          "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0pyTDdPZGpuS2JpNHhzNThSWm1iam9CUGVkYmhqR1Jqd2ppMVpSOFp0SS1fV2RMcDl1Nk9jYlF4OHBtM1Q5cndvZGoyVWFvZ1B6MkhaaWp3cGZKSWVnNjRCd3k4X2JtanFQVk9DbDRUSl9TQjNvMkZZUGRfbDZUWFhEOWFGVDJrQ1h0RGh0LXBXSnFWOVZZ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-16T03:38:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
           "title": "since there's no patch today. How many calories does Flying courier have if cooked properly?",
           "url": "https://www.reddit.com/r/DotA2/comments/1xxb04c/since_theres_no_patch_today_how_many_calories/",
           "source": "r/DotA2",
@@ -276,6 +226,26 @@
           "level": null,
           "why": [
             "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "TSM vs Kraken Seas Series Results | Elimination Finals | LVT Halo Pro League $100,000 LAN",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxbo7o/tsm_vs_kraken_seas_series_results_elimination/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-16T00:42:50.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "signs*",
+            "champions*",
+            "grand finals*",
+            "eliminated*"
           ]
         }
       ]
@@ -376,8 +346,25 @@
       ]
     },
     {
+      "scene": "Legacy FGC",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Why Kintaro is technically the least competitively viable character in Mortal Kombat history",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2h2Y3lxOThhTnVlMXFjX2IzTXNHaFY5bGE2c3d5R1djSmhsN0R1ekg2TFRXYWoybldhU2RheDMzR21RV2RRaXhWaEdheEZZWXdWS0U3dnpKSTMtM0cwdmJ0dzc2YmNJNXVfWWNLTnZfdm1sdlNDMUZVN29SdWR2bGQ1TQ?oc=5",
+          "source": "Google News: Legacy FGC (EventHubs)",
+          "published": "2026-11-16T03:20:50.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "history"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Melee",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "How would you nerf fox?",
@@ -411,15 +398,6 @@
           "why": [
             "zain*"
           ]
-        },
-        {
-          "title": "Port Priority didn't let a national flight grounding stop its first Melee tourney",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yejY0YU92cTNud2UzSU9FUFlqZzl0MUF2b3FFWmVoVm9nd1d2d0gwdGZFNVh4QS1XbzQwN1pndnVrWTFfbnVTa3dxXy1fUDRyT1VyNTRXaXBUZ2Y4UnJORWdyRmQ5MG9xNFdTOVpkSlA4dm1fMjVxem9tcW5sdw?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-15T03:00:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
@@ -431,7 +409,6 @@
     "Trackmania",
     "Warcraft III",
     "Street Fighter",
-    "Legacy FGC",
     "Quake"
   ]
 }
