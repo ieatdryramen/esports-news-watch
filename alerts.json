@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-16T16:05:29.791Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDT1AtVFU2a3NYQnV1WTlzUWpkdmszUzF4alpubGNvdUxYTkM2ekZvNlBPT0wyRW1JRlNVbHVMZFBpeV9fWXUwUnN5N2YwMnRlSGM4RjljRkJ1T1FjTTBYNWt5aV9UTUF6RmFSVmlIX0dqWGZzaXBDMUc1STVBREU?oc=5",
+      "source": "Google News: CS2 (Pokde.Net)",
+      "outlets": [
+        "Pokde.Net"
+      ],
+      "score": 12,
+      "why": [
+        "champions",
+        "crowned",
+        "furia",
+        "blast"
+      ],
+      "summary": "",
+      "published": "2026-11-16T15:50:57.000Z"
+    },
+    {
       "alertedAt": "2026-11-16T09:25:20.172Z",
       "level": "possible",
       "scene": "Tekken",
