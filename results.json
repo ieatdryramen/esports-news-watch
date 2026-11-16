@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:30:35.751Z",
+  "generatedAt": "2026-11-16T03:00:42.790Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,147 +93,6 @@
         {
           "placement": 7,
           "name": "Abu"
-        }
-      ]
-    },
-    {
-      "eventId": "1591654",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TGU 2026",
-      "event": "TEKKEN 8 : TWT Master",
-      "entrants": 187,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T03:30:00.000Z",
-      "endAt": "2026-11-15T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/tgu-2026/event/tekken-8-twt-master",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Falcons | ATIF"
-        },
-        {
-          "placement": 2,
-          "name": "NIP | Meo-IL"
-        },
-        {
-          "placement": 3,
-          "name": "GEN | Mulgold"
-        },
-        {
-          "placement": 4,
-          "name": "Virtus.pro | Mangja"
-        },
-        {
-          "placement": 5,
-          "name": "WBG | XCC"
-        },
-        {
-          "placement": 5,
-          "name": "KRX | Crescent"
-        },
-        {
-          "placement": 7,
-          "name": "AK"
-        },
-        {
-          "placement": 7,
-          "name": "KIWOOM DRX | KNEE"
-        }
-      ]
-    },
-    {
-      "eventId": "1645737",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TGU 2026",
-      "event": "Street Fighter 6",
-      "entrants": 158,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T04:00:00.000Z",
-      "endAt": "2026-11-15T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/tgu-2026/event/street-fighter-6",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "ONIC | NYChrisG"
-        },
-        {
-          "placement": 2,
-          "name": "b3lLz"
-        },
-        {
-          "placement": 3,
-          "name": "GTW | XiaoZhai"
-        },
-        {
-          "placement": 4,
-          "name": "Music4friends"
-        },
-        {
-          "placement": 5,
-          "name": "MCB | Ayane"
-        },
-        {
-          "placement": 5,
-          "name": "GTW | XiaoXu"
-        },
-        {
-          "placement": 7,
-          "name": "GTW | SUNHUI"
-        },
-        {
-          "placement": 7,
-          "name": "GTW | Xiao Hu"
-        }
-      ]
-    },
-    {
-      "eventId": "1650865",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "TGU 2026",
-      "event": "Guilty Gear -Strive- : AWT Gold+ Event",
-      "entrants": 69,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T04:00:00.000Z",
-      "endAt": "2026-11-15T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/tgu-2026/event/guilty-gear-strive-awt-gold-event",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "LAGLESS | 御傍 GOBOU"
-        },
-        {
-          "placement": 2,
-          "name": "T Y"
-        },
-        {
-          "placement": 3,
-          "name": "Tim119"
-        },
-        {
-          "placement": 4,
-          "name": "DRX poka"
-        },
-        {
-          "placement": 5,
-          "name": "MetallicCake"
-        },
-        {
-          "placement": 5,
-          "name": "immortal | Lox"
-        },
-        {
-          "placement": 7,
-          "name": "IMM Summit(サミット)"
-        },
-        {
-          "placement": 7,
-          "name": "PainLiver"
         }
       ]
     },
@@ -622,7 +481,7 @@
       "game": "Street Fighter 6",
       "tournament": "takeraCUP〈マスター以下限定〉 #8",
       "event": "takeraCUP〈マスター以下限定〉",
-      "entrants": 135,
+      "entrants": 137,
       "online": true,
       "major": false,
       "startAt": "2026-11-16T11:00:00.000Z",
@@ -719,6 +578,19 @@
       "startAt": "2026-11-21T18:00:00.000Z",
       "endAt": "2026-11-22T04:00:00.000Z",
       "url": "https://www.start.gg/tournament/taking-back-tampa-the-movie/event/melee-singles"
+    },
+    {
+      "eventId": "1560417",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Buckeye Beatdown 2026",
+      "event": "Melee Singles",
+      "entrants": 65,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T19:00:00.000Z",
+      "endAt": "2026-11-23T03:00:00.000Z",
+      "url": "https://www.start.gg/tournament/buckeye-beatdown-2026/event/melee-singles"
     },
     {
       "eventId": "1748200",
