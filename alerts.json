@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-16T19:15:20.786Z",
+      "level": "possible",
+      "scene": "Warcraft III",
+      "title": "$27,000 Ancient of Wonders Cup starts on Wednesday - Top 3 Asian Players also qualify for RARALAND",
+      "url": "https://www.reddit.com/r/WC3/comments/1xxy6pz/27000_ancient_of_wonders_cup_starts_on_wednesday/",
+      "source": "r/WC3",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "released*",
+        "wins*",
+        "eliminated*",
+        "back2warcraft*"
+      ],
+      "summary": "On Wednesday, we start the $27,000 Ancient of Wonders Cup! Top 3 Qualify for RARALAND The first Stage is SWISS System, where 4 players get eliminated Two wins to advance Three losses to be eliminated First 2 Playdays Released! Everyday at 12.00 CET at Back2Warcraft submitted by /u/JannesOfficial to r/WC3 [link] [comments]",
+      "published": "2026-11-16T19:10:59.000Z"
+    },
+    {
       "alertedAt": "2026-11-16T17:15:18.926Z",
       "level": "possible",
       "scene": "Dota",
