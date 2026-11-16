@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T03:50:20.987Z",
+  "generatedAt": "2026-11-16T04:50:17.547Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "FURIA crowned back-to-back BLAST Premier Rivals Hong Kong champions as 30,000 fans celebrate world-class Counter-Strike",
@@ -96,17 +96,6 @@
           ]
         },
         {
-          "title": "846K Peak Viewers for BLAST Rivals Fall 2026 (TOP-3 matches)",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xx7yw1/846k_peak_viewers_for_blast_rivals_fall_2026_top3/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-15T21:57:18.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
           "title": "Short news: Week 44",
           "url": "https://www.hltv.org/news/45949/short-news-week-44",
           "source": "HLTV news",
@@ -149,7 +138,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Team Spirit Vs PARIVISION, Who Wins This Time? 1win Essence Playoffs Day 2 Predictions",
@@ -183,18 +172,6 @@
           "level": null,
           "why": [
             "prize pool"
-          ]
-        },
-        {
-          "title": "Major Overhaul is Coming...",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xx856w/major_overhaul_is_coming/",
-          "source": "r/DotA2",
-          "published": "2026-11-15T22:04:49.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "the last*",
-            "update*"
           ]
         },
         {
@@ -252,7 +229,7 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Toronto KOI Mixed Mayhem Champions: Team Abezy",
@@ -264,6 +241,17 @@
           "why": [
             "champions",
             "abezy"
+          ]
+        },
+        {
+          "title": "NA Challengers Cup #1 Champions!",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxfjq4/na_challengers_cup_1_champions/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T03:56:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champions"
           ]
         },
         {
