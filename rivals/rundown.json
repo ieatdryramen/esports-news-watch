@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T05:05:26.532Z",
+  "generatedAt": "2026-11-16T06:00:42.199Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Marvel Rivals Leak Points to New Nightcrawler Content for Seasons Greetings",
@@ -15,6 +15,17 @@
           "level": null,
           "why": [
             "leak"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Adds White Fox Shining Moment Skin and a Rivals’ Day 2026 Event",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZTI2OWhtcTZ3aEt2RmhWMHlfa09OOFhCMXV2eVJoU3YwMW5jblM3ampoZlhJNkdGT0szNmJ3TndsRHpnSllFOF9qZFJhajlqbHhsM0xYNGJYNHZJU0pyR1pYNlMxRnRFQnRkVWstenpJZEhpNklpY1ZYLXFxRnAzTVRn?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-15T23:32:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-skin"
           ]
         }
       ]
