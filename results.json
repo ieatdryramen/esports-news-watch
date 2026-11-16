@@ -1,7 +1,148 @@
 {
-  "generatedAt": "2026-11-16T04:00:22.974Z",
+  "generatedAt": "2026-11-16T04:30:21.186Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1608369",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "Midwest Mixfest '26",
+      "event": "Guilty Gear Strive",
+      "entrants": 101,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T18:00:00.000Z",
+      "endAt": "2026-11-16T04:30:00.000Z",
+      "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/guilty-gear-strive",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "OMG | EVIL | KyokuReset"
+        },
+        {
+          "placement": 2,
+          "name": "PCH | ant"
+        },
+        {
+          "placement": 3,
+          "name": "MomComePickMeUp"
+        },
+        {
+          "placement": 4,
+          "name": "YoKai | 6macy"
+        },
+        {
+          "placement": 5,
+          "name": "ASG | Xifi"
+        },
+        {
+          "placement": 5,
+          "name": "Jeezi"
+        },
+        {
+          "placement": 7,
+          "name": "RiB | Big Jars"
+        },
+        {
+          "placement": 7,
+          "name": "JKLY | Cobalt"
+        }
+      ]
+    },
+    {
+      "eventId": "1608370",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "Midwest Mixfest '26",
+      "event": "Tekken 8",
+      "entrants": 94,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T18:00:00.000Z",
+      "endAt": "2026-11-16T04:30:00.000Z",
+      "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/tekken-8",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Menk"
+        },
+        {
+          "placement": 2,
+          "name": "PCM | alihandal21"
+        },
+        {
+          "placement": 3,
+          "name": "odellthefinest"
+        },
+        {
+          "placement": 4,
+          "name": "+Ultra?"
+        },
+        {
+          "placement": 5,
+          "name": "YaBoiDre"
+        },
+        {
+          "placement": 5,
+          "name": "Mirage | Kaizur"
+        },
+        {
+          "placement": 7,
+          "name": "MOJAVE | Disciple"
+        },
+        {
+          "placement": 7,
+          "name": "Pineapple"
+        }
+      ]
+    },
+    {
+      "eventId": "1608387",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Midwest Mixfest '26",
+      "event": "Street Fighter III: 3rd Strike",
+      "entrants": 31,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-14T22:00:00.000Z",
+      "endAt": "2026-11-16T04:30:00.000Z",
+      "url": "https://www.start.gg/tournament/midwest-mixfest-26/event/street-fighter-iii-3rd-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "RBS | BigBadWolfMN"
+        },
+        {
+          "placement": 2,
+          "name": "AR"
+        },
+        {
+          "placement": 3,
+          "name": "RBS | AncientCarthage"
+        },
+        {
+          "placement": 4,
+          "name": "TacoBeast"
+        },
+        {
+          "placement": 5,
+          "name": "RBS | Spiraler"
+        },
+        {
+          "placement": 5,
+          "name": "Logan Arcade | Mop"
+        },
+        {
+          "placement": 7,
+          "name": "RBS | King-Condor"
+        },
+        {
+          "placement": 7,
+          "name": "Brotherman 5th Master"
+        }
+      ]
+    },
     {
       "eventId": "1715412",
       "scene": "streetfighter",
@@ -481,7 +622,7 @@
       "game": "Street Fighter 6",
       "tournament": "takeraCUP〈マスター以下限定〉 #8",
       "event": "takeraCUP〈マスター以下限定〉",
-      "entrants": 137,
+      "entrants": 135,
       "online": true,
       "major": false,
       "startAt": "2026-11-16T11:00:00.000Z",
