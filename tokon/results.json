@@ -1,55 +1,7 @@
 {
-  "generatedAt": "2026-11-16T02:55:17.004Z",
+  "generatedAt": "2026-11-16T03:25:34.907Z",
   "source": "start.gg",
-  "completed": [
-    {
-      "eventId": "1650870",
-      "scene": "tokon",
-      "game": "Fighting Souls",
-      "tournament": "TGU 2026",
-      "event": "Marvel Tokon: Fighting Souls",
-      "entrants": 56,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-13T08:00:00.000Z",
-      "endAt": "2026-11-15T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/tgu-2026/event/marvel-tokon-fighting-souls",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "ONIC | NYChrisG"
-        },
-        {
-          "placement": 2,
-          "name": "PEPE"
-        },
-        {
-          "placement": 3,
-          "name": "WDP | BALLxZA"
-        },
-        {
-          "placement": 4,
-          "name": "ひのきの棒"
-        },
-        {
-          "placement": 5,
-          "name": "GEEKS | ABEGEN"
-        },
-        {
-          "placement": 5,
-          "name": "Kashina"
-        },
-        {
-          "placement": 7,
-          "name": "WDP | Botund"
-        },
-        {
-          "placement": 7,
-          "name": "Heartia"
-        }
-      ]
-    }
-  ],
+  "completed": [],
   "live": [],
   "upcoming": [
     {
