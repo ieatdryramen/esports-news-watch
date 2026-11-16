@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T08:01:21.999Z",
+  "generatedAt": "2026-11-16T09:01:12.151Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-15T22:54:19.000Z",
+      "newest": "2026-11-16T08:13:19.000Z",
       "error": null
     },
     {
@@ -99,11 +99,11 @@
     },
     {
       "name": "Reddit (2 subs, public feed)",
-      "ok": false,
-      "skipped": true,
-      "items": 0,
-      "newest": null,
-      "error": "Reddit blocks this server without app keys"
+      "ok": true,
+      "skipped": false,
+      "items": 100,
+      "newest": "2026-11-16T01:07:51.000Z",
+      "error": null
     }
   ]
 }

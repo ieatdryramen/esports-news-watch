@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-11-16T08:01:22.024Z",
+  "generatedAt": "2026-11-16T09:01:12.444Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Is there a way to play as pre transfromation champion",
+          "url": "https://www.reddit.com/r/MarvelTokon/comments/1xx4iqy/is_there_a_way_to_play_as_pre_transfromation/",
+          "source": "r/MarvelTokon",
+          "published": "2026-11-15T19:35:01.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "champion"
+          ]
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }

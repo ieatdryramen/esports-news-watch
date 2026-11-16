@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T08:01:11.615Z",
+  "generatedAt": "2026-11-16T09:01:03.026Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-15T22:54:19.000Z",
+      "newest": "2026-11-16T08:13:19.000Z",
       "error": null
     },
     {
@@ -91,11 +91,11 @@
     },
     {
       "name": "Reddit (3 subs, public feed)",
-      "ok": true,
-      "skipped": false,
-      "items": 100,
-      "newest": "2026-11-16T07:57:19.000Z",
-      "error": null
+      "ok": false,
+      "skipped": true,
+      "items": 0,
+      "newest": null,
+      "error": "Reddit blocks this server without app keys"
     }
   ]
 }
