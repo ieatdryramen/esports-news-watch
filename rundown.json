@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T21:00:23.049Z",
+  "generatedAt": "2026-11-17T22:00:39.164Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 7,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
@@ -31,19 +31,6 @@
           ]
         },
         {
-          "title": "Stake announces six Ranked events with open qualifiers and $150,000 prize pool for 2027",
-          "url": "https://www.hltv.org/news/46006/stake-announces-six-ranked-events-with-open-qualifiers-and-150000-prize-pool-for-2027",
-          "source": "HLTV news",
-          "published": "2026-11-17T16:33:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "return*",
-            "announces",
-            "prize pool"
-          ]
-        },
-        {
           "title": "IEM Beijing 2027 and 2028 Dates Confirmed",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1td0dqWnF5OTJMS3RzbE5MTVVZRWhRbHNKcjNqMzBiVERzU1JhVjl5YVVmZk1aT3pjeGtjTmZCZnBRX24wb1kwVG0taGltWndGcnd4dkEzdjZLcm9Sc2Q1RUNCYzc3Z29oYlJXbF8xcWlyRnd5MkRlbjRmSkNvYVk?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -53,28 +40,6 @@
           "why": [
             "confirmed",
             "iem"
-          ]
-        },
-        {
-          "title": "cmtry out of Astralis after one month",
-          "url": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
-          "source": "HLTV news",
-          "published": "2026-11-17T18:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "astralis"
-          ]
-        },
-        {
-          "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
-          "url": "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
-          "source": "HLTV news",
-          "published": "2026-11-17T17:24:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -111,30 +76,10 @@
           ]
         },
         {
-          "title": "Cast your vote for the Major MVP medal design",
-          "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
-          "source": "HLTV news",
-          "published": "2026-11-17T10:00:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "history*"
-          ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-17T18:32:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "BC.Game, TYLOO headline ZOWIE eXTREMESLAND Asia Open team list",
-          "url": "https://www.hltv.org/news/46005/bcgame-tyloo-headline-zowie-extremesland-asia-open-team-list",
-          "source": "HLTV news",
-          "published": "2026-11-17T14:06:00.000Z",
+          "title": "ESL FaceIt Group will bring Intel Extreme Masters Counter-Strike event to Beijing",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3hDeEE2VmdUZTJaOWFpRjM4WG5aVWZuVVlwRm1mMzlSd2ZrNUVMWHE0cXB3NXotbV95TF9xOGVRUGVkT2VwRE94aDhKbG9PWG1ldmtpYTMwRlVRYktWUTVXV3A2Z1VvMTRJYVR4RGQ4bUlHOWxhSlJTMExJSkJZcmtYSHpvdUN1dzFNN3FmUWtRYWhvMkVKbDBIRjk1RWRuLV92bUNybTA?oc=5",
+          "source": "Google News: CS2 (GamesBeat)",
+          "published": "2026-11-17T03:27:14.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -143,25 +88,13 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt Wins Tekken 8 Championship in Thailand",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVBBbXlZSXM3TXBjb1JGTHhTcG9xMWtFdk9NRkdKTnRrY3Nmd1B6TTd6bWJkcVN5R0VrNE9EbDk1eXpoc3YwU1FfU0E2Q3pQeTg3VXI0OTRFTXNXUUtZcmY4SHdQTXBWdzJ4cU5hRFE0UkRndUlUcG5UaU5ralU2Qy1sOTlaQ1VaR1R6WkV4RjhMTTFucE5Zd05n0gGfAUFVX3lxTE1FVG5yWnhXN042dVZSeTRFczNtbHNGRURfV05fMGZGaEIxeHBBRjduNjNabHF1aUszeHg2Z1FPTHVUUkU4NDFwdVUwSjUzRVppNUwtQ3Vya2tnMHVMaXBjUXZYUVVDMGgwZHhla0FMbUNySmNTUkI2NkgtLTZvbTR6cm5JVVBuOXpCVk8zU2U2b3ByZWRwa3dXM2c5NDd3VQ?oc=5",
           "source": "Google News: Tekken (ProPakistani)",
           "published": "2026-11-17T06:50:54.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "wins",
-            "atif"
-          ]
-        },
-        {
-          "title": "Pakistan’s Atif Butt wins Thaiger Uppercut 2026 Tekken 8 title",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaERCOHNZNGF4dnUxem1BWkdWNkpFMnBuN0tBRi1WWEtRQjJyVUMzS3NtcXpFYjZrTmx2OHdCNWpfV251RlI3UFRoR3BvRkplNXFGX1c2VzJJZVpOUXIyU2RKNTFGNWVIelBmRkRSQS1EVTZRelY0U3RFU2RreVB1NVUyVGhqUjFwRjR3dg?oc=5",
-          "source": "Google News: Tekken (The Current)",
-          "published": "2026-11-16T21:05:02.000Z",
           "score": 6,
           "level": "possible",
           "why": [
