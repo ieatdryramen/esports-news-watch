@@ -1,94 +1,7 @@
 {
-  "generatedAt": "2026-11-17T16:00:26.845Z",
+  "generatedAt": "2026-11-17T17:00:33.110Z",
   "windowHours": 24,
   "scenes": [
-    {
-      "scene": "Dota",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "Cheater on Aus server that won’t get banned",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xyftdz/cheater_on_aus_server_that_wont_get_banned/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T09:11:29.000Z",
-          "score": 10,
-          "level": "possible",
-          "why": [
-            "banned",
-            "cheating*",
-            "cheater",
-            "won",
-            "reddit only"
-          ]
-        },
-        {
-          "title": "Would valve make VAC suspend a match immediately if cheats were detected?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xykfrk/would_valve_make_vac_suspend_a_match_immediately/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T13:28:09.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vac"
-          ]
-        },
-        {
-          "title": "Inner Circle x Insanity edge Froglings in 51-minute DreamLeague Division 2 decider",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHd2MHFmZkJEWHMtVUhjNzRpSHJNOUlZLWw2TWdLMUI5Wm50aUcwMmVKZ3FUTENqUHhNOS1feldLM1R5ckJXX1E2elEzNENOelFQSXhudW8wOHlzX2R6RFkzQXNZWkFWV0NudE5QY1lIZE9jS3FGUld6cGNzZnlvZWxmSDZVekxNSVloUWw5OG1QZzJBNFJtazNuMDV3eW1OdzJuYkNsaTNsbXdDMmNxamVrenNzTzB2NVZvbnJR?oc=5",
-          "source": "Google News: Dota (Esports News UK)",
-          "published": "2026-11-17T10:19:44.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "dreamleague"
-          ]
-        },
-        {
-          "title": "Yes, it’s doable… comeback after series of internet blackouts dropped me to 7k.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xygl0o/yes_its_doable_comeback_after_series_of_internet/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T10:00:37.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "comeback"
-          ]
-        },
-        {
-          "title": "Communication Score in Dota 2: How to increase and keep it high",
-          "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
-          "source": "esports.gg",
-          "published": "2026-11-17T09:40:18.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
-          "url": "https://esports.gg/news/dota-2-blast-slam-9-2026-schedule-teams-prize-pool/",
-          "source": "esports.gg",
-          "published": "2026-11-17T03:53:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "the last*",
-            "prize pool",
-            "-schedule"
-          ]
-        },
-        {
-          "title": "Patch obsession",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xyft01/patch_obsession/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T09:10:45.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "update*"
-          ]
-        }
-      ]
-    },
     {
       "scene": "CS2",
       "storyCount": 18,
@@ -121,6 +34,19 @@
           ]
         },
         {
+          "title": "IEM Beijing to return every year through 2028 after record 59,000-fan event",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1R6dkdZOW1RQlA1YTdZSTgxalB3UVV0bjc5VlRaMW9uUXB2a3kyZFIxMDBHREZ1Y2lqczFKUjhqTzlWRTJyVllpVTJOSzVkSVpGazhvQ3dyZlk0Q0xSXzZPekg2aXpCQ1liRzROOTQ1cUJqS1JvczVmLVd5R0ZDRV9mVGgyVEM1UUtLWVBTNTZ2bzM4azF6WWdraEpxazRONFQ2ajRKN1U1TlgzUTNEcWVHZ2h3SGhj?oc=5",
+          "source": "Google News: CS2 (Inven Global)",
+          "published": "2026-11-17T10:24:08.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "return",
+            "record",
+            "iem"
+          ]
+        },
+        {
           "title": "magic vs HEROIC / PGL Cluj-Napoca 2027 Closed Qualifier - Lower Bracket Final / Post-Match Discussion",
           "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyl7gn/magic_vs_heroic_pgl_clujnapoca_2027_closed/",
           "source": "r/GlobalOffensive",
@@ -132,6 +58,19 @@
             "roster*",
             "official*",
             "pgl"
+          ]
+        },
+        {
+          "title": "Stake announces six Ranked events with open qualifiers and $150,000 prize pool for 2027",
+          "url": "https://www.hltv.org/news/46006/stake-announces-six-ranked-events-with-open-qualifiers-and-150000-prize-pool-for-2027",
+          "source": "HLTV news",
+          "published": "2026-11-17T16:33:00.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "return*",
+            "announces",
+            "prize pool"
           ]
         },
         {
@@ -214,34 +153,12 @@
           "why": [
             "history*"
           ]
-        },
-        {
-          "title": "Pgl Singapore major signing session",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyftlz/pgl_singapore_major_signing_session/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-17T09:11:54.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Here's the Official merchandise store for the Singapore Major",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xylgsi/heres_the_official_merchandise_store_for_the/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-17T14:12:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "official"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt Wins Tekken 8 Championship in Thailand",
@@ -268,6 +185,18 @@
           ]
         },
         {
+          "title": "Wish list for next season",
+          "url": "https://www.reddit.com/r/Tekken/comments/1xyoyeg/wish_list_for_next_season/",
+          "source": "r/Tekken",
+          "published": "2026-11-17T16:29:02.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "the last*",
+            "return*"
+          ]
+        },
+        {
           "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXdRb1ZNWVN2RjlDdFVaNjNPY0RZV2thY1hKckgyRVVfc0VhbWx6cnYwdWNxZkF4aUNxd0s2OVR2M05NZEltbU1xQVNQalgzMGFBQ2ItMVVzdk5kZ3J2UGtRSXpqRUNuTHQ0Ti0xT2ZOeTRqUHA2bjJTT3ZFOXI1UmRSWmludkRBR1FjMF9rTl91QVp0WXp3U1RvSlVjbnd4X1hVWXVEWWxvTjFSR3dkNVhSTlN2N2hyZ3NtanZvS2w4VXRrYjh0aDNUbWw4Q0NPZjVkcDFBT0tSQjk1Q1E?oc=5",
           "source": "Google News: Tekken (IGN)",
@@ -280,7 +209,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Random Electrician Caught in the Crossfire of Zain and Cody Schwab Feud",
@@ -292,6 +221,18 @@
           "why": [
             "zain",
             "cody schwab"
+          ]
+        },
+        {
+          "title": "Does the Zain/Cody beef remind anyone else of the Mango AMA?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xypozd/does_the_zaincody_beef_remind_anyone_else_of_the/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T16:56:53.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "mango",
+            "zain"
           ]
         },
         {
@@ -317,14 +258,62 @@
           ]
         },
         {
-          "title": "Very disappointed in Zain and the state of the scene",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xygis7/very_disappointed_in_zain_and_the_state_of_the/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T09:56:45.000Z",
-          "score": 2,
+          "title": "Super Smash Bros Melee deserves a remake after Zelda: Ocarina of Time success, say ex-Nintendo marketing leads, but the devs must be careful of fans \"ready to revolt on the slightest change\"",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxORl8ycGhaZFNlaHhzb1FrWjZxdnJHWXJqNktTWk9EZkVSbnBGQ19xY1dnVDNGNkw2UjhETGJqUnVuNU5lZUlKRE0wTmV6dWUza1RHcjFQVUJzcm5PdWV0Zjd6cFNwYVlSU01ucElsTS1nYnhxcWNOQ1c2LWlLUXBJaDUzRndQbHp2eXJEQlBlVzRrUVY1QlV3VGFDVXpHR0RQYzBmOEdsMURqRy1CcXp0ZEFEUVBMa0ZYb3dteXEzeEhIUGd2V29hQTVyYmwxMFlmbmtVSVloY0xTbmtuQzFwNXZNRHVwUndnakhQdnFHc1VTNFVwTEEwZlV4VUZkS05RUUpJdkk5c3BlSHd4MkZBdHdIRUUwZ2prQXdvam51ZTJXWFdMbERLeGh2dEFiQ1hlRXoxN2FvU0R2UWRhTE9yQzU2OURndFZpVlpQNVlBQ2hwYU5nd3E4?oc=5",
+          "source": "Google News: Melee (GamesRadar+)",
+          "published": "2026-11-17T16:22:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "Would valve make VAC suspend a match immediately if cheats were detected?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xykfrk/would_valve_make_vac_suspend_a_match_immediately/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T13:28:09.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "zain"
+            "vac"
+          ]
+        },
+        {
+          "title": "Inner Circle x Insanity edge Froglings in 51-minute DreamLeague Division 2 decider",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHd2MHFmZkJEWHMtVUhjNzRpSHJNOUlZLWw2TWdLMUI5Wm50aUcwMmVKZ3FUTENqUHhNOS1feldLM1R5ckJXX1E2elEzNENOelFQSXhudW8wOHlzX2R6RFkzQXNZWkFWV0NudE5QY1lIZE9jS3FGUld6cGNzZnlvZWxmSDZVekxNSVloUWw5OG1QZzJBNFJtazNuMDV3eW1OdzJuYkNsaTNsbXdDMmNxamVrenNzTzB2NVZvbnJR?oc=5",
+          "source": "Google News: Dota (Esports News UK)",
+          "published": "2026-11-17T10:19:44.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "Communication Score in Dota 2: How to increase and keep it high",
+          "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
+          "source": "esports.gg",
+          "published": "2026-11-17T09:40:18.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
+          "url": "https://esports.gg/news/dota-2-blast-slam-9-2026-schedule-teams-prize-pool/",
+          "source": "esports.gg",
+          "published": "2026-11-17T03:53:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "the last*",
+            "prize pool",
+            "-schedule"
           ]
         }
       ]
