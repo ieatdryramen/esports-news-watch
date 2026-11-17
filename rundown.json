@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T15:00:30.875Z",
+  "generatedAt": "2026-11-17T16:00:26.845Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Cheater on Aus server that won’t get banned",
@@ -19,17 +19,6 @@
             "cheater",
             "won",
             "reddit only"
-          ]
-        },
-        {
-          "title": "So... I'm officially retiring Dota 2 and I'm not turning back.",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xye87l/so_im_officially_retiring_dota_2_and_im_not/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T07:29:42.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "retiring"
           ]
         },
         {
@@ -66,17 +55,6 @@
           ]
         },
         {
-          "title": "The history of pipe",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xyfgbo/the_history_of_pipe/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T08:48:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "history"
-          ]
-        },
-        {
           "title": "Communication Score in Dota 2: How to increase and keep it high",
           "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
           "source": "esports.gg",
@@ -84,17 +62,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Client update for 52.8mb",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xyek5o/client_update_for_528mb/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T07:51:12.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
         },
         {
           "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
@@ -119,30 +86,12 @@
           "why": [
             "update*"
           ]
-        },
-        {
-          "title": "Patch 7.42 to introduce Robert Pattinson as the new hero",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xyfje0/patch_742_to_introduce_robert_pattinson_as_the/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T08:54:12.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Patch on Nov 19. Trust (I am running out of copium)",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xye1dd/patch_on_nov_19_trust_i_am_running_out_of_copium/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T07:17:41.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 18,
       "stories": [
         {
           "title": "PGL Major Singapore 2026 - simulation",
@@ -210,10 +159,10 @@
           ]
         },
         {
-          "title": "Inner Circle vs Apogee / StarLadder Ranked Episode 6 - Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyjg91/inner_circle_vs_apogee_starladder_ranked_episode/",
+          "title": "BIG vs Sangal / StarLadder Ranked Episode 6 - Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xympw5/big_vs_sangal_starladder_ranked_episode_6_upper/",
           "source": "r/GlobalOffensive",
-          "published": "2026-11-17T12:41:34.000Z",
+          "published": "2026-11-17T15:04:02.000Z",
           "score": 3.5,
           "level": null,
           "why": [
@@ -226,7 +175,7 @@
           "title": "BLAST Rivals Fall 2026 viewership beats Spring",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12alF0ZDBSblJFOWdSZjlhMkQzNFk4NE5FYTFjaW9pdzVGVFJXbWN4U1ZEdzNaSzBiNXBTTm9oTVBDY3NlR3RpeW5IeXZBSWJlbHkyMml2ckI1V2duM1RfSFhLSGs3dWxTZ1FJ?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-17T12:56:19.000Z",
+          "published": "2026-11-17T13:06:59.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -256,17 +205,6 @@
           ]
         },
         {
-          "title": "The CS2 Mayonnaise Team: How Hellmann’s Became FURIA’s Most Famous Sponsor",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTdYUzBwNDdBdWlDN2IyWWlrOGRLQVZqVGdoLTY5NXJpdVFmY3hXZ19qeXdhcnNzd1E5SlhLSmVnSnhLUG81dXlJUEtRS3RZdkx4cHNoaWljOHBtbXNkQndQQS1zMjNuMmNITjgzUm5XSzBKYndWQzdZeUp6OV9tNTdITUxTQUk?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-16T15:44:34.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia"
-          ]
-        },
-        {
           "title": "Cast your vote for the Major MVP medal design",
           "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
           "source": "HLTV news",
@@ -287,12 +225,23 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "Here's the Official merchandise store for the Singapore Major",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xylgsi/heres_the_official_merchandise_store_for_the/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-17T14:12:57.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "official"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt Wins Tekken 8 Championship in Thailand",
@@ -316,18 +265,6 @@
           "why": [
             "wins",
             "atif"
-          ]
-        },
-        {
-          "title": "Atif Butt defeats South Korea’s lowhigh to claim Tekken 8 title",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajFGN1Q5d3dYbFpKeW41T2o5ckJ5dFZmY19MTDFXUEJDWE9jZkc2UWNFdnoxblhhenotWWdFeTZaOFhhOFkzNE1IN1lCS0FCdW5SQmhmNXhtNHlCcHcwc2VEZ0h6ZUlDZ3NpYUJpVElxenVIXy1JN1N5N2ZZNElXNFIxVnVUdHBHSUJSVzE1ZkdZYkE1WmZ0bEFoRHk?oc=5",
-          "source": "Google News: Tekken (24NewsHD)",
-          "published": "2026-11-16T15:41:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "atif",
-            "lowhigh"
           ]
         },
         {
