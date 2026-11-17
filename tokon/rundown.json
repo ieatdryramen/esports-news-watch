@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T01:05:34.102Z",
+  "generatedAt": "2026-11-17T02:05:40.076Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
@@ -27,6 +27,15 @@
           "why": [
             "official"
           ]
+        },
+        {
+          "title": "Marvel Tōkon: Fighting Souls (PS5) - Blu-ray.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82cFh5Q19FaTRCZzRhMFlJUUZUcERkcWdMLVp3QlV4N0x1R0hhdnpGVEh5Zy10cE5za0JNVnFMbU9XWFRMVkJucXRxbm1ndnV6b3JUaVBVczg3R1JvNDFUWXZmbnB4MzVVajlRSlc4VllZZw?oc=5",
+          "source": "Google News: Tokon",
+          "published": "2026-11-16T16:50:05.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }

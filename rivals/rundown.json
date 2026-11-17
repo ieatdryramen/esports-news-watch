@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T01:05:31.020Z",
+  "generatedAt": "2026-11-17T02:05:35.689Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -29,6 +29,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Marvel Rivals Ignite 2026 Stage 2 - Pacific Oceania",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZeDlIaGRHTi02VHBVX3pQaTQzLVNzVnhGOWF6eGRaUGt1UVdOTnRYRDgwU1N1cjhpcS1NSzh3Y2FFUUtWV0lBbmxmSGhQWXBmd3lUODRoTW82U1FWajlEUmJpamk3VEZ2cFFRcFJyNGNkLUU3aThlOUtrVlpOSVk?oc=5",
+          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
+          "published": "2026-11-16T08:01:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals Guide: All Season 11 Twitch Drop Rewards & How to Claim",
