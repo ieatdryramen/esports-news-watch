@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T11:45:26.966Z",
+  "generatedAt": "2026-11-17T12:45:28.354Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -61,18 +61,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Marvel Rivals Guide: All Season 11 Twitch Drop Rewards & How to Claim",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmJ3QzhWRlFXdU5kek1MeUZNTXFVa2k2SXNyYmRWaGdPT0E1XzVjZ1plT1NLb2g2UjZtMzhDRFdkRE52X2kxajZIeUdHWUVtQlgxVkRtdnRXbmthSE16X3UxVVhsOWJDZnZBWTJKT2hrTnNrUTZ4c3pQRmczdGVxbkEycHZBcnhDd3c?oc=5",
-          "source": "Google News: Rivals esports (games.gg)",
-          "published": "2026-11-16T12:24:18.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "season",
-            "-guide"
-          ]
         }
       ]
     }
