@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-17T13:10:27.827Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
+      "url": "https://esports.gg/news/iem-beijing-2028-deal/",
+      "source": "esports.gg",
+      "outlets": [
+        "esports.gg"
+      ],
+      "score": 6,
+      "why": [
+        "signs",
+        "iem"
+      ],
+      "summary": "The agreement makes Beijing a yearly Counter-Strike 2 stop for 2027 and 2028, backed by municipal support and a projected RMB 1.5 billion in local activity.",
+      "published": "2026-11-17T13:06:01.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T10:45:22.687Z",
       "level": "possible",
       "scene": "CS2",
