@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-17T10:35:26.238Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "IEM Beijing to return every year through 2028 after record 59,000-fan event",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1R6dkdZOW1RQlA1YTdZSTgxalB3UVV0bjc5VlRaMW9uUXB2a3kyZFIxMDBHREZ1Y2lqczFKUjhqTzlWRTJyVllpVTJOSzVkSVpGazhvQ3dyZlk0Q0xSXzZPekg2aXpCQ1liRzROOTQ1cUJqS1JvczVmLVd5R0ZDRV9mVGgyVEM1UUtLWVBTNTZ2bzM4azF6WWdraEpxazRONFQ2ajRKN1U1TlgzUTNEcWVHZ2h3SGhj?oc=5",
+      "source": "Google News: CS2 (Inven Global)",
+      "outlets": [
+        "Inven Global"
+      ],
+      "score": 6,
+      "why": [
+        "return",
+        "record",
+        "iem"
+      ],
+      "summary": "",
+      "published": "2026-11-17T10:24:08.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T09:15:27.526Z",
       "level": "possible",
       "scene": "Dota",
