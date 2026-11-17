@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T02:45:18.056Z",
+  "generatedAt": "2026-11-17T03:40:19.816Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -149,7 +149,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 10,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Cheat: Moving Items from other Player Inventories to Stash",
@@ -164,6 +164,18 @@
             "cheater*",
             "cheat",
             "reddit only"
+          ]
+        },
+        {
+          "title": "Another Grand Final Appearance for Team Spirit? 1win Essence III Playoffs Day 3 Predictions",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0lpQU1PREFaVWVXLWhsM29mVWhGN21DQUV5Mkh5ckVGcG1vQzZ5WGxwVk03Sk1sRUFZSDZSVGlybDFWbnpCZG5FU0UySURFWlpCNW9HaDA1dGFRRGRhdHlBOEJGYkZYdzFaR0VsUG5aYjBoSTd5eGlYX2tHV21FUjF1cjZXa09ReUtkS1lhLVB0ZzhrYUpMYS05QmdubWNCS3ljdzhyaEpNdXIxekI3UWVjUEVYWW8wYzNhN1dDVktrYVhB?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-17T02:01:42.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "grand final",
+            "team spirit"
           ]
         },
         {
@@ -186,6 +198,17 @@
           "level": null,
           "why": [
             "cheat"
+          ]
+        },
+        {
+          "title": "Do you guys know there was update 2 weeks per once in the past ?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy9y6j/do_you_guys_know_there_was_update_2_weeks_per/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T03:30:16.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -438,7 +461,7 @@
     },
     {
       "scene": "AoE2",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "After 2000 games, I have 1002 wins vs 998 losses",
@@ -449,34 +472,6 @@
           "level": null,
           "why": [
             "wins"
-          ]
-        },
-        {
-          "title": "Tagalogs, the Philippine Civilization Variant v2 (a rather needed update)",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xxnhd1/tagalogs_the_philippine_civilization_variant_v2_a/",
-          "source": "r/aoe2",
-          "published": "2026-11-16T11:54:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Why Kintaro is technically the least competitively viable character in Mortal Kombat history",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2h2Y3lxOThhTnVlMXFjX2IzTXNHaFY5bGE2c3d5R1djSmhsN0R1ekg2TFRXYWoybldhU2RheDMzR21RV2RRaXhWaEdheEZZWXdWS0U3dnpKSTMtM0cwdmJ0dzc2YmNJNXVfWWNLTnZfdm1sdlNDMUZVN29SdWR2bGQ1TQ?oc=5",
-          "source": "Google News: Legacy FGC (EventHubs)",
-          "published": "2026-11-16T03:20:50.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "history"
           ]
         }
       ]
@@ -500,21 +495,6 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Capcom Pro Tour 2026 World Warrior Finals early results, streams",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEFFNzJLanBpd0dLNk1VSVNVUkJRLURvUHM3b0J3SWEtRUJKY0lEQUtOdklGblE4YjZvMnZDeHZ6YnZTN3VPWmJGZjhKNy1DeUVBM2YxU2N6VlE0SWJqU0o4WnJLUnpwcHNTVWwxaEhGaERkMlU3TXEwUjJQbHBsR3BR?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-16T07:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
@@ -534,6 +514,8 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
+    "Legacy FGC",
     "Halo"
   ]
 }
