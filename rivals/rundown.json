@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T22:30:35.084Z",
+  "generatedAt": "2026-11-17T23:30:35.868Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -34,17 +34,6 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LY0NXOGw0NzFsZWhvMWc3N2ZKMnA0d2lYWWN2WXVELVpRZnJrVGxmRWdUUDNNMmZyYTNfTzRIalNldVNMR3ZKcVBUd0ExSVVsZ2lOUlQxYi1jbXhrTkdnZ3E3TFh2Tk8zbTdVNWJTdkdwZWZwUzdLYm5hV1dpQQ?oc=5",
           "source": "Google News: Rivals patches (Phrasemaker)",
           "published": "2026-11-17T09:25:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Doomsday Is Live, With Strategist Nightcrawler And The Incursion Battle Pass",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU1NKZU5rcUFUZFl4ay1QUkhnYWFxNk1lVThxVnY2NEZVLWJKWkV3OWxfbWZwSlVER21mQ1JCZkFEVjE0ZFpxOEx5RVV4RmRVMkV4VTdOYm1qV0stSDNwMUx4TU5tQkkzMzYxdzFZVFpycUg0MVJ6VmtmcVpQZnBMQnlmTS1HTWhuaS1McVZsOG9NVUxlQk9UeDY1N2lJOXNIcFF0MHlGVzViLUdUSFBZa0RsaTNxc3lVWjVMVVdtWkI5NWNaVGZSOW96VEhCa1ZhTkljUHZJNTFCeU1mMVV0NW1MNG1KaUE2c0NSaXRGTQ?oc=5",
-          "source": "Google News: Rivals esports (GameFragger.com)",
-          "published": "2026-11-16T23:11:00.000Z",
           "score": 2,
           "level": null,
           "why": [
