@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:00:24.840Z",
+  "generatedAt": "2026-11-17T21:00:23.049Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -242,8 +242,20 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "'I hate the way you represent this game': Zain lashes out at Cody after losing in Port Priority XD grand finals",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHlIUkpYaFB2M2JleWNua0pwNG9WVl9aczRYU1UycXRKRmpYUW5oR1JUSVN6dUVyeTJFOFM1cklTVlZ4am1iY0VRWWpjLWdsal9aNjlYem5pbEx1OUJmU1dfUWRJNzJ4MFJiUWhUY3RzczRXQWx4TXN4U3VTMXo1ZzNWZm9NMnNT?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-17T20:05:25.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "grand finals",
+            "zain"
+          ]
+        },
         {
           "title": "Random Electrician Caught in the Crossfire of Zain and Cody Schwab Feud",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnhxQ2NLQ3otSjJTNkJhbm9STjA0c2dsT05LU2IyeWc2dHJfLW5BM1VNNGJyR2p0RzB3R0xXUjdjRXBWTUdxd18yaXdFa0tZVVlEcmV2OXBXcGFXYXBqU2pRdlNkVU9uYVlXc2tKenFXeXlqSFNUdjNZNHhWMHZVeU1RdElJbE5sN05WT2ItcE1jOGxnMXNrNGg5ai1sQmlq?oc=5",
@@ -275,7 +287,7 @@
           "title": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd3QtQkhJY0FzVENHZDZmLUdZd2R0ZkhSeUdXRmtqbjFFQWYxSVljZ1BnVmNHNXNRSWZFeElNZFlpb3NtdURBTE9TZmtaV2NpUkFLcXhONkEwRUk3NXlUNDl1ZncybG1hVUZzOWdDejFlMndFNENoRWtGTDU2UUZDbDJGVkFlNnhfVzVhYS1GQ3dxeHNieTljYXNEMUV0S1hSR2Y3STJoQnRuWjBFMGpLeXU0a3N3elZrUXJicUI0YlhTOTQyRFFLNHE2YnRmN2xrWEtsQUp4c3o5ZDFUejBOTmdCTmltd2pacl9ERm1WaUJBVW0xZVlkNUhWV3c?oc=5",
           "source": "Google News: Street Fighter (Herald Bulletin)",
-          "published": "2026-11-17T11:39:18.000Z",
+          "published": "2026-11-17T15:03:17.000Z",
           "score": 1,
           "level": null,
           "why": []
