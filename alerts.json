@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-17T07:20:19.642Z",
+      "level": "possible",
+      "scene": "Tekken",
+      "title": "Pakistan’s Atif Butt Wins Tekken 8 Championship in Thailand",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVBBbXlZSXM3TXBjb1JGTHhTcG9xMWtFdk9NRkdKTnRrY3Nmd1B6TTd6bWJkcVN5R0VrNE9EbDk1eXpoc3YwU1FfU0E2Q3pQeTg3VXI0OTRFTXNXUUtZcmY4SHdQTXBWdzJ4cU5hRFE0UkRndUlUcG5UaU5ralU2Qy1sOTlaQ1VaR1R6WkV4RjhMTTFucE5Zd05n0gGfAUFVX3lxTE1FVG5yWnhXN042dVZSeTRFczNtbHNGRURfV05fMGZGaEIxeHBBRjduNjNabHF1aUszeHg2Z1FPTHVUUkU4NDFwdVUwSjUzRVppNUwtQ3Vya2tnMHVMaXBjUXZYUVVDMGgwZHhla0FMbUNySmNTUkI2NkgtLTZvbTR6cm5JVVBuOXpCVk8zU2U2b3ByZWRwa3dXM2c5NDd3VQ?oc=5",
+      "source": "Google News: Tekken (ProPakistani)",
+      "outlets": [
+        "ProPakistani"
+      ],
+      "score": 6,
+      "why": [
+        "wins",
+        "atif"
+      ],
+      "summary": "",
+      "published": "2026-11-17T06:50:54.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T06:00:23.418Z",
       "level": "possible",
       "scene": "Melee",
