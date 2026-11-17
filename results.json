@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:35:18.865Z",
+  "generatedAt": "2026-11-17T23:05:15.167Z",
   "source": "start.gg",
   "completed": [
     {
@@ -191,100 +191,6 @@
       ]
     },
     {
-      "eventId": "1741745",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Cactus League Season 4: Ranking Battle Edition #2",
-      "event": "Cactus League Season 4: Ranking Battle Edition #2 - 3rd Strike",
-      "entrants": 22,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T23:00:00.000Z",
-      "endAt": "2026-11-15T05:00:00.000Z",
-      "url": "https://www.start.gg/tournament/cactus-league-season-4-ranking-battle-edition-2/event/cactus-league-season-4-ranking-battle-edition-2-3rd-strike",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "ReNiC"
-        },
-        {
-          "placement": 2,
-          "name": "Bling"
-        },
-        {
-          "placement": 3,
-          "name": "BMXer3S"
-        },
-        {
-          "placement": 4,
-          "name": "J M E"
-        },
-        {
-          "placement": 5,
-          "name": "El Guapo"
-        },
-        {
-          "placement": 5,
-          "name": "HN | O.FAKA"
-        },
-        {
-          "placement": 7,
-          "name": "Zee"
-        },
-        {
-          "placement": 7,
-          "name": "RickyRozayyy"
-        }
-      ]
-    },
-    {
-      "eventId": "1741755",
-      "scene": "streetfighter",
-      "game": "Super Street Fighter II Turbo",
-      "tournament": "Cactus League Season 4: Ranking Battle Edition #2",
-      "event": "Cactus League Season 4: Ranking Battle Edition #2 - Super Street Fighter II Turbo",
-      "entrants": 19,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T23:00:00.000Z",
-      "endAt": "2026-11-15T05:00:00.000Z",
-      "url": "https://www.start.gg/tournament/cactus-league-season-4-ranking-battle-edition-2/event/cactus-league-season-4-ranking-battle-edition-2-super-street-fighter-ii-turbo",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "BMXer3S"
-        },
-        {
-          "placement": 2,
-          "name": "HN | O.FAKA"
-        },
-        {
-          "placement": 3,
-          "name": "VMP | ActionHank"
-        },
-        {
-          "placement": 4,
-          "name": "HN | DeepExhale"
-        },
-        {
-          "placement": 5,
-          "name": "J M E"
-        },
-        {
-          "placement": 5,
-          "name": "PierceNightmare"
-        },
-        {
-          "placement": 7,
-          "name": "SeeSee"
-        },
-        {
-          "placement": 7,
-          "name": "MateoHavel"
-        }
-      ]
-    },
-    {
       "eventId": "1756172",
       "scene": "streetfighter",
       "game": "Street Fighter III: 3rd Strike",
@@ -340,7 +246,7 @@
       "game": "Tekken 8",
       "tournament": "TNS TEKKEN 8 #142",
       "event": "Tekken 8",
-      "entrants": 104,
+      "entrants": 122,
       "online": true,
       "major": false,
       "startAt": "2026-11-18T01:00:00.000Z",
@@ -457,7 +363,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Taking Back Tampa: The Movie",
       "event": "Melee Singles",
-      "entrants": 133,
+      "entrants": 132,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T18:00:00.000Z",
