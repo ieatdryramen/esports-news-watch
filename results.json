@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:05:33.103Z",
+  "generatedAt": "2026-11-17T20:35:14.354Z",
   "source": "start.gg",
   "completed": [
     {
@@ -340,7 +340,7 @@
       "game": "Tekken 8",
       "tournament": "TNS TEKKEN 8 #142",
       "event": "Tekken 8",
-      "entrants": 66,
+      "entrants": 70,
       "online": true,
       "major": false,
       "startAt": "2026-11-18T01:00:00.000Z",
@@ -353,7 +353,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Adam's Smash Series #211: Adam has been cast as the next James Bond",
       "event": "Melee Singles",
-      "entrants": 66,
+      "entrants": 65,
       "online": false,
       "major": false,
       "startAt": "2026-11-19T02:00:00.000Z",
