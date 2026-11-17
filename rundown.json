@@ -1,7 +1,278 @@
 {
-  "generatedAt": "2026-11-17T03:40:19.816Z",
+  "generatedAt": "2026-11-17T04:40:19.424Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "CS2",
+      "storyCount": 11,
+      "stories": [
+        {
+          "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDT1AtVFU2a3NYQnV1WTlzUWpkdmszUzF4alpubGNvdUxYTkM2ekZvNlBPT0wyRW1JRlNVbHVMZFBpeV9fWXUwUnN5N2YwMnRlSGM4RjljRkJ1T1FjTTBYNWt5aV9UTUF6RmFSVmlIX0dqWGZzaXBDMUc1STVBREU?oc=5",
+          "source": "Google News: CS2 (Pokde.Net)",
+          "published": "2026-11-16T15:50:57.000Z",
+          "score": 12,
+          "level": "breaking",
+          "why": [
+            "champions",
+            "crowned",
+            "furia",
+            "blast"
+          ]
+        },
+        {
+          "title": "I'm hoping and praying FaZe crash at the major",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xy7316/im_hoping_and_praying_faze_crash_at_the_major/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-17T01:12:24.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "grand final*",
+            "history*",
+            "karrigan*",
+            "faze"
+          ]
+        },
+        {
+          "title": "IEM Cologne Major sticker update was 11 days before its Stage 1, we are now 8 days away from PGL Major and no Stickers",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xy3shw/iem_cologne_major_sticker_update_was_11_days/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-16T22:47:30.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "update",
+            "iem",
+            "pgl",
+            "cologne major"
+          ]
+        },
+        {
+          "title": "BLAST Rivals final pulls 845K viewers to beat IEM Beijing’s peak",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNem1vaWVfeEZ0NlViVWR0cUpoYVFCNWRNbTFZZF9jSk80MkpIdUk5Y21xWUczTVdJOXNIU2swcFJpZWZYV0JBVHVZMlJ6dm02X1c2UjlvSENtSFZyY05LYVNHSzVYbk5DbXF3dGtJamtzSE83VjFPQW50MmYwQXE3WklJb1dOdVlSZzJKMA?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-16T09:00:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "iem",
+            "blast"
+          ]
+        },
+        {
+          "title": "Astralis announce jabbi departure",
+          "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
+          "source": "HLTV news",
+          "published": "2026-11-16T17:50:00.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "leaves*",
+            "astralis"
+          ]
+        },
+        {
+          "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
+          "url": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
+          "source": "HLTV news",
+          "published": "2026-11-16T17:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "blast"
+          ]
+        },
+        {
+          "title": "The CS2 Mayonnaise Team: How Hellmann’s Became FURIA’s Most Famous Sponsor",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTdYUzBwNDdBdWlDN2IyWWlrOGRLQVZqVGdoLTY5NXJpdVFmY3hXZ19qeXdhcnNzd1E5SlhLSmVnSnhLUG81dXlJUEtRS3RZdkx4cHNoaWljOHBtbXNkQndQQS1zMjNuMmNITjgzUm5XSzBKYndWQzdZeUp6OV9tNTdITUxTQUk?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-16T15:44:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia"
+          ]
+        },
+        {
+          "title": "ESL FaceIt Group will bring Intel Extreme Masters Counter-Strike event to Beijing",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3hDeEE2VmdUZTJaOWFpRjM4WG5aVWZuVVlwRm1mMzlSd2ZrNUVMWHE0cXB3NXotbV95TF9xOGVRUGVkT2VwRE94aDhKbG9PWG1ldmtpYTMwRlVRYktWUTVXV3A2Z1VvMTRJYVR4RGQ4bUlHOWxhSlJTMExJSkJZcmtYSHpvdUN1dzFNN3FmUWtRYWhvMkVKbDBIRjk1RWRuLV92bUNybTA?oc=5",
+          "source": "Google News: CS2 (GamesBeat)",
+          "published": "2026-11-17T03:27:14.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-16T19:03:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Community Awards: Vox Populi nominations open",
+          "url": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
+          "source": "HLTV news",
+          "published": "2026-11-16T18:59:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Alliance part ways with head coach Hawk",
+          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
+          "source": "HLTV news",
+          "published": "2026-11-16T12:09:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 13,
+      "stories": [
+        {
+          "title": "Cheat: Moving Items from other Player Inventories to Stash",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy67g3/cheat_moving_items_from_other_player_inventories/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T00:31:41.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "update*",
+            "cheating*",
+            "cheater*",
+            "cheat",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "Cheater dota 2",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy41jw/cheater_dota_2/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T22:58:16.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheater"
+          ]
+        },
+        {
+          "title": "Why won’t people leave after fights and objectives?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xyb1kq/why_wont_people_leave_after_fights_and_objectives/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T04:26:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
+          "url": "https://esports.gg/news/dota-2-blast-slam-9-2026-schedule-teams-prize-pool/",
+          "source": "esports.gg",
+          "published": "2026-11-17T03:53:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "the last*",
+            "prize pool",
+            "-schedule"
+          ]
+        },
+        {
+          "title": "Do you guys know there was update 2 weeks per once in the past ?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy9y6j/do_you_guys_know_there_was_update_2_weeks_per/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T03:30:16.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Patch date and time",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy8o9b/patch_date_and_time/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T02:28:19.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "dreamleague*"
+          ]
+        },
+        {
+          "title": "How is the next big update going to be???",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy6jlb/how_is_the_next_big_update_going_to_be/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T00:47:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Posting shitty memes about new favorite child until we get an update DAY 3",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy3ov4/posting_shitty_memes_about_new_favorite_child/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T22:43:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Guys, GFAT just called me its gonna be new cuarteroes curio update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy3f1q/guys_gfat_just_called_me_its_gonna_be_new/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T22:31:56.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Dota 2 Small Scale Online Tournament",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xyafcv/dota_2_small_scale_online_tournament/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T03:54:43.000Z",
+          "score": 0.5,
+          "level": null,
+          "why": [
+            "prize pool*"
+          ]
+        },
+        {
+          "title": "Now i understand why League player said Dota is clanky",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy8gqk/now_i_understand_why_league_player_said_dota_is/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T02:18:15.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Don't show this screenshot to league player...",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy81tg/dont_show_this_screenshot_to_league_player/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T01:58:43.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
     {
       "scene": "Melee",
       "storyCount": 13,
@@ -148,228 +419,6 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 12,
-      "stories": [
-        {
-          "title": "Cheat: Moving Items from other Player Inventories to Stash",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy67g3/cheat_moving_items_from_other_player_inventories/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T00:31:41.000Z",
-          "score": 7.5,
-          "level": "possible",
-          "why": [
-            "update*",
-            "cheating*",
-            "cheater*",
-            "cheat",
-            "reddit only"
-          ]
-        },
-        {
-          "title": "Another Grand Final Appearance for Team Spirit? 1win Essence III Playoffs Day 3 Predictions",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0lpQU1PREFaVWVXLWhsM29mVWhGN21DQUV5Mkh5ckVGcG1vQzZ5WGxwVk03Sk1sRUFZSDZSVGlybDFWbnpCZG5FU0UySURFWlpCNW9HaDA1dGFRRGRhdHlBOEJGYkZYdzFaR0VsUG5aYjBoSTd5eGlYX2tHV21FUjF1cjZXa09ReUtkS1lhLVB0ZzhrYUpMYS05QmdubWNCS3ljdzhyaEpNdXIxekI3UWVjUEVYWW8wYzNhN1dDVktrYVhB?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-17T02:01:42.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Cheater dota 2",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy41jw/cheater_dota_2/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T22:58:16.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
-          "title": "Items => stash - bug or cheat?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy2uvm/items_stash_bug_or_cheat/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T22:09:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cheat"
-          ]
-        },
-        {
-          "title": "Do you guys know there was update 2 weeks per once in the past ?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy9y6j/do_you_guys_know_there_was_update_2_weeks_per/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T03:30:16.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Patch date and time",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy8o9b/patch_date_and_time/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T02:28:19.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "dreamleague*"
-          ]
-        },
-        {
-          "title": "How is the next big update going to be???",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy6jlb/how_is_the_next_big_update_going_to_be/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T00:47:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Posting shitty memes about new favorite child until we get an update DAY 3",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy3ov4/posting_shitty_memes_about_new_favorite_child/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T22:43:12.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Guys, GFAT just called me its gonna be new cuarteroes curio update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy3f1q/guys_gfat_just_called_me_its_gonna_be_new/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T22:31:56.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Now i understand why League player said Dota is clanky",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy8gqk/now_i_understand_why_league_player_said_dota_is/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T02:18:15.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Don't show this screenshot to league player...",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy81tg/dont_show_this_screenshot_to_league_player/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T01:58:43.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "giff patch ( つ ◕_◕ )つ",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy7ex7/giff_patch_つ_つ/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T01:28:15.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 7,
-      "stories": [
-        {
-          "title": "I'm hoping and praying FaZe crash at the major",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xy7316/im_hoping_and_praying_faze_crash_at_the_major/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-17T01:12:24.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "grand final*",
-            "history*",
-            "karrigan*",
-            "faze"
-          ]
-        },
-        {
-          "title": "IEM Cologne Major sticker update was 11 days before its Stage 1, we are now 8 days away from PGL Major and no Stickers",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xy3shw/iem_cologne_major_sticker_update_was_11_days/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-16T22:47:30.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "update",
-            "iem",
-            "pgl",
-            "cologne major"
-          ]
-        },
-        {
-          "title": "Astralis announce jabbi departure",
-          "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
-          "source": "HLTV news",
-          "published": "2026-11-16T17:50:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "leaves*",
-            "astralis"
-          ]
-        },
-        {
-          "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
-          "url": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
-          "source": "HLTV news",
-          "published": "2026-11-16T17:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-16T19:03:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Community Awards: Vox Populi nominations open",
-          "url": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
-          "source": "HLTV news",
-          "published": "2026-11-16T18:59:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Alliance part ways with head coach Hawk",
-          "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
-          "source": "HLTV news",
-          "published": "2026-11-16T12:09:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 4,
       "stories": [
@@ -388,7 +437,7 @@
         {
           "title": "Atif Butt defeats South Korea’s lowhigh to claim Tekken 8 title",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajFGN1Q5d3dYbFpKeW41T2o5ckJ5dFZmY19MTDFXUEJDWE9jZkc2UWNFdnoxblhhenotWWdFeTZaOFhhOFkzNE1IN1lCS0FCdW5SQmhmNXhtNHlCcHcwc2VEZ0h6ZUlDZ3NpYUJpVElxenVIXy1JN1N5N2ZZNElXNFIxVnVUdHBHSUJSVzE1ZkdZYkE1WmZ0bEFoRHk?oc=5",
-          "source": "Google News: Tekken (24 News HD)",
+          "source": "Google News: Tekken (24NewsHD)",
           "published": "2026-11-16T15:41:00.000Z",
           "score": 5,
           "level": null,
@@ -460,23 +509,6 @@
       ]
     },
     {
-      "scene": "AoE2",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "After 2000 games, I have 1002 wins vs 998 losses",
-          "url": "https://www.reddit.com/r/aoe2/comments/1xxgp0g/after_2000_games_i_have_1002_wins_vs_998_losses/",
-          "source": "r/aoe2",
-          "published": "2026-11-16T04:59:37.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Quake",
       "storyCount": 1,
       "stories": [
@@ -511,6 +543,7 @@
     }
   ],
   "quiet": [
+    "AoE2",
     "Brood War",
     "Trackmania",
     "Warcraft III",
