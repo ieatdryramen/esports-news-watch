@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T22:00:39.164Z",
+  "generatedAt": "2026-11-17T23:00:27.752Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 14,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
@@ -31,6 +31,19 @@
           ]
         },
         {
+          "title": "Stake announces six Ranked events with open qualifiers and $150,000 prize pool for 2027",
+          "url": "https://www.hltv.org/news/46006/stake-announces-six-ranked-events-with-open-qualifiers-and-150000-prize-pool-for-2027",
+          "source": "HLTV news",
+          "published": "2026-11-17T16:33:00.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "return*",
+            "announces",
+            "prize pool"
+          ]
+        },
+        {
           "title": "IEM Beijing 2027 and 2028 Dates Confirmed",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1td0dqWnF5OTJMS3RzbE5MTVVZRWhRbHNKcjNqMzBiVERzU1JhVjl5YVVmZk1aT3pjeGtjTmZCZnBRX24wb1kwVG0taGltWndGcnd4dkEzdjZLcm9Sc2Q1RUNCYzc3Z29oYlJXbF8xcWlyRnd5MkRlbjRmSkNvYVk?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -40,6 +53,28 @@
           "why": [
             "confirmed",
             "iem"
+          ]
+        },
+        {
+          "title": "cmtry out of Astralis after one month",
+          "url": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
+          "source": "HLTV news",
+          "published": "2026-11-17T18:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "astralis"
+          ]
+        },
+        {
+          "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
+          "url": "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
+          "source": "HLTV news",
+          "published": "2026-11-17T17:24:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -76,10 +111,30 @@
           ]
         },
         {
-          "title": "ESL FaceIt Group will bring Intel Extreme Masters Counter-Strike event to Beijing",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3hDeEE2VmdUZTJaOWFpRjM4WG5aVWZuVVlwRm1mMzlSd2ZrNUVMWHE0cXB3NXotbV95TF9xOGVRUGVkT2VwRE94aDhKbG9PWG1ldmtpYTMwRlVRYktWUTVXV3A2Z1VvMTRJYVR4RGQ4bUlHOWxhSlJTMExJSkJZcmtYSHpvdUN1dzFNN3FmUWtRYWhvMkVKbDBIRjk1RWRuLV92bUNybTA?oc=5",
-          "source": "Google News: CS2 (GamesBeat)",
-          "published": "2026-11-17T03:27:14.000Z",
+          "title": "Cast your vote for the Major MVP medal design",
+          "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
+          "source": "HLTV news",
+          "published": "2026-11-17T10:00:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "history*"
+          ]
+        },
+        {
+          "title": "Bad News Eagles relaunch with academy project",
+          "url": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
+          "source": "HLTV news",
+          "published": "2026-11-17T21:18:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-17T18:32:00.000Z",
           "score": 1,
           "level": null,
           "why": []
