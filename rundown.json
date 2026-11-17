@@ -1,26 +1,11 @@
 {
-  "generatedAt": "2026-11-17T17:00:33.110Z",
+  "generatedAt": "2026-11-17T18:00:25.177Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 12,
       "stories": [
-        {
-          "title": "PGL Major Singapore 2026 - simulation",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyh9xh/pgl_major_singapore_2026_simulation/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-17T10:42:04.000Z",
-          "score": 6.5,
-          "level": "possible",
-          "why": [
-            "roster*",
-            "wins*",
-            "won*",
-            "liquid*",
-            "pgl"
-          ]
-        },
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
           "url": "https://esports.gg/news/iem-beijing-2028-deal/",
@@ -31,33 +16,6 @@
           "why": [
             "signs",
             "iem"
-          ]
-        },
-        {
-          "title": "IEM Beijing to return every year through 2028 after record 59,000-fan event",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1R6dkdZOW1RQlA1YTdZSTgxalB3UVV0bjc5VlRaMW9uUXB2a3kyZFIxMDBHREZ1Y2lqczFKUjhqTzlWRTJyVllpVTJOSzVkSVpGazhvQ3dyZlk0Q0xSXzZPekg2aXpCQ1liRzROOTQ1cUJqS1JvczVmLVd5R0ZDRV9mVGgyVEM1UUtLWVBTNTZ2bzM4azF6WWdraEpxazRONFQ2ajRKN1U1TlgzUTNEcWVHZ2h3SGhj?oc=5",
-          "source": "Google News: CS2 (Inven Global)",
-          "published": "2026-11-17T10:24:08.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "return",
-            "record",
-            "iem"
-          ]
-        },
-        {
-          "title": "magic vs HEROIC / PGL Cluj-Napoca 2027 Closed Qualifier - Lower Bracket Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyl7gn/magic_vs_heroic_pgl_clujnapoca_2027_closed/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-17T14:02:01.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "benched*",
-            "roster*",
-            "official*",
-            "pgl"
           ]
         },
         {
@@ -74,18 +32,6 @@
           ]
         },
         {
-          "title": "Astralis announce jabbi departure",
-          "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
-          "source": "HLTV news",
-          "published": "2026-11-16T17:50:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "leaves*",
-            "astralis"
-          ]
-        },
-        {
           "title": "IEM Beijing 2027 and 2028 Dates Confirmed",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1td0dqWnF5OTJMS3RzbE5MTVVZRWhRbHNKcjNqMzBiVERzU1JhVjl5YVVmZk1aT3pjeGtjTmZCZnBRX24wb1kwVG0taGltWndGcnd4dkEzdjZLcm9Sc2Q1RUNCYzc3Z29oYlJXbF8xcWlyRnd5MkRlbjRmSkNvYVk?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -98,16 +44,14 @@
           ]
         },
         {
-          "title": "BIG vs Sangal / StarLadder Ranked Episode 6 - Upper Bracket Quarter-Final / Post-Match Discussion",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xympw5/big_vs_sangal_starladder_ranked_episode_6_upper/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-17T15:04:02.000Z",
-          "score": 3.5,
+          "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
+          "url": "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
+          "source": "HLTV news",
+          "published": "2026-11-17T17:24:00.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "benched*",
-            "roster*",
-            "official*"
+            "pgl"
           ]
         },
         {
@@ -133,17 +77,6 @@
           ]
         },
         {
-          "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
-          "url": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
-          "source": "HLTV news",
-          "published": "2026-11-16T17:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "blast"
-          ]
-        },
-        {
           "title": "Cast your vote for the Major MVP medal design",
           "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
           "source": "HLTV news",
@@ -153,12 +86,57 @@
           "why": [
             "history*"
           ]
+        },
+        {
+          "title": "BC.Game, TYLOO headline ZOWIE eXTREMESLAND Asia Open team list",
+          "url": "https://www.hltv.org/news/46005/bcgame-tyloo-headline-zowie-extremesland-asia-open-team-list",
+          "source": "HLTV news",
+          "published": "2026-11-17T14:06:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "PURE eSports CSGO Team Partners with CCC.io",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2doeE5Ba3Q4NWZIVzhpRmZ5cGJSQzhsRXFya0pzY2E2amNudVQ3MXp5WEdjS3pKT0hPbG1WQjBWRTZYcjg4Q19sZ0EtMFR2VC03Wm1tLS1pVlNZbWh6QjNWZXJqTWUwTFpSWmExdk1rcnJBYnBQa3ZVWTJNRXFvVEpWZUE?oc=5",
+          "source": "Google News: CS2 (Gambling News)",
+          "published": "2026-11-17T07:19:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "ESL FaceIt Group will bring Intel Extreme Masters Counter-Strike event to Beijing",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3hDeEE2VmdUZTJaOWFpRjM4WG5aVWZuVVlwRm1mMzlSd2ZrNUVMWHE0cXB3NXotbV95TF9xOGVRUGVkT2VwRE94aDhKbG9PWG1ldmtpYTMwRlVRYktWUTVXV3A2Z1VvMTRJYVR4RGQ4bUlHOWxhSlJTMExJSkJZcmtYSHpvdUN1dzFNN3FmUWtRYWhvMkVKbDBIRjk1RWRuLV92bUNybTA?oc=5",
+          "source": "Google News: CS2 (GamesBeat)",
+          "published": "2026-11-17T03:27:14.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-16T19:03:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Community Awards: Vox Populi nominations open",
+          "url": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
+          "source": "HLTV news",
+          "published": "2026-11-16T18:59:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt Wins Tekken 8 Championship in Thailand",
@@ -185,18 +163,6 @@
           ]
         },
         {
-          "title": "Wish list for next season",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xyoyeg/wish_list_for_next_season/",
-          "source": "r/Tekken",
-          "published": "2026-11-17T16:29:02.000Z",
-          "score": 1.5,
-          "level": null,
-          "why": [
-            "the last*",
-            "return*"
-          ]
-        },
-        {
           "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXdRb1ZNWVN2RjlDdFVaNjNPY0RZV2thY1hKckgyRVVfc0VhbWx6cnYwdWNxZkF4aUNxd0s2OVR2M05NZEltbU1xQVNQalgzMGFBQ2ItMVVzdk5kZ3J2UGtRSXpqRUNuTHQ0Ti0xT2ZOeTRqUHA2bjJTT3ZFOXI1UmRSWmludkRBR1FjMF9rTl91QVp0WXp3U1RvSlVjbnd4X1hVWXVEWWxvTjFSR3dkNVhSTlN2N2hyZ3NtanZvS2w4VXRrYjh0aDNUbWw4Q0NPZjVkcDFBT0tSQjk1Q1E?oc=5",
           "source": "Google News: Tekken (IGN)",
@@ -208,79 +174,19 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Random Electrician Caught in the Crossfire of Zain and Cody Schwab Feud",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnhxQ2NLQ3otSjJTNkJhbm9STjA0c2dsT05LU2IyeWc2dHJfLW5BM1VNNGJyR2p0RzB3R0xXUjdjRXBWTUdxd18yaXdFa0tZVVlEcmV2OXBXcGFXYXBqU2pRdlNkVU9uYVlXc2tKenFXeXlqSFNUdjNZNHhWMHZVeU1RdElJbE5sN05WT2ItcE1jOGxnMXNrNGg5ai1sQmlq?oc=5",
-          "source": "Google News: Melee (Insider Gaming)",
-          "published": "2026-11-17T14:19:45.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "zain",
-            "cody schwab"
-          ]
-        },
-        {
-          "title": "Does the Zain/Cody beef remind anyone else of the Mango AMA?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xypozd/does_the_zaincody_beef_remind_anyone_else_of_the/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T16:56:53.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "mango",
-            "zain"
-          ]
-        },
-        {
-          "title": "Footage of man getting kicked in the sky",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xylutx/footage_of_man_getting_kicked_in_the_sky/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T14:29:26.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "kicked"
-          ]
-        },
-        {
-          "title": "My thoughts on the Cody/Zain drama, as a Mewtwo player",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xym34r/my_thoughts_on_the_codyzain_drama_as_a_mewtwo/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T14:38:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        },
-        {
-          "title": "Super Smash Bros Melee deserves a remake after Zelda: Ocarina of Time success, say ex-Nintendo marketing leads, but the devs must be careful of fans \"ready to revolt on the slightest change\"",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxORl8ycGhaZFNlaHhzb1FrWjZxdnJHWXJqNktTWk9EZkVSbnBGQ19xY1dnVDNGNkw2UjhETGJqUnVuNU5lZUlKRE0wTmV6dWUza1RHcjFQVUJzcm5PdWV0Zjd6cFNwYVlSU01ucElsTS1nYnhxcWNOQ1c2LWlLUXBJaDUzRndQbHp2eXJEQlBlVzRrUVY1QlV3VGFDVXpHR0RQYzBmOEdsMURqRy1CcXp0ZEFEUVBMa0ZYb3dteXEzeEhIUGd2V29hQTVyYmwxMFlmbmtVSVloY0xTbmtuQzFwNXZNRHVwUndnakhQdnFHc1VTNFVwTEEwZlV4VUZkS05RUUpJdkk5c3BlSHd4MkZBdHdIRUUwZ2prQXdvam51ZTJXWFdMbERLeGh2dEFiQ1hlRXoxN2FvU0R2UWRhTE9yQzU2OURndFZpVlpQNVlBQ2hwYU5nd3E4?oc=5",
-          "source": "Google News: Melee (GamesRadar+)",
-          "published": "2026-11-17T16:22:13.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Dota",
       "storyCount": 4,
       "stories": [
         {
-          "title": "Would valve make VAC suspend a match immediately if cheats were detected?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xykfrk/would_valve_make_vac_suspend_a_match_immediately/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T13:28:09.000Z",
-          "score": 3,
-          "level": null,
+          "title": "Another Grand Final Appearance for Team Spirit? 1win Essence III Playoffs Day 3 Predictions",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0lpQU1PREFaVWVXLWhsM29mVWhGN21DQUV5Mkh5ckVGcG1vQzZ5WGxwVk03Sk1sRUFZSDZSVGlybDFWbnpCZG5FU0UySURFWlpCNW9HaDA1dGFRRGRhdHlBOEJGYkZYdzFaR0VsUG5aYjBoSTd5eGlYX2tHV21FUjF1cjZXa09ReUtkS1lhLVB0ZzhrYUpMYS05QmdubWNCS3ljdzhyaEpNdXIxekI3UWVjUEVYWW8wYzNhN1dDVktrYVhB?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-17T07:26:45.000Z",
+          "score": 5,
+          "level": "possible",
           "why": [
-            "vac"
+            "grand final",
+            "team spirit"
           ]
         },
         {
@@ -295,7 +201,7 @@
           ]
         },
         {
-          "title": "Communication Score in Dota 2: How to increase and keep it high",
+          "title": "Communication Score in Dota 2: How to increase it and keep it high",
           "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
           "source": "esports.gg",
           "published": "2026-11-17T09:40:18.000Z",
@@ -319,19 +225,44 @@
       ]
     },
     {
-      "scene": "Halo",
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Random Electrician Caught in the Crossfire of Zain and Cody Schwab Feud",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnhxQ2NLQ3otSjJTNkJhbm9STjA0c2dsT05LU2IyeWc2dHJfLW5BM1VNNGJyR2p0RzB3R0xXUjdjRXBWTUdxd18yaXdFa0tZVVlEcmV2OXBXcGFXYXBqU2pRdlNkVU9uYVlXc2tKenFXeXlqSFNUdjNZNHhWMHZVeU1RdElJbE5sN05WT2ItcE1jOGxnMXNrNGg5ai1sQmlq?oc=5",
+          "source": "Google News: Melee (Insider Gaming)",
+          "published": "2026-11-17T14:19:45.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "zain",
+            "cody schwab"
+          ]
+        },
+        {
+          "title": "Super Smash Bros Melee deserves a remake after Zelda: Ocarina of Time success, say ex-Nintendo marketing leads, but the devs must be careful of fans \"ready to revolt on the slightest change\"",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxORl8ycGhaZFNlaHhzb1FrWjZxdnJHWXJqNktTWk9EZkVSbnBGQ19xY1dnVDNGNkw2UjhETGJqUnVuNU5lZUlKRE0wTmV6dWUza1RHcjFQVUJzcm5PdWV0Zjd6cFNwYVlSU01ucElsTS1nYnhxcWNOQ1c2LWlLUXBJaDUzRndQbHp2eXJEQlBlVzRrUVY1QlV3VGFDVXpHR0RQYzBmOEdsMURqRy1CcXp0ZEFEUVBMa0ZYb3dteXEzeEhIUGd2V29hQTVyYmwxMFlmbmtVSVloY0xTbmtuQzFwNXZNRHVwUndnakhQdnFHc1VTNFVwTEEwZlV4VUZkS05RUUpJdkk5c3BlSHd4MkZBdHdIRUUwZ2prQXdvam51ZTJXWFdMbERLeGh2dEFiQ1hlRXoxN2FvU0R2UWRhTE9yQzU2OURndFZpVlpQNVlBQ2hwYU5nd3E4?oc=5",
+          "source": "Google News: Melee (GamesRadar+)",
+          "published": "2026-11-17T16:22:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Biggest choke/comeback in the Infinite era?",
-          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xyik26/biggest_chokecomeback_in_the_infinite_era/",
-          "source": "r/CompetitiveHalo",
-          "published": "2026-11-17T11:56:16.000Z",
-          "score": 3,
+          "title": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd3QtQkhJY0FzVENHZDZmLUdZd2R0ZkhSeUdXRmtqbjFFQWYxSVljZ1BnVmNHNXNRSWZFeElNZFlpb3NtdURBTE9TZmtaV2NpUkFLcXhONkEwRUk3NXlUNDl1ZncybG1hVUZzOWdDejFlMndFNENoRWtGTDU2UUZDbDJGVkFlNnhfVzVhYS1GQ3dxeHNieTljYXNEMUV0S1hSR2Y3STJoQnRuWjBFMGpLeXU0a3N3elZrUXJicUI0YlhTOTQyRFFLNHE2YnRmN2xrWEtsQUp4c3o5ZDFUejBOTmdCTmltd2pacl9ERm1WaUJBVW0xZVlkNUhWV3c?oc=5",
+          "source": "Google News: Street Fighter (Herald Bulletin)",
+          "published": "2026-11-17T15:03:17.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "comeback"
-          ]
+          "why": []
         }
       ]
     }
@@ -342,9 +273,9 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Street Fighter",
     "Legacy FGC",
     "CoD",
-    "Quake"
+    "Quake",
+    "Halo"
   ]
 }
