@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:35:17.403Z",
+  "generatedAt": "2026-11-17T18:05:15.141Z",
   "source": "start.gg",
   "completed": [
     {
@@ -140,100 +140,6 @@
         {
           "placement": 7,
           "name": "comet-SR25"
-        }
-      ]
-    },
-    {
-      "eventId": "1587277",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Port Priority: DX",
-      "event": "Melee Singles",
-      "entrants": 512,
-      "online": false,
-      "major": true,
-      "startAt": "2026-11-14T18:00:00.000Z",
-      "endAt": "2026-11-16T06:00:00.000Z",
-      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Eggdog | Cody Schwab"
-        },
-        {
-          "placement": 2,
-          "name": "SR | Zain"
-        },
-        {
-          "placement": 3,
-          "name": "Liquid | Hungrybox"
-        },
-        {
-          "placement": 4,
-          "name": "Eggdog | Ossify"
-        },
-        {
-          "placement": 5,
-          "name": "SR | Joshman"
-        },
-        {
-          "placement": 5,
-          "name": "Envy | Wizzrobe"
-        },
-        {
-          "placement": 7,
-          "name": "LuckyStats.gg | Soonsay"
-        },
-        {
-          "placement": 7,
-          "name": "Eggdog | Trif"
-        }
-      ]
-    },
-    {
-      "eventId": "1616764",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Port Priority: DX",
-      "event": "Melee Doubles",
-      "entrants": 104,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T18:00:00.000Z",
-      "endAt": "2026-11-16T06:00:00.000Z",
-      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-doubles-3",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Preeminent / Cody Schwab"
-        },
-        {
-          "placement": 2,
-          "name": "RapMonster / Dragunov"
-        },
-        {
-          "placement": 3,
-          "name": "SDJ / Free Cuba"
-        },
-        {
-          "placement": 4,
-          "name": "Khalid / snake"
-        },
-        {
-          "placement": 5,
-          "name": "Mr. Motion / Faust"
-        },
-        {
-          "placement": 5,
-          "name": "Noire / Casper"
-        },
-        {
-          "placement": 7,
-          "name": "Chango / Joshman"
-        },
-        {
-          "placement": 7,
-          "name": "Salt / LunarySSF2"
         }
       ]
     },
