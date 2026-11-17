@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:05:18.439Z",
+  "generatedAt": "2026-11-17T03:35:19.117Z",
   "source": "start.gg",
   "completed": [
     {
@@ -481,7 +481,7 @@
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 181,
+      "entrants": 185,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
