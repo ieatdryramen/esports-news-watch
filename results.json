@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:05:15.922Z",
+  "generatedAt": "2026-11-17T01:35:22.997Z",
   "source": "start.gg",
   "completed": [
     {
@@ -666,7 +666,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Buckeye Beatdown 2026",
       "event": "Melee Singles",
-      "entrants": 66,
+      "entrants": 65,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T19:00:00.000Z",

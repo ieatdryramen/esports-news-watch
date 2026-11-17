@@ -1,6 +1,43 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-17T01:35:22.997Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "BLAST Premier Rivals Hong Kong Returns November 8–14, 2027",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLOVVxbE9PTVRYOEd1eHdJd1FCOFJ5R0g1ekFXT2p3MU4weXJzem5BMUVITElZenVrdUFFWUc4TDFmR2s5Y1RmaHlXS01ZNmxta016S2VvVDdFS0REQTc0Z1RYcE5uR1B1bjJ0bk0zWmJCZlV2a0d6Q0VDbw?oc=5",
+      "source": "Google News: CS2 (FightBook MMA)",
+      "outlets": [
+        "FightBook MMA"
+      ],
+      "score": 5,
+      "why": [
+        "returns",
+        "blast"
+      ],
+      "summary": "",
+      "published": "2026-11-16T21:36:58.000Z"
+    },
+    {
+      "alertedAt": "2026-11-17T01:35:22.997Z",
+      "level": "possible",
+      "scene": "Melee",
+      "title": "zain's tweet feels incredibly privileged lowkey",
+      "url": "https://www.reddit.com/r/SSBM/comments/1xy7icn/zains_tweet_feels_incredibly_privileged_lowkey/",
+      "source": "r/SSBM",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 5,
+      "why": [
+        "won*",
+        "upset*",
+        "zain"
+      ],
+      "summary": "i don't know how anyone can side with zain as \"morally correct\" in this situation as it's obviously very nuanced, but this section of his tweet really stuck out to me https://preview.redd.it/c2vt6r01s22i1.png?width=1141&format=png&auto=webp&s=5bdc3af3678cf104b5b6b3577dc32641a934837b zain, in other words, is upset that a new player could click on the stream of the number one player and become disinterested after finding out that melee players don't make a livable wage without sponsors? so... the solution to that is for cody to stop complaining about his financial situation? cody should push his feelings down so that zain doesn't have to think about them while he's playing? i don't quite understand what he's getting at i won't argue that cody's had quite a rollercoaster of public perception, but he's never been given a chance with a sponsor after \"growing\", and zain has been sponsored by ludwig for years now. they have very different financial situations regardless of public perception and zain's tweet feels so weird to me considering they are apparently friends. i don't see why zain would make a callout post about his autistic friend who gets harassed online daily, knowing all it's going to do is add more fuel to that fire and make cody's personal life worse. it does absolutely nothing to help the situation between the two and feels like it could genuinely be manufactured for drama clicks if it wasn't so raw. this just definitely should not have been handled publicly, zain kno",
+      "published": "2026-11-17T01:32:37.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T01:15:32.072Z",
       "level": "possible",
       "scene": "CS2",
@@ -516,25 +553,6 @@
       ],
       "summary": "Keep up with the storylines and action as FURIA take on Spirit for the penultimate trophy of the season.",
       "published": "2026-11-15T06:30:00.000Z"
-    },
-    {
-      "alertedAt": "2026-11-15T01:30:24.439Z",
-      "level": "possible",
-      "scene": "AoE2",
-      "title": "Why do the devs seemingly not care about blatant hackers?",
-      "url": "https://www.reddit.com/r/aoe2/comments/1xwiw30/why_do_the_devs_seemingly_not_care_about_blatant/",
-      "source": "r/aoe2",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 5,
-      "why": [
-        "ban*",
-        "cheating*",
-        "cheat*"
-      ],
-      "summary": "I've played against this same guy at least 50 times now. He constantly changes his username, but it's always the same account. He's currently going by BlackHole, but some of his previous names include FC, Just Chill, SM, Reckless1992, Noob Pro, Jin Woo, Old Man, GG, and Scout. This guy plays with what appears to be no fog of war. I've reported him multiple times, yet I continue to get matched against him. Here's his Steam profile: https://steamcommunity.com/profiles/76561198786732432 He even has a previous game ban on his Steam account. I've provided the recorded game below so anyone can watch it and see for themselves. What I don't understand is how someone can seemingly cheat this consistently, get reported multiple times, and continue playing without any consequences. It's incredibly frustrating to spend years improving at AoE2, learning build orders, scouting, and developing game sense, only to play against someone who can seemingly see everything you're doing. What's the point of having a reporting system if nothing happens? Why does it feel like the developers don't care about addressing blatant cheating? This isn't just one suspicious game or someone getting lucky with their scouting. I've played against this guy at least 50 times, and it's the same thing over and over again. I absolutely love this game, but it's incredibly frustrating that legitimate players have to deal with this. Has anyone else encountered this player? Has anyone actually had success getting a map ",
-      "published": "2026-11-15T01:26:57.000Z"
     }
   ]
 }
