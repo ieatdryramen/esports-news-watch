@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T23:55:20.121Z",
+  "generatedAt": "2026-11-17T00:50:20.273Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
@@ -113,17 +113,6 @@
           "why": []
         },
         {
-          "title": "Old T player model had an hidding advantage. Previously, the gun was positioned lower, and its barrel tip didn't reach as far as the CT's. After latest update CT & T models are now identical and unified",
-          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xxxuxb/old_t_player_model_had_an_hidding_advantage/",
-          "source": "r/GlobalOffensive",
-          "published": "2026-11-16T18:58:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Alliance part ways with head coach Hawk",
           "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
           "source": "HLTV news",
@@ -135,8 +124,137 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 11,
+      "stories": [
+        {
+          "title": "Cheat: Moving Items from other Player Inventories to Stash",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy67g3/cheat_moving_items_from_other_player_inventories/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T00:31:41.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "update*",
+            "cheating*",
+            "cheater*",
+            "cheat",
+            "reddit only"
+          ]
+        },
+        {
+          "title": "Cheater dota 2",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy41jw/cheater_dota_2/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T22:58:16.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "cheater"
+          ]
+        },
+        {
+          "title": "Items => stash - bug or cheat?",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy2uvm/items_stash_bug_or_cheat/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T22:09:04.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "cheat"
+          ]
+        },
+        {
+          "title": "[Spoilers] have been eliminated from 1win Essence III",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxyttm/spoilers_have_been_eliminated_from_1win_essence/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T19:34:50.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "eliminated"
+          ]
+        },
+        {
+          "title": "Who won today T.Spirt or PVison??",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxzwx0/who_won_today_tspirt_or_pvison/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T20:14:47.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Guess The Hero, Dreamleague Division 2 Edition",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xxzw5y/guess_the_hero_dreamleague_division_2_edition/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T20:14:01.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "How is the next big update going to be???",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy6jlb/how_is_the_next_big_update_going_to_be/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T00:47:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Posting shitty memes about new favorite child until we get an update DAY 3",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy3ov4/posting_shitty_memes_about_new_favorite_child/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T22:43:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Guys, GFAT just called me its gonna be new cuarteroes curio update",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xy3f1q/guys_gfat_just_called_me_its_gonna_be_new/",
+          "source": "r/DotA2",
+          "published": "2026-11-16T22:31:56.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Dota 2 1win Essence III: All teams, schedules, results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-16T02:51:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - Allied, November 16, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0pyTDdPZGpuS2JpNHhzNThSWm1iam9CUGVkYmhqR1Jqd2ppMVpSOFp0SS1fV2RMcDl1Nk9jYlF4OHBtM1Q5cndvZGoyVWFvZ1B6MkhaaWp3cGZKSWVnNjRCd3k4X2JtanFQVk9DbDRUSl9TQjNvMkZZUGRfbDZUWFhEOWFGVDJrQ1h0RGh0LXBXSnFWOVZZ?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-16T03:38:26.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
-      "storyCount": 7,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Pakistan’s Atif Butt wins Thaiger Uppercut 2026 Tekken 8 title",
@@ -192,127 +310,52 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Tekken 8 x Nike Collaboration Adds King’s Air Max 1 Sneakers",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MVGw0STVpZUt3SUpQU01lMkpDQ1BDMXl2Sm1BX1Z5bUlMMkpIZHZsSDlxVS1aNG5KTGNrcTFBVEFiZVhGRnJrS1I5V0kyanNDVWZuUWdQZ3VkRkRtM1k5VXUybWx3c3pZZFQ5dlFOSURQZlQyQ05Vd2lkT01Pdw?oc=5",
-          "source": "Google News: Tekken (The Outerhaven)",
-          "published": "2026-11-16T00:05:48.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Anyone else notice the \"break\" in the song Equator Line 2nd (Jungle Outpost final round track)?",
-          "url": "https://www.reddit.com/r/Tekken/comments/1xxyh38/anyone_else_notice_the_break_in_the_song_equator/",
-          "source": "r/Tekken",
-          "published": "2026-11-16T19:21:46.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "official*"
-          ]
         }
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 9,
+      "scene": "CoD",
+      "storyCount": 4,
       "stories": [
         {
-          "title": "Cheater dota 2",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy41jw/cheater_dota_2/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T22:58:16.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "cheater"
-          ]
-        },
-        {
-          "title": "Items => stash - bug or cheat?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy2uvm/items_stash_bug_or_cheat/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T22:09:04.000Z",
+          "title": "Scump makes his return tomorrow 😱",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xy5x5x/scump_makes_his_return_tomorrow/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-17T00:18:38.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "cheat"
+            "return",
+            "scump"
           ]
         },
         {
-          "title": "[Spoilers] have been eliminated from 1win Essence III",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxyttm/spoilers_have_been_eliminated_from_1win_essence/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T19:34:50.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "eliminated"
-          ]
-        },
-        {
-          "title": "I will now make a Lone Druid Dota parody of Gangam Style in anticipation of the new update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxxd1d/i_will_now_make_a_lone_druid_dota_parody_of/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T18:39:35.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "update",
-            "ban*"
-          ]
-        },
-        {
-          "title": "Who won today T.Spirt or PVison??",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxzwx0/who_won_today_tspirt_or_pvison/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T20:14:47.000Z",
+          "title": "OpTic Texas Vs. M80 Scrims: Map Count: OpTic 5 - 1 M80",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xy3eou/optic_texas_vs_m80_scrims_map_count_optic_5_1_m80/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T22:31:30.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "won"
+            "optic texas"
           ]
         },
         {
-          "title": "Guess The Hero, Dreamleague Division 2 Edition",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxzw5y/guess_the_hero_dreamleague_division_2_edition/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T20:14:01.000Z",
+          "title": "[FaZe Vegas and ClassicsGG] Expectations of a Super Team | ALL IN",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xy3dr1/faze_vegas_and_classicsgg_expectations_of_a_super/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T22:30:24.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "dreamleague"
+            "faze"
           ]
         },
         {
-          "title": "Posting shitty memes about new favorite child until we get an update DAY 3",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy3ov4/posting_shitty_memes_about_new_favorite_child/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T22:43:12.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Guys, GFAT just called me its gonna be new cuarteroes curio update",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy3f1q/guys_gfat_just_called_me_its_gonna_be_new/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T22:31:56.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "League's copying DOTA again!",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xxyfdx/leagues_copying_dota_again/",
-          "source": "r/DotA2",
-          "published": "2026-11-16T19:20:06.000Z",
+          "title": "[CDL] The CDL 2027 season is kicking off earlier than ever, with all online CDL matches beginning at 11AM PST/2PM EST/7PM GMT. We're making it easier for fans around the world to tune in, catch the action, and never miss a map from their favorite team.",
+          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxzlhg/cdl_the_cdl_2027_season_is_kicking_off_earlier/",
+          "source": "r/CoDCompetitive",
+          "published": "2026-11-16T20:02:48.000Z",
           "score": 0,
           "level": null,
           "why": []
@@ -348,46 +391,66 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 3,
+      "scene": "Legacy FGC",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "OpTic Texas Vs. M80 Scrims: Map Count: OpTic 5 - 1 M80",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xy3eou/optic_texas_vs_m80_scrims_map_count_optic_5_1_m80/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T22:31:30.000Z",
-          "score": 2,
+          "title": "Why Kintaro is technically the least competitively viable character in Mortal Kombat history",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2h2Y3lxOThhTnVlMXFjX2IzTXNHaFY5bGE2c3d5R1djSmhsN0R1ekg2TFRXYWoybldhU2RheDMzR21RV2RRaXhWaEdheEZZWXdWS0U3dnpKSTMtM0cwdmJ0dzc2YmNJNXVfWWNLTnZfdm1sdlNDMUZVN29SdWR2bGQ1TQ?oc=5",
+          "source": "Google News: Legacy FGC (EventHubs)",
+          "published": "2026-11-16T03:20:50.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "optic texas"
+            "history"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Quake",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "[FaZe Vegas and ClassicsGG] Expectations of a Super Team | ALL IN",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xy3dr1/faze_vegas_and_classicsgg_expectations_of_a_super/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T22:30:24.000Z",
-          "score": 2,
+          "title": "Church Of Quake 2026 Winter Sacrifice League. Starting Saturday November 28th. Signup now!",
+          "url": "https://www.reddit.com/r/QuakeChampions/comments/1xy6hog/church_of_quake_2026_winter_sacrifice_league/",
+          "source": "r/QuakeChampions",
+          "published": "2026-11-17T00:45:00.000Z",
+          "score": 2.5,
           "level": null,
           "why": [
-            "faze"
+            "champions*",
+            "record*"
           ]
-        },
-        {
-          "title": "[CDL] The CDL 2027 season is kicking off earlier than ever, with all online CDL matches beginning at 11AM PST/2PM EST/7PM GMT. We're making it easier for fans around the world to tune in, catch the action, and never miss a map from their favorite team.",
-          "url": "https://www.reddit.com/r/CoDCompetitive/comments/1xxzlhg/cdl_the_cdl_2027_season_is_kicking_off_earlier/",
-          "source": "r/CoDCompetitive",
-          "published": "2026-11-16T20:02:48.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "How it feels watching Moky covering the drama",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy68nz/how_it_feels_watching_moky_covering_the_drama/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T00:33:14.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "moky"
+          ]
+        },
+        {
+          "title": "Cody's response to Zain's tweet",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy5u5z/codys_response_to_zains_tweet/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T00:14:53.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
+          ]
+        },
         {
           "title": "Zain posts about Cody on twitter",
           "url": "https://www.reddit.com/r/SSBM/comments/1xy4lp3/zain_posts_about_cody_on_twitter/",
@@ -398,6 +461,15 @@
           "why": [
             "zain"
           ]
+        },
+        {
+          "title": "What are the worst commentated top 8 major sets",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy5pvb/what_are_the_worst_commentated_top_8_major_sets/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T00:09:30.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -430,28 +502,12 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Brood War",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Open Bracket Player Tickets for SC4ALL: II are SOLD OUT! We will have over 100 players competing in Philly between Brood War and StarCraft 2. GET HYPED, Dec 5th and 6th are going to be unforgettable days for StarCraft fans around the world!",
-          "url": "https://www.reddit.com/r/broodwar/comments/1xxxawc/open_bracket_player_tickets_for_sc4all_ii_are/",
-          "source": "r/broodwar",
-          "published": "2026-11-16T18:37:28.000Z",
-          "score": 0,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Legacy FGC",
-    "Quake",
     "Halo"
   ]
 }
