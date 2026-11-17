@@ -593,25 +593,6 @@
       ],
       "summary": "",
       "published": "2026-11-15T15:12:00.000Z"
-    },
-    {
-      "alertedAt": "2026-11-15T13:35:14.113Z",
-      "level": "possible",
-      "scene": "Tekken",
-      "title": "Thaiger Uppercut 2026 Champion [Final TWT 2026 Master Event]",
-      "url": "https://www.reddit.com/r/Tekken/comments/1xwvm85/thaiger_uppercut_2026_champion_final_twt_2026/",
-      "source": "r/Tekken",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 5,
-      "why": [
-        "champion",
-        "knee*",
-        "atif*"
-      ],
-      "summary": "ATIF (3:0 / Reset 3:0) Meo-IL Mulgold Mangja XCC Crescent Knee AK submitted by /u/XRevive01 to r/Tekken [link] [comments]",
-      "published": "2026-11-15T13:34:00.000Z"
     }
   ]
 }
