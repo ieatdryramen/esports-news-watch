@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-17T20:15:20.581Z",
+      "level": "possible",
+      "scene": "Melee",
+      "title": "'I hate the way you represent this game': Zain lashes out at Cody after losing in Port Priority XD grand finals",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHlIUkpYaFB2M2JleWNua0pwNG9WVl9aczRYU1UycXRKRmpYUW5oR1JUSVN6dUVyeTJFOFM1cklTVlZ4am1iY0VRWWpjLWdsal9aNjlYem5pbEx1OUJmU1dfUWRJNzJ4MFJiUWhUY3RzczRXQWx4TXN4U3VTMXo1ZzNWZm9NMnNT?oc=5",
+      "source": "Google News: Melee (EventHubs)",
+      "outlets": [
+        "EventHubs"
+      ],
+      "score": 5,
+      "why": [
+        "grand finals",
+        "zain"
+      ],
+      "summary": "",
+      "published": "2026-11-17T20:05:25.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T17:45:21.583Z",
       "level": "possible",
       "scene": "CS2",
