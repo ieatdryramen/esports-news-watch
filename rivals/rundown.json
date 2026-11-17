@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T08:50:25.314Z",
+  "generatedAt": "2026-11-17T09:50:20.407Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -16,6 +16,17 @@
           "why": [
             "balance",
             "balance changes",
+            "season"
+          ]
+        },
+        {
+          "title": "Could Season 11 Save Marvel Rivals?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LY0NXOGw0NzFsZWhvMWc3N2ZKMnA0d2lYWWN2WXVELVpRZnJrVGxmRWdUUDNNMmZyYTNfTzRIalNldVNMR3ZKcVBUd0ExSVVsZ2lOUlQxYi1jbXhrTkdnZ3E3TFh2Tk8zbTdVNWJTdkdwZWZwUzdLYm5hV1dpQQ?oc=5",
+          "source": "Google News: Rivals patches (Phrasemaker)",
+          "published": "2026-11-17T09:25:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
             "season"
           ]
         },
