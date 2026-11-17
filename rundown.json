@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T11:30:23.381Z",
+  "generatedAt": "2026-11-17T12:00:29.670Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -61,14 +61,14 @@
           ]
         },
         {
-          "title": "IEM Beijing to return for 2027 and 2028",
-          "url": "https://www.hltv.org/news/46004/iem-beijing-to-return-for-2027-and-2028",
-          "source": "HLTV news",
-          "published": "2026-11-17T10:30:00.000Z",
+          "title": "IEM Beijing 2027 and 2028 Dates Confirmed",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1td0dqWnF5OTJMS3RzbE5MTVVZRWhRbHNKcjNqMzBiVERzU1JhVjl5YVVmZk1aT3pjeGtjTmZCZnBRX24wb1kwVG0taGltWndGcnd4dkEzdjZLcm9Sc2Q1RUNCYzc3Z29oYlJXbF8xcWlyRnd5MkRlbjRmSkNvYVk?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-17T11:50:41.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "return",
+            "confirmed",
             "iem"
           ]
         },
@@ -340,7 +340,7 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Is this the end of the Zain/Cody Era?",
@@ -368,17 +368,6 @@
           ]
         },
         {
-          "title": "My take on the Cody and Zain situation",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xyer7n/my_take_on_the_cody_and_zain_situation/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T08:03:24.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        },
-        {
           "title": "aMSa starting the next generation young",
           "url": "https://www.reddit.com/r/SSBM/comments/1xycfel/amsa_starting_the_next_generation_young/",
           "source": "r/SSBM",
@@ -387,6 +376,23 @@
           "level": null,
           "why": [
             "amsa"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Halo",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Biggest choke/comeback in the Infinite era?",
+          "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xyik26/biggest_chokecomeback_in_the_infinite_era/",
+          "source": "r/CompetitiveHalo",
+          "published": "2026-11-17T11:56:16.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "comeback"
           ]
         }
       ]
@@ -401,7 +407,6 @@
     "Street Fighter",
     "Legacy FGC",
     "CoD",
-    "Quake",
-    "Halo"
+    "Quake"
   ]
 }
