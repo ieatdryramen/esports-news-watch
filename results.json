@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T10:35:26.238Z",
+  "generatedAt": "2026-11-17T11:05:33.476Z",
   "source": "start.gg",
   "completed": [
     {
@@ -428,19 +428,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1749226",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TTA",
-      "event": "TTA #5",
-      "entrants": 226,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-17T11:00:00.000Z",
-      "endAt": "2026-11-17T14:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tta-6/event/tta-5"
-    },
     {
       "eventId": "1757933",
       "scene": "melee",
