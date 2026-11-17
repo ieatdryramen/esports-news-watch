@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T07:50:29.417Z",
+  "generatedAt": "2026-11-17T08:50:26.461Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Official Black Friday PS5 game deals now live up to 60% off: Wolverine, Marvel Tōkon, Control, Saros, more",
@@ -16,15 +16,6 @@
           "why": [
             "official"
           ]
-        },
-        {
-          "title": "Marvel Tōkon: Fighting Souls (PS5) - Blu-ray.com",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82cFh5Q19FaTRCZzRhMFlJUUZUcERkcWdMLVp3QlV4N0x1R0hhdnpGVEh5Zy10cE5za0JNVnFMbU9XWFRMVkJucXRxbm1ndnV6b3JUaVBVczg3R1JvNDFUWXZmbnB4MzVVajlRSlc4VllZZw?oc=5",
-          "source": "Google News: Tokon",
-          "published": "2026-11-16T16:59:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }

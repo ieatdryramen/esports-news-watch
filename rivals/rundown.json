@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-17T07:50:28.275Z",
+  "generatedAt": "2026-11-17T08:50:25.314Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa2gxU1pTSTJjM1B0UXEwRUJmSWFkeEh0bllYeFpvZ0tSc3dqTWdIX280eFJSWG5RSGhDdTV2eERPNHVJeXFnV184X0N2SU9MczBfSlRxRUw4OHM0OEctQlZ5TnhjLW8?oc=5",
+          "source": "Google News: Rivals patches (IMDb)",
+          "published": "2026-11-16T21:41:07.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "balance",
+            "balance changes",
+            "season"
+          ]
+        },
         {
           "title": "Marvel Rivals Season 11 Doomsday Is Live, With Strategist Nightcrawler And The Incursion Battle Pass",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU1NKZU5rcUFUZFl4ay1QUkhnYWFxNk1lVThxVnY2NEZVLWJKWkV3OWxfbWZwSlVER21mQ1JCZkFEVjE0ZFpxOEx5RVV4RmRVMkV4VTdOYm1qV0stSDNwMUx4TU5tQkkzMzYxdzFZVFpycUg0MVJ6VmtmcVpQZnBMQnlmTS1HTWhuaS1McVZsOG9NVUxlQk9UeDY1N2lJOXNIcFF0MHlGVzViLUdUSFBZa0RsaTNxc3lVWjVMVVdtWkI5NWNaVGZSOW96VEhCa1ZhTkljUHZJNTFCeU1mMVV0NW1MNG1KaUE2c0NSaXRGTQ?oc=5",
@@ -18,10 +31,10 @@
           ]
         },
         {
-          "title": "Marvel Rivals Ignite 2026 Stage 2 - Pacific Oceania",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZeDlIaGRHTi02VHBVX3pQaTQzLVNzVnhGOWF6eGRaUGt1UVdOTnRYRDgwU1N1cjhpcS1NSzh3Y2FFUUtWV0lBbmxmSGhQWXBmd3lUODRoTW82U1FWajlEUmJpamk3VEZ2cFFRcFJyNGNkLUU3aThlOUtrVlpOSVk?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-16T08:01:41.000Z",
+          "title": "What Actually Makes You Good at Marvel Rivals? | Understanding Hero Complexity!",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hRWk0US1PWUd4ckEwVnphNEwtLTJsYThGOHRrR3ZKbTUtNnR1bDJnWU13SHdDSHRqcTcwZ2RLdG1tZ2ttYmxJWldvU3F4cUZQRTdOZ0dDT1VlZDFY?oc=5",
+          "source": "Google News: Rivals patches (YouTube)",
+          "published": "2026-11-17T00:15:07.000Z",
           "score": 1,
           "level": null,
           "why": []
