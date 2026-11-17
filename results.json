@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:35:16.406Z",
+  "generatedAt": "2026-11-17T14:05:16.054Z",
   "source": "start.gg",
   "completed": [
     {
@@ -328,53 +328,6 @@
         {
           "placement": 7,
           "name": "MateoHavel"
-        }
-      ]
-    },
-    {
-      "eventId": "1679364",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "BOPME XXX",
-      "event": "Melee Singles",
-      "entrants": 64,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T19:00:00.000Z",
-      "endAt": "2026-11-15T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/bopme-xxx/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Blue"
-        },
-        {
-          "placement": 2,
-          "name": "Roast | Toast"
-        },
-        {
-          "placement": 3,
-          "name": "Grompy00"
-        },
-        {
-          "placement": 4,
-          "name": "Suidt"
-        },
-        {
-          "placement": 5,
-          "name": "NetherCole"
-        },
-        {
-          "placement": 5,
-          "name": "WNSS | Acid"
-        },
-        {
-          "placement": 7,
-          "name": "Anconoid"
-        },
-        {
-          "placement": 7,
-          "name": "iiwii"
         }
       ]
     },
