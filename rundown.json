@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T10:30:23.969Z",
+  "generatedAt": "2026-11-17T11:30:23.381Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 16,
       "stories": [
         {
           "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
@@ -21,6 +21,34 @@
           ]
         },
         {
+          "title": "PGL Major Singapore 2026 - simulation",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyh9xh/pgl_major_singapore_2026_simulation/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-17T10:42:04.000Z",
+          "score": 6.5,
+          "level": "possible",
+          "why": [
+            "roster*",
+            "wins*",
+            "won*",
+            "liquid*",
+            "pgl"
+          ]
+        },
+        {
+          "title": "IEM Beijing to return every year through 2028 after record 59,000-fan event",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1R6dkdZOW1RQlA1YTdZSTgxalB3UVV0bjc5VlRaMW9uUXB2a3kyZFIxMDBHREZ1Y2lqczFKUjhqTzlWRTJyVllpVTJOSzVkSVpGazhvQ3dyZlk0Q0xSXzZPekg2aXpCQ1liRzROOTQ1cUJqS1JvczVmLVd5R0ZDRV9mVGgyVEM1UUtLWVBTNTZ2bzM4azF6WWdraEpxazRONFQ2ajRKN1U1TlgzUTNEcWVHZ2h3SGhj?oc=5",
+          "source": "Google News: CS2 (Inven Global)",
+          "published": "2026-11-17T10:24:08.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "return",
+            "record",
+            "iem"
+          ]
+        },
+        {
           "title": "Astralis announce jabbi departure",
           "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
           "source": "HLTV news",
@@ -33,10 +61,10 @@
           ]
         },
         {
-          "title": "IEM Beijing Set to Return in 2027 and 2028",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuZGtUVDVNQzA1NlhScTNsVml5SEFiaUJZSXNFZkVGdGFRLWJ5NTRVdzJ0Q3lIY0doaWpVZGlGQUg1aXEtUnJkWG1qT3Q1Vjl5d2FUbDVHTm1DSnpmUGtCcmhldEtvbTBsQmpQdGtBRDJpTERtazBXajJB?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-17T10:00:00.000Z",
+          "title": "IEM Beijing to return for 2027 and 2028",
+          "url": "https://www.hltv.org/news/46004/iem-beijing-to-return-for-2027-and-2028",
+          "source": "HLTV news",
+          "published": "2026-11-17T10:30:00.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -116,30 +144,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-16T19:03:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Community Awards: Vox Populi nominations open",
-          "url": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
-          "source": "HLTV news",
-          "published": "2026-11-16T18:59:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 16,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Cheater on Aus server that won’t get banned",
@@ -154,18 +164,6 @@
             "cheater",
             "won",
             "reddit only"
-          ]
-        },
-        {
-          "title": "Another Grand Final Appearance for Team Spirit? 1win Essence III Playoffs Day 3 Predictions",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0lpQU1PREFaVWVXLWhsM29mVWhGN21DQUV5Mkh5ckVGcG1vQzZ5WGxwVk03Sk1sRUFZSDZSVGlybDFWbnpCZG5FU0UySURFWlpCNW9HaDA1dGFRRGRhdHlBOEJGYkZYdzFaR0VsUG5aYjBoSTd5eGlYX2tHV21FUjF1cjZXa09ReUtkS1lhLVB0ZzhrYUpMYS05QmdubWNCS3ljdzhyaEpNdXIxekI3UWVjUEVYWW8wYzNhN1dDVktrYVhB?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-17T07:26:45.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "team spirit"
           ]
         },
         {
@@ -257,17 +255,6 @@
           ]
         },
         {
-          "title": "Patch date and time",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy8o9b/patch_date_and_time/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T02:28:19.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "dreamleague*"
-          ]
-        },
-        {
           "title": "Patch obsession",
           "url": "https://www.reddit.com/r/DotA2/comments/1xyft01/patch_obsession/",
           "source": "r/DotA2",
@@ -277,87 +264,26 @@
           "why": [
             "update*"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 6,
-      "stories": [
-        {
-          "title": "Is z jump a mentality buff?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy8jfz/is_z_jump_a_mentality_buff/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T02:21:44.000Z",
-          "score": 7.5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "ban*",
-            "mango*",
-            "zain*",
-            "jmook*",
-            "amsa*"
-          ]
         },
         {
-          "title": "Is this the end of the Zain/Cody Era?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xycp6m/is_this_the_end_of_the_zaincody_era/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T05:58:09.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "retires*",
-            "zain",
-            "genesis*"
-          ]
-        },
-        {
-          "title": "Cody Schwab’s girlfriend responds to Zain’s tweet happening on their five year anniversary while also alluding to him losing a friend",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy8q8b/cody_schwabs_girlfriend_responds_to_zains_tweet/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T02:30:51.000Z",
-          "score": 4,
+          "title": "Dota 2 Small Scale Online Tournament",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xyafcv/dota_2_small_scale_online_tournament/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T03:54:43.000Z",
+          "score": 0.5,
           "level": null,
           "why": [
-            "zain",
-            "cody schwab"
+            "prize pool*"
           ]
         },
         {
-          "title": "Very disappointed in Zain and the state of the scene",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xygis7/very_disappointed_in_zain_and_the_state_of_the/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T09:56:45.000Z",
-          "score": 2,
+          "title": "Patch 7.42 to introduce Robert Pattinson as the new hero",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xyfje0/patch_742_to_introduce_robert_pattinson_as_the/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T08:54:12.000Z",
+          "score": 0,
           "level": null,
-          "why": [
-            "zain"
-          ]
-        },
-        {
-          "title": "My take on the Cody and Zain situation",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xyer7n/my_take_on_the_cody_and_zain_situation/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T08:03:24.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        },
-        {
-          "title": "aMSa starting the next generation young",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xycfel/amsa_starting_the_next_generation_young/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T05:42:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "amsa"
-          ]
+          "why": []
         }
       ]
     },
@@ -409,6 +335,59 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "Is this the end of the Zain/Cody Era?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xycp6m/is_this_the_end_of_the_zaincody_era/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T05:58:09.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "retires*",
+            "zain",
+            "genesis*"
+          ]
+        },
+        {
+          "title": "Very disappointed in Zain and the state of the scene",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xygis7/very_disappointed_in_zain_and_the_state_of_the/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T09:56:45.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
+          ]
+        },
+        {
+          "title": "My take on the Cody and Zain situation",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xyer7n/my_take_on_the_cody_and_zain_situation/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T08:03:24.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
+          ]
+        },
+        {
+          "title": "aMSa starting the next generation young",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xycfel/amsa_starting_the_next_generation_young/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T05:42:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "amsa"
+          ]
         }
       ]
     }
