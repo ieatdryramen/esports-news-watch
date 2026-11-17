@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-17T05:05:16.929Z",
+  "generatedAt": "2026-11-17T05:35:17.444Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1753251",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "TNS Guilty Gear Strive #231",
+      "event": "Guilty Gear Strive (Crossplay)",
+      "entrants": 122,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-17T01:00:00.000Z",
+      "endAt": "2026-11-17T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-231/event/guilty-gear-strive-crossplay",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Gamer Supps | FubukiVr"
+        },
+        {
+          "placement": 2,
+          "name": "39 | *Insert*"
+        },
+        {
+          "placement": 3,
+          "name": "ONi | RedIAmNot"
+        },
+        {
+          "placement": 4,
+          "name": "TestYourLuck"
+        },
+        {
+          "placement": 5,
+          "name": "RRR | MacMens"
+        },
+        {
+          "placement": 5,
+          "name": "Domi"
+        },
+        {
+          "placement": 7,
+          "name": "YoKai | Lasagna_Slayer"
+        },
+        {
+          "placement": 7,
+          "name": "MjKurase"
+        }
+      ]
+    },
     {
       "eventId": "1750564",
       "scene": "streetfighter",
@@ -426,21 +473,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1753251",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "TNS Guilty Gear Strive #231",
-      "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 122,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-17T01:00:00.000Z",
-      "endAt": "2026-11-17T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-231/event/guilty-gear-strive-crossplay"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1749226",
@@ -448,7 +481,7 @@
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 194,
+      "entrants": 195,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
