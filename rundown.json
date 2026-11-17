@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T12:00:29.670Z",
+  "generatedAt": "2026-11-17T13:00:40.795Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 12,
       "stories": [
         {
           "title": "FURIA Crowned Back-To-Back BLAST Premier Rivals Hong Kong Champions As 30,000 Fans Pack AsiaWorld-Arena",
@@ -49,18 +49,6 @@
           ]
         },
         {
-          "title": "Astralis announce jabbi departure",
-          "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
-          "source": "HLTV news",
-          "published": "2026-11-16T17:50:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "leaves*",
-            "astralis"
-          ]
-        },
-        {
           "title": "IEM Beijing 2027 and 2028 Dates Confirmed",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1td0dqWnF5OTJMS3RzbE5MTVVZRWhRbHNKcjNqMzBiVERzU1JhVjl5YVVmZk1aT3pjeGtjTmZCZnBRX24wb1kwVG0taGltWndGcnd4dkEzdjZLcm9Sc2Q1RUNCYzc3Z29oYlJXbF8xcWlyRnd5MkRlbjRmSkNvYVk?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -73,14 +61,27 @@
           ]
         },
         {
-          "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
-          "url": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
-          "source": "HLTV news",
-          "published": "2026-11-16T17:15:00.000Z",
+          "title": "Inner Circle vs Apogee / StarLadder Ranked Episode 6 - Upper Bracket Quarter-Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyjg91/inner_circle_vs_apogee_starladder_ranked_episode/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-17T12:41:34.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "benched*",
+            "roster*",
+            "official*"
+          ]
+        },
+        {
+          "title": "IEM Beijing stays on the CS2 calendar until 2028",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53aEo5dlR3Q2JWX1FKak41ZVNJdlA2ajZzanp3X1BNbkdCS2VnRzNuYnFwUjNkN09FZjNxV3lIWHRFNzVoN2IyRURRSmJCdkNOb3REOWZiaFJTLXhaUE4yXzFvNmdHUW5kamUzUEVmTXVUUXNjLVRKNQ?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-17T12:13:31.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "blast"
+            "iem"
           ]
         },
         {
@@ -92,17 +93,6 @@
           "level": null,
           "why": [
             "furia"
-          ]
-        },
-        {
-          "title": "Cast your vote for the Major MVP medal design",
-          "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
-          "source": "HLTV news",
-          "published": "2026-11-17T10:00:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "history*"
           ]
         },
         {
@@ -144,12 +134,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Did anyone know this lineup existed? I just stumbled upon it by accident.",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyg2yf/did_anyone_know_this_lineup_existed_i_just/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-17T09:28:45.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 13,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Cheater on Aus server that won’t get banned",
@@ -200,17 +199,6 @@
           ]
         },
         {
-          "title": "Why won’t people leave after fights and objectives?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xyb1kq/why_wont_people_leave_after_fights_and_objectives/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T04:26:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
           "title": "Communication Score in Dota 2: How to increase and keep it high",
           "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
           "source": "esports.gg",
@@ -244,17 +232,6 @@
           ]
         },
         {
-          "title": "Do you guys know there was update 2 weeks per once in the past ?",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy9y6j/do_you_guys_know_there_was_update_2_weeks_per/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T03:30:16.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Patch obsession",
           "url": "https://www.reddit.com/r/DotA2/comments/1xyft01/patch_obsession/",
           "source": "r/DotA2",
@@ -266,21 +243,19 @@
           ]
         },
         {
-          "title": "Dota 2 Small Scale Online Tournament",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xyafcv/dota_2_small_scale_online_tournament/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T03:54:43.000Z",
-          "score": 0.5,
-          "level": null,
-          "why": [
-            "prize pool*"
-          ]
-        },
-        {
           "title": "Patch 7.42 to introduce Robert Pattinson as the new hero",
           "url": "https://www.reddit.com/r/DotA2/comments/1xyfje0/patch_742_to_introduce_robert_pattinson_as_the/",
           "source": "r/DotA2",
           "published": "2026-11-17T08:54:12.000Z",
+          "score": 0,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Patch on Nov 19. Trust (I am running out of copium)",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xye1dd/patch_on_nov_19_trust_i_am_running_out_of_copium/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T07:17:41.000Z",
           "score": 0,
           "level": null,
           "why": []
