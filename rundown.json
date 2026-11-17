@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:00:27.752Z",
+  "generatedAt": "2026-11-17T23:57:46.856Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -269,8 +269,17 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Three-Way Chop Sees Ramo Radoncic Take $200 Super Turbo Monster Stack",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDlVVnhxUVBCZFpraFNhUTRrTldIYkVMNFdsdmQxOUhKa0ZSanVFbFVHUXh5QTg2M0lMQkhPR3lCYURqTFNKOUVMbnpCWThrdlhhd1VDZmdzc0p4N0F1amxNcnl6TEpvSUF3RFcxLTd4TWtUQUhIZ3AxTzhIS2VzTXYtTjg3OEdqN3ZFWHlILWcySTZ2dGVtYi1WQ1JkY0tCVFcwNDhxU3RDSzFtQTRiZUxueDQwaDVCM3hz?oc=5",
+          "source": "Google News: Street Fighter (PokerNews)",
+          "published": "2026-11-17T22:30:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd3QtQkhJY0FzVENHZDZmLUdZd2R0ZkhSeUdXRmtqbjFFQWYxSVljZ1BnVmNHNXNRSWZFeElNZFlpb3NtdURBTE9TZmtaV2NpUkFLcXhONkEwRUk3NXlUNDl1ZncybG1hVUZzOWdDejFlMndFNENoRWtGTDU2UUZDbDJGVkFlNnhfVzVhYS1GQ3dxeHNieTljYXNEMUV0S1hSR2Y3STJoQnRuWjBFMGpLeXU0a3N3elZrUXJicUI0YlhTOTQyRFFLNHE2YnRmN2xrWEtsQUp4c3o5ZDFUejBOTmdCTmltd2pacl9ERm1WaUJBVW0xZVlkNUhWV3c?oc=5",
