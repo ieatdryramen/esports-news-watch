@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:35:19.117Z",
+  "generatedAt": "2026-11-17T04:05:29.369Z",
   "source": "start.gg",
   "completed": [
     {
@@ -424,53 +424,6 @@
           "name": "Esperazura"
         }
       ]
-    },
-    {
-      "eventId": "1752460",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "LENP 2026 Tekken 8 Tournament",
-      "event": "LENP 2026 Tekken 8 Tournament",
-      "entrants": 74,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-14T04:00:00.000Z",
-      "endAt": "2026-11-14T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/lenp-2026-tekken-8-tournament/event/lenp-2026-tekken-8-tournament",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "ONIC | RTM"
-        },
-        {
-          "placement": 2,
-          "name": "Zenex"
-        },
-        {
-          "placement": 3,
-          "name": "UwU | Believe"
-        },
-        {
-          "placement": 4,
-          "name": "DDD | SapiTekken"
-        },
-        {
-          "placement": 5,
-          "name": "UwU | Ar'Fear"
-        },
-        {
-          "placement": 5,
-          "name": "+CREW | KCS | yiyifan"
-        },
-        {
-          "placement": 7,
-          "name": "UwU | Davai"
-        },
-        {
-          "placement": 7,
-          "name": "MYTH | IFT | Kamasutraspirit"
-        }
-      ]
     }
   ],
   "live": [],
@@ -481,7 +434,7 @@
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 185,
+      "entrants": 189,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
