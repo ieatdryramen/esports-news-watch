@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T14:00:30.719Z",
+  "generatedAt": "2026-11-17T15:00:30.875Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 11,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Cheater on Aus server that won’t get banned",
@@ -41,6 +41,17 @@
           "level": null,
           "why": [
             "vac"
+          ]
+        },
+        {
+          "title": "Inner Circle x Insanity edge Froglings in 51-minute DreamLeague Division 2 decider",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHd2MHFmZkJEWHMtVUhjNzRpSHJNOUlZLWw2TWdLMUI5Wm50aUcwMmVKZ3FUTENqUHhNOS1feldLM1R5ckJXX1E2elEzNENOelFQSXhudW8wOHlzX2R6RFkzQXNZWkFWV0NudE5QY1lIZE9jS3FGUld6cGNzZnlvZWxmSDZVekxNSVloUWw5OG1QZzJBNFJtazNuMDV3eW1OdzJuYkNsaTNsbXdDMmNxamVrenNzTzB2NVZvbnJR?oc=5",
+          "source": "Google News: Dota (Esports News UK)",
+          "published": "2026-11-17T10:19:44.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "dreamleague"
           ]
         },
         {
@@ -131,7 +142,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 19,
       "stories": [
         {
           "title": "PGL Major Singapore 2026 - simulation",
@@ -158,6 +169,20 @@
           "why": [
             "signs",
             "iem"
+          ]
+        },
+        {
+          "title": "magic vs HEROIC / PGL Cluj-Napoca 2027 Closed Qualifier - Lower Bracket Final / Post-Match Discussion",
+          "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyl7gn/magic_vs_heroic_pgl_clujnapoca_2027_closed/",
+          "source": "r/GlobalOffensive",
+          "published": "2026-11-17T14:02:01.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "benched*",
+            "roster*",
+            "official*",
+            "pgl"
           ]
         },
         {
@@ -262,15 +287,6 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "PURE eSports CSGO Team Partners with CCC.io",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2doeE5Ba3Q4NWZIVzhpRmZ5cGJSQzhsRXFya0pzY2E2amNudVQ3MXp5WEdjS3pKT0hPbG1WQjBWRTZYcjg4Q19sZ0EtMFR2VC03Wm1tLS1pVlNZbWh6QjNWZXJqTWUwTFpSWmExdk1rcnJBYnBQa3ZVWTJNRXFvVEpWZUE?oc=5",
-          "source": "Google News: CS2 (Gambling News)",
-          "published": "2026-11-17T07:19:20.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -327,20 +343,40 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
         {
-          "title": "Is this the end of the Zain/Cody Era?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xycp6m/is_this_the_end_of_the_zaincody_era/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T05:58:09.000Z",
-          "score": 6,
-          "level": "possible",
+          "title": "Random Electrician Caught in the Crossfire of Zain and Cody Schwab Feud",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnhxQ2NLQ3otSjJTNkJhbm9STjA0c2dsT05LU2IyeWc2dHJfLW5BM1VNNGJyR2p0RzB3R0xXUjdjRXBWTUdxd18yaXdFa0tZVVlEcmV2OXBXcGFXYXBqU2pRdlNkVU9uYVlXc2tKenFXeXlqSFNUdjNZNHhWMHZVeU1RdElJbE5sN05WT2ItcE1jOGxnMXNrNGg5ai1sQmlq?oc=5",
+          "source": "Google News: Melee (Insider Gaming)",
+          "published": "2026-11-17T14:19:45.000Z",
+          "score": 5,
+          "level": null,
           "why": [
-            "the last*",
-            "retires*",
             "zain",
-            "genesis*"
+            "cody schwab"
+          ]
+        },
+        {
+          "title": "Footage of man getting kicked in the sky",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xylutx/footage_of_man_getting_kicked_in_the_sky/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T14:29:26.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "kicked"
+          ]
+        },
+        {
+          "title": "My thoughts on the Cody/Zain drama, as a Mewtwo player",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xym34r/my_thoughts_on_the_codyzain_drama_as_a_mewtwo/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T14:38:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
           ]
         },
         {
