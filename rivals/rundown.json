@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T12:45:28.354Z",
+  "generatedAt": "2026-11-17T13:40:28.883Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -52,6 +52,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Sheldon Esports Marvel Rivals Win State Tournament Opener",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelhVTmZRUTFQNjV3dEZHazBNMTJnZzJidGM2a0U0MGZNTGhJU0Mwc3JmdDE2a1FNQUNKM05xMktrcW0xWjlfM1p0OGh5dF8xN3JxX05LclBhcnREWXhlcDJOWEEzY1ZkWmdEdERvQk80bWRseU9pYW0xdWR4Vm1XTW9JVlJjRmlQblBRS0pxTVc?oc=5",
+          "source": "Google News: Rivals esports (KIWA Radio)",
+          "published": "2026-11-17T13:07:26.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "What Actually Makes You Good at Marvel Rivals? | Understanding Hero Complexity!",
