@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-17T03:00:28.251Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "Another Grand Final Appearance for Team Spirit? 1win Essence III Playoffs Day 3 Predictions",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0lpQU1PREFaVWVXLWhsM29mVWhGN21DQUV5Mkh5ckVGcG1vQzZ5WGxwVk03Sk1sRUFZSDZSVGlybDFWbnpCZG5FU0UySURFWlpCNW9HaDA1dGFRRGRhdHlBOEJGYkZYdzFaR0VsUG5aYjBoSTd5eGlYX2tHV21FUjF1cjZXa09ReUtkS1lhLVB0ZzhrYUpMYS05QmdubWNCS3ljdzhyaEpNdXIxekI3UWVjUEVYWW8wYzNhN1dDVktrYVhB?oc=5",
+      "source": "Google News: Dota (Hotspawn)",
+      "outlets": [
+        "Hotspawn"
+      ],
+      "score": 5,
+      "why": [
+        "grand final",
+        "team spirit"
+      ],
+      "summary": "",
+      "published": "2026-11-17T02:01:42.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T02:25:18.442Z",
       "level": "possible",
       "scene": "Melee",
