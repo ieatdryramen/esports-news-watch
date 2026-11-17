@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T07:30:23.625Z",
+  "generatedAt": "2026-11-17T08:30:21.368Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -140,158 +140,8 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 14,
-      "stories": [
-        {
-          "title": "Is z jump a mentality buff?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy8jfz/is_z_jump_a_mentality_buff/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T02:21:44.000Z",
-          "score": 7.5,
-          "level": "possible",
-          "why": [
-            "banned*",
-            "ban*",
-            "mango*",
-            "zain*",
-            "jmook*",
-            "amsa*"
-          ]
-        },
-        {
-          "title": "Is this the end of the Zain/Cody Era?",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xycp6m/is_this_the_end_of_the_zaincody_era/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T05:58:09.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "the last*",
-            "retires*",
-            "zain",
-            "genesis*"
-          ]
-        },
-        {
-          "title": "zain's tweet feels incredibly privileged lowkey",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy7icn/zains_tweet_feels_incredibly_privileged_lowkey/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T01:32:37.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "won*",
-            "upset*",
-            "zain"
-          ]
-        },
-        {
-          "title": "Cody Schwab’s girlfriend responds to Zain’s tweet happening on their five year anniversary while also alluding to him losing a friend",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy8q8b/cody_schwabs_girlfriend_responds_to_zains_tweet/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T02:30:51.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "zain",
-            "cody schwab"
-          ]
-        },
-        {
-          "title": "The Old Melee Gods reacting to the Zain Cody beef is the funniest thing to come out of this",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy79vc/the_old_melee_gods_reacting_to_the_zain_cody_beef/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T01:21:27.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "mang0*",
-            "zain"
-          ]
-        },
-        {
-          "title": "aMSa starting the next generation young",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xycfel/amsa_starting_the_next_generation_young/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T05:42:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "amsa"
-          ]
-        },
-        {
-          "title": "My favorite part of the Zain Cody beef",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy8g3p/my_favorite_part_of_the_zain_cody_beef/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T02:17:26.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        },
-        {
-          "title": "Idea: Zain/Cody MM",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy875t/idea_zaincody_mm/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T02:05:29.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        },
-        {
-          "title": "Moky ends the beef with hbox",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy7box/moky_ends_the_beef_with_hbox/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T01:23:52.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "moky"
-          ]
-        },
-        {
-          "title": "My take: Zain vs. Cody",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy6snr/my_take_zain_vs_cody/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T00:59:17.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        },
-        {
-          "title": "How it feels watching Moky covering the drama",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy68nz/how_it_feels_watching_moky_covering_the_drama/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T00:33:14.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "moky"
-          ]
-        },
-        {
-          "title": "Cody's response to Zain's tweet",
-          "url": "https://www.reddit.com/r/SSBM/comments/1xy5u5z/codys_response_to_zains_tweet/",
-          "source": "r/SSBM",
-          "published": "2026-11-17T00:14:53.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zain"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Dota",
-      "storyCount": 12,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Cheat: Moving Items from other Player Inventories to Stash",
@@ -328,6 +178,17 @@
           "level": null,
           "why": [
             "won"
+          ]
+        },
+        {
+          "title": "Client update for 52.8mb",
+          "url": "https://www.reddit.com/r/DotA2/comments/1xyek5o/client_update_for_528mb/",
+          "source": "r/DotA2",
+          "published": "2026-11-17T07:51:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -413,12 +274,151 @@
           "score": 0,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 12,
+      "stories": [
+        {
+          "title": "Is z jump a mentality buff?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy8jfz/is_z_jump_a_mentality_buff/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T02:21:44.000Z",
+          "score": 7.5,
+          "level": "possible",
+          "why": [
+            "banned*",
+            "ban*",
+            "mango*",
+            "zain*",
+            "jmook*",
+            "amsa*"
+          ]
         },
         {
-          "title": "giff patch ( つ ◕_◕ )つ",
-          "url": "https://www.reddit.com/r/DotA2/comments/1xy7ex7/giff_patch_つ_つ/",
-          "source": "r/DotA2",
-          "published": "2026-11-17T01:28:15.000Z",
+          "title": "Is this the end of the Zain/Cody Era?",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xycp6m/is_this_the_end_of_the_zaincody_era/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T05:58:09.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "the last*",
+            "retires*",
+            "zain",
+            "genesis*"
+          ]
+        },
+        {
+          "title": "zain's tweet feels incredibly privileged lowkey",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy7icn/zains_tweet_feels_incredibly_privileged_lowkey/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T01:32:37.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "won*",
+            "upset*",
+            "zain"
+          ]
+        },
+        {
+          "title": "Cody Schwab’s girlfriend responds to Zain’s tweet happening on their five year anniversary while also alluding to him losing a friend",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy8q8b/cody_schwabs_girlfriend_responds_to_zains_tweet/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T02:30:51.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "zain",
+            "cody schwab"
+          ]
+        },
+        {
+          "title": "The Old Melee Gods reacting to the Zain Cody beef is the funniest thing to come out of this",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy79vc/the_old_melee_gods_reacting_to_the_zain_cody_beef/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T01:21:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "mang0*",
+            "zain"
+          ]
+        },
+        {
+          "title": "My take on the Cody and Zain situation",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xyer7n/my_take_on_the_cody_and_zain_situation/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T08:03:24.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
+          ]
+        },
+        {
+          "title": "aMSa starting the next generation young",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xycfel/amsa_starting_the_next_generation_young/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T05:42:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "amsa"
+          ]
+        },
+        {
+          "title": "My favorite part of the Zain Cody beef",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy8g3p/my_favorite_part_of_the_zain_cody_beef/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T02:17:26.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
+          ]
+        },
+        {
+          "title": "Idea: Zain/Cody MM",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy875t/idea_zaincody_mm/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T02:05:29.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "zain"
+          ]
+        },
+        {
+          "title": "Moky ends the beef with hbox",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy7box/moky_ends_the_beef_with_hbox/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T01:23:52.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "moky"
+          ]
+        },
+        {
+          "title": "How it feels watching Moky covering the drama",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy68nz/how_it_feels_watching_moky_covering_the_drama/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T00:33:14.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "moky"
+          ]
+        },
+        {
+          "title": "20XX training pack event matchs",
+          "url": "https://www.reddit.com/r/SSBM/comments/1xy76vh/20xx_training_pack_event_matchs/",
+          "source": "r/SSBM",
+          "published": "2026-11-17T01:17:25.000Z",
           "score": 0,
           "level": null,
           "why": []
