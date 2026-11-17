@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-17T21:30:26.897Z",
+  "generatedAt": "2026-11-17T22:30:35.084Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
-        {
-          "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa2gxU1pTSTJjM1B0UXEwRUJmSWFkeEh0bllYeFpvZ0tSc3dqTWdIX280eFJSWG5RSGhDdTV2eERPNHVJeXFnV184X0N2SU9MczBfSlRxRUw4OHM0OEctQlZ5TnhjLW8?oc=5",
-          "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-16T21:41:07.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "balance",
-            "balance changes",
-            "season"
-          ]
-        },
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
