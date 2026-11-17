@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T18:30:29.703Z",
+  "generatedAt": "2026-11-17T19:30:46.184Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
@@ -29,6 +29,17 @@
           "why": [
             "season",
             "mrc"
+          ]
+        },
+        {
+          "title": "Marvel Rivals - Official 2nd Anniversary Celebration Trailer",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWc2dG1GM0haZXl6bmNnR3ZLZExFUm9pN0hzVU9fNmJ3b3RUM3VoVVFDQjBlSUdDb0JLbDJzN1pMYWhaNENsdU1rQkQxMl9JMTNoTHpnLXRlUEhiMVdsbjlPN1luV09JUDh5ZDliYVR2Y3BJRndzeGRtMkFONUw5VlRYQjRXYjdfcEFfSDFLWmZrNGZod3RTa0xnb1lsTEE?oc=5",
+          "source": "Google News: Rivals patches (IGN India)",
+          "published": "2026-11-17T18:29:37.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "official"
           ]
         },
         {
@@ -57,7 +68,7 @@
           "title": "Sheldon Esports Marvel Rivals Advances to State Semifinals",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSWpRdmlLdzVQQ2VfVFBfTFYzU3pfLTFNY0RpeE1zZ2dqTHVPYWZ4UW93Ri1iaFVJdVBMUVZTRFJ3X1B3SWlFZnJVdmxQSzBsNjA3cTktcWlmbmk3c083Sl9hTmlTakxiblJjNzFFUV9pajFzRFZSWThVNjM3TGxWSjliWmswREJKd2gtekUwbjZKUQ?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
-          "published": "2026-11-17T14:11:57.000Z",
+          "published": "2026-11-17T14:14:32.000Z",
           "score": 1,
           "level": null,
           "why": []
