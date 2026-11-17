@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T21:35:17.795Z",
+  "generatedAt": "2026-11-17T22:05:20.481Z",
   "source": "start.gg",
   "completed": [
     {
@@ -340,7 +340,7 @@
       "game": "Tekken 8",
       "tournament": "TNS TEKKEN 8 #142",
       "event": "Tekken 8",
-      "entrants": 80,
+      "entrants": 90,
       "online": true,
       "major": false,
       "startAt": "2026-11-18T01:00:00.000Z",
@@ -473,7 +473,7 @@
       "entrants": 64,
       "online": false,
       "major": false,
-      "startAt": "2026-11-21T19:00:00.000Z",
+      "startAt": "2026-11-21T23:00:00.000Z",
       "endAt": "2026-11-23T03:00:00.000Z",
       "url": "https://www.start.gg/tournament/buckeye-beatdown-2026/event/melee-singles"
     },
