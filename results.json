@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T00:05:17.701Z",
+  "generatedAt": "2026-11-17T00:35:17.146Z",
   "source": "start.gg",
   "completed": [
     {
@@ -575,7 +575,7 @@
       "game": "Guilty Gear -Strive-",
       "tournament": "TNS Guilty Gear Strive #231",
       "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 117,
+      "entrants": 122,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T01:00:00.000Z",
@@ -588,7 +588,7 @@
       "game": "Street Fighter 6",
       "tournament": "TTA",
       "event": "TTA #5",
-      "entrants": 167,
+      "entrants": 170,
       "online": true,
       "major": false,
       "startAt": "2026-11-17T11:00:00.000Z",
