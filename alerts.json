@@ -1,6 +1,27 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-17T10:45:22.687Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "PGL Major Singapore 2026 - simulation",
+      "url": "https://www.reddit.com/r/GlobalOffensive/comments/1xyh9xh/pgl_major_singapore_2026_simulation/",
+      "source": "r/GlobalOffensive",
+      "outlets": [
+        "Reddit"
+      ],
+      "score": 6.5,
+      "why": [
+        "roster*",
+        "wins*",
+        "won*",
+        "liquid*",
+        "pgl"
+      ],
+      "summary": "I ran 330,000 simulations of the upcoming PGL Major Singapore 2026 Stage 1, and here are the results. To calculate the chances, I used bookmaker odds, VRS and HLTV ratings, detailed VRS points (10 LAN wins, prize money won, best 10 wins, H2H), map statistics, team form, roster synergy, HLTV Brain reviews, and the tournament format. Quick summary: HEROIC (29.4%) and Liquid (26.8%) are the clear favorites for a 3-0 start. Meanwhile, Chinggis Warriors (51.8%) and Lynn Vision (37.8%) are the biggest underdogs facing a 0-3 elimination. Check the screenshots for the full cumulative qualification chances and exact placement probabilities. submitted by /u/denek3y to r/GlobalOffensive [link] [comments]",
+      "published": "2026-11-17T10:42:04.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T10:35:26.238Z",
       "level": "possible",
       "scene": "CS2",
