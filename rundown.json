@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T11:30:21.163Z",
+  "generatedAt": "2026-11-18T12:00:24.917Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 22,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
@@ -68,15 +68,25 @@
           ]
         },
         {
-          "title": "IEM Beijing 2027 and 2028 Dates Confirmed",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1td0dqWnF5OTJMS3RzbE5MTVVZRWhRbHNKcjNqMzBiVERzU1JhVjl5YVVmZk1aT3pjeGtjTmZCZnBRX24wb1kwVG0taGltWndGcnd4dkEzdjZLcm9Sc2Q1RUNCYzc3Z29oYlJXbF8xcWlyRnd5MkRlbjRmSkNvYVk?oc=5",
+          "title": "Esports Awards 2026 Winners: CS2 Wins Game of the Year",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2EtZWhjdlVjTU5vbkQ0dlByNkRkOUtLZTNFdFZxSDNKVlc0RlBoUzk5NFpqM3M1bFJ2bV93Rl9PVXJIZkJuNlduaDMwdkJVMkc4NEpzeE9YZk1XaEtFcHJiYnhZMjBDOWhLcFpXSWU1TDZxeGVPS3FqR240b3ZmNDJONWZIVnJkZmppQTl3?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-17T11:50:41.000Z",
+          "published": "2026-11-18T11:35:05.000Z",
           "score": 4,
           "level": null,
           "why": [
-            "confirmed",
-            "iem"
+            "wins"
+          ]
+        },
+        {
+          "title": "Counter-Strike and Team Vitality Land Game Awards Esports Nominations",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRThuZHBqX3FfWExsWVRWR2t0Vm1KazBybWZtSEN6VUJ6ZUg2Y0lQcXVQNm5kc29hUTFVMDNVblN1ZC1vTTJpd0Q0LWFMdnVBclI4OVoyR2RSb0VvR18xZnR2UEZpNzN1LTBpSU8zbS1LZzV1dkhuUjdYTm1OOFBHdWZXWlYwalZRdkw4OHVETEVZRjJKOEE?oc=5",
+          "source": "Google News: CS2 (Happy Gamer)",
+          "published": "2026-11-18T11:30:42.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "vitality"
           ]
         },
         {
@@ -132,17 +142,6 @@
           "level": null,
           "why": [
             "blast"
-          ]
-        },
-        {
-          "title": "IEM Beijing stays on the CS2 calendar until 2028",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53aEo5dlR3Q2JWX1FKak41ZVNJdlA2ajZzanp3X1BNbkdCS2VnRzNuYnFwUjNkN09FZjNxV3lIWHRFNzVoN2IyRURRSmJCdkNOb3REOWZiaFJTLXhaUE4yXzFvNmdHUW5kamUzUEVmTXVUUXNjLVRKNQ?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-17T12:13:31.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
           ]
         }
       ]
