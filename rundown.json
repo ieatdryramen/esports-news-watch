@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T00:55:15.595Z",
+  "generatedAt": "2026-11-18T01:50:16.716Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -223,17 +223,6 @@
       "storyCount": 3,
       "stories": [
         {
-          "title": "Inner Circle x Insanity edge Froglings in 51-minute DreamLeague Division 2 decider",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHd2MHFmZkJEWHMtVUhjNzRpSHJNOUlZLWw2TWdLMUI5Wm50aUcwMmVKZ3FUTENqUHhNOS1feldLM1R5ckJXX1E2elEzNENOelFQSXhudW8wOHlzX2R6RFkzQXNZWkFWV0NudE5QY1lIZE9jS3FGUld6cGNzZnlvZWxmSDZVekxNSVloUWw5OG1QZzJBNFJtazNuMDV3eW1OdzJuYkNsaTNsbXdDMmNxamVrenNzTzB2NVZvbnJR?oc=5",
-          "source": "Google News: Dota (Esports News UK)",
-          "published": "2026-11-17T10:19:44.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "dreamleague"
-          ]
-        },
-        {
           "title": "Communication Score in Dota 2: How to increase it and keep it high",
           "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
           "source": "esports.gg",
@@ -253,6 +242,19 @@
             "the last*",
             "prize pool",
             "-schedule"
+          ]
+        },
+        {
+          "title": "DreamLeague Season 30: China Closed Qualifier - Dota 2 - Viewership, Overview, Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazNFNFhocE1WTlF6S2RXRnNfMXVKaFRYbFV6SFdLajJWZEpZaHV6RjdyQzBQTHRmUkZNa1JHVVJzeUF3RXR2dVFQRUduZkd5VlhKbTdNZnFfXzFqd0Rfb2gwb25rY3BXMldjckIxb0U5SUFweXdlMm10TndYWjRXZ0RXb1FEWjFHMzZz?oc=5",
+          "source": "Google News: Dota (Esports Charts)",
+          "published": "2026-11-17T09:31:58.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "prize pool",
+            "dreamleague",
+            "-viewership, overview"
           ]
         }
       ]
