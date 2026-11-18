@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T06:15:31.265Z",
+  "generatedAt": "2026-11-18T07:15:24.355Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -16,6 +16,18 @@
           "why": [
             "season",
             "mrc"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Announces 2nd Anniversary Event, Free Units and Skin Up for Grabs",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iMXdUMS00UEcxS25RMk1lOUx3NkFWenlCWVE5ckRnVnRlck4xZERFV3dWQVd3S0Jib0FIWUZkTFlpUVBDX09pOHRqTVVDUWJIaEg0YVk4NUZINkhvbHNVS3lxSTlYZzlxQThBc29JMVVsbmVTdXQ40gF8QVVfeXFMTWNhbHJXdjBTT25QVjVqU1hwaDBMNW1FYU5zcVJpZ05HWndOV3hYQWFueWhjQWlFaEhFT0FtaGQtckQ1bGtqTFo0Vm1FUGNxWTVqNERIckRSWTduODFrYXE2ZkhmTTc1Rm10aXNkT3dHckJDOFBCNnlCVW53eg?oc=5",
+          "source": "Google News: Rivals patches (Beebom)",
+          "published": "2026-11-18T06:42:44.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "announces",
+            "-skin"
           ]
         },
         {
