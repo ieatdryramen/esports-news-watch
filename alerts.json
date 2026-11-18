@@ -512,28 +512,6 @@
       ],
       "summary": "This crackhead has now won 3/3 supermajors this year. Has that even been done before? He won 4/5 majors he attended and got 2nd at the 5th, and let's be honest, if it wasn't for the poop lettuce CEO might've looked a little different. He is up 5-0 on Zain this year, and has only lost sets to Hbox and Swift, who funnily enough is the only one who doesn't have a losing record against Mr Schwab (1-0). Meanwhile, to pay his bills he's been training an army of freaks that are also popping off and taking names. Cody has ascended to the status of an elder statesman of Melee while simultaneously being more dominant than ever when he decides to descend from his monk throne. submitted by /u/krautbaguette to r/SSBM [link] [comments]",
       "published": "2026-11-16T08:16:24.000Z"
-    },
-    {
-      "alertedAt": "2026-11-16T05:50:19.785Z",
-      "level": "possible",
-      "scene": "Dota",
-      "title": "Possibly the worst exploit/cheat in the history of Dota: Enemy moved item from MY inventory to stash",
-      "url": "https://www.reddit.com/r/DotA2/comments/1xxhjzg/possibly_the_worst_exploitcheat_in_the_history_of/",
-      "source": "r/DotA2",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 10,
-      "why": [
-        "ban*",
-        "cheating*",
-        "cheat",
-        "vac*",
-        "history",
-        "reddit only"
-      ],
-      "summary": "Yesterday someone posted about an enemy Muerta controlling item transfers on other players’ heroes (match 9090450580, GitHub issue #37021). The same thing happened in my match last night, so this is not a one-off. You can see the cheaters perspective \"go afk\" to click on non-existing UI/HUD with their mouse and that is when our items get moved to the stash. Match details Match ID: 9092372303 Date: 11/15/2026, 11:24 PM EST Mode: All Pick Duration: 13:02 (Dire victory, 4–8) My hero: Kez, mid, Radiant Hackers Profile IO: https://steamcommunity.com/profiles/76561199102025504/ Lesh: https://steamcommunity.com/profiles/76561199385245475/ What happened From the replay: [00:40] – All items (branch, circlet slippers etc) moved from my inventory to my stash. My hero was at mid, out of stash range. This is not a maphack or a script that plays for one hero. The server is accepting item commands on heroes the sender does not control. Comments in the earlier thread link it to a new Umbrella cheat feature. That is not verified, but two matches in two days points to a tool that is spreading. If this happened to you, add your match ID to the GitHub issue so Valve has more cases. I swear to God the accounts need to have a VAC/Hardware ban. Not only these guys are cheating and going against simple TOS but influencing Valves servers which is also borderline cyber crime. github.com/ValveSoftware/Dota2-Gameplay/issues/37021 submitted by /u/Desperate-Pace-4477 to r/DotA2 [link] [comments]",
-      "published": "2026-11-16T05:47:28.000Z"
     }
   ]
 }
