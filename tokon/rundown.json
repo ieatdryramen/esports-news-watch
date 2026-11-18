@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T07:15:25.503Z",
+  "generatedAt": "2026-11-18T08:15:20.364Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
@@ -15,6 +15,17 @@
           "level": null,
           "why": [
             "dlc"
+          ]
+        },
+        {
+          "title": "Patch Update - 18 November 2026",
+          "url": "https://store.steampowered.com/news/app/3787240/view/704411368981266499",
+          "source": "Steam: Marvel Tokon (official news + patch notes)",
+          "published": "2026-11-18T07:59:55.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
           ]
         }
       ]
