@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-18T04:35:17.897Z",
+  "generatedAt": "2026-11-18T05:05:17.774Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1757449",
+      "scene": "legacyfgc",
+      "game": "Virtua Fighter 5",
+      "tournament": "CFG Tuesday Trials 267: Lehaunting of Hilliard GA",
+      "event": "Virtua Fighter 5 R.E.V.O.",
+      "entrants": 16,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-18T00:00:00.000Z",
+      "endAt": "2026-11-18T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/cfg-tuesday-trials-267-lehaunting-of-hilliard-ga/event/virtua-fighter-5-r-e-v-o",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Truly | Mangocopter"
+        },
+        {
+          "placement": 2,
+          "name": "Suna"
+        },
+        {
+          "placement": 3,
+          "name": "TRULY | JSwish"
+        },
+        {
+          "placement": 4,
+          "name": "TRULy | Mag3r"
+        },
+        {
+          "placement": 5,
+          "name": "BlakerStreet"
+        },
+        {
+          "placement": 5,
+          "name": "TRULY | OrientalXpress"
+        },
+        {
+          "placement": 7,
+          "name": "YBAS | AtMyAxlLowest"
+        },
+        {
+          "placement": 7,
+          "name": "Gotta Catch | Satan Shark"
+        }
+      ]
+    },
     {
       "eventId": "1749226",
       "scene": "streetfighter",
@@ -191,7 +238,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1754042",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TNS TEKKEN 8 #142",
+      "event": "Tekken 8",
+      "entrants": 191,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-18T01:00:00.000Z",
+      "endAt": "2026-11-18T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-tekken-8-142/event/tekken-8"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1757933",
