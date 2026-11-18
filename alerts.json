@@ -474,24 +474,6 @@
       ],
       "summary": "",
       "published": "2026-11-16T09:23:25.000Z"
-    },
-    {
-      "alertedAt": "2026-11-16T09:00:41.171Z",
-      "level": "breaking",
-      "scene": "Melee",
-      "title": "Eggdog | Cody Schwab wins Port Priority: DX (Melee Singles, 512 entrants)",
-      "url": "https://www.start.gg/tournament/port-priority-dx/event/melee-singles",
-      "source": "start.gg",
-      "outlets": [
-        "start.gg"
-      ],
-      "score": 10,
-      "why": [
-        "tournament result",
-        "512 entrants"
-      ],
-      "summary": "1. Eggdog | Cody Schwab · 2. SR | Zain · 3. Liquid | Hungrybox · 4. Eggdog | Ossify · 5. SR | Joshman · 5. Envy | Wizzrobe · 7. LuckyStats.gg | Soonsay · 7. Eggdog | Trif",
-      "published": "2026-11-16T09:00:41.171Z"
     }
   ]
 }
