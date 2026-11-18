@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T03:40:17.569Z",
+  "generatedAt": "2026-11-18T04:35:28.426Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -220,7 +220,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
@@ -243,14 +243,24 @@
           "why": []
         },
         {
-          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
-          "url": "https://esports.gg/news/dota-2-blast-slam-9-2026-schedule-teams-prize-pool/",
-          "source": "esports.gg",
-          "published": "2026-11-17T03:53:07.000Z",
-          "score": 1,
+          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-18T02:58:51.000Z",
+          "score": 0,
           "level": null,
           "why": [
-            "the last*",
+            "-stream"
+          ]
+        },
+        {
+          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekV2Qk5FckRodktrOGpBRkxWX29uYmJBa2FPaGRiQ1BRbWRIY08zWVJJV1lQS2RockV5U2l6a195N3hWb0h2OG1BS0FGTWJ2aVNMMm1PbFlmcHRyTEg3S3VJOHVkRjFpemI1TzlmZzFfVEhkQ0trTS1lUFJSRHNiQw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-17T17:36:46.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
             "prize pool",
             "-schedule"
           ]
