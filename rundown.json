@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:40:19.389Z",
+  "generatedAt": "2026-11-18T18:35:31.793Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -83,8 +83,19 @@
           ]
         },
         {
+          "title": "Media: Inner Circle owner detained in Italy",
+          "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
+          "source": "HLTV news",
+          "published": "2026-11-18T17:48:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "arrested*"
+          ]
+        },
+        {
           "title": "Cobblestone Returns to CS2: How to Play the Iconic Map",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3QWdudkxwTXlXTDVvOTVjbEthU3ppZHdIRWhqeVZWQThfQU1oRzhhRENBanQtMFNUX0xacTRiMUxxOHlBSHNzUm5TUHFVMnhraUE4Uk5sM1dtOEhOZmw0ckk4bXBzaF92NXk1amFITlNwSjVCcWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUmN1Q1lSSEhEYjJjQnRYTnZodzRIc3dwTWFMdnU0MTdmV2ZwUXJfRm9VcnBZRlBmSkt1YnNWYmgtOWVmUXBKdmthdklnSWgtaXlmZnp4TVNVeW9TQjFVT2JpUVhVOXlCOXBVTXo1VzU1TTg?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-18T14:13:26.000Z",
           "score": 3,
@@ -116,17 +127,6 @@
           ]
         },
         {
-          "title": "cmtry out of Astralis after one month",
-          "url": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
-          "source": "HLTV news",
-          "published": "2026-11-17T18:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "astralis"
-          ]
-        },
-        {
           "title": "CS2 Nov. 17 update brings Cobblestone back to matchmaking",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDNYd2dqYThBOEJIdWdOMGs0ZnBUNmJud0hqY2c0bHVYSlEySDhuelFIUTNTOXJZVXlqcmxaYWVReXhSdXNJZzU3NkJDbXRwcXRRRXp2VGNTUzAxdFg1dFM4SGR1TUt6dnB0MnkxZU0wMUJkTmNqUjc4a2lSYTg5eWRqcmI0QQ?oc=5",
           "source": "Google News: CS2 (Dot Esports)",
@@ -151,7 +151,7 @@
         {
           "title": "DayZ as an Esports Shooter? Why You Shouldn’t Miss This Counter-Strike Mod",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45STBRQ19vdEJyTDNZdkdCMDRLMWNtUmw3eGMzb1dyaDlSS1VURHV4MVh4TlB2SlRWVjhKTUVFb3o2RWVPaHhqR2pxU21zM2FFZWdmQi1OdFQybktsV29UTkRnVnpQZGxvNVZtaDlwWm5VVHBidlZz?oc=5",
-          "source": "Google News: CS2 (guided.news)",
+          "source": "Google News: CS2 (Guided.news)",
           "published": "2026-11-18T15:42:43.000Z",
           "score": 1,
           "level": null,
@@ -229,13 +229,15 @@
           "why": []
         },
         {
-          "title": "Communication Score in Dota 2: How to increase it and keep it high",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlNJU0hfX1l3V2V2T2ROR29GbkxPU1UzRmx2US1icy1ZTUl0X2ZpZEdJcEVWbXdyS3Fkb1N1UHNyVUFqNWlFUHpwenE3OTI4R1pGRXp3blN2eXVvR2dNdjZKY0FxeUo5X2Q0UGZuWTRFTEdUeEREenRJa09VblprLU53?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-17T17:41:52.000Z",
-          "score": 1,
+          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-18T02:58:51.000Z",
+          "score": 0,
           "level": null,
-          "why": []
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -257,30 +259,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "TEKKEN 8 Season 3's 3rd Additional Character, Roger Jr., Now Available for General Access! NIKE Collaboration Items Also Arrive",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFFDOXJpUHRVTlFRdGFwSzV6R1gxSkY3U2FrelN5RW5sajlZU1dQc2loYlI2QVRSVHlzNmMybnRuNHJjV2dMQWRVR1lyTjdDekxWWnNvanlLb2PSAWBBVV95cUxPZndvanFDcFdxYUxrS3NLVlFrM0wxblZuM19xYUtnQzVPWm03NVEwM21kOHBtdjZEQnVQUDlDY0luSUVmNEpCTEt6V0RPUUZObDdQMmV2b0lfbHZvaUZsYXU?oc=5",
-          "source": "Google News: Tekken (Saiga NAK)",
-          "published": "2026-11-18T03:50:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
-          "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-17T17:59:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
@@ -289,6 +267,21 @@
           "url": "https://tetrisinterest.com/2026-ctwc-space-city-regional-timestamps/",
           "source": "Tetris Interest",
           "published": "2026-11-18T05:59:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "TEKKEN 8 Season 3's 3rd Additional Character, Roger Jr., Now Available for General Access! NIKE Collaboration Items Also Arrive",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFFDOXJpUHRVTlFRdGFwSzV6R1gxSkY3U2FrelN5RW5sajlZU1dQc2loYlI2QVRSVHlzNmMybnRuNHJjV2dMQWRVR1lyTjdDekxWWnNvanlLb2PSAWBBVV95cUxPZndvanFDcFdxYUxrS3NLVlFrM0wxblZuM19xYUtnQzVPWm03NVEwM21kOHBtdjZEQnVQUDlDY0luSUVmNEpCTEt6V0RPUUZObDdQMmV2b0lfbHZvaUZsYXU?oc=5",
+          "source": "Google News: Tekken (Saiga NAK)",
+          "published": "2026-11-18T03:50:17.000Z",
           "score": 1,
           "level": null,
           "why": []
