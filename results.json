@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:35:17.938Z",
+  "generatedAt": "2026-11-18T00:05:16.740Z",
   "source": "start.gg",
   "completed": [
     {
@@ -189,53 +189,6 @@
           "name": "Victor"
         }
       ]
-    },
-    {
-      "eventId": "1756172",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "PSU FGC #34: FA26 Week 12",
-      "event": "Back in my days...",
-      "entrants": 18,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-15T00:00:00.000Z",
-      "endAt": "2026-11-15T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/psu-fgc-34-fa26-week-12/event/back-in-my-days",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "guiege"
-        },
-        {
-          "placement": 2,
-          "name": "ZCHILLY7"
-        },
-        {
-          "placement": 3,
-          "name": "CacoPholey"
-        },
-        {
-          "placement": 4,
-          "name": "dragonsk8"
-        },
-        {
-          "placement": 5,
-          "name": "Melon | Toe Nibbler"
-        },
-        {
-          "placement": 5,
-          "name": "Lifer_098"
-        },
-        {
-          "placement": 7,
-          "name": "Poobah"
-        },
-        {
-          "placement": 7,
-          "name": "Esperazura"
-        }
-      ]
     }
   ],
   "live": [],
@@ -246,7 +199,7 @@
       "game": "Tekken 8",
       "tournament": "TNS TEKKEN 8 #142",
       "event": "Tekken 8",
-      "entrants": 153,
+      "entrants": 190,
       "online": true,
       "major": false,
       "startAt": "2026-11-18T01:00:00.000Z",
