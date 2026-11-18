@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-18T06:30:27.216Z",
+  "generatedAt": "2026-11-18T07:30:20.573Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 18,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
-          "url": "https://esports.gg/news/iem-beijing-2028-deal/",
-          "source": "esports.gg",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84a01fZ0puNE1FRWRjcHdYUS1XenVNYVQxM1cyaUxCanVnOEwyX2xaZjVOSkpBZVZkUkV0a0NIclExUDExd2Foa0djR3JiMjhCY2cwcjc5MnM3QQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
           "published": "2026-11-17T13:06:01.000Z",
           "score": 6,
           "level": "possible",
@@ -146,42 +146,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Pakistan’s Atif Butt Wins Tekken 8 Championship in Thailand",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVBBbXlZSXM3TXBjb1JGTHhTcG9xMWtFdk9NRkdKTnRrY3Nmd1B6TTd6bWJkcVN5R0VrNE9EbDk1eXpoc3YwU1FfU0E2Q3pQeTg3VXI0OTRFTXNXUUtZcmY4SHdQTXBWdzJ4cU5hRFE0UkRndUlUcG5UaU5ralU2Qy1sOTlaQ1VaR1R6WkV4RjhMTTFucE5Zd05n0gGfAUFVX3lxTE1FVG5yWnhXN042dVZSeTRFczNtbHNGRURfV05fMGZGaEIxeHBBRjduNjNabHF1aUszeHg2Z1FPTHVUUkU4NDFwdVUwSjUzRVppNUwtQ3Vya2tnMHVMaXBjUXZYUVVDMGgwZHhla0FMbUNySmNTUkI2NkgtLTZvbTR6cm5JVVBuOXpCVk8zU2U2b3ByZWRwa3dXM2c5NDd3VQ?oc=5",
-          "source": "Google News: Tekken (ProPakistani)",
-          "published": "2026-11-17T06:50:54.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "wins",
-            "atif"
-          ]
-        },
-        {
-          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
-          "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-17T17:59:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro in Stacked Tournament",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb3Bna2gyWkNnVlFwYjRUZFJNbHotVXY1My1ScXFJWWFuZW9CdWZiakNMLXhGSU03UFZzamxZWWkxd25mbV8yMjhEdndGU1FwUUZlQ3ctVmgtdm5FQXZOTUUyMHdjVnRyQkxVTFBKeUhCY0cwT2c5Zk91Y0Jubjd4ZWVMS0owTzN3bjY3QkhiWkRmSVdZZ3R0Y3JLUW4yRWh5YXlKUjBlTFUwRkpvRnkyckxHbDhBektMZjU3b1pnWk5nR21aTHM4UThTYWNQUEdG?oc=5",
-          "source": "Google News: Tekken (IGN Africa)",
-          "published": "2026-11-17T09:39:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 3,
       "stories": [
@@ -236,15 +200,13 @@
           ]
         },
         {
-          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-18T02:58:51.000Z",
-          "score": 0,
+          "title": "Main title contenders for Dota 2 BLAST SLAM IX esports tournament",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFVEZWRnX1lrNEw4ZE9sRFBJNm5wRFVEa0VfYy1OS2d1U0ZjZ2JPQ2QwcUNfUkZyUDYzaFpyaUlfRUN2N285dTZlSlZ5bFV6Y0hQOGFIRnRpQnRXRmcyR0tITEEyd01rMHNMNnMyT2J6eDBfc09pZlRSdGxSVHhDdzhPVVpPSlh5Z2g1eXRqLW5EZVNPWXRlNVFod1NPQ21rRFpNZHJnbUJjMlE?oc=5",
+          "source": "Google News: Dota (BusinessMirror)",
+          "published": "2026-11-18T06:56:17.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "-stream"
-          ]
+          "why": []
         },
         {
           "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
@@ -270,6 +232,56 @@
             "dreamleague",
             "-viewership, overview"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "OpTic Texas players win Esports Team of the Year at Esports Awards 2026",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1RYU29lbEpXckRITXI5T1dNNlJGbURfQUdVVGU1dmkyMmY4RXFOQjh1bHc1cVZxeEktamhEb296dVlYbmxKUEdyYjM1WlFQRDJQVkN0NWF3d3hLT09TcWFrVHo5UUVWMV9EOHBBZWR6M2hsbzJTMTA5aUlQNEk3SlA4Wm5pNG1zbWhKWjJVNGRLenZhTndhcDdvNFpsMm5sVFZvZ1hKcw?oc=5",
+          "source": "Google News: CoD (Esports.gg)",
+          "published": "2026-11-18T05:24:23.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "optic texas"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "TEKKEN 8 Season 3's 3rd Additional Character, Roger Jr., Now Available for General Access! NIKE Collaboration Items Also Arrive",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFFDOXJpUHRVTlFRdGFwSzV6R1gxSkY3U2FrelN5RW5sajlZU1dQc2loYlI2QVRSVHlzNmMybnRuNHJjV2dMQWRVR1lyTjdDekxWWnNvanlLb2PSAWBBVV95cUxPZndvanFDcFdxYUxrS3NLVlFrM0wxblZuM19xYUtnQzVPWm03NVEwM21kOHBtdjZEQnVQUDlDY0luSUVmNEpCTEt6V0RPUUZObDdQMmV2b0lfbHZvaUZsYXU?oc=5",
+          "source": "Google News: Tekken (Saiga NAK)",
+          "published": "2026-11-18T03:50:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-17T17:59:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro in Stacked Tournament",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb3Bna2gyWkNnVlFwYjRUZFJNbHotVXY1My1ScXFJWWFuZW9CdWZiakNMLXhGSU03UFZzamxZWWkxd25mbV8yMjhEdndGU1FwUUZlQ3ctVmgtdm5FQXZOTUUyMHdjVnRyQkxVTFBKeUhCY0cwT2c5Zk91Y0Jubjd4ZWVMS0owTzN3bjY3QkhiWkRmSVdZZ3R0Y3JLUW4yRWh5YXlKUjBlTFUwRkpvRnkyckxHbDhBektMZjU3b1pnWk5nR21aTHM4UThTYWNQUEdG?oc=5",
+          "source": "Google News: Tekken (IGN Africa)",
+          "published": "2026-11-17T09:39:58.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -319,7 +331,6 @@
     "Trackmania",
     "Warcraft III",
     "Legacy FGC",
-    "CoD",
     "Quake",
     "Halo"
   ]
