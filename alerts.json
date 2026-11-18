@@ -1,6 +1,26 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-18T15:00:24.481Z",
+      "level": "breaking",
+      "scene": "Street Fighter",
+      "title": "‘Angrybird’ Al-Shalabi crowned CPT World Warrior 2026 Middle East champion",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXljdTN6VEIxX0RnNXg0ZkpaUERCYTJPdFBFaXFPWWJLRjhLdDBOa3BPaXlsZ256bEo2QXpkZFp5NXctTnR6OGM1VWxQY0d2SzFfMHdKV2pNczJnbGxDU2d1SnkxRUZaRHVxRV9fa2NadmRTOHUwN1ZqQjRfTzUzcTRCVGh6VEhadm1UcElBMjRCZ29pSW5ZN2pvOHo1U0dIUHhhNzVlaEtpZ0VLa2tOcnV6a0ZzdnFOVlBv?oc=5",
+      "source": "Google News: Street Fighter (Arab News)",
+      "outlets": [
+        "Arab News"
+      ],
+      "score": 12,
+      "why": [
+        "champion",
+        "crowned",
+        "angrybird",
+        "cpt"
+      ],
+      "summary": "",
+      "published": "2026-11-18T14:08:16.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T20:15:20.581Z",
       "level": "possible",
       "scene": "Melee",
