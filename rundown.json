@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:45:21.217Z",
+  "generatedAt": "2026-11-18T16:40:21.066Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -33,13 +33,13 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 21,
       "stories": [
         {
-          "title": "ZywOo and Vitality lead CS2's big night at the Esports Awards 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEFNdWZEdDJPeXU2ZnhZMlF0eTZOUnJtejd0RUZBZnl1VzQzNUczQ0IyaEREdTIxbHBVSmFXRVhieUZMT1NJbXRJUUY2SE43MU15a0lra2F3MVh3WExNX042dVkxZkxfQkpVSFhHblpWMDJsazFOOHNaU3JTemgxek1HX284UEp6MFg1eUhMY2k1SE1lMWpv?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-18T11:02:21.000Z",
+          "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGJDVjZFMDdQSURPM2c2ZklqRFhVdmdXRDBnU3UyZjRsVlpoVkRhaFhSYlN6U2c2MDdYTG00UFpQMDdhLXZXTDNXNkx1R0pHUnFYa1VYMWd1RnJxOHZkQ3dYd3ZiTXlFRm1yd1I4N25VU214SjdQM1FCejlYMzRQb1puZXhXZWR6b3g1dDQzQmc?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-18T15:43:05.000Z",
           "score": 5,
           "level": null,
           "why": [
@@ -69,19 +69,6 @@
           "why": [
             "zywoo",
             "donk"
-          ]
-        },
-        {
-          "title": "Stake announces six Ranked events with open qualifiers and $150,000 prize pool for 2027",
-          "url": "https://www.hltv.org/news/46006/stake-announces-six-ranked-events-with-open-qualifiers-and-150000-prize-pool-for-2027",
-          "source": "HLTV news",
-          "published": "2026-11-17T16:33:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "return*",
-            "announces",
-            "prize pool"
           ]
         },
         {
@@ -119,9 +106,9 @@
         },
         {
           "title": "The 2026 Esports Awards Presented by Thunderpick Celebrates the Industry’s Best, with iShowSpeed, Counter-Strike 2 and Team Vitality Taking Home Honours",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNMWFLcW8wcXd0RDl6UWFFX2xMTEF0RWlZVk9EZllSdFpaREpGbkZRUVo4ZU1MOGRQM3FmNjlNX2hnMzNrTVJpLWxHa0ZJSGtsdnhwX3RzNDV3bkFVTHdKTl9JTEVVZ0ZQYklLQ3Z1WFFtZUZwTEE2ZWI3TWpfdzFoX0JmSnRMY3hQU212ZFhzMVVORW5LWEgxMy1wY3F4bzF4MjJyVmJHdzhFNzh5V1lIUWQ1dGxJNW5BY0ZNaENjRFpvLU55R0R4bFlTTU9CNS1OZkZheVZzeUxBbHpBa19KTFFWbXhJbVhwVnJnVEhzOHlnbFBhMzNjd0J1NE9rSjhGdi1JMUlzSlE0aV9fOFhfQTZKWktGMzF5R1dteDVERW52NVFxbU52YnNzRkxwOTlIM3hhTVFHTnUtbWkwc1VNdktHdTc4akRES2VLRDFwdDQ4NnlQZXpWTXl0di10c2g3a1AyVTZFUS1idzBwQ0JDbmRfQXVsbElULUpzOWRNcm9lM0xNeUgzVzJLWHBUdXNaWUVEbmgxQ19jSkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVC0tZHpDV255aXpJZWM3bkVFdk1TVDR3aERPeThqcmhmV2Q0OFBpckdoTlhhUlhsMDBrVTF3cGZzT1Rhb2Y4c2Y4VjZYOGtiRmhEU3Utcm1PcndDdnV6NW1uTGppVFZsdmw4anR0MS1JT3B3bVdMM3YtNi1ubXk2eDVNeE5TVzd5QUNxam1YSHlQeVJiYU94b1dKS0R4SWgtRmt1OUJ2VnA1SGFnSzA4S2ZBa2RYNHFaZ0JPXzJQUnVLeGtGZ3ludTRUU2dnZnVmNjY4bjlGNmZCV2ptV2dFMDNPcVh3LU9jNUx4bFFwNmVZNUJxSlRmYnZlZHNkX1ZfaWdzSjhaaENoT0d2OW13anJTTDhsbF90Snd0V2pERHNhcHBtUVpYTEFxRUN3czR6Z2FoLU1wRVI?oc=5",
           "source": "Google News: CS2 (Mynewsdesk)",
-          "published": "2026-11-18T04:42:18.000Z",
+          "published": "2026-11-18T05:26:15.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -171,12 +158,21 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "DayZ as an Esports Shooter? Why You Shouldn’t Miss This Counter-Strike Mod",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45STBRQ19vdEJyTDNZdkdCMDRLMWNtUmw3eGMzb1dyaDlSS1VURHV4MVh4TlB2SlRWVjhKTUVFb3o2RWVPaHhqR2pxU21zM2FFZWdmQi1OdFQybktsV29UTkRnVnpQZGxvNVZtaDlwWm5VVHBidlZz?oc=5",
+          "source": "Google News: CS2 (guided.news)",
+          "published": "2026-11-18T15:42:43.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "'I hate the way you represent this game': Zain lashes out at Cody after losing in Port Priority XD grand finals",
@@ -189,32 +185,32 @@
             "grand finals",
             "zain"
           ]
-        },
-        {
-          "title": "Super Smash Bros Melee deserves a remake after Zelda: Ocarina of Time success, say ex-Nintendo marketing leads, but the devs must be careful of fans \"ready to revolt on the slightest change\"",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxORl8ycGhaZFNlaHhzb1FrWjZxdnJHWXJqNktTWk9EZkVSbnBGQ19xY1dnVDNGNkw2UjhETGJqUnVuNU5lZUlKRE0wTmV6dWUza1RHcjFQVUJzcm5PdWV0Zjd6cFNwYVlSU01ucElsTS1nYnhxcWNOQ1c2LWlLUXBJaDUzRndQbHp2eXJEQlBlVzRrUVY1QlV3VGFDVXpHR0RQYzBmOEdsMURqRy1CcXp0ZEFEUVBMa0ZYb3dteXEzeEhIUGd2V29hQTVyYmwxMFlmbmtVSVloY0xTbmtuQzFwNXZNRHVwUndnakhQdnFHc1VTNFVwTEEwZlV4VUZkS05RUUpJdkk5c3BlSHd4MkZBdHdIRUUwZ2prQXdvam51ZTJXWFdMbERLeGh2dEFiQ1hlRXoxN2FvU0R2UWRhTE9yQzU2OURndFZpVlpQNVlBQ2hwYU5nd3E4?oc=5",
-          "source": "Google News: Melee (GamesRadar+)",
-          "published": "2026-11-17T16:22:13.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
-          "url": "https://esports.gg/news/dota-2/team-spirit-defeats-aurora-gaming-to-claim-grand-final-spot-dota-2-1w-essence-3/",
-          "source": "esports.gg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXk4WG1xQUl4Zzh6MFhTSlRFWG1BTkl1ZGtKcE5qWnZ1LTJnXzdXZU9MT3ZuYkdFZ1JWRTA3WVVtNktIRU9OVk1VQUxrLWN3REx1QlJRbVpJYjI1MGRjaGhvMEFRU2F1ZmdwQVVNal9OMXFYNzhieTNtTHhtUXdqVEg1UkRrbHV3dzZtTWI5ZThLZVFNUUItYzNkcllucFZOWVlISXBYOVByb2hNRk1DTQ?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-18T02:35:50.000Z",
           "score": 3,
           "level": null,
           "why": [
             "team spirit"
           ]
+        },
+        {
+          "title": "Nix named the condition under which Dota 2 will start to decline",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lc2RwNzhJcVJXRlNyV21wc29ZeWU2MEpyM0NSWEdTbi1NWXlVUlhRMkdzTzhBaWF4N3pReTJPdDVaMWhjai1QcVlpTm01OEltaW9qT3RlVDE1Y2hKMVFoQzVKN0xaSURkSExYQ0R3VTBJUGdhdWhndQ?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-18T16:08:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Main title contenders for Dota 2 BLAST SLAM IX esports tournament",
