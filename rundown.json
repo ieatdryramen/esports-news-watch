@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:55:16.160Z",
+  "generatedAt": "2026-11-18T14:50:20.053Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -67,6 +67,17 @@
           ]
         },
         {
+          "title": "Cobblestone Returns to CS2: How to Play the Iconic Map",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUmN1Q1lSSEhEYjJjQnRYTnZodzRIc3dwTWFMdnU0MTdmV2ZwUXJfRm9VcnBZRlBmSkt1YnNWYmgtOWVmUXBKdmthdklnSWgtaXlmZnp4TVNVeW9TQjFVT2JpUVhVOXlCOXBVTXo1VzU1TTg?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-18T14:13:26.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "returns"
+          ]
+        },
+        {
           "title": "Counter-Strike and Team Vitality Land Game Awards Esports Nominations",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRThuZHBqX3FfWExsWVRWR2t0Vm1KazBybWZtSEN6VUJ6ZUg2Y0lQcXVQNm5kc29hUTFVMDNVblN1ZC1vTTJpd0Q0LWFMdnVBclI4OVoyR2RSb0VvR18xZnR2UEZpNzN1LTBpSU8zbS1LZzV1dkhuUjdYTm1OOFBHdWZXWlYwalZRdkw4OHVETEVZRjJKOEE?oc=5",
           "source": "Google News: CS2 (Happy Gamer)",
@@ -131,21 +142,12 @@
           "why": [
             "update"
           ]
-        },
-        {
-          "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
-          "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-2026-best-stickers/",
-          "source": "esports.gg",
-          "published": "2026-11-18T13:44:13.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Melee",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "'I hate the way you represent this game': Zain lashes out at Cody after losing in Port Priority XD grand finals",
@@ -157,18 +159,6 @@
           "why": [
             "grand finals",
             "zain"
-          ]
-        },
-        {
-          "title": "Random Electrician Caught in the Crossfire of Zain and Cody Schwab Feud",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnhxQ2NLQ3otSjJTNkJhbm9STjA0c2dsT05LU2IyeWc2dHJfLW5BM1VNNGJyR2p0RzB3R0xXUjdjRXBWTUdxd18yaXdFa0tZVVlEcmV2OXBXcGFXYXBqU2pRdlNkVU9uYVlXc2tKenFXeXlqSFNUdjNZNHhWMHZVeU1RdElJbE5sN05WT2ItcE1jOGxnMXNrNGg5ai1sQmlq?oc=5",
-          "source": "Google News: Melee (Insider Gaming)",
-          "published": "2026-11-17T14:19:45.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "zain",
-            "cody schwab"
           ]
         },
         {
