@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:40:21.066Z",
+  "generatedAt": "2026-11-18T17:40:19.389Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 20,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -84,7 +84,7 @@
         },
         {
           "title": "Cobblestone Returns to CS2: How to Play the Iconic Map",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUmN1Q1lSSEhEYjJjQnRYTnZodzRIc3dwTWFMdnU0MTdmV2ZwUXJfRm9VcnBZRlBmSkt1YnNWYmgtOWVmUXBKdmthdklnSWgtaXlmZnp4TVNVeW9TQjFVT2JpUVhVOXlCOXBVTXo1VzU1TTg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3QWdudkxwTXlXTDVvOTVjbEthU3ppZHdIRWhqeVZWQThfQU1oRzhhRENBanQtMFNUX0xacTRiMUxxOHlBSHNzUm5TUHFVMnhraUE4Uk5sM1dtOEhOZmw0ckk4bXBzaF92NXk1amFITlNwSjVCcWc?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-18T14:13:26.000Z",
           "score": 3,
@@ -127,17 +127,6 @@
           ]
         },
         {
-          "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
-          "url": "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
-          "source": "HLTV news",
-          "published": "2026-11-17T17:24:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "CS2 Nov. 17 update brings Cobblestone back to matchmaking",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDNYd2dqYThBOEJIdWdOMGs0ZnBUNmJud0hqY2c0bHVYSlEySDhuelFIUTNTOXJZVXlqcmxaYWVReXhSdXNJZzU3NkJDbXRwcXRRRXp2VGNTUzAxdFg1dFM4SGR1TUt6dnB0MnkxZU0wMUJkTmNqUjc4a2lSYTg5eWRqcmI0QQ?oc=5",
           "source": "Google News: CS2 (Dot Esports)",
@@ -167,12 +156,21 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "ENCE through the years: Success, setbacks and reinvention",
+          "url": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
+          "source": "HLTV news",
+          "published": "2026-11-18T15:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "'I hate the way you represent this game': Zain lashes out at Cody after losing in Port Priority XD grand finals",
@@ -185,12 +183,21 @@
             "grand finals",
             "zain"
           ]
+        },
+        {
+          "title": "PokéMelee Combines Super Smash Bros. Melee & Pokémon Colosseum",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnlSTllRVHFGMy1McnplZkpzMHQzUGw5X1JlR0FVWXR3WWt3Z2doeE96LXZPVldvaW1WcXNpVC1sNWdlZ1NJR3BBcC1aVG4xekkya3ppODlLQXAxS2FOWjZvanNhUHdfdlB6MjRISmk2djl6WWRndnhUcjVLYU0xNzNOTXZRVXVQcFE?oc=5",
+          "source": "Google News: Melee (Retro Dodo)",
+          "published": "2026-11-18T16:50:51.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
@@ -229,18 +236,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekV2Qk5FckRodktrOGpBRkxWX29uYmJBa2FPaGRiQ1BRbWRIY08zWVJJV1lQS2RockV5U2l6a195N3hWb0h2OG1BS0FGTWJ2aVNMMm1PbFlmcHRyTEg3S3VJOHVkRjFpemI1TzlmZzFfVEhkQ0trTS1lUFJSRHNiQw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-17T17:36:46.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "prize pool",
-            "-schedule"
-          ]
         }
       ]
     },
