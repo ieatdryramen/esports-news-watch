@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T09:30:22.075Z",
+  "generatedAt": "2026-11-18T10:30:36.772Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 11,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
@@ -43,19 +43,6 @@
           ]
         },
         {
-          "title": "Stake announces six Ranked events with open qualifiers and $150,000 prize pool for 2027",
-          "url": "https://www.hltv.org/news/46006/stake-announces-six-ranked-events-with-open-qualifiers-and-150000-prize-pool-for-2027",
-          "source": "HLTV news",
-          "published": "2026-11-17T16:33:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "return*",
-            "announces",
-            "prize pool"
-          ]
-        },
-        {
           "title": "IEM Beijing 2027 and 2028 Dates Confirmed",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1td0dqWnF5OTJMS3RzbE5MTVVZRWhRbHNKcjNqMzBiVERzU1JhVjl5YVVmZk1aT3pjeGtjTmZCZnBRX24wb1kwVG0taGltWndGcnd4dkEzdjZLcm9Sc2Q1RUNCYzc3Z29oYlJXbF8xcWlyRnd5MkRlbjRmSkNvYVk?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -76,28 +63,6 @@
           "level": null,
           "why": [
             "vitality"
-          ]
-        },
-        {
-          "title": "cmtry out of Astralis after one month",
-          "url": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
-          "source": "HLTV news",
-          "published": "2026-11-17T18:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "astralis"
-          ]
-        },
-        {
-          "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
-          "url": "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
-          "source": "HLTV news",
-          "published": "2026-11-17T17:24:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -134,15 +99,31 @@
           ]
         },
         {
-          "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
-          "url": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
-          "source": "HLTV news",
-          "published": "2026-11-18T00:19:00.000Z",
-          "score": 2,
+          "title": "Caedrel and Dan Gaskin win for Britain at Esports Awards as Counter-Strike 2 takes top game",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObExwRTQxenFxVjZRZS0tM2N1NkkyaE9PT18xRzQwZXRrLVprSTNOMGpsdktaVVRFazYwZ3FKOXVBTWxYSWY0c1pPV2I0WFNFejhCampEY0dwQWl6VjEzMU1nNDNKU2NFX05IeWVNcGFGTGYtY2ptR29aelA3Mnd5TDZVMFFubGlfZEhMWGJCSDdwc3FMQ3NNWXZpbHlHTDlrS0VSNlNJOERhZlVqRVpnaHo3TG9OanFqWWNqTVNwQzNrOU82?oc=5",
+          "source": "Google News: CS2 (Esports Insider)",
+          "published": "2026-11-18T07:30:36.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "update"
-          ]
+          "why": []
+        },
+        {
+          "title": "Is Cobblestone Returning to CS2? Valve Drops Mysterious Snow Teaser",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3dUU2gzRDJoWi13NVA0TExKMVRVa1ZQSHNnNHZTZVlvX3RYLXNoS1o0akZ0VHdWbHZVTUd4X01IdXlYREROejdWREFBOXYzNmM1SWgxcnlhNjc3ZVpFRTVFa1ljdlZtWVVjZVB2TlpHMFdNZmo4OFNLc25SNTEzX3ZXMTFfOTFUSWZmd2xNNk9IQXhRVXYwalJTWGgyWGtKMnZNWHpn?oc=5",
+          "source": "Google News: CS2 (Sports Tiger)",
+          "published": "2026-11-18T07:03:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "‘Counter-Strike 2’ Takes Game Of The Year At The Esports Awards",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWnRRV0tSaENIVjZ0VHhOdU13TXphdjItejZRUFFLRDBPRmJCbUhvc1MzU09EbFBJTFQ5VVl2cVB3ZDIzdkpXTzRIQjFUdkE4SW1CVzJDMTFNZ0VnMGdvdGhpS2NTcnR0UEM0Skl2cE1BcjMzS25FT2tCOWEtV1FUeDhwTjU0RWdNLThkTGNSUW1SWWt4R0tsdTY5azl3S2NsOXhRRXNwanRRWWtIZi13cDlBSQ?oc=5",
+          "source": "Google News: CS2 (Forbes)",
+          "published": "2026-11-18T03:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -187,7 +168,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
@@ -210,6 +191,26 @@
           "why": []
         },
         {
+          "title": "Communication Score in Dota 2: How to increase it and keep it high",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlNJU0hfX1l3V2V2T2ROR29GbkxPU1UzRmx2US1icy1ZTUl0X2ZpZEdJcEVWbXdyS3Fkb1N1UHNyVUFqNWlFUHpwenE3OTI4R1pGRXp3blN2eXVvR2dNdjZKY0FxeUo5X2Q0UGZuWTRFTEdUeEREenRJa09VblprLU53?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-17T17:41:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-18T02:58:51.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
+        },
+        {
           "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekV2Qk5FckRodktrOGpBRkxWX29uYmJBa2FPaGRiQ1BRbWRIY08zWVJJV1lQS2RockV5U2l6a195N3hWb0h2OG1BS0FGTWJ2aVNMMm1PbFlmcHRyTEg3S3VJOHVkRjFpemI1TzlmZzFfVEhkQ0trTS1lUFJSRHNiQw?oc=5",
           "source": "Google News: Dota (Esports.gg)",
@@ -219,19 +220,6 @@
           "why": [
             "prize pool",
             "-schedule"
-          ]
-        },
-        {
-          "title": "DreamLeague Season 30: China Closed Qualifier - Dota 2 - Viewership, Overview, Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazNFNFhocE1WTlF6S2RXRnNfMXVKaFRYbFV6SFdLajJWZEpZaHV6RjdyQzBQTHRmUkZNa1JHVVJzeUF3RXR2dVFQRUduZkd5VlhKbTdNZnFfXzFqd0Rfb2gwb25rY3BXMldjckIxb0U5SUFweXdlMm10TndYWjRXZ0RXb1FEWjFHMzZz?oc=5",
-          "source": "Google News: Dota (Esports Charts)",
-          "published": "2026-11-17T09:31:58.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "prize pool",
-            "dreamleague",
-            "-viewership, overview"
           ]
         }
       ]
@@ -254,39 +242,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "TEKKEN 8 Season 3's 3rd Additional Character, Roger Jr., Now Available for General Access! NIKE Collaboration Items Also Arrive",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFFDOXJpUHRVTlFRdGFwSzV6R1gxSkY3U2FrelN5RW5sajlZU1dQc2loYlI2QVRSVHlzNmMybnRuNHJjV2dMQWRVR1lyTjdDekxWWnNvanlLb2PSAWBBVV95cUxPZndvanFDcFdxYUxrS3NLVlFrM0wxblZuM19xYUtnQzVPWm03NVEwM21kOHBtdjZEQnVQUDlDY0luSUVmNEpCTEt6V0RPUUZObDdQMmV2b0lfbHZvaUZsYXU?oc=5",
-          "source": "Google News: Tekken (Saiga NAK)",
-          "published": "2026-11-18T03:50:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
-          "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-17T17:59:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro in Stacked Tournament",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb3Bna2gyWkNnVlFwYjRUZFJNbHotVXY1My1ScXFJWWFuZW9CdWZiakNMLXhGSU03UFZzamxZWWkxd25mbV8yMjhEdndGU1FwUUZlQ3ctVmgtdm5FQXZOTUUyMHdjVnRyQkxVTFBKeUhCY0cwT2c5Zk91Y0Jubjd4ZWVMS0owTzN3bjY3QkhiWkRmSVdZZ3R0Y3JLUW4yRWh5YXlKUjBlTFUwRkpvRnkyckxHbDhBektMZjU3b1pnWk5nR21aTHM4UThTYWNQUEdG?oc=5",
-          "source": "Google News: Tekken (IGN Africa)",
-          "published": "2026-11-17T09:39:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Street Fighter",
       "storyCount": 2,
       "stories": [
@@ -304,6 +259,30 @@
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd3QtQkhJY0FzVENHZDZmLUdZd2R0ZkhSeUdXRmtqbjFFQWYxSVljZ1BnVmNHNXNRSWZFeElNZFlpb3NtdURBTE9TZmtaV2NpUkFLcXhONkEwRUk3NXlUNDl1ZncybG1hVUZzOWdDejFlMndFNENoRWtGTDU2UUZDbDJGVkFlNnhfVzVhYS1GQ3dxeHNieTljYXNEMUV0S1hSR2Y3STJoQnRuWjBFMGpLeXU0a3N3elZrUXJicUI0YlhTOTQyRFFLNHE2YnRmN2xrWEtsQUp4c3o5ZDFUejBOTmdCTmltd2pacl9ERm1WaUJBVW0xZVlkNUhWV3c?oc=5",
           "source": "Google News: Street Fighter (Herald Bulletin)",
           "published": "2026-11-17T15:03:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "TEKKEN 8 Season 3's 3rd Additional Character, Roger Jr., Now Available for General Access! NIKE Collaboration Items Also Arrive",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFFDOXJpUHRVTlFRdGFwSzV6R1gxSkY3U2FrelN5RW5sajlZU1dQc2loYlI2QVRSVHlzNmMybnRuNHJjV2dMQWRVR1lyTjdDekxWWnNvanlLb2PSAWBBVV95cUxPZndvanFDcFdxYUxrS3NLVlFrM0wxblZuM19xYUtnQzVPWm03NVEwM21kOHBtdjZEQnVQUDlDY0luSUVmNEpCTEt6V0RPUUZObDdQMmV2b0lfbHZvaUZsYXU?oc=5",
+          "source": "Google News: Tekken (Saiga NAK)",
+          "published": "2026-11-18T03:50:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-17T17:59:39.000Z",
           "score": 1,
           "level": null,
           "why": []
