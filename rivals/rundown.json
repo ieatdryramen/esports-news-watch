@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T23:30:35.868Z",
+  "generatedAt": "2026-11-18T00:30:28.270Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -45,15 +45,6 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSWpRdmlLdzVQQ2VfVFBfTFYzU3pfLTFNY0RpeE1zZ2dqTHVPYWZ4UW93Ri1iaFVJdVBMUVZTRFJ3X1B3SWlFZnJVdmxQSzBsNjA3cTktcWlmbmk3c083Sl9hTmlTakxiblJjNzFFUV9pajFzRFZSWThVNjM3TGxWSjliWmswREJKd2gtekUwbjZKUQ?oc=5",
           "source": "Google News: Rivals esports (KIWA Radio)",
           "published": "2026-11-17T14:14:32.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "What Actually Makes You Good at Marvel Rivals? | Understanding Hero Complexity!",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hRWk0US1PWUd4ckEwVnphNEwtLTJsYThGOHRrR3ZKbTUtNnR1bDJnWU13SHdDSHRqcTcwZ2RLdG1tZ2ttYmxJWldvU3F4cUZQRTdOZ0dDT1VlZDFY?oc=5",
-          "source": "Google News: Rivals patches (YouTube)",
-          "published": "2026-11-17T00:15:07.000Z",
           "score": 1,
           "level": null,
           "why": []
