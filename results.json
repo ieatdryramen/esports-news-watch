@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:35:28.602Z",
+  "generatedAt": "2026-11-18T14:05:16.433Z",
   "source": "start.gg",
   "completed": [
     {
@@ -236,53 +236,6 @@
           "name": "comet-SR25"
         }
       ]
-    },
-    {
-      "eventId": "1715412",
-      "scene": "streetfighter",
-      "game": "Super Street Fighter II Turbo",
-      "tournament": "Central GXRIO",
-      "event": "Super Street Fighter 2 Turbo/X",
-      "entrants": 16,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-15T14:00:00.000Z",
-      "endAt": "2026-11-15T21:00:00.000Z",
-      "url": "https://www.start.gg/tournament/central-gxrio/event/super-street-fighter-2-turbo-x",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Axelloww"
-        },
-        {
-          "placement": 2,
-          "name": "Daniel"
-        },
-        {
-          "placement": 3,
-          "name": "RAC | FLAVIO.RYU"
-        },
-        {
-          "placement": 4,
-          "name": "PHT | AdK | Guizin"
-        },
-        {
-          "placement": 5,
-          "name": "Vinn Aleixo"
-        },
-        {
-          "placement": 5,
-          "name": "NFG | Cabelinho3K"
-        },
-        {
-          "placement": 7,
-          "name": "SPA/NFG | KastroBR"
-        },
-        {
-          "placement": 7,
-          "name": "Victor"
-        }
-      ]
     }
   ],
   "live": [],
@@ -423,7 +376,7 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "A DIY Friendsgiving",
       "event": "DIY 3s Singles",
-      "entrants": 18,
+      "entrants": 19,
       "online": false,
       "major": false,
       "startAt": "2026-11-22T00:00:00.000Z",
