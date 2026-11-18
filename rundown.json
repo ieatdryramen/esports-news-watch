@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T23:57:46.856Z",
+  "generatedAt": "2026-11-18T00:55:15.595Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
@@ -111,6 +111,17 @@
           ]
         },
         {
+          "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
+          "url": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
+          "source": "HLTV news",
+          "published": "2026-11-18T00:19:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
           "title": "Cast your vote for the Major MVP medal design",
           "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
           "source": "HLTV news",
@@ -126,15 +137,6 @@
           "url": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
           "source": "HLTV news",
           "published": "2026-11-17T21:18:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-17T18:32:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -178,57 +180,6 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "Another Grand Final Appearance for Team Spirit? 1win Essence III Playoffs Day 3 Predictions",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0lpQU1PREFaVWVXLWhsM29mVWhGN21DQUV5Mkh5ckVGcG1vQzZ5WGxwVk03Sk1sRUFZSDZSVGlybDFWbnpCZG5FU0UySURFWlpCNW9HaDA1dGFRRGRhdHlBOEJGYkZYdzFaR0VsUG5aYjBoSTd5eGlYX2tHV21FUjF1cjZXa09ReUtkS1lhLVB0ZzhrYUpMYS05QmdubWNCS3ljdzhyaEpNdXIxekI3UWVjUEVYWW8wYzNhN1dDVktrYVhB?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-17T07:26:45.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Inner Circle x Insanity edge Froglings in 51-minute DreamLeague Division 2 decider",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHd2MHFmZkJEWHMtVUhjNzRpSHJNOUlZLWw2TWdLMUI5Wm50aUcwMmVKZ3FUTENqUHhNOS1feldLM1R5ckJXX1E2elEzNENOelFQSXhudW8wOHlzX2R6RFkzQXNZWkFWV0NudE5QY1lIZE9jS3FGUld6cGNzZnlvZWxmSDZVekxNSVloUWw5OG1QZzJBNFJtazNuMDV3eW1OdzJuYkNsaTNsbXdDMmNxamVrenNzTzB2NVZvbnJR?oc=5",
-          "source": "Google News: Dota (Esports News UK)",
-          "published": "2026-11-17T10:19:44.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "dreamleague"
-          ]
-        },
-        {
-          "title": "Communication Score in Dota 2: How to increase it and keep it high",
-          "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
-          "source": "esports.gg",
-          "published": "2026-11-17T09:40:18.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
-          "url": "https://esports.gg/news/dota-2-blast-slam-9-2026-schedule-teams-prize-pool/",
-          "source": "esports.gg",
-          "published": "2026-11-17T03:53:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "the last*",
-            "prize pool",
-            "-schedule"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 3,
       "stories": [
@@ -264,6 +215,45 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Inner Circle x Insanity edge Froglings in 51-minute DreamLeague Division 2 decider",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHd2MHFmZkJEWHMtVUhjNzRpSHJNOUlZLWw2TWdLMUI5Wm50aUcwMmVKZ3FUTENqUHhNOS1feldLM1R5ckJXX1E2elEzNENOelFQSXhudW8wOHlzX2R6RFkzQXNZWkFWV0NudE5QY1lIZE9jS3FGUld6cGNzZnlvZWxmSDZVekxNSVloUWw5OG1QZzJBNFJtazNuMDV3eW1OdzJuYkNsaTNsbXdDMmNxamVrenNzTzB2NVZvbnJR?oc=5",
+          "source": "Google News: Dota (Esports News UK)",
+          "published": "2026-11-17T10:19:44.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "Communication Score in Dota 2: How to increase it and keep it high",
+          "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
+          "source": "esports.gg",
+          "published": "2026-11-17T09:40:18.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
+          "url": "https://esports.gg/news/dota-2-blast-slam-9-2026-schedule-teams-prize-pool/",
+          "source": "esports.gg",
+          "published": "2026-11-17T03:53:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "the last*",
+            "prize pool",
+            "-schedule"
+          ]
         }
       ]
     },
