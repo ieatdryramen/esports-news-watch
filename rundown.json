@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:30:22.873Z",
+  "generatedAt": "2026-11-18T06:30:27.216Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -236,13 +236,15 @@
           ]
         },
         {
-          "title": "Communication Score in Dota 2: How to increase it and keep it high",
-          "url": "https://esports.gg/guides/dota-2/how-to-increase-communication-score-dota-2/",
-          "source": "esports.gg",
-          "published": "2026-11-17T09:40:18.000Z",
-          "score": 1,
+          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-18T02:58:51.000Z",
+          "score": 0,
           "level": null,
-          "why": []
+          "why": [
+            "-stream"
+          ]
         },
         {
           "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
@@ -294,11 +296,25 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Classic Tetris",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "2026 CTWC Space City Regional: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-space-city-regional-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-11-18T05:59:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "AoE2",
-    "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
