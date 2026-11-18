@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T09:10:23.437Z",
+  "generatedAt": "2026-11-18T10:05:40.187Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -32,24 +32,13 @@
         },
         {
           "title": "Marvel Rivals - Official 2nd Anniversary Celebration Trailer",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWc2dG1GM0haZXl6bmNnR3ZLZExFUm9pN0hzVU9fNmJ3b3RUM3VoVVFDQjBlSUdDb0JLbDJzN1pMYWhaNENsdU1rQkQxMl9JMTNoTHpnLXRlUEhiMVdsbjlPN1luV09JUDh5ZDliYVR2Y3BJRndzeGRtMkFONUw5VlRYQjRXYjdfcEFfSDFLWmZrNGZod3RTa0xnb1lsTEE?oc=5",
-          "source": "Google News: Rivals patches (IGN India)",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTNETTBLQzhLcG5vU0ZGcHM5ZkdYYjVtOVIzeHFYSDVERjFGb2UwNzA2ODUyVF84alNnMl9uQ0E1YzNkMllfek5ndF8teTNDX1VNTmgtblgwU2tpcUZjSmdZYlJUZktzOWlGVTBSZ29HSnlKUFZ3RFpoMGU3dGFSUmR4TUtIZFFVVVZLUFg5TnBYb0UtQXpIYUZiblFnQTg?oc=5",
+          "source": "Google News: Rivals patches (IGN Africa)",
           "published": "2026-11-17T18:29:37.000Z",
           "score": 2,
           "level": null,
           "why": [
             "official"
-          ]
-        },
-        {
-          "title": "Could Season 11 Save Marvel Rivals?",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LY0NXOGw0NzFsZWhvMWc3N2ZKMnA0d2lYWWN2WXVELVpRZnJrVGxmRWdUUDNNMmZyYTNfTzRIalNldVNMR3ZKcVBUd0ExSVVsZ2lOUlQxYi1jbXhrTkdnZ3E3TFh2Tk8zbTdVNWJTdkdwZWZwUzdLYm5hV1dpQQ?oc=5",
-          "source": "Google News: Rivals patches (Phrasemaker)",
-          "published": "2026-11-17T09:25:43.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
           ]
         },
         {
