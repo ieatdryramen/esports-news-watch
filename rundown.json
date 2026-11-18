@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T04:35:28.426Z",
+  "generatedAt": "2026-11-18T05:30:22.873Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
@@ -53,6 +53,17 @@
           "why": [
             "confirmed",
             "iem"
+          ]
+        },
+        {
+          "title": "The 2026 Esports Awards Presented by Thunderpick Celebrates the Industry’s Best, with iShowSpeed, Counter-Strike 2 and Team Vitality Taking Home Honours",
+          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNMWFLcW8wcXd0RDl6UWFFX2xMTEF0RWlZVk9EZllSdFpaREpGbkZRUVo4ZU1MOGRQM3FmNjlNX2hnMzNrTVJpLWxHa0ZJSGtsdnhwX3RzNDV3bkFVTHdKTl9JTEVVZ0ZQYklLQ3Z1WFFtZUZwTEE2ZWI3TWpfdzFoX0JmSnRMY3hQU212ZFhzMVVORW5LWEgxMy1wY3F4bzF4MjJyVmJHdzhFNzh5V1lIUWQ1dGxJNW5BY0ZNaENjRFpvLU55R0R4bFlTTU9CNS1OZkZheVZzeUxBbHpBa19KTFFWbXhJbVhwVnJnVEhzOHlnbFBhMzNjd0J1NE9rSjhGdi1JMUlzSlE0aV9fOFhfQTZKWktGMzF5R1dteDVERW52NVFxbU52YnNzRkxwOTlIM3hhTVFHTnUtbWkwc1VNdktHdTc4akRES2VLRDFwdDQ4NnlQZXpWTXl0di10c2g3a1AyVTZFUS1idzBwQ0JDbmRfQXVsbElULUpzOWRNcm9lM0xNeUgzVzJLWHBUdXNaWUVEbmgxQ19jSkE?oc=5",
+          "source": "Google News: CS2 (Mynewsdesk)",
+          "published": "2026-11-18T04:42:18.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "vitality"
           ]
         },
         {
@@ -131,15 +142,6 @@
           "why": [
             "history*"
           ]
-        },
-        {
-          "title": "‘Counter-Strike 2’ Takes Game Of The Year At The Esports Awards",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTlna3FCRHNOSVB3WTFPZEVFTkh2dnA0aEZZa1lBci0yU1VXc1ozQ3F0Tk5Icjc2YUZrdVNKRzYxTy1FRFFJSG94cWVKaUxRWEFrdEsxSnRWT1NfXzk2WjF0NmxPUFRvUzdMZUYzckY3OE9ZZnlLcTFtbXNUNWdrOG93?oc=5",
-          "source": "Google News: CS2 (Yahoo Sports)",
-          "published": "2026-11-18T03:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -220,7 +222,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
@@ -241,17 +243,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-18T02:58:51.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         },
         {
           "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
