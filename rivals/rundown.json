@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T17:55:39.425Z",
+  "generatedAt": "2026-11-18T18:55:19.857Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -28,17 +28,6 @@
           "why": [
             "announces",
             "-skin"
-          ]
-        },
-        {
-          "title": "Marvel Rivals - Official 2nd Anniversary Celebration Trailer",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTNETTBLQzhLcG5vU0ZGcHM5ZkdYYjVtOVIzeHFYSDVERjFGb2UwNzA2ODUyVF84alNnMl9uQ0E1YzNkMllfek5ndF8teTNDX1VNTmgtblgwU2tpcUZjSmdZYlJUZktzOWlGVTBSZ29HSnlKUFZ3RFpoMGU3dGFSUmR4TUtIZFFVVVZLUFg5TnBYb0UtQXpIYUZiblFnQTg?oc=5",
-          "source": "Google News: Rivals patches (IGN Africa)",
-          "published": "2026-11-17T18:29:37.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "official"
           ]
         },
         {
