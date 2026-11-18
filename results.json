@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:05:16.956Z",
+  "generatedAt": "2026-11-18T23:35:15.011Z",
   "source": "start.gg",
   "completed": [
     {
@@ -241,6 +241,19 @@
   "live": [],
   "upcoming": [
     {
+      "eventId": "1755768",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TNS Street Fighter 6 #173",
+      "event": "Street Fighter 6",
+      "entrants": 137,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-19T01:00:00.000Z",
+      "endAt": "2026-11-19T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-street-fighter-6-173/event/street-fighter-6"
+    },
+    {
       "eventId": "1757933",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -363,7 +376,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Taking Back Tampa: The Movie",
       "event": "Melee Singles",
-      "entrants": 130,
+      "entrants": 131,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T18:00:00.000Z",
