@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T19:35:19.644Z",
+  "generatedAt": "2026-11-18T20:05:18.765Z",
   "source": "start.gg",
   "completed": [
     {
@@ -293,6 +293,19 @@
       "url": "https://www.start.gg/tournament/d3-2026-dueling-dragons-dojo-2026-shanghai/event/guilty-gear-strive-awt-gold-3"
     },
     {
+      "eventId": "1759149",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "The 38th Tekken 8 Will Breaker Tournament",
+      "event": "The 38th Tekken 8 Will Breaker",
+      "entrants": 372,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-21T01:30:00.000Z",
+      "endAt": "2026-11-21T06:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-38th-tekken-8-will-breaker-tournament/event/the-38th-tekken-8-will-breaker"
+    },
+    {
       "eventId": "1673800",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -376,7 +389,7 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "A DIY Friendsgiving",
       "event": "DIY 3s Singles",
-      "entrants": 19,
+      "entrants": 20,
       "online": false,
       "major": false,
       "startAt": "2026-11-22T00:00:00.000Z",
