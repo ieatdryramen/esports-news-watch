@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T12:00:24.917Z",
+  "generatedAt": "2026-11-18T12:55:28.243Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 20,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
@@ -134,14 +134,14 @@
           ]
         },
         {
-          "title": "BLAST Rivals Fall 2026 viewership beats Spring",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12alF0ZDBSblJFOWdSZjlhMkQzNFk4NE5FYTFjaW9pdzVGVFJXbWN4U1ZEdzNaSzBiNXBTTm9oTVBDY3NlR3RpeW5IeXZBSWJlbHkyMml2ckI1V2duM1RfSFhLSGs3dWxTZ1FJ?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-17T13:06:59.000Z",
-          "score": 3,
+          "title": "CS2 Update Brings Back Cobblestone and Major Stickers",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYW5IY1llS01SRXdxZ2FENUxWV0tsa3JESWxkeWNMVUFGTFE0VTJyN3JQYTZFaXlNd2NmX1V3N2tmN25fNEd1TkxyS3p3cEkxX2R4YjJkNHNzb0t0WmFEck4zeG9PbUlpX3NVZXpPQ0hYQmFnQ2ppQkttdVBYVkVpOVhPbzNwOEF0NzhoMWZwekc0YmM?oc=5",
+          "source": "Google News: CS2 (Skin.Club)",
+          "published": "2026-11-18T05:38:15.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "blast"
+            "update"
           ]
         }
       ]
