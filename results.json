@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:05:16.986Z",
+  "generatedAt": "2026-11-18T06:35:15.572Z",
   "source": "start.gg",
   "completed": [
     {
@@ -46,6 +46,53 @@
         {
           "placement": 7,
           "name": "Gotta Catch | Satan Shark"
+        }
+      ]
+    },
+    {
+      "eventId": "1754042",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TNS TEKKEN 8 #142",
+      "event": "Tekken 8",
+      "entrants": 191,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-18T01:00:00.000Z",
+      "endAt": "2026-11-18T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-tekken-8-142/event/tekken-8",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "PAR | JoeCrush"
+        },
+        {
+          "placement": 2,
+          "name": "jasonleoss"
+        },
+        {
+          "placement": 3,
+          "name": "Fancy Sinigang"
+        },
+        {
+          "placement": 4,
+          "name": "PCM | bool"
+        },
+        {
+          "placement": 5,
+          "name": "MTS | ThePiedPiplup"
+        },
+        {
+          "placement": 5,
+          "name": "Kanme | Shadow 20z"
+        },
+        {
+          "placement": 7,
+          "name": "TTVCAVEMANAT370"
+        },
+        {
+          "placement": 7,
+          "name": "DVSN | Reg Sized Majin"
         }
       ]
     },
@@ -238,21 +285,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1754042",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #142",
-      "event": "Tekken 8",
-      "entrants": 191,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-18T01:00:00.000Z",
-      "endAt": "2026-11-18T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-142/event/tekken-8"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1757933",
