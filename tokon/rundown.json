@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T22:45:19.163Z",
+  "generatedAt": "2026-11-18T23:40:22.138Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Tokon: Fighting Souls patch notes for November 18, 2026 update",
@@ -29,6 +29,15 @@
             "update",
             "patch notes"
           ]
+        },
+        {
+          "title": "Marvel Tokon stories",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWDA1UV92Wm5JdEwydHpGZk1lYXFkMHh2Z2FxWGg4VV9JS1BFNm9wdHllQThkNkY4S1dLMHNsSEZGLTBmUUpYSzBycU1VSmlFNlh5NGRXSjBIZy00c3kwLVFfd3Y?oc=5",
+          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
+          "published": "2026-11-18T22:20:40.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }

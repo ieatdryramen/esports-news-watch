@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T22:45:18.163Z",
+  "generatedAt": "2026-11-18T23:40:21.088Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals November 19 Patch Notes: Second Anniversary Event, Free Units, and More",
@@ -64,6 +64,15 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WUFIycXV4eEtvSF9HV2dSTXdRYUtWZnoxOWxTczlQb2k2MGpVOUZreHRDZnRXdDlxY2stc3Z6REw3eTVWUUdLN1NsZUNtdThYSlVaY1Q2UzRIZzY4aW1JQnNJTnd4TUhOcXFkS2JTTHBEMzdDWTNRX1pVQ0hFUQ?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-18T03:51:19.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Rogue DELETES Cyclops & Scarlet Witch! 🔥 | Marvel Rivals Rogue Gameplay Breakdown",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBS2t6M2ppRlptSlF6aW8yeWd1U2ZKX0ZzQzFvS1lGd25iSGtZb2ZLSzJpXzktV3NCUzIzSDdfYVZ2QQ?oc=5",
+          "source": "Google News: Rivals patches (YouTube)",
+          "published": "2026-11-18T00:12:51.000Z",
           "score": 1,
           "level": null,
           "why": []
