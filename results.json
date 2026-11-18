@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:05:16.434Z",
+  "generatedAt": "2026-11-18T15:35:17.215Z",
   "source": "start.gg",
   "completed": [
     {
@@ -254,6 +254,19 @@
       "url": "https://www.start.gg/tournament/adam-s-smash-series-211-adam-has-been-cast-as-the-next-james-bond/event/melee-singles"
     },
     {
+      "eventId": "1635588",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "Battle Coliseum 2026",
+      "event": "Street Fighter 6 - PC",
+      "entrants": 134,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-20T12:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/street-fighter-6-pc"
+    },
+    {
       "eventId": "1645172",
       "scene": "legacyfgc",
       "game": "The King of Fighters XV",
@@ -265,19 +278,6 @@
       "startAt": "2026-11-20T13:00:00.000Z",
       "endAt": "2026-11-22T23:00:00.000Z",
       "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/the-king-of-fighters-xv-pc"
-    },
-    {
-      "eventId": "1635588",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "Battle Coliseum 2026",
-      "event": "Street Fighter 6 - PC",
-      "entrants": 134,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-20T17:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/street-fighter-6-pc"
     },
     {
       "eventId": "1714612",
