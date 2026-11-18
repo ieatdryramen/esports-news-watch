@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-18T12:55:28.243Z",
+  "generatedAt": "2026-11-18T13:55:16.160Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 20,
       "stories": [
-        {
-          "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84a01fZ0puNE1FRWRjcHdYUS1XenVNYVQxM1cyaUxCanVnOEwyX2xaZjVOSkpBZVZkUkV0a0NIclExUDExd2Foa0djR3JiMjhCY2cwcjc5MnM3QQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-17T13:06:01.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "signs",
-            "iem"
-          ]
-        },
         {
           "title": "ZywOo and Vitality lead CS2's big night at the Esports Awards 2026",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEFNdWZEdDJPeXU2ZnhZMlF0eTZOUnJtejd0RUZBZnl1VzQzNUczQ0IyaEREdTIxbHBVSmFXRVhieUZMT1NJbXRJUUY2SE43MU15a0lra2F3MVh3WExNX042dVkxZkxfQkpVSFhHblpWMDJsazFOOHNaU3JTemgxek1HX284UEp6MFg1eUhMY2k1SE1lMWpv?oc=5",
@@ -123,26 +111,35 @@
           ]
         },
         {
-          "title": "PURE eSports renames Counter-Strike 2 roster PURE CCC.io under 12-month CCC.io sponsorship",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUE1RZWJJYUU3OV93YW5HQjRwLXI1VEQ5Yy1aT0FFcWtGaWpodnBncFY5cllLTWo5QlIzMzBhcFdrb1NqUXlXTGpJandZT2VSVUNSVEViNnhDOU5VTnRDNnJxQTVuVTFkR0tzbWlxMWZySU40MW9GSTRIal91VUx6MW9fUkdpUFRwZHVocWdnT2JrTDVoMTk5QW1jSUs2NkVpc0EzbGg2UFlESVUyY3JUTnBzTThZTXVJRmlDVFhLa3RCdGd2ZlNiZ1RSWHY5WnRsYVNfTzNRelpoaDMybEM4Yw?oc=5",
-          "source": "Google News: CS2 (Yogonet)",
-          "published": "2026-11-17T13:15:35.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
-        {
-          "title": "CS2 Update Brings Back Cobblestone and Major Stickers",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYW5IY1llS01SRXdxZ2FENUxWV0tsa3JESWxkeWNMVUFGTFE0VTJyN3JQYTZFaXlNd2NmX1V3N2tmN25fNEd1TkxyS3p3cEkxX2R4YjJkNHNzb0t0WmFEck4zeG9PbUlpX3NVZXpPQ0hYQmFnQ2ppQkttdVBYVkVpOVhPbzNwOEF0NzhoMWZwekc0YmM?oc=5",
-          "source": "Google News: CS2 (Skin.Club)",
-          "published": "2026-11-18T05:38:15.000Z",
+          "title": "CS2 Nov. 17 update brings Cobblestone back to matchmaking",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDNYd2dqYThBOEJIdWdOMGs0ZnBUNmJud0hqY2c0bHVYSlEySDhuelFIUTNTOXJZVXlqcmxaYWVReXhSdXNJZzU3NkJDbXRwcXRRRXp2VGNTUzAxdFg1dFM4SGR1TUt6dnB0MnkxZU0wMUJkTmNqUjc4a2lSYTg5eWRqcmI0QQ?oc=5",
+          "source": "Google News: CS2 (Dot Esports)",
+          "published": "2026-11-18T13:23:00.000Z",
           "score": 2,
           "level": null,
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
+          "url": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
+          "source": "HLTV news",
+          "published": "2026-11-18T00:19:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
+          "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-2026-best-stickers/",
+          "source": "esports.gg",
+          "published": "2026-11-18T13:44:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -187,7 +184,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
@@ -217,17 +214,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-18T02:58:51.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         },
         {
           "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
