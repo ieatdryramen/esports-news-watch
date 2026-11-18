@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:30:25.685Z",
+  "generatedAt": "2026-11-18T22:00:27.146Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -193,7 +193,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
@@ -223,6 +223,17 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-18T02:58:51.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -234,7 +245,7 @@
           "title": "Optic Texas Named Esports Team Of The Year 2026",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRHVRWkpWZDZGUVpUVHdrNHlrZk9ycVJNTy1EdzRVRlYzRWFxOHV0MmQxWk5OMUFMT1FuVFF3M3F4dTBNVm5sdWpCM0NRLTRVYng1TXJfSGhjLWF5VTk3RU5sRVMwaDcwVHh1aDBjSEdtVTA?oc=5",
           "source": "Google News: CoD (Hotspawn)",
-          "published": "2026-11-18T19:38:22.000Z",
+          "published": "2026-11-18T19:20:21.000Z",
           "score": 3,
           "level": null,
           "why": [
