@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-11-18T20:45:29.797Z",
+  "generatedAt": "2026-11-18T21:45:20.840Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Marvel Rivals November 19 Patch Notes: Second Anniversary Event, Free Units, and More",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjdpUm8yLUZnTFBFZmlvMnZiLUM2WTlwNkxMd1UzbHpwaGlGQ2xXc1pqQmZiZTRxdTJfOHRtWUpJMjMtTmdWdUVxcGxjM09IQ3dLeE9aYjRablJCaWd5V1JSVlhQWHhpS1dCdkNNVVA1bTQwVTZnTWUwLUVYUUtiZnRn0gGHAUFVX3lxTE8tZDl5azA1aEJJeUJuSkE5cHVtYXN5ZnZ5bWRTaDJsSzVXYmZvSWtfejI4UGtVQ2RWVlA5RlRhSDR1Q01zQlNzT3dVbHphQnBXWlg5OWRTemlwS3FpV3pXRU80N0JhYXZsZXROZmxoVDFndlUzNXFJd0tqRy1XSEZISGJUUzl1RQ?oc=5",
+          "source": "Google News: Rivals esports (Beebom)",
+          "published": "2026-11-18T20:42:12.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "patch notes"
+          ]
+        },
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEg1ZHZlSGE2VFcxeEpLM21qS1k4bk9Yb1FtXzRwNG4tZ2JmLV9pVXNrT1ppcGc5bk1tX1hOazd6ZzZ2dm81U2ZzTTQ0eUhFM05JblhrdFRNX0dTUUtVT2J5aVlFbnlwM3RURkQ2Tk5mUUdHY3RZRlFGWVB3d1ZUdmJUTVNNRGlIMHJsaQ?oc=5",
@@ -35,6 +46,15 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzNiX3dHbmRHaVA2M01CRUY1VmRQOGt2My1ObTNqNVIyU2FUSTZLYWRNSlZUMmxPTWxSZXF2blB4eDAyMkpBX21GVW4tM1F6UG9mTC1seU8zdGZtU1o1TkV1WHF6Yk5oZWpLTkxOZVlhQ3hycXZQaTBaWmZtenp4Y19Jc0hUZl9peHc?oc=5",
           "source": "Google News: Rivals esports (Happy Gamer)",
           "published": "2026-11-18T19:38:48.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Reveals Second Anniversary Festivities",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlUxbU9qYnNKejcxTnFyalVVb2UyaklCYjh0TmZPek9MMldYSzVnbWs0WmFzd1hCLUQzMzBlVXFiaGlhc2hFTVdQTzJxdjBnNlN6ZUN6VHl3bUN5Q0lmYXVVWlhqZ2xnajBvN1pXaDJMbzgwaTJFR1gtTWRPN1NLWlZhX2lTalY1?oc=5",
+          "source": "Google News: Rivals patches (GamerBraves)",
+          "published": "2026-11-18T09:38:38.000Z",
           "score": 1,
           "level": null,
           "why": []
