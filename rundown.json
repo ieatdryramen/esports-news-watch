@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T19:30:26.201Z",
+  "generatedAt": "2026-11-18T20:30:22.165Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -166,33 +166,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "'I hate the way you represent this game': Zain lashes out at Cody after losing in Port Priority XD grand finals",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHlIUkpYaFB2M2JleWNua0pwNG9WVl9aczRYU1UycXRKRmpYUW5oR1JUSVN6dUVyeTJFOFM1cklTVlZ4am1iY0VRWWpjLWdsal9aNjlYem5pbEx1OUJmU1dfUWRJNzJ4MFJiUWhUY3RzczRXQWx4TXN4U3VTMXo1ZzNWZm9NMnNT?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-17T20:05:25.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand finals",
-            "zain"
-          ]
-        },
-        {
-          "title": "PokéMelee Combines Super Smash Bros. Melee & Pokémon Colosseum",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnlSTllRVHFGMy1McnplZkpzMHQzUGw5X1JlR0FVWXR3WWt3Z2doeE96LXZPVldvaW1WcXNpVC1sNWdlZ1NJR3BBcC1aVG4xekkya3ppODlLQXAxS2FOWjZvanNhUHdfdlB6MjRISmk2djl6WWRndnhUcjVLYU0xNzNOTXZRVXVQcFE?oc=5",
-          "source": "Google News: Melee (Retro Dodo)",
-          "published": "2026-11-18T16:50:51.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 2,
       "stories": [
@@ -220,7 +193,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
@@ -250,17 +223,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-18T02:58:51.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -269,10 +231,10 @@
       "storyCount": 1,
       "stories": [
         {
-          "title": "OpTic Texas players win Esports Team of the Year at Esports Awards 2026",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1RYU29lbEpXckRITXI5T1dNNlJGbURfQUdVVGU1dmkyMmY4RXFOQjh1bHc1cVZxeEktamhEb296dVlYbmxKUEdyYjM1WlFQRDJQVkN0NWF3d3hLT09TcWFrVHo5UUVWMV9EOHBBZWR6M2hsbzJTMTA5aUlQNEk3SlA4Wm5pNG1zbWhKWjJVNGRLenZhTndhcDdvNFpsMm5sVFZvZ1hKcw?oc=5",
-          "source": "Google News: CoD (Esports.gg)",
-          "published": "2026-11-18T05:24:23.000Z",
+          "title": "Optic Texas Named Esports Team Of The Year 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRHVRWkpWZDZGUVpUVHdrNHlrZk9ycVJNTy1EdzRVRlYzRWFxOHV0MmQxWk5OMUFMT1FuVFF3M3F4dTBNVm5sdWpCM0NRLTRVYng1TXJfSGhjLWF5VTk3RU5sRVMwaDcwVHh1aDBjSEdtVTA?oc=5",
+          "source": "Google News: CoD (Hotspawn)",
+          "published": "2026-11-18T19:38:22.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -290,6 +252,21 @@
           "url": "https://tetrisinterest.com/2026-ctwc-space-city-regional-timestamps/",
           "source": "Tetris Interest",
           "published": "2026-11-18T05:59:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "PokéMelee Combines Super Smash Bros. Melee & Pokémon Colosseum",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnlSTllRVHFGMy1McnplZkpzMHQzUGw5X1JlR0FVWXR3WWt3Z2doeE96LXZPVldvaW1WcXNpVC1sNWdlZ1NJR3BBcC1aVG4xekkya3ppODlLQXAxS2FOWjZvanNhUHdfdlB6MjRISmk2djl6WWRndnhUcjVLYU0xNzNOTXZRVXVQcFE?oc=5",
+          "source": "Google News: Melee (Retro Dodo)",
+          "published": "2026-11-18T16:50:51.000Z",
           "score": 1,
           "level": null,
           "why": []
