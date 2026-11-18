@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T13:05:28.506Z",
+  "generatedAt": "2026-11-18T14:05:30.223Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -40,6 +40,15 @@
           "why": [
             "official"
           ]
+        },
+        {
+          "title": "Marvel Rivals Reveals Second Anniversary Festivities",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlUxbU9qYnNKejcxTnFyalVVb2UyaklCYjh0TmZPek9MMldYSzVnbWs0WmFzd1hCLUQzMzBlVXFiaGlhc2hFTVdQTzJxdjBnNlN6ZUN6VHl3bUN5Q0lmYXVVWlhqZ2xnajBvN1pXaDJMbzgwaTJFR1gtTWRPN1NLWlZhX2lTalY1?oc=5",
+          "source": "Google News: Rivals esports (GamerBraves)",
+          "published": "2026-11-18T09:38:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals Login Reward Gives 1900 Free Units Starting November 19",
