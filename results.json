@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:35:20.634Z",
+  "generatedAt": "2026-11-18T22:05:21.957Z",
   "source": "start.gg",
   "completed": [
     {
@@ -246,7 +246,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Adam's Smash Series #211: Adam has been cast as the next James Bond",
       "event": "Melee Singles",
-      "entrants": 66,
+      "entrants": 65,
       "online": false,
       "major": false,
       "startAt": "2026-11-19T02:00:00.000Z",
@@ -332,6 +332,19 @@
       "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/guilty-gear-strive-awt-platinum-pc"
     },
     {
+      "eventId": "1725999",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Sunrise Trials II",
+      "event": "Melee Singles",
+      "entrants": 65,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T16:00:00.000Z",
+      "endAt": "2026-11-22T02:00:00.000Z",
+      "url": "https://www.start.gg/tournament/sunrise-trials-ii/event/melee-singles"
+    },
+    {
       "eventId": "1720181",
       "scene": "streetfighter",
       "game": "Street Fighter III: 3rd Strike",
@@ -343,19 +356,6 @@
       "startAt": "2026-11-21T17:00:00.000Z",
       "endAt": "2026-11-22T23:00:00.000Z",
       "url": "https://www.start.gg/tournament/sides-battle-coliseum-2026/event/street-fighter-iii-3rd-strike"
-    },
-    {
-      "eventId": "1725999",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Sunrise Trials II",
-      "event": "Melee Singles",
-      "entrants": 65,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T17:00:00.000Z",
-      "endAt": "2026-11-22T02:00:00.000Z",
-      "url": "https://www.start.gg/tournament/sunrise-trials-ii/event/melee-singles"
     },
     {
       "eventId": "1684091",
