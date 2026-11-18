@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:35:31.793Z",
+  "generatedAt": "2026-11-18T19:30:26.201Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 19,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -57,18 +57,6 @@
           "why": [
             "zywoo",
             "vitality"
-          ]
-        },
-        {
-          "title": "ZywOo, donk and erde nominated at The Game Awards 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGx3T1Fma3VGUlN2YUsxQm4wQ040RnJtblNzOXUza05UWlp1dG5LY2RNQ005RWVkYzFsSFlmUFc2VGNvdHBLZC1vS01PU0FHMDZlQ3UzOEhnNE5nZVc2VmFvUGp0SlFId1lpUm5jeHhfVlNiS3FnY2tibk9iZExiYjVVRXFIVkNwTjJDcWhR?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-17T19:30:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "zywoo",
-            "donk"
           ]
         },
         {
@@ -165,6 +153,15 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-18T14:59:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -189,6 +186,32 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnlSTllRVHFGMy1McnplZkpzMHQzUGw5X1JlR0FVWXR3WWt3Z2doeE96LXZPVldvaW1WcXNpVC1sNWdlZ1NJR3BBcC1aVG4xekkya3ppODlLQXAxS2FOWjZvanNhUHdfdlB6MjRISmk2djl6WWRndnhUcjVLYU0xNzNOTXZRVXVQcFE?oc=5",
           "source": "Google News: Melee (Retro Dodo)",
           "published": "2026-11-18T16:50:51.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-18T05:46:01.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "TEKKEN 8 Season 3's 3rd Additional Character, Roger Jr., Now Available for General Access! NIKE Collaboration Items Also Arrive",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFFDOXJpUHRVTlFRdGFwSzV6R1gxSkY3U2FrelN5RW5sajlZU1dQc2loYlI2QVRSVHlzNmMybnRuNHJjV2dMQWRVR1lyTjdDekxWWnNvanlLb2PSAWBBVV95cUxPZndvanFDcFdxYUxrS3NLVlFrM0wxblZuM19xYUtnQzVPWm03NVEwM21kOHBtdjZEQnVQUDlDY0luSUVmNEpCTEt6V0RPUUZObDdQMmV2b0lfbHZvaUZsYXU?oc=5",
+          "source": "Google News: Tekken (Saiga NAK)",
+          "published": "2026-11-18T03:50:17.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -267,21 +290,6 @@
           "url": "https://tetrisinterest.com/2026-ctwc-space-city-regional-timestamps/",
           "source": "Tetris Interest",
           "published": "2026-11-18T05:59:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "TEKKEN 8 Season 3's 3rd Additional Character, Roger Jr., Now Available for General Access! NIKE Collaboration Items Also Arrive",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFFDOXJpUHRVTlFRdGFwSzV6R1gxSkY3U2FrelN5RW5sajlZU1dQc2loYlI2QVRSVHlzNmMybnRuNHJjV2dMQWRVR1lyTjdDekxWWnNvanlLb2PSAWBBVV95cUxPZndvanFDcFdxYUxrS3NLVlFrM0wxblZuM19xYUtnQzVPWm03NVEwM21kOHBtdjZEQnVQUDlDY0luSUVmNEpCTEt6V0RPUUZObDdQMmV2b0lfbHZvaUZsYXU?oc=5",
-          "source": "Google News: Tekken (Saiga NAK)",
-          "published": "2026-11-18T03:50:17.000Z",
           "score": 1,
           "level": null,
           "why": []
