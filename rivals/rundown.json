@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T14:05:30.223Z",
+  "generatedAt": "2026-11-18T15:00:30.607Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "MRC Season 10: Butcher's Blasphemy - Americas PC",
@@ -55,15 +55,6 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WUFIycXV4eEtvSF9HV2dSTXdRYUtWZnoxOWxTczlQb2k2MGpVOUZreHRDZnRXdDlxY2stc3Z6REw3eTVWUUdLN1NsZUNtdThYSlVaY1Q2UzRIZzY4aW1JQnNJTnd4TUhOcXFkS2JTTHBEMzdDWTNRX1pVQ0hFUQ?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-18T03:51:19.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Sheldon Esports Marvel Rivals Advances to State Semifinals",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSWpRdmlLdzVQQ2VfVFBfTFYzU3pfLTFNY0RpeE1zZ2dqTHVPYWZ4UW93Ri1iaFVJdVBMUVZTRFJ3X1B3SWlFZnJVdmxQSzBsNjA3cTktcWlmbmk3c083Sl9hTmlTakxiblJjNzFFUV9pajFzRFZSWThVNjM3TGxWSjliWmswREJKd2gtekUwbjZKUQ?oc=5",
-          "source": "Google News: Rivals esports (KIWA Radio)",
-          "published": "2026-11-17T14:14:32.000Z",
           "score": 1,
           "level": null,
           "why": []
