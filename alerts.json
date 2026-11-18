@@ -534,26 +534,6 @@
       ],
       "summary": "Yesterday someone posted about an enemy Muerta controlling item transfers on other players’ heroes (match 9090450580, GitHub issue #37021). The same thing happened in my match last night, so this is not a one-off. You can see the cheaters perspective \"go afk\" to click on non-existing UI/HUD with their mouse and that is when our items get moved to the stash. Match details Match ID: 9092372303 Date: 11/15/2026, 11:24 PM EST Mode: All Pick Duration: 13:02 (Dire victory, 4–8) My hero: Kez, mid, Radiant Hackers Profile IO: https://steamcommunity.com/profiles/76561199102025504/ Lesh: https://steamcommunity.com/profiles/76561199385245475/ What happened From the replay: [00:40] – All items (branch, circlet slippers etc) moved from my inventory to my stash. My hero was at mid, out of stash range. This is not a maphack or a script that plays for one hero. The server is accepting item commands on heroes the sender does not control. Comments in the earlier thread link it to a new Umbrella cheat feature. That is not verified, but two matches in two days points to a tool that is spreading. If this happened to you, add your match ID to the GitHub issue so Valve has more cases. I swear to God the accounts need to have a VAC/Hardware ban. Not only these guys are cheating and going against simple TOS but influencing Valves servers which is also borderline cyber crime. github.com/ValveSoftware/Dota2-Gameplay/issues/37021 submitted by /u/Desperate-Pace-4477 to r/DotA2 [link] [comments]",
       "published": "2026-11-16T05:47:28.000Z"
-    },
-    {
-      "alertedAt": "2026-11-16T02:40:20.057Z",
-      "level": "possible",
-      "scene": "Halo",
-      "title": "Shopify vs TSM Series Results | Grand Finals | LVT Halo Pro League $100,000 LAN",
-      "url": "https://www.reddit.com/r/CompetitiveHalo/comments/1xxe0vz/shopify_vs_tsm_series_results_grand_finals_lvt/",
-      "source": "r/CompetitiveHalo",
-      "outlets": [
-        "Reddit"
-      ],
-      "score": 5,
-      "why": [
-        "signs*",
-        "won*",
-        "grand finals",
-        "prize pool*"
-      ],
-      "summary": "Shopify Rebellion defeat TSM 4-1 in the Grand Finals of LVT Halo Pro League LAN. Shopify earn $40,000 for first place, while TSM earns $25,000 for coming in second. Congrats to Shopify on the win. In the Winners Finals due to picks and bans, 3/4 maps were played on Streets. LastShot decided to stick to a winning formula by picking Streets again for map 1 and 4 and the result was the same the second time around. Cykul had the highest K/D at 1.18 with LastShot and Royal 2 right behind, both with 1.15 K/D's. LastShot and Royal 2 were tied with most assists at 47 a piece. LastShot dealt the most damage in the lobby. TSM showed signs of life and looked great in the Origin CTF. Snakebite went 30-10 and TSM won that map 4-2. But in the rest of the maps, TSM were never able to catch flow. Shopify outslayed by 29 kills and had 18 more assists. Here's the full standings for the Pro League LAN : Shopify Rebellion ($40k) TSM ($25k) Kraken Seas ($15k) Burn the Ships ($10k) - 6. Cloud9 ($5k) / Fatal Ambition ($5k) Congrats to all the players, and special thanks to Shopify Rebellion for funding and hosting this tournament. There's only one more LAN for Halo Infinite, which is Halo Fest on December 13th with a $150,000 prize pool. Map Picks and Bans Legend on TSM and LastShot, Frosty, and coach Bestman on Shopify did the picks/bans for their team. Shopify being higher seed chose Team A (gets to pick first OBJ gametype), SR picked Oddball Map 1 TSM bans Lattice Ball, SR picked Streets Ball, T",
-      "published": "2026-11-16T02:38:13.000Z"
     }
   ]
 }
