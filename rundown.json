@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T10:30:36.772Z",
+  "generatedAt": "2026-11-18T11:30:21.163Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 20,
       "stories": [
         {
           "title": "IEM Beijing locked in through 2028 as EFG signs 3-year deal with city esports body",
@@ -16,6 +16,18 @@
           "why": [
             "signs",
             "iem"
+          ]
+        },
+        {
+          "title": "ZywOo and Vitality lead CS2's big night at the Esports Awards 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEFNdWZEdDJPeXU2ZnhZMlF0eTZOUnJtejd0RUZBZnl1VzQzNUczQ0IyaEREdTIxbHBVSmFXRVhieUZMT1NJbXRJUUY2SE43MU15a0lra2F3MVh3WExNX042dVkxZkxfQkpVSFhHblpWMDJsazFOOHNaU3JTemgxek1HX284UEp6MFg1eUhMY2k1SE1lMWpv?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-18T11:02:21.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "zywoo",
+            "vitality"
           ]
         },
         {
@@ -43,6 +55,19 @@
           ]
         },
         {
+          "title": "Stake announces six Ranked events with open qualifiers and $150,000 prize pool for 2027",
+          "url": "https://www.hltv.org/news/46006/stake-announces-six-ranked-events-with-open-qualifiers-and-150000-prize-pool-for-2027",
+          "source": "HLTV news",
+          "published": "2026-11-17T16:33:00.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "return*",
+            "announces",
+            "prize pool"
+          ]
+        },
+        {
           "title": "IEM Beijing 2027 and 2028 Dates Confirmed",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1td0dqWnF5OTJMS3RzbE5MTVVZRWhRbHNKcjNqMzBiVERzU1JhVjl5YVVmZk1aT3pjeGtjTmZCZnBRX24wb1kwVG0taGltWndGcnd4dkEzdjZLcm9Sc2Q1RUNCYzc3Z29oYlJXbF8xcWlyRnd5MkRlbjRmSkNvYVk?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -63,6 +88,28 @@
           "level": null,
           "why": [
             "vitality"
+          ]
+        },
+        {
+          "title": "cmtry out of Astralis after one month",
+          "url": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
+          "source": "HLTV news",
+          "published": "2026-11-17T18:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "astralis"
+          ]
+        },
+        {
+          "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
+          "url": "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
+          "source": "HLTV news",
+          "published": "2026-11-17T17:24:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -97,33 +144,6 @@
           "why": [
             "iem"
           ]
-        },
-        {
-          "title": "Caedrel and Dan Gaskin win for Britain at Esports Awards as Counter-Strike 2 takes top game",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObExwRTQxenFxVjZRZS0tM2N1NkkyaE9PT18xRzQwZXRrLVprSTNOMGpsdktaVVRFazYwZ3FKOXVBTWxYSWY0c1pPV2I0WFNFejhCampEY0dwQWl6VjEzMU1nNDNKU2NFX05IeWVNcGFGTGYtY2ptR29aelA3Mnd5TDZVMFFubGlfZEhMWGJCSDdwc3FMQ3NNWXZpbHlHTDlrS0VSNlNJOERhZlVqRVpnaHo3TG9OanFqWWNqTVNwQzNrOU82?oc=5",
-          "source": "Google News: CS2 (Esports Insider)",
-          "published": "2026-11-18T07:30:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Is Cobblestone Returning to CS2? Valve Drops Mysterious Snow Teaser",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3dUU2gzRDJoWi13NVA0TExKMVRVa1ZQSHNnNHZTZVlvX3RYLXNoS1o0akZ0VHdWbHZVTUd4X01IdXlYREROejdWREFBOXYzNmM1SWgxcnlhNjc3ZVpFRTVFa1ljdlZtWVVjZVB2TlpHMFdNZmo4OFNLc25SNTEzX3ZXMTFfOTFUSWZmd2xNNk9IQXhRVXYwalJTWGgyWGtKMnZNWHpn?oc=5",
-          "source": "Google News: CS2 (Sports Tiger)",
-          "published": "2026-11-18T07:03:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "‘Counter-Strike 2’ Takes Game Of The Year At The Esports Awards",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWnRRV0tSaENIVjZ0VHhOdU13TXphdjItejZRUFFLRDBPRmJCbUhvc1MzU09EbFBJTFQ5VVl2cVB3ZDIzdkpXTzRIQjFUdkE4SW1CVzJDMTFNZ0VnMGdvdGhpS2NTcnR0UEM0Skl2cE1BcjMzS25FT2tCOWEtV1FUeDhwTjU0RWdNLThkTGNSUW1SWWt4R0tsdTY5azl3S2NsOXhRRXNwanRRWWtIZi13cDlBSQ?oc=5",
-          "source": "Google News: CS2 (Forbes)",
-          "published": "2026-11-18T03:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
