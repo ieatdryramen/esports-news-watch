@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:45:17.209Z",
+  "generatedAt": "2026-11-18T03:40:17.569Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -133,10 +133,10 @@
           ]
         },
         {
-          "title": "Bad News Eagles relaunch with academy project",
-          "url": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
-          "source": "HLTV news",
-          "published": "2026-11-17T21:18:00.000Z",
+          "title": "‘Counter-Strike 2’ Takes Game Of The Year At The Esports Awards",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTlna3FCRHNOSVB3WTFPZEVFTkh2dnA0aEZZa1lBci0yU1VXc1ozQ3F0Tk5Icjc2YUZrdVNKRzYxTy1FRFFJSG94cWVKaUxRWEFrdEsxSnRWT1NfXzk2WjF0NmxPUFRvUzdMZUYzckY3OE9ZZnlLcTFtbXNUNWdrOG93?oc=5",
+          "source": "Google News: CS2 (Yahoo Sports)",
+          "published": "2026-11-18T03:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -220,7 +220,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
@@ -253,6 +253,19 @@
             "the last*",
             "prize pool",
             "-schedule"
+          ]
+        },
+        {
+          "title": "DreamLeague Season 30: China Closed Qualifier - Dota 2 - Viewership, Overview, Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazNFNFhocE1WTlF6S2RXRnNfMXVKaFRYbFV6SFdLajJWZEpZaHV6RjdyQzBQTHRmUkZNa1JHVVJzeUF3RXR2dVFQRUduZkd5VlhKbTdNZnFfXzFqd0Rfb2gwb25rY3BXMldjckIxb0U5SUFweXdlMm10TndYWjRXZ0RXb1FEWjFHMzZz?oc=5",
+          "source": "Google News: Dota (Esports Charts)",
+          "published": "2026-11-17T09:31:58.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "prize pool",
+            "dreamleague",
+            "-viewership, overview"
           ]
         }
       ]
