@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T14:50:26.266Z",
+  "generatedAt": "2026-11-19T15:50:18.145Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -19,15 +19,15 @@
           ]
         },
         {
-          "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGJDVjZFMDdQSURPM2c2ZklqRFhVdmdXRDBnU3UyZjRsVlpoVkRhaFhSYlN6U2c2MDdYTG00UFpQMDdhLXZXTDNXNkx1R0pHUnFYa1VYMWd1RnJxOHZkQ3dYd3ZiTXlFRm1yd1I4N25VU214SjdQM1FCejlYMzRQb1puZXhXZWR6b3g1dDQzQmc?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-18T15:43:05.000Z",
-          "score": 5,
-          "level": null,
+          "title": "ZywOo Wins Esports PC Player Of The Year 2026 Award",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYVhiS1lfcWhVUGtuMDZEb2JRMm93MGtIS2VZMjllaE0wNmM4enJWc1BhajFldmZDM0RlSm01VGdUeWRLdzZiS1V1NGE1ZTc5YzVWN3lUNzFFVktSR2tSSlZzSmliWG1FR2hhMGtBeEtFOFFsTkdxNzFB?oc=5",
+          "source": "Google News: CS2 (Hotspawn)",
+          "published": "2026-11-18T23:38:22.000Z",
+          "score": 6,
+          "level": "possible",
           "why": [
-            "zywoo",
-            "vitality"
+            "wins",
+            "zywoo"
           ]
         },
         {
@@ -75,14 +75,14 @@
           ]
         },
         {
-          "title": "iShowSpeed, Counter-Strike 2 and Team Vitality among winners at 2026 Esports Awards",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0pQWDFiMXdQNTU0Y2RfdHJDTDFVTWJvQy1LRmJ1Wm5TSnNwSE4xVHJZakxUWlM3MG9rNUlYa2ppYnhKLWZCcUxHQVVCd29XUWsySFI3cXplUFRwZTV3VUNmU25CY0E0alpVdG5NSHBPMW5Bc05xRlplc296T0luVnoxeElQT2hpeE1TSEN5TWR0YzFreG9icE5Qal9wc2RRRG9YME43UlVFbGlSRjg4dVJhRXp0ZFl2UXNrZHNDaTV6R0E?oc=5",
-          "source": "Google News: CS2 (Inven Global)",
-          "published": "2026-11-18T14:59:28.000Z",
+          "title": "FURIA’s Triple Roar and FalleN’s Farewell Make Brazil the CS2 Plotline to Watch",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNE43bDJGNG9qQ3A1V2MtUnlzVmhad0VDV0ZHNFJOUmhMSjROYmlnR3d3NlVaMEpIOGJHT21tMGJiSTRSYjJ0UURWZVZyQ1hLM1Q3UWN3T3l1YWMyaFhqOXZDS0dUNG5IMXowamp0WkRtaFRsMW43RkdJd19GMzVmQlRoZ09EQU9EZE9fSV95MUZoYi1zUGZSWnJ1SmtNWUwxSE42dVpOWEMyM29jYWUxNkttWQ?oc=5",
+          "source": "Google News: CS2 (Spiel Times)",
+          "published": "2026-11-18T16:21:29.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "vitality"
+            "furia"
           ]
         },
         {
@@ -120,21 +120,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "DayZ as an Esports Shooter? Why You Shouldn’t Miss This Counter-Strike Mod",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45STBRQ19vdEJyTDNZdkdCMDRLMWNtUmw3eGMzb1dyaDlSS1VURHV4MVh4TlB2SlRWVjhKTUVFb3o2RWVPaHhqR2pxU21zM2FFZWdmQi1OdFQybktsV29UTkRnVnpQZGxvNVZtaDlwWm5VVHBidlZz?oc=5",
-          "source": "Google News: CS2 (Guided.news)",
-          "published": "2026-11-18T15:42:43.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
@@ -169,6 +160,15 @@
           "why": [
             "team spirit"
           ]
+        },
+        {
+          "title": "Valve Is Pushing For A Faster Meta In Dota 2 Patch 7.42 - Here's Why",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmxkM0hjcnFSOUJ6OElXdFM3eUxDWm02U28yalhNVFE4NHBvOUk5RjFkQjJvdExnWjdnSjhlbkwwRjluRWdHYVd0MG5wQVNVMlNDeEltaF92MEF4Ym9ZVllMODFueE5oTVI2bWFGb2tBbWtqOG5NajlzZmcwOEZINXF1aVR3Z1JzZm14bHVxTFd2ejNuNGtKM184Y3lLek41SGtB?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-19T15:18:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "BLAST SLAM IX Dota 2 Tournament Kicks Off Tomorrow: Ukrainian Team NAVI Among the Participants",
