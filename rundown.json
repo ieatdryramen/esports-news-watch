@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:30:33.218Z",
+  "generatedAt": "2026-11-19T12:00:27.242Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -39,17 +39,6 @@
           ]
         },
         {
-          "title": "Esports Awards 2026 Winners: CS2 Wins Game of the Year",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2EtZWhjdlVjTU5vbkQ0dlByNkRkOUtLZTNFdFZxSDNKVlc0RlBoUzk5NFpqM3M1bFJ2bV93Rl9PVXJIZkJuNlduaDMwdkJVMkc4NEpzeE9YZk1XaEtFcHJiYnhZMjBDOWhLcFpXSWU1TDZxeGVPS3FqR240b3ZmNDJONWZIVnJkZmppQTl3?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-18T11:35:05.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
           "title": "Media: Inner Circle owner detained in Italy",
           "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
           "source": "HLTV news",
@@ -58,6 +47,17 @@
           "level": null,
           "why": [
             "arrested*"
+          ]
+        },
+        {
+          "title": "G2 Esports x Umbro: Every Piece in the New Football Streetwear Collection and What It Costs",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53M2JXWnAwTF9ab0xDTU5NZzdhYmg2ZGNRaHVpMENZYjNiSFp4V1d0dmFTNVZBNGFpZUtPSWtEU2xLYkxqRGxhWEpIWkZDQlhyVWpNOThjQzFWRm9GeThHY2xPSEE3bnFSNkdacg?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-18T17:01:57.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "g2"
           ]
         },
         {
@@ -80,17 +80,6 @@
           "level": null,
           "why": [
             "returns"
-          ]
-        },
-        {
-          "title": "Counter-Strike and Team Vitality Land Game Awards Esports Nominations",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRThuZHBqX3FfWExsWVRWR2t0Vm1KazBybWZtSEN6VUJ6ZUg2Y0lQcXVQNm5kc29hUTFVMDNVblN1ZC1vTTJpd0Q0LWFMdnVBclI4OVoyR2RSb0VvR18xZnR2UEZpNzN1LTBpSU8zbS1LZzV1dkhuUjdYTm1OOFBHdWZXWlYwalZRdkw4OHVETEVZRjJKOEE?oc=5",
-          "source": "Google News: CS2 (Happy Gamer)",
-          "published": "2026-11-18T11:30:42.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vitality"
           ]
         },
         {
@@ -145,6 +134,15 @@
           "url": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
           "source": "HLTV news",
           "published": "2026-11-18T15:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "All teams qualified for CS2 Singapore Major: Final VRS invites and key storylines",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1FFZFNvY3Zsb1MteWhLZTJWMUYxaXVrUjN5MUFZOF9hWGNPc3FybHZkZ090ZGpMZGdLSmdDSzNaaTlfSmZFT18tNk5aN1l6Ri00Z3hLLTNYem9zU3MyYzNoalRZZUFJVlZDdXVncm1QTC1Ra3VSdXo3OEhYWFIydGNjUWcyd3Iyd0owNQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-18T13:48:24.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -222,6 +220,32 @@
       ]
     },
     {
+      "scene": "Classic Tetris",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Classic Tetris: How a retro puzzle game became a competitive sport, and who won in 2026",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0lrcldXY1dneFAtNFJGbHZRUk1GYlAzMS1kdTAwWHFKdFY2eU9Jb1dvUWdGOE9zTVp4Vll5RktNWEdmVk9ZWGVIWWFwNjFrb1VBS3dYRDExOFZOZnFta1VseDNwN3Y1N29yMkNIdjhBVEZ5Y0hodjdKRWVFdDRBcGM1dGM0Rm80bmZNeXlZazJMQW44cFctb0ttSGN1VXJJbVZMZTk3aTI4MDdIdDhXZUZ4WFlyZzAwMENCQlNzQXM5UkVwZlhBVHBfal90ZmPSAdwBQVVfeXFMTk0ydy13ZGV4ZEFydEVhWHZPU1dJTlBBQVdBVGc0RllYTzlXY1FzaURWcUc0MFUzQWdGSUZJQzNSUllacFdJbUE5bWJna043NDBQaEtWSTIzVURRQVdTV203X21pVHlWWW5fYzlmN0YyMVhlck1LdTNZUTFUblVNLWFWMVFuM2NBeTJoVDkxZVpuamdsa2VIbHFhcjZicFBvWFlIQ0c1MkhraGF4VTdDN1FZUWsyRnhRUUp5Rlp4SGVXUkZtWjVoNmJfVE8wWjVlMF9MQklFYURDTUtwdQ?oc=5",
+          "source": "Google News: Tetris (IndulgExpress)",
+          "published": "2026-11-19T11:17:12.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Washington Post. . Over 40 competitors from across Europe gathered in Copenhagen for the annual Classic Tetris European Championship, which has been staged each year since 2015.",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEFVTTJfcVVXbmFtcVVVOVlqdWlhU2VSZmVxVGR3dEJCRFByY0NrWUk1Q3lqTDk4aXRTT1VlRWRVT05aSzVQa1NaWFFhTFdlcEJJc3E4QlY2N1FZcWdwRVl4YTFxRmVIN0tadm1ZZ3hOZ2xXYUVHUl9QNExoUHpETDVEbkVuT3dQNmtWUkFfd3R6ZmFnMGZZNmpTS2w4ZUtqOTNJaW1FdmhhRHpEOHlv?oc=5",
+          "source": "Google News: Tetris (Facebook)",
+          "published": "2026-11-19T02:30:02.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 1,
       "stories": [
@@ -247,21 +271,6 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnlSTllRVHFGMy1McnplZkpzMHQzUGw5X1JlR0FVWXR3WWt3Z2doeE96LXZPVldvaW1WcXNpVC1sNWdlZ1NJR3BBcC1aVG4xekkya3ppODlLQXAxS2FOWjZvanNhUHdfdlB6MjRISmk2djl6WWRndnhUcjVLYU0xNzNOTXZRVXVQcFE?oc=5",
           "source": "Google News: Melee (Retro Dodo)",
           "published": "2026-11-18T16:50:51.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Washington Post. . Over 40 competitors from across Europe gathered in Copenhagen for the annual Classic Tetris European Championship, which has been staged each year since 2015.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEFVTTJfcVVXbmFtcVVVOVlqdWlhU2VSZmVxVGR3dEJCRFByY0NrWUk1Q3lqTDk4aXRTT1VlRWRVT05aSzVQa1NaWFFhTFdlcEJJc3E4QlY2N1FZcWdwRVl4YTFxRmVIN0tadm1ZZ3hOZ2xXYUVHUl9QNExoUHpETDVEbkVuT3dQNmtWUkFfd3R6ZmFnMGZZNmpTS2w4ZUtqOTNJaW1FdmhhRHpEOHlv?oc=5",
-          "source": "Google News: Tetris (Facebook)",
-          "published": "2026-11-19T02:30:02.000Z",
           "score": 1,
           "level": null,
           "why": []
