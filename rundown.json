@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:45:18.856Z",
+  "generatedAt": "2026-11-19T06:40:20.570Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -210,23 +210,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-18T05:46:01.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "CoD",
       "storyCount": 1,
       "stories": [
@@ -244,30 +227,6 @@
       ]
     },
     {
-      "scene": "Classic Tetris",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Over 40 competitors from across Europe gathered in Copenhagen for the annual Classic Tetris European Championship, which has been staged each year since 2015.",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpMLVY1LWRkMm93OEtROFVNdjNGMVNrSG9uNEFxS1FNMUU1WHBpTlBVbVozdVhfUWxROVA1bHdqekRsbUxfNnltcGJEZFg1RE9UbDBXVG5GWDJMV0VOVnNrNHBDUDEwajNrajJiQ0RPWGExNGxaTWVIcU51YnZvY09tLUdRVjAxVlFYNElyb3Y2VjJ6aFpsWTNzUjVsZnR5Q3d5ZG85TGgtNVVjVkNtNlN2d2l5bjlsRXBvQzU2NmFnZmYxdHEzZFg2MGtWZTFmQ2stYjdJQVlmaC1M?oc=5",
-          "source": "Google News: Tetris (Facebook)",
-          "published": "2026-11-19T02:31:40.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "2026 CTWC Space City Regional: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-space-city-regional-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-11-18T05:59:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -281,6 +240,21 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Classic Tetris",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Over 40 competitors from across Europe gathered in Copenhagen for the annual Classic Tetris European Championship, which has been staged each year since 2015.",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpMLVY1LWRkMm93OEtROFVNdjNGMVNrSG9uNEFxS1FNMUU1WHBpTlBVbVozdVhfUWxROVA1bHdqekRsbUxfNnltcGJEZFg1RE9UbDBXVG5GWDJMV0VOVnNrNHBDUDEwajNrajJiQ0RPWGExNGxaTWVIcU51YnZvY09tLUdRVjAxVlFYNElyb3Y2VjJ6aFpsWTNzUjVsZnR5Q3d5ZG85TGgtNVVjVkNtNlN2d2l5bjlsRXBvQzU2NmFnZmYxdHEzZFg2MGtWZTFmQ2stYjdJQVlmaC1M?oc=5",
+          "source": "Google News: Tetris (Facebook)",
+          "published": "2026-11-19T02:31:40.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -288,6 +262,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
