@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T22:00:24.736Z",
+  "generatedAt": "2026-11-19T23:00:25.198Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -63,17 +63,6 @@
           ]
         },
         {
-          "title": "Latest CS2 Update Fixes Cobblestone and Introduces X-Ray Scanner for Swiss Players",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHltN0xKWXBzSGpEVzFibXJuVklJZnMzYTBYNEowUWtiRTZEUmdFbFQ0VFBYSmo0Rkd2b01JUE83RGh5YVpLb2t5WUxibDBZbGt5R2JJV2JxZ3BSclZlb2NOUTQwR0dsaFEwRUdVV093Z3ZTcktEbG53SDlEQzBUQjVyU1B1SlYxeS16QmJtRFpVMDFXVDFTWEROMmZUeFZ0Q3RNRlFaT1MwNWRqSlc0NDZ1Y2huLUJlLUJF?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-19T12:19:22.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
@@ -95,7 +84,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "HULIGANI beat Nemiga 2-0 again to set up Froglings clash at DreamLeague Division 2",
@@ -106,6 +95,28 @@
           "level": null,
           "why": [
             "dreamleague"
+          ]
+        },
+        {
+          "title": "Team Liquid Land Argentine Support Ackerman Over LYON to Pair With Josedeodo in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVZ3NUFYQzVWa1BBSnFOZWJsLXowWFRNdVZtM3gzVFRqeDlIbUdaX1lDUkhZeWNVZmRGRmliazJsNHFxazYxWGozakUxYkNzVGxsd20zeFlVT1RkYWV4LWpuUlZXc0YzZV9OYk9TTFFqZkV5ZnlaT2NsNEJTVDZ1VDJoeHlxRkxxN1phRnFIR3A4d1Z1SVV3d1JxQWRSWnlNdmc?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-11-19T10:04:53.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
+        {
+          "title": "PARIVISION down Team Spirit to claim 1win Essence III championship",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXJDVWpTcm05LUM1eE5sNVM3aDBGdDMtYlBSZmVweUcxZ0E0MzFGM2hGVU1jQmpfbUZYcXRVYXpSZUlBdHpyZ1duZEZZSEhqU3JwNFJqaTBIU2VIQ0JwNmhZWHI5aTJRVElOOXJzWkZsWUFtNnFhSENHdm9uOFNBV0RrWjNlQWx5QUhEaGdZQkhGbFlpQW1VNEpwa1V2U2Z1OXA3NVN3?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-19T09:40:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
           ]
         },
         {
@@ -170,12 +181,37 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Classic Tetris",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Classic Tetris: How a retro puzzle game became a competitive sport, and who won in 2026",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0lrcldXY1dneFAtNFJGbHZRUk1GYlAzMS1kdTAwWHFKdFY2eU9Jb1dvUWdGOE9zTVp4Vll5RktNWEdmVk9ZWGVIWWFwNjFrb1VBS3dYRDExOFZOZnFta1VseDNwN3Y1N29yMkNIdjhBVEZ5Y0hodjdKRWVFdDRBcGM1dGM0Rm80bmZNeXlZazJMQW44cFctb0ttSGN1VXJJbVZMZTk3aTI4MDdIdDhXZUZ4WFlyZzAwMENCQlNzQXM5UkVwZlhBVHBfal90ZmPSAdwBQVVfeXFMTk0ydy13ZGV4ZEFydEVhWHZPU1dJTlBBQVdBVGc0RllYTzlXY1FzaURWcUc0MFUzQWdGSUZJQzNSUllacFdJbUE5bWJna043NDBQaEtWSTIzVURRQVdTV203X21pVHlWWW5fYzlmN0YyMVhlck1LdTNZUTFUblVNLWFWMVFuM2NBeTJoVDkxZVpuamdsa2VIbHFhcjZicFBvWFlIQ0c1MkhraGF4VTdDN1FZUWsyRnhRUUp5Rlp4SGVXUkZtWjVoNmJfVE8wWjVlMF9MQklFYURDTUtwdQ?oc=5",
+          "source": "Google News: Tetris (IndulgExpress)",
+          "published": "2026-11-19T11:17:12.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "won"
+          ]
+        },
+        {
+          "title": "Washington Post. . Over 40 competitors from across Europe gathered in Copenhagen for the annual Classic Tetris European Championship, which has been staged each year since 2015.",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEFVTTJfcVVXbmFtcVVVOVlqdWlhU2VSZmVxVGR3dEJCRFByY0NrWUk1Q3lqTDk4aXRTT1VlRWRVT05aSzVQa1NaWFFhTFdlcEJJc3E4QlY2N1FZcWdwRVl4YTFxRmVIN0tadm1ZZ3hOZ2xXYUVHUl9QNExoUHpETDVEbkVuT3dQNmtWUkFfd3R6ZmFnMGZZNmpTS2w4ZUtqOTNJaW1FdmhhRHpEOHlv?oc=5",
+          "source": "Google News: Tetris (Facebook)",
+          "published": "2026-11-19T02:30:02.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "Melee",
     "AoE2",
-    "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
