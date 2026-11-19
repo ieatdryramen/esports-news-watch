@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:35:15.011Z",
+  "generatedAt": "2026-11-19T00:05:16.513Z",
   "source": "start.gg",
   "completed": [
     {
@@ -246,7 +246,7 @@
       "game": "Street Fighter 6",
       "tournament": "TNS Street Fighter 6 #173",
       "event": "Street Fighter 6",
-      "entrants": 137,
+      "entrants": 166,
       "online": true,
       "major": false,
       "startAt": "2026-11-19T01:00:00.000Z",
@@ -350,7 +350,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "Sunrise Trials II",
       "event": "Melee Singles",
-      "entrants": 65,
+      "entrants": 64,
       "online": false,
       "major": false,
       "startAt": "2026-11-21T16:00:00.000Z",
@@ -408,6 +408,19 @@
       "startAt": "2026-11-22T00:00:00.000Z",
       "endAt": "2026-11-22T04:59:00.000Z",
       "url": "https://www.start.gg/tournament/a-diy-friendsgiving/event/diy-3s-singles"
+    },
+    {
+      "eventId": "1738498",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "HEATWAVE Tournament #4",
+      "event": "Heatwave Tournament",
+      "entrants": 86,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-22T13:00:00.000Z",
+      "endAt": "2026-11-22T22:00:00.000Z",
+      "url": "https://www.start.gg/tournament/heatwave-tournament-4/event/heatwave-tournament"
     }
   ],
   "games": {
