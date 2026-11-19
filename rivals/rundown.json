@@ -1,68 +1,16 @@
 {
-  "generatedAt": "2026-11-19T05:30:24.319Z",
+  "generatedAt": "2026-11-19T06:25:40.464Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 1,
       "stories": [
         {
-          "title": "Marvel Rivals November 19 Patch Notes: Second Anniversary Event, Free Units, and More",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjdpUm8yLUZnTFBFZmlvMnZiLUM2WTlwNkxMd1UzbHpwaGlGQ2xXc1pqQmZiZTRxdTJfOHRtWUpJMjMtTmdWdUVxcGxjM09IQ3dLeE9aYjRablJCaWd5V1JSVlhQWHhpS1dCdkNNVVA1bTQwVTZnTWUwLUVYUUtiZnRn0gGHAUFVX3lxTE8tZDl5azA1aEJJeUJuSkE5cHVtYXN5ZnZ5bWRTaDJsSzVXYmZvSWtfejI4UGtVQ2RWVlA5RlRhSDR1Q01zQlNzT3dVbHphQnBXWlg5OWRTemlwS3FpV3pXRU80N0JhYXZsZXROZmxoVDFndlUzNXFJd0tqRy1XSEZISGJUUzl1RQ?oc=5",
-          "source": "Google News: Rivals esports (Beebom)",
-          "published": "2026-11-18T20:42:12.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 adds Strategist Nightcrawler and anniversary events with 2,500 free Units",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnE1MkR0NlAzLTctaHBZUmQyTjVHWWV2WmRHRWRmMDJoUzJXQU54cGl2M3lPT0wtbW5xcFROTFR6WFkwSU5rdGloUVlXVWx5b283dlI0RDM0Nk5keVRUcEIyWDNrUTl6YWlGdm9SNmkzVG1IcXVxemdWR3JnVkEyRlpkOFdyRld0QzYzY0xRUzh5M3doejdYdHkzcTRZcGlsaVdDWElfc1VpUkY1eXd5TTlvX3dPSTNWLWRfZTJlSjhRVHVIWTVHS1pmZHhVN2p1ejNMdy1qcy1fZDU4M0dBREhIRQ?oc=5",
-          "source": "Google News: Rivals patches (GosuGamers)",
-          "published": "2026-11-19T02:26:40.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Announces 2nd Anniversary Event, Free Units and Skin Up for Grabs",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iMXdUMS00UEcxS25RMk1lOUx3NkFWenlCWVE5ckRnVnRlck4xZERFV3dWQVd3S0Jib0FIWUZkTFlpUVBDX09pOHRqTVVDUWJIaEg0YVk4NUZINkhvbHNVS3lxSTlYZzlxQThBc29JMVVsbmVTdXQ40gF8QVVfeXFMTWNhbHJXdjBTT25QVjVqU1hwaDBMNW1FYU5zcVJpZ05HWndOV3hYQWFueWhjQWlFaEhFT0FtaGQtckQ1bGtqTFo0Vm1FUGNxWTVqNERIckRSWTduODFrYXE2ZkhmTTc1Rm10aXNkT3dHckJDOFBCNnlCVW53eg?oc=5",
-          "source": "Google News: Rivals patches (Beebom)",
-          "published": "2026-11-18T06:42:44.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "announces",
-            "-skin"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Patch Brings New Costumes With No Server Downtime",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzNiX3dHbmRHaVA2M01CRUY1VmRQOGt2My1ObTNqNVIyU2FUSTZLYWRNSlZUMmxPTWxSZXF2blB4eDAyMkpBX21GVW4tM1F6UG9mTC1seU8zdGZtU1o1TkV1WHF6Yk5oZWpLTkxOZVlhQ3hycXZQaTBaWmZtenp4Y19Jc0hUZl9peHc?oc=5",
-          "source": "Google News: Rivals esports (Happy Gamer)",
-          "published": "2026-11-18T19:38:48.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Reveals Second Anniversary Festivities",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlUxbU9qYnNKejcxTnFyalVVb2UyaklCYjh0TmZPek9MMldYSzVnbWs0WmFzd1hCLUQzMzBlVXFiaGlhc2hFTVdQTzJxdjBnNlN6ZUN6VHl3bUN5Q0lmYXVVWlhqZ2xnajBvN1pXaDJMbzgwaTJFR1gtTWRPN1NLWlZhX2lTalY1?oc=5",
-          "source": "Google News: Rivals esports (GamerBraves)",
-          "published": "2026-11-18T09:38:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Rivals' Day 2026: Anniversary rewards, free Deadpool skin, gacha event, and more",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nRVUzSXk1TkdXemRfaks4anFua2ZmUGxra3FYX3JFbzEyMUxjR25MLWpocUw2d2ltR21zSnc3UUN1RFhuUHRUd0FHU1lSMDlmTldPWkdtNjVnRThZZ1I3R09sRTRpbF9fZkY4NTJpdjdRekVwYk5Z?oc=5",
-          "source": "Google News: Rivals esports (Esports.gg)",
-          "published": "2026-11-18T23:43:48.000Z",
+          "title": "Marvel Rivals Rivals’ Day 2026: Anniversary rewards, free Deadpool skin, gacha event, and more",
+          "url": "https://esports.gg/news/marvel-rivals/marvel-rivals-rivals-day-2026/",
+          "source": "esports.gg",
+          "published": "2026-11-18T23:42:02.000Z",
           "score": 0,
           "level": null,
           "why": [
