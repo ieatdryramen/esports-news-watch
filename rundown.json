@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T15:50:18.145Z",
+  "generatedAt": "2026-11-19T16:45:19.677Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -16,18 +16,6 @@
           "why": [
             "shut down",
             "vitality"
-          ]
-        },
-        {
-          "title": "ZywOo Wins Esports PC Player Of The Year 2026 Award",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYVhiS1lfcWhVUGtuMDZEb2JRMm93MGtIS2VZMjllaE0wNmM4enJWc1BhajFldmZDM0RlSm01VGdUeWRLdzZiS1V1NGE1ZTc5YzVWN3lUNzFFVktSR2tSSlZzSmliWG1FR2hhMGtBeEtFOFFsTkdxNzFB?oc=5",
-          "source": "Google News: CS2 (Hotspawn)",
-          "published": "2026-11-18T23:38:22.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "wins",
-            "zywoo"
           ]
         },
         {
@@ -75,17 +63,6 @@
           ]
         },
         {
-          "title": "FURIA’s Triple Roar and FalleN’s Farewell Make Brazil the CS2 Plotline to Watch",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNE43bDJGNG9qQ3A1V2MtUnlzVmhad0VDV0ZHNFJOUmhMSjROYmlnR3d3NlVaMEpIOGJHT21tMGJiSTRSYjJ0UURWZVZyQ1hLM1Q3UWN3T3l1YWMyaFhqOXZDS0dUNG5IMXowamp0WkRtaFRsMW43RkdJd19GMzVmQlRoZ09EQU9EZE9fSV95MUZoYi1zUGZSWnJ1SmtNWUwxSE42dVpOWEMyM29jYWUxNkttWQ?oc=5",
-          "source": "Google News: CS2 (Spiel Times)",
-          "published": "2026-11-18T16:21:29.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia"
-          ]
-        },
-        {
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
@@ -125,20 +102,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
-        {
-          "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHpheFlXM0R5TXpWUHRSVzZ4YnRaT01YdDFrYi1IRnR4Vk5lUVlNVlktWmpLT1pjTTVYVFJIazQzS25SRjk3dDRZVE8yNEJtQ1lSU2pYdGZSeWl6STNFRlpYd1hVRXI3QWRpOWxQbWZKYVdiRkxLRXI1YnVtamlYYURKdVYwaWNmREQtTEhsbS1OYWg2WnJyTHJDeGthNkpu?oc=5",
-          "source": "Google News: Dota (Gambling.com)",
-          "published": "2026-11-18T16:11:10.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "grand final",
-            "team spirit"
-          ]
-        },
         {
           "title": "HULIGANI beat Nemiga 2-0 again to set up Froglings clash at DreamLeague Division 2",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUV80NlJLQ1h0OGNxZm95M2JXTmczWTJrTzA0bGZRaVZKWEtGaUZPUXdmSUppSXhPbzMxS3NSSHFnOFhRTkF5MHZ4Qnk4VmRaY0lDY3gzaWFkQlp3X3M5SFZRYXpIR3A2LWNSclB6SGZWYlFBcDMxdExDX2pCRUE3Z3NZZm1acVpuU092cDhNZ0ZnSGVYRTE3ZnZPSFNKaTFycGxwUV8zdVIzRTJIQWFWekF2N0txNTY0QzBmOFVB?oc=5",
@@ -159,6 +124,17 @@
           "level": null,
           "why": [
             "team spirit"
+          ]
+        },
+        {
+          "title": "Dota 2 gets a major update during a tournament final",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3RvS1dCTDBzZUxSVDV0NWR1bDZDLTZUMHhGQkY1V0dTdDVRU2I0YzJRWXhXQWRCTFVtSmp3T3VVTGNBQ09pTGE0RV9zb0dyNUhKTlN3ZkRLZDh6ZEdHeThLaXl0WHBEeGI0THZnR0NxQ0xSTVd1RWJNRk4yejFwV1F3eVdVNk1DZ0dESGpCbEdOLUxvZmJhVWpn?oc=5",
+          "source": "Google News: Dota (WIN.GG)",
+          "published": "2026-11-19T14:16:31.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
           ]
         },
         {
@@ -196,15 +172,6 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZHkxYUhnTkJXd25sSkdYYjNVZlA5SEFQUGw3OXM4bkI3eHl0cEtvWWU3MDdfX25GUVlFZmNLdmdmSEZPOUZJZmlFbjVpM2hGTUhxVFJrak9xMXNoNjZ4UHZKSHBZd3V5TVYyZEVXejlSemZtMktnag?oc=5",
           "source": "Google News: Dota (Hotspawn)",
           "published": "2026-11-19T03:38:22.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Nix named the condition under which Dota 2 will start to decline",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lc2RwNzhJcVJXRlNyV21wc29ZeWU2MEpyM0NSWEdTbi1NWXlVUlhRMkdzTzhBaWF4N3pReTJPdDVaMWhjai1QcVlpTm01OEltaW9qT3RlVDE1Y2hKMVFoQzVKN0xaSURkSExYQ0R3VTBJUGdhdWhndQ?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-18T16:08:00.000Z",
           "score": 1,
           "level": null,
           "why": []
