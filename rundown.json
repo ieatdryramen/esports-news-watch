@@ -1,27 +1,7 @@
 {
-  "generatedAt": "2026-11-19T13:55:15.738Z",
+  "generatedAt": "2026-11-19T14:50:26.266Z",
   "windowHours": 24,
   "scenes": [
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "‘Angrybird’ Al-Shalabi crowned CPT World Warrior 2026 Middle East champion",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXljdTN6VEIxX0RnNXg0ZkpaUERCYTJPdFBFaXFPWWJLRjhLdDBOa3BPaXlsZ256bEo2QXpkZFp5NXctTnR6OGM1VWxQY0d2SzFfMHdKV2pNczJnbGxDU2d1SnkxRUZaRHVxRV9fa2NadmRTOHUwN1ZqQjRfTzUzcTRCVGh6VEhadm1UcElBMjRCZ29pSW5ZN2pvOHo1U0dIUHhhNzVlaEtpZ0VLa2tOcnV6a0ZzdnFOVlBv?oc=5",
-          "source": "Google News: Street Fighter (Arab News)",
-          "published": "2026-11-18T14:08:16.000Z",
-          "score": 12,
-          "level": "breaking",
-          "why": [
-            "champion",
-            "crowned",
-            "angrybird",
-            "cpt"
-          ]
-        }
-      ]
-    },
     {
       "scene": "CS2",
       "storyCount": 13,
@@ -48,6 +28,17 @@
           "why": [
             "zywoo",
             "vitality"
+          ]
+        },
+        {
+          "title": "PGL announce Singapore Major talent lineup",
+          "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
+          "source": "HLTV news",
+          "published": "2026-11-19T14:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -95,21 +86,10 @@
           ]
         },
         {
-          "title": "Cobblestone Returns to CS2: How to Play the Iconic Map",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUmN1Q1lSSEhEYjJjQnRYTnZodzRIc3dwTWFMdnU0MTdmV2ZwUXJfRm9VcnBZRlBmSkt1YnNWYmgtOWVmUXBKdmthdklnSWgtaXlmZnp4TVNVeW9TQjFVT2JpUVhVOXlCOXBVTXo1VzU1TTg?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-18T14:13:26.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        },
-        {
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
-          "published": "2026-11-19T09:13:00.000Z",
+          "published": "2026-11-19T13:53:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -295,6 +275,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Tekken",
     "Legacy FGC",
     "Quake",
