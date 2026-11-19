@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:40:20.570Z",
+  "generatedAt": "2026-11-19T07:40:20.430Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 15,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -154,7 +154,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
@@ -194,15 +194,6 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lc2RwNzhJcVJXRlNyV21wc29ZeWU2MEpyM0NSWEdTbi1NWXlVUlhRMkdzTzhBaWF4N3pReTJPdDVaMWhjai1QcVlpTm01OEltaW9qT3RlVDE1Y2hKMVFoQzVKN0xaSURkSExYQ0R3VTBJUGdhdWhndQ?oc=5",
           "source": "Google News: Dota (Hawk Live)",
           "published": "2026-11-18T16:08:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Main title contenders for Dota 2 BLAST SLAM IX esports tournament",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFVEZWRnX1lrNEw4ZE9sRFBJNm5wRFVEa0VfYy1OS2d1U0ZjZ2JPQ2QwcUNfUkZyUDYzaFpyaUlfRUN2N285dTZlSlZ5bFV6Y0hQOGFIRnRpQnRXRmcyR0tITEEyd01rMHNMNnMyT2J6eDBfc09pZlRSdGxSVHhDdzhPVVpPSlh5Z2g1eXRqLW5EZVNPWXRlNVFod1NPQ21rRFpNZHJnbUJjMlE?oc=5",
-          "source": "Google News: Dota (BusinessMirror)",
-          "published": "2026-11-18T06:56:17.000Z",
           "score": 1,
           "level": null,
           "why": []
