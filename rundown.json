@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T18:45:24.175Z",
+  "generatedAt": "2026-11-19T19:45:22.077Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -28,18 +28,6 @@
           "why": [
             "wins",
             "zywoo"
-          ]
-        },
-        {
-          "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGJDVjZFMDdQSURPM2c2ZklqRFhVdmdXRDBnU3UyZjRsVlpoVkRhaFhSYlN6U2c2MDdYTG00UFpQMDdhLXZXTDNXNkx1R0pHUnFYa1VYMWd1RnJxOHZkQ3dYd3ZiTXlFRm1yd1I4N25VU214SjdQM1FCejlYMzRQb1puZXhXZWR6b3g1dDQzQmc?oc=5",
-          "source": "Google News: CS2 (RG.org)",
-          "published": "2026-11-18T18:59:15.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "zywoo",
-            "vitality"
           ]
         },
         {
@@ -111,15 +99,6 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlRQU0g3R0dZY2VKVFpZaXJJVWRnWFB4cGVzZ0V2ekZaUHVyaG5XNnlmOFBvVjIzbnFOdkFJcEJldHYzNy1XNFp4RGdJdXNoVUNxUHdQZW1VXy1EdGRLNGlzTjVWSXgydm50ZWFUOWVnUmw5aXhwYl9aZFRwRjZOOXBOdkY4NjZvSVE?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
           "published": "2026-11-19T00:03:52.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Esports Awards 2026: Triumph of the French Scene and Counter-Strike 2 Dominance",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXA0YmxSZlhBVi1VMjlLZmw4SzZhd2psWFZVQ2JTdWlaYmkwSGQtcXFib3NmOUFGY2ZjX1B2MGF1X1VtZEVjbFpFcTU3ZWNoZ01FbFM2NzJOSG56d281bmpGNVd5SnVYbG1UQnJKYVpjeWVrWjZrSWZ1aVNkZGJDczM3ZXA5cnRzeUxCa2xTbDhnLV9RejJkUlA5X2F1aWU4WVNSUnRJWmE1NXNMeEw1SGlaY2w0dFnSAbcBQVVfeXFMTzVwNGJsUmZYQVYtVTI5S2ZsOEs2YXdqbFhWVUNiU3VpWmJpMEhkLXFxYm9zZjlBRmNmY19QdjBhdV9VbWRFY2xaRXE1N2VjaGdNRWxTNjcyTkhuendvNW5qRjVXeUp1WGxtVEJySmFaY3lla1o2a0lmdWlTZGRiQ3MzN2VwOXJ0c3lMQmtsU2w4Zy1fUXoyZFJQOV9hdWllOFlTUlJ0SVphNTVzTHhMNUhpWmNsNHRZ?oc=5",
-          "source": "Google News: CS2 (Players)",
-          "published": "2026-11-18T18:59:02.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -229,23 +208,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Optic Texas Named Esports Team Of The Year 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRHVRWkpWZDZGUVpUVHdrNHlrZk9ycVJNTy1EdzRVRlYzRWFxOHV0MmQxWk5OMUFMT1FuVFF3M3F4dTBNVm5sdWpCM0NRLTRVYng1TXJfSGhjLWF5VTk3RU5sRVMwaDcwVHh1aDBjSEdtVTA?oc=5",
-          "source": "Google News: CoD (Hotspawn)",
-          "published": "2026-11-18T19:38:22.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "optic texas"
-          ]
-        }
-      ]
     }
   ],
   "quiet": [
@@ -257,6 +219,7 @@
     "Street Fighter",
     "Tekken",
     "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
