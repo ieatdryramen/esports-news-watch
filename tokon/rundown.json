@@ -1,46 +1,8 @@
 {
-  "generatedAt": "2026-11-19T11:20:20.875Z",
+  "generatedAt": "2026-11-19T12:15:47.885Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Tokon",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Marvel Tokon: Fighting Souls patch notes for November 18, 2026 update",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOUZ0V3hDeGVuTG1SR2UzNzNMY0xQVTEwQWlNS0VFS2lzM1RKWDRtWFdHYUVUNmJVRFpTb2hpWVdyX0xRZEFYaHY0NU1zNUdHTWZ2cUN0SkJzMHI2R3pyU09fZ0daVG5JUWZ1TWFvd3gtbmRRT3RINFNtLTJ5TUV2eHRGVQ?oc=5",
-          "source": "Google News: Tokon (EventHubs)",
-          "published": "2026-11-18T17:23:33.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "update",
-            "patch notes"
-          ]
-        },
-        {
-          "title": "MARVEL Tōkon: Fighting Souls Update 01.004.003 Patch Notes",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5aUNWYUtrXzdtZmFCYzdSeTBtaVRsS0ZoUUhlUE94THROZFVYcnEya0tZQ2xuUkFfaDh1cTJFSVZkcEloT0NmTE9nWlY5NVdYaFR2S1RualF0ZkZ1OW1qX2ZtTUNnb25ERVRob015eXdNdTdHYVp1ejJZWQ?oc=5",
-          "source": "Google News: Tokon (TwistedVoxel)",
-          "published": "2026-11-18T11:39:56.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "update",
-            "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Tokon stories",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWDA1UV92Wm5JdEwydHpGZk1lYXFkMHh2Z2FxWGg4VV9JS1BFNm9wdHllQThkNkY4S1dLMHNsSEZGLTBmUUpYSzBycU1VSmlFNlh5NGRXSjBIZy00c3kwLVFfd3Y?oc=5",
-          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
-          "published": "2026-11-18T22:20:40.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Tokon"
+  ]
 }
