@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:05:56.034Z",
+  "generatedAt": "2026-11-19T18:05:38.088Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,15 +7,14 @@
       "storyCount": 4,
       "stories": [
         {
-          "title": "Marvel Tokon: Fighting Souls patch notes for November 18, 2026 update",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOUZ0V3hDeGVuTG1SR2UzNzNMY0xQVTEwQWlNS0VFS2lzM1RKWDRtWFdHYUVUNmJVRFpTb2hpWVdyX0xRZEFYaHY0NU1zNUdHTWZ2cUN0SkJzMHI2R3pyU09fZ0daVG5JUWZ1TWFvd3gtbmRRT3RINFNtLTJ5TUV2eHRGVQ?oc=5",
-          "source": "Google News: Tokon (EventHubs)",
-          "published": "2026-11-18T17:23:33.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1FZa3I4WkFTMjAycEZ6YzFZWThkOWlyUllxOXh0Uzc4RjMtSGFUQ3lpaEFXUmRJX1FWbTNrVVFvdTllTWdTYUx3S3IydWI1WTJQV0Q2WnlvbFA2UGIwOHZjeFBfUVpMRi15N2ZBUjNlNnN5VGdPS0FFV1VrcVZWQ0pTZVI1alkwMmdWLUc5WUtLQjN3N2ZGTFFNQ1pKRmNkcWZN?oc=5",
+          "source": "Google News: Tokon (TechJuice)",
+          "published": "2026-11-19T08:50:41.000Z",
+          "score": 4,
+          "level": null,
           "why": [
-            "update",
-            "patch notes"
+            "dlc"
           ]
         },
         {
