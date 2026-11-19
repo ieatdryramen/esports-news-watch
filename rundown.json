@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T16:45:19.677Z",
+  "generatedAt": "2026-11-19T17:45:24.582Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -16,6 +16,17 @@
           "why": [
             "shut down",
             "vitality"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026: Player Ages and Countries",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IV2w0YzlBazRKVlVtU2RFdkZ3em4zcTItTUtQejJacm01SlJBVktnbmVIRmxLbDV3UzNOU3JudHNiM3dzejFYV1JfbC1xVFZKRU92WFVlUURpTzFzOTdsbDdkSHVlOGUzbmc?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-19T17:26:15.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -52,21 +63,10 @@
           ]
         },
         {
-          "title": "G2 Esports x Umbro: Every Piece in the New Football Streetwear Collection and What It Costs",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53M2JXWnAwTF9ab0xDTU5NZzdhYmg2ZGNRaHVpMENZYjNiSFp4V1d0dmFTNVZBNGFpZUtPSWtEU2xLYkxqRGxhWEpIWkZDQlhyVWpNOThjQzFWRm9GeThHY2xPSEE3bnFSNkdacg?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-18T17:01:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "g2"
-          ]
-        },
-        {
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
-          "published": "2026-11-19T13:53:00.000Z",
+          "published": "2026-11-19T17:40:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -85,15 +85,6 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXA0YmxSZlhBVi1VMjlLZmw4SzZhd2psWFZVQ2JTdWlaYmkwSGQtcXFib3NmOUFGY2ZjX1B2MGF1X1VtZEVjbFpFcTU3ZWNoZ01FbFM2NzJOSG56d281bmpGNVd5SnVYbG1UQnJKYVpjeWVrWjZrSWZ1aVNkZGJDczM3ZXA5cnRzeUxCa2xTbDhnLV9RejJkUlA5X2F1aWU4WVNSUnRJWmE1NXNMeEw1SGlaY2w0dFnSAbcBQVVfeXFMTzVwNGJsUmZYQVYtVTI5S2ZsOEs2YXdqbFhWVUNiU3VpWmJpMEhkLXFxYm9zZjlBRmNmY19QdjBhdV9VbWRFY2xaRXE1N2VjaGdNRWxTNjcyTkhuendvNW5qRjVXeUp1WGxtVEJySmFaY3lla1o2a0lmdWlTZGRiQ3MzN2VwOXJ0c3lMQmtsU2w4Zy1fUXoyZFJQOV9hdWllOFlTUlJ0SVphNTVzTHhMNUhpWmNsNHRZ?oc=5",
           "source": "Google News: CS2 (Players)",
           "published": "2026-11-18T18:59:02.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Counter-Strike 2 earns honour at the 2026 Esports Awards",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aU1ozbFlrQXdCSnV6SXVId1lQN0hOMWluRVlrTzVsWHNYN0w1aVlyR3FrR2NGdWxDSjBILUV0RDRkNWpvSnlMM2FpNWljejRZWENSQldULUxjUi0yVS1xRjRnU2ZySFp1eVlF?oc=5",
-          "source": "Google News: CS2 (games.gg)",
-          "published": "2026-11-18T17:36:07.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -220,24 +211,10 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "PokéMelee Combines Super Smash Bros. Melee & Pokémon Colosseum",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnlSTllRVHFGMy1McnplZkpzMHQzUGw5X1JlR0FVWXR3WWt3Z2doeE96LXZPVldvaW1WcXNpVC1sNWdlZ1NJR3BBcC1aVG4xekkya3ppODlLQXAxS2FOWjZvanNhUHdfdlB6MjRISmk2djl6WWRndnhUcjVLYU0xNzNOTXZRVXVQcFE?oc=5",
-          "source": "Google News: Melee (Retro Dodo)",
-          "published": "2026-11-18T16:50:51.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Brood War",
     "Trackmania",
