@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-19T10:20:41.519Z",
+  "generatedAt": "2026-11-19T11:20:19.987Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 8,
       "stories": [
+        {
+          "title": "Marvel Rivals Update 1.000.118 Patch Notes (v1.83)",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhalZrbTlTUWM4OTZnclRVQUsxeG5makRXXy1aNG1xQldpeGRyUG8weUludUE0MWVJclRNMGQ0OWNaYWpxNTA4R3RTcV9kNDBweE02Y3FqeDdUalExNkprNTItZ1NYOXZwX2NQYkNIdmNzR1JsUnhUTkVOVjJ3Zw?oc=5",
+          "source": "Google News: Rivals esports (UpdateCrazy)",
+          "published": "2026-11-19T10:34:59.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "update",
+            "patch notes"
+          ]
+        },
         {
           "title": "Marvel Rivals Version 20261119 Patch Notes",
           "url": "https://store.steampowered.com/news/app/2767030/view/703285469074424209",
@@ -26,6 +38,17 @@
           "level": null,
           "why": [
             "patch notes"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Adds White Fox’s Jade Majesty Costume on November 19",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFR1ZDNtSndEYVBoc1gwM2hqRHVmR3lkdm4wMWZPbDZzcTN4MnBOSTZGMF8zS3dkNXBLZU5MNkJYRVdQSUZuYjhNMWFNNUpJNHlNVmFZRXB4V0RyZXE1NU1XV3BrdUhWZEhqa2k2SUR5TVJpUURtSWdwaVl3WW05Qg?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-19T10:34:26.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
           ]
         },
         {
