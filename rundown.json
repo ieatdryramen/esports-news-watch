@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:00:27.242Z",
+  "generatedAt": "2026-11-19T12:55:29.484Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 10,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -36,17 +36,6 @@
           "why": [
             "zywoo",
             "vitality"
-          ]
-        },
-        {
-          "title": "Media: Inner Circle owner detained in Italy",
-          "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
-          "source": "HLTV news",
-          "published": "2026-11-18T17:48:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "arrested*"
           ]
         },
         {
@@ -94,10 +83,10 @@
           ]
         },
         {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-19T09:13:00.000Z",
+          "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlRQU0g3R0dZY2VKVFpZaXJJVWRnWFB4cGVzZ0V2ekZaUHVyaG5XNnlmOFBvVjIzbnFOdkFJcEJldHYzNy1XNFp4RGdJdXNoVUNxUHdQZW1VXy1EdGRLNGlzTjVWSXgydm50ZWFUOWVnUmw5aXhwYl9aZFRwRjZOOXBOdkY4NjZvSVE?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-19T00:03:52.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -130,15 +119,6 @@
           "why": []
         },
         {
-          "title": "ENCE through the years: Success, setbacks and reinvention",
-          "url": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
-          "source": "HLTV news",
-          "published": "2026-11-18T15:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "All teams qualified for CS2 Singapore Major: Final VRS invites and key storylines",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1FFZFNvY3Zsb1MteWhLZTJWMUYxaXVrUjN5MUFZOF9hWGNPc3FybHZkZ090ZGpMZGdLSmdDSzNaaTlfSmZFT18tNk5aN1l6Ri00Z3hLLTNYem9zU3MyYzNoalRZZUFJVlZDdXVncm1QTC1Ra3VSdXo3OEhYWFIydGNjUWcyd3Iyd0owNQ?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -151,7 +131,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
@@ -186,6 +166,15 @@
           "why": [
             "team spirit"
           ]
+        },
+        {
+          "title": "BLAST SLAM IX Dota 2 Tournament Kicks Off Tomorrow: Ukrainian Team NAVI Among the Participants",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGdBTTJFRXI2Z0VRNnE3UnBzXzh6YlVUQ1ZLdk40OTFmRmh0YmxiMnBXZGdMMksxR1QtMVV1dzM1WjgtcElOSDdiREhUcW1GRUw1VTRYWmlZTElGMFFWQkJmTzRBRzVTTndYbkZYb1p3Qm9iYVpDc2Jkd3JsNFJlWGY1ZDF0bkdrWFF1MWpEU2lINHVxSVhTQzA0TEJXUEhsc252S2lmd2dkZk1nZGtHOTY3OVRidVpRdU0zblAwSU5XNkJld0kzcFB2Z9IBywFBVV95cUxOVGdBTTJFRXI2Z0VRNnE3UnBzXzh6YlVUQ1ZLdk40OTFmRmh0YmxiMnBXZGdMMksxR1QtMVV1dzM1WjgtcElOSDdiREhUcW1GRUw1VTRYWmlZTElGMFFWQkJmTzRBRzVTTndYbkZYb1p3Qm9iYVpDc2Jkd3JsNFJlWGY1ZDF0bkdrWFF1MWpEU2lINHVxSVhTQzA0TEJXUEhsc252S2lmd2dkZk1nZGtHOTY3OVRidVpRdU0zblAwSU5XNkJld0kzcFB2Zw?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-19T09:41:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
