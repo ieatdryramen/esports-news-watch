@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:35:37.897Z",
+  "generatedAt": "2026-11-19T10:35:23.757Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 14,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -153,7 +153,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
@@ -165,6 +165,17 @@
           "why": [
             "grand final",
             "team spirit"
+          ]
+        },
+        {
+          "title": "HULIGANI beat Nemiga 2-0 again to set up Froglings clash at DreamLeague Division 2",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUV80NlJLQ1h0OGNxZm95M2JXTmczWTJrTzA0bGZRaVZKWEtGaUZPUXdmSUppSXhPbzMxS3NSSHFnOFhRTkF5MHZ4Qnk4VmRaY0lDY3gzaWFkQlp3X3M5SFZRYXpIR3A2LWNSclB6SGZWYlFBcDMxdExDX2pCRUE3Z3NZZm1acVpuU092cDhNZ0ZnSGVYRTE3ZnZPSFNKaTFycGxwUV8zdVIzRTJIQWFWekF2N0txNTY0QzBmOFVB?oc=5",
+          "source": "Google News: Dota (Esports News UK)",
+          "published": "2026-11-19T10:16:59.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "dreamleague"
           ]
         },
         {
