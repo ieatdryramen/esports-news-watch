@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-11-19T04:35:18.755Z",
+  "generatedAt": "2026-11-19T05:05:17.200Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1757408",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "NYCMelee's Stock Exchange #74",
+      "event": "Melee Singles",
+      "entrants": 64,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-19T00:00:00.000Z",
+      "endAt": "2026-11-19T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/nycmelee-s-stock-exchange-74/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Guava"
+        },
+        {
+          "placement": 2,
+          "name": "Freezus"
+        },
+        {
+          "placement": 3,
+          "name": "nojonsmods | kdog"
+        },
+        {
+          "placement": 4,
+          "name": "Smylin"
+        },
+        {
+          "placement": 5,
+          "name": "Tazio"
+        },
+        {
+          "placement": 5,
+          "name": "K8A"
+        },
+        {
+          "placement": 7,
+          "name": "LuckyStats.gg | Breakfast"
+        },
+        {
+          "placement": 7,
+          "name": "Luu"
+        }
+      ]
+    },
+    {
+      "eventId": "1759214",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Run The Se.T! #132",
+      "event": "Street Fighter III: 3rd Strike",
+      "entrants": 18,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-19T01:00:00.000Z",
+      "endAt": "2026-11-19T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/run-the-se-t-132/event/street-fighter-iii-3rd-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "OPH | Nica K.O"
+        },
+        {
+          "placement": 2,
+          "name": "drose"
+        },
+        {
+          "placement": 3,
+          "name": "Devilmaycats | MrPomegranX"
+        },
+        {
+          "placement": 4,
+          "name": "Good Fighters | Stressedin"
+        },
+        {
+          "placement": 5,
+          "name": "Kendog"
+        },
+        {
+          "placement": 5,
+          "name": "HearseBoys | Frisbee"
+        },
+        {
+          "placement": 7,
+          "name": "gamer | jim"
+        },
+        {
+          "placement": 7,
+          "name": "4077 | TheDrankBaby"
+        }
+      ]
+    },
     {
       "eventId": "1757449",
       "scene": "legacyfgc",
@@ -238,7 +332,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1755768",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TNS Street Fighter 6 #173",
+      "event": "Street Fighter 6",
+      "entrants": 174,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-19T01:00:00.000Z",
+      "endAt": "2026-11-19T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-street-fighter-6-173/event/street-fighter-6"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1635588",
