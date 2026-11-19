@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:55:32.697Z",
+  "generatedAt": "2026-11-19T02:55:15.858Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 18,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -62,6 +62,17 @@
           ]
         },
         {
+          "title": "Media: Inner Circle owner detained in Italy",
+          "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
+          "source": "HLTV news",
+          "published": "2026-11-18T17:48:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "arrested*"
+          ]
+        },
+        {
           "title": "Cobblestone Returns to CS2: How to Play the Iconic Map",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUmN1Q1lSSEhEYjJjQnRYTnZodzRIc3dwTWFMdnU0MTdmV2ZwUXJfRm9VcnBZRlBmSkt1YnNWYmgtOWVmUXBKdmthdklnSWgtaXlmZnp4TVNVeW9TQjFVT2JpUVhVOXlCOXBVTXo1VzU1TTg?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -95,6 +106,15 @@
           ]
         },
         {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-18T20:51:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Esports Awards 2026: Triumph of the French Scene and Counter-Strike 2 Dominance",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXA0YmxSZlhBVi1VMjlLZmw4SzZhd2psWFZVQ2JTdWlaYmkwSGQtcXFib3NmOUFGY2ZjX1B2MGF1X1VtZEVjbFpFcTU3ZWNoZ01FbFM2NzJOSG56d281bmpGNVd5SnVYbG1UQnJKYVpjeWVrWjZrSWZ1aVNkZGJDczM3ZXA5cnRzeUxCa2xTbDhnLV9RejJkUlA5X2F1aWU4WVNSUnRJWmE1NXNMeEw1SGlaY2w0dFnSAbcBQVVfeXFMTzVwNGJsUmZYQVYtVTI5S2ZsOEs2YXdqbFhWVUNiU3VpWmJpMEhkLXFxYm9zZjlBRmNmY19QdjBhdV9VbWRFY2xaRXE1N2VjaGdNRWxTNjcyTkhuendvNW5qRjVXeUp1WGxtVEJySmFaY3lla1o2a0lmdWlTZGRiQ3MzN2VwOXJ0c3lMQmtsU2w4Zy1fUXoyZFJQOV9hdWllOFlTUlJ0SVphNTVzTHhMNUhpWmNsNHRZ?oc=5",
           "source": "Google News: CS2 (Players)",
@@ -122,28 +142,10 @@
           "why": []
         },
         {
-          "title": "All teams qualified for CS2 Singapore Major: Final VRS invites and key storylines",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1FFZFNvY3Zsb1MteWhLZTJWMUYxaXVrUjN5MUFZOF9hWGNPc3FybHZkZ090ZGpMZGdLSmdDSzNaaTlfSmZFT18tNk5aN1l6Ri00Z3hLLTNYem9zU3MyYzNoalRZZUFJVlZDdXVncm1QTC1Ra3VSdXo3OEhYWFIydGNjUWcyd3Iyd0owNQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-18T13:48:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
-          "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-2026-best-stickers/",
-          "source": "esports.gg",
-          "published": "2026-11-18T13:44:13.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Cobblestone Added to CS2 in Snowy Makeover",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91OXdabDdYQlRWR0lNY2d1VXRHTXZucGJ4VktQYlVxMXljbFg1cTNreFk0WXQzU3JtbzdfR3NuMG9FQ09SY2ZFRTFQYzFGMmNzU202NWcxZXd4YkY4c2VfZjVrZlR6dnl3aE93LXVlWFByWWJhSWlkd2Jn?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-18T10:30:17.000Z",
+          "title": "ENCE through the years: Success, setbacks and reinvention",
+          "url": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
+          "source": "HLTV news",
+          "published": "2026-11-18T15:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -152,7 +154,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
@@ -163,17 +165,6 @@
           "level": "possible",
           "why": [
             "grand final",
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXk4WG1xQUl4Zzh6MFhTSlRFWG1BTkl1ZGtKcE5qWnZ1LTJnXzdXZU9MT3ZuYkdFZ1JWRTA3WVVtNktIRU9OVk1VQUxrLWN3REx1QlJRbVpJYjI1MGRjaGhvMEFRU2F1ZmdwQVVNal9OMXFYNzhieTNtTHhtUXdqVEg1UkRrbHV3dzZtTWI5ZThLZVFNUUItYzNkcllucFZOWVlISXBYOVByb2hNRk1DTQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-18T02:35:50.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
             "team spirit"
           ]
         },
@@ -242,8 +233,17 @@
     },
     {
       "scene": "Classic Tetris",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Over 40 competitors from across Europe gathered in Copenhagen for the annual Classic Tetris European Championship, which has been staged each year since 2015.",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpMLVY1LWRkMm93OEtROFVNdjNGMVNrSG9uNEFxS1FNMUU1WHBpTlBVbVozdVhfUWxROVA1bHdqekRsbUxfNnltcGJEZFg1RE9UbDBXVG5GWDJMV0VOVnNrNHBDUDEwajNrajJiQ0RPWGExNGxaTWVIcU51YnZvY09tLUdRVjAxVlFYNElyb3Y2VjJ6aFpsWTNzUjVsZnR5Q3d5ZG85TGgtNVVjVkNtNlN2d2l5bjlsRXBvQzU2NmFnZmYxdHEzZFg2MGtWZTFmQ2stYjdJQVlmaC1M?oc=5",
+          "source": "Google News: Tetris (Facebook)",
+          "published": "2026-11-19T02:31:40.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "2026 CTWC Space City Regional: Timestamps",
           "url": "https://tetrisinterest.com/2026-ctwc-space-city-regional-timestamps/",
