@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:35:15.167Z",
+  "generatedAt": "2026-11-19T11:05:15.670Z",
   "source": "start.gg",
   "completed": [
     {
@@ -375,53 +375,6 @@
         {
           "placement": 7,
           "name": "MjKurase"
-        }
-      ]
-    },
-    {
-      "eventId": "1750564",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "takeraCUP〈マスター以下限定〉 #8",
-      "event": "takeraCUP〈マスター以下限定〉",
-      "entrants": 141,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-16T11:00:00.000Z",
-      "endAt": "2026-11-16T14:00:00.000Z",
-      "url": "https://www.start.gg/tournament/takeracup-8/event/takeracup",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Koyomi"
-        },
-        {
-          "placement": 2,
-          "name": "えいり"
-        },
-        {
-          "placement": 3,
-          "name": "銀河系スパーズ"
-        },
-        {
-          "placement": 4,
-          "name": "むいちも"
-        },
-        {
-          "placement": 5,
-          "name": "すんすん"
-        },
-        {
-          "placement": 5,
-          "name": "ninosk"
-        },
-        {
-          "placement": 7,
-          "name": "itsuse"
-        },
-        {
-          "placement": 7,
-          "name": "comet-SR25"
         }
       ]
     }
