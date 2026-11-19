@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:00:24.214Z",
+  "generatedAt": "2026-11-19T01:55:32.697Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 15,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -62,17 +62,6 @@
           ]
         },
         {
-          "title": "Media: Inner Circle owner detained in Italy",
-          "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
-          "source": "HLTV news",
-          "published": "2026-11-18T17:48:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "arrested*"
-          ]
-        },
-        {
           "title": "Cobblestone Returns to CS2: How to Play the Iconic Map",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUmN1Q1lSSEhEYjJjQnRYTnZodzRIc3dwTWFMdnU0MTdmV2ZwUXJfRm9VcnBZRlBmSkt1YnNWYmgtOWVmUXBKdmthdklnSWgtaXlmZnp4TVNVeW9TQjFVT2JpUVhVOXlCOXBVTXo1VzU1TTg?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -95,17 +84,6 @@
           ]
         },
         {
-          "title": "The 2026 Esports Awards Presented by Thunderpick Celebrates the Industry’s Best, with iShowSpeed, Counter-Strike 2 and Team Vitality Taking Home Honours",
-          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVC0tZHpDV255aXpJZWM3bkVFdk1TVDR3aERPeThqcmhmV2Q0OFBpckdoTlhhUlhsMDBrVTF3cGZzT1Rhb2Y4c2Y4VjZYOGtiRmhEU3Utcm1PcndDdnV6NW1uTGppVFZsdmw4anR0MS1JT3B3bVdMM3YtNi1ubXk2eDVNeE5TVzd5QUNxam1YSHlQeVJiYU94b1dKS0R4SWgtRmt1OUJ2VnA1SGFnSzA4S2ZBa2RYNHFaZ0JPXzJQUnVLeGtGZ3ludTRUU2dnZnVmNjY4bjlGNmZCV2ptV2dFMDNPcVh3LU9jNUx4bFFwNmVZNUJxSlRmYnZlZHNkX1ZfaWdzSjhaaENoT0d2OW13anJTTDhsbF90Snd0V2pERHNhcHBtUVpYTEFxRUN3czR6Z2FoLU1wRVI?oc=5",
-          "source": "Google News: CS2 (Mynewsdesk)",
-          "published": "2026-11-18T05:26:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vitality"
-          ]
-        },
-        {
           "title": "CS2 Nov. 17 update brings Cobblestone back to matchmaking",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDNYd2dqYThBOEJIdWdOMGs0ZnBUNmJud0hqY2c0bHVYSlEySDhuelFIUTNTOXJZVXlqcmxaYWVReXhSdXNJZzU3NkJDbXRwcXRRRXp2VGNTUzAxdFg1dFM4SGR1TUt6dnB0MnkxZU0wMUJkTmNqUjc4a2lSYTg5eWRqcmI0QQ?oc=5",
           "source": "Google News: CS2 (Dot Esports)",
@@ -115,15 +93,6 @@
           "why": [
             "update"
           ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-18T20:51:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Esports Awards 2026: Triumph of the French Scene and Counter-Strike 2 Dominance",
@@ -148,6 +117,33 @@
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45STBRQ19vdEJyTDNZdkdCMDRLMWNtUmw3eGMzb1dyaDlSS1VURHV4MVh4TlB2SlRWVjhKTUVFb3o2RWVPaHhqR2pxU21zM2FFZWdmQi1OdFQybktsV29UTkRnVnpQZGxvNVZtaDlwWm5VVHBidlZz?oc=5",
           "source": "Google News: CS2 (Guided.news)",
           "published": "2026-11-18T15:42:43.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "All teams qualified for CS2 Singapore Major: Final VRS invites and key storylines",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1FFZFNvY3Zsb1MteWhLZTJWMUYxaXVrUjN5MUFZOF9hWGNPc3FybHZkZ090ZGpMZGdLSmdDSzNaaTlfSmZFT18tNk5aN1l6Ri00Z3hLLTNYem9zU3MyYzNoalRZZUFJVlZDdXVncm1QTC1Ra3VSdXo3OEhYWFIydGNjUWcyd3Iyd0owNQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-18T13:48:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
+          "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-2026-best-stickers/",
+          "source": "esports.gg",
+          "published": "2026-11-18T13:44:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Cobblestone Added to CS2 in Snowy Makeover",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91OXdabDdYQlRWR0lNY2d1VXRHTXZucGJ4VktQYlVxMXljbFg1cTNreFk0WXQzU3JtbzdfR3NuMG9FQ09SY2ZFRTFQYzFGMmNzU202NWcxZXd4YkY4c2VfZjVrZlR6dnl3aE93LXVlWFByWWJhSWlkd2Jn?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-18T10:30:17.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -235,7 +231,7 @@
           "title": "Optic Texas Named Esports Team Of The Year 2026",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRHVRWkpWZDZGUVpUVHdrNHlrZk9ycVJNTy1EdzRVRlYzRWFxOHV0MmQxWk5OMUFMT1FuVFF3M3F4dTBNVm5sdWpCM0NRLTRVYng1TXJfSGhjLWF5VTk3RU5sRVMwaDcwVHh1aDBjSEdtVTA?oc=5",
           "source": "Google News: CoD (Hotspawn)",
-          "published": "2026-11-18T19:20:21.000Z",
+          "published": "2026-11-18T19:38:22.000Z",
           "score": 3,
           "level": null,
           "why": [
