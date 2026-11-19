@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-11-19T12:15:39.520Z",
+  "generatedAt": "2026-11-19T13:15:28.417Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 9,
       "stories": [
         {
-          "title": "Marvel Rivals Version 20261119 Patch Notes",
-          "url": "https://store.steampowered.com/news/app/2767030/view/703285469074424209",
-          "source": "Steam: Marvel Rivals (official news + patch notes)",
-          "published": "2026-11-19T09:20:25.000Z",
+          "title": "Marvel Rivals Update 20261119 Patch Notes",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41dlY3QkNZY0N0UTNac3pJa1FzSzkwSlJqbzBlV21KSlJLdlVnakMxd29YUWdwdHBPWkljRnNrY3NLMmRkazNwby1MUU55eW1SUm1lMXBOTGlEanBzV2NpcnhmWXFwTFBZOU5hOGo0eEpJbUJ4cHc?oc=5",
+          "source": "Google News: Rivals esports (TwistedVoxel)",
+          "published": "2026-11-19T12:59:27.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "update",
+            "patch notes"
+          ]
+        },
+        {
+          "title": "Marvel Rivals November 19 2026 Patch Notes",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXFGWVEydWVEQnl0NHFnRnFWcFBfNjhZWFQtckpHUDlfUEVSYUUyZ2NUT0gtbTlRVlU2Y2dNaWpkU245N0dldzFpTUpMZlp1ZktaVEM5OGdRVDVNdFNmWm0zNERqbU5yQ2VZRlY0eGRGXzhqVEM1WThPNS1mRGpXR2U5dm1RSzZtcGc?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-19T09:31:08.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -18,10 +30,70 @@
           ]
         },
         {
-          "title": "Marvel Rivals Rivals’ Day 2026: Anniversary rewards, free Deadpool skin, gacha event, and more",
-          "url": "https://esports.gg/news/marvel-rivals/marvel-rivals-rivals-day-2026/",
-          "source": "esports.gg",
-          "published": "2026-11-18T23:42:02.000Z",
+          "title": "Marvel Rivals November 19 Patch Notes: Second Anniversary Event, Free Units, and More",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjdpUm8yLUZnTFBFZmlvMnZiLUM2WTlwNkxMd1UzbHpwaGlGQ2xXc1pqQmZiZTRxdTJfOHRtWUpJMjMtTmdWdUVxcGxjM09IQ3dLeE9aYjRablJCaWd5V1JSVlhQWHhpS1dCdkNNVVA1bTQwVTZnTWUwLUVYUUtiZnRn0gGHAUFVX3lxTE8tZDl5azA1aEJJeUJuSkE5cHVtYXN5ZnZ5bWRTaDJsSzVXYmZvSWtfejI4UGtVQ2RWVlA5RlRhSDR1Q01zQlNzT3dVbHphQnBXWlg5OWRTemlwS3FpV3pXRU80N0JhYXZsZXROZmxoVDFndlUzNXFJd0tqRy1XSEZISGJUUzl1RQ?oc=5",
+          "source": "Google News: Rivals esports (Beebom)",
+          "published": "2026-11-18T20:42:12.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "patch notes"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Adds White Fox’s Jade Majesty Costume on November 19",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFR1ZDNtSndEYVBoc1gwM2hqRHVmR3lkdm4wMWZPbDZzcTN4MnBOSTZGMF8zS3dkNXBLZU5MNkJYRVdQSUZuYjhNMWFNNUpJNHlNVmFZRXB4V0RyZXE1NU1XV3BrdUhWZEhqa2k2SUR5TVJpUURtSWdwaVl3WW05Qg?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-19T10:34:26.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 adds Strategist Nightcrawler and anniversary events with 2,500 free Units",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnE1MkR0NlAzLTctaHBZUmQyTjVHWWV2WmRHRWRmMDJoUzJXQU54cGl2M3lPT0wtbW5xcFROTFR6WFkwSU5rdGloUVlXVWx5b283dlI0RDM0Nk5keVRUcEIyWDNrUTl6YWlGdm9SNmkzVG1IcXVxemdWR3JnVkEyRlpkOFdyRld0QzYzY0xRUzh5M3doejdYdHkzcTRZcGlsaVdDWElfc1VpUkY1eXd5TTlvX3dPSTNWLWRfZTJlSjhRVHVIWTVHS1pmZHhVN2p1ejNMdy1qcy1fZDU4M0dBREhIRQ?oc=5",
+          "source": "Google News: Rivals patches (GosuGamers)",
+          "published": "2026-11-19T02:26:40.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Opens Times Square Anniversary Hub With No Server Downtime",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlVGakY4blI4a3pTNUhpMFN4ZkdDVGsyOWN5Q0drQzRZZnh1WFhpRjhkekZJNGxmenNrR3Yyc3hkNFUtX1FjZ3N2bjQ2d1Zfa1JEQm92Q1BuX3AwbnNKX2lyNk1tR0c2ZThXOTcwTldETC05S0p3V2lNbXVFcFdwREZNUTJDZE83Wk9qc3ZXU19qcTBuV2M4WFJZb0x4UQ?oc=5",
+          "source": "Google News: Rivals esports (A 90s Kid)",
+          "published": "2026-11-19T12:26:06.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "How to use Marvel Rivals experimental optimized client",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDRmdkUGtVbUFWeWNxVURzdkJjSXpwdEZGNVUwTlNmRExqZXNYYzdaX3p5TjB3ZWNtZHNGNGxlVVNSb3NqdlFmVkctT2RkMW9QUEItQUYxeTlFdV93Tk1lelo5b2FCSDVpQzk5YUtSSHQ2a0N4enc?oc=5",
+          "source": "Google News: Rivals esports (Dot Esports)",
+          "published": "2026-11-19T09:27:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Patch Brings New Costumes With No Server Downtime",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzNiX3dHbmRHaVA2M01CRUY1VmRQOGt2My1ObTNqNVIyU2FUSTZLYWRNSlZUMmxPTWxSZXF2blB4eDAyMkpBX21GVW4tM1F6UG9mTC1seU8zdGZtU1o1TkV1WHF6Yk5oZWpLTkxOZVlhQ3hycXZQaTBaWmZtenp4Y19Jc0hUZl9peHc?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-18T19:38:48.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Rivals' Day 2026: Anniversary rewards, free Deadpool skin, gacha event, and more",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nRVUzSXk1TkdXemRfaks4anFua2ZmUGxra3FYX3JFbzEyMUxjR25MLWpocUw2d2ltR21zSnc3UUN1RFhuUHRUd0FHU1lSMDlmTldPWkdtNjVnRThZZ1I3R09sRTRpbF9fZkY4NTJpdjdRekVwYk5Z?oc=5",
+          "source": "Google News: Rivals esports (Esports.gg)",
+          "published": "2026-11-18T23:43:48.000Z",
           "score": 0,
           "level": null,
           "why": [
