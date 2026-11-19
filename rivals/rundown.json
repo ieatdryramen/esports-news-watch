@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T20:05:33.763Z",
+  "generatedAt": "2026-11-19T21:00:36.125Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 12,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -35,17 +35,6 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXFGWVEydWVEQnl0NHFnRnFWcFBfNjhZWFQtckpHUDlfUEVSYUUyZ2NUT0gtbTlRVlU2Y2dNaWpkU245N0dldzFpTUpMZlp1ZktaVEM5OGdRVDVNdFNmWm0zNERqbU5yQ2VZRlY0eGRGXzhqVEM1WThPNS1mRGpXR2U5dm1RSzZtcGc?oc=5",
           "source": "Google News: Rivals patches (IGN)",
           "published": "2026-11-19T09:31:08.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Rivals November 19 Patch Notes: Second Anniversary Event, Free Units, and More",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjdpUm8yLUZnTFBFZmlvMnZiLUM2WTlwNkxMd1UzbHpwaGlGQ2xXc1pqQmZiZTRxdTJfOHRtWUpJMjMtTmdWdUVxcGxjM09IQ3dLeE9aYjRablJCaWd5V1JSVlhQWHhpS1dCdkNNVVA1bTQwVTZnTWUwLUVYUUtiZnRn0gGHAUFVX3lxTE8tZDl5azA1aEJJeUJuSkE5cHVtYXN5ZnZ5bWRTaDJsSzVXYmZvSWtfejI4UGtVQ2RWVlA5RlRhSDR1Q01zQlNzT3dVbHphQnBXWlg5OWRTemlwS3FpV3pXRU80N0JhYXZsZXROZmxoVDFndlUzNXFJd0tqRy1XSEZISGJUUzl1RQ?oc=5",
-          "source": "Google News: Rivals esports (Beebom)",
-          "published": "2026-11-18T20:42:12.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -110,7 +99,7 @@
         {
           "title": "Marvel Rivals Opens Times Square Anniversary Hub With No Server Downtime",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlVGakY4blI4a3pTNUhpMFN4ZkdDVGsyOWN5Q0drQzRZZnh1WFhpRjhkekZJNGxmenNrR3Yyc3hkNFUtX1FjZ3N2bjQ2d1Zfa1JEQm92Q1BuX3AwbnNKX2lyNk1tR0c2ZThXOTcwTldETC05S0p3V2lNbXVFcFdwREZNUTJDZE83Wk9qc3ZXU19qcTBuV2M4WFJZb0x4UQ?oc=5",
-          "source": "Google News: Rivals patches (A 90s Kid)",
+          "source": "Google News: Rivals esports (A 90s Kid)",
           "published": "2026-11-19T12:26:06.000Z",
           "score": 1,
           "level": null,
