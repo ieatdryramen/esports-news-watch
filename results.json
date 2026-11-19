@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:35:32.080Z",
+  "generatedAt": "2026-11-19T01:05:15.975Z",
   "source": "start.gg",
   "completed": [
     {
@@ -240,19 +240,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1755768",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #173",
-      "event": "Street Fighter 6",
-      "entrants": 174,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-19T01:00:00.000Z",
-      "endAt": "2026-11-19T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-173/event/street-fighter-6"
-    },
     {
       "eventId": "1757933",
       "scene": "melee",
