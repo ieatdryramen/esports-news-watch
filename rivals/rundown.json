@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-11-19T09:20:21.253Z",
+  "generatedAt": "2026-11-19T10:20:41.519Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Marvel Rivals Version 20261119 Patch Notes",
+          "url": "https://store.steampowered.com/news/app/2767030/view/703285469074424209",
+          "source": "Steam: Marvel Rivals (official news + patch notes)",
+          "published": "2026-11-19T09:20:25.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "patch notes"
+          ]
+        },
         {
           "title": "Marvel Rivals November 19 Patch Notes: Second Anniversary Event, Free Units, and More",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjdpUm8yLUZnTFBFZmlvMnZiLUM2WTlwNkxMd1UzbHpwaGlGQ2xXc1pqQmZiZTRxdTJfOHRtWUpJMjMtTmdWdUVxcGxjM09IQ3dLeE9aYjRablJCaWd5V1JSVlhQWHhpS1dCdkNNVVA1bTQwVTZnTWUwLUVYUUtiZnRn0gGHAUFVX3lxTE8tZDl5azA1aEJJeUJuSkE5cHVtYXN5ZnZ5bWRTaDJsSzVXYmZvSWtfejI4UGtVQ2RWVlA5RlRhSDR1Q01zQlNzT3dVbHphQnBXWlg5OWRTemlwS3FpV3pXRU80N0JhYXZsZXROZmxoVDFndlUzNXFJd0tqRy1XSEZISGJUUzl1RQ?oc=5",
@@ -29,19 +40,19 @@
           ]
         },
         {
-          "title": "Marvel Rivals Patch Brings New Costumes With No Server Downtime",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzNiX3dHbmRHaVA2M01CRUY1VmRQOGt2My1ObTNqNVIyU2FUSTZLYWRNSlZUMmxPTWxSZXF2blB4eDAyMkpBX21GVW4tM1F6UG9mTC1seU8zdGZtU1o1TkV1WHF6Yk5oZWpLTkxOZVlhQ3hycXZQaTBaWmZtenp4Y19Jc0hUZl9peHc?oc=5",
-          "source": "Google News: Rivals esports (Happy Gamer)",
-          "published": "2026-11-18T19:38:48.000Z",
+          "title": "How to use Marvel Rivals experimental optimized client",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDRmdkUGtVbUFWeWNxVURzdkJjSXpwdEZGNVUwTlNmRExqZXNYYzdaX3p5TjB3ZWNtZHNGNGxlVVNSb3NqdlFmVkctT2RkMW9QUEItQUYxeTlFdV93Tk1lelo5b2FCSDVpQzk5YUtSSHQ2a0N4enc?oc=5",
+          "source": "Google News: Rivals esports (Dot Esports)",
+          "published": "2026-11-19T09:27:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Marvel Rivals Reveals Second Anniversary Festivities",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlUxbU9qYnNKejcxTnFyalVVb2UyaklCYjh0TmZPek9MMldYSzVnbWs0WmFzd1hCLUQzMzBlVXFiaGlhc2hFTVdQTzJxdjBnNlN6ZUN6VHl3bUN5Q0lmYXVVWlhqZ2xnajBvN1pXaDJMbzgwaTJFR1gtTWRPN1NLWlZhX2lTalY1?oc=5",
-          "source": "Google News: Rivals esports (GamerBraves)",
-          "published": "2026-11-18T09:38:38.000Z",
+          "title": "Marvel Rivals Patch Brings New Costumes With No Server Downtime",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzNiX3dHbmRHaVA2M01CRUY1VmRQOGt2My1ObTNqNVIyU2FUSTZLYWRNSlZUMmxPTWxSZXF2blB4eDAyMkpBX21GVW4tM1F6UG9mTC1seU8zdGZtU1o1TkV1WHF6Yk5oZWpLTkxOZVlhQ3hycXZQaTBaWmZtenp4Y19Jc0hUZl9peHc?oc=5",
+          "source": "Google News: Rivals esports (Happy Gamer)",
+          "published": "2026-11-18T19:38:48.000Z",
           "score": 1,
           "level": null,
           "why": []
