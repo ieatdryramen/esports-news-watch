@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T17:45:24.582Z",
+  "generatedAt": "2026-11-19T18:45:24.175Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -16,6 +16,41 @@
           "why": [
             "shut down",
             "vitality"
+          ]
+        },
+        {
+          "title": "ZywOo Wins Esports PC Player Of The Year 2026 Award",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYVhiS1lfcWhVUGtuMDZEb2JRMm93MGtIS2VZMjllaE0wNmM4enJWc1BhajFldmZDM0RlSm01VGdUeWRLdzZiS1V1NGE1ZTc5YzVWN3lUNzFFVktSR2tSSlZzSmliWG1FR2hhMGtBeEtFOFFsTkdxNzFB?oc=5",
+          "source": "Google News: CS2 (Hotspawn)",
+          "published": "2026-11-18T23:38:22.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "wins",
+            "zywoo"
+          ]
+        },
+        {
+          "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGJDVjZFMDdQSURPM2c2ZklqRFhVdmdXRDBnU3UyZjRsVlpoVkRhaFhSYlN6U2c2MDdYTG00UFpQMDdhLXZXTDNXNkx1R0pHUnFYa1VYMWd1RnJxOHZkQ3dYd3ZiTXlFRm1yd1I4N25VU214SjdQM1FCejlYMzRQb1puZXhXZWR6b3g1dDQzQmc?oc=5",
+          "source": "Google News: CS2 (RG.org)",
+          "published": "2026-11-18T18:59:15.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "zywoo",
+            "vitality"
+          ]
+        },
+        {
+          "title": "Esports Awards 2026: CS2 Wins Best Esports Game of the Year Award, and More",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtlSGtvMWFNTjZpWHlPNF85WmV5TG5BV0RQeG1VRzBBWWhnR0xvQjdPREV6YWo5Vmw3NGl5MW42cm9KRTRpMUVKMWdCeVd6RllrSV9GSlVmTXJ6UEc1Mmc3TnRzdkdQYjNRbUNhZ2Q5SzNETjVJVnEtWXZubXRZa2t0VlY3ckZESUNEeHlfV0ZTX2pwUUp3aVktVlNCTzlDdFdqOUhJQTVUbms?oc=5",
+          "source": "Google News: CS2 (IGN India)",
+          "published": "2026-11-19T13:30:53.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
           ]
         },
         {
@@ -52,14 +87,14 @@
           ]
         },
         {
-          "title": "Media: Inner Circle owner detained in Italy",
-          "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
-          "source": "HLTV news",
-          "published": "2026-11-18T17:48:00.000Z",
-          "score": 3,
+          "title": "Latest CS2 Update Fixes Cobblestone and Introduces X-Ray Scanner for Swiss Players",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHltN0xKWXBzSGpEVzFibXJuVklJZnMzYTBYNEowUWtiRTZEUmdFbFQ0VFBYSmo0Rkd2b01JUE83RGh5YVpLb2t5WUxibDBZbGt5R2JJV2JxZ3BSclZlb2NOUTQwR0dsaFEwRUdVV093Z3ZTcktEbG53SDlEQzBUQjVyU1B1SlYxeS16QmJtRFpVMDFXVDFTWEROMmZUeFZ0Q3RNRlFaT1MwNWRqSlc0NDZ1Y2huLUJlLUJF?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-19T12:19:22.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "arrested*"
+            "update"
           ]
         },
         {
