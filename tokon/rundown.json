@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T22:00:29.309Z",
+  "generatedAt": "2026-11-19T23:00:30.224Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
@@ -33,15 +33,6 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWhnbnNjREM4ZnNkc3Naa3JHdzFWTG00WWZyVUEybTZuOFdDNlg0YWFxVTB0RGpHMDA2TS1SeWxoTWRycWtjcHlpS09qX3NUM3U4eWZSemE0Tl95b2ZhdFEwRlNPVFc2X0RfTUZPWm1DZ0h2M1l5SXFnSkZVb0k1TG5JQ1hxYmtGdEhWRw?oc=5",
           "source": "Google News: EventHubs/Dot/Dashfight (DashFight)",
           "published": "2026-11-19T12:37:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Tokon stories",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWDA1UV92Wm5JdEwydHpGZk1lYXFkMHh2Z2FxWGg4VV9JS1BFNm9wdHllQThkNkY4S1dLMHNsSEZGLTBmUUpYSzBycU1VSmlFNlh5NGRXSjBIZy00c3kwLVFfd3Y?oc=5",
-          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
-          "published": "2026-11-18T22:20:40.000Z",
           "score": 1,
           "level": null,
           "why": []
