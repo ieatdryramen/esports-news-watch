@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:40:20.430Z",
+  "generatedAt": "2026-11-19T08:40:22.404Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -39,18 +39,6 @@
           ]
         },
         {
-          "title": "Esports Awards 2026 results, Team Vitality, Caedrel and ZywOo among the winners",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWh2Q3hhaE8wTUF5QnFOVFdrODgyU1RyTGM3WDcxVjJERVlsTThIZWRBdlJFUXRqOHNLdWZSRkdKSmZGYl9IV1pCVjVsd1p5MG90S2ZOTTRSXzBkYkNCTWhPcGlkcFZ5dEZlUXFzYVFGNVZDS2hUTEJkWWpOWHNkdzNXbGVURGw3Tk9BOVRrb0hHQjctbUNhQmF0SFdaOW51OTRib1BHdjhzNDNWZXB2NDNwUnRvb2hZMWpBeTNn?oc=5",
-          "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-18T08:00:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "zywoo",
-            "vitality"
-          ]
-        },
-        {
           "title": "Esports Awards 2026 Winners: CS2 Wins Game of the Year",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2EtZWhjdlVjTU5vbkQ0dlByNkRkOUtLZTNFdFZxSDNKVlc0RlBoUzk5NFpqM3M1bFJ2bV93Rl9PVXJIZkJuNlduaDMwdkJVMkc4NEpzeE9YZk1XaEtFcHJiYnhZMjBDOWhLcFpXSWU1TDZxeGVPS3FqR240b3ZmNDJONWZIVnJkZmppQTl3?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -70,6 +58,17 @@
           "level": null,
           "why": [
             "arrested*"
+          ]
+        },
+        {
+          "title": "iShowSpeed, Counter-Strike 2 and Team Vitality among winners at 2026 Esports Awards",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0pQWDFiMXdQNTU0Y2RfdHJDTDFVTWJvQy1LRmJ1Wm5TSnNwSE4xVHJZakxUWlM3MG9rNUlYa2ppYnhKLWZCcUxHQVVCd29XUWsySFI3cXplUFRwZTV3VUNmU25CY0E0alpVdG5NSHBPMW5Bc05xRlplc296T0luVnoxeElQT2hpeE1TSEN5TWR0YzFreG9icE5Qal9wc2RRRG9YME43UlVFbGlSRjg4dVJhRXp0ZFl2UXNrZHNDaTV6R0E?oc=5",
+          "source": "Google News: CS2 (Inven Global)",
+          "published": "2026-11-18T14:59:28.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "vitality"
           ]
         },
         {
@@ -154,7 +153,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
@@ -165,6 +164,17 @@
           "level": "possible",
           "why": [
             "grand final",
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXk4WG1xQUl4Zzh6MFhTSlRFWG1BTkl1ZGtKcE5qWnZ1LTJnXzdXZU9MT3ZuYkdFZ1JWRTA3WVVtNktIRU9OVk1VQUxrLWN3REx1QlJRbVpJYjI1MGRjaGhvMEFRU2F1ZmdwQVVNal9OMXFYNzhieTNtTHhtUXdqVEg1UkRrbHV3dzZtTWI5ZThLZVFNUUItYzNkcllucFZOWVlISXBYOVByb2hNRk1DTQ?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-18T23:52:18.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "team spirit"
           ]
         },
