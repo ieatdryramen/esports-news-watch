@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:55:29.484Z",
+  "generatedAt": "2026-11-19T13:55:15.738Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,8 +24,20 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 13,
       "stories": [
+        {
+          "title": "Vitality to shut down academy project",
+          "url": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
+          "source": "HLTV news",
+          "published": "2026-11-19T13:28:00.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "shut down",
+            "vitality"
+          ]
+        },
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGJDVjZFMDdQSURPM2c2ZklqRFhVdmdXRDBnU3UyZjRsVlpoVkRhaFhSYlN6U2c2MDdYTG00UFpQMDdhLXZXTDNXNkx1R0pHUnFYa1VYMWd1RnJxOHZkQ3dYd3ZiTXlFRm1yd1I4N25VU214SjdQM1FCejlYMzRQb1puZXhXZWR6b3g1dDQzQmc?oc=5",
@@ -36,6 +48,28 @@
           "why": [
             "zywoo",
             "vitality"
+          ]
+        },
+        {
+          "title": "ESL Reveals 2027 CS2 Tournament Calendar Featuring IEM Beijing",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nY29pWmJqNnZSSVA2ZWlxQ3Y5TDlpYWpUSmZOc3BtQ2VrR3h0LXI0TDgwS3pVN2c5bldwV19Vd1NuSEd3ckJHSWF6emtEcUJQMWRGSXNES2xiUWRRZi1naDdFbWZQZUJUeDhnYnFDUlA?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-19T13:46:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
+          ]
+        },
+        {
+          "title": "Media: Inner Circle owner detained in Italy",
+          "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
+          "source": "HLTV news",
+          "published": "2026-11-18T17:48:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "arrested*"
           ]
         },
         {
@@ -72,15 +106,13 @@
           ]
         },
         {
-          "title": "CS2 Nov. 17 update brings Cobblestone back to matchmaking",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDNYd2dqYThBOEJIdWdOMGs0ZnBUNmJud0hqY2c0bHVYSlEySDhuelFIUTNTOXJZVXlqcmxaYWVReXhSdXNJZzU3NkJDbXRwcXRRRXp2VGNTUzAxdFg1dFM4SGR1TUt6dnB0MnkxZU0wMUJkTmNqUjc4a2lSYTg5eWRqcmI0QQ?oc=5",
-          "source": "Google News: CS2 (Dot Esports)",
-          "published": "2026-11-18T13:23:00.000Z",
-          "score": 2,
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-19T09:13:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "update"
-          ]
+          "why": []
         },
         {
           "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
@@ -114,15 +146,6 @@
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45STBRQ19vdEJyTDNZdkdCMDRLMWNtUmw3eGMzb1dyaDlSS1VURHV4MVh4TlB2SlRWVjhKTUVFb3o2RWVPaHhqR2pxU21zM2FFZWdmQi1OdFQybktsV29UTkRnVnpQZGxvNVZtaDlwWm5VVHBidlZz?oc=5",
           "source": "Google News: CS2 (Guided.news)",
           "published": "2026-11-18T15:42:43.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "All teams qualified for CS2 Singapore Major: Final VRS invites and key storylines",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1FFZFNvY3Zsb1MteWhLZTJWMUYxaXVrUjN5MUFZOF9hWGNPc3FybHZkZ090ZGpMZGdLSmdDSzNaaTlfSmZFT18tNk5aN1l6Ri00Z3hLLTNYem9zU3MyYzNoalRZZUFJVlZDdXVncm1QTC1Ra3VSdXo3OEhYWFIydGNjUWcyd3Iyd0owNQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-18T13:48:24.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -169,7 +192,7 @@
         },
         {
           "title": "BLAST SLAM IX Dota 2 Tournament Kicks Off Tomorrow: Ukrainian Team NAVI Among the Participants",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGdBTTJFRXI2Z0VRNnE3UnBzXzh6YlVUQ1ZLdk40OTFmRmh0YmxiMnBXZGdMMksxR1QtMVV1dzM1WjgtcElOSDdiREhUcW1GRUw1VTRYWmlZTElGMFFWQkJmTzRBRzVTTndYbkZYb1p3Qm9iYVpDc2Jkd3JsNFJlWGY1ZDF0bkdrWFF1MWpEU2lINHVxSVhTQzA0TEJXUEhsc252S2lmd2dkZk1nZGtHOTY3OVRidVpRdU0zblAwSU5XNkJld0kzcFB2Z9IBywFBVV95cUxOVGdBTTJFRXI2Z0VRNnE3UnBzXzh6YlVUQ1ZLdk40OTFmRmh0YmxiMnBXZGdMMksxR1QtMVV1dzM1WjgtcElOSDdiREhUcW1GRUw1VTRYWmlZTElGMFFWQkJmTzRBRzVTTndYbkZYb1p3Qm9iYVpDc2Jkd3JsNFJlWGY1ZDF0bkdrWFF1MWpEU2lINHVxSVhTQzA0TEJXUEhsc252S2lmd2dkZk1nZGtHOTY3OVRidVpRdU0zblAwSU5XNkJld0kzcFB2Zw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZnliTVhSbHVNNmVNN1lNX201QzNUdmdkbDE4RnVKWmIyZmh6ODV5dWExMDYxRGNValQ2R1otQkdGT1YxQnNYQVJrVmQ2RTJRQjRPZzRIamdvcEVHZTVVeEVqeUVuOXJjWkNUUExqb0dmV1hYbURvMEdOZUZxeWxoaHYySG5YVWlaYkxRSXJMSHpFQ2ZrU25mcUdlR3FSTmw1aV9mblFFSjU2RHFKRFNmX3gzTERPM0FaNXQ5a0tNRjlvV1nSAcsBQVVfeXFMTlRnQU0yRUVyNmdFUTZxN1Jwc184emJVVENWS3ZONDkxZkZodGJsYjJwV2RnTDJLMUdULTFVdXczNVo4LXBJTkg3YkRIVHFtRkVMNVU0WFppWUxJRjBRVkJCZk80QUc1U053WG5GWG9ad0JvYmFaQ3NiZHdybDRSZVhmNWQxdG5Ha1hRdTFqRFNpSDR1cUlYU0MwNExCV1BIbHNudktpZndnZGZNZ2RrRzk2NzlUYnVaUXVNM25QMElOVzZCZXdJM3BQdmc?oc=5",
           "source": "Google News: Dota (Players)",
           "published": "2026-11-19T09:41:12.000Z",
           "score": 1,
