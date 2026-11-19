@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T02:55:15.858Z",
+  "generatedAt": "2026-11-19T03:50:18.960Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 17,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -154,7 +154,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
@@ -167,6 +167,15 @@
             "grand final",
             "team spirit"
           ]
+        },
+        {
+          "title": "All New Items In Dota 2 Patch 7.42 [7 New Items Explained]",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZHkxYUhnTkJXd25sSkdYYjNVZlA5SEFQUGw3OXM4bkI3eHl0cEtvWWU3MDdfX25GUVlFZmNLdmdmSEZPOUZJZmlFbjVpM2hGTUhxVFJrak9xMXNoNjZ4UHZKSHBZd3V5TVYyZEVXejlSemZtMktnag?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-19T03:38:22.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Nix named the condition under which Dota 2 will start to decline",
@@ -190,7 +199,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -202,15 +211,6 @@
           "why": [
             "wins"
           ]
-        },
-        {
-          "title": "TEKKEN 8 Season 3's 3rd Additional Character, Roger Jr., Now Available for General Access! NIKE Collaboration Items Also Arrive",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFFDOXJpUHRVTlFRdGFwSzV6R1gxSkY3U2FrelN5RW5sajlZU1dQc2loYlI2QVRSVHlzNmMybnRuNHJjV2dMQWRVR1lyTjdDekxWWnNvanlLb2PSAWBBVV95cUxPZndvanFDcFdxYUxrS3NLVlFrM0wxblZuM19xYUtnQzVPWm03NVEwM21kOHBtdjZEQnVQUDlDY0luSUVmNEpCTEt6V0RPUUZObDdQMmV2b0lfbHZvaUZsYXU?oc=5",
-          "source": "Google News: Tekken (Saiga NAK)",
-          "published": "2026-11-18T03:50:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
