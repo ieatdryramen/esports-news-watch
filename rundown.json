@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:50:18.081Z",
+  "generatedAt": "2026-11-19T05:45:18.856Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -154,7 +154,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
@@ -166,6 +166,18 @@
           "why": [
             "grand final",
             "team spirit"
+          ]
+        },
+        {
+          "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbGNQQjY5VW5zYmpZdXVpMFJZSnZlWFlqN2Q0OTI1c2hxQU5qZnVnTkhKQVJaSzhvZHVkTTNrYzVYM055TjdORktUNHJSX2NMX25kVU05SEQzTEp4YmV2dm44QWhzZw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-19T05:35:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update",
+            "-patch notes"
           ]
         },
         {
