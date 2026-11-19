@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:05:17.200Z",
+  "generatedAt": "2026-11-19T05:35:21.931Z",
   "source": "start.gg",
   "completed": [
     {
@@ -46,6 +46,53 @@
         {
           "placement": 7,
           "name": "Luu"
+        }
+      ]
+    },
+    {
+      "eventId": "1755768",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TNS Street Fighter 6 #173",
+      "event": "Street Fighter 6",
+      "entrants": 174,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-19T01:00:00.000Z",
+      "endAt": "2026-11-19T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-street-fighter-6-173/event/street-fighter-6",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Azan"
+        },
+        {
+          "placement": 2,
+          "name": "FightRise | Lazyboredom"
+        },
+        {
+          "placement": 3,
+          "name": "ECHT | Kharsonist"
+        },
+        {
+          "placement": 4,
+          "name": "Shine"
+        },
+        {
+          "placement": 5,
+          "name": "RobTV"
+        },
+        {
+          "placement": 5,
+          "name": "LeviHakai"
+        },
+        {
+          "placement": 7,
+          "name": "CrimsonJaeger"
+        },
+        {
+          "placement": 7,
+          "name": "STG | big mo dilly"
         }
       ]
     },
@@ -332,21 +379,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1755768",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #173",
-      "event": "Street Fighter 6",
-      "entrants": 174,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-19T01:00:00.000Z",
-      "endAt": "2026-11-19T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-173/event/street-fighter-6"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1635588",
