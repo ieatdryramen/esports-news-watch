@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T21:45:20.841Z",
+  "generatedAt": "2026-11-19T22:00:24.736Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -16,18 +16,6 @@
           "why": [
             "shut down",
             "vitality"
-          ]
-        },
-        {
-          "title": "ZywOo Wins Esports PC Player Of The Year 2026 Award",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYVhiS1lfcWhVUGtuMDZEb2JRMm93MGtIS2VZMjllaE0wNmM4enJWc1BhajFldmZDM0RlSm01VGdUeWRLdzZiS1V1NGE1ZTc5YzVWN3lUNzFFVktSR2tSSlZzSmliWG1FR2hhMGtBeEtFOFFsTkdxNzFB?oc=5",
-          "source": "Google News: CS2 (Hotspawn)",
-          "published": "2026-11-18T23:38:22.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "wins",
-            "zywoo"
           ]
         },
         {
@@ -146,7 +134,7 @@
           "title": "Valve Is Pushing For A Faster Meta In Dota 2 Patch 7.42 - Here's Why",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmxkM0hjcnFSOUJ6OElXdFM3eUxDWm02U28yalhNVFE4NHBvOUk5RjFkQjJvdExnWjdnSjhlbkwwRjluRWdHYVd0MG5wQVNVMlNDeEltaF92MEF4Ym9ZVllMODFueE5oTVI2bWFGb2tBbWtqOG5NajlzZmcwOEZINXF1aVR3Z1JzZm14bHVxTFd2ejNuNGtKM184Y3lLek41SGtB?oc=5",
           "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-19T15:18:36.000Z",
+          "published": "2026-11-19T15:43:43.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -182,37 +170,12 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Classic Tetris: How a retro puzzle game became a competitive sport, and who won in 2026",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0lrcldXY1dneFAtNFJGbHZRUk1GYlAzMS1kdTAwWHFKdFY2eU9Jb1dvUWdGOE9zTVp4Vll5RktNWEdmVk9ZWGVIWWFwNjFrb1VBS3dYRDExOFZOZnFta1VseDNwN3Y1N29yMkNIdjhBVEZ5Y0hodjdKRWVFdDRBcGM1dGM0Rm80bmZNeXlZazJMQW44cFctb0ttSGN1VXJJbVZMZTk3aTI4MDdIdDhXZUZ4WFlyZzAwMENCQlNzQXM5UkVwZlhBVHBfal90ZmPSAdwBQVVfeXFMTk0ydy13ZGV4ZEFydEVhWHZPU1dJTlBBQVdBVGc0RllYTzlXY1FzaURWcUc0MFUzQWdGSUZJQzNSUllacFdJbUE5bWJna043NDBQaEtWSTIzVURRQVdTV203X21pVHlWWW5fYzlmN0YyMVhlck1LdTNZUTFUblVNLWFWMVFuM2NBeTJoVDkxZVpuamdsa2VIbHFhcjZicFBvWFlIQ0c1MkhraGF4VTdDN1FZUWsyRnhRUUp5Rlp4SGVXUkZtWjVoNmJfVE8wWjVlMF9MQklFYURDTUtwdQ?oc=5",
-          "source": "Google News: Tetris (IndulgExpress)",
-          "published": "2026-11-19T11:17:12.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        },
-        {
-          "title": "Washington Post. . Over 40 competitors from across Europe gathered in Copenhagen for the annual Classic Tetris European Championship, which has been staged each year since 2015.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEFVTTJfcVVXbmFtcVVVOVlqdWlhU2VSZmVxVGR3dEJCRFByY0NrWUk1Q3lqTDk4aXRTT1VlRWRVT05aSzVQa1NaWFFhTFdlcEJJc3E4QlY2N1FZcWdwRVl4YTFxRmVIN0tadm1ZZ3hOZ2xXYUVHUl9QNExoUHpETDVEbkVuT3dQNmtWUkFfd3R6ZmFnMGZZNmpTS2w4ZUtqOTNJaW1FdmhhRHpEOHlv?oc=5",
-          "source": "Google News: Tetris (Facebook)",
-          "published": "2026-11-19T02:30:02.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
     "Melee",
     "AoE2",
+    "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
