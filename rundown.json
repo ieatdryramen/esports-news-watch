@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:00:24.590Z",
+  "generatedAt": "2026-11-19T00:00:36.608Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 16,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -59,17 +59,6 @@
           "level": null,
           "why": [
             "wins"
-          ]
-        },
-        {
-          "title": "Media: Inner Circle owner detained in Italy",
-          "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
-          "source": "HLTV news",
-          "published": "2026-11-18T17:48:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "arrested*"
           ]
         },
         {
@@ -117,26 +106,6 @@
           ]
         },
         {
-          "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
-          "url": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
-          "source": "HLTV news",
-          "published": "2026-11-18T00:19:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-18T20:51:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "Esports Awards 2026: Triumph of the French Scene and Counter-Strike 2 Dominance",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXA0YmxSZlhBVi1VMjlLZmw4SzZhd2psWFZVQ2JTdWlaYmkwSGQtcXFib3NmOUFGY2ZjX1B2MGF1X1VtZEVjbFpFcTU3ZWNoZ01FbFM2NzJOSG56d281bmpGNVd5SnVYbG1UQnJKYVpjeWVrWjZrSWZ1aVNkZGJDczM3ZXA5cnRzeUxCa2xTbDhnLV9RejJkUlA5X2F1aWU4WVNSUnRJWmE1NXNMeEw1SGlaY2w0dFnSAbcBQVVfeXFMTzVwNGJsUmZYQVYtVTI5S2ZsOEs2YXdqbFhWVUNiU3VpWmJpMEhkLXFxYm9zZjlBRmNmY19QdjBhdV9VbWRFY2xaRXE1N2VjaGdNRWxTNjcyTkhuendvNW5qRjVXeUp1WGxtVEJySmFaY3lla1o2a0lmdWlTZGRiQ3MzN2VwOXJ0c3lMQmtsU2w4Zy1fUXoyZFJQOV9hdWllOFlTUlJ0SVphNTVzTHhMNUhpWmNsNHRZ?oc=5",
           "source": "Google News: CS2 (Players)",
@@ -146,10 +115,37 @@
           "why": []
         },
         {
+          "title": "Counter-Strike 2 earns honour at the 2026 Esports Awards",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aU1ozbFlrQXdCSnV6SXVId1lQN0hOMWluRVlrTzVsWHNYN0w1aVlyR3FrR2NGdWxDSjBILUV0RDRkNWpvSnlMM2FpNWljejRZWENSQldULUxjUi0yVS1xRjRnU2ZySFp1eVlF?oc=5",
+          "source": "Google News: CS2 (games.gg)",
+          "published": "2026-11-18T17:36:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "DayZ as an Esports Shooter? Why You Shouldn’t Miss This Counter-Strike Mod",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45STBRQ19vdEJyTDNZdkdCMDRLMWNtUmw3eGMzb1dyaDlSS1VURHV4MVh4TlB2SlRWVjhKTUVFb3o2RWVPaHhqR2pxU21zM2FFZWdmQi1OdFQybktsV29UTkRnVnpQZGxvNVZtaDlwWm5VVHBidlZz?oc=5",
           "source": "Google News: CS2 (Guided.news)",
           "published": "2026-11-18T15:42:43.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "All teams qualified for CS2 Singapore Major: Final VRS invites and key storylines",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1FFZFNvY3Zsb1MteWhLZTJWMUYxaXVrUjN5MUFZOF9hWGNPc3FybHZkZ090ZGpMZGdLSmdDSzNaaTlfSmZFT18tNk5aN1l6Ri00Z3hLLTNYem9zU3MyYzNoalRZZUFJVlZDdXVncm1QTC1Ra3VSdXo3OEhYWFIydGNjUWcyd3Iyd0owNQ?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-18T13:48:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
+          "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-2026-best-stickers/",
+          "source": "esports.gg",
+          "published": "2026-11-18T13:44:13.000Z",
           "score": 1,
           "level": null,
           "why": []
