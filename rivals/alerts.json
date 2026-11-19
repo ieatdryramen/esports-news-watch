@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-19T10:35:28.043Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Update 1.000.118 Patch Notes (v1.83)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhalZrbTlTUWM4OTZnclRVQUsxeG5makRXXy1aNG1xQldpeGRyUG8weUludUE0MWVJclRNMGQ0OWNaYWpxNTA4R3RTcV9kNDBweE02Y3FqeDdUalExNkprNTItZ1NYOXZwX2NQYkNIdmNzR1JsUnhUTkVOVjJ3Zw?oc=5",
+      "source": "Google News: Rivals esports (UpdateCrazy)",
+      "outlets": [
+        "UpdateCrazy"
+      ],
+      "score": 5,
+      "why": [
+        "update",
+        "patch notes"
+      ],
+      "summary": "",
+      "published": "2026-11-19T10:34:59.000Z"
+    },
+    {
       "alertedAt": "2026-11-17T13:10:33.223Z",
       "level": "possible",
       "scene": "Marvel Rivals",
