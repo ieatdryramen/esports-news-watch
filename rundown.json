@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:00:36.608Z",
+  "generatedAt": "2026-11-19T01:00:24.214Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 19,
       "stories": [
         {
           "title": "CS2, Vitality, ZywOo Win Top Honors at 2026 Esports Awards",
@@ -59,6 +59,17 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "Media: Inner Circle owner detained in Italy",
+          "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
+          "source": "HLTV news",
+          "published": "2026-11-18T17:48:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "arrested*"
           ]
         },
         {
@@ -106,6 +117,15 @@
           ]
         },
         {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-18T20:51:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Esports Awards 2026: Triumph of the French Scene and Counter-Strike 2 Dominance",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXA0YmxSZlhBVi1VMjlLZmw4SzZhd2psWFZVQ2JTdWlaYmkwSGQtcXFib3NmOUFGY2ZjX1B2MGF1X1VtZEVjbFpFcTU3ZWNoZ01FbFM2NzJOSG56d281bmpGNVd5SnVYbG1UQnJKYVpjeWVrWjZrSWZ1aVNkZGJDczM3ZXA5cnRzeUxCa2xTbDhnLV9RejJkUlA5X2F1aWU4WVNSUnRJWmE1NXNMeEw1SGlaY2w0dFnSAbcBQVVfeXFMTzVwNGJsUmZYQVYtVTI5S2ZsOEs2YXdqbFhWVUNiU3VpWmJpMEhkLXFxYm9zZjlBRmNmY19QdjBhdV9VbWRFY2xaRXE1N2VjaGdNRWxTNjcyTkhuendvNW5qRjVXeUp1WGxtVEJySmFaY3lla1o2a0lmdWlTZGRiQ3MzN2VwOXJ0c3lMQmtsU2w4Zy1fUXoyZFJQOV9hdWllOFlTUlJ0SVphNTVzTHhMNUhpWmNsNHRZ?oc=5",
           "source": "Google News: CS2 (Players)",
@@ -131,21 +151,50 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "Team Spirit Sweep Aurora To Reach 1win Essence III Dota 2 Grand Final",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHpheFlXM0R5TXpWUHRSVzZ4YnRaT01YdDFrYi1IRnR4Vk5lUVlNVlktWmpLT1pjTTVYVFJIazQzS25SRjk3dDRZVE8yNEJtQ1lSU2pYdGZSeWl6STNFRlpYd1hVRXI3QWRpOWxQbWZKYVdiRkxLRXI1YnVtamlYYURKdVYwaWNmREQtTEhsbS1OYWg2WnJyTHJDeGthNkpu?oc=5",
+          "source": "Google News: Dota (Gambling.com)",
+          "published": "2026-11-18T16:11:10.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "grand final",
+            "team spirit"
+          ]
         },
         {
-          "title": "All teams qualified for CS2 Singapore Major: Final VRS invites and key storylines",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1FFZFNvY3Zsb1MteWhLZTJWMUYxaXVrUjN5MUFZOF9hWGNPc3FybHZkZ090ZGpMZGdLSmdDSzNaaTlfSmZFT18tNk5aN1l6Ri00Z3hLLTNYem9zU3MyYzNoalRZZUFJVlZDdXVncm1QTC1Ra3VSdXo3OEhYWFIydGNjUWcyd3Iyd0owNQ?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-18T13:48:24.000Z",
+          "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXk4WG1xQUl4Zzh6MFhTSlRFWG1BTkl1ZGtKcE5qWnZ1LTJnXzdXZU9MT3ZuYkdFZ1JWRTA3WVVtNktIRU9OVk1VQUxrLWN3REx1QlJRbVpJYjI1MGRjaGhvMEFRU2F1ZmdwQVVNal9OMXFYNzhieTNtTHhtUXdqVEg1UkRrbHV3dzZtTWI5ZThLZVFNUUItYzNkcllucFZOWVlISXBYOVByb2hNRk1DTQ?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-18T02:35:50.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "Nix named the condition under which Dota 2 will start to decline",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lc2RwNzhJcVJXRlNyV21wc29ZeWU2MEpyM0NSWEdTbi1NWXlVUlhRMkdzTzhBaWF4N3pReTJPdDVaMWhjai1QcVlpTm01OEltaW9qT3RlVDE1Y2hKMVFoQzVKN0xaSURkSExYQ0R3VTBJUGdhdWhndQ?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-18T16:08:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
-          "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-2026-best-stickers/",
-          "source": "esports.gg",
-          "published": "2026-11-18T13:44:13.000Z",
+          "title": "Main title contenders for Dota 2 BLAST SLAM IX esports tournament",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFVEZWRnX1lrNEw4ZE9sRFBJNm5wRFVEa0VfYy1OS2d1U0ZjZ2JPQ2QwcUNfUkZyUDYzaFpyaUlfRUN2N285dTZlSlZ5bFV6Y0hQOGFIRnRpQnRXRmcyR0tITEEyd01rMHNMNnMyT2J6eDBfc09pZlRSdGxSVHhDdzhPVVpPSlh5Z2g1eXRqLW5EZVNPWXRlNVFod1NPQ21rRFpNZHJnbUJjMlE?oc=5",
+          "source": "Google News: Dota (BusinessMirror)",
+          "published": "2026-11-18T06:56:17.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -175,52 +224,6 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXk4WG1xQUl4Zzh6MFhTSlRFWG1BTkl1ZGtKcE5qWnZ1LTJnXzdXZU9MT3ZuYkdFZ1JWRTA3WVVtNktIRU9OVk1VQUxrLWN3REx1QlJRbVpJYjI1MGRjaGhvMEFRU2F1ZmdwQVVNal9OMXFYNzhieTNtTHhtUXdqVEg1UkRrbHV3dzZtTWI5ZThLZVFNUUItYzNkcllucFZOWVlISXBYOVByb2hNRk1DTQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-18T02:35:50.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Nix named the condition under which Dota 2 will start to decline",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lc2RwNzhJcVJXRlNyV21wc29ZeWU2MEpyM0NSWEdTbi1NWXlVUlhRMkdzTzhBaWF4N3pReTJPdDVaMWhjai1QcVlpTm01OEltaW9qT3RlVDE1Y2hKMVFoQzVKN0xaSURkSExYQ0R3VTBJUGdhdWhndQ?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-18T16:08:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Main title contenders for Dota 2 BLAST SLAM IX esports tournament",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFVEZWRnX1lrNEw4ZE9sRFBJNm5wRFVEa0VfYy1OS2d1U0ZjZ2JPQ2QwcUNfUkZyUDYzaFpyaUlfRUN2N285dTZlSlZ5bFV6Y0hQOGFIRnRpQnRXRmcyR0tITEEyd01rMHNMNnMyT2J6eDBfc09pZlRSdGxSVHhDdzhPVVpPSlh5Z2g1eXRqLW5EZVNPWXRlNVFod1NPQ21rRFpNZHJnbUJjMlE?oc=5",
-          "source": "Google News: Dota (BusinessMirror)",
-          "published": "2026-11-18T06:56:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XE - Lynx, November 18, 2026 - match stream, live broadcast - Asgard Championship S2 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjUxbUdRM3ZOZGVpV0pMd280bUNfam1hS1FzM2liUjd4NXVwN0JrUWN1LTVleFFxRU9yOEZYU0dUUnNrWW16Z0NIT01FaWg5dXdyTXo1a1YxSEZwTTBCQWhrcW00elB2enZnRTk1NFpqU2IxNTFwaDZJdzVOU0UtXzhWbnhTcEhFaEI1ZWZWY0wwMGlo?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-18T02:58:51.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
