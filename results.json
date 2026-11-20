@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:35:19.031Z",
+  "generatedAt": "2026-11-20T00:05:16.272Z",
   "source": "start.gg",
   "completed": [
     {
@@ -510,6 +510,19 @@
       "startAt": "2026-11-22T13:00:00.000Z",
       "endAt": "2026-11-22T22:00:00.000Z",
       "url": "https://www.start.gg/tournament/heatwave-tournament-4/event/heatwave-tournament"
+    },
+    {
+      "eventId": "1751130",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Left Coast Battleground #8",
+      "event": "3S Double Elimination",
+      "entrants": 22,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-23T01:01:00.000Z",
+      "endAt": "2026-11-23T07:00:00.000Z",
+      "url": "https://www.start.gg/tournament/left-coast-battleground-8/event/3s-double-elimination"
     }
   ],
   "games": {
