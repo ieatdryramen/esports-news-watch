@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T18:00:36.382Z",
+  "generatedAt": "2026-11-20T19:00:28.329Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Infographic: PGL Major Singapore",
@@ -30,17 +30,6 @@
           ]
         },
         {
-          "title": "100 Thieves and Fnatic Complete the PGL Cluj-Napoca 2027 CS2 Field",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGxhWmd0ZXRBWVhpeHZ6dVQ0d0VCcnBlWEp0YmJXNE5yS3hoWVZ3Wm5ZUzlDSlBnTnYxejZqb3lUbk1SY1hoS3RuZWZHU3FvaUYyUzRSSjI1eTctaDB3ZWI0X3hRME1YNUJSVlFHZHI5ZWlEN1VCOHIxWjh6VlRpR25R?oc=5",
-          "source": "Google News: CS2 (Happy Gamer)",
-          "published": "2026-11-19T21:09:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
@@ -48,6 +37,24 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Legacy FGC",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Battle Coliseum 2026 live stream ft. SonicFox, Leffen, Hikari, BrayanJob, NotPedro, Inzem, Supernoon, DidimoKOF, JF, Xerom, Lauyagami, Resil and more",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaUtCcmpMamhsY2hUbllUcU1SX2drQVYxbm52ZDRNZ1JldWp6Q2drNmE4a3UtZHRKOWRIZFB1U3I4dEp1YWhzd29pc3QybkdDU3ozRTdKTEphRFJ3T2hvRm5OdmpuU0pSN3VjeHk5ek5nYVg3ZnJkUlFXQ2E?oc=5",
+          "source": "Google News: Legacy FGC (EventHubs)",
+          "published": "2026-11-20T18:03:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "sonicfox",
+            "-stream"
+          ]
         }
       ]
     },
@@ -179,7 +186,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Legacy FGC",
     "CoD",
     "Quake",
     "Halo"
