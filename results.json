@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:35:17.552Z",
+  "generatedAt": "2026-11-20T11:05:15.709Z",
   "source": "start.gg",
   "completed": [
     {
@@ -281,53 +281,6 @@
         {
           "placement": 7,
           "name": "DVSN | Reg Sized Majin"
-        }
-      ]
-    },
-    {
-      "eventId": "1749226",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TTA",
-      "event": "TTA #5",
-      "entrants": 226,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-17T11:00:00.000Z",
-      "endAt": "2026-11-17T14:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tta-6/event/tta-5",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "RIDDLE ORDER | Hikaru"
-        },
-        {
-          "placement": 2,
-          "name": "VLY | ドドガマル"
-        },
-        {
-          "placement": 3,
-          "name": "KanaPro | Noble"
-        },
-        {
-          "placement": 3,
-          "name": "IBUSHIGIN | Yanai"
-        },
-        {
-          "placement": 5,
-          "name": "あともすふぃあ"
-        },
-        {
-          "placement": 5,
-          "name": "広島TEAM iXA | Akira"
-        },
-        {
-          "placement": 5,
-          "name": "ANNA"
-        },
-        {
-          "placement": 5,
-          "name": "IBUSHIGIN | Johnny"
         }
       ]
     }
