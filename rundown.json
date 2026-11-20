@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-20T09:00:40.106Z",
+  "generatedAt": "2026-11-20T10:00:26.335Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 3,
+      "storyCount": 7,
       "stories": [
+        {
+          "title": "Vitality to shut down academy project",
+          "url": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
+          "source": "HLTV news",
+          "published": "2026-11-19T13:28:00.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "shut down",
+            "vitality"
+          ]
+        },
         {
           "title": "Esports Awards 2026: CS2 Wins Best Esports Game of the Year Award, and More",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtlSGtvMWFNTjZpWHlPNF85WmV5TG5BV0RQeG1VRzBBWWhnR0xvQjdPREV6YWo5Vmw3NGl5MW42cm9KRTRpMUVKMWdCeVd6RllrSV9GSlVmTXJ6UEc1Mmc3TnRzdkdQYjNRbUNhZ2Q5SzNETjVJVnEtWXZubXRZa2t0VlY3ckZESUNEeHlfV0ZTX2pwUUp3aVktVlNCTzlDdFdqOUhJQTVUbms?oc=5",
@@ -15,6 +27,28 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026: Player Ages and Countries",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IV2w0YzlBazRKVlVtU2RFdkZ3em4zcTItTUtQejJacm01SlJBVktnbmVIRmxLbDV3UzNOU3JudHNiM3dzejFYV1JfbC1xVFZKRU92WFVlUURpTzFzOTdsbDdkSHVlOGUzbmc?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-19T17:35:07.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL announce Singapore Major talent lineup",
+          "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
+          "source": "HLTV news",
+          "published": "2026-11-19T14:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -38,6 +72,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-19T17:40:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -68,6 +111,27 @@
           ]
         },
         {
+          "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbGNQQjY5VW5zYmpZdXVpMFJZSnZlWFlqN2Q0OTI1c2hxQU5qZnVnTkhKQVJaSzhvZHVkTTNrYzVYM055TjdORktUNHJSX2NMX25kVU05SEQzTEp4YmV2dm44QWhzZw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-20T09:36:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update",
+            "-patch notes"
+          ]
+        },
+        {
+          "title": "All new Dota 2 neutral creeps and their abilities in patch 7.42",
+          "url": "https://esports.gg/guides/dota-2/new-neutral-creeps-dota-2-patch-7-42/",
+          "source": "esports.gg",
+          "published": "2026-11-20T09:32:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "All new items in Dota 2 and their effects in patch 7.42",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wZFBmWGp3ZU5hMUZzNzZ3OHdDeWNQcy02THpEMV9qdVY2N21FM3F6eWFhTWNWR3J6YlV4S05UVVhEYnZacVI5N203MV9ZeGZFX0hISjFrZEhnSm1QZ01UTjVUZ0RVSjU3UnBBV2VR?oc=5",
           "source": "Google News: Dota (Esports.gg)",
@@ -75,18 +139,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbGNQQjY5VW5zYmpZdXVpMFJZSnZlWFlqN2Q0OTI1c2hxQU5qZnVnTkhKQVJaSzhvZHVkTTNrYzVYM055TjdORktUNHJSX2NMX25kVU05SEQzTEp4YmV2dm44QWhzZw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-19T22:05:30.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update",
-            "-patch notes"
-          ]
         },
         {
           "title": "Valve Is Pushing For A Faster Meta In Dota 2 Patch 7.42 - Here's Why",
@@ -102,15 +154,6 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GYk9xNnJmT1FkUFJrMUc3OHdQZ2VEUWVhczFUVDJvQkFIU1p0ZmVfNUVoOW41eG5nWkFTTmJobHcxRWpUd0dSajJUSGNvNzVPblpKVkVVdm1TdjBiVXhxSFhQdVRpWXF2S2F4MTV3?oc=5",
           "source": "Google News: Dota (ESTNN)",
           "published": "2026-11-19T14:44:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "BLAST SLAM IX Dota 2 Tournament Kicks Off Tomorrow: Ukrainian Team NAVI Among the Participants",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZnliTVhSbHVNNmVNN1lNX201QzNUdmdkbDE4RnVKWmIyZmh6ODV5dWExMDYxRGNValQ2R1otQkdGT1YxQnNYQVJrVmQ2RTJRQjRPZzRIamdvcEVHZTVVeEVqeUVuOXJjWkNUUExqb0dmV1hYbURvMEdOZUZxeWxoaHYySG5YVWlaYkxRSXJMSHpFQ2ZrU25mcUdlR3FSTmw1aV9mblFFSjU2RHFKRFNmX3gzTERPM0FaNXQ5a0tNRjlvV1nSAcsBQVVfeXFMTlRnQU0yRUVyNmdFUTZxN1Jwc184emJVVENWS3ZONDkxZkZodGJsYjJwV2RnTDJLMUdULTFVdXczNVo4LXBJTkg3YkRIVHFtRkVMNVU0WFppWUxJRjBRVkJCZk80QUc1U053WG5GWG9ad0JvYmFaQ3NiZHdybDRSZVhmNWQxdG5Ha1hRdTFqRFNpSDR1cUlYU0MwNExCV1BIbHNudktpZndnZGZNZ2RrRzk2NzlUYnVaUXVNM25QMElOVzZCZXdJM3BQdmc?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-19T09:41:12.000Z",
           "score": 1,
           "level": null,
           "why": []
