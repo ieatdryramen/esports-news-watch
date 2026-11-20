@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T20:55:15.643Z",
+  "generatedAt": "2026-11-20T21:50:21.058Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Infographic: PGL Major Singapore",
@@ -41,6 +41,15 @@
           ]
         },
         {
+          "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
+          "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
+          "source": "HLTV news",
+          "published": "2026-11-20T21:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
           "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
           "source": "HLTV news",
@@ -62,7 +71,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "CyberHero Come From a Map Down to Knock Froglings Out of DreamLeague",
@@ -113,19 +122,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "DreamLeague Season 29: Western Europe Open Qualifier 1 - Dota 2 - Viewership, Overview, Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUpvcEZIZ0xGMF9YVHVCUWY1U1VwTkFrek5Hdm9NS0swUGI1OUp3V3A5OWN5Wkd1allDUDFPei1GZEhEcFh5RlVYMEdraEhLWXVmVTRTeWhwdzlOS09NMmZDS1JxQmlra25jUk51Wkt6NFNLSlNpMFJ5OEtaSHpDNG5qVk1ZYUtaMVJobmdwVHNFcWRVYjRF?oc=5",
-          "source": "Google News: Dota (Esports Charts)",
-          "published": "2026-11-19T21:22:17.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "prize pool",
-            "dreamleague",
-            "-viewership, overview"
-          ]
         }
       ]
     },
