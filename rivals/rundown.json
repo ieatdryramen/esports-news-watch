@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T10:00:30.512Z",
+  "generatedAt": "2026-11-20T11:00:31.195Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -48,17 +48,6 @@
           "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56Qi1OV0RuTHRfMldTT1Q2amFMTFhzc0RxTWU5NGgwbFA4cHBudW9vdXU5SU1TZ29aN0RDN1VyUWhvQQ?oc=5",
           "source": "Google News: Rivals patches (YouTube)",
           "published": "2026-11-19T15:45:08.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Adds White Fox’s Jade Majesty Costume on November 19",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFR1ZDNtSndEYVBoc1gwM2hqRHVmR3lkdm4wMWZPbDZzcTN4MnBOSTZGMF8zS3dkNXBLZU5MNkJYRVdQSUZuYjhNMWFNNUpJNHlNVmFZRXB4V0RyZXE1NU1XV3BrdUhWZEhqa2k2SUR5TVJpUURtSWdwaVl3WW05Qg?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-19T10:34:26.000Z",
           "score": 2,
           "level": null,
           "why": [
