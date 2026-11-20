@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T01:00:28.618Z",
+  "generatedAt": "2026-11-20T02:00:24.509Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -19,18 +19,6 @@
           ]
         },
         {
-          "title": "CS2’s Cobblestone Comeback Leaves Premier Out in the Cold",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbFQtb3JlUUx6dWJhNmNfMnZ6LUtpVER1VjZ0ZV8xNTJfOEtqa202cEFFX1VSbDk3YWp5Qi1wNlUxSG9fSVZhRVdvM2ZBMjNjS3pFTU16NXlGOENJMy0xaGtLeU82VE9RQUZQT0o5WTRURHBTWHFHWlA0MjYtQzF6Si1CYV9lVWwwb2FWY0VnVVJWLVBFajJxY3B3?oc=5",
-          "source": "Google News: CS2 (POPTOPIC)",
-          "published": "2026-11-19T06:07:33.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "comeback",
-            "leaves"
-          ]
-        },
-        {
           "title": "Esports Awards 2026: CS2 Wins Best Esports Game of the Year Award, and More",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtlSGtvMWFNTjZpWHlPNF85WmV5TG5BV0RQeG1VRzBBWWhnR0xvQjdPREV6YWo5Vmw3NGl5MW42cm9KRTRpMUVKMWdCeVd6RllrSV9GSlVmTXJ6UEc1Mmc3TnRzdkdQYjNRbUNhZ2Q5SzNETjVJVnEtWXZubXRZa2t0VlY3ckZESUNEeHlfV0ZTX2pwUUp3aVktVlNCTzlDdFdqOUhJQTVUbms?oc=5",
           "source": "Google News: CS2 (IGN India)",
@@ -39,17 +27,6 @@
           "level": null,
           "why": [
             "wins"
-          ]
-        },
-        {
-          "title": "100 Thieves and Fnatic Complete the PGL Cluj-Napoca 2027 CS2 Field",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGxhWmd0ZXRBWVhpeHZ6dVQ0d0VCcnBlWEp0YmJXNE5yS3hoWVZ3Wm5ZUzlDSlBnTnYxejZqb3lUbk1SY1hoS3RuZWZHU3FvaUYyUzRSSjI1eTctaDB3ZWI0X3hRME1YNUJSVlFHZHI5ZWlEN1VCOHIxWjh6VlRpR25R?oc=5",
-          "source": "Google News: CS2 (Happy Gamer)",
-          "published": "2026-11-19T21:09:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -101,24 +78,6 @@
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
           "published": "2026-11-19T17:40:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "ex-INOX Division CS2 (ex-inox-division) Team Overview and Viewers Statistics",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41Y1gxaHZyaUJtcWNJQVV5T0M4a2VwSDlCUkNrSVhnWVNpMFpaT09YTksyc3dFUjU0QnNWRzhxblJzQ2ZrYzhTOHBSZUdsM0IyODAxdlhnelhiZTJ6?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-19T05:39:59.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "DJ DIESEL and Hairitage Introduce 'BANG YOUR HEAD' Track Transforming CS2’s Audio Experience",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUpKdnB1WFduRGIyZnFibmlVSUh6czJmS2pxc0pUamwtVWFjcFROZGFWSzBoMnpzRWxKSTV4ckR1MXNpVmhMOURVT2RjcHRBclFuNGRRQ243QkdVNXNqalpxZndxSTdRbnhNRWdodzhWUUtiSWJ2RUVOSFdTY2V1UlpGTll0eENob05VOHZEOUU1RFJzaFdNdTBYSUF4TkpHbUZQMVlJUnFaTG1ESGp0dUNtZ1BYTjQ?oc=5",
-          "source": "Google News: CS2 (112.ua)",
-          "published": "2026-11-19T01:06:22.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -269,6 +228,21 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "KiberVostok Sber 2026 brings together Tekken 8 in Vladivostok with one million rubles at stake",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNklwUDNBWmZBZ2pkbUo2RXd2SkNJdDBVLUltd1NOMkowLXZ6T0RLSTNrY3kxU0d6OVRaazJoOVdfcEJYYmFMa1FLenFpVXB6NENFYWpuRzdFUWp3bWVfaU1ORVdESEQ3cmdWYUJnRVF0b1h1c21WNG5BdmY4QldSdlEzWUUwSjdtLXNsdGNQdWVsVDczd2hxZ2FZUlZkeFhESmZOcm11QnNVdjZ3Yk93Y0h3?oc=5",
+          "source": "Google News: Tekken (Foro3D)",
+          "published": "2026-11-19T22:56:33.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -276,7 +250,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
     "CoD",
     "Quake",
