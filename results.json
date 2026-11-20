@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:35:18.482Z",
+  "generatedAt": "2026-11-20T13:05:26.011Z",
   "source": "start.gg",
   "completed": [
     {
@@ -327,19 +327,6 @@
       "url": "https://www.start.gg/tournament/provisional/event/melee-singles"
     },
     {
-      "eventId": "1720181",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "SIDES - Battle Coliseum 2026",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 56,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T17:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/sides-battle-coliseum-2026/event/street-fighter-iii-3rd-strike"
-    },
-    {
       "eventId": "1684091",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -371,7 +358,7 @@
       "game": "Tekken 8",
       "tournament": "HEATWAVE Tournament #4",
       "event": "Heatwave Tournament",
-      "entrants": 91,
+      "entrants": 92,
       "online": true,
       "major": false,
       "startAt": "2026-11-22T13:00:00.000Z",
