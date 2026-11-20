@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-20T04:00:22.434Z",
+  "generatedAt": "2026-11-20T05:00:38.584Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
-          "title": "Vitality to shut down academy project",
-          "url": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
-          "source": "HLTV news",
-          "published": "2026-11-19T13:28:00.000Z",
-          "score": 8,
+          "title": "CS2’s Cobblestone Comeback Leaves Premier Out in the Cold",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbFQtb3JlUUx6dWJhNmNfMnZ6LUtpVER1VjZ0ZV8xNTJfOEtqa202cEFFX1VSbDk3YWp5Qi1wNlUxSG9fSVZhRVdvM2ZBMjNjS3pFTU16NXlGOENJMy0xaGtLeU82VE9RQUZQT0o5WTRURHBTWHFHWlA0MjYtQzF6Si1CYV9lVWwwb2FWY0VnVVJWLVBFajJxY3B3?oc=5",
+          "source": "Google News: CS2 (POPTOPIC)",
+          "published": "2026-11-19T06:07:33.000Z",
+          "score": 7,
           "level": "breaking",
           "why": [
-            "shut down",
-            "vitality"
+            "comeback",
+            "leaves"
           ]
         },
         {
@@ -34,17 +34,6 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IV2w0YzlBazRKVlVtU2RFdkZ3em4zcTItTUtQejJacm01SlJBVktnbmVIRmxLbDV3UzNOU3JudHNiM3dzejFYV1JfbC1xVFZKRU92WFVlUURpTzFzOTdsbDdkSHVlOGUzbmc?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
           "published": "2026-11-19T17:35:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL announce Singapore Major talent lineup",
-          "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
-          "source": "HLTV news",
-          "published": "2026-11-19T14:00:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -74,10 +63,10 @@
           ]
         },
         {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-19T17:40:00.000Z",
+          "title": "ex-INOX Division CS2 (ex-inox-division) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41Y1gxaHZyaUJtcWNJQVV5T0M4a2VwSDlCUkNrSVhnWVNpMFpaT09YTksyc3dFUjU0QnNWRzhxblJzQ2ZrYzhTOHBSZUdsM0IyODAxdlhnelhiZTJ6?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-19T05:39:59.000Z",
           "score": 1,
           "level": null,
           "why": []
