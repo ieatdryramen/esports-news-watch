@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T21:35:19.154Z",
+  "generatedAt": "2026-11-20T22:05:21.225Z",
   "source": "start.gg",
   "completed": [
     {
@@ -191,53 +191,6 @@
       ]
     },
     {
-      "eventId": "1757449",
-      "scene": "legacyfgc",
-      "game": "Virtua Fighter 5",
-      "tournament": "CFG Tuesday Trials 267: Lehaunting of Hilliard GA",
-      "event": "Virtua Fighter 5 R.E.V.O.",
-      "entrants": 16,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-18T00:00:00.000Z",
-      "endAt": "2026-11-18T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/cfg-tuesday-trials-267-lehaunting-of-hilliard-ga/event/virtua-fighter-5-r-e-v-o",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Truly | Mangocopter"
-        },
-        {
-          "placement": 2,
-          "name": "Suna"
-        },
-        {
-          "placement": 3,
-          "name": "TRULY | JSwish"
-        },
-        {
-          "placement": 4,
-          "name": "TRULy | Mag3r"
-        },
-        {
-          "placement": 5,
-          "name": "BlakerStreet"
-        },
-        {
-          "placement": 5,
-          "name": "TRULY | OrientalXpress"
-        },
-        {
-          "placement": 7,
-          "name": "YBAS | AtMyAxlLowest"
-        },
-        {
-          "placement": 7,
-          "name": "Gotta Catch | Satan Shark"
-        }
-      ]
-    },
-    {
       "eventId": "1754042",
       "scene": "tekken",
       "game": "Tekken 8",
@@ -358,7 +311,7 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "Left Coast Battleground #8",
       "event": "3S Double Elimination",
-      "entrants": 22,
+      "entrants": 23,
       "online": false,
       "major": false,
       "startAt": "2026-11-23T01:01:00.000Z",
