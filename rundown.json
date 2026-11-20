@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-11-20T00:00:42.929Z",
+  "generatedAt": "2026-11-20T01:00:28.618Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 4,
+      "storyCount": 11,
       "stories": [
+        {
+          "title": "Vitality to shut down academy project",
+          "url": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
+          "source": "HLTV news",
+          "published": "2026-11-19T13:28:00.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "shut down",
+            "vitality"
+          ]
+        },
+        {
+          "title": "CS2’s Cobblestone Comeback Leaves Premier Out in the Cold",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbFQtb3JlUUx6dWJhNmNfMnZ6LUtpVER1VjZ0ZV8xNTJfOEtqa202cEFFX1VSbDk3YWp5Qi1wNlUxSG9fSVZhRVdvM2ZBMjNjS3pFTU16NXlGOENJMy0xaGtLeU82VE9RQUZQT0o5WTRURHBTWHFHWlA0MjYtQzF6Si1CYV9lVWwwb2FWY0VnVVJWLVBFajJxY3B3?oc=5",
+          "source": "Google News: CS2 (POPTOPIC)",
+          "published": "2026-11-19T06:07:33.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "comeback",
+            "leaves"
+          ]
+        },
         {
           "title": "Esports Awards 2026: CS2 Wins Best Esports Game of the Year Award, and More",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtlSGtvMWFNTjZpWHlPNF85WmV5TG5BV0RQeG1VRzBBWWhnR0xvQjdPREV6YWo5Vmw3NGl5MW42cm9KRTRpMUVKMWdCeVd6RllrSV9GSlVmTXJ6UEc1Mmc3TnRzdkdQYjNRbUNhZ2Q5SzNETjVJVnEtWXZubXRZa2t0VlY3ckZESUNEeHlfV0ZTX2pwUUp3aVktVlNCTzlDdFdqOUhJQTVUbms?oc=5",
@@ -18,10 +42,32 @@
           ]
         },
         {
+          "title": "100 Thieves and Fnatic Complete the PGL Cluj-Napoca 2027 CS2 Field",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGxhWmd0ZXRBWVhpeHZ6dVQ0d0VCcnBlWEp0YmJXNE5yS3hoWVZ3Wm5ZUzlDSlBnTnYxejZqb3lUbk1SY1hoS3RuZWZHU3FvaUYyUzRSSjI1eTctaDB3ZWI0X3hRME1YNUJSVlFHZHI5ZWlEN1VCOHIxWjh6VlRpR25R?oc=5",
+          "source": "Google News: CS2 (Happy Gamer)",
+          "published": "2026-11-19T21:09:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "PGL Major Singapore 2026: Player Ages and Countries",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IV2w0YzlBazRKVlVtU2RFdkZ3em4zcTItTUtQejJacm01SlJBVktnbmVIRmxLbDV3UzNOU3JudHNiM3dzejFYV1JfbC1xVFZKRU92WFVlUURpTzFzOTdsbDdkSHVlOGUzbmc?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
           "published": "2026-11-19T17:35:07.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL announce Singapore Major talent lineup",
+          "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
+          "source": "HLTV news",
+          "published": "2026-11-19T14:00:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -40,10 +86,39 @@
           ]
         },
         {
-          "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlRQU0g3R0dZY2VKVFpZaXJJVWRnWFB4cGVzZ0V2ekZaUHVyaG5XNnlmOFBvVjIzbnFOdkFJcEJldHYzNy1XNFp4RGdJdXNoVUNxUHdQZW1VXy1EdGRLNGlzTjVWSXgydm50ZWFUOWVnUmw5aXhwYl9aZFRwRjZOOXBOdkY4NjZvSVE?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-19T00:03:52.000Z",
+          "title": "Latest CS2 Update Fixes Cobblestone and Introduces X-Ray Scanner for Swiss Players",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHltN0xKWXBzSGpEVzFibXJuVklJZnMzYTBYNEowUWtiRTZEUmdFbFQ0VFBYSmo0Rkd2b01JUE83RGh5YVpLb2t5WUxibDBZbGt5R2JJV2JxZ3BSclZlb2NOUTQwR0dsaFEwRUdVV093Z3ZTcktEbG53SDlEQzBUQjVyU1B1SlYxeS16QmJtRFpVMDFXVDFTWEROMmZUeFZ0Q3RNRlFaT1MwNWRqSlc0NDZ1Y2huLUJlLUJF?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-19T12:19:22.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-19T17:40:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "ex-INOX Division CS2 (ex-inox-division) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41Y1gxaHZyaUJtcWNJQVV5T0M4a2VwSDlCUkNrSVhnWVNpMFpaT09YTksyc3dFUjU0QnNWRzhxblJzQ2ZrYzhTOHBSZUdsM0IyODAxdlhnelhiZTJ6?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-19T05:39:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "DJ DIESEL and Hairitage Introduce 'BANG YOUR HEAD' Track Transforming CS2’s Audio Experience",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUpKdnB1WFduRGIyZnFibmlVSUh6czJmS2pxc0pUamwtVWFjcFROZGFWSzBoMnpzRWxKSTV4ckR1MXNpVmhMOURVT2RjcHRBclFuNGRRQ243QkdVNXNqalpxZndxSTdRbnhNRWdodzhWUUtiSWJ2RUVOSFdTY2V1UlpGTll0eENob05VOHZEOUU1RFJzaFdNdTBYSUF4TkpHbUZQMVlJUnFaTG1ESGp0dUNtZ1BYTjQ?oc=5",
+          "source": "Google News: CS2 (112.ua)",
+          "published": "2026-11-19T01:06:22.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -52,7 +127,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "HULIGANI beat Nemiga 2-0 again to set up Froglings clash at DreamLeague Division 2",
@@ -74,6 +149,18 @@
           "level": null,
           "why": [
             "update"
+          ]
+        },
+        {
+          "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbGNQQjY5VW5zYmpZdXVpMFJZSnZlWFlqN2Q0OTI1c2hxQU5qZnVnTkhKQVJaSzhvZHVkTTNrYzVYM055TjdORktUNHJSX2NMX25kVU05SEQzTEp4YmV2dm44QWhzZw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-19T22:05:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update",
+            "-patch notes"
           ]
         },
         {
@@ -104,18 +191,6 @@
           "why": []
         },
         {
-          "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbGNQQjY5VW5zYmpZdXVpMFJZSnZlWFlqN2Q0OTI1c2hxQU5qZnVnTkhKQVJaSzhvZHVkTTNrYzVYM055TjdORktUNHJSX2NMX25kVU05SEQzTEp4YmV2dm44QWhzZw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-19T05:35:41.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update",
-            "-patch notes"
-          ]
-        },
-        {
           "title": "All New Items In Dota 2 Patch 7.42 [7 New Items Explained]",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZHkxYUhnTkJXd25sSkdYYjNVZlA5SEFQUGw3OXM4bkI3eHl0cEtvWWU3MDdfX25GUVlFZmNLdmdmSEZPOUZJZmlFbjVpM2hGTUhxVFJrak9xMXNoNjZ4UHZKSHBZd3V5TVYyZEVXejlSemZtMktnag?oc=5",
           "source": "Google News: Dota (Hotspawn)",
@@ -123,6 +198,19 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "DreamLeague Season 30: Western Europe Closed Qualifier - Dota 2 - Viewership, Overview, Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanFOSFBjdmRwVFV2NE9SWm5EWVgwODNrQVUtcS0zYm5CM2tDYlpLUWFMNERPaUZUX25TODRZMDd4S1JKSjBwRHpIS2dJSHZNVHAyOENTUGpCbXk3cFFPZlZTd0lMajRrWGhKOUstVWs0U0dmUktxVlN1ZVMyS1Y3SkhTQm96TTlRbE5uaFZCSnJyb3JIeUZV?oc=5",
+          "source": "Google News: Dota (Esports Charts)",
+          "published": "2026-11-19T20:59:34.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "prize pool",
+            "dreamleague",
+            "-viewership, overview"
+          ]
         }
       ]
     },
@@ -166,6 +254,21 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "$200 Super Turbo Monster Stack Payouts | 2026 Bar Poker Open Atlantic City Championship",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUl3TTJGZHVVc1prVUJ0TlVQb3dialVfWmY1VkJJMmNLVGFkdUdxclBiY1dTbFFRRnQxYjMwTC1LQ3J3VzZpamVlcS1LYlVqU2twdHZNV190WkVhNnJwZ3FfRnE4NDRYSWlOX0hydlFQVXJHX0g5VEJHbkNhdE1rZktUNWNYMWUxTTZDQ2JXaXh2SmZwZGFxUGZSUGdNdzg2SDFSSkV4cVBYdjRaRWdoV2tNVXRrWWZ6U19ZT2Z1MFpqR3dNVGp5NEZQMFVXVFhu?oc=5",
+          "source": "Google News: Street Fighter (PokerNews)",
+          "published": "2026-11-20T00:37:49.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -173,7 +276,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Street Fighter",
     "Tekken",
     "Legacy FGC",
     "CoD",
