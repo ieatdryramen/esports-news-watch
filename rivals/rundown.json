@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T01:00:34.176Z",
+  "generatedAt": "2026-11-20T02:00:27.728Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -86,6 +86,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "The Art Of Marvel Rivals Volume 2 Is Coming From Dark Horse Books Next Year, And Preorders Are Open",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDltQkpCNjRidE5vTUhEZ0w0S3B2VWQwSWNMc21BWkJ2c2ViX3lVUzBha3pDRXBGQmZfaVJfM3lBV3lVU25JRUhRc21sdDlOcWplRGZIZ1ZqWkNSeWQ2ZGhCNTkzVUlVQXVySHRZM2xOcHpQLVJnOGRGUGZPZDRabk1OeUZqMlFHbnQwZ1RkY3cyc2ZGZ2wwYV9uVE9YLVA1a0s4cmV5cVYxM1NKZXVIU1B5NzF5TVhtQmgydUd6b2RNM3V6YUdhQjNhQXJpdmRo?oc=5",
+          "source": "Google News: Rivals patches (GameFragger.com)",
+          "published": "2026-11-20T01:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals promises up to 1,900 Units, minus the mission homework",
