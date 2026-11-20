@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T21:50:21.058Z",
+  "generatedAt": "2026-11-20T22:00:24.950Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -71,8 +71,19 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Nemesis defeat Team Spirit 2-0 at BLAST SLAM IX",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ19IRllvc1VOb0lNcWNpOGlQTzM4cDJ2c0hWVnBhekpfclptNUY3OWQ5TjFsQWRjSzh2SVR3VnVqQWpWeEUtaHkxY0h3Nl9tQi1Yc19UZHNQd1ZxWlVJV2w5SWt0UVhnWDNMVGxEakF2Z1l1UmltcFhFVG5UcS00YVZrVVRDMXFfWEtBcGotdXoyNmlhQmFfZlEzQVhPMXEyX1pDYg?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-11-20T18:09:09.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
         {
           "title": "CyberHero Come From a Map Down to Knock Froglings Out of DreamLeague",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemc1d1lxSzBnZU8tcUwzRlZ5UmVwN3lSaXJHMWl5cXh6YjdvQ2tGUXRwOG9QUjJxd3Nhb0U1RTc2c053TXRYM205UHdjQUxGRlJCMlJydGYzaWgtdmstcHdSVU5RcDI2UlU3V3hUbHo3MTRuRzRPdWs2N3dVclFZNEVn?oc=5",
