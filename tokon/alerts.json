@@ -1,22 +1,3 @@
 {
-  "alerts": [
-    {
-      "alertedAt": "2026-11-18T17:35:33.374Z",
-      "level": "possible",
-      "scene": "Marvel Tokon",
-      "title": "Marvel Tokon: Fighting Souls patch notes for November 18, 2026 update",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOUZ0V3hDeGVuTG1SR2UzNzNMY0xQVTEwQWlNS0VFS2lzM1RKWDRtWFdHYUVUNmJVRFpTb2hpWVdyX0xRZEFYaHY0NU1zNUdHTWZ2cUN0SkJzMHI2R3pyU09fZ0daVG5JUWZ1TWFvd3gtbmRRT3RINFNtLTJ5TUV2eHRGVQ?oc=5",
-      "source": "Google News: Tokon (EventHubs)",
-      "outlets": [
-        "EventHubs"
-      ],
-      "score": 5,
-      "why": [
-        "update",
-        "patch notes"
-      ],
-      "summary": "",
-      "published": "2026-11-18T17:23:33.000Z"
-    }
-  ]
+  "alerts": []
 }
