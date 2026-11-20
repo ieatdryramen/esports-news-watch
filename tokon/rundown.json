@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:00:35.585Z",
+  "generatedAt": "2026-11-20T15:00:31.240Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,14 +7,14 @@
       "storyCount": 1,
       "stories": [
         {
-          "title": "HookGangGod releases new Marvel Tokon: Fighting Souls tier list that declares that Phoenix Cyclops is 'for sure top tier'",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4VVdma1JyN200OW9EQndIa2VNTnVjdGpSdlpWUDIxZ19uRG45a3JXRENtQ1hEN1czT3Z0TnIxNGVWZGJCcjRtZU52ejE1TE1nWFJVNWlfcW5nTGFCa0hRVi10V2huMDNSUDBrS1pGWUppUFRVQjAycmtzOVEyX00?oc=5",
-          "source": "Google News: Tokon (EventHubs)",
-          "published": "2026-11-19T14:25:23.000Z",
-          "score": 2,
+          "title": "Marvel Tokon: Fighting Souls Unveils ‘Phoenix Cyclops’ as the First Year 1 DLC!",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1FZa3I4WkFTMjAycEZ6YzFZWThkOWlyUllxOXh0Uzc4RjMtSGFUQ3lpaEFXUmRJX1FWbTNrVVFvdTllTWdTYUx3S3IydWI1WTJQV0Q2WnlvbFA2UGIwOHZjeFBfUVpMRi15N2ZBUjNlNnN5VGdPS0FFV1VrcVZWQ0pTZVI1alkwMmdWLUc5WUtLQjN3N2ZGTFFNQ1pKRmNkcWZN?oc=5",
+          "source": "Google News: Tokon (TechJuice)",
+          "published": "2026-11-20T07:19:55.000Z",
+          "score": 4,
           "level": null,
           "why": [
-            "tier list"
+            "dlc"
           ]
         }
       ]
