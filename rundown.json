@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-19T23:00:25.198Z",
+  "generatedAt": "2026-11-20T00:00:42.929Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 4,
       "stories": [
-        {
-          "title": "Vitality to shut down academy project",
-          "url": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
-          "source": "HLTV news",
-          "published": "2026-11-19T13:28:00.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "shut down",
-            "vitality"
-          ]
-        },
         {
           "title": "Esports Awards 2026: CS2 Wins Best Esports Game of the Year Award, and More",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtlSGtvMWFNTjZpWHlPNF85WmV5TG5BV0RQeG1VRzBBWWhnR0xvQjdPREV6YWo5Vmw3NGl5MW42cm9KRTRpMUVKMWdCeVd6RllrSV9GSlVmTXJ6UEc1Mmc3TnRzdkdQYjNRbUNhZ2Q5SzNETjVJVnEtWXZubXRZa2t0VlY3ckZESUNEeHlfV0ZTX2pwUUp3aVktVlNCTzlDdFdqOUhJQTVUbms?oc=5",
@@ -33,18 +21,7 @@
           "title": "PGL Major Singapore 2026: Player Ages and Countries",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IV2w0YzlBazRKVlVtU2RFdkZ3em4zcTItTUtQejJacm01SlJBVktnbmVIRmxLbDV3UzNOU3JudHNiM3dzejFYV1JfbC1xVFZKRU92WFVlUURpTzFzOTdsbDdkSHVlOGUzbmc?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-19T17:26:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL announce Singapore Major talent lineup",
-          "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
-          "source": "HLTV news",
-          "published": "2026-11-19T14:00:00.000Z",
+          "published": "2026-11-19T17:35:07.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -63,15 +40,6 @@
           ]
         },
         {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-19T17:40:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
           "title": "CS2 Singapore Major team and autograph stickers: Best picks, how to buy",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlRQU0g3R0dZY2VKVFpZaXJJVWRnWFB4cGVzZ0V2ekZaUHVyaG5XNnlmOFBvVjIzbnFOdkFJcEJldHYzNy1XNFp4RGdJdXNoVUNxUHdQZW1VXy1EdGRLNGlzTjVWSXgydm50ZWFUOWVnUmw5aXhwYl9aZFRwRjZOOXBOdkY4NjZvSVE?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
@@ -84,7 +52,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
         {
           "title": "HULIGANI beat Nemiga 2-0 again to set up Froglings clash at DreamLeague Division 2",
@@ -95,39 +63,6 @@
           "level": null,
           "why": [
             "dreamleague"
-          ]
-        },
-        {
-          "title": "Team Liquid Land Argentine Support Ackerman Over LYON to Pair With Josedeodo in 2027",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVZ3NUFYQzVWa1BBSnFOZWJsLXowWFRNdVZtM3gzVFRqeDlIbUdaX1lDUkhZeWNVZmRGRmliazJsNHFxazYxWGozakUxYkNzVGxsd20zeFlVT1RkYWV4LWpuUlZXc0YzZV9OYk9TTFFqZkV5ZnlaT2NsNEJTVDZ1VDJoeHlxRkxxN1phRnFIR3A4d1Z1SVV3d1JxQWRSWnlNdmc?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-19T10:04:53.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team liquid"
-          ]
-        },
-        {
-          "title": "PARIVISION down Team Spirit to claim 1win Essence III championship",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXJDVWpTcm05LUM1eE5sNVM3aDBGdDMtYlBSZmVweUcxZ0E0MzFGM2hGVU1jQmpfbUZYcXRVYXpSZUlBdHpyZ1duZEZZSEhqU3JwNFJqaTBIU2VIQ0JwNmhZWHI5aTJRVElOOXJzWkZsWUFtNnFhSENHdm9uOFNBV0RrWjNlQWx5QUhEaGdZQkhGbFlpQW1VNEpwa1V2U2Z1OXA3NVN3?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-19T09:40:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
-        },
-        {
-          "title": "Team Spirit sends Aurora Gaming to the lower bracket, claims first final spot at Dota 2 1w Essence 3",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXk4WG1xQUl4Zzh6MFhTSlRFWG1BTkl1ZGtKcE5qWnZ1LTJnXzdXZU9MT3ZuYkdFZ1JWRTA3WVVtNktIRU9OVk1VQUxrLWN3REx1QlJRbVpJYjI1MGRjaGhvMEFRU2F1ZmdwQVVNal9OMXFYNzhieTNtTHhtUXdqVEg1UkRrbHV3dzZtTWI5ZThLZVFNUUItYzNkcllucFZOWVlISXBYOVByb2hNRk1DTQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-18T23:52:18.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
           ]
         },
         {
@@ -146,6 +81,15 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmxkM0hjcnFSOUJ6OElXdFM3eUxDWm02U28yalhNVFE4NHBvOUk5RjFkQjJvdExnWjdnSjhlbkwwRjluRWdHYVd0MG5wQVNVMlNDeEltaF92MEF4Ym9ZVllMODFueE5oTVI2bWFGb2tBbWtqOG5NajlzZmcwOEZINXF1aVR3Z1JzZm14bHVxTFd2ejNuNGtKM184Y3lLek41SGtB?oc=5",
           "source": "Google News: Dota (Hotspawn)",
           "published": "2026-11-19T15:43:43.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 Patch 7.42 Notes: Map, Item and Neutral Creep Changes – Esports News Network",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GYk9xNnJmT1FkUFJrMUc3OHdQZ2VEUWVhczFUVDJvQkFIU1p0ZmVfNUVoOW41eG5nWkFTTmJobHcxRWpUd0dSajJUSGNvNzVPblpKVkVVdm1TdjBiVXhxSFhQdVRpWXF2S2F4MTV3?oc=5",
+          "source": "Google News: Dota (ESTNN)",
+          "published": "2026-11-19T14:44:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -207,10 +151,24 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Ex-Nintendo Leads Now Pitch a Smash Bros. Melee Remake, but One Problem Hasn’t Changed",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSXJEZWp4MzdDR002M0pVWFBDcWVkeHJMZHVFMU9ob1ZLSnpZRDFHalNiS3FtODFkWEQ4Yk1iQk51ZWktakxOYXc1cnhmYlNwangtQkVqSjFMakgyRUQ0UmV4dTEtZnBVcHZzTQ?oc=5",
+          "source": "Google News: Melee (GameRant)",
+          "published": "2026-11-19T23:35:14.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Brood War",
     "Trackmania",
