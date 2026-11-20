@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T09:00:46.378Z",
+  "generatedAt": "2026-11-20T10:00:30.512Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 11,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -27,17 +27,6 @@
           "level": "possible",
           "why": [
             "update",
-            "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Rivals November 19 2026 Patch Notes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXFGWVEydWVEQnl0NHFnRnFWcFBfNjhZWFQtckpHUDlfUEVSYUUyZ2NUT0gtbTlRVlU2Y2dNaWpkU245N0dldzFpTUpMZlp1ZktaVEM5OGdRVDVNdFNmWm0zNERqbU5yQ2VZRlY0eGRGXzhqVEM1WThPNS1mRGpXR2U5dm1RSzZtcGc?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-19T09:31:08.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
             "patch notes"
           ]
         },
@@ -108,15 +97,6 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlVGakY4blI4a3pTNUhpMFN4ZkdDVGsyOWN5Q0drQzRZZnh1WFhpRjhkekZJNGxmenNrR3Yyc3hkNFUtX1FjZ3N2bjQ2d1Zfa1JEQm92Q1BuX3AwbnNKX2lyNk1tR0c2ZThXOTcwTldETC05S0p3V2lNbXVFcFdwREZNUTJDZE83Wk9qc3ZXU19qcTBuV2M4WFJZb0x4UQ?oc=5",
           "source": "Google News: Rivals esports (A 90s Kid)",
           "published": "2026-11-19T12:26:06.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "How to use Marvel Rivals experimental optimized client",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDRmdkUGtVbUFWeWNxVURzdkJjSXpwdEZGNVUwTlNmRExqZXNYYzdaX3p5TjB3ZWNtZHNGNGxlVVNSb3NqdlFmVkctT2RkMW9QUEItQUYxeTlFdV93Tk1lelo5b2FCSDVpQzk5YUtSSHQ2a0N4enc?oc=5",
-          "source": "Google News: Rivals esports (Dot Esports)",
-          "published": "2026-11-19T09:27:00.000Z",
           "score": 1,
           "level": null,
           "why": []
