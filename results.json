@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:35:15.779Z",
+  "generatedAt": "2026-11-20T12:05:22.611Z",
   "source": "start.gg",
   "completed": [
     {
@@ -288,32 +288,6 @@
   "live": [],
   "upcoming": [
     {
-      "eventId": "1635588",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "Battle Coliseum 2026",
-      "event": "Street Fighter 6 - PC",
-      "entrants": 134,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-20T12:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/street-fighter-6-pc"
-    },
-    {
-      "eventId": "1645172",
-      "scene": "legacyfgc",
-      "game": "The King of Fighters XV",
-      "tournament": "Battle Coliseum 2026",
-      "event": "The King of Fighters XV - PC",
-      "entrants": 36,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-20T13:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/the-king-of-fighters-xv-pc"
-    },
-    {
       "eventId": "1714612",
       "scene": "legacyfgc",
       "game": "Guilty Gear -Strive-",
@@ -351,19 +325,6 @@
       "startAt": "2026-11-21T12:00:00.000Z",
       "endAt": "2026-11-21T21:00:00.000Z",
       "url": "https://www.start.gg/tournament/provisional/event/melee-singles"
-    },
-    {
-      "eventId": "1635589",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "Battle Coliseum 2026",
-      "event": "Guilty Gear: Strive (AWT PLATINUM) - PC",
-      "entrants": 76,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T13:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/guilty-gear-strive-awt-platinum-pc"
     },
     {
       "eventId": "1720181",
