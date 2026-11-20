@@ -1,45 +1,7 @@
 {
-  "generatedAt": "2026-11-20T19:00:28.329Z",
+  "generatedAt": "2026-11-20T19:55:34.082Z",
   "windowHours": 24,
   "scenes": [
-    {
-      "scene": "CS2",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Infographic: PGL Major Singapore",
-          "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-20T14:24:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "ending*",
-            "pgl"
-          ]
-        },
-        {
-          "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
-          "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
-          "source": "HLTV news",
-          "published": "2026-11-20T11:14:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "replaces"
-          ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-20T15:31:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
     {
       "scene": "Legacy FGC",
       "storyCount": 1,
@@ -181,6 +143,7 @@
     }
   ],
   "quiet": [
+    "CS2",
     "AoE2",
     "Classic Tetris",
     "Brood War",
