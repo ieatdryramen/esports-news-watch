@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:35:15.362Z",
+  "generatedAt": "2026-11-20T01:05:18.625Z",
   "source": "start.gg",
   "completed": [
     {
@@ -328,53 +328,6 @@
         {
           "placement": 5,
           "name": "IBUSHIGIN | Johnny"
-        }
-      ]
-    },
-    {
-      "eventId": "1753251",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "TNS Guilty Gear Strive #231",
-      "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 122,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-17T01:00:00.000Z",
-      "endAt": "2026-11-17T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-231/event/guilty-gear-strive-crossplay",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Gamer Supps | FubukiVr"
-        },
-        {
-          "placement": 2,
-          "name": "39 | *Insert*"
-        },
-        {
-          "placement": 3,
-          "name": "ONi | RedIAmNot"
-        },
-        {
-          "placement": 4,
-          "name": "TestYourLuck"
-        },
-        {
-          "placement": 5,
-          "name": "RRR | MacMens"
-        },
-        {
-          "placement": 5,
-          "name": "Domi"
-        },
-        {
-          "placement": 7,
-          "name": "YoKai | Lasagna_Slayer"
-        },
-        {
-          "placement": 7,
-          "name": "MjKurase"
         }
       ]
     }
