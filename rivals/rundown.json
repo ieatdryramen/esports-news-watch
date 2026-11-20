@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T22:45:28.412Z",
+  "generatedAt": "2026-11-20T23:45:20.405Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Explore More Stunning Visuals as The Art of Marvel Rivals Returns for Volume 2",
@@ -22,15 +22,6 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDltQkpCNjRidE5vTUhEZ0w0S3B2VWQwSWNMc21BWkJ2c2ViX3lVUzBha3pDRXBGQmZfaVJfM3lBV3lVU25JRUhRc21sdDlOcWplRGZIZ1ZqWkNSeWQ2ZGhCNTkzVUlVQXVySHRZM2xOcHpQLVJnOGRGUGZPZDRabk1OeUZqMlFHbnQwZ1RkY3cyc2ZGZ2wwYV9uVE9YLVA1a0s4cmV5cVYxM1NKZXVIU1B5NzF5TVhtQmgydUd6b2RNM3V6YUdhQjNhQXJpdmRo?oc=5",
           "source": "Google News: Rivals patches (GameFragger.com)",
           "published": "2026-11-20T01:11:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals promises up to 1,900 Units, minus the mission homework",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNakcybUFVbVNJNlVIcmM3WTNVbGlqLTBVSl93aGVqZXlBOGMtTzBEVlVKdXQxb2NQYUFEUVFpNFVENEV2SzhN?oc=5",
-          "source": "Google News: Rivals esports (Digg)",
-          "published": "2026-11-19T23:16:21.000Z",
           "score": 1,
           "level": null,
           "why": []
