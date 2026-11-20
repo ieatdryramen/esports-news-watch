@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:05:21.225Z",
+  "generatedAt": "2026-11-20T22:35:15.136Z",
   "source": "start.gg",
   "completed": [
     {
@@ -285,7 +285,7 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "A DIY Friendsgiving",
       "event": "DIY 3s Singles",
-      "entrants": 24,
+      "entrants": 25,
       "online": false,
       "major": false,
       "startAt": "2026-11-22T00:00:00.000Z",
