@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-20T14:00:28.507Z",
+  "generatedAt": "2026-11-20T15:00:26.979Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Infographic: PGL Major Singapore",
+          "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-20T14:24:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "ending*",
+            "pgl"
+          ]
+        },
         {
           "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
           "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
@@ -41,19 +53,8 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 6,
       "stories": [
-        {
-          "title": "Dota 2 gets a major update during a tournament final",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3RvS1dCTDBzZUxSVDV0NWR1bDZDLTZUMHhGQkY1V0dTdDVRU2I0YzJRWXhXQWRCTFVtSmp3T3VVTGNBQ09pTGE0RV9zb0dyNUhKTlN3ZkRLZDh6ZEdHeThLaXl0WHBEeGI0THZnR0NxQ0xSTVd1RWJNRk4yejFwV1F3eVdVNk1DZ0dESGpCbEdOLUxvZmJhVWpn?oc=5",
-          "source": "Google News: Dota (WIN.GG)",
-          "published": "2026-11-19T14:16:31.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
         {
           "title": "Dota 2 1win Essence III: All teams, schedules, results",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
@@ -98,15 +99,6 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmxkM0hjcnFSOUJ6OElXdFM3eUxDWm02U28yalhNVFE4NHBvOUk5RjFkQjJvdExnWjdnSjhlbkwwRjluRWdHYVd0MG5wQVNVMlNDeEltaF92MEF4Ym9ZVllMODFueE5oTVI2bWFGb2tBbWtqOG5NajlzZmcwOEZINXF1aVR3Z1JzZm14bHVxTFd2ejNuNGtKM184Y3lLek41SGtB?oc=5",
           "source": "Google News: Dota (Hotspawn)",
           "published": "2026-11-19T15:43:43.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 Patch 7.42 Notes: Map, Item and Neutral Creep Changes – Esports News Network",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GYk9xNnJmT1FkUFJrMUc3OHdQZ2VEUWVhczFUVDJvQkFIU1p0ZmVfNUVoOW41eG5nWkFTTmJobHcxRWpUd0dSajJUSGNvNzVPblpKVkVVdm1TdjBiVXhxSFhQdVRpWXF2S2F4MTV3?oc=5",
-          "source": "Google News: Dota (ESTNN)",
-          "published": "2026-11-19T14:44:00.000Z",
           "score": 1,
           "level": null,
           "why": []
