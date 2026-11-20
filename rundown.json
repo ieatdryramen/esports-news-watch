@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T02:00:24.509Z",
+  "generatedAt": "2026-11-20T03:00:23.119Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -78,6 +78,15 @@
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
           "published": "2026-11-19T17:40:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "ex-INOX Division CS2 (ex-inox-division) Team Overview and Viewers Statistics",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41Y1gxaHZyaUJtcWNJQVV5T0M4a2VwSDlCUkNrSVhnWVNpMFpaT09YTksyc3dFUjU0QnNWRzhxblJzQ2ZrYzhTOHBSZUdsM0IyODAxdlhnelhiZTJ6?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-19T05:39:59.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -175,7 +184,7 @@
     },
     {
       "scene": "Classic Tetris",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Classic Tetris: How a retro puzzle game became a competitive sport, and who won in 2026",
@@ -187,15 +196,6 @@
           "why": [
             "won"
           ]
-        },
-        {
-          "title": "Washington Post. . Over 40 competitors from across Europe gathered in Copenhagen for the annual Classic Tetris European Championship, which has been staged each year since 2015.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEFVTTJfcVVXbmFtcVVVOVlqdWlhU2VSZmVxVGR3dEJCRFByY0NrWUk1Q3lqTDk4aXRTT1VlRWRVT05aSzVQa1NaWFFhTFdlcEJJc3E4QlY2N1FZcWdwRVl4YTFxRmVIN0tadm1ZZ3hOZ2xXYUVHUl9QNExoUHpETDVEbkVuT3dQNmtWUkFfd3R6ZmFnMGZZNmpTS2w4ZUtqOTNJaW1FdmhhRHpEOHlv?oc=5",
-          "source": "Google News: Tetris (Facebook)",
-          "published": "2026-11-19T02:30:02.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
