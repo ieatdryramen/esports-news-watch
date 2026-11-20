@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-20T15:00:30.415Z",
+  "generatedAt": "2026-11-20T16:00:31.178Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 4,
       "stories": [
-        {
-          "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vanVOMnNBT2tuZ0I4YlAzS3d6azlPby1zWDRxeGFxaUZpclNVaHhnNkZ1aF9xM3VrN2NxY0MxbU43N0syWUU4alBueUxEQjVjeXVmcGpRLWlUdWlONXdzYm9nM0V2dW13VFhCMUlPYXJVTnBCMXFTZUo1ZFlyZw?oc=5",
-          "source": "Google News: Rivals esports (Dot Esports)",
-          "published": "2026-11-19T15:50:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "grand finals",
-            "grand finals"
-          ]
-        },
         {
           "title": "Explore More Stunning Visuals as The Art of Marvel Rivals Returns for Volume 2",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczZRWDdkaU1VV2lWcjBDT3BOb2hKN2Z6Q0wxSWNPWmFoQnphRnptUUpzM2ExcDl6Yl94RGhlUW96NDZKWW1iVXJPVFBhYWVOcVZjWkdNWFdvRjNxenIzeTFWUFRZQW83OXlUOVl2ekVJZlJnWkgzYTlUcVc1Z1F2dDBpWXNVZVJyWlVBMlpsNUd6Ull0dG5FYU80OGhzOW15OGJpRjdqOFJ0eXdqSVRQUi1ZMnpPVmxndC16b3NIdFRSZw?oc=5",
@@ -27,17 +15,6 @@
           "level": null,
           "why": [
             "returns"
-          ]
-        },
-        {
-          "title": "How To Improve GAME SENSE in Marvel Rivals | Marvel Rivals Season 11",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56Qi1OV0RuTHRfMldTT1Q2amFMTFhzc0RxTWU5NGgwbFA4cHBudW9vdXU5SU1TZ29aN0RDN1VyUWhvQQ?oc=5",
-          "source": "Google News: Rivals patches (YouTube)",
-          "published": "2026-11-19T15:45:08.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
           ]
         },
         {
@@ -63,15 +40,6 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWRPYTFTcGxMSTI2eDRPdl92aTZUUGtBVllyT3RQcE44cVBGMVZHeUh1OEszc0ZFWTB4SE1GS2I5RVJKQ1JBQzZlZmVmUERJZXNKSzFJS3NnSTVCZ1JDSlhQVzZIWjdGSlZTdUE2akF3NUVaNmVCWjlCZWgxTGxVOTd2OFRyc3RCWnlud3dlMjg5RXFIcDZNV0pYZFhxS1h1Q2J1azB3?oc=5",
           "source": "Google News: Rivals esports (games.gg)",
           "published": "2026-11-19T20:09:28.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Nightcrawler Tandem Teleport Has an Anti-Troll Safeguard",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM05pWldRLUROMXd5YjhxeHV2UllfVmtWTEJNdDhObGY1WFBPWi13OU5BUk9FWmZCVkFpbHpWVFNjWVhFYjU5dE5lZHBfZGZYRTd6Z2tfb2c0VjVmUWJUTU5Nel9qTl9NTm1XSm1NbWh4NlZ2R3ZNZGd2UHV1V1RxM1pramZxVFg0MzZGMg?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-19T15:56:06.000Z",
           "score": 1,
           "level": null,
           "why": []
