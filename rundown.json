@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T11:00:26.719Z",
+  "generatedAt": "2026-11-20T12:00:28.254Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -16,6 +16,17 @@
           "why": [
             "shut down",
             "vitality"
+          ]
+        },
+        {
+          "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
+          "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
+          "source": "HLTV news",
+          "published": "2026-11-20T11:14:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "replaces"
           ]
         },
         {
@@ -85,25 +96,8 @@
       ]
     },
     {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Classic Tetris: How a retro puzzle game became a competitive sport, and who won in 2026",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0lrcldXY1dneFAtNFJGbHZRUk1GYlAzMS1kdTAwWHFKdFY2eU9Jb1dvUWdGOE9zTVp4Vll5RktNWEdmVk9ZWGVIWWFwNjFrb1VBS3dYRDExOFZOZnFta1VseDNwN3Y1N29yMkNIdjhBVEZ5Y0hodjdKRWVFdDRBcGM1dGM0Rm80bmZNeXlZazJMQW44cFctb0ttSGN1VXJJbVZMZTk3aTI4MDdIdDhXZUZ4WFlyZzAwMENCQlNzQXM5UkVwZlhBVHBfal90ZmPSAdwBQVVfeXFMTk0ydy13ZGV4ZEFydEVhWHZPU1dJTlBBQVdBVGc0RllYTzlXY1FzaURWcUc0MFUzQWdGSUZJQzNSUllacFdJbUE5bWJna043NDBQaEtWSTIzVURRQVdTV203X21pVHlWWW5fYzlmN0YyMVhlck1LdTNZUTFUblVNLWFWMVFuM2NBeTJoVDkxZVpuamdsa2VIbHFhcjZicFBvWFlIQ0c1MkhraGF4VTdDN1FZUWsyRnhRUUp5Rlp4SGVXUkZtWjVoNmJfVE8wWjVlMF9MQklFYURDTUtwdQ?oc=5",
-          "source": "Google News: Tetris (IndulgExpress)",
-          "published": "2026-11-19T11:17:12.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "won"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Dota",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Dota 2 gets a major update during a tournament final",
@@ -115,6 +109,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "Dota 2 1win Essence III: All teams, schedules, results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-20T09:45:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
@@ -257,6 +260,7 @@
   ],
   "quiet": [
     "AoE2",
+    "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
