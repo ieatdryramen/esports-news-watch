@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T15:00:26.979Z",
+  "generatedAt": "2026-11-20T16:00:27.006Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 4,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Infographic: PGL Major Singapore",
@@ -30,6 +30,28 @@
           ]
         },
         {
+          "title": "PGL Major Singapore 2026 Talent Lineup: Scrawny and launders Lead NA Group",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2hWTDZOUDFaTGtGZTlFLV9Ca05TOWV6MmhHNkpZVGVoWEtjY3JIV0hsWlRBbjI3ajBRVktQbXhJUS12V3QyMWcyU0lNazhDSjViaEhiSVd5QVUwM1N2dG5zUXdhcVg1YjdvdFdsUDdkZmZtclBaX0NaandfUzBxXzkzVFg3WmR2WlZlbg?oc=5",
+          "source": "Google News: CS2 (EsportsBets.com)",
+          "published": "2026-11-20T09:30:08.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "100 Thieves and Fnatic Complete the PGL Cluj-Napoca 2027 CS2 Field",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGxhWmd0ZXRBWVhpeHZ6dVQ0d0VCcnBlWEp0YmJXNE5yS3hoWVZ3Wm5ZUzlDSlBnTnYxejZqb3lUbk1SY1hoS3RuZWZHU3FvaUYyUzRSSjI1eTctaDB3ZWI0X3hRME1YNUJSVlFHZHI5ZWlEN1VCOHIxWjh6VlRpR25R?oc=5",
+          "source": "Google News: CS2 (Happy Gamer)",
+          "published": "2026-11-19T21:09:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "PGL Major Singapore 2026: Player Ages and Countries",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IV2w0YzlBazRKVlVtU2RFdkZ3em4zcTItTUtQejJacm01SlJBVktnbmVIRmxLbDV3UzNOU3JudHNiM3dzejFYV1JfbC1xVFZKRU92WFVlUURpTzFzOTdsbDdkSHVlOGUzbmc?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
@@ -44,7 +66,7 @@
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
-          "published": "2026-11-20T12:56:00.000Z",
+          "published": "2026-11-20T15:31:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -53,7 +75,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Dota 2 1win Essence III: All teams, schedules, results",
@@ -90,15 +112,6 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wZFBmWGp3ZU5hMUZzNzZ3OHdDeWNQcy02THpEMV9qdVY2N21FM3F6eWFhTWNWR3J6YlV4S05UVVhEYnZacVI5N203MV9ZeGZFX0hISjFrZEhnSm1QZ01UTjVUZ0RVSjU3UnBBV2VR?oc=5",
           "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-20T06:29:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Valve Is Pushing For A Faster Meta In Dota 2 Patch 7.42 - Here's Why",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmxkM0hjcnFSOUJ6OElXdFM3eUxDWm02U28yalhNVFE4NHBvOUk5RjFkQjJvdExnWjdnSjhlbkwwRjluRWdHYVd0MG5wQVNVMlNDeEltaF92MEF4Ym9ZVllMODFueE5oTVI2bWFGb2tBbWtqOG5NajlzZmcwOEZINXF1aVR3Z1JzZm14bHVxTFd2ejNuNGtKM184Y3lLek41SGtB?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-19T15:43:43.000Z",
           "score": 1,
           "level": null,
           "why": []
