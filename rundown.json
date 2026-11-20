@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T16:00:27.006Z",
+  "generatedAt": "2026-11-20T17:00:25.765Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 6,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Infographic: PGL Major Singapore",
@@ -27,28 +27,6 @@
           "level": null,
           "why": [
             "replaces"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026 Talent Lineup: Scrawny and launders Lead NA Group",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2hWTDZOUDFaTGtGZTlFLV9Ca05TOWV6MmhHNkpZVGVoWEtjY3JIV0hsWlRBbjI3ajBRVktQbXhJUS12V3QyMWcyU0lNazhDSjViaEhiSVd5QVUwM1N2dG5zUXdhcVg1YjdvdFdsUDdkZmZtclBaX0NaandfUzBxXzkzVFg3WmR2WlZlbg?oc=5",
-          "source": "Google News: CS2 (EsportsBets.com)",
-          "published": "2026-11-20T09:30:08.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "100 Thieves and Fnatic Complete the PGL Cluj-Napoca 2027 CS2 Field",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGxhWmd0ZXRBWVhpeHZ6dVQ0d0VCcnBlWEp0YmJXNE5yS3hoWVZ3Wm5ZUzlDSlBnTnYxejZqb3lUbk1SY1hoS3RuZWZHU3FvaUYyUzRSSjI1eTctaDB3ZWI0X3hRME1YNUJSVlFHZHI5ZWlEN1VCOHIxWjh6VlRpR25R?oc=5",
-          "source": "Google News: CS2 (Happy Gamer)",
-          "published": "2026-11-19T21:09:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
