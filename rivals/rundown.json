@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T13:00:31.232Z",
+  "generatedAt": "2026-11-20T14:00:34.498Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -19,16 +19,14 @@
           ]
         },
         {
-          "title": "Marvel Rivals Twitch Drops: IGNITE Grand Finals Schedule and Rewards – Esports News Network",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bHV4RENvaml3ZlNlZkVRb1d6VUFpTTNIQnF6R01VLVpLMWZlOFprZjQ5U1QzRnRSaEkyM2pfcnk5VHZ3cThSRGx0c2pFOWRWLTRUeHE5M2dxQWozTDh0d2VvRk5TTm1wLWNDZUdhN2huMXRHVWliVGszdy1Sak0?oc=5",
-          "source": "Google News: Rivals esports (ESTNN)",
-          "published": "2026-11-19T13:26:00.000Z",
+          "title": "Explore More Stunning Visuals as The Art of Marvel Rivals Returns for Volume 2",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczZRWDdkaU1VV2lWcjBDT3BOb2hKN2Z6Q0wxSWNPWmFoQnphRnptUUpzM2ExcDl6Yl94RGhlUW96NDZKWW1iVXJPVFBhYWVOcVZjWkdNWFdvRjNxenIzeTFWUFRZQW83OXlUOVl2ekVJZlJnWkgzYTlUcVc1Z1F2dDBpWXNVZVJyWlVBMlpsNUd6Ull0dG5FYU80OGhzOW15OGJpRjdqOFJ0eXdqSVRQUi1ZMnpPVmxndC16b3NIdFRSZw?oc=5",
+          "source": "Google News: Rivals patches (Get Your Comic On)",
+          "published": "2026-11-20T12:25:00.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "grand finals",
-            "grand finals",
-            "-twitch drops"
+            "returns"
           ]
         },
         {
@@ -56,6 +54,15 @@
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNakcybUFVbVNJNlVIcmM3WTNVbGlqLTBVSl93aGVqZXlBOGMtTzBEVlVKdXQxb2NQYUFEUVFpNFVENEV2SzhN?oc=5",
           "source": "Google News: Rivals esports (Digg)",
           "published": "2026-11-19T23:16:21.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Anniversary Check-In: How to Claim Free Units",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWRPYTFTcGxMSTI2eDRPdl92aTZUUGtBVllyT3RQcE44cVBGMVZHeUh1OEszc0ZFWTB4SE1GS2I5RVJKQ1JBQzZlZmVmUERJZXNKSzFJS3NnSTVCZ1JDSlhQVzZIWjdGSlZTdUE2akF3NUVaNmVCWjlCZWgxTGxVOTd2OFRyc3RCWnlud3dlMjg5RXFIcDZNV0pYZFhxS1h1Q2J1azB3?oc=5",
+          "source": "Google News: Rivals esports (games.gg)",
+          "published": "2026-11-19T20:09:28.000Z",
           "score": 1,
           "level": null,
           "why": []
