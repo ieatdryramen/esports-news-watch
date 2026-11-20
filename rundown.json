@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:00:28.254Z",
+  "generatedAt": "2026-11-20T13:00:26.921Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,10 +7,10 @@
       "storyCount": 8,
       "stories": [
         {
-          "title": "Vitality to shut down academy project",
-          "url": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
-          "source": "HLTV news",
-          "published": "2026-11-19T13:28:00.000Z",
+          "title": "Team Vitality to Shut Down CS2 Academy Team",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FNkhWZzdMRG9Sb19UOGxrbThfVDNtaGduZ3VhWGxNVm1iSnNwWjVRSklBbW9PU3o1ZEZFTW9aeTRxNGQxNHZPLUR4UGswM2FRdjFqam1XZmw4WWh1Q2xyZTh6dm8yZlQ2YU1JU1Z0c3dFaDdwTldGTmJ1dw?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-19T13:58:41.000Z",
           "score": 8,
           "level": "breaking",
           "why": [
@@ -38,6 +38,17 @@
           "level": null,
           "why": [
             "wins"
+          ]
+        },
+        {
+          "title": "100 Thieves and Fnatic Complete the PGL Cluj-Napoca 2027 CS2 Field",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGxhWmd0ZXRBWVhpeHZ6dVQ0d0VCcnBlWEp0YmJXNE5yS3hoWVZ3Wm5ZUzlDSlBnTnYxejZqb3lUbk1SY1hoS3RuZWZHU3FvaUYyUzRSSjI1eTctaDB3ZWI0X3hRME1YNUJSVlFHZHI5ZWlEN1VCOHIxWjh6VlRpR25R?oc=5",
+          "source": "Google News: CS2 (Happy Gamer)",
+          "published": "2026-11-19T21:09:14.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -71,17 +82,6 @@
           "level": null,
           "why": [
             "iem"
-          ]
-        },
-        {
-          "title": "Latest CS2 Update Fixes Cobblestone and Introduces X-Ray Scanner for Swiss Players",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHltN0xKWXBzSGpEVzFibXJuVklJZnMzYTBYNEowUWtiRTZEUmdFbFQ0VFBYSmo0Rkd2b01JUE83RGh5YVpLb2t5WUxibDBZbGt5R2JJV2JxZ3BSclZlb2NOUTQwR0dsaFEwRUdVV093Z3ZTcktEbG53SDlEQzBUQjVyU1B1SlYxeS16QmJtRFpVMDFXVDFTWEROMmZUeFZ0Q3RNRlFaT1MwNWRqSlc0NDZ1Y2huLUJlLUJF?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-19T12:19:22.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
@@ -211,7 +211,7 @@
           "title": "Tekken 8 Roger Jr.: Rocket and Astronaut Stances Explained",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVG5nVWRDT3MxYmtrcHlOTk1UdTMxRy1NV2JCckdZeElkTjU3T2xmR0FlUDR2VnFIWHQ1WGJJT2hxOVVoMlFPVzlELUpaOHYtMEg4djRMY3RVSWo1MW5NZ0w3dm4xYU5ySnQ0SlVCbzR5QW9PTXpCNnRrMVhvcTViby1pcEduTkpyb2Vvbw?oc=5",
           "source": "Google News: Tekken (https://thegame.ph/)",
-          "published": "2026-11-20T06:03:35.000Z",
+          "published": "2026-11-20T07:17:27.000Z",
           "score": 1,
           "level": null,
           "why": []
