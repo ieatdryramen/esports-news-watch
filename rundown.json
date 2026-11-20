@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T06:00:25.518Z",
+  "generatedAt": "2026-11-20T07:00:33.828Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 6,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Vitality to shut down academy project",
@@ -19,17 +19,6 @@
           ]
         },
         {
-          "title": "Esports Awards 2026: CS2 Wins Best Esports Game of the Year Award, and More",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtlSGtvMWFNTjZpWHlPNF85WmV5TG5BV0RQeG1VRzBBWWhnR0xvQjdPREV6YWo5Vmw3NGl5MW42cm9KRTRpMUVKMWdCeVd6RllrSV9GSlVmTXJ6UEc1Mmc3TnRzdkdQYjNRbUNhZ2Q5SzNETjVJVnEtWXZubXRZa2t0VlY3ckZESUNEeHlfV0ZTX2pwUUp3aVktVlNCTzlDdFdqOUhJQTVUbms?oc=5",
-          "source": "Google News: CS2 (IGN India)",
-          "published": "2026-11-19T13:30:53.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
           "title": "PGL announce Singapore Major talent lineup",
           "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
           "source": "HLTV news",
@@ -38,28 +27,6 @@
           "level": null,
           "why": [
             "pgl"
-          ]
-        },
-        {
-          "title": "ESL Reveals 2027 CS2 Tournament Calendar Featuring IEM Beijing",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nY29pWmJqNnZSSVA2ZWlxQ3Y5TDlpYWpUSmZOc3BtQ2VrR3h0LXI0TDgwS3pVN2c5bldwV19Vd1NuSEd3ckJHSWF6emtEcUJQMWRGSXNES2xiUWRRZi1naDdFbWZQZUJUeDhnYnFDUlA?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-19T13:46:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "Latest CS2 Update Fixes Cobblestone and Introduces X-Ray Scanner for Swiss Players",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHltN0xKWXBzSGpEVzFibXJuVklJZnMzYTBYNEowUWtiRTZEUmdFbFQ0VFBYSmo0Rkd2b01JUE83RGh5YVpLb2t5WUxibDBZbGt5R2JJV2JxZ3BSclZlb2NOUTQwR0dsaFEwRUdVV093Z3ZTcktEbG53SDlEQzBUQjVyU1B1SlYxeS16QmJtRFpVMDFXVDFTWEROMmZUeFZ0Q3RNRlFaT1MwNWRqSlc0NDZ1Y2huLUJlLUJF?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-19T12:19:22.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
           ]
         },
         {
@@ -75,7 +42,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "HULIGANI beat Nemiga 2-0 again to set up Froglings clash at DreamLeague Division 2",
@@ -98,6 +65,15 @@
           "why": [
             "update"
           ]
+        },
+        {
+          "title": "All new items in Dota 2 and their effects in patch 7.42",
+          "url": "https://esports.gg/guides/dota-2/new-dota-2-items-patch-7-42/",
+          "source": "esports.gg",
+          "published": "2026-11-20T06:24:55.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
@@ -199,21 +175,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "KiberVostok Sber 2026 brings together Tekken 8 in Vladivostok with one million rubles at stake",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNklwUDNBWmZBZ2pkbUo2RXd2SkNJdDBVLUltd1NOMkowLXZ6T0RLSTNrY3kxU0d6OVRaazJoOVdfcEJYYmFMa1FLenFpVXB6NENFYWpuRzdFUWp3bWVfaU1ORVdESEQ3cmdWYUJnRVF0b1h1c21WNG5BdmY4QldSdlEzWUUwSjdtLXNsdGNQdWVsVDczd2hxZ2FZUlZkeFhESmZOcm11QnNVdjZ3Yk93Y0h3?oc=5",
-          "source": "Google News: Tekken (Foro3D)",
-          "published": "2026-11-19T22:56:33.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -221,6 +182,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Tekken",
     "Legacy FGC",
     "CoD",
     "Quake",
