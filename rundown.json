@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-20T13:00:26.921Z",
+  "generatedAt": "2026-11-20T14:00:28.507Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "Team Vitality to Shut Down CS2 Academy Team",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FNkhWZzdMRG9Sb19UOGxrbThfVDNtaGduZ3VhWGxNVm1iSnNwWjVRSklBbW9PU3o1ZEZFTW9aeTRxNGQxNHZPLUR4UGswM2FRdjFqam1XZmw4WWh1Q2xyZTh6dm8yZlQ2YU1JU1Z0c3dFaDdwTldGTmJ1dw?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-19T13:58:41.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "shut down",
-            "vitality"
-          ]
-        },
         {
           "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
           "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
@@ -27,28 +15,6 @@
           "level": null,
           "why": [
             "replaces"
-          ]
-        },
-        {
-          "title": "Esports Awards 2026: CS2 Wins Best Esports Game of the Year Award, and More",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtlSGtvMWFNTjZpWHlPNF85WmV5TG5BV0RQeG1VRzBBWWhnR0xvQjdPREV6YWo5Vmw3NGl5MW42cm9KRTRpMUVKMWdCeVd6RllrSV9GSlVmTXJ6UEc1Mmc3TnRzdkdQYjNRbUNhZ2Q5SzNETjVJVnEtWXZubXRZa2t0VlY3ckZESUNEeHlfV0ZTX2pwUUp3aVktVlNCTzlDdFdqOUhJQTVUbms?oc=5",
-          "source": "Google News: CS2 (IGN India)",
-          "published": "2026-11-19T13:30:53.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "100 Thieves and Fnatic Complete the PGL Cluj-Napoca 2027 CS2 Field",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGxhWmd0ZXRBWVhpeHZ6dVQ0d0VCcnBlWEp0YmJXNE5yS3hoWVZ3Wm5ZUzlDSlBnTnYxejZqb3lUbk1SY1hoS3RuZWZHU3FvaUYyUzRSSjI1eTctaDB3ZWI0X3hRME1YNUJSVlFHZHI5ZWlEN1VCOHIxWjh6VlRpR25R?oc=5",
-          "source": "Google News: CS2 (Happy Gamer)",
-          "published": "2026-11-19T21:09:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -63,32 +29,10 @@
           ]
         },
         {
-          "title": "PGL announce Singapore Major talent lineup",
-          "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
-          "source": "HLTV news",
-          "published": "2026-11-19T14:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "ESL Reveals 2027 CS2 Tournament Calendar Featuring IEM Beijing",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nY29pWmJqNnZSSVA2ZWlxQ3Y5TDlpYWpUSmZOc3BtQ2VrR3h0LXI0TDgwS3pVN2c5bldwV19Vd1NuSEd3ckJHSWF6emtEcUJQMWRGSXNES2xiUWRRZi1naDdFbWZQZUJUeDhnYnFDUlA?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-19T13:46:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
-          "published": "2026-11-20T10:01:00.000Z",
+          "published": "2026-11-20T12:56:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -97,7 +41,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 9,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Dota 2 gets a major update during a tournament final",
@@ -168,22 +112,10 @@
           "why": []
         },
         {
-          "title": "Dota 2 BLAST SLAM 9 schedule, results, teams, prize pool",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PblVBRW5KWEdUaFZrM1pDNGNFV0lfNUlkbk8tUjJad0FzSFZNdC1kczRCaXppemYxbnJpMC1YajN3eWtodVhXRFN6Rkh2dEdoaFZJX2ROcDRNYUlld2NqTTdHam10clB2dVZ4Y0hUR0djQQ?oc=5",
-          "source": "Google News: Dota (Dot Esports)",
-          "published": "2026-11-20T07:48:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "prize pool",
-            "-schedule"
-          ]
-        },
-        {
-          "title": "DreamLeague Season 30: Western Europe Closed Qualifier - Dota 2 - Viewership, Overview, Prize Pool",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanFOSFBjdmRwVFV2NE9SWm5EWVgwODNrQVUtcS0zYm5CM2tDYlpLUWFMNERPaUZUX25TODRZMDd4S1JKSjBwRHpIS2dJSHZNVHAyOENTUGpCbXk3cFFPZlZTd0lMajRrWGhKOUstVWs0U0dmUktxVlN1ZVMyS1Y3SkhTQm96TTlRbE5uaFZCSnJyb3JIeUZV?oc=5",
+          "title": "DreamLeague Season 29: Western Europe Open Qualifier 1 - Dota 2 - Viewership, Overview, Prize Pool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUpvcEZIZ0xGMF9YVHVCUWY1U1VwTkFrek5Hdm9NS0swUGI1OUp3V3A5OWN5Wkd1allDUDFPei1GZEhEcFh5RlVYMEdraEhLWXVmVTRTeWhwdzlOS09NMmZDS1JxQmlra25jUk51Wkt6NFNLSlNpMFJ5OEtaSHpDNG5qVk1ZYUtaMVJobmdwVHNFcWRVYjRF?oc=5",
           "source": "Google News: Dota (Esports Charts)",
-          "published": "2026-11-19T20:59:34.000Z",
+          "published": "2026-11-19T21:22:17.000Z",
           "score": 0,
           "level": null,
           "why": [
