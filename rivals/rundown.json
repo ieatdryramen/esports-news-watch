@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T19:55:40.450Z",
+  "generatedAt": "2026-11-20T20:55:19.245Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Explore More Stunning Visuals as The Art of Marvel Rivals Returns for Volume 2",
@@ -31,15 +31,6 @@
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNakcybUFVbVNJNlVIcmM3WTNVbGlqLTBVSl93aGVqZXlBOGMtTzBEVlVKdXQxb2NQYUFEUVFpNFVENEV2SzhN?oc=5",
           "source": "Google News: Rivals esports (Digg)",
           "published": "2026-11-19T23:16:21.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Anniversary Check-In: How to Claim Free Units",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWRPYTFTcGxMSTI2eDRPdl92aTZUUGtBVllyT3RQcE44cVBGMVZHeUh1OEszc0ZFWTB4SE1GS2I5RVJKQ1JBQzZlZmVmUERJZXNKSzFJS3NnSTVCZ1JDSlhQVzZIWjdGSlZTdUE2akF3NUVaNmVCWjlCZWgxTGxVOTd2OFRyc3RCWnlud3dlMjg5RXFIcDZNV0pYZFhxS1h1Q2J1azB3?oc=5",
-          "source": "Google News: Rivals esports (games.gg)",
-          "published": "2026-11-19T20:09:28.000Z",
           "score": 1,
           "level": null,
           "why": []
