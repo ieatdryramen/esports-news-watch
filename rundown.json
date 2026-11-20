@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-20T08:00:29.905Z",
+  "generatedAt": "2026-11-20T09:00:40.106Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "Team Vitality to Shut Down CS2 Academy Team",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FNkhWZzdMRG9Sb19UOGxrbThfVDNtaGduZ3VhWGxNVm1iSnNwWjVRSklBbW9PU3o1ZEZFTW9aeTRxNGQxNHZPLUR4UGswM2FRdjFqam1XZmw4WWh1Q2xyZTh6dm8yZlQ2YU1JU1Z0c3dFaDdwTldGTmJ1dw?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-19T13:58:41.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "shut down",
-            "vitality"
-          ]
-        },
         {
           "title": "Esports Awards 2026: CS2 Wins Best Esports Game of the Year Award, and More",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtlSGtvMWFNTjZpWHlPNF85WmV5TG5BV0RQeG1VRzBBWWhnR0xvQjdPREV6YWo5Vmw3NGl5MW42cm9KRTRpMUVKMWdCeVd6RllrSV9GSlVmTXJ6UEc1Mmc3TnRzdkdQYjNRbUNhZ2Q5SzNETjVJVnEtWXZubXRZa2t0VlY3ckZESUNEeHlfV0ZTX2pwUUp3aVktVlNCTzlDdFdqOUhJQTVUbms?oc=5",
@@ -30,54 +18,10 @@
           ]
         },
         {
-          "title": "100 Thieves and Fnatic Complete the PGL Cluj-Napoca 2027 CS2 Field",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGxhWmd0ZXRBWVhpeHZ6dVQ0d0VCcnBlWEp0YmJXNE5yS3hoWVZ3Wm5ZUzlDSlBnTnYxejZqb3lUbk1SY1hoS3RuZWZHU3FvaUYyUzRSSjI1eTctaDB3ZWI0X3hRME1YNUJSVlFHZHI5ZWlEN1VCOHIxWjh6VlRpR25R?oc=5",
-          "source": "Google News: CS2 (Happy Gamer)",
-          "published": "2026-11-19T21:09:14.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026: Player Ages and Countries",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IV2w0YzlBazRKVlVtU2RFdkZ3em4zcTItTUtQejJacm01SlJBVktnbmVIRmxLbDV3UzNOU3JudHNiM3dzejFYV1JfbC1xVFZKRU92WFVlUURpTzFzOTdsbDdkSHVlOGUzbmc?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-19T17:35:07.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL announce Singapore Major talent lineup",
-          "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
-          "source": "HLTV news",
-          "published": "2026-11-19T14:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "ESL Reveals 2027 CS2 Tournament Calendar Featuring IEM Beijing",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nY29pWmJqNnZSSVA2ZWlxQ3Y5TDlpYWpUSmZOc3BtQ2VrR3h0LXI0TDgwS3pVN2c5bldwV19Vd1NuSEd3ckJHSWF6emtEcUJQMWRGSXNES2xiUWRRZi1naDdFbWZQZUJUeDhnYnFDUlA?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-19T13:46:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "iem"
-          ]
-        },
-        {
-          "title": "IEM locked into Beijing through 2028 under three-year ESL agreement",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmpZV2tsVllaVlYwUGxoclMyUXItdEltekZYbzFpbm1La1N1MHZKUjNadDZpa1NfQUhmbkdOYWk1SHdhNzFFZTNaYnNxMjE4VU51d1ZSQmNGbU1NZkFGYTBLdEZubmxXcVNsbEtQclY1MnJ6bElZSkFTc1FCQ05TZWpHXzc2N0R5MjlHa1RFb0Zha0lE?oc=5",
-          "source": "Google News: CS2 (GINX TV)",
-          "published": "2026-11-19T08:08:55.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -94,15 +38,6 @@
           "why": [
             "update"
           ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-19T17:40:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -134,9 +69,9 @@
         },
         {
           "title": "All new items in Dota 2 and their effects in patch 7.42",
-          "url": "https://esports.gg/guides/dota-2/new-dota-2-items-patch-7-42/",
-          "source": "esports.gg",
-          "published": "2026-11-20T06:24:55.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wZFBmWGp3ZU5hMUZzNzZ3OHdDeWNQcy02THpEMV9qdVY2N21FM3F6eWFhTWNWR3J6YlV4S05UVVhEYnZacVI5N203MV9ZeGZFX0hISjFrZEhnSm1QZ01UTjVUZ0RVSjU3UnBBV2VR?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-20T06:29:01.000Z",
           "score": 1,
           "level": null,
           "why": []
