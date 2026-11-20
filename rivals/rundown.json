@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T12:00:33.928Z",
+  "generatedAt": "2026-11-20T13:00:31.232Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -16,18 +16,6 @@
           "why": [
             "grand finals",
             "grand finals"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Update 20261119 Patch Notes",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41dlY3QkNZY0N0UTNac3pJa1FzSzkwSlJqbzBlV21KSlJLdlVnakMxd29YUWdwdHBPWkljRnNrY3NLMmRkazNwby1MUU55eW1SUm1lMXBOTGlEanBzV2NpcnhmWXFwTFBZOU5hOGo0eEpJbUJ4cHc?oc=5",
-          "source": "Google News: Rivals esports (TwistedVoxel)",
-          "published": "2026-11-19T12:59:27.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "update",
-            "patch notes"
           ]
         },
         {
@@ -77,15 +65,6 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM05pWldRLUROMXd5YjhxeHV2UllfVmtWTEJNdDhObGY1WFBPWi13OU5BUk9FWmZCVkFpbHpWVFNjWVhFYjU5dE5lZHBfZGZYRTd6Z2tfb2c0VjVmUWJUTU5Nel9qTl9NTm1XSm1NbWh4NlZ2R3ZNZGd2UHV1V1RxM1pramZxVFg0MzZGMg?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-19T15:56:06.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Opens Times Square Anniversary Hub With No Server Downtime",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlVGakY4blI4a3pTNUhpMFN4ZkdDVGsyOWN5Q0drQzRZZnh1WFhpRjhkekZJNGxmenNrR3Yyc3hkNFUtX1FjZ3N2bjQ2d1Zfa1JEQm92Q1BuX3AwbnNKX2lyNk1tR0c2ZThXOTcwTldETC05S0p3V2lNbXVFcFdwREZNUTJDZE83Wk9qc3ZXU19qcTBuV2M4WFJZb0x4UQ?oc=5",
-          "source": "Google News: Rivals esports (A 90s Kid)",
-          "published": "2026-11-19T12:26:06.000Z",
           "score": 1,
           "level": null,
           "why": []

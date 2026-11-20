@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T12:00:34.741Z",
+  "generatedAt": "2026-11-20T13:00:31.873Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "HookGangGod releases new Marvel Tokon: Fighting Souls tier list that declares that Phoenix Cyclops is 'for sure top tier'",
@@ -16,15 +16,6 @@
           "why": [
             "tier list"
           ]
-        },
-        {
-          "title": "Marvel Tokon's Latest Patch Addresses Game Stability",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWhnbnNjREM4ZnNkc3Naa3JHdzFWTG00WWZyVUEybTZuOFdDNlg0YWFxVTB0RGpHMDA2TS1SeWxoTWRycWtjcHlpS09qX3NUM3U4eWZSemE0Tl95b2ZhdFEwRlNPVFc2X0RfTUZPWm1DZ0h2M1l5SXFnSkZVb0k1TG5JQ1hxYmtGdEhWRw?oc=5",
-          "source": "Google News: EventHubs/Dot/Dashfight (DashFight)",
-          "published": "2026-11-19T12:37:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
