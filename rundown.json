@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:00:26.335Z",
+  "generatedAt": "2026-11-20T11:00:26.719Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -77,7 +77,7 @@
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
-          "published": "2026-11-19T17:40:00.000Z",
+          "published": "2026-11-20T10:01:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -85,20 +85,26 @@
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 9,
+      "scene": "Classic Tetris",
+      "storyCount": 1,
       "stories": [
         {
-          "title": "HULIGANI beat Nemiga 2-0 again to set up Froglings clash at DreamLeague Division 2",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUV80NlJLQ1h0OGNxZm95M2JXTmczWTJrTzA0bGZRaVZKWEtGaUZPUXdmSUppSXhPbzMxS3NSSHFnOFhRTkF5MHZ4Qnk4VmRaY0lDY3gzaWFkQlp3X3M5SFZRYXpIR3A2LWNSclB6SGZWYlFBcDMxdExDX2pCRUE3Z3NZZm1acVpuU092cDhNZ0ZnSGVYRTE3ZnZPSFNKaTFycGxwUV8zdVIzRTJIQWFWekF2N0txNTY0QzBmOFVB?oc=5",
-          "source": "Google News: Dota (Esports News UK)",
-          "published": "2026-11-19T10:24:28.000Z",
+          "title": "Classic Tetris: How a retro puzzle game became a competitive sport, and who won in 2026",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0lrcldXY1dneFAtNFJGbHZRUk1GYlAzMS1kdTAwWHFKdFY2eU9Jb1dvUWdGOE9zTVp4Vll5RktNWEdmVk9ZWGVIWWFwNjFrb1VBS3dYRDExOFZOZnFta1VseDNwN3Y1N29yMkNIdjhBVEZ5Y0hodjdKRWVFdDRBcGM1dGM0Rm80bmZNeXlZazJMQW44cFctb0ttSGN1VXJJbVZMZTk3aTI4MDdIdDhXZUZ4WFlyZzAwMENCQlNzQXM5UkVwZlhBVHBfal90ZmPSAdwBQVVfeXFMTk0ydy13ZGV4ZEFydEVhWHZPU1dJTlBBQVdBVGc0RllYTzlXY1FzaURWcUc0MFUzQWdGSUZJQzNSUllacFdJbUE5bWJna043NDBQaEtWSTIzVURRQVdTV203X21pVHlWWW5fYzlmN0YyMVhlck1LdTNZUTFUblVNLWFWMVFuM2NBeTJoVDkxZVpuamdsa2VIbHFhcjZicFBvWFlIQ0c1MkhraGF4VTdDN1FZUWsyRnhRUUp5Rlp4SGVXUkZtWjVoNmJfVE8wWjVlMF9MQklFYURDTUtwdQ?oc=5",
+          "source": "Google News: Tetris (IndulgExpress)",
+          "published": "2026-11-19T11:17:12.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "dreamleague"
+            "won"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 8,
+      "stories": [
         {
           "title": "Dota 2 gets a major update during a tournament final",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3RvS1dCTDBzZUxSVDV0NWR1bDZDLTZUMHhGQkY1V0dTdDVRU2I0YzJRWXhXQWRCTFVtSmp3T3VVTGNBQ09pTGE0RV9zb0dyNUhKTlN3ZkRLZDh6ZEdHeThLaXl0WHBEeGI0THZnR0NxQ0xSTVd1RWJNRk4yejFwV1F3eVdVNk1DZ0dESGpCbEdOLUxvZmJhVWpn?oc=5",
@@ -186,31 +192,23 @@
       ]
     },
     {
-      "scene": "Classic Tetris",
-      "storyCount": 1,
+      "scene": "Tekken",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "Classic Tetris: How a retro puzzle game became a competitive sport, and who won in 2026",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0lrcldXY1dneFAtNFJGbHZRUk1GYlAzMS1kdTAwWHFKdFY2eU9Jb1dvUWdGOE9zTVp4Vll5RktNWEdmVk9ZWGVIWWFwNjFrb1VBS3dYRDExOFZOZnFta1VseDNwN3Y1N29yMkNIdjhBVEZ5Y0hodjdKRWVFdDRBcGM1dGM0Rm80bmZNeXlZazJMQW44cFctb0ttSGN1VXJJbVZMZTk3aTI4MDdIdDhXZUZ4WFlyZzAwMENCQlNzQXM5UkVwZlhBVHBfal90ZmPSAdwBQVVfeXFMTk0ydy13ZGV4ZEFydEVhWHZPU1dJTlBBQVdBVGc0RllYTzlXY1FzaURWcUc0MFUzQWdGSUZJQzNSUllacFdJbUE5bWJna043NDBQaEtWSTIzVURRQVdTV203X21pVHlWWW5fYzlmN0YyMVhlck1LdTNZUTFUblVNLWFWMVFuM2NBeTJoVDkxZVpuamdsa2VIbHFhcjZicFBvWFlIQ0c1MkhraGF4VTdDN1FZUWsyRnhRUUp5Rlp4SGVXUkZtWjVoNmJfVE8wWjVlMF9MQklFYURDTUtwdQ?oc=5",
-          "source": "Google News: Tetris (IndulgExpress)",
-          "published": "2026-11-19T11:17:12.000Z",
-          "score": 3,
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-20T08:47:39.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "won"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
+          "why": []
+        },
         {
           "title": "Tekken 8 Roger Jr.: Rocket and Astronaut Stances Explained",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVG5nVWRDT3MxYmtrcHlOTk1UdTMxRy1NV2JCckdZeElkTjU3T2xmR0FlUDR2VnFIWHQ1WGJJT2hxOVVoMlFPVzlELUpaOHYtMEg4djRMY3RVSWo1MW5NZ0w3dm4xYU5ySnQ0SlVCbzR5QW9PTXpCNnRrMVhvcTViby1pcEduTkpyb2Vvbw?oc=5",
           "source": "Google News: Tekken (https://thegame.ph/)",
-          "published": "2026-11-20T06:02:27.000Z",
+          "published": "2026-11-20T06:03:35.000Z",
           "score": 1,
           "level": null,
           "why": []
