@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T02:00:25.301Z",
+  "generatedAt": "2026-11-21T03:00:30.870Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -188,6 +188,21 @@
       ]
     },
     {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczMwTlBHbW5QYjRIYzJkQThqZmNDemMxZGdkS1AzU292Y0p4OENxd0dnX3dOcGw5VF9mc0gxVDVxc2dyU01ESDZGQ0ppTVN3SlQ5cVk3SEZIY19TTHNGcGp0Y1o4Z3NfMHd2WV90MUZGeGo4NDhvVHhqdC1TSTdMSVpxalFkdXVmLXJkX2pVUmJjSnczN3h6VUxMU0xha194aFBHOUdZLWt4QnBkU3duOTJ5blZWVm8?oc=5",
+          "source": "Google News: Melee (Nintendo Life)",
+          "published": "2026-11-21T02:25:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -204,7 +219,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
