@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T02:35:27.085Z",
+  "generatedAt": "2026-11-21T03:35:32.276Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Explore More Stunning Visuals as The Art of Marvel Rivals Returns for Volume 2",
@@ -15,17 +15,6 @@
           "level": null,
           "why": [
             "returns"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Ignite 2026: Mid Season Finals - MR - Schedule and Results",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVDZEVtTmhtVnNuV280Rkw4LTNseTNDc1JFZTV5eEhEN0haVFlGSVhPWmxJUTVWWVJ5b0Rtd2MyRUxaUk81SVJsLVhDWlhwSGZPLXlROWNtN3JPU3V2ZzVoU0tQLVpKMUxEUVRtZVQ3c3F4VHFWOXpUa3FybTg1NUpfbmVlNXdKbW54Ul9CanFIdw?oc=5",
-          "source": "Google News: Rivals esports (Esports Charts)",
-          "published": "2026-11-20T02:41:31.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
           ]
         }
       ]
