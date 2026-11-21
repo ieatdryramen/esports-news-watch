@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T19:40:27.093Z",
+  "generatedAt": "2026-11-21T20:40:18.669Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 6,
       "stories": [
         {
           "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
@@ -20,10 +20,30 @@
           ]
         },
         {
+          "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-21T12:42:16.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "og"
+          ]
+        },
+        {
           "title": "PARIVISION beat LEGION 2-0 again to open BLAST Slam Season 9 Group C",
           "url": "https://esports-news.co.uk/2026/11/21/parivision-beat-legion-2-0-again-to-open-blast-slam-season-9-group-c/",
           "source": "Esports News UK",
           "published": "2026-11-21T11:08:44.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "All new Dota 2 neutral creeps and their abilities in patch 7.42",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QTjlhTXJpNFF5TVdHc0ZZeWE4dmVxVGJPSWx6VVFKUEZiZU9Hb2VYZ09XY1o0RDM4cjBOOEZrYS1TQXRlMTd3dlo5TFc2ZW5JOXgzcFNFYWpNNVNqaElyQ0tYUVFuUmIzZ09DUXNXcXFoUDhtNk5PMlRB?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-20T21:33:58.000Z",
           "score": 1,
           "level": null,
           "why": []
