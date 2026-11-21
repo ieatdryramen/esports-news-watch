@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T11:40:20.470Z",
+  "generatedAt": "2026-11-21T12:00:34.786Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
@@ -19,29 +19,6 @@
           ]
         },
         {
-          "title": "Infographic: PGL Major Singapore",
-          "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-20T14:24:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "ending*",
-            "pgl"
-          ]
-        },
-        {
-          "title": "Visualized: Every team at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-21T11:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "PGL Plans Tier 1 CS2 Tournament in Sofia, Bulgaria in 2027",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR013RUc3S25kX3dpbXR4d0dramJncmduUjkxYkI0OHJJR3dXanR5WGlNc0JYUExuSjk5TXIwclhkU3M0cndRSHZxeWhiazhGOGxFU19wSXBPUzh1LVJtOXZndmc0VC1VWUJLbnRDTFl4RGd2T3p3Um1Qb0VsVmRLSVNXd09TX0ZxUlZMR2poWlpYYWhpZGVxQQ?oc=5",
           "source": "Google News: CS2 (Skin.Club)",
@@ -51,33 +28,6 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
-          "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
-          "source": "HLTV news",
-          "published": "2026-11-20T21:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
-          "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
-          "source": "HLTV news",
-          "published": "2026-11-20T19:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-20T15:31:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -137,6 +87,30 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Scarz|Akutagawa Ranks Arjun C Tier in Street Fighter 6",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2d4T2Zyc2lXUXlQVlRVWnhlSUxxZkN3YUhHcWthX2NGamd6RlFYbU5TWW5hbmtteWtjY2NMUTk0N180c2xyNGZidDdnWFloSElmb2xJelNNQk1vUzdjREs4eTdIalJZbmZNWEFyRHZ3blZXQ0ZjX1Byc0pqYy1kVXJUVmU?oc=5",
+          "source": "Google News: Street Fighter (Wisevoter)",
+          "published": "2026-11-21T02:21:14.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Japan's best Manon user releases new tier list for Street Fighter 6 with a surprisingly low placement for Arjun",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZjdDTXdVOEJFa0NuQVpoa21zajFyRjZlRkxkR0lqMXdfaXBVUktaVzV1N0d0bjQ2aEFGMVZLX0tlMU0zeW43NkprVmtFVlpjWGpDM09FR1ctY0YxcGZaOHdydEFnZ19KNkZQV1FpNl8tcENmazZENmY3VEc1QQ?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-21T00:26:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -145,21 +119,6 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczMwTlBHbW5QYjRIYzJkQThqZmNDemMxZGdkS1AzU292Y0p4OENxd0dnX3dOcGw5VF9mc0gxVDVxc2dyU01ESDZGQ0ppTVN3SlQ5cVk3SEZIY19TTHNGcGp0Y1o4Z3NfMHd2WV90MUZGeGo4NDhvVHhqdC1TSTdMSVpxalFkdXVmLXJkX2pVUmJjSnczN3h6VUxMU0xha194aFBHOUdZLWt4QnBkU3duOTJ5blZWVm8?oc=5",
           "source": "Google News: Melee (Nintendo Life)",
           "published": "2026-11-21T02:25:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Japan's best Manon user releases new tier list for Street Fighter 6 with a surprisingly low placement for Arjun",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZjdDTXdVOEJFa0NuQVpoa21zajFyRjZlRkxkR0lqMXdfaXBVUktaVzV1N0d0bjQ2aEFGMVZLX0tlMU0zeW43NkprVmtFVlpjWGpDM09FR1ctY0YxcGZaOHdydEFnZ19KNkZQV1FpNl8tcENmazZENmY3VEc1QQ?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-21T00:26:28.000Z",
           "score": 1,
           "level": null,
           "why": []
