@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T17:45:31.659Z",
+  "generatedAt": "2026-11-21T18:45:20.731Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
@@ -17,17 +17,6 @@
             "roster",
             "wins",
             "dreamleague"
-          ]
-        },
-        {
-          "title": "Nemesis defeat Team Spirit 2-0 at BLAST SLAM IX",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ19IRllvc1VOb0lNcWNpOGlQTzM4cDJ2c0hWVnBhekpfclptNUY3OWQ5TjFsQWRjSzh2SVR3VnVqQWpWeEUtaHkxY0h3Nl9tQi1Yc19UZHNQd1ZxWlVJV2w5SWt0UVhnWDNMVGxEakF2Z1l1UmltcFhFVG5UcS00YVZrVVRDMXFfWEtBcGotdXoyNmlhQmFfZlEzQVhPMXEyX1pDYg?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-20T18:09:09.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
           ]
         },
         {
@@ -64,7 +53,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 2,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
@@ -79,6 +68,17 @@
           ]
         },
         {
+          "title": "Meet the PGL Major Singapore 2026 rookies",
+          "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
+          "source": "HLTV news",
+          "published": "2026-11-21T18:35:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Top 5 Players to Watch at PGL Major Singapore 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTnZIQlBoOHV3akJOTTNOV0xqNlNYRmFUZVoxTHFEYzlIX1FwSDE3SE1kb2ZGZmtXLUlXYVNGLTJaQ2d4MUJOQ1EzcG5HZVJRWThBMDNoTFZ0bUdpVVFRcGJtcEVoMHMwV3RJMWlxdFd2SUpadF9JNmJOVUhVZFU?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -88,12 +88,61 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "Visualized: Every team at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-21T11:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Betclic part ways with ultimate",
+          "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
+          "source": "HLTV news",
+          "published": "2026-11-21T14:06:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "replaced*"
+          ]
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-21T16:01:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
+          "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
+          "source": "HLTV news",
+          "published": "2026-11-20T21:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
+          "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
+          "source": "HLTV news",
+          "published": "2026-11-20T19:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -105,24 +154,15 @@
           "why": [
             "wins"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Battle Coliseum 2026 live stream ft. SonicFox, Leffen, Hikari, BrayanJob, NotPedro, Inzem, Supernoon, DidimoKOF, JF, Xerom, Lauyagami, Resil and more",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaUtCcmpMamhsY2hUbllUcU1SX2drQVYxbm52ZDRNZ1JldWp6Q2drNmE4a3UtZHRKOWRIZFB1U3I4dEp1YWhzd29pc3QybkdDU3ozRTdKTEphRFJ3T2hvRm5OdmpuU0pSN3VjeHk5ek5nYVg3ZnJkUlFXQ2E?oc=5",
-          "source": "Google News: Legacy FGC (EventHubs)",
-          "published": "2026-11-20T18:03:48.000Z",
-          "score": 2,
+          "title": "TheMainManSWE determines the highlights and low points of the Tekken series with his game tier list",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0g0ZGh3azZ6dWxOb18zZ1l3bWM0S21nRE9JeXdZQlJldmI3SHpaejJKTHFNRzVqRG9hUkJQZG1sb3BnMUtXSF81RDJYWFd0R1lpN3FXQjFHeGdBSjRGdUFSa1N0VVR2R0lVYU04N0dsZEI3dTV2WE9JTmtSTzE0MklTRjdTVzg?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-21T18:16:37.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "sonicfox",
-            "-stream"
-          ]
+          "why": []
         }
       ]
     },
@@ -181,6 +221,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Legacy FGC",
     "CoD",
     "Quake",
     "Halo"
