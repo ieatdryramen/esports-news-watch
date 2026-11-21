@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T08:50:17.577Z",
+  "generatedAt": "2026-11-21T09:45:23.011Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Infographic: PGL Major Singapore",
@@ -34,17 +34,6 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR013RUc3S25kX3dpbXR4d0dramJncmduUjkxYkI0OHJJR3dXanR5WGlNc0JYUExuSjk5TXIwclhkU3M0cndRSHZxeWhiazhGOGxFU19wSXBPUzh1LVJtOXZndmc0VC1VWUJLbnRDTFl4RGd2T3p3Um1Qb0VsVmRLSVNXd09TX0ZxUlZMR2poWlpYYWhpZGVxQQ?oc=5",
           "source": "Google News: CS2 (Skin.Club)",
           "published": "2026-11-20T14:04:51.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026 Talent Lineup: Scrawny and launders Lead NA Group",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2hWTDZOUDFaTGtGZTlFLV9Ca05TOWV6MmhHNkpZVGVoWEtjY3JIV0hsWlRBbjI3ajBRVktQbXhJUS12V3QyMWcyU0lNazhDSjViaEhiSVd5QVUwM1N2dG5zUXdhcVg1YjdvdFdsUDdkZmZtclBaX0NaandfUzBxXzkzVFg3WmR2WlZlbg?oc=5",
-          "source": "Google News: CS2 (EsportsBets.com)",
-          "published": "2026-11-20T09:30:08.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -82,7 +71,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Nemesis defeat Team Spirit 2-0 at BLAST SLAM IX",
@@ -111,27 +100,6 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
           "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-20T09:45:30.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbGNQQjY5VW5zYmpZdXVpMFJZSnZlWFlqN2Q0OTI1c2hxQU5qZnVnTkhKQVJaSzhvZHVkTTNrYzVYM055TjdORktUNHJSX2NMX25kVU05SEQzTEp4YmV2dm44QWhzZw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-20T09:36:36.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "update",
-            "-patch notes"
-          ]
-        },
-        {
-          "title": "All new Dota 2 neutral creeps and their abilities in patch 7.42",
-          "url": "https://esports.gg/guides/dota-2/new-neutral-creeps-dota-2-patch-7-42/",
-          "source": "esports.gg",
-          "published": "2026-11-20T09:32:00.000Z",
           "score": 1,
           "level": null,
           "why": []
