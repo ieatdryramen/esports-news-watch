@@ -1,10 +1,88 @@
 {
-  "generatedAt": "2026-11-21T05:55:24.870Z",
+  "generatedAt": "2026-11-21T06:50:26.896Z",
   "windowHours": 24,
   "scenes": [
     {
+      "scene": "CS2",
+      "storyCount": 7,
+      "stories": [
+        {
+          "title": "Infographic: PGL Major Singapore",
+          "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-20T14:24:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "ending*",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
+          "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
+          "source": "HLTV news",
+          "published": "2026-11-20T11:14:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "replaces"
+          ]
+        },
+        {
+          "title": "PGL Plans Tier 1 CS2 Tournament in Sofia, Bulgaria in 2027",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR013RUc3S25kX3dpbXR4d0dramJncmduUjkxYkI0OHJJR3dXanR5WGlNc0JYUExuSjk5TXIwclhkU3M0cndRSHZxeWhiazhGOGxFU19wSXBPUzh1LVJtOXZndmc0VC1VWUJLbnRDTFl4RGd2T3p3Um1Qb0VsVmRLSVNXd09TX0ZxUlZMR2poWlpYYWhpZGVxQQ?oc=5",
+          "source": "Google News: CS2 (Skin.Club)",
+          "published": "2026-11-20T14:04:51.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026 Talent Lineup: Scrawny and launders Lead NA Group",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2hWTDZOUDFaTGtGZTlFLV9Ca05TOWV6MmhHNkpZVGVoWEtjY3JIV0hsWlRBbjI3ajBRVktQbXhJUS12V3QyMWcyU0lNazhDSjViaEhiSVd5QVUwM1N2dG5zUXdhcVg1YjdvdFdsUDdkZmZtclBaX0NaandfUzBxXzkzVFg3WmR2WlZlbg?oc=5",
+          "source": "Google News: CS2 (EsportsBets.com)",
+          "published": "2026-11-20T09:30:08.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
+          "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
+          "source": "HLTV news",
+          "published": "2026-11-20T21:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
+          "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
+          "source": "HLTV news",
+          "published": "2026-11-20T19:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-20T15:31:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Nemesis defeat Team Spirit 2-0 at BLAST SLAM IX",
@@ -57,43 +135,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "All new items in Dota 2 and their effects in patch 7.42",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wZFBmWGp3ZU5hMUZzNzZ3OHdDeWNQcy02THpEMV9qdVY2N21FM3F6eWFhTWNWR3J6YlV4S05UVVhEYnZacVI5N203MV9ZeGZFX0hISjFrZEhnSm1QZ01UTjVUZ0RVSjU3UnBBV2VR?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-20T06:29:01.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "PGL Plans Tier 1 CS2 Tournament in Sofia, Bulgaria in 2027",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR013RUc3S25kX3dpbXR4d0dramJncmduUjkxYkI0OHJJR3dXanR5WGlNc0JYUExuSjk5TXIwclhkU3M0cndRSHZxeWhiazhGOGxFU19wSXBPUzh1LVJtOXZndmc0VC1VWUJLbnRDTFl4RGd2T3p3Um1Qb0VsVmRLSVNXd09TX0ZxUlZMR2poWlpYYWhpZGVxQQ?oc=5",
-          "source": "Google News: CS2 (Skin.Club)",
-          "published": "2026-11-20T14:04:51.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026 Talent Lineup: Scrawny and launders Lead NA Group",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2hWTDZOUDFaTGtGZTlFLV9Ca05TOWV6MmhHNkpZVGVoWEtjY3JIV0hsWlRBbjI3ajBRVktQbXhJUS12V3QyMWcyU0lNazhDSjViaEhiSVd5QVUwM1N2dG5zUXdhcVg1YjdvdFdsUDdkZmZtclBaX0NaandfUzBxXzkzVFg3WmR2WlZlbg?oc=5",
-          "source": "Google News: CS2 (EsportsBets.com)",
-          "published": "2026-11-20T09:30:08.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
         }
       ]
     },
