@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T10:30:23.107Z",
+  "generatedAt": "2026-11-21T11:30:28.717Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "NAVI vs VP | INSANE Grand Finals Voice Comms at Marvel Rivals Ignite 2026 EMEA Stage 2",
@@ -29,6 +29,15 @@
           "why": [
             "returns"
           ]
+        },
+        {
+          "title": "Marvel Rivals: All Launch Characters",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tT2lGak9RLVhxem1PMUItbkVNLWdQLXJ2M29KdTk2aFVKeGMxWGZiSi15cTI4eGFRNGdKXzRFUnUwTG5FMFpDV3plMFVtOWd6QUxoaGNDWEhrbUo2VGFWWjZFVy1SWEpnd04taFNMTlpDcTJ3cEZqNw?oc=5",
+          "source": "Google News: Rivals patches (Push Square)",
+          "published": "2026-11-21T01:13:40.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals: Best Character Face-Off",
