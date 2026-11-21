@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T16:50:21.250Z",
+  "generatedAt": "2026-11-21T17:45:31.659Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
         {
           "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
@@ -38,12 +38,33 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "All new items in Dota 2 and their effects in patch 7.42",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wZFBmWGp3ZU5hMUZzNzZ3OHdDeWNQcy02THpEMV9qdVY2N21FM3F6eWFhTWNWR3J6YlV4S05UVVhEYnZacVI5N203MV9ZeGZFX0hISjFrZEhnSm1QZ01UTjVUZ0RVSjU3UnBBV2VR?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-20T21:21:55.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekV2Qk5FckRodktrOGpBRkxWX29uYmJBa2FPaGRiQ1BRbWRIY08zWVJJV1lQS2RockV5U2l6a195N3hWb0h2OG1BS0FGTWJ2aVNMMm1PbFlmcHRyTEg3S3VJOHVkRjFpemI1TzlmZzFfVEhkQ0trTS1lUFJSRHNiQw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-21T11:52:09.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "prize pool",
+            "-schedule"
+          ]
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
@@ -67,55 +88,6 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "Visualized: Every team at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-21T11:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Betclic part ways with ultimate",
-          "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
-          "source": "HLTV news",
-          "published": "2026-11-21T14:06:00.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "replaced*"
-          ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-21T16:01:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
-          "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
-          "source": "HLTV news",
-          "published": "2026-11-20T21:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
-          "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
-          "source": "HLTV news",
-          "published": "2026-11-20T19:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
