@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:50:26.896Z",
+  "generatedAt": "2026-11-21T07:50:31.800Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -157,30 +157,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
-          "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-20T08:47:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Tekken 8 Roger Jr.: Rocket and Astronaut Stances Explained",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVG5nVWRDT3MxYmtrcHlOTk1UdTMxRy1NV2JCckdZeElkTjU3T2xmR0FlUDR2VnFIWHQ1WGJJT2hxOVVoMlFPVzlELUpaOHYtMEg4djRMY3RVSWo1MW5NZ0w3dm4xYU5ySnQ0SlVCbzR5QW9PTXpCNnRrMVhvcTViby1pcEduTkpyb2Vvbw?oc=5",
-          "source": "Google News: Tekken (https://thegame.ph/)",
-          "published": "2026-11-20T07:17:27.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -204,6 +180,21 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZjdDTXdVOEJFa0NuQVpoa21zajFyRjZlRkxkR0lqMXdfaXBVUktaVzV1N0d0bjQ2aEFGMVZLX0tlMU0zeW43NkprVmtFVlpjWGpDM09FR1ctY0YxcGZaOHdydEFnZ19KNkZQV1FpNl8tcENmazZENmY3VEc1QQ?oc=5",
           "source": "Google News: Street Fighter (EventHubs)",
           "published": "2026-11-21T00:26:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-20T08:47:39.000Z",
           "score": 1,
           "level": null,
           "why": []
