@@ -1,10 +1,49 @@
 {
-  "generatedAt": "2026-11-21T12:00:34.786Z",
+  "generatedAt": "2026-11-21T13:00:31.593Z",
   "windowHours": 24,
   "scenes": [
     {
+      "scene": "Dota",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNelQ5SXhwUXdnVS1TV1I3Umk1RGxwX1RLTmwwdkVNQTEyYXJ4eTRGTFNhSWVRMk53MVRBSmhVMk40cWNVTGxxWnNEWUVhbWViMDdGUnhYclU4cWg4X0FiVVo2YXRfSUI4ckJ2X2Ixa0NURUlwQkdYWW9LeWdESDZxX25ad2RuSjVtbDc3VzNrWUN5Yk1XeFpNTnJkZVYtU2drYU1WRm9kMUxuU1oySXhpUjM0U1JsMlhYUmhFdy1JOXJid2llZDhyYy0xSXNoZkZFdXFQS1I2M0M4Y0EtcnZtdW90cW9Db0HSAecBQVVfeXFMTXpUOUl4cFF3Z1UtU1dSN1JpNURscF9US05sMHZFTUExMmFyeHk0RkxTYUllUTJOdzFUQUpoVTJONHFjVUxscVpzRFlFYW1lYjA3RlJ4WHJVOHFoOF9BYlVaNmF0X0lCOHJCdl9iMWtDVEVJcEJHWFlvS3lnREg2cV9uWndkbko1bWw3N1cza1lDeWJNV3haTU5yZGVWLVNna2FNVkZvZDFMblNaMkl4aVIzNFNSbDJYWFJoRXctSTlyYndpZWQ4cmMtMUlzaGZGRXVxUEtSNjNDOGNBLXJ2bXVvdHFvQ29B?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-21T07:44:53.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "roster",
+            "wins",
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "Nemesis defeat Team Spirit 2-0 at BLAST SLAM IX",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ19IRllvc1VOb0lNcWNpOGlQTzM4cDJ2c0hWVnBhekpfclptNUY3OWQ5TjFsQWRjSzh2SVR3VnVqQWpWeEUtaHkxY0h3Nl9tQi1Yc19UZHNQd1ZxWlVJV2w5SWt0UVhnWDNMVGxEakF2Z1l1UmltcFhFVG5UcS00YVZrVVRDMXFfWEtBcGotdXoyNmlhQmFfZlEzQVhPMXEyX1pDYg?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-11-20T18:09:09.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
+        {
+          "title": "PARIVISION beat LEGION 2-0 again to open BLAST Slam Season 9 Group C",
+          "url": "https://esports-news.co.uk/2026/11/21/parivision-beat-legion-2-0-again-to-open-blast-slam-season-9-group-c/",
+          "source": "Esports News UK",
+          "published": "2026-11-21T11:08:44.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CS2",
-      "storyCount": 2,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
@@ -19,6 +58,29 @@
           ]
         },
         {
+          "title": "Infographic: PGL Major Singapore",
+          "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-20T14:24:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "ending*",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Visualized: Every team at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-21T11:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "PGL Plans Tier 1 CS2 Tournament in Sofia, Bulgaria in 2027",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR013RUc3S25kX3dpbXR4d0dramJncmduUjkxYkI0OHJJR3dXanR5WGlNc0JYUExuSjk5TXIwclhkU3M0cndRSHZxeWhiazhGOGxFU19wSXBPUzh1LVJtOXZndmc0VC1VWUJLbnRDTFl4RGd2T3p3Um1Qb0VsVmRLSVNXd09TX0ZxUlZMR2poWlpYYWhpZGVxQQ?oc=5",
           "source": "Google News: CS2 (Skin.Club)",
@@ -28,40 +90,30 @@
           "why": [
             "pgl"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Nemesis defeat Team Spirit 2-0 at BLAST SLAM IX",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ19IRllvc1VOb0lNcWNpOGlQTzM4cDJ2c0hWVnBhekpfclptNUY3OWQ5TjFsQWRjSzh2SVR3VnVqQWpWeEUtaHkxY0h3Nl9tQi1Yc19UZHNQd1ZxWlVJV2w5SWt0UVhnWDNMVGxEakF2Z1l1UmltcFhFVG5UcS00YVZrVVRDMXFfWEtBcGotdXoyNmlhQmFfZlEzQVhPMXEyX1pDYg?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-20T18:09:09.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "team spirit"
-          ]
         },
         {
-          "title": "CyberHero Come From a Map Down to Knock Froglings Out of DreamLeague",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemc1d1lxSzBnZU8tcUwzRlZ5UmVwN3lSaXJHMWl5cXh6YjdvQ2tGUXRwOG9QUjJxd3Nhb0U1RTc2c053TXRYM205UHdjQUxGRlJCMlJydGYzaWgtdmstcHdSVU5RcDI2UlU3V3hUbHo3MTRuRzRPdWs2N3dVclFZNEVn?oc=5",
-          "source": "Google News: Dota (The Loadout)",
-          "published": "2026-11-20T12:23:49.000Z",
-          "score": 3,
+          "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
+          "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
+          "source": "HLTV news",
+          "published": "2026-11-20T21:00:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "dreamleague"
-          ]
+          "why": []
         },
         {
-          "title": "PARIVISION beat LEGION 2-0 again to open BLAST Slam Season 9 Group C",
-          "url": "https://esports-news.co.uk/2026/11/21/parivision-beat-legion-2-0-again-to-open-blast-slam-season-9-group-c/",
-          "source": "Esports News UK",
-          "published": "2026-11-21T11:08:44.000Z",
+          "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
+          "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
+          "source": "HLTV news",
+          "published": "2026-11-20T19:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-20T15:31:00.000Z",
           "score": 1,
           "level": null,
           "why": []
