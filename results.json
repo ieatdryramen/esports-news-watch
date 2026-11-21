@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:35:18.518Z",
+  "generatedAt": "2026-11-21T11:05:18.076Z",
   "source": "start.gg",
   "completed": [
     {
@@ -194,19 +194,6 @@
   "live": [],
   "upcoming": [
     {
-      "eventId": "1673800",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Provisional",
-      "event": "Melee Singles",
-      "entrants": 72,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T12:00:00.000Z",
-      "endAt": "2026-11-21T21:00:00.000Z",
-      "url": "https://www.start.gg/tournament/provisional/event/melee-singles"
-    },
-    {
       "eventId": "1754231",
       "scene": "legacyfgc",
       "game": "The King of Fighters XV",
@@ -251,7 +238,7 @@
       "game": "Tekken 8",
       "tournament": "HEATWAVE Tournament #4",
       "event": "Heatwave Tournament",
-      "entrants": 105,
+      "entrants": 106,
       "online": true,
       "major": false,
       "startAt": "2026-11-22T13:00:00.000Z",
