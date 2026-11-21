@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:35:15.932Z",
+  "generatedAt": "2026-11-21T19:05:20.212Z",
   "source": "start.gg",
   "completed": [
     {
@@ -218,6 +218,19 @@
       "startAt": "2026-11-23T01:01:00.000Z",
       "endAt": "2026-11-23T07:00:00.000Z",
       "url": "https://www.start.gg/tournament/left-coast-battleground-8/event/3s-double-elimination"
+    },
+    {
+      "eventId": "1670560",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Coin Cup 5",
+      "event": "Melee Singles",
+      "entrants": 72,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-28T11:30:00.000Z",
+      "endAt": "2026-11-28T19:00:00.000Z",
+      "url": "https://www.start.gg/tournament/coin-cup-5-1/event/melee-singles"
     }
   ],
   "games": {
