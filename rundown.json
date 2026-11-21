@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:45:20.731Z",
+  "generatedAt": "2026-11-21T19:40:27.093Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -112,6 +112,15 @@
           ]
         },
         {
+          "title": "Attributes Fans Come Here ft. LuzRaposa",
+          "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
+          "source": "HLTV news",
+          "published": "2026-11-21T19:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Short news: Week 45",
           "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
@@ -128,21 +137,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
-          "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
-          "source": "HLTV news",
-          "published": "2026-11-20T19:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
@@ -154,6 +154,15 @@
           "why": [
             "wins"
           ]
+        },
+        {
+          "title": "Creator Ranks Every Tekken Game on Tier List",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85emxsLVRXRnBJOVBFLTcxQzc4M3IyR2Uwa0t6SklsUnNldndGQzBVWG9rU0Q5NnowS1hTME12ZWV1S1U0ZUdNNzg0blJRMkprME10Tl9CaGhZQ2dJQ3VBUjZRWDVRVUpMNmlaV1FvLVM4UTVvU2k0Sg?oc=5",
+          "source": "Google News: Tekken (Wisevoter)",
+          "published": "2026-11-21T19:14:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "TheMainManSWE determines the highlights and low points of the Tekken series with his game tier list",
