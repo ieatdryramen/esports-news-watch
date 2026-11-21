@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T21:00:35.489Z",
+  "generatedAt": "2026-11-21T22:00:30.655Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Rivals: Season 11 Trailer",
@@ -33,15 +33,6 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzBzVTgwSHRFUDJfM2F5YjhhajVSOG5zLUZUVFNIWDNqWnlRVE82dTRvOUp2T0dVYkRUREdwU0NmdnM2ZHU2cEpidTZkT1pFZ25lMDU1dDFVY2NsdkVsekk5SWVPV2dFa3ZFbTNScklzUDZ3alNGSDF4dnA4SVpwV01oVUxlcWJyOUhyZ3hTOGROc29J?oc=5",
           "source": "Google News: Rivals esports (Happy Gamer)",
           "published": "2026-11-21T20:42:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals: All Launch Characters",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tT2lGak9RLVhxem1PMUItbkVNLWdQLXJ2M29KdTk2aFVKeGMxWGZiSi15cTI4eGFRNGdKXzRFUnUwTG5FMFpDV3plMFVtOWd6QUxoaGNDWEhrbUo2VGFWWjZFVy1SWEpnd04taFNMTlpDcTJ3cEZqNw?oc=5",
-          "source": "Google News: Rivals rosters (Push Square)",
-          "published": "2026-11-21T01:13:40.000Z",
           "score": 1,
           "level": null,
           "why": []
