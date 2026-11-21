@@ -1,11 +1,121 @@
 {
-  "generatedAt": "2026-11-20T23:00:48.849Z",
+  "generatedAt": "2026-11-21T00:00:30.635Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Dota",
-      "storyCount": 2,
+      "scene": "CS2",
+      "storyCount": 7,
       "stories": [
+        {
+          "title": "Infographic: PGL Major Singapore",
+          "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-20T14:24:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "ending*",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
+          "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
+          "source": "HLTV news",
+          "published": "2026-11-20T11:14:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "replaces"
+          ]
+        },
+        {
+          "title": "PGL Plans Tier 1 CS2 Tournament in Sofia, Bulgaria in 2027",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR013RUc3S25kX3dpbXR4d0dramJncmduUjkxYkI0OHJJR3dXanR5WGlNc0JYUExuSjk5TXIwclhkU3M0cndRSHZxeWhiazhGOGxFU19wSXBPUzh1LVJtOXZndmc0VC1VWUJLbnRDTFl4RGd2T3p3Um1Qb0VsVmRLSVNXd09TX0ZxUlZMR2poWlpYYWhpZGVxQQ?oc=5",
+          "source": "Google News: CS2 (Skin.Club)",
+          "published": "2026-11-20T14:04:51.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026 Talent Lineup: Scrawny and launders Lead NA Group",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2hWTDZOUDFaTGtGZTlFLV9Ca05TOWV6MmhHNkpZVGVoWEtjY3JIV0hsWlRBbjI3ajBRVktQbXhJUS12V3QyMWcyU0lNazhDSjViaEhiSVd5QVUwM1N2dG5zUXdhcVg1YjdvdFdsUDdkZmZtclBaX0NaandfUzBxXzkzVFg3WmR2WlZlbg?oc=5",
+          "source": "Google News: CS2 (EsportsBets.com)",
+          "published": "2026-11-20T09:30:08.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
+          "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
+          "source": "HLTV news",
+          "published": "2026-11-20T21:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
+          "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
+          "source": "HLTV news",
+          "published": "2026-11-20T19:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-20T15:31:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 5,
+      "stories": [
+        {
+          "title": "CyberHero Come From a Map Down to Knock Froglings Out of DreamLeague",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemc1d1lxSzBnZU8tcUwzRlZ5UmVwN3lSaXJHMWl5cXh6YjdvQ2tGUXRwOG9QUjJxd3Nhb0U1RTc2c053TXRYM205UHdjQUxGRlJCMlJydGYzaWgtdmstcHdSVU5RcDI2UlU3V3hUbHo3MTRuRzRPdWs2N3dVclFZNEVn?oc=5",
+          "source": "Google News: Dota (The Loadout)",
+          "published": "2026-11-20T12:23:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "Dota 2 1win Essence III: All teams, schedules, results",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzVWUGlJLV9kVkhkLWNqNF8wdEs5LXd1NGhkZ1RVYjlXYl9nQ0ZVYTQyZUh1NG9zQUxtN0htenFhUGdkT096LU5IQWdwMkZ0aXQ3U3JHbWxsWm1MYXJlTlVXSEpkXzRoLXZwWlV5RHZ4dkF0b1RiTWZ3UkViQUh1dFJMc3Y0ZjQ5aElndHhFNHhMdw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-20T09:45:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Dota 2 7.42 update: Complete patch notes, items, and hero changes",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbGNQQjY5VW5zYmpZdXVpMFJZSnZlWFlqN2Q0OTI1c2hxQU5qZnVnTkhKQVJaSzhvZHVkTTNrYzVYM055TjdORktUNHJSX2NMX25kVU05SEQzTEp4YmV2dm44QWhzZw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-20T09:36:36.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "update",
+            "-patch notes"
+          ]
+        },
         {
           "title": "All new Dota 2 neutral creeps and their abilities in patch 7.42",
           "url": "https://esports.gg/guides/dota-2/new-neutral-creeps-dota-2-patch-7-42/",
@@ -17,9 +127,66 @@
         },
         {
           "title": "All new items in Dota 2 and their effects in patch 7.42",
-          "url": "https://esports.gg/guides/dota-2/new-dota-2-items-patch-7-42/",
-          "source": "esports.gg",
-          "published": "2026-11-20T06:24:55.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wZFBmWGp3ZU5hMUZzNzZ3OHdDeWNQcy02THpEMV9qdVY2N21FM3F6eWFhTWNWR3J6YlV4S05UVVhEYnZacVI5N203MV9ZeGZFX0hISjFrZEhnSm1QZ01UTjVUZ0RVSjU3UnBBV2VR?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-20T06:29:01.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Legacy FGC",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Battle Coliseum 2026 live stream ft. SonicFox, Leffen, Hikari, BrayanJob, NotPedro, Inzem, Supernoon, DidimoKOF, JF, Xerom, Lauyagami, Resil and more",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaUtCcmpMamhsY2hUbllUcU1SX2drQVYxbm52ZDRNZ1JldWp6Q2drNmE4a3UtZHRKOWRIZFB1U3I4dEp1YWhzd29pc3QybkdDU3ozRTdKTEphRFJ3T2hvRm5OdmpuU0pSN3VjeHk5ek5nYVg3ZnJkUlFXQ2E?oc=5",
+          "source": "Google News: Legacy FGC (EventHubs)",
+          "published": "2026-11-20T18:03:48.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "sonicfox",
+            "-stream"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-20T08:47:39.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Tekken 8 Roger Jr.: Rocket and Astronaut Stances Explained",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVG5nVWRDT3MxYmtrcHlOTk1UdTMxRy1NV2JCckdZeElkTjU3T2xmR0FlUDR2VnFIWHQ1WGJJT2hxOVVoMlFPVzlELUpaOHYtMEg4djRMY3RVSWo1MW5NZ0w3dm4xYU5ySnQ0SlVCbzR5QW9PTXpCNnRrMVhvcTViby1pcEduTkpyb2Vvbw?oc=5",
+          "source": "Google News: Tekken (https://thegame.ph/)",
+          "published": "2026-11-20T07:17:27.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "$200 Super Turbo Monster Stack Payouts | 2026 Bar Poker Open Atlantic City Championship",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUl3TTJGZHVVc1prVUJ0TlVQb3dialVfWmY1VkJJMmNLVGFkdUdxclBiY1dTbFFRRnQxYjMwTC1LQ3J3VzZpamVlcS1LYlVqU2twdHZNV190WkVhNnJwZ3FfRnE4NDRYSWlOX0hydlFQVXJHX0g5VEJHbkNhdE1rZktUNWNYMWUxTTZDQ2JXaXh2SmZwZGFxUGZSUGdNdzg2SDFSSkV4cVBYdjRaRWdoV2tNVXRrWWZ6U19ZT2Z1MFpqR3dNVGp5NEZQMFVXVFhu?oc=5",
+          "source": "Google News: Street Fighter (PokerNews)",
+          "published": "2026-11-20T00:37:49.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -28,16 +195,12 @@
     }
   ],
   "quiet": [
-    "CS2",
     "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Street Fighter",
-    "Tekken",
-    "Legacy FGC",
     "CoD",
     "Quake",
     "Halo"
