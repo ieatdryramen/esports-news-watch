@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:35:17.099Z",
+  "generatedAt": "2026-11-21T15:05:15.367Z",
   "source": "start.gg",
   "completed": [
     {
@@ -193,19 +193,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1754231",
-      "scene": "legacyfgc",
-      "game": "The King of Fighters XV",
-      "tournament": "Legacy K.O.F. XV League Season 1 Finale (Edition 4)",
-      "event": "Legacy K.O.F. XV League Season 1 Finale (Edition 4)",
-      "entrants": 32,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T15:00:00.000Z",
-      "endAt": "2026-11-21T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/legacy-k-o-f-xv-league-season-1-finale-edition-4/event/legacy-k-o-f-xv-league-season-1-finale-edition-4"
-    },
     {
       "eventId": "1684091",
       "scene": "melee",
