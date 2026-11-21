@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T00:35:13.675Z",
+  "generatedAt": "2026-11-21T01:05:18.494Z",
   "source": "start.gg",
   "completed": [
     {
@@ -189,70 +189,10 @@
           "name": "4077 | TheDrankBaby"
         }
       ]
-    },
-    {
-      "eventId": "1754042",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #142",
-      "event": "Tekken 8",
-      "entrants": 191,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-18T01:00:00.000Z",
-      "endAt": "2026-11-18T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-142/event/tekken-8",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "PAR | JoeCrush"
-        },
-        {
-          "placement": 2,
-          "name": "jasonleoss"
-        },
-        {
-          "placement": 3,
-          "name": "Fancy Sinigang"
-        },
-        {
-          "placement": 4,
-          "name": "PCM | bool"
-        },
-        {
-          "placement": 5,
-          "name": "MTS | ThePiedPiplup"
-        },
-        {
-          "placement": 5,
-          "name": "Kanme | Shadow 20z"
-        },
-        {
-          "placement": 7,
-          "name": "TTVCAVEMANAT370"
-        },
-        {
-          "placement": 7,
-          "name": "DVSN | Reg Sized Majin"
-        }
-      ]
     }
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1714612",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "降龙D3 2026 · 上海丨Dueling Dragons Dojo 2026 Shanghai",
-      "event": "Guilty Gear -Strive- (AWT: Gold)",
-      "entrants": 64,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T01:00:00.000Z",
-      "endAt": "2026-11-22T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/d3-2026-dueling-dragons-dojo-2026-shanghai/event/guilty-gear-strive-awt-gold-3"
-    },
     {
       "eventId": "1673800",
       "scene": "melee",
@@ -298,7 +238,7 @@
       "game": "Tekken 8",
       "tournament": "HEATWAVE Tournament #4",
       "event": "Heatwave Tournament",
-      "entrants": 102,
+      "entrants": 103,
       "online": true,
       "major": false,
       "startAt": "2026-11-22T13:00:00.000Z",
