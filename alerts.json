@@ -18,24 +18,6 @@
       ],
       "summary": "",
       "published": "2026-11-21T07:44:53.000Z"
-    },
-    {
-      "alertedAt": "2026-11-19T13:30:32.801Z",
-      "level": "breaking",
-      "scene": "CS2",
-      "title": "Vitality to shut down academy project",
-      "url": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
-      "source": "HLTV news",
-      "outlets": [
-        "HLTV news"
-      ],
-      "score": 8,
-      "why": [
-        "shut down",
-        "vitality"
-      ],
-      "summary": "The players are officially on the lookout for new homes.",
-      "published": "2026-11-19T13:28:00.000Z"
     }
   ]
 }
