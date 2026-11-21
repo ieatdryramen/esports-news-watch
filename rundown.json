@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T03:00:30.870Z",
+  "generatedAt": "2026-11-21T04:00:23.734Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Infographic: PGL Major Singapore",
@@ -77,22 +77,24 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "The Esports Awards 2026: Counter Strike 2 Named Esports Game of the Year",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3Yta0xEaVllNE1abjV1d3V4LUM0TVY4T3h5NE44VUxvQjBobzlkOE1VaXZmRnRMNTdLZ0ZPZjNoRDdra2xNM2gzRlVod3RzSnExOGJkZ1JWNGw1aTBJZ2t0SFNkbXVSYWlITUpyT2pKNHRpYWpzaVdRcXZUSTFsR2JLMERzR21FZk1VeElkNkdlUmx5QzFTTkJKYUgxUzV2Q1930gGoAUFVX3lxTE56ZG1lSWZoOFVnQkdfaldRODVLdjNhUWFaT25FX056ZHBVanpIZGRzZUNRdHRfYm02RGs3cUo1dFR1M3JOQ1BnT1d6SkFGRU1TUWdHLXk2ZWk2VHYyWC1BektvZXBEbC1RMmdySlhxOU9IcXRtOWhmX2oydTlvYzZ3T0kteTFraV8xY3FiVXFqVHVEM1hGZERIclp5bzl3ZlNYcmxPT2U3SA?oc=5",
-          "source": "Google News: CS2 (mxdwn Games)",
-          "published": "2026-11-20T05:39:32.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Nemesis defeat Team Spirit 2-0 at BLAST SLAM IX",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ19IRllvc1VOb0lNcWNpOGlQTzM4cDJ2c0hWVnBhekpfclptNUY3OWQ5TjFsQWRjSzh2SVR3VnVqQWpWeEUtaHkxY0h3Nl9tQi1Yc19UZHNQd1ZxWlVJV2w5SWt0UVhnWDNMVGxEakF2Z1l1UmltcFhFVG5UcS00YVZrVVRDMXFfWEtBcGotdXoyNmlhQmFfZlEzQVhPMXEyX1pDYg?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-11-20T18:09:09.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team spirit"
+          ]
+        },
         {
           "title": "CyberHero Come From a Map Down to Knock Froglings Out of DreamLeague",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemc1d1lxSzBnZU8tcUwzRlZ5UmVwN3lSaXJHMWl5cXh6YjdvQ2tGUXRwOG9QUjJxd3Nhb0U1RTc2c053TXRYM205UHdjQUxGRlJCMlJydGYzaWgtdmstcHdSVU5RcDI2UlU3V3hUbHo3MTRuRzRPdWs2N3dVclFZNEVn?oc=5",
