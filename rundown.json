@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:50:31.800Z",
+  "generatedAt": "2026-11-21T08:50:17.577Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -185,21 +185,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
-          "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-20T08:47:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -208,6 +193,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Tekken",
     "CoD",
     "Quake",
     "Halo"
