@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T20:40:18.669Z",
+  "generatedAt": "2026-11-21T21:40:18.930Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 3,
       "stories": [
         {
           "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
@@ -20,39 +20,10 @@
           ]
         },
         {
-          "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-21T12:42:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
-          ]
-        },
-        {
           "title": "PARIVISION beat LEGION 2-0 again to open BLAST Slam Season 9 Group C",
           "url": "https://esports-news.co.uk/2026/11/21/parivision-beat-legion-2-0-again-to-open-blast-slam-season-9-group-c/",
           "source": "Esports News UK",
           "published": "2026-11-21T11:08:44.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "All new Dota 2 neutral creeps and their abilities in patch 7.42",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QTjlhTXJpNFF5TVdHc0ZZeWE4dmVxVGJPSWx6VVFKUEZiZU9Hb2VYZ09XY1o0RDM4cjBOOEZrYS1TQXRlMTd3dlo5TFc2ZW5JOXgzcFNFYWpNNVNqaElyQ0tYUVFuUmIzZ09DUXNXcXFoUDhtNk5PMlRB?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-20T21:33:58.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "All new items in Dota 2 and their effects in patch 7.42",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wZFBmWGp3ZU5hMUZzNzZ3OHdDeWNQcy02THpEMV9qdVY2N21FM3F6eWFhTWNWR3J6YlV4S05UVVhEYnZacVI5N203MV9ZeGZFX0hISjFrZEhnSm1QZ01UTjVUZ0RVSjU3UnBBV2VR?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-20T21:21:55.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -73,7 +44,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
@@ -148,15 +119,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
-          "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
-          "source": "HLTV news",
-          "published": "2026-11-20T21:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -218,30 +180,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Scarz|Akutagawa Ranks Arjun C Tier in Street Fighter 6",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2d4T2Zyc2lXUXlQVlRVWnhlSUxxZkN3YUhHcWthX2NGamd6RlFYbU5TWW5hbmtteWtjY2NMUTk0N180c2xyNGZidDdnWFloSElmb2xJelNNQk1vUzdjREs4eTdIalJZbmZNWEFyRHZ3blZXQ0ZjX1Byc0pqYy1kVXJUVmU?oc=5",
-          "source": "Google News: Street Fighter (Wisevoter)",
-          "published": "2026-11-21T02:21:14.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Japan's best Manon user releases new tier list for Street Fighter 6 with a surprisingly low placement for Arjun",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZjdDTXdVOEJFa0NuQVpoa21zajFyRjZlRkxkR0lqMXdfaXBVUktaVzV1N0d0bjQ2aEFGMVZLX0tlMU0zeW43NkprVmtFVlpjWGpDM09FR1ctY0YxcGZaOHdydEFnZ19KNkZQV1FpNl8tcENmazZENmY3VEc1QQ?oc=5",
-          "source": "Google News: Street Fighter (EventHubs)",
-          "published": "2026-11-21T00:26:28.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -250,6 +188,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "CoD",
     "Quake",
