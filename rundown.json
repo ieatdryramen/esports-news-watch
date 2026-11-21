@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:00:31.593Z",
+  "generatedAt": "2026-11-21T14:00:24.278Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
@@ -70,6 +70,17 @@
           ]
         },
         {
+          "title": "Top 5 Players to Watch at PGL Major Singapore 2026",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTnZIQlBoOHV3akJOTTNOV0xqNlNYRmFUZVoxTHFEYzlIX1FwSDE3SE1kb2ZGZmtXLUlXYVNGLTJaQ2d4MUJOQ1EzcG5HZVJRWThBMDNoTFZ0bUdpVVFRcGJtcEVoMHMwV3RJMWlxdFd2SUpadF9JNmJOVUhVZFU?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-21T13:44:18.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Visualized: Every team at PGL Major Singapore Stage 1",
           "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
           "source": "HLTV news",
@@ -92,6 +103,15 @@
           ]
         },
         {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-21T13:12:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
           "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
           "source": "HLTV news",
@@ -105,15 +125,6 @@
           "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
           "source": "HLTV news",
           "published": "2026-11-20T19:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-20T15:31:00.000Z",
           "score": 1,
           "level": null,
           "why": []
