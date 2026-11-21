@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T12:30:26.685Z",
+  "generatedAt": "2026-11-21T13:30:27.882Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "NAVI vs VP | INSANE Grand Finals Voice Comms at Marvel Rivals Ignite 2026 EMEA Stage 2",
@@ -17,6 +17,17 @@
             "grand finals",
             "grand finals",
             "navi"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Ranks in Order: Season 11 Reset, Nov. 13",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWNPbGhibU04Z3pObENubGdkYzZQbE5vOTRiTVA3WWRnQ2o2V2pIbjdsRjFwU195VXhOWm1IcXN5dmppdThhRTN3WHBPNVhHcU1zaDBuS1hVNDQ0QXlyeDhXVGNRMldqOFp1WHIwLTkzblVqaGluTXNmWjV5T2wwcXZUQUlheS10amxvMERR?oc=5",
+          "source": "Google News: Rivals esports (shattered.io)",
+          "published": "2026-11-21T13:14:22.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
           ]
         },
         {
