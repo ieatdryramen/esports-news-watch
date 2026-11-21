@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T22:00:30.655Z",
+  "generatedAt": "2026-11-21T22:55:32.378Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Marvel Rivals: Season 11 Trailer",
@@ -33,6 +33,15 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzBzVTgwSHRFUDJfM2F5YjhhajVSOG5zLUZUVFNIWDNqWnlRVE82dTRvOUp2T0dVYkRUREdwU0NmdnM2ZHU2cEpidTZkT1pFZ25lMDU1dDFVY2NsdkVsekk5SWVPV2dFa3ZFbTNScklzUDZ3alNGSDF4dnA4SVpwV01oVUxlcWJyOUhyZ3hTOGROc29J?oc=5",
           "source": "Google News: Rivals esports (Happy Gamer)",
           "published": "2026-11-21T20:42:38.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Celebrates Inde Navarrette's X-Men Movie With New Poster Showing Superhero Rouge Striking The Same Pose As the 'Obesession' Star's Nikki In 'Marvel Rivals'",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDRFWjhsZDc3TFo4a0xrYzhra1R6RkJiNWQzY0hFTUM2N1owZEtQUklLOVdsOVA1NUJiSmJBMmNieGVpZTVrNTVXSTNTcGs0UGFxdGxYY1dHNm9EeXEyU3lQdUxCbUl3bmMwZjAwNWJOeHJXSTQySHJIZ1VhM0xITUpmYm0xNllSbWZKek5UZEpFRDBybVN1anpCSU0tNlFDaXhQRjBsTUtpeVJfWHdV?oc=5",
+          "source": "Google News: Rivals patches (The Direct)",
+          "published": "2026-11-21T11:52:38.000Z",
           "score": 1,
           "level": null,
           "why": []
