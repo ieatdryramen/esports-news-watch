@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:40:18.930Z",
+  "generatedAt": "2026-11-21T22:00:25.113Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -180,6 +180,30 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Scarz|Akutagawa Ranks Arjun C Tier in Street Fighter 6",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2d4T2Zyc2lXUXlQVlRVWnhlSUxxZkN3YUhHcWthX2NGamd6RlFYbU5TWW5hbmtteWtjY2NMUTk0N180c2xyNGZidDdnWFloSElmb2xJelNNQk1vUzdjREs4eTdIalJZbmZNWEFyRHZ3blZXQ0ZjX1Byc0pqYy1kVXJUVmU?oc=5",
+          "source": "Google News: Street Fighter (Wisevoter)",
+          "published": "2026-11-21T02:21:13.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Japan's best Manon user releases new tier list for Street Fighter 6 with a surprisingly low placement for Arjun",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZjdDTXdVOEJFa0NuQVpoa21zajFyRjZlRkxkR0lqMXdfaXBVUktaVzV1N0d0bjQ2aEFGMVZLX0tlMU0zeW43NkprVmtFVlpjWGpDM09FR1ctY0YxcGZaOHdydEFnZ19KNkZQV1FpNl8tcENmazZENmY3VEc1QQ?oc=5",
+          "source": "Google News: Street Fighter (EventHubs)",
+          "published": "2026-11-21T00:26:28.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -188,7 +212,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Street Fighter",
     "Legacy FGC",
     "CoD",
     "Quake",
