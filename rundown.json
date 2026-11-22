@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T00:55:28.075Z",
+  "generatedAt": "2026-11-22T01:55:15.530Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
@@ -17,6 +17,17 @@
             "roster",
             "wins",
             "dreamleague"
+          ]
+        },
+        {
+          "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-22T01:41:15.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "og"
           ]
         },
         {
@@ -55,7 +66,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 2,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
@@ -70,6 +81,17 @@
           ]
         },
         {
+          "title": "Meet the PGL Major Singapore 2026 rookies",
+          "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
+          "source": "HLTV news",
+          "published": "2026-11-21T18:35:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Top 5 Players to Watch at PGL Major Singapore 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTnZIQlBoOHV3akJOTTNOV0xqNlNYRmFUZVoxTHFEYzlIX1FwSDE3SE1kb2ZGZmtXLUlXYVNGLTJaQ2d4MUJOQ1EzcG5HZVJRWThBMDNoTFZ0bUdpVVFRcGJtcEVoMHMwV3RJMWlxdFd2SUpadF9JNmJOVUhVZFU?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -79,6 +101,46 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "Visualized: Every team at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-21T11:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Betclic part ways with ultimate",
+          "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
+          "source": "HLTV news",
+          "published": "2026-11-21T14:06:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "replaced*"
+          ]
+        },
+        {
+          "title": "Attributes Fans Come Here ft. LuzRaposa",
+          "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
+          "source": "HLTV news",
+          "published": "2026-11-21T19:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-21T16:01:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
