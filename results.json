@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-22T04:05:16.784Z",
+  "generatedAt": "2026-11-22T04:35:14.165Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1684091",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Taking Back Tampa: The Movie",
+      "event": "Melee Singles",
+      "entrants": 128,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T18:00:00.000Z",
+      "endAt": "2026-11-22T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/taking-back-tampa-the-movie/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "JChu"
+        },
+        {
+          "placement": 2,
+          "name": "Wevans"
+        },
+        {
+          "placement": 3,
+          "name": "MEOW | Free Cuba"
+        },
+        {
+          "placement": 4,
+          "name": "JoyStick | OG Kid"
+        },
+        {
+          "placement": 5,
+          "name": "MMG | Seven"
+        },
+        {
+          "placement": 5,
+          "name": "King Momo"
+        },
+        {
+          "placement": 7,
+          "name": "Akir"
+        },
+        {
+          "placement": 7,
+          "name": "CowCowCowCowCow"
+        }
+      ]
+    },
     {
       "eventId": "1746822",
       "scene": "streetfighter",
@@ -144,21 +191,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1684091",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Taking Back Tampa: The Movie",
-      "event": "Melee Singles",
-      "entrants": 128,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T18:00:00.000Z",
-      "endAt": "2026-11-22T04:00:00.000Z",
-      "url": "https://www.start.gg/tournament/taking-back-tampa-the-movie/event/melee-singles"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1738498",
@@ -179,7 +212,7 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "Left Coast Battleground #8",
       "event": "3S Double Elimination",
-      "entrants": 23,
+      "entrants": 24,
       "online": false,
       "major": false,
       "startAt": "2026-11-23T01:01:00.000Z",
