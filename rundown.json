@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T15:00:25.793Z",
+  "generatedAt": "2026-11-22T16:00:25.681Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
@@ -39,17 +39,6 @@
           "level": null,
           "why": [
             "xtreme gaming"
-          ]
-        },
-        {
-          "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-22T01:42:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
           ]
         },
         {
@@ -113,30 +102,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Nintendo’s GameCube Crossover Turns 25, and Melee Fits the Bill",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFBoVVczNDlyXzJza28waE8xdjkzNlJVWFlQMmpTNldCRFM1ZkVFOUpyc1UwSVI2aUczNURoTVk4aUM3cW1kYkRqVGtxSV91RVpfLTRwOEtGUnktazBUNTVUUGJ5ZUljMVZHamxGcFFFRkNSSGhzUFNCQnRfUG9aVmNoVFVhbXZMUGx2NXBqV2dTcnc5ZjNBWDVDeS0?oc=5",
-          "source": "Google News: Melee (www.explosion.com)",
-          "published": "2026-11-22T02:13:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Super Smash Bros. Melee is 25 years old today",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04NTFrZ2JBekNhNExPdkhYTzB4SXZmRkEtd0lKQ0Z3TXJrM1E5U2JtTnp5ZHNES2pWV3pqZk5tZFRiNC0ycFNiRGRuWFl4M3BlVnNwNVRPVTJTdzZVZHdOSXZJMllTY1l6UVlzY2JOTkU3a1M3NEJNTUUzZXhoZw?oc=5",
-          "source": "Google News: Melee (GGRecon)",
-          "published": "2026-11-21T15:17:12.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 2,
       "stories": [
@@ -154,6 +119,21 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0g0ZGh3azZ6dWxOb18zZ1l3bWM0S21nRE9JeXdZQlJldmI3SHpaejJKTHFNRzVqRG9hUkJQZG1sb3BnMUtXSF81RDJYWFd0R1lpN3FXQjFHeGdBSjRGdUFSa1N0VVR2R0lVYU04N0dsZEI3dTV2WE9JTmtSTzE0MklTRjdTVzg?oc=5",
           "source": "Google News: Tekken (EventHubs)",
           "published": "2026-11-21T18:16:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Nintendo’s GameCube Crossover Turns 25, and Melee Fits the Bill",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFBoVVczNDlyXzJza28waE8xdjkzNlJVWFlQMmpTNldCRFM1ZkVFOUpyc1UwSVI2aUczNURoTVk4aUM3cW1kYkRqVGtxSV91RVpfLTRwOEtGUnktazBUNTVUUGJ5ZUljMVZHamxGcFFFRkNSSGhzUFNCQnRfUG9aVmNoVFVhbXZMUGx2NXBqV2dTcnc5ZjNBWDVDeS0?oc=5",
+          "source": "Google News: Melee (www.explosion.com)",
+          "published": "2026-11-22T02:13:11.000Z",
           "score": 1,
           "level": null,
           "why": []
