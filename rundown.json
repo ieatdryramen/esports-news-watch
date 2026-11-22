@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T05:45:21.226Z",
+  "generatedAt": "2026-11-22T06:40:21.552Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 7,
+      "storyCount": 5,
       "stories": [
         {
           "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
@@ -40,28 +40,6 @@
           "level": null,
           "why": [
             "xtreme gaming"
-          ]
-        },
-        {
-          "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-22T01:42:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
-          ]
-        },
-        {
-          "title": "OG Defeat PlayTime 2-1 at Dota 2 BLAST SLAM IX",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlJVM0tULWllQ1MxbTZ3eG8zeWZCbUEtU1BjOWJVUnUwbnNiaFRiTWJIZk9hRGpHcVNTUkhWQ0ZHMmhXVjFBS2VsNWhiYkc5aTdycFZCS25tNG1aT0owSDE0dlExdlo3YkRkSVhBU3pNUVR6Q0RzZVc4QTRHQWV6aTR5bC1QYTM0cFBYdkpzRTFIcnJwUzhYWUNKR2tEQ2dWY3ltZg?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-21T21:09:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
           ]
         },
         {
@@ -168,41 +146,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-21T06:23:58.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "Creator Ranks Every Tekken Game on Tier List",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85emxsLVRXRnBJOVBFLTcxQzc4M3IyR2Uwa0t6SklsUnNldndGQzBVWG9rU0Q5NnowS1hTME12ZWV1S1U0ZUdNNzg0blJRMkprME10Tl9CaGhZQ2dJQ3VBUjZRWDVRVUpMNmlaV1FvLVM4UTVvU2k0Sg?oc=5",
-          "source": "Google News: Tekken (Wisevoter)",
-          "published": "2026-11-21T19:14:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TheMainManSWE determines the highlights and low points of the Tekken series with his game tier list",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0g0ZGh3azZ6dWxOb18zZ1l3bWM0S21nRE9JeXdZQlJldmI3SHpaejJKTHFNRzVqRG9hUkJQZG1sb3BnMUtXSF81RDJYWFd0R1lpN3FXQjFHeGdBSjRGdUFSa1N0VVR2R0lVYU04N0dsZEI3dTV2WE9JTmtSTzE0MklTRjdTVzg?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-21T18:16:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 2,
       "stories": [
@@ -220,6 +163,30 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04NTFrZ2JBekNhNExPdkhYTzB4SXZmRkEtd0lKQ0Z3TXJrM1E5U2JtTnp5ZHNES2pWV3pqZk5tZFRiNC0ycFNiRGRuWFl4M3BlVnNwNVRPVTJTdzZVZHdOSXZJMllTY1l6UVlzY2JOTkU3a1M3NEJNTUUzZXhoZw?oc=5",
           "source": "Google News: Melee (GGRecon)",
           "published": "2026-11-21T15:17:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Creator Ranks Every Tekken Game on Tier List",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85emxsLVRXRnBJOVBFLTcxQzc4M3IyR2Uwa0t6SklsUnNldndGQzBVWG9rU0Q5NnowS1hTME12ZWV1S1U0ZUdNNzg0blJRMkprME10Tl9CaGhZQ2dJQ3VBUjZRWDVRVUpMNmlaV1FvLVM4UTVvU2k0Sg?oc=5",
+          "source": "Google News: Tekken (Wisevoter)",
+          "published": "2026-11-21T19:14:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "TheMainManSWE determines the highlights and low points of the Tekken series with his game tier list",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0g0ZGh3azZ6dWxOb18zZ1l3bWM0S21nRE9JeXdZQlJldmI3SHpaejJKTHFNRzVqRG9hUkJQZG1sb3BnMUtXSF81RDJYWFd0R1lpN3FXQjFHeGdBSjRGdUFSa1N0VVR2R0lVYU04N0dsZEI3dTV2WE9JTmtSTzE0MklTRjdTVzg?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-21T18:16:37.000Z",
           "score": 1,
           "level": null,
           "why": []
