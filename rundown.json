@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T16:00:25.681Z",
+  "generatedAt": "2026-11-22T17:00:25.120Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "s1mple and device give Stage 1 some much needed stardust",
@@ -86,15 +86,6 @@
           "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
           "source": "HLTV news",
           "published": "2026-11-21T19:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-21T16:01:00.000Z",
           "score": 1,
           "level": null,
           "why": []
