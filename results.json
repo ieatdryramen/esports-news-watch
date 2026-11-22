@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:35:15.457Z",
+  "generatedAt": "2026-11-22T00:05:15.854Z",
   "source": "start.gg",
   "completed": [
     {
@@ -140,53 +140,6 @@
         {
           "placement": 7,
           "name": "Anchor"
-        }
-      ]
-    },
-    {
-      "eventId": "1757408",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "NYCMelee's Stock Exchange #74",
-      "event": "Melee Singles",
-      "entrants": 64,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-19T00:00:00.000Z",
-      "endAt": "2026-11-19T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/nycmelee-s-stock-exchange-74/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Guava"
-        },
-        {
-          "placement": 2,
-          "name": "Freezus"
-        },
-        {
-          "placement": 3,
-          "name": "nojonsmods | kdog"
-        },
-        {
-          "placement": 4,
-          "name": "Smylin"
-        },
-        {
-          "placement": 5,
-          "name": "Tazio"
-        },
-        {
-          "placement": 5,
-          "name": "K8A"
-        },
-        {
-          "placement": 7,
-          "name": "LuckyStats.gg | Breakfast"
-        },
-        {
-          "placement": 7,
-          "name": "Luu"
         }
       ]
     },
