@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-11-22T22:35:28.354Z",
+  "generatedAt": "2026-11-22T23:05:28.242Z",
   "source": "start.gg",
-  "completed": [],
+  "completed": [
+    {
+      "eventId": "1645174",
+      "scene": "tokon",
+      "game": "Fighting Souls",
+      "tournament": "Battle Coliseum 2026",
+      "event": "Marvel Tokon: Fighting Souls (ARC World Tour) - PS5",
+      "entrants": 54,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-20T12:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/marvel-tokon-fighting-souls-arc-world-tour-ps5",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "VAL | Yosep"
+        },
+        {
+          "placement": 2,
+          "name": "UA | Lemon"
+        },
+        {
+          "placement": 3,
+          "name": "Senshii"
+        },
+        {
+          "placement": 4,
+          "name": "ST | Mano Brawl"
+        },
+        {
+          "placement": 5,
+          "name": "INZEM"
+        },
+        {
+          "placement": 5,
+          "name": "Elliagah"
+        },
+        {
+          "placement": 7,
+          "name": "Valiant | Silva"
+        },
+        {
+          "placement": 7,
+          "name": "AdK | Zate"
+        }
+      ]
+    }
+  ],
   "live": [],
   "upcoming": [],
   "games": {
