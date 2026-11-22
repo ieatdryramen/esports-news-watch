@@ -1,68 +1,57 @@
 {
-  "generatedAt": "2026-11-22T02:50:30.782Z",
+  "generatedAt": "2026-11-22T03:50:27.050Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "CS2",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Meet the PGL Major Singapore 2026 rookies",
-          "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
-          "source": "HLTV news",
-          "published": "2026-11-21T18:35:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Visualized: Every team at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-21T11:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Betclic part ways with ultimate",
-          "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
-          "source": "HLTV news",
-          "published": "2026-11-21T14:06:00.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "replaced*"
-          ]
-        },
-        {
-          "title": "Attributes Fans Come Here ft. LuzRaposa",
-          "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
-          "source": "HLTV news",
-          "published": "2026-11-21T19:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-21T16:01:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Dota",
-      "storyCount": 1,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNelQ5SXhwUXdnVS1TV1I3Umk1RGxwX1RLTmwwdkVNQTEyYXJ4eTRGTFNhSWVRMk53MVRBSmhVMk40cWNVTGxxWnNEWUVhbWViMDdGUnhYclU4cWg4X0FiVVo2YXRfSUI4ckJ2X2Ixa0NURUlwQkdYWW9LeWdESDZxX25ad2RuSjVtbDc3VzNrWUN5Yk1XeFpNTnJkZVYtU2drYU1WRm9kMUxuU1oySXhpUjM0U1JsMlhYUmhFdy1JOXJid2llZDhyYy0xSXNoZkZFdXFQS1I2M0M4Y0EtcnZtdW90cW9Db0HSAecBQVVfeXFMTXpUOUl4cFF3Z1UtU1dSN1JpNURscF9US05sMHZFTUExMmFyeHk0RkxTYUllUTJOdzFUQUpoVTJONHFjVUxscVpzRFlFYW1lYjA3RlJ4WHJVOHFoOF9BYlVaNmF0X0lCOHJCdl9iMWtDVEVJcEJHWFlvS3lnREg2cV9uWndkbko1bWw3N1cza1lDeWJNV3haTU5yZGVWLVNna2FNVkZvZDFMblNaMkl4aVIzNFNSbDJYWFJoRXctSTlyYndpZWQ4cmMtMUlzaGZGRXVxUEtSNjNDOGNBLXJ2bXVvdHFvQ29B?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-21T07:44:53.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "roster",
+            "wins",
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "Xtreme Gaming Send Spirit Packing Just Two Days Into BLAST Slam IX",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzRxSXQ1X0g1RlFJMXlqVVNCMVV2d05pU0M1anZUVDBpdWI4OWY5RWMzRlBPbkhNdWc4aEpvMEtzY2Q0SjZfNTZMUzlBc3lYeFhVS1p4LVlHQ2dVZDBaeGNvN1NXR2dkYTRLTGY3MTNyUG1FbVl3YlhSVFRuc0xpbXFJckxESnpIVjhvM0htai1DdURBUlBiNFhSaDlmZlVSYzFEd3FR?oc=5",
+          "source": "Google News: Dota (Hotspawn)",
+          "published": "2026-11-22T02:12:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "xtreme gaming"
+          ]
+        },
+        {
+          "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-22T01:41:15.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "og"
+          ]
+        },
+        {
+          "title": "OG Defeat PlayTime 2-1 at Dota 2 BLAST SLAM IX",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlJVM0tULWllQ1MxbTZ3eG8zeWZCbUEtU1BjOWJVUnUwbnNiaFRiTWJIZk9hRGpHcVNTUkhWQ0ZHMmhXVjFBS2VsNWhiYkc5aTdycFZCS25tNG1aT0owSDE0dlExdlo3YkRkSVhBU3pNUVR6Q0RzZVc4QTRHQWV6aTR5bC1QYTM0cFBYdkpzRTFIcnJwUzhYWUNKR2tEQ2dWY3ltZg?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-11-21T21:09:57.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "og"
+          ]
+        },
         {
           "title": "PARIVISION beat LEGION 2-0 again to open BLAST Slam Season 9 Group C",
           "url": "https://esports-news.co.uk/2026/11/21/parivision-beat-legion-2-0-again-to-open-blast-slam-season-9-group-c/",
@@ -71,19 +60,117 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekV2Qk5FckRodktrOGpBRkxWX29uYmJBa2FPaGRiQ1BRbWRIY08zWVJJV1lQS2RockV5U2l6a195N3hWb0h2OG1BS0FGTWJ2aVNMMm1PbFlmcHRyTEg3S3VJOHVkRjFpemI1TzlmZzFfVEhkQ0trTS1lUFJSRHNiQw?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-21T11:52:09.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "prize pool",
+            "-schedule"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CS2",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEJScjlacnRfYmlYWHVfNmdvOG52UHpDY1R1d000b0ZaVkNFcXlMeUV2SjVXTzdSVm5vX18wQ0U1QnBIUTZ0dUVXR0Y3OGgxTkRUcUlXX3BHQklvSV81TVduVEUxODB1dzlHQnNlemhDNVJRTmZRVVIxZHpQaEVRNy1OblZiTzhsMUdibEVJYWxRRndIb19GZGFsak5OZ2Z6OUExTE1vMTlUU0U?oc=5",
+          "source": "Google News: CS2 (Foro3D)",
+          "published": "2026-11-21T11:31:14.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "zywoo",
+            "vitality"
+          ]
+        },
+        {
+          "title": "Top 5 Players to Watch at PGL Major Singapore 2026",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTnZIQlBoOHV3akJOTTNOV0xqNlNYRmFUZVoxTHFEYzlIX1FwSDE3SE1kb2ZGZmtXLUlXYVNGLTJaQ2d4MUJOQ1EzcG5HZVJRWThBMDNoTFZ0bUdpVVFRcGJtcEVoMHMwV3RJMWlxdFd2SUpadF9JNmJOVUhVZFU?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-21T13:44:18.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-21T06:23:58.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
+          "title": "Creator Ranks Every Tekken Game on Tier List",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85emxsLVRXRnBJOVBFLTcxQzc4M3IyR2Uwa0t6SklsUnNldndGQzBVWG9rU0Q5NnowS1hTME12ZWV1S1U0ZUdNNzg0blJRMkprME10Tl9CaGhZQ2dJQ3VBUjZRWDVRVUpMNmlaV1FvLVM4UTVvU2k0Sg?oc=5",
+          "source": "Google News: Tekken (Wisevoter)",
+          "published": "2026-11-21T19:14:07.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "TheMainManSWE determines the highlights and low points of the Tekken series with his game tier list",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0g0ZGh3azZ6dWxOb18zZ1l3bWM0S21nRE9JeXdZQlJldmI3SHpaejJKTHFNRzVqRG9hUkJQZG1sb3BnMUtXSF81RDJYWFd0R1lpN3FXQjFHeGdBSjRGdUFSa1N0VVR2R0lVYU04N0dsZEI3dTV2WE9JTmtSTzE0MklTRjdTVzg?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-21T18:16:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Nintendo’s GameCube Crossover Turns 25, and Melee Fits the Bill",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFBoVVczNDlyXzJza28waE8xdjkzNlJVWFlQMmpTNldCRFM1ZkVFOUpyc1UwSVI2aUczNURoTVk4aUM3cW1kYkRqVGtxSV91RVpfLTRwOEtGUnktazBUNTVUUGJ5ZUljMVZHamxGcFFFRkNSSGhzUFNCQnRfUG9aVmNoVFVhbXZMUGx2NXBqV2dTcnc5ZjNBWDVDeS0?oc=5",
+          "source": "Google News: Melee (www.explosion.com)",
+          "published": "2026-11-22T02:13:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Super Smash Bros. Melee is 25 years old today",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04NTFrZ2JBekNhNExPdkhYTzB4SXZmRkEtd0lKQ0Z3TXJrM1E5U2JtTnp5ZHNES2pWV3pqZk5tZFRiNC0ycFNiRGRuWFl4M3BlVnNwNVRPVTJTdzZVZHdOSXZJMllTY1l6UVlzY2JOTkU3a1M3NEJNTUUzZXhoZw?oc=5",
+          "source": "Google News: Melee (GGRecon)",
+          "published": "2026-11-21T15:17:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
     "Street Fighter",
-    "Tekken",
     "Legacy FGC",
     "CoD",
     "Quake",
