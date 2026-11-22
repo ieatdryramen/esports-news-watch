@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T16:15:21.289Z",
+  "generatedAt": "2026-11-22T17:15:25.065Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -7,15 +7,13 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "Marvel Rivals: Season 11 Trailer",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SNk1wUy05TFV3LVFYRm8xSHdiZ0VNeTVGdUJQbVp0MXRGSzBRcXBGV0d3Nl95ZWpwbUNtTmxVNGgyRXVUaVBEMkwxMWNFM0VwRlE?oc=5",
+          "title": "Marvel Rivals: Love Is A Battlefield Trailer",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BZXNPenR6UWR3VG52b1Y5cEU3WkhMaFdOQXFtWk1vbmxfVWU5bUtKX2tzUHJVcVNyQ2xmUDJpM1REaFg0dG9jWkdUYUhoV2Zpb2c?oc=5",
           "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-21T18:50:54.000Z",
-          "score": 2,
+          "published": "2026-11-22T01:01:47.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "season"
-          ]
+          "why": []
         },
         {
           "title": "Marvel Rivals Ignite 2027 Partner Program Applications Are Now Open",
