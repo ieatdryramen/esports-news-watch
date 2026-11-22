@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-11-22T12:25:31.244Z",
+  "generatedAt": "2026-11-22T13:25:20.159Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Marvel Rivals: Season 11 Trailer",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SNk1wUy05TFV3LVFYRm8xSHdiZ0VNeTVGdUJQbVp0MXRGSzBRcXBGV0d3Nl95ZWpwbUNtTmxVNGgyRXVUaVBEMkwxMWNFM0VwRlE?oc=5",
           "source": "Google News: Rivals patches (IMDb)",
           "published": "2026-11-21T18:50:54.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Ranks in Order: Season 11 Reset, Nov. 13",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWNPbGhibU04Z3pObENubGdkYzZQbE5vOTRiTVA3WWRnQ2o2V2pIbjdsRjFwU195VXhOWm1IcXN5dmppdThhRTN3WHBPNVhHcU1zaDBuS1hVNDQ0QXlyeDhXVGNRMldqOFp1WHIwLTkzblVqaGluTXNmWjV5T2wwcXZUQUlheS10amxvMERR?oc=5",
-          "source": "Google News: Rivals esports (shattered.io)",
-          "published": "2026-11-21T13:14:22.000Z",
           "score": 2,
           "level": null,
           "why": [
