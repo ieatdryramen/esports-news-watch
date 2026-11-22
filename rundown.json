@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T11:40:19.884Z",
+  "generatedAt": "2026-11-22T12:00:38.562Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
@@ -51,36 +51,13 @@
           "why": [
             "og"
           ]
-        },
-        {
-          "title": "Dota 2 BLAST SLAM 9 2026: Schedule, teams, format, and prize pool",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekV2Qk5FckRodktrOGpBRkxWX29uYmJBa2FPaGRiQ1BRbWRIY08zWVJJV1lQS2RockV5U2l6a195N3hWb0h2OG1BS0FGTWJ2aVNMMm1PbFlmcHRyTEg3S3VJOHVkRjFpemI1TzlmZzFfVEhkQ0trTS1lUFJSRHNiQw?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-21T11:52:09.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "prize pool",
-            "-schedule"
-          ]
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 5,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "Meet the PGL Major Singapore 2026 rookies",
-          "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
-          "source": "HLTV news",
-          "published": "2026-11-21T18:35:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
         {
           "title": "Top 5 Players to Watch at PGL Major Singapore 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTnZIQlBoOHV3akJOTTNOV0xqNlNYRmFUZVoxTHFEYzlIX1FwSDE3SE1kb2ZGZmtXLUlXYVNGLTJaQ2d4MUJOQ1EzcG5HZVJRWThBMDNoTFZ0bUdpVVFRcGJtcEVoMHMwV3RJMWlxdFd2SUpadF9JNmJOVUhVZFU?oc=5",
@@ -91,35 +68,6 @@
           "why": [
             "pgl"
           ]
-        },
-        {
-          "title": "Betclic part ways with ultimate",
-          "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
-          "source": "HLTV news",
-          "published": "2026-11-21T14:06:00.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "replaced*"
-          ]
-        },
-        {
-          "title": "Attributes Fans Come Here ft. LuzRaposa",
-          "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
-          "source": "HLTV news",
-          "published": "2026-11-21T19:30:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-21T16:01:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
