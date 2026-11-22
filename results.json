@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T07:05:19.543Z",
+  "generatedAt": "2026-11-22T07:35:14.578Z",
   "source": "start.gg",
   "completed": [
     {
@@ -259,7 +259,7 @@
       "game": "Street Fighter III: 3rd Strike",
       "tournament": "Left Coast Battleground #8",
       "event": "3S Double Elimination",
-      "entrants": 24,
+      "entrants": 25,
       "online": false,
       "major": false,
       "startAt": "2026-11-23T01:01:00.000Z",
