@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:35:17.982Z",
+  "generatedAt": "2026-11-22T01:05:17.982Z",
   "source": "start.gg",
   "completed": [
     {
@@ -140,100 +140,6 @@
         {
           "placement": 7,
           "name": "Anchor"
-        }
-      ]
-    },
-    {
-      "eventId": "1755768",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #173",
-      "event": "Street Fighter 6",
-      "entrants": 174,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-19T01:00:00.000Z",
-      "endAt": "2026-11-19T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-173/event/street-fighter-6",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Azan"
-        },
-        {
-          "placement": 2,
-          "name": "FightRise | Lazyboredom"
-        },
-        {
-          "placement": 3,
-          "name": "ECHT | Kharsonist"
-        },
-        {
-          "placement": 4,
-          "name": "Shine"
-        },
-        {
-          "placement": 5,
-          "name": "RobTV"
-        },
-        {
-          "placement": 5,
-          "name": "LeviHakai"
-        },
-        {
-          "placement": 7,
-          "name": "CrimsonJaeger"
-        },
-        {
-          "placement": 7,
-          "name": "STG | big mo dilly"
-        }
-      ]
-    },
-    {
-      "eventId": "1759214",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Run The Se.T! #132",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 18,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-19T01:00:00.000Z",
-      "endAt": "2026-11-19T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/run-the-se-t-132/event/street-fighter-iii-3rd-strike",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "OPH | Nica K.O"
-        },
-        {
-          "placement": 2,
-          "name": "drose"
-        },
-        {
-          "placement": 3,
-          "name": "Devilmaycats | MrPomegranX"
-        },
-        {
-          "placement": 4,
-          "name": "Good Fighters | Stressedin"
-        },
-        {
-          "placement": 5,
-          "name": "Kendog"
-        },
-        {
-          "placement": 5,
-          "name": "HearseBoys | Frisbee"
-        },
-        {
-          "placement": 7,
-          "name": "gamer | jim"
-        },
-        {
-          "placement": 7,
-          "name": "4077 | TheDrankBaby"
         }
       ]
     }
