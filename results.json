@@ -1,7 +1,242 @@
 {
-  "generatedAt": "2026-11-22T22:35:14.796Z",
+  "generatedAt": "2026-11-22T23:05:13.996Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1635588",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "Battle Coliseum 2026",
+      "event": "Street Fighter 6 - PC",
+      "entrants": 134,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-20T12:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/street-fighter-6-pc",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "2G | Brayan_Job"
+        },
+        {
+          "placement": 2,
+          "name": "SS 熊本 | | NotPedro"
+        },
+        {
+          "placement": 3,
+          "name": "Ferps"
+        },
+        {
+          "placement": 4,
+          "name": "Zangief_bolado"
+        },
+        {
+          "placement": 5,
+          "name": "Maroto"
+        },
+        {
+          "placement": 5,
+          "name": "4D | vicg"
+        },
+        {
+          "placement": 7,
+          "name": "Chaolin"
+        },
+        {
+          "placement": 7,
+          "name": "SilvaGames REV | DARK817"
+        }
+      ]
+    },
+    {
+      "eventId": "1645172",
+      "scene": "legacyfgc",
+      "game": "The King of Fighters XV",
+      "tournament": "Battle Coliseum 2026",
+      "event": "The King of Fighters XV - PC",
+      "entrants": 36,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-20T13:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/the-king-of-fighters-xv-pc",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Komitê | Lauyagami"
+        },
+        {
+          "placement": 2,
+          "name": "SilvaGames | KBECINHA"
+        },
+        {
+          "placement": 3,
+          "name": "Komitê | PiterErn"
+        },
+        {
+          "placement": 4,
+          "name": "Komitê | Vítima"
+        },
+        {
+          "placement": 5,
+          "name": "Alexkidd"
+        },
+        {
+          "placement": 5,
+          "name": "SilvaGames | Gallo"
+        },
+        {
+          "placement": 7,
+          "name": "Silva Games | RUAN BAHIA"
+        },
+        {
+          "placement": 7,
+          "name": "Silva Games | Alfinete"
+        }
+      ]
+    },
+    {
+      "eventId": "1720181",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "SIDES - Battle Coliseum 2026",
+      "event": "Street Fighter III: 3rd Strike",
+      "entrants": 56,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T17:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/sides-battle-coliseum-2026/event/street-fighter-iii-3rd-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Xondetsu"
+        },
+        {
+          "placement": 2,
+          "name": "3rd Dojo | Ivao"
+        },
+        {
+          "placement": 3,
+          "name": "RPBR | Reaol | Coelhoo"
+        },
+        {
+          "placement": 4,
+          "name": "#12"
+        },
+        {
+          "placement": 5,
+          "name": "BrenoTsu"
+        },
+        {
+          "placement": 5,
+          "name": "Hideo360"
+        },
+        {
+          "placement": 7,
+          "name": "bdalui"
+        },
+        {
+          "placement": 7,
+          "name": "VFC | Cultyhud"
+        }
+      ]
+    },
+    {
+      "eventId": "1738498",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "HEATWAVE Tournament #4",
+      "event": "Heatwave Tournament",
+      "entrants": 115,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-22T13:00:00.000Z",
+      "endAt": "2026-11-22T22:00:00.000Z",
+      "url": "https://www.start.gg/tournament/heatwave-tournament-4/event/heatwave-tournament",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "ILIAS"
+        },
+        {
+          "placement": 2,
+          "name": "GAM | Kirakira"
+        },
+        {
+          "placement": 3,
+          "name": "SamiBrando"
+        },
+        {
+          "placement": 4,
+          "name": "REBOOT | Paulee"
+        },
+        {
+          "placement": 5,
+          "name": "Lalo"
+        },
+        {
+          "placement": 5,
+          "name": "GPE | bode"
+        },
+        {
+          "placement": 7,
+          "name": "FOX | PiKaH"
+        },
+        {
+          "placement": 7,
+          "name": "Ayatsuji"
+        }
+      ]
+    },
+    {
+      "eventId": "1739371",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Halfmoon Mähinä Monthly #7 Street Fighter 3: 3rd Strike",
+      "event": "Street Fighter III: 3rd Strike",
+      "entrants": 17,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-22T11:00:00.000Z",
+      "endAt": "2026-11-22T19:00:00.000Z",
+      "url": "https://www.start.gg/tournament/halfmoon-m-hin-monthly-7-street-fighter-3-3rd-strike/event/street-fighter-iii-3rd-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Adviceowl"
+        },
+        {
+          "placement": 2,
+          "name": "Knut"
+        },
+        {
+          "placement": 3,
+          "name": "RVA | Tuoreprinssi"
+        },
+        {
+          "placement": 4,
+          "name": "Noot"
+        },
+        {
+          "placement": 5,
+          "name": "SchoolboyF"
+        },
+        {
+          "placement": 5,
+          "name": "BRK | Fraeon"
+        },
+        {
+          "placement": 7,
+          "name": "Tomás"
+        },
+        {
+          "placement": 7,
+          "name": "Sami P"
+        }
+      ]
+    },
     {
       "eventId": "1714612",
       "scene": "legacyfgc",
@@ -285,7 +520,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1635589",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "Battle Coliseum 2026",
+      "event": "Guilty Gear: Strive (AWT PLATINUM) - PC",
+      "entrants": 76,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T13:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/guilty-gear-strive-awt-platinum-pc"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1751130",
@@ -332,7 +581,7 @@
       "game": "Street Fighter 6",
       "tournament": "World Warrior 2026 - Japan 5",
       "event": "Street Fighter 6",
-      "entrants": 1204,
+      "entrants": 1206,
       "online": true,
       "major": true,
       "startAt": "2026-11-28T15:00:00.000Z",
