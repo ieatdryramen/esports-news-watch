@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T14:00:26.550Z",
+  "generatedAt": "2026-11-22T15:00:25.793Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 5,
       "stories": [
         {
           "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
@@ -19,6 +19,18 @@
           ]
         },
         {
+          "title": "Topson spoke about patch 7.42 for Dota 2, naming the best heroes of the new update",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXItT0kzSFY1RXZyT0dWVjlaVjZ5TUcwa3o4QU1XVHVmWXBmX0Vpdlc4UUp4MENVS3RIdnQ4eEN5Mi1FcnFEbFpxdjUwY2d6T3BoQ2xMVktVSTl6TXZQU3JNNTlqUG9jdWNwZEw2YlpYbWE5djBsTHJDOEU3MWxHU2ZreUh5ejJsaEdN?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-22T07:54:49.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "update",
+            "topson"
+          ]
+        },
+        {
           "title": "Xtreme Gaming Send Spirit Packing Just Two Days Into BLAST Slam IX",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzRxSXQ1X0g1RlFJMXlqVVNCMVV2d05pU0M1anZUVDBpdWI4OWY5RWMzRlBPbkhNdWc4aEpvMEtzY2Q0SjZfNTZMUzlBc3lYeFhVS1p4LVlHQ2dVZDBaeGNvN1NXR2dkYTRLTGY3MTNyUG1FbVl3YlhSVFRuc0xpbXFJckxESnpIVjhvM0htai1DdURBUlBiNFhSaDlmZlVSYzFEd3FR?oc=5",
           "source": "Google News: Dota (Hotspawn)",
@@ -27,6 +39,17 @@
           "level": null,
           "why": [
             "xtreme gaming"
+          ]
+        },
+        {
+          "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-22T01:42:04.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "og"
           ]
         },
         {
@@ -44,7 +67,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "s1mple and device give Stage 1 some much needed stardust",
@@ -67,17 +90,6 @@
           "level": null,
           "why": [
             "pgl"
-          ]
-        },
-        {
-          "title": "Betclic part ways with ultimate",
-          "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
-          "source": "HLTV news",
-          "published": "2026-11-21T14:06:00.000Z",
-          "score": 2.5,
-          "level": null,
-          "why": [
-            "replaced*"
           ]
         },
         {
