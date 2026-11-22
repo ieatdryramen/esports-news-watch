@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:35:16.975Z",
+  "generatedAt": "2026-11-22T15:05:25.398Z",
   "source": "start.gg",
   "completed": [
     {
@@ -312,6 +312,19 @@
       "startAt": "2026-11-28T11:30:00.000Z",
       "endAt": "2026-11-28T19:00:00.000Z",
       "url": "https://www.start.gg/tournament/coin-cup-5-1/event/melee-singles"
+    },
+    {
+      "eventId": "1607681",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "World Warrior 2026 - Japan 5",
+      "event": "Street Fighter 6",
+      "entrants": 1179,
+      "online": true,
+      "major": true,
+      "startAt": "2026-11-28T15:00:00.000Z",
+      "endAt": "2026-11-29T14:59:00.000Z",
+      "url": "https://www.start.gg/tournament/world-warrior-2026-japan-5/event/street-fighter-6"
     }
   ],
   "games": {
