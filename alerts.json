@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-22T04:30:22.350Z",
+      "level": "possible",
+      "scene": "Dota",
+      "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUjRsU25GZkxQOHg5czlZQ1c0dUk0YXJoNFkwVk1mMWpWSENrZGpKQmN6ZkVwMVFRUlV3d2wzWURXQWt0TEx2MVNyRFRfZGVqcWl5bGROOEYzVVA2LTFjX2JZQnM1a2I0ODV0ZXB3VUl4bC1JSmVPeWVPTHJMQ0N6MXRMMTlwcWRBZmhLYURCODk4UTdHTlNfQjFjMk9reEJRTWY1dHpwNzk1VklaUUo4X3RCTkhPNU5GY21IZVdndEczVndFOVpMa0dWUDVvNzFsNEtBQjRIdTQ5d2Z6enF3N1h5NGl2bzJNeHJVLWdyc3ZqY1k4cHZNUHZDSDNQeHF3UFU3WlQwYUx3TGppMlQ2OTBZb0F5WGdLWmwyWTZVLUU0c0RmM0I2UzkzeHlfRVXSAa8CQVVfeXFMT1I0bFNuRmZMUDh4OXM5WUNXNHVJNGFyaDRZMFZNZjFqVkhDa2RqSkJjemZFcDFRUVJVd3dsM1lEV0FrdExMdjFTckRUX2RlanFpeWxkTjhGM1VQNi0xY19iWUJzNWtiNDg1dGVwd1VJeGwtSUplT3llT0xyTENDejF0TDE5cHFkQWZoS2FEQjg5OFE3R05TX0IxYzJPa3hCUU1mNXR6cDc5NVZJWlFKOF90Qk5ITzVORmNtSGVXZ3RHM1Z3RTlaTGtHVlA1bzcxbDRLQUI0SHU0OXdmenpxdzdYeTRpdm8yTXhyVS1ncnN2amNZOHB2TVB2Q0gzUHhxd1BVN1pUMGFMd0xqaTJUNjkwWW9BeVhnS1psMlk2VS1FNHNEZjNCNlM5M3h5X0VV?oc=5",
+      "source": "Google News: Dota (Players)",
+      "outlets": [
+        "Players"
+      ],
+      "score": 6,
+      "why": [
+        "wins",
+        "dreamleague"
+      ],
+      "summary": "",
+      "published": "2026-11-22T03:31:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-21T12:10:20.014Z",
       "level": "breaking",
       "scene": "Dota",
