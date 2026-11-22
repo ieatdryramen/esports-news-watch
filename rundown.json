@@ -1,128 +1,19 @@
 {
-  "generatedAt": "2026-11-22T20:00:31.524Z",
+  "generatedAt": "2026-11-22T21:00:41.884Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Dota",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUjRsU25GZkxQOHg5czlZQ1c0dUk0YXJoNFkwVk1mMWpWSENrZGpKQmN6ZkVwMVFRUlV3d2wzWURXQWt0TEx2MVNyRFRfZGVqcWl5bGROOEYzVVA2LTFjX2JZQnM1a2I0ODV0ZXB3VUl4bC1JSmVPeWVPTHJMQ0N6MXRMMTlwcWRBZmhLYURCODk4UTdHTlNfQjFjMk9reEJRTWY1dHpwNzk1VklaUUo4X3RCTkhPNU5GY21IZVdndEczVndFOVpMa0dWUDVvNzFsNEtBQjRIdTQ5d2Z6enF3N1h5NGl2bzJNeHJVLWdyc3ZqY1k4cHZNUHZDSDNQeHF3UFU3WlQwYUx3TGppMlQ2OTBZb0F5WGdLWmwyWTZVLUU0c0RmM0I2UzkzeHlfRVXSAa8CQVVfeXFMT1I0bFNuRmZMUDh4OXM5WUNXNHVJNGFyaDRZMFZNZjFqVkhDa2RqSkJjemZFcDFRUVJVd3dsM1lEV0FrdExMdjFTckRUX2RlanFpeWxkTjhGM1VQNi0xY19iWUJzNWtiNDg1dGVwd1VJeGwtSUplT3llT0xyTENDejF0TDE5cHFkQWZoS2FEQjg5OFE3R05TX0IxYzJPa3hCUU1mNXR6cDc5NVZJWlFKOF90Qk5ITzVORmNtSGVXZ3RHM1Z3RTlaTGtHVlA1bzcxbDRLQUI0SHU0OXdmenpxdzdYeTRpdm8yTXhyVS1ncnN2amNZOHB2TVB2Q0gzUHhxd1BVN1pUMGFMd0xqaTJUNjkwWW9BeVhnS1psMlk2VS1FNHNEZjNCNlM5M3h5X0VV?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-22T03:31:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "wins",
-            "dreamleague"
-          ]
-        },
-        {
-          "title": "Topson spoke about patch 7.42 for Dota 2, naming the best heroes of the new update",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXItT0kzSFY1RXZyT0dWVjlaVjZ5TUcwa3o4QU1XVHVmWXBmX0Vpdlc4UUp4MENVS3RIdnQ4eEN5Mi1FcnFEbFpxdjUwY2d6T3BoQ2xMVktVSTl6TXZQU3JNNTlqUG9jdWNwZEw2YlpYbWE5djBsTHJDOEU3MWxHU2ZreUh5ejJsaEdN?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-22T07:54:49.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "update",
-            "topson"
-          ]
-        },
-        {
-          "title": "Xtreme Gaming Send Spirit Packing Just Two Days Into BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzRxSXQ1X0g1RlFJMXlqVVNCMVV2d05pU0M1anZUVDBpdWI4OWY5RWMzRlBPbkhNdWc4aEpvMEtzY2Q0SjZfNTZMUzlBc3lYeFhVS1p4LVlHQ2dVZDBaeGNvN1NXR2dkYTRLTGY3MTNyUG1FbVl3YlhSVFRuc0xpbXFJckxESnpIVjhvM0htai1DdURBUlBiNFhSaDlmZlVSYzFEd3FR?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-22T02:12:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "xtreme gaming"
-          ]
-        },
-        {
-          "title": "OG Defeat PlayTime 2-1 at Dota 2 BLAST SLAM IX",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlJVM0tULWllQ1MxbTZ3eG8zeWZCbUEtU1BjOWJVUnUwbnNiaFRiTWJIZk9hRGpHcVNTUkhWQ0ZHMmhXVjFBS2VsNWhiYkc5aTdycFZCS25tNG1aT0owSDE0dlExdlo3YkRkSVhBU3pNUVR6Q0RzZVc4QTRHQWV6aTR5bC1QYTM0cFBYdkpzRTFIcnJwUzhYWUNKR2tEQ2dWY3ltZg?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-21T21:09:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "s1mple and device give Stage 1 some much needed stardust",
-          "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
-          "source": "HLTV news",
-          "published": "2026-11-22T12:31:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "s1mple",
-            "device"
-          ]
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-22T19:09:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Battle Coliseum 2026 live stream ft. SonicFox, Leffen, Hikari, BrayanJob, NotPedro, Inzem, Supernoon, DidimoKOF, JF, Xerom, Lauyagami, Resil and more",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaUtCcmpMamhsY2hUbllUcU1SX2drQVYxbm52ZDRNZ1JldWp6Q2drNmE4a3UtZHRKOWRIZFB1U3I4dEp1YWhzd29pc3QybkdDU3ozRTdKTEphRFJ3T2hvRm5OdmpuU0pSN3VjeHk5ek5nYVg3ZnJkUlFXQ2E?oc=5",
-          "source": "Google News: Legacy FGC (EventHubs)",
-          "published": "2026-11-22T16:31:24.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "sonicfox",
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Nintendo’s GameCube Crossover Turns 25, and Melee Fits the Bill",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFBoVVczNDlyXzJza28waE8xdjkzNlJVWFlQMmpTNldCRFM1ZkVFOUpyc1UwSVI2aUczNURoTVk4aUM3cW1kYkRqVGtxSV91RVpfLTRwOEtGUnktazBUNTVUUGJ5ZUljMVZHamxGcFFFRkNSSGhzUFNCQnRfUG9aVmNoVFVhbXZMUGx2NXBqV2dTcnc5ZjNBWDVDeS0?oc=5",
-          "source": "Google News: Melee (www.explosion.com)",
-          "published": "2026-11-22T02:13:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    }
-  ],
+  "scenes": [],
   "quiet": [
+    "CS2",
+    "Melee",
     "AoE2",
+    "Dota",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
     "Street Fighter",
     "Tekken",
+    "Legacy FGC",
     "CoD",
     "Quake",
     "Halo"
