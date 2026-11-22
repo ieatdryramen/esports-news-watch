@@ -1,31 +1,8 @@
 {
-  "generatedAt": "2026-11-22T18:15:33.703Z",
+  "generatedAt": "2026-11-22T19:10:38.369Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Rivals",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Marvel Rivals: Love Is A Battlefield Trailer",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BZXNPenR6UWR3VG52b1Y5cEU3WkhMaFdOQXFtWk1vbmxfVWU5bUtKX2tzUHJVcVNyQ2xmUDJpM1REaFg0dG9jWkdUYUhoV2Zpb2c?oc=5",
-          "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-22T01:01:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Ignite 2027 Partner Program Applications Are Now Open",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzBzVTgwSHRFUDJfM2F5YjhhajVSOG5zLUZUVFNIWDNqWnlRVE82dTRvOUp2T0dVYkRUREdwU0NmdnM2ZHU2cEpidTZkT1pFZ25lMDU1dDFVY2NsdkVsekk5SWVPV2dFa3ZFbTNScklzUDZ3alNGSDF4dnA4SVpwV01oVUxlcWJyOUhyZ3hTOGROc29J?oc=5",
-          "source": "Google News: Rivals esports (Happy Gamer)",
-          "published": "2026-11-21T20:42:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Rivals"
+  ]
 }
