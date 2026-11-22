@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T03:35:15.839Z",
+  "generatedAt": "2026-11-22T04:05:16.784Z",
   "source": "start.gg",
   "completed": [
     {
@@ -144,7 +144,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1684091",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "Taking Back Tampa: The Movie",
+      "event": "Melee Singles",
+      "entrants": 128,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T18:00:00.000Z",
+      "endAt": "2026-11-22T04:00:00.000Z",
+      "url": "https://www.start.gg/tournament/taking-back-tampa-the-movie/event/melee-singles"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1738498",
