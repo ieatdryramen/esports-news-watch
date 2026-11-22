@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-22T06:35:16.637Z",
+  "generatedAt": "2026-11-22T07:05:19.543Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1748200",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "A DIY Friendsgiving",
+      "event": "DIY 3s Singles",
+      "entrants": 38,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-22T00:00:00.000Z",
+      "endAt": "2026-11-22T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/a-diy-friendsgiving/event/diy-3s-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "FrankieBFG"
+        },
+        {
+          "placement": 2,
+          "name": "Therapist"
+        },
+        {
+          "placement": 3,
+          "name": "PKK | Bubbles"
+        },
+        {
+          "placement": 4,
+          "name": "Nero"
+        },
+        {
+          "placement": 5,
+          "name": "Poe22222"
+        },
+        {
+          "placement": 5,
+          "name": "Ahmed3s"
+        },
+        {
+          "placement": 7,
+          "name": "Good Fighters | Stressedin"
+        },
+        {
+          "placement": 7,
+          "name": "CreakyAxe"
+        }
+      ]
+    },
     {
       "eventId": "1684091",
       "scene": "melee",
@@ -191,21 +238,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1748200",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "A DIY Friendsgiving",
-      "event": "DIY 3s Singles",
-      "entrants": 38,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-22T00:00:00.000Z",
-      "endAt": "2026-11-22T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/a-diy-friendsgiving/event/diy-3s-singles"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1738498",
