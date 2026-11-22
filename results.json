@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T04:35:14.165Z",
+  "generatedAt": "2026-11-22T05:05:15.442Z",
   "source": "start.gg",
   "completed": [
     {
@@ -191,7 +191,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1748200",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "A DIY Friendsgiving",
+      "event": "DIY 3s Singles",
+      "entrants": 38,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-22T00:00:00.000Z",
+      "endAt": "2026-11-22T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/a-diy-friendsgiving/event/diy-3s-singles"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1738498",
