@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T12:00:38.562Z",
+  "generatedAt": "2026-11-22T13:00:25.484Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
@@ -16,18 +16,6 @@
           "why": [
             "wins",
             "dreamleague"
-          ]
-        },
-        {
-          "title": "Topson spoke about patch 7.42 for Dota 2, naming the best heroes of the new update",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXItT0kzSFY1RXZyT0dWVjlaVjZ5TUcwa3o4QU1XVHVmWXBmX0Vpdlc4UUp4MENVS3RIdnQ4eEN5Mi1FcnFEbFpxdjUwY2d6T3BoQ2xMVktVSTl6TXZQU3JNNTlqUG9jdWNwZEw2YlpYbWE5djBsTHJDOEU3MWxHU2ZreUh5ejJsaEdN?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-22T07:54:49.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "update",
-            "topson"
           ]
         },
         {
@@ -56,8 +44,31 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 1,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "s1mple and device give Stage 1 some much needed stardust",
+          "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
+          "source": "HLTV news",
+          "published": "2026-11-22T12:31:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "s1mple",
+            "device"
+          ]
+        },
+        {
+          "title": "Meet the PGL Major Singapore 2026 rookies",
+          "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
+          "source": "HLTV news",
+          "published": "2026-11-21T18:35:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
         {
           "title": "Top 5 Players to Watch at PGL Major Singapore 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTnZIQlBoOHV3akJOTTNOV0xqNlNYRmFUZVoxTHFEYzlIX1FwSDE3SE1kb2ZGZmtXLUlXYVNGLTJaQ2d4MUJOQ1EzcG5HZVJRWThBMDNoTFZ0bUdpVVFRcGJtcEVoMHMwV3RJMWlxdFd2SUpadF9JNmJOVUhVZFU?oc=5",
@@ -68,6 +79,35 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "Betclic part ways with ultimate",
+          "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
+          "source": "HLTV news",
+          "published": "2026-11-21T14:06:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "replaced*"
+          ]
+        },
+        {
+          "title": "Attributes Fans Come Here ft. LuzRaposa",
+          "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
+          "source": "HLTV news",
+          "published": "2026-11-21T19:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-21T16:01:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
