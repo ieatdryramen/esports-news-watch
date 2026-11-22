@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T03:50:27.050Z",
+  "generatedAt": "2026-11-22T04:50:19.656Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "DreamLeague Division 2 Series 5 Concludes: Ukrainian Roster Wins Silver and Secures a Spot at DreamLeague Season 30",
@@ -15,6 +15,18 @@
           "level": "breaking",
           "why": [
             "roster",
+            "wins",
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUjRsU25GZkxQOHg5czlZQ1c0dUk0YXJoNFkwVk1mMWpWSENrZGpKQmN6ZkVwMVFRUlV3d2wzWURXQWt0TEx2MVNyRFRfZGVqcWl5bGROOEYzVVA2LTFjX2JZQnM1a2I0ODV0ZXB3VUl4bC1JSmVPeWVPTHJMQ0N6MXRMMTlwcWRBZmhLYURCODk4UTdHTlNfQjFjMk9reEJRTWY1dHpwNzk1VklaUUo4X3RCTkhPNU5GY21IZVdndEczVndFOVpMa0dWUDVvNzFsNEtBQjRIdTQ5d2Z6enF3N1h5NGl2bzJNeHJVLWdyc3ZqY1k4cHZNUHZDSDNQeHF3UFU3WlQwYUx3TGppMlQ2OTBZb0F5WGdLWmwyWTZVLUU0c0RmM0I2UzkzeHlfRVXSAa8CQVVfeXFMT1I0bFNuRmZMUDh4OXM5WUNXNHVJNGFyaDRZMFZNZjFqVkhDa2RqSkJjemZFcDFRUVJVd3dsM1lEV0FrdExMdjFTckRUX2RlanFpeWxkTjhGM1VQNi0xY19iWUJzNWtiNDg1dGVwd1VJeGwtSUplT3llT0xyTENDejF0TDE5cHFkQWZoS2FEQjg5OFE3R05TX0IxYzJPa3hCUU1mNXR6cDc5NVZJWlFKOF90Qk5ITzVORmNtSGVXZ3RHM1Z3RTlaTGtHVlA1bzcxbDRLQUI0SHU0OXdmenpxdzdYeTRpdm8yTXhyVS1ncnN2amNZOHB2TVB2Q0gzUHhxd1BVN1pUMGFMd0xqaTJUNjkwWW9BeVhnS1psMlk2VS1FNHNEZjNCNlM5M3h5X0VV?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-22T03:31:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
             "wins",
             "dreamleague"
           ]
@@ -34,7 +46,7 @@
           "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
           "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-22T01:41:15.000Z",
+          "published": "2026-11-22T01:42:04.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -77,7 +89,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 2,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Esports Awards 2026: CS2, Vitality and ZywOo dominate the Miami gala",
@@ -92,6 +104,17 @@
           ]
         },
         {
+          "title": "Meet the PGL Major Singapore 2026 rookies",
+          "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
+          "source": "HLTV news",
+          "published": "2026-11-21T18:35:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "Top 5 Players to Watch at PGL Major Singapore 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTnZIQlBoOHV3akJOTTNOV0xqNlNYRmFUZVoxTHFEYzlIX1FwSDE3SE1kb2ZGZmtXLUlXYVNGLTJaQ2d4MUJOQ1EzcG5HZVJRWThBMDNoTFZ0bUdpVVFRcGJtcEVoMHMwV3RJMWlxdFd2SUpadF9JNmJOVUhVZFU?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -101,6 +124,46 @@
           "why": [
             "pgl"
           ]
+        },
+        {
+          "title": "Visualized: Every team at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-21T11:30:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Betclic part ways with ultimate",
+          "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
+          "source": "HLTV news",
+          "published": "2026-11-21T14:06:00.000Z",
+          "score": 2.5,
+          "level": null,
+          "why": [
+            "replaced*"
+          ]
+        },
+        {
+          "title": "Attributes Fans Come Here ft. LuzRaposa",
+          "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
+          "source": "HLTV news",
+          "published": "2026-11-21T19:30:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-21T16:01:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
