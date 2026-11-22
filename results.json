@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:35:17.167Z",
+  "generatedAt": "2026-11-22T19:05:27.610Z",
   "source": "start.gg",
   "completed": [
     {
@@ -301,6 +301,19 @@
       "url": "https://www.start.gg/tournament/left-coast-battleground-8/event/3s-double-elimination"
     },
     {
+      "eventId": "1705746",
+      "scene": "legacyfgc",
+      "game": "The King of Fighters XV",
+      "tournament": "SNK World Championship 2026",
+      "event": "[LCQ] The King of Fighters XV",
+      "entrants": 94,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-27T11:30:00.000Z",
+      "endAt": "2026-11-29T19:00:00.000Z",
+      "url": "https://www.start.gg/tournament/snk-world-championship-2026-2/event/lcq-the-king-of-fighters-xv"
+    },
+    {
       "eventId": "1670560",
       "scene": "melee",
       "game": "Super Smash Bros. Melee",
@@ -319,7 +332,7 @@
       "game": "Street Fighter 6",
       "tournament": "World Warrior 2026 - Japan 5",
       "event": "Street Fighter 6",
-      "entrants": 1199,
+      "entrants": 1200,
       "online": true,
       "major": true,
       "startAt": "2026-11-28T15:00:00.000Z",
