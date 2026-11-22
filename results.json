@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T21:35:21.009Z",
+  "generatedAt": "2026-11-22T22:05:17.187Z",
   "source": "start.gg",
   "completed": [
     {
@@ -287,19 +287,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1748624",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "VIPERS: Venom Clash #2",
-      "event": "VIPERS: Venom Clash 2",
-      "entrants": 74,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-22T22:00:00.000Z",
-      "endAt": "2026-11-23T02:59:00.000Z",
-      "url": "https://www.start.gg/tournament/vipers-venom-clash-2/event/vipers-venom-clash-2"
-    },
     {
       "eventId": "1751130",
       "scene": "streetfighter",
