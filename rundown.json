@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:00:25.583Z",
+  "generatedAt": "2026-11-22T19:00:32.393Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "s1mple and device give Stage 1 some much needed stardust",
@@ -68,17 +68,6 @@
           "why": [
             "s1mple",
             "device"
-          ]
-        },
-        {
-          "title": "Meet the PGL Major Singapore 2026 rookies",
-          "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
-          "source": "HLTV news",
-          "published": "2026-11-21T18:35:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -111,30 +100,6 @@
       ]
     },
     {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Creator Ranks Every Tekken Game on Tier List",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85emxsLVRXRnBJOVBFLTcxQzc4M3IyR2Uwa0t6SklsUnNldndGQzBVWG9rU0Q5NnowS1hTME12ZWV1S1U0ZUdNNzg0blJRMkprME10Tl9CaGhZQ2dJQ3VBUjZRWDVRVUpMNmlaV1FvLVM4UTVvU2k0Sg?oc=5",
-          "source": "Google News: Tekken (Wisevoter)",
-          "published": "2026-11-21T19:14:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "TheMainManSWE determines the highlights and low points of the Tekken series with his game tier list",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0g0ZGh3azZ6dWxOb18zZ1l3bWM0S21nRE9JeXdZQlJldmI3SHpaejJKTHFNRzVqRG9hUkJQZG1sb3BnMUtXSF81RDJYWFd0R1lpN3FXQjFHeGdBSjRGdUFSa1N0VVR2R0lVYU04N0dsZEI3dTV2WE9JTmtSTzE0MklTRjdTVzg?oc=5",
-          "source": "Google News: Tekken (EventHubs)",
-          "published": "2026-11-21T18:16:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -143,6 +108,21 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFBoVVczNDlyXzJza28waE8xdjkzNlJVWFlQMmpTNldCRFM1ZkVFOUpyc1UwSVI2aUczNURoTVk4aUM3cW1kYkRqVGtxSV91RVpfLTRwOEtGUnktazBUNTVUUGJ5ZUljMVZHamxGcFFFRkNSSGhzUFNCQnRfUG9aVmNoVFVhbXZMUGx2NXBqV2dTcnc5ZjNBWDVDeS0?oc=5",
           "source": "Google News: Melee (www.explosion.com)",
           "published": "2026-11-22T02:13:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Creator Ranks Every Tekken Game on Tier List",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85emxsLVRXRnBJOVBFLTcxQzc4M3IyR2Uwa0t6SklsUnNldndGQzBVWG9rU0Q5NnowS1hTME12ZWV1S1U0ZUdNNzg0blJRMkprME10Tl9CaGhZQ2dJQ3VBUjZRWDVRVUpMNmlaV1FvLVM4UTVvU2k0Sg?oc=5",
+          "source": "Google News: Tekken (Wisevoter)",
+          "published": "2026-11-21T19:14:07.000Z",
           "score": 1,
           "level": null,
           "why": []
