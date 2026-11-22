@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-11-22T01:55:19.618Z",
+  "generatedAt": "2026-11-22T02:50:41.998Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Rivals",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Marvel Rivals: Season 11 Trailer",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SNk1wUy05TFV3LVFYRm8xSHdiZ0VNeTVGdUJQbVp0MXRGSzBRcXBGV0d3Nl95ZWpwbUNtTmxVNGgyRXVUaVBEMkwxMWNFM0VwRlE?oc=5",
-          "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-21T18:50:54.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Ranks in Order: Season 11 Reset, Nov. 13",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWNPbGhibU04Z3pObENubGdkYzZQbE5vOTRiTVA3WWRnQ2o2V2pIbjdsRjFwU195VXhOWm1IcXN5dmppdThhRTN3WHBPNVhHcU1zaDBuS1hVNDQ0QXlyeDhXVGNRMldqOFp1WHIwLTkzblVqaGluTXNmWjV5T2wwcXZUQUlheS10amxvMERR?oc=5",
-          "source": "Google News: Rivals esports (shattered.io)",
-          "published": "2026-11-21T13:14:22.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Ignite 2027 Partner Program Applications Are Now Open",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzBzVTgwSHRFUDJfM2F5YjhhajVSOG5zLUZUVFNIWDNqWnlRVE82dTRvOUp2T0dVYkRUREdwU0NmdnM2ZHU2cEpidTZkT1pFZ25lMDU1dDFVY2NsdkVsekk5SWVPV2dFa3ZFbTNScklzUDZ3alNGSDF4dnA4SVpwV01oVUxlcWJyOUhyZ3hTOGROc29J?oc=5",
-          "source": "Google News: Rivals esports (Happy Gamer)",
-          "published": "2026-11-21T20:42:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Rivals"
+  ]
 }
