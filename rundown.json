@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:00:32.393Z",
+  "generatedAt": "2026-11-22T20:00:31.524Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -71,10 +71,10 @@
           ]
         },
         {
-          "title": "Attributes Fans Come Here ft. LuzRaposa",
-          "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
           "source": "HLTV news",
-          "published": "2026-11-21T19:30:00.000Z",
+          "published": "2026-11-22T19:09:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -89,7 +89,7 @@
           "title": "Battle Coliseum 2026 live stream ft. SonicFox, Leffen, Hikari, BrayanJob, NotPedro, Inzem, Supernoon, DidimoKOF, JF, Xerom, Lauyagami, Resil and more",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaUtCcmpMamhsY2hUbllUcU1SX2drQVYxbm52ZDRNZ1JldWp6Q2drNmE4a3UtZHRKOWRIZFB1U3I4dEp1YWhzd29pc3QybkdDU3ozRTdKTEphRFJ3T2hvRm5OdmpuU0pSN3VjeHk5ek5nYVg3ZnJkUlFXQ2E?oc=5",
           "source": "Google News: Legacy FGC (EventHubs)",
-          "published": "2026-11-22T16:31:34.000Z",
+          "published": "2026-11-22T16:31:24.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -113,21 +113,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Creator Ranks Every Tekken Game on Tier List",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85emxsLVRXRnBJOVBFLTcxQzc4M3IyR2Uwa0t6SklsUnNldndGQzBVWG9rU0Q5NnowS1hTME12ZWV1S1U0ZUdNNzg0blJRMkprME10Tl9CaGhZQ2dJQ3VBUjZRWDVRVUpMNmlaV1FvLVM4UTVvU2k0Sg?oc=5",
-          "source": "Google News: Tekken (Wisevoter)",
-          "published": "2026-11-21T19:14:07.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -137,6 +122,7 @@
     "Trackmania",
     "Warcraft III",
     "Street Fighter",
+    "Tekken",
     "CoD",
     "Quake",
     "Halo"
