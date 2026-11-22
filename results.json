@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-22T01:05:17.982Z",
+  "generatedAt": "2026-11-22T01:35:20.237Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1746822",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Keep Holding Forward: 11/21/26",
+      "event": "Street Fighter III: Third Strike",
+      "entrants": 17,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T17:30:00.000Z",
+      "endAt": "2026-11-22T01:30:00.000Z",
+      "url": "https://www.start.gg/tournament/keep-holding-forward-11-21-26/event/street-fighter-iii-third-strike",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Team Nowhere | Stuffy"
+        },
+        {
+          "placement": 2,
+          "name": "SmolSquish"
+        },
+        {
+          "placement": 3,
+          "name": "NHFGC | WashedUpStreamer"
+        },
+        {
+          "placement": 4,
+          "name": "7"
+        },
+        {
+          "placement": 5,
+          "name": "CGE | SonicBlade"
+        },
+        {
+          "placement": 5,
+          "name": "MPA | Jokerbomb"
+        },
+        {
+          "placement": 7,
+          "name": "patchouli"
+        },
+        {
+          "placement": 7,
+          "name": "the smitch"
+        }
+      ]
+    },
     {
       "eventId": "1754231",
       "scene": "legacyfgc",
