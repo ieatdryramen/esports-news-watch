@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-23T12:00:29.147Z",
+  "generatedAt": "2026-11-23T13:00:27.583Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
       "storyCount": 6,
       "stories": [
-        {
-          "title": "s1mple and device give Stage 1 some much needed stardust",
-          "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
-          "source": "HLTV news",
-          "published": "2026-11-22T12:31:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "s1mple",
-            "device"
-          ]
-        },
         {
           "title": "CS2 PGL Major Singapore 2026 - All participating teams, format, prize pool, and more",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUtjTVBLdVhEYklVVjA4eUVaWEpGSW9HYWZGTmFndGhwNk9Gc2hadU5nX2steE04MzQ5MzZOUTlENHhnYXdaNFFVaVNJdkZHWU1PRTVFQzJQeTlJY2FESlNoSWlBa21kT3R2OWFKZlRXV3BoMko1d3BqRklYNmZSd3c3MGx6T2hJQjI2T1B5TVQyUzNveEJBOWhYVHBpUkFjY3lMcjB1QmJsaXM3YTFEUGFSdWJ6ZS10akdTR0p4bl9zenEyS0JENFhiRQ?oc=5",
@@ -27,6 +15,17 @@
           "level": null,
           "why": [
             "prize pool",
+            "pgl"
+          ]
+        },
+        {
+          "title": "Esports Luxury: How to take a trip to the Singapore PGL Major to the next level",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZQMkRuYW82UEhtNUJ6ajVnMndpMjdWWWltZk5YTk1FRVFBM1o0YjBUTGY0RDY3MmZnYkNBS085Mm1IUFMyMGRiOVlseExZT2NwUmtnNlJSY01kV3ByU3pPVkVtN2JCN2hBSFF5ZUM0RG4yLVRfbm84Zy13cURXcll0c1V4TXpKRDFZSlBPT28zS3NRU1hGMEwwNzRHTXRXSXh5cW9XWFZqaXlRYXRXSmozZHppalpkNDhmN3hya0w?oc=5",
+          "source": "Google News: CS2 (Luxury Lifestyle Magazine)",
+          "published": "2026-11-23T12:32:17.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "pgl"
           ]
         },
@@ -56,7 +55,7 @@
           "title": "Short news: Week 46",
           "url": "https://www.hltv.org/news/46029/short-news-week-46",
           "source": "HLTV news",
-          "published": "2026-11-23T11:04:00.000Z",
+          "published": "2026-11-23T12:44:00.000Z",
           "score": 1,
           "level": null,
           "why": []
