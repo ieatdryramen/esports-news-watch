@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T22:00:25.980Z",
+  "generatedAt": "2026-11-23T23:00:33.675Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 9,
       "stories": [
         {
           "title": "SkewMond Leaves G2 Esports To Join Karmine Corp For The 2027 Season",
@@ -19,35 +19,10 @@
           ]
         },
         {
-          "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
-          "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
-          "source": "HLTV news",
-          "published": "2026-11-23T12:58:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
-            "g2*",
-            "furia*"
-          ]
-        },
-        {
-          "title": "SunPayus opens up about early struggles in CS2, what didn't work in G2, and signing with FUT",
-          "url": "https://www.hltv.org/news/46025/sunpayus-opens-up-about-early-struggles-in-cs2-what-didnt-work-in-g2-and-signing-with-fut",
-          "source": "HLTV news",
-          "published": "2026-11-23T16:02:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "bench*",
-            "g2"
-          ]
-        },
-        {
           "title": "CS2 PGL Major Singapore 2026 - All participating teams, format, prize pool, and more",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUtjTVBLdVhEYklVVjA4eUVaWEpGSW9HYWZGTmFndGhwNk9Gc2hadU5nX2steE04MzQ5MzZOUTlENHhnYXdaNFFVaVNJdkZHWU1PRTVFQzJQeTlJY2FESlNoSWlBa21kT3R2OWFKZlRXV3BoMko1d3BqRklYNmZSd3c3MGx6T2hJQjI2T1B5TVQyUzNveEJBOWhYVHBpUkFjY3lMcjB1QmJsaXM3YTFEUGFSdWJ6ZS10akdTR0p4bl9zenEyS0JENFhiRQ?oc=5",
           "source": "Google News: CS2 (GosuGamers)",
-          "published": "2026-11-23T10:29:55.000Z",
+          "published": "2026-11-23T10:42:23.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -109,22 +84,30 @@
           "why": []
         },
         {
-          "title": "ztr's FOKUS loan ends",
-          "url": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
-          "source": "HLTV news",
-          "published": "2026-11-23T14:17:00.000Z",
+          "title": "ESL Pro League Season 24 - EPL CS2 - Schedule and Results",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cXpzUXZVTUhUY0FmSWlBUFRpUTRWUlVEcHVVdGltSkpfUWdnZU4tVGZQNGlGRkphRnVXYVJtMnRxZEQ2SW9GNjVGM1A4WjVRYkxleWxhbVNFSVVSX0ViUmJEY2lrYnVhRVJYQi1zUDdRSnZxTU9Hakw2Zw?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-23T05:46:32.000Z",
           "score": 1,
           "level": null,
-          "why": []
+          "why": [
+            "esl pro league",
+            "-schedule"
+          ]
         },
         {
-          "title": "Short news: Week 46",
-          "url": "https://www.hltv.org/news/46029/short-news-week-46",
-          "source": "HLTV news",
-          "published": "2026-11-23T12:44:00.000Z",
-          "score": 1,
+          "title": "PGL Major Singapore 2026 Tournament Betting Preview & Guide – MOUZ Can Deliver in Singapore",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmxLbVI3NzR6Q2hsUUtpMjlnbzFBM2xCUEp0M2FCMzJvMzRQVHd2SEozUnM4RnhSdDQyVWNxdWtHMlZHWXc4OWN2SVFmWWNwSWdLSWljVEQ1VXZlSTdiZzB3dXZNdGRSYXlfYi1Ud1ZYMlFJNkljYUV2SmFTSm5Wd2pvZ0hRZWl1UG85b0xFVHJEZEx0Vkp1WGhWellpTHFG?oc=5",
+          "source": "Google News: CS2 (Freetips.com)",
+          "published": "2026-11-23T20:03:53.000Z",
+          "score": 0,
           "level": null,
-          "why": []
+          "why": [
+            "mouz",
+            "pgl",
+            "-guide",
+            "-betting"
+          ]
         }
       ]
     },
