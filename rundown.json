@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T01:00:24.053Z",
+  "generatedAt": "2026-11-23T02:00:35.887Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -119,24 +119,6 @@
       ]
     },
     {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Battle Coliseum 2026 live stream ft. SonicFox, Leffen, Hikari, BrayanJob, NotPedro, Inzem, Supernoon, DidimoKOF, JF, Xerom, Lauyagami, Resil and more",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaUtCcmpMamhsY2hUbllUcU1SX2drQVYxbm52ZDRNZ1JldWp6Q2drNmE4a3UtZHRKOWRIZFB1U3I4dEp1YWhzd29pc3QybkdDU3ozRTdKTEphRFJ3T2hvRm5OdmpuU0pSN3VjeHk5ek5nYVg3ZnJkUlFXQ2E?oc=5",
-          "source": "Google News: Legacy FGC (EventHubs)",
-          "published": "2026-11-22T16:31:42.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "sonicfox",
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -159,6 +141,7 @@
     "Trackmania",
     "Warcraft III",
     "Tekken",
+    "Legacy FGC",
     "CoD",
     "Quake",
     "Halo"
