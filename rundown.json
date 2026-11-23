@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-23T21:55:16.368Z",
+  "generatedAt": "2026-11-23T22:00:25.980Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 11,
       "stories": [
+        {
+          "title": "SkewMond Leaves G2 Esports To Join Karmine Corp For The 2027 Season",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2V09MTWpHR1AwYkRLMUN0LVhUMU9SdlBOVUtVbzVFY3lOTmVJTWVEZGVVcXRKQUpla0lwbXRJWkx0amFjS0R6R05kOExUbEJZUUptN0ZfNzJJSTBmVko5ZmR0ekduMkpxVU5uU0xrUVQzSGp1TVQ2bE03OHp5NTQ?oc=5",
+          "source": "Google News: CS2 (Hotspawn)",
+          "published": "2026-11-23T19:52:30.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "leaves",
+            "g2"
+          ]
+        },
         {
           "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
           "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
@@ -29,6 +41,29 @@
           "why": [
             "bench*",
             "g2"
+          ]
+        },
+        {
+          "title": "CS2 PGL Major Singapore 2026 - All participating teams, format, prize pool, and more",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUtjTVBLdVhEYklVVjA4eUVaWEpGSW9HYWZGTmFndGhwNk9Gc2hadU5nX2steE04MzQ5MzZOUTlENHhnYXdaNFFVaVNJdkZHWU1PRTVFQzJQeTlJY2FESlNoSWlBa21kT3R2OWFKZlRXV3BoMko1d3BqRklYNmZSd3c3MGx6T2hJQjI2T1B5TVQyUzNveEJBOWhYVHBpUkFjY3lMcjB1QmJsaXM3YTFEUGFSdWJ6ZS10akdTR0p4bl9zenEyS0JENFhiRQ?oc=5",
+          "source": "Google News: CS2 (GosuGamers)",
+          "published": "2026-11-23T10:29:55.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "prize pool",
+            "pgl"
+          ]
+        },
+        {
+          "title": "NAVI Top ESL Annual Club Incentive Earnings: $2.7m Distributed in Total",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwMnVhQjJ1WGE5b2RqazUwYUoxQVdTVl9yS1NETGlNVXo0dWY4REN1eG1yWmNjeVRWdkpCTU9VNkV0MktuSHpEbDJrdld2ZjIyc0FzU2pBS1VyaXBkd1lpWUlUS3d3WVh6X2s1OEdxR1BzanpsN29pN3l4VQ?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-23T14:58:35.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "navi"
           ]
         },
         {
