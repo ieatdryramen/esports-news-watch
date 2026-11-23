@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-23T13:00:27.583Z",
+  "generatedAt": "2026-11-23T14:00:26.783Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
+        {
+          "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
+          "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
+          "source": "HLTV news",
+          "published": "2026-11-23T12:58:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
+            "g2*",
+            "furia*"
+          ]
+        },
         {
           "title": "CS2 PGL Major Singapore 2026 - All participating teams, format, prize pool, and more",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUtjTVBLdVhEYklVVjA4eUVaWEpGSW9HYWZGTmFndGhwNk9Gc2hadU5nX2steE04MzQ5MzZOUTlENHhnYXdaNFFVaVNJdkZHWU1PRTVFQzJQeTlJY2FESlNoSWlBa21kT3R2OWFKZlRXV3BoMko1d3BqRklYNmZSd3c3MGx6T2hJQjI2T1B5TVQyUzNveEJBOWhYVHBpUkFjY3lMcjB1QmJsaXM3YTFEUGFSdWJ6ZS10akdTR0p4bl9zenEyS0JENFhiRQ?oc=5",
@@ -73,17 +86,28 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Katsuhiro Harada Shares the Pokémon He Hoped to See in Pokkén Tournament",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDdwSmlwT0NIai16V2JINTl3MlhzQllONlpLV0FBeGZNX3F0Z1hxcS1JckotYnZER1BjWmNzNDdsTmREQUg5V1NUT3g4MS1TZkRFcm9PeS1pMG8tYkUzRWF3Z1gtY3JRRUdVbHpNalFleWZvLTZ2QlVEUm9xS2RWbXdQMXJYOWI2V0FoSFFpbGFweEdUaml3ZHZyeE9QT0h6RDd1S21UVmxjQQ?oc=5",
           "source": "Google News: Tekken (COGconnected)",
-          "published": "2026-11-23T07:56:49.000Z",
+          "published": "2026-11-23T08:38:39.000Z",
           "score": 3,
           "level": null,
           "why": [
             "harada"
+          ]
+        },
+        {
+          "title": "NODWIN Gaming Arena at Hyderabad Comic Con brings BGMI, Tekken 8 and ₹30 lakh prize pool",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzBoSWRzMDh6Q081Rl9sNUZ3TEhfUFFYVHc3TWdQWjBtNUJLMEY2Q0szTVJ3bzd6Q3dlTklTejhXdUZDb0ZVSE1CaUM2dWcwLUFxam9OQ3F1ajFiTWRwRjlSR2dpVjMzTW9WNlNpeDVKUm52eUc5REUyblp4X2JYTUJKVUM3M2dQNTNtX0taYUNPLTlJdE96RHZOWXhRSHJ6MUpENlVCb1EySVRHdDFsS3RB0gG3AUFVX3lxTFAyS3FSSGEwUVh1LS1mNUx1Mkl4eEhBeGRsUGpJNVRUcTlTQmlDNWlYdXVuRlF3d3pYMHRtaHFibEJmZ29NaGQ2eThwS0gxbDRGOFliNE5nTzQ3SzhjQUVIaVZwaW1uLXoydUE1bmJ2OWJleWkzT1VYUmJvUFNYU2QxUW1yQmxpT1c3TENCSElwOUxHV2RtLTRfTnlNN2VCRmY5WGtGeTBGb05PdnQ4NDNzQ2Y4VDZOTQ?oc=5",
+          "source": "Google News: Tekken (News9live)",
+          "published": "2026-11-23T13:01:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "prize pool"
           ]
         },
         {
