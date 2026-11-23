@@ -1,78 +1,7 @@
 {
-  "generatedAt": "2026-11-23T06:00:25.212Z",
+  "generatedAt": "2026-11-23T07:00:33.092Z",
   "windowHours": 24,
   "scenes": [
-    {
-      "scene": "CS2",
-      "storyCount": 6,
-      "stories": [
-        {
-          "title": "Ukraine’s NAVI Makes History With First Brawl Stars World Title, Wins $450,000",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi1JSkl2aUNLNTFnRmo2d0Y5S2dGT2NxZnVnMUVZSXQzMkxqSi1nNDllblFSYk1nTkd6OVViMzJ5ZTFUMUp6MnNQN1h4RlliOXJObW4wUzRmZG1ZRzhZWHcxbXczc3VFaUxyU2k2amNVLTJHYjRCQ1ExbGZiVXcwSVFab2hMT05mZ3dUd3pkWVdicjBfQ3hpa3M2V25Qd2xlTERfaHNhOHVoeHZWanE3Nkd1NnE?oc=5",
-          "source": "Google News: CS2 (UNITED24 Media)",
-          "published": "2026-11-22T15:54:53.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "wins",
-            "history",
-            "navi"
-          ]
-        },
-        {
-          "title": "s1mple and device give Stage 1 some much needed stardust",
-          "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
-          "source": "HLTV news",
-          "published": "2026-11-22T12:31:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "s1mple",
-            "device"
-          ]
-        },
-        {
-          "title": "Team Vitality Closes CS2 Academy After Seven Months as Tier 2 Money Shrinks",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5maEc3a2hDUGVBUXY0ZUFJQVg1d2ZuTUc2RDlFbS1JZE9wckVNWHhGa2VMcE5lZzZZckFTRFZGbzQ3NTdteXdFZjlqQXcxYktMWENQNG1Wa1JpM1BJd1JjbTlGTHR3ZjR6REg0UFF4VlE0TVU?oc=5",
-          "source": "Google News: CS2 (The Esports Advocate)",
-          "published": "2026-11-22T20:01:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vitality"
-          ]
-        },
-        {
-          "title": "No longer a stepping stone for players, DENDELE are on an upward path",
-          "url": "https://www.hltv.org/news/46021/no-longer-a-stepping-stone-for-players-dendele-are-on-an-upward-path",
-          "source": "HLTV news",
-          "published": "2026-11-22T20:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        },
-        {
-          "title": "SINNERS beat Envy to win Tipsport RUSH Brno",
-          "url": "https://www.hltv.org/news/46027/sinners-beat-envy-to-win-tipsport-rush-brno",
-          "source": "HLTV news",
-          "published": "2026-11-22T20:10:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 45",
-          "url": "https://www.hltv.org/news/45999/short-news-week-45",
-          "source": "HLTV news",
-          "published": "2026-11-22T19:09:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
     {
       "scene": "Dota",
       "storyCount": 2,
@@ -106,18 +35,35 @@
       ]
     },
     {
+      "scene": "CS2",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Team Vitality Closes CS2 Academy After Seven Months as Tier 2 Money Shrinks",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5maEc3a2hDUGVBUXY0ZUFJQVg1d2ZuTUc2RDlFbS1JZE9wckVNWHhGa2VMcE5lZzZZckFTRFZGbzQ3NTdteXdFZjlqQXcxYktMWENQNG1Wa1JpM1BJd1JjbTlGTHR3ZjR6REg0UFF4VlE0TVU?oc=5",
+          "source": "Google News: CS2 (The Esports Advocate)",
+          "published": "2026-11-22T20:01:57.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "vitality"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Street Fighter 6 will return to Esports World Cup 2027",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc0tQVXppYnlmX3QxN2ZIVGxLd1l0QXlSSmtQTFRpUE0xbU5TRkRYSnJWYXdOb2F5NFlwcDhNZnZDcW4yNTdoQkdCendydEFDT1RULVBIR2RubGdJQUFFR0g0VUtIN0hON0k5N2xQVk1FbnpsNzFRN0FuejBGU2s1TVU1OA?oc=5",
-          "source": "Google News: Street Fighter (GamesBeat)",
-          "published": "2026-11-22T20:59:20.000Z",
-          "score": 2,
+          "title": "Street Fighter 6 returns to the Esports World Cup 2027",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91UFJwZjl4a2E2WC13OHdPUVJ3cHRWa2hQWUZzblY4eUt3TWxvbDNUUkdaNk92dmVQNm5QUVBxN296T3A1WEhzWjJHdmVVeWlrLWNSTTJ5ZHhqRlhkUXZoSmhhWFNsWFhLc1JR?oc=5",
+          "source": "Google News: Street Fighter (Tbreak UAE)",
+          "published": "2026-11-23T06:12:00.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "return"
+            "returns"
           ]
         }
       ]
