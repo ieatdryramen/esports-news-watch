@@ -1,8 +1,22 @@
 {
-  "generatedAt": "2026-11-23T20:00:31.135Z",
+  "generatedAt": "2026-11-23T20:55:40.034Z",
   "windowHours": 24,
-  "scenes": [],
-  "quiet": [
-    "Marvel Tokon"
-  ]
+  "scenes": [
+    {
+      "scene": "Marvel Tokon",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Every Marvel Fighting Game In Order, From X-Men: Children Of The Atom To Marvel Tōkon",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdFY1Rksyc2tGV1hjN2pKQndXdkVncW1Vb2xIR1lSblktNDhBbGVURDJhZ3lybmFUeUdfSFR1ZGVOLWxIUmx2SjJjeE80ZXY0NG53TDBYQktlM3JTYi1KNGtZekxUc2dDaDNjVV9jSEI4cTNudzgxa19acVQ3MTRuZ2RmWWhJZThRRXJxSnRoWUt2UWltb2tKcjZNM2ZHQldMR3ZRMEJNOVlJTmR5Z2I1R3MwN2RVS3dwRmRLdmZDWGluV2E3V1BaWWZZczlKSTRkcVhJTURfUElNQQ?oc=5",
+          "source": "Google News: Tokon (GameFragger.com)",
+          "published": "2026-11-23T20:11:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    }
+  ],
+  "quiet": []
 }
