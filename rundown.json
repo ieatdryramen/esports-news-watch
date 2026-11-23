@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T14:00:26.783Z",
+  "generatedAt": "2026-11-23T15:00:29.553Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 10,
       "stories": [
         {
           "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
@@ -28,6 +28,17 @@
           "level": null,
           "why": [
             "prize pool",
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026: Favorites and teams to watch",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RRlYxZWNnS0RXUDh0ZV85bVhpNDA3RTQ1VW1IdF83NzdBWXRodTVNaktyUWZZS0gyWFBodlF0Yy1FSzNxOWU4enFkQnNBY01aOVhxS3RNZUdnNWxxYkxSVFFaTlpFRFF3QkV4NngtRQ?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-23T14:07:01.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "pgl"
           ]
         },
@@ -63,6 +74,24 @@
           "why": [
             "roster*"
           ]
+        },
+        {
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://esports.gg/news/counter-strike-2/cs2-pgl-singapore-major-2026-stage-1-overview-results/",
+          "source": "esports.gg",
+          "published": "2026-11-23T14:34:42.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "ztr's FOKUS loan ends",
+          "url": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
+          "source": "HLTV news",
+          "published": "2026-11-23T14:17:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Short news: Week 46",
@@ -139,6 +168,21 @@
       ]
     },
     {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "World's best Yoshi competitor releases new tier list for Super Smash Bros. Melee in 2026",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMXJSR0JSSEtielR3dzFHZjloWWt5TXBYb3hwaVR4RUlqUjg4N0ZpOWVxTUNkWGNUSmk1V0JlMDJ0aVV6ZTBrSC1xR20tQkxDWFp1aTZpWmNoSXJDeUtPMkp5SG1OeFNrQWMycGx3ZjctZTNJRjVaVnYyaUM?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-23T14:17:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Dota",
       "storyCount": 1,
       "stories": [
@@ -160,7 +204,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
