@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T10:00:26.042Z",
+  "generatedAt": "2026-11-23T11:00:31.072Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "s1mple and device give Stage 1 some much needed stardust",
@@ -16,6 +16,18 @@
           "why": [
             "s1mple",
             "device"
+          ]
+        },
+        {
+          "title": "CS2 PGL Major Singapore 2026 - All participating teams, format, prize pool, and more",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUtjTVBLdVhEYklVVjA4eUVaWEpGSW9HYWZGTmFndGhwNk9Gc2hadU5nX2steE04MzQ5MzZOUTlENHhnYXdaNFFVaVNJdkZHWU1PRTVFQzJQeTlJY2FESlNoSWlBa21kT3R2OWFKZlRXV3BoMko1d3BqRklYNmZSd3c3MGx6T2hJQjI2T1B5TVQyUzNveEJBOWhYVHBpUkFjY3lMcjB1QmJsaXM3YTFEUGFSdWJ6ZS10akdTR0p4bl9zenEyS0JENFhiRQ?oc=5",
+          "source": "Google News: CS2 (GosuGamers)",
+          "published": "2026-11-23T10:29:55.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "prize pool",
+            "pgl"
           ]
         },
         {
@@ -61,6 +73,32 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Katsuhiro Harada Shares the Pokémon He Hoped to See in Pokkén Tournament",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDdwSmlwT0NIai16V2JINTl3MlhzQllONlpLV0FBeGZNX3F0Z1hxcS1JckotYnZER1BjWmNzNDdsTmREQUg5V1NUT3g4MS1TZkRFcm9PeS1pMG8tYkUzRWF3Z1gtY3JRRUdVbHpNalFleWZvLTZ2QlVEUm9xS2RWbXdQMXJYOWI2V0FoSFFpbGFweEdUaml3ZHZyeE9QT0h6RDd1S21UVmxjQQ?oc=5",
+          "source": "Google News: Tekken (COGconnected)",
+          "published": "2026-11-23T07:56:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "harada"
+          ]
+        },
+        {
+          "title": "NODWIN Gaming Arena to Feature BGMI, Tekken 8 and Chess",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SdIBmwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SQ?oc=5",
+          "source": "Google News: Tekken (SMEStreet)",
+          "published": "2026-11-23T10:40:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -73,23 +111,6 @@
           "level": null,
           "why": [
             "returns"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Katsuhiro Harada Shares the Pokémon He Hoped to See in Pokkén Tournament",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDdwSmlwT0NIai16V2JINTl3MlhzQllONlpLV0FBeGZNX3F0Z1hxcS1JckotYnZER1BjWmNzNDdsTmREQUg5V1NUT3g4MS1TZkRFcm9PeS1pMG8tYkUzRWF3Z1gtY3JRRUdVbHpNalFleWZvLTZ2QlVEUm9xS2RWbXdQMXJYOWI2V0FoSFFpbGFweEdUaml3ZHZyeE9QT0h6RDd1S21UVmxjQQ?oc=5",
-          "source": "Google News: Tekken (COGconnected)",
-          "published": "2026-11-23T07:56:49.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "harada"
           ]
         }
       ]
