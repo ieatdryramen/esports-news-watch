@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:35:18.127Z",
+  "generatedAt": "2026-11-23T12:05:20.410Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,147 +93,6 @@
         {
           "placement": 7,
           "name": "BandidoBr"
-        }
-      ]
-    },
-    {
-      "eventId": "1635588",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "Battle Coliseum 2026",
-      "event": "Street Fighter 6 - PC",
-      "entrants": 134,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-20T12:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/street-fighter-6-pc",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "2G | Brayan_Job"
-        },
-        {
-          "placement": 2,
-          "name": "SS 熊本 | | NotPedro"
-        },
-        {
-          "placement": 3,
-          "name": "Ferps"
-        },
-        {
-          "placement": 4,
-          "name": "Zangief_bolado"
-        },
-        {
-          "placement": 5,
-          "name": "Maroto"
-        },
-        {
-          "placement": 5,
-          "name": "4D | vicg"
-        },
-        {
-          "placement": 7,
-          "name": "Chaolin"
-        },
-        {
-          "placement": 7,
-          "name": "SilvaGames REV | DARK817"
-        }
-      ]
-    },
-    {
-      "eventId": "1645172",
-      "scene": "legacyfgc",
-      "game": "The King of Fighters XV",
-      "tournament": "Battle Coliseum 2026",
-      "event": "The King of Fighters XV - PC",
-      "entrants": 36,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-20T13:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/the-king-of-fighters-xv-pc",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Komitê | Lauyagami"
-        },
-        {
-          "placement": 2,
-          "name": "SilvaGames | KBECINHA"
-        },
-        {
-          "placement": 3,
-          "name": "Komitê | PiterErn"
-        },
-        {
-          "placement": 4,
-          "name": "Komitê | Vítima"
-        },
-        {
-          "placement": 5,
-          "name": "Alexkidd"
-        },
-        {
-          "placement": 5,
-          "name": "SilvaGames | Gallo"
-        },
-        {
-          "placement": 7,
-          "name": "Silva Games | RUAN BAHIA"
-        },
-        {
-          "placement": 7,
-          "name": "Silva Games | Alfinete"
-        }
-      ]
-    },
-    {
-      "eventId": "1635589",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "Battle Coliseum 2026",
-      "event": "Guilty Gear: Strive (AWT PLATINUM) - PC",
-      "entrants": 76,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T13:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/guilty-gear-strive-awt-platinum-pc",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "YoKai | Resil"
-        },
-        {
-          "placement": 2,
-          "name": "VAL | Bodoque"
-        },
-        {
-          "placement": 3,
-          "name": "PHT | Abbysairaf"
-        },
-        {
-          "placement": 4,
-          "name": "PHT | tms"
-        },
-        {
-          "placement": 5,
-          "name": "GS | Rust"
-        },
-        {
-          "placement": 5,
-          "name": "PHT | não é o rang13"
-        },
-        {
-          "placement": 7,
-          "name": "Darkii"
-        },
-        {
-          "placement": 7,
-          "name": "Dentran"
         }
       ]
     },
@@ -695,7 +554,7 @@
       "game": "Street Fighter 6",
       "tournament": "World Warrior 2026 - Japan 5",
       "event": "Street Fighter 6",
-      "entrants": 1292,
+      "entrants": 1303,
       "online": true,
       "major": true,
       "startAt": "2026-11-28T15:00:00.000Z",
