@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:35:14.910Z",
+  "generatedAt": "2026-11-23T00:05:15.223Z",
   "source": "start.gg",
   "completed": [
     {
@@ -537,19 +537,6 @@
   ],
   "upcoming": [
     {
-      "eventId": "1751130",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Left Coast Battleground #8",
-      "event": "3S Double Elimination",
-      "entrants": 27,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-23T01:01:00.000Z",
-      "endAt": "2026-11-23T07:00:00.000Z",
-      "url": "https://www.start.gg/tournament/left-coast-battleground-8/event/3s-double-elimination"
-    },
-    {
       "eventId": "1705746",
       "scene": "legacyfgc",
       "game": "The King of Fighters XV",
@@ -581,7 +568,7 @@
       "game": "Street Fighter 6",
       "tournament": "World Warrior 2026 - Japan 5",
       "event": "Street Fighter 6",
-      "entrants": 1206,
+      "entrants": 1207,
       "online": true,
       "major": true,
       "startAt": "2026-11-28T15:00:00.000Z",
