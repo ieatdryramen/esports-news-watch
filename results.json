@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-23T08:35:16.031Z",
+  "generatedAt": "2026-11-23T09:05:17.788Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1751130",
+      "scene": "streetfighter",
+      "game": "Street Fighter III: 3rd Strike",
+      "tournament": "Left Coast Battleground #8",
+      "event": "3S Double Elimination",
+      "entrants": 29,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-23T01:01:00.000Z",
+      "endAt": "2026-11-23T07:00:00.000Z",
+      "url": "https://www.start.gg/tournament/left-coast-battleground-8/event/3s-double-elimination",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "Cruise"
+        },
+        {
+          "placement": 2,
+          "name": "PIKACHUAKUMA"
+        },
+        {
+          "placement": 3,
+          "name": "Duralath"
+        },
+        {
+          "placement": 4,
+          "name": "Haq"
+        },
+        {
+          "placement": 5,
+          "name": "LCB | NoFlyZone"
+        },
+        {
+          "placement": 5,
+          "name": "Dabs&Cabs | MaverickHugo"
+        },
+        {
+          "placement": 7,
+          "name": "Dabs&Cabs | EpixTheRed"
+        },
+        {
+          "placement": 7,
+          "name": "LCB | MangaKitty"
+        }
+      ]
+    },
     {
       "eventId": "1748624",
       "scene": "tekken",
@@ -648,7 +695,7 @@
       "game": "Street Fighter 6",
       "tournament": "World Warrior 2026 - Japan 5",
       "event": "Street Fighter 6",
-      "entrants": 1259,
+      "entrants": 1262,
       "online": true,
       "major": true,
       "startAt": "2026-11-28T15:00:00.000Z",
