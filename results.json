@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:05:15.223Z",
+  "generatedAt": "2026-11-23T00:35:15.853Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,6 +93,53 @@
         {
           "placement": 7,
           "name": "Silva Games | Alfinete"
+        }
+      ]
+    },
+    {
+      "eventId": "1635589",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "Battle Coliseum 2026",
+      "event": "Guilty Gear: Strive (AWT PLATINUM) - PC",
+      "entrants": 76,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-21T13:00:00.000Z",
+      "endAt": "2026-11-22T23:00:00.000Z",
+      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/guilty-gear-strive-awt-platinum-pc",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "YoKai | Resil"
+        },
+        {
+          "placement": 2,
+          "name": "VAL | Bodoque"
+        },
+        {
+          "placement": 3,
+          "name": "PHT | Abbysairaf"
+        },
+        {
+          "placement": 4,
+          "name": "PHT | tms"
+        },
+        {
+          "placement": 5,
+          "name": "GS | Rust"
+        },
+        {
+          "placement": 5,
+          "name": "PHT | não é o rang13"
+        },
+        {
+          "placement": 7,
+          "name": "Darkii"
+        },
+        {
+          "placement": 7,
+          "name": "Dentran"
         }
       ]
     },
@@ -520,21 +567,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1635589",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "Battle Coliseum 2026",
-      "event": "Guilty Gear: Strive (AWT PLATINUM) - PC",
-      "entrants": 76,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T13:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/battle-coliseum-2026/event/guilty-gear-strive-awt-platinum-pc"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1705746",
@@ -568,7 +601,7 @@
       "game": "Street Fighter 6",
       "tournament": "World Warrior 2026 - Japan 5",
       "event": "Street Fighter 6",
-      "entrants": 1207,
+      "entrants": 1208,
       "online": true,
       "major": true,
       "startAt": "2026-11-28T15:00:00.000Z",
