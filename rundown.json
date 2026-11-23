@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-23T18:00:27.048Z",
+  "generatedAt": "2026-11-23T19:00:25.093Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 11,
       "stories": [
-        {
-          "title": "SkewMond Leaves G2 Esports To Join Karmine Corp For The 2027 Season",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2V09MTWpHR1AwYkRLMUN0LVhUMU9SdlBOVUtVbzVFY3lOTmVJTWVEZGVVcXRKQUpla0lwbXRJWkx0amFjS0R6R05kOExUbEJZUUptN0ZfNzJJSTBmVko5ZmR0ekduMkpxVU5uU0xrUVQzSGp1TVQ2bE03OHp5NTQ?oc=5",
-          "source": "Google News: CS2 (Hotspawn)",
-          "published": "2026-11-23T16:57:41.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "leaves",
-            "g2"
-          ]
-        },
         {
           "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
           "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
@@ -44,29 +32,6 @@
           ]
         },
         {
-          "title": "CS2 PGL Major Singapore 2026 - All participating teams, format, prize pool, and more",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUtjTVBLdVhEYklVVjA4eUVaWEpGSW9HYWZGTmFndGhwNk9Gc2hadU5nX2steE04MzQ5MzZOUTlENHhnYXdaNFFVaVNJdkZHWU1PRTVFQzJQeTlJY2FESlNoSWlBa21kT3R2OWFKZlRXV3BoMko1d3BqRklYNmZSd3c3MGx6T2hJQjI2T1B5TVQyUzNveEJBOWhYVHBpUkFjY3lMcjB1QmJsaXM3YTFEUGFSdWJ6ZS10akdTR0p4bl9zenEyS0JENFhiRQ?oc=5",
-          "source": "Google News: CS2 (GosuGamers)",
-          "published": "2026-11-23T10:29:55.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "prize pool",
-            "pgl"
-          ]
-        },
-        {
-          "title": "NAVI Top ESL Annual Club Incentive Earnings: $2.7m Distributed in Total",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwMnVhQjJ1WGE5b2RqazUwYUoxQVdTVl9yS1NETGlNVXo0dWY4REN1eG1yWmNjeVRWdkpCTU9VNkV0MktuSHpEbDJrdld2ZjIyc0FzU2pBS1VyaXBkd1lpWUlUS3d3WVh6X2s1OEdxR1BzanpsN29pN3l4VQ?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-23T14:58:35.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "navi"
-          ]
-        },
-        {
           "title": "PGL Major Singapore 2026: Favorites and teams to watch",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RRlYxZWNnS0RXUDh0ZV85bVhpNDA3RTQ1VW1IdF83NzdBWXRodTVNaktyUWZZS0gyWFBodlF0Yy1FSzNxOWU4enFkQnNBY01aOVhxS3RNZUdnNWxxYkxSVFFaTlpFRFF3QkV4NngtRQ?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
@@ -82,6 +47,17 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZQMkRuYW82UEhtNUJ6ajVnMndpMjdWWWltZk5YTk1FRVFBM1o0YjBUTGY0RDY3MmZnYkNBS085Mm1IUFMyMGRiOVlseExZT2NwUmtnNlJSY01kV3ByU3pPVkVtN2JCN2hBSFF5ZUM0RG4yLVRfbm84Zy13cURXcll0c1V4TXpKRDFZSlBPT28zS3NRU1hGMEwwNzRHTXRXSXh5cW9XWFZqaXlRYXRXSmozZHppalpkNDhmN3hya0w?oc=5",
           "source": "Google News: CS2 (Luxury Lifestyle Magazine)",
           "published": "2026-11-23T12:32:17.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026 CS2 players stats - Age & Country",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrdmFPQkIxWFlDdWpyQTBuaXVuMjhpVy02S0c1cDUyRDczUzFPaGZBWEpaNUNwOGhZOWtnQzRZVk5LT0N2WXJiS1cyekdQSjA1MjJFWTQ0d1pJLVlTLVZfRDVoYktTc2VkaDJodW5Cb19pYkNYb2JxREx3?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-23T04:17:21.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -136,13 +112,33 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "SINNERS beat Envy to win Tipsport RUSH Brno",
+          "url": "https://www.hltv.org/news/46027/sinners-beat-envy-to-win-tipsport-rush-brno",
+          "source": "HLTV news",
+          "published": "2026-11-22T20:10:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-23T05:15:25.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
         {
           "title": "Katsuhiro Harada Shares the Pokémon He Hoped to See in Pokkén Tournament",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDdwSmlwT0NIai16V2JINTl3MlhzQllONlpLV0FBeGZNX3F0Z1hxcS1JckotYnZER1BjWmNzNDdsTmREQUg5V1NUT3g4MS1TZkRFcm9PeS1pMG8tYkUzRWF3Z1gtY3JRRUdVbHpNalFleWZvLTZ2QlVEUm9xS2RWbXdQMXJYOWI2V0FoSFFpbGFweEdUaml3ZHZyeE9QT0h6RDd1S21UVmxjQQ?oc=5",
@@ -207,11 +203,25 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "BLAST Slam IX Dota 2 players stats - Age & Country",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdjlRRlVjZ0JCbFZfSmVLcHgtX0g0SlZaTkJJdTRiM2JHOGFWczVMM1puUGRwc1VId3FaUEtkQzVDZW1fTlpEbFR6ODRQdEwxUVpFckZ1RXlMaEE1SmdLaUpSUFFON0Qyekc3Rg?oc=5",
+          "source": "Google News: Dota (Esports Charts)",
+          "published": "2026-11-23T18:16:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
     "AoE2",
-    "Dota",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
