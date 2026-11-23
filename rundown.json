@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T00:00:30.406Z",
+  "generatedAt": "2026-11-23T01:00:24.053Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Dota",
-      "storyCount": 6,
+      "storyCount": 3,
       "stories": [
         {
           "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
@@ -40,40 +40,6 @@
           "why": [
             "xtreme gaming"
           ]
-        },
-        {
-          "title": "Natus Vincere edge OG in opening-round match at BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1kWGhiVmM1a1M2X3ptNS1iVS1ieW9CTmhyUDh2SHFndjJPRVBuME42RWtYR01CNTZZVDRadE8tTWh0SmhVR1hCTnd5d1JwZEkzeW52anl2azVFeklfRUt0bTFfb19TSE5xLXl3WVBJLXpldXdtZVRhNUcyWFpLRmNmdjBzVW5NWXdhX3ZrUzVJcnVrdEQ0X1lmRTYtdGc?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-22T01:42:04.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
-          ]
-        },
-        {
-          "title": "Team Nemesis vs Xtreme Gaming Betting Tips – Team Nemesis Can Upset Xtreme Gaming at BLAST SLAM IX",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWRVQW9zcjg2Y3BwSWxBX0s4S2tRWGpPNWZfdG1JMzV0bzd3azZZajUyakdqSms4Z1Rsck5nOXFMN19lbTFLcmpCWGQtYjJUMkRGZ1dfd2tEMmlqdHdwUG5hb1Y5NXJFamxUYlpPRWNGMk1pYW82MHJDYWNSZV9iVzBQUnROY2VyVE9wWmdoN3ViTVZ5?oc=5",
-          "source": "Google News: Dota (Freetips.com)",
-          "published": "2026-11-22T16:56:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "upset",
-            "xtreme gaming",
-            "-tips",
-            "-betting"
-          ]
-        },
-        {
-          "title": "The camera as an editorial decision in Dota 2 broadcasting",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNWRmcWE1NFZpajBuOTk0R2NuNXpiWmplUmNuMElpRmFtazRxNC1LTWJqNW4yTWRwcE5WekY4U3NhMUdGYThYSzBEZlIwd0Rqa3ZXTkFlSDhraEdUMmkwYXBkc2Y2ZEtmQ3VFbENiZW5RTHFuY05ZZm4tMUtqb3E4d0pOdVI1ZWdFd1RaYnlpODJZejZXTHNPWGhwaUYyNG5ld2pDbE9ENWE?oc=5",
-          "source": "Google News: Dota (Foro3D)",
-          "published": "2026-11-22T14:56:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
