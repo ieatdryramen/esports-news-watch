@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T14:00:29.997Z",
+  "generatedAt": "2026-11-23T15:00:33.292Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026: Grand Finals Marvel Rivals — News | Natus Vincere",
@@ -24,6 +24,24 @@
           "url": "https://insider-gaming.com/marvel-rivals-invites-orgs-to-apply-for-ignite-2027-partnership/",
           "source": "Insider Gaming",
           "published": "2026-11-23T13:23:55.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Characters: All 55 Heroes by Role and Release Date – Esports News Network",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmt6ZEtHRHV4V3o4RGxwN2hIWEk1clltcFlvMlZRNnRoZExFamhYcWFBVTVULS02NlJYUkgwZzQ3QVN4X0todTducmFLOVV3b1psOHJkakNMMzNJQlUxYmJTaFNiVnl5WXpmR1lKV1ptb2VSYXNuM1BOeWt2bWNQVQ?oc=5",
+          "source": "Google News: Rivals esports (ESTNN)",
+          "published": "2026-11-23T13:23:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Ignite opens all 12 partner slots for 2027, with applications due Dec. 4",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWhCM09BNUNza3hvSURsYzFvY01KdGhzLXNxSFVZNEhLVHV4TVQtaXg0UUpxcEdBNFRqWHd0bjJ1X0lBZGJQVWM0a05YUXJEYVJZZVZaMkdNLWFCcjlvcTczVWx5WnBxVER2UVNRVllHZHBBSURmQlBtWUp6UDdoZA?oc=5",
+          "source": "Google News: Rivals esports (Dot Esports)",
+          "published": "2026-11-23T12:13:00.000Z",
           "score": 1,
           "level": null,
           "why": []
