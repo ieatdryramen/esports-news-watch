@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T16:00:30.001Z",
+  "generatedAt": "2026-11-23T17:00:31.776Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026: Grand Finals Marvel Rivals — News | Natus Vincere",
@@ -21,8 +21,8 @@
         },
         {
           "title": "Marvel Rivals Invites Orgs to Apply for Ignite 2027 Partnership",
-          "url": "https://insider-gaming.com/marvel-rivals-invites-orgs-to-apply-for-ignite-2027-partnership/",
-          "source": "Insider Gaming",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVd2d2V6UzV6YlFFdV9wcHRYNEp6ZVpBYWF3ME1LUDJ3Vk5CNTFNVnJLN2J3Zk83VmYwaVBSbllOb2RuaHo5Sko5LTVJTWJjU2ZjNEwxTFNNNnE5bUEwVXM4cUlJLS1kRngxaGJkMWxRRWhLMWVnT1Z5NGdiTVplSUU3NmxaVTIzT0xzQloyMjc1bUVsVWc?oc=5",
+          "source": "Google News: Rivals esports (Insider Gaming)",
           "published": "2026-11-23T13:23:55.000Z",
           "score": 1,
           "level": null,
@@ -45,6 +45,20 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "All Marvel Rivals Ignite 2026 Grand Finals Twitch Drops and how to get them",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWFOTmc3V0o1SGxQQUdQX2JRM2JCUXZLWEVJREZkSWFLMXZuTWp2emY4RHFFTTZiVHM0NkpsMGFpa193NjJ1QkNQRWVzMzNZaWIwNEF6b1NPeG9nMTJrZmNCeG16MnVmUmNld3NKeDNsMXZNdGFsWDF4VTF6WXRnTUo5ZV9oUQ?oc=5",
+          "source": "Google News: Rivals esports (Dot Esports)",
+          "published": "2026-11-23T16:03:00.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "grand finals",
+            "grand finals",
+            "-twitch drops",
+            "-how to get"
+          ]
         }
       ]
     }
