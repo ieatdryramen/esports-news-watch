@@ -1,43 +1,23 @@
 {
-  "generatedAt": "2026-11-23T07:00:33.092Z",
+  "generatedAt": "2026-11-23T08:00:26.009Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Dota",
-      "storyCount": 2,
+      "scene": "CS2",
+      "storyCount": 5,
       "stories": [
         {
-          "title": "Topson spoke about patch 7.42 for Dota 2, naming the best heroes of the new update",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXItT0kzSFY1RXZyT0dWVjlaVjZ5TUcwa3o4QU1XVHVmWXBmX0Vpdlc4UUp4MENVS3RIdnQ4eEN5Mi1FcnFEbFpxdjUwY2d6T3BoQ2xMVktVSTl6TXZQU3JNNTlqUG9jdWNwZEw2YlpYbWE5djBsTHJDOEU3MWxHU2ZreUh5ejJsaEdN?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-22T07:54:49.000Z",
-          "score": 4,
+          "title": "s1mple and device give Stage 1 some much needed stardust",
+          "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
+          "source": "HLTV news",
+          "published": "2026-11-22T12:31:00.000Z",
+          "score": 5,
           "level": null,
           "why": [
-            "update",
-            "topson"
+            "s1mple",
+            "device"
           ]
         },
-        {
-          "title": "Team Nemesis vs Xtreme Gaming Betting Tips – Team Nemesis Can Upset Xtreme Gaming at BLAST SLAM IX",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWRVQW9zcjg2Y3BwSWxBX0s4S2tRWGpPNWZfdG1JMzV0bzd3azZZajUyakdqSms4Z1Rsck5nOXFMN19lbTFLcmpCWGQtYjJUMkRGZ1dfd2tEMmlqdHdwUG5hb1Y5NXJFamxUYlpPRWNGMk1pYW82MHJDYWNSZV9iVzBQUnROY2VyVE9wWmdoN3ViTVZ5?oc=5",
-          "source": "Google News: Dota (Freetips.com)",
-          "published": "2026-11-22T16:56:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "upset",
-            "xtreme gaming",
-            "-tips",
-            "-betting"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 1,
-      "stories": [
         {
           "title": "Team Vitality Closes CS2 Academy After Seven Months as Tier 2 Money Shrinks",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5maEc3a2hDUGVBUXY0ZUFJQVg1d2ZuTUc2RDlFbS1JZE9wckVNWHhGa2VMcE5lZzZZckFTRFZGbzQ3NTdteXdFZjlqQXcxYktMWENQNG1Wa1JpM1BJd1JjbTlGTHR3ZjR6REg0UFF4VlE0TVU?oc=5",
@@ -48,6 +28,35 @@
           "why": [
             "vitality"
           ]
+        },
+        {
+          "title": "No longer a stepping stone for players, DENDELE are on an upward path",
+          "url": "https://www.hltv.org/news/46021/no-longer-a-stepping-stone-for-players-dendele-are-on-an-upward-path",
+          "source": "HLTV news",
+          "published": "2026-11-22T20:53:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
+        },
+        {
+          "title": "SINNERS beat Envy to win Tipsport RUSH Brno",
+          "url": "https://www.hltv.org/news/46027/sinners-beat-envy-to-win-tipsport-rush-brno",
+          "source": "HLTV news",
+          "published": "2026-11-22T20:10:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 45",
+          "url": "https://www.hltv.org/news/45999/short-news-week-45",
+          "source": "HLTV news",
+          "published": "2026-11-22T19:09:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -67,6 +76,43 @@
           ]
         }
       ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Katsuhiro Harada Shares the Pokémon He Hoped to See in Pokkén Tournament",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDdwSmlwT0NIai16V2JINTl3MlhzQllONlpLV0FBeGZNX3F0Z1hxcS1JckotYnZER1BjWmNzNDdsTmREQUg5V1NUT3g4MS1TZkRFcm9PeS1pMG8tYkUzRWF3Z1gtY3JRRUdVbHpNalFleWZvLTZ2QlVEUm9xS2RWbXdQMXJYOWI2V0FoSFFpbGFweEdUaml3ZHZyeE9QT0h6RDd1S21UVmxjQQ?oc=5",
+          "source": "Google News: Tekken (COGconnected)",
+          "published": "2026-11-23T07:56:49.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "harada"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Team Nemesis vs Xtreme Gaming Betting Tips – Team Nemesis Can Upset Xtreme Gaming at BLAST SLAM IX",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWRVQW9zcjg2Y3BwSWxBX0s4S2tRWGpPNWZfdG1JMzV0bzd3azZZajUyakdqSms4Z1Rsck5nOXFMN19lbTFLcmpCWGQtYjJUMkRGZ1dfd2tEMmlqdHdwUG5hb1Y5NXJFamxUYlpPRWNGMk1pYW82MHJDYWNSZV9iVzBQUnROY2VyVE9wWmdoN3ViTVZ5?oc=5",
+          "source": "Google News: Dota (Freetips.com)",
+          "published": "2026-11-22T16:56:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "upset",
+            "xtreme gaming",
+            "-tips",
+            "-betting"
+          ]
+        }
+      ]
     }
   ],
   "quiet": [
@@ -76,7 +122,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
     "CoD",
     "Quake",
