@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T12:35:22.449Z",
+  "generatedAt": "2026-11-23T13:05:17.187Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,53 +93,6 @@
         {
           "placement": 7,
           "name": "BandidoBr"
-        }
-      ]
-    },
-    {
-      "eventId": "1720181",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "SIDES - Battle Coliseum 2026",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 56,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T17:00:00.000Z",
-      "endAt": "2026-11-22T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/sides-battle-coliseum-2026/event/street-fighter-iii-3rd-strike",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Xondetsu"
-        },
-        {
-          "placement": 2,
-          "name": "3rd Dojo | Ivao"
-        },
-        {
-          "placement": 3,
-          "name": "RPBR | Reaol | Coelhoo"
-        },
-        {
-          "placement": 4,
-          "name": "#12"
-        },
-        {
-          "placement": 5,
-          "name": "BrenoTsu"
-        },
-        {
-          "placement": 5,
-          "name": "Hideo360"
-        },
-        {
-          "placement": 7,
-          "name": "bdalui"
-        },
-        {
-          "placement": 7,
-          "name": "VFC | Cultyhud"
         }
       ]
     },
@@ -554,7 +507,7 @@
       "game": "Street Fighter 6",
       "tournament": "World Warrior 2026 - Japan 5",
       "event": "Street Fighter 6",
-      "entrants": 1312,
+      "entrants": 1324,
       "online": true,
       "major": true,
       "startAt": "2026-11-28T15:00:00.000Z",
