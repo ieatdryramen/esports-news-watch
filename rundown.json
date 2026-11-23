@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-23T03:00:26.166Z",
+  "generatedAt": "2026-11-23T04:00:25.234Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
-        {
-          "title": "Ukraine’s NAVI Makes History With First Brawl Stars World Title, Wins $450,000",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi1JSkl2aUNLNTFnRmo2d0Y5S2dGT2NxZnVnMUVZSXQzMkxqSi1nNDllblFSYk1nTkd6OVViMzJ5ZTFUMUp6MnNQN1h4RlliOXJObW4wUzRmZG1ZRzhZWHcxbXczc3VFaUxyU2k2amNVLTJHYjRCQ1ExbGZiVXcwSVFab2hMT05mZ3dUd3pkWVdicjBfQ3hpa3M2V25Qd2xlTERfaHNhOHVoeHZWanE3Nkd1NnE?oc=5",
-          "source": "Google News: CS2 (UNITED24 Media)",
-          "published": "2026-11-22T15:54:53.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "wins",
-            "history",
-            "navi"
-          ]
-        },
         {
           "title": "s1mple and device give Stage 1 some much needed stardust",
           "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
@@ -78,18 +65,6 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUjRsU25GZkxQOHg5czlZQ1c0dUk0YXJoNFkwVk1mMWpWSENrZGpKQmN6ZkVwMVFRUlV3d2wzWURXQWt0TEx2MVNyRFRfZGVqcWl5bGROOEYzVVA2LTFjX2JZQnM1a2I0ODV0ZXB3VUl4bC1JSmVPeWVPTHJMQ0N6MXRMMTlwcWRBZmhLYURCODk4UTdHTlNfQjFjMk9reEJRTWY1dHpwNzk1VklaUUo4X3RCTkhPNU5GY21IZVdndEczVndFOVpMa0dWUDVvNzFsNEtBQjRIdTQ5d2Z6enF3N1h5NGl2bzJNeHJVLWdyc3ZqY1k4cHZNUHZDSDNQeHF3UFU3WlQwYUx3TGppMlQ2OTBZb0F5WGdLWmwyWTZVLUU0c0RmM0I2UzkzeHlfRVXSAa8CQVVfeXFMT1I0bFNuRmZMUDh4OXM5WUNXNHVJNGFyaDRZMFZNZjFqVkhDa2RqSkJjemZFcDFRUVJVd3dsM1lEV0FrdExMdjFTckRUX2RlanFpeWxkTjhGM1VQNi0xY19iWUJzNWtiNDg1dGVwd1VJeGwtSUplT3llT0xyTENDejF0TDE5cHFkQWZoS2FEQjg5OFE3R05TX0IxYzJPa3hCUU1mNXR6cDc5NVZJWlFKOF90Qk5ITzVORmNtSGVXZ3RHM1Z3RTlaTGtHVlA1bzcxbDRLQUI0SHU0OXdmenpxdzdYeTRpdm8yTXhyVS1ncnN2amNZOHB2TVB2Q0gzUHhxd1BVN1pUMGFMd0xqaTJUNjkwWW9BeVhnS1psMlk2VS1FNHNEZjNCNlM5M3h5X0VV?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-22T03:31:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "wins",
-            "dreamleague"
-          ]
-        },
-        {
           "title": "Topson spoke about patch 7.42 for Dota 2, naming the best heroes of the new update",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXItT0kzSFY1RXZyT0dWVjlaVjZ5TUcwa3o4QU1XVHVmWXBmX0Vpdlc4UUp4MENVS3RIdnQ4eEN5Mi1FcnFEbFpxdjUwY2d6T3BoQ2xMVktVSTl6TXZQU3JNNTlqUG9jdWNwZEw2YlpYbWE5djBsTHJDOEU3MWxHU2ZreUh5ejJsaEdN?oc=5",
           "source": "Google News: Dota (Hawk Live)",
@@ -99,6 +74,20 @@
           "why": [
             "update",
             "topson"
+          ]
+        },
+        {
+          "title": "Team Nemesis vs Xtreme Gaming Betting Tips – Team Nemesis Can Upset Xtreme Gaming at BLAST SLAM IX",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWRVQW9zcjg2Y3BwSWxBX0s4S2tRWGpPNWZfdG1JMzV0bzd3azZZajUyakdqSms4Z1Rsck5nOXFMN19lbTFLcmpCWGQtYjJUMkRGZ1dfd2tEMmlqdHdwUG5hb1Y5NXJFamxUYlpPRWNGMk1pYW82MHJDYWNSZV9iVzBQUnROY2VyVE9wWmdoN3ViTVZ5?oc=5",
+          "source": "Google News: Dota (Freetips.com)",
+          "published": "2026-11-22T16:56:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "upset",
+            "xtreme gaming",
+            "-tips",
+            "-betting"
           ]
         }
       ]
