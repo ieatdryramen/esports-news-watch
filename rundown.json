@@ -1,52 +1,24 @@
 {
-  "generatedAt": "2026-11-23T02:00:35.887Z",
+  "generatedAt": "2026-11-23T03:00:26.166Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Dota",
-      "storyCount": 3,
+      "scene": "CS2",
+      "storyCount": 6,
       "stories": [
         {
-          "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUjRsU25GZkxQOHg5czlZQ1c0dUk0YXJoNFkwVk1mMWpWSENrZGpKQmN6ZkVwMVFRUlV3d2wzWURXQWt0TEx2MVNyRFRfZGVqcWl5bGROOEYzVVA2LTFjX2JZQnM1a2I0ODV0ZXB3VUl4bC1JSmVPeWVPTHJMQ0N6MXRMMTlwcWRBZmhLYURCODk4UTdHTlNfQjFjMk9reEJRTWY1dHpwNzk1VklaUUo4X3RCTkhPNU5GY21IZVdndEczVndFOVpMa0dWUDVvNzFsNEtBQjRIdTQ5d2Z6enF3N1h5NGl2bzJNeHJVLWdyc3ZqY1k4cHZNUHZDSDNQeHF3UFU3WlQwYUx3TGppMlQ2OTBZb0F5WGdLWmwyWTZVLUU0c0RmM0I2UzkzeHlfRVXSAa8CQVVfeXFMT1I0bFNuRmZMUDh4OXM5WUNXNHVJNGFyaDRZMFZNZjFqVkhDa2RqSkJjemZFcDFRUVJVd3dsM1lEV0FrdExMdjFTckRUX2RlanFpeWxkTjhGM1VQNi0xY19iWUJzNWtiNDg1dGVwd1VJeGwtSUplT3llT0xyTENDejF0TDE5cHFkQWZoS2FEQjg5OFE3R05TX0IxYzJPa3hCUU1mNXR6cDc5NVZJWlFKOF90Qk5ITzVORmNtSGVXZ3RHM1Z3RTlaTGtHVlA1bzcxbDRLQUI0SHU0OXdmenpxdzdYeTRpdm8yTXhyVS1ncnN2amNZOHB2TVB2Q0gzUHhxd1BVN1pUMGFMd0xqaTJUNjkwWW9BeVhnS1psMlk2VS1FNHNEZjNCNlM5M3h5X0VV?oc=5",
-          "source": "Google News: Dota (Players)",
-          "published": "2026-11-22T03:31:00.000Z",
-          "score": 6,
-          "level": "possible",
+          "title": "Ukraine’s NAVI Makes History With First Brawl Stars World Title, Wins $450,000",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi1JSkl2aUNLNTFnRmo2d0Y5S2dGT2NxZnVnMUVZSXQzMkxqSi1nNDllblFSYk1nTkd6OVViMzJ5ZTFUMUp6MnNQN1h4RlliOXJObW4wUzRmZG1ZRzhZWHcxbXczc3VFaUxyU2k2amNVLTJHYjRCQ1ExbGZiVXcwSVFab2hMT05mZ3dUd3pkWVdicjBfQ3hpa3M2V25Qd2xlTERfaHNhOHVoeHZWanE3Nkd1NnE?oc=5",
+          "source": "Google News: CS2 (UNITED24 Media)",
+          "published": "2026-11-22T15:54:53.000Z",
+          "score": 8,
+          "level": "breaking",
           "why": [
             "wins",
-            "dreamleague"
+            "history",
+            "navi"
           ]
         },
-        {
-          "title": "Topson spoke about patch 7.42 for Dota 2, naming the best heroes of the new update",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXItT0kzSFY1RXZyT0dWVjlaVjZ5TUcwa3o4QU1XVHVmWXBmX0Vpdlc4UUp4MENVS3RIdnQ4eEN5Mi1FcnFEbFpxdjUwY2d6T3BoQ2xMVktVSTl6TXZQU3JNNTlqUG9jdWNwZEw2YlpYbWE5djBsTHJDOEU3MWxHU2ZreUh5ejJsaEdN?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-22T07:54:49.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "update",
-            "topson"
-          ]
-        },
-        {
-          "title": "Xtreme Gaming Send Spirit Packing Just Two Days Into BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzRxSXQ1X0g1RlFJMXlqVVNCMVV2d05pU0M1anZUVDBpdWI4OWY5RWMzRlBPbkhNdWc4aEpvMEtzY2Q0SjZfNTZMUzlBc3lYeFhVS1p4LVlHQ2dVZDBaeGNvN1NXR2dkYTRLTGY3MTNyUG1FbVl3YlhSVFRuc0xpbXFJckxESnpIVjhvM0htai1DdURBUlBiNFhSaDlmZlVSYzFEd3FR?oc=5",
-          "source": "Google News: Dota (Hotspawn)",
-          "published": "2026-11-22T02:12:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "xtreme gaming"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 5,
-      "stories": [
         {
           "title": "s1mple and device give Stage 1 some much needed stardust",
           "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
@@ -102,6 +74,36 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "007 First Light Wins Game of the Year, DreamLeague Division 2 Series 5 Concludes, Steam Machine With 2TB Storage Could Get Even More Expensive — News Digest for November 21",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUjRsU25GZkxQOHg5czlZQ1c0dUk0YXJoNFkwVk1mMWpWSENrZGpKQmN6ZkVwMVFRUlV3d2wzWURXQWt0TEx2MVNyRFRfZGVqcWl5bGROOEYzVVA2LTFjX2JZQnM1a2I0ODV0ZXB3VUl4bC1JSmVPeWVPTHJMQ0N6MXRMMTlwcWRBZmhLYURCODk4UTdHTlNfQjFjMk9reEJRTWY1dHpwNzk1VklaUUo4X3RCTkhPNU5GY21IZVdndEczVndFOVpMa0dWUDVvNzFsNEtBQjRIdTQ5d2Z6enF3N1h5NGl2bzJNeHJVLWdyc3ZqY1k4cHZNUHZDSDNQeHF3UFU3WlQwYUx3TGppMlQ2OTBZb0F5WGdLWmwyWTZVLUU0c0RmM0I2UzkzeHlfRVXSAa8CQVVfeXFMT1I0bFNuRmZMUDh4OXM5WUNXNHVJNGFyaDRZMFZNZjFqVkhDa2RqSkJjemZFcDFRUVJVd3dsM1lEV0FrdExMdjFTckRUX2RlanFpeWxkTjhGM1VQNi0xY19iWUJzNWtiNDg1dGVwd1VJeGwtSUplT3llT0xyTENDejF0TDE5cHFkQWZoS2FEQjg5OFE3R05TX0IxYzJPa3hCUU1mNXR6cDc5NVZJWlFKOF90Qk5ITzVORmNtSGVXZ3RHM1Z3RTlaTGtHVlA1bzcxbDRLQUI0SHU0OXdmenpxdzdYeTRpdm8yTXhyVS1ncnN2amNZOHB2TVB2Q0gzUHhxd1BVN1pUMGFMd0xqaTJUNjkwWW9BeVhnS1psMlk2VS1FNHNEZjNCNlM5M3h5X0VV?oc=5",
+          "source": "Google News: Dota (Players)",
+          "published": "2026-11-22T03:31:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "wins",
+            "dreamleague"
+          ]
+        },
+        {
+          "title": "Topson spoke about patch 7.42 for Dota 2, naming the best heroes of the new update",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXItT0kzSFY1RXZyT0dWVjlaVjZ5TUcwa3o4QU1XVHVmWXBmX0Vpdlc4UUp4MENVS3RIdnQ4eEN5Mi1FcnFEbFpxdjUwY2d6T3BoQ2xMVktVSTl6TXZQU3JNNTlqUG9jdWNwZEw2YlpYbWE5djBsTHJDOEU3MWxHU2ZreUh5ejJsaEdN?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-22T07:54:49.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "update",
+            "topson"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -117,24 +119,10 @@
           ]
         }
       ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Nintendo’s GameCube Crossover Turns 25, and Melee Fits the Bill",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFBoVVczNDlyXzJza28waE8xdjkzNlJVWFlQMmpTNldCRFM1ZkVFOUpyc1UwSVI2aUczNURoTVk4aUM3cW1kYkRqVGtxSV91RVpfLTRwOEtGUnktazBUNTVUUGJ5ZUljMVZHamxGcFFFRkNSSGhzUFNCQnRfUG9aVmNoVFVhbXZMUGx2NXBqV2dTcnc5ZjNBWDVDeS0?oc=5",
-          "source": "Google News: Melee (www.explosion.com)",
-          "published": "2026-11-22T02:13:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
