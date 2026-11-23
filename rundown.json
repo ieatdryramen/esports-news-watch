@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-23T04:00:25.234Z",
+  "generatedAt": "2026-11-23T05:00:23.744Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Ukraine’s NAVI Makes History With First Brawl Stars World Title, Wins $450,000",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi1JSkl2aUNLNTFnRmo2d0Y5S2dGT2NxZnVnMUVZSXQzMkxqSi1nNDllblFSYk1nTkd6OVViMzJ5ZTFUMUp6MnNQN1h4RlliOXJObW4wUzRmZG1ZRzhZWHcxbXczc3VFaUxyU2k2amNVLTJHYjRCQ1ExbGZiVXcwSVFab2hMT05mZ3dUd3pkWVdicjBfQ3hpa3M2V25Qd2xlTERfaHNhOHVoeHZWanE3Nkd1NnE?oc=5",
+          "source": "Google News: CS2 (UNITED24 Media)",
+          "published": "2026-11-22T15:54:53.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "wins",
+            "history",
+            "navi"
+          ]
+        },
         {
           "title": "s1mple and device give Stage 1 some much needed stardust",
           "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
