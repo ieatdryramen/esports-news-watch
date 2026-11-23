@@ -1,7 +1,98 @@
 {
-  "generatedAt": "2026-11-23T20:55:32.769Z",
+  "generatedAt": "2026-11-23T21:55:16.368Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "CS2",
+      "storyCount": 8,
+      "stories": [
+        {
+          "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
+          "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
+          "source": "HLTV news",
+          "published": "2026-11-23T12:58:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "navi",
+            "g2*",
+            "furia*"
+          ]
+        },
+        {
+          "title": "SunPayus opens up about early struggles in CS2, what didn't work in G2, and signing with FUT",
+          "url": "https://www.hltv.org/news/46025/sunpayus-opens-up-about-early-struggles-in-cs2-what-didnt-work-in-g2-and-signing-with-fut",
+          "source": "HLTV news",
+          "published": "2026-11-23T16:02:00.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "bench*",
+            "g2"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026: Favorites and teams to watch",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RRlYxZWNnS0RXUDh0ZV85bVhpNDA3RTQ1VW1IdF83NzdBWXRodTVNaktyUWZZS0gyWFBodlF0Yy1FSzNxOWU4enFkQnNBY01aOVhxS3RNZUdnNWxxYkxSVFFaTlpFRFF3QkV4NngtRQ?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-23T14:08:52.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Esports Luxury: How to take a trip to the Singapore PGL Major to the next level",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZQMkRuYW82UEhtNUJ6ajVnMndpMjdWWWltZk5YTk1FRVFBM1o0YjBUTGY0RDY3MmZnYkNBS085Mm1IUFMyMGRiOVlseExZT2NwUmtnNlJSY01kV3ByU3pPVkVtN2JCN2hBSFF5ZUM0RG4yLVRfbm84Zy13cURXcll0c1V4TXpKRDFZSlBPT28zS3NRU1hGMEwwNzRHTXRXSXh5cW9XWFZqaXlRYXRXSmozZHppalpkNDhmN3hya0w?oc=5",
+          "source": "Google News: CS2 (Luxury Lifestyle Magazine)",
+          "published": "2026-11-23T12:32:17.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026 CS2 players stats - Age & Country",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrdmFPQkIxWFlDdWpyQTBuaXVuMjhpVy02S0c1cDUyRDczUzFPaGZBWEpaNUNwOGhZOWtnQzRZVk5LT0N2WXJiS1cyekdQSjA1MjJFWTQ0d1pJLVlTLVZfRDVoYktTc2VkaDJodW5Cb19pYkNYb2JxREx3?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-23T04:17:21.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://esports.gg/news/counter-strike-2/cs2-pgl-singapore-major-2026-stage-1-overview-results/",
+          "source": "esports.gg",
+          "published": "2026-11-23T14:34:42.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "ztr's FOKUS loan ends",
+          "url": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
+          "source": "HLTV news",
+          "published": "2026-11-23T14:17:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Short news: Week 46",
+          "url": "https://www.hltv.org/news/46029/short-news-week-46",
+          "source": "HLTV news",
+          "published": "2026-11-23T12:44:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
     {
       "scene": "Tekken",
       "storyCount": 4,
@@ -44,43 +135,6 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SdIBmwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SQ?oc=5",
           "source": "Google News: Tekken (SMEStreet)",
           "published": "2026-11-23T10:40:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "PGL Major Singapore 2026: Favorites and teams to watch",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RRlYxZWNnS0RXUDh0ZV85bVhpNDA3RTQ1VW1IdF83NzdBWXRodTVNaktyUWZZS0gyWFBodlF0Yy1FSzNxOWU4enFkQnNBY01aOVhxS3RNZUdnNWxxYkxSVFFaTlpFRFF3QkV4NngtRQ?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-23T14:08:52.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Esports Luxury: How to take a trip to the Singapore PGL Major to the next level",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZQMkRuYW82UEhtNUJ6ajVnMndpMjdWWWltZk5YTk1FRVFBM1o0YjBUTGY0RDY3MmZnYkNBS085Mm1IUFMyMGRiOVlseExZT2NwUmtnNlJSY01kV3ByU3pPVkVtN2JCN2hBSFF5ZUM0RG4yLVRfbm84Zy13cURXcll0c1V4TXpKRDFZSlBPT28zS3NRU1hGMEwwNzRHTXRXSXh5cW9XWFZqaXlRYXRXSmozZHppalpkNDhmN3hya0w?oc=5",
-          "source": "Google News: CS2 (Luxury Lifestyle Magazine)",
-          "published": "2026-11-23T12:32:17.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://esports.gg/news/counter-strike-2/cs2-pgl-singapore-major-2026-stage-1-overview-results/",
-          "source": "esports.gg",
-          "published": "2026-11-23T14:34:42.000Z",
           "score": 1,
           "level": null,
           "why": []
