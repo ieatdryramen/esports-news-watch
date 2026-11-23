@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T22:50:23.910Z",
+  "generatedAt": "2026-11-23T23:50:22.376Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026: Grand Finals Marvel Rivals — News | Natus Vincere",
@@ -30,15 +30,6 @@
             "grand finals",
             "grand finals"
           ]
-        },
-        {
-          "title": "Marvel Rivals Adds Hacker Costumes for Loki, Scarlet Witch and Moon Knight",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUJxOERQam9NT0x3cVhWeTYxd3lPTlp4MHBLYmZiemNlUHRZdm90VFJIek1JU2E3am5DYlhic05MUTQxZ2RiSld1MXMyajU2ZTNHNkM1aTJ0MW92cXpfVlpEN2dXMG5uRFVGRFlmelVFajkwZkhmTnRiWWY4ZW1CYTVR?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-23T18:21:50.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         },
         {
           "title": "Marvel Rivals Invites Orgs to Apply for Ignite 2027 Partnership",
