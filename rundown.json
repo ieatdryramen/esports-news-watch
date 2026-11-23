@@ -1,129 +1,7 @@
 {
-  "generatedAt": "2026-11-23T20:00:27.223Z",
+  "generatedAt": "2026-11-23T20:55:32.769Z",
   "windowHours": 24,
   "scenes": [
-    {
-      "scene": "CS2",
-      "storyCount": 11,
-      "stories": [
-        {
-          "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
-          "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
-          "source": "HLTV news",
-          "published": "2026-11-23T12:58:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
-            "g2*",
-            "furia*"
-          ]
-        },
-        {
-          "title": "SunPayus opens up about early struggles in CS2, what didn't work in G2, and signing with FUT",
-          "url": "https://www.hltv.org/news/46025/sunpayus-opens-up-about-early-struggles-in-cs2-what-didnt-work-in-g2-and-signing-with-fut",
-          "source": "HLTV news",
-          "published": "2026-11-23T16:02:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "bench*",
-            "g2"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026: Favorites and teams to watch",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RRlYxZWNnS0RXUDh0ZV85bVhpNDA3RTQ1VW1IdF83NzdBWXRodTVNaktyUWZZS0gyWFBodlF0Yy1FSzNxOWU4enFkQnNBY01aOVhxS3RNZUdnNWxxYkxSVFFaTlpFRFF3QkV4NngtRQ?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-23T14:07:01.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Esports Luxury: How to take a trip to the Singapore PGL Major to the next level",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZQMkRuYW82UEhtNUJ6ajVnMndpMjdWWWltZk5YTk1FRVFBM1o0YjBUTGY0RDY3MmZnYkNBS085Mm1IUFMyMGRiOVlseExZT2NwUmtnNlJSY01kV3ByU3pPVkVtN2JCN2hBSFF5ZUM0RG4yLVRfbm84Zy13cURXcll0c1V4TXpKRDFZSlBPT28zS3NRU1hGMEwwNzRHTXRXSXh5cW9XWFZqaXlRYXRXSmozZHppalpkNDhmN3hya0w?oc=5",
-          "source": "Google News: CS2 (Luxury Lifestyle Magazine)",
-          "published": "2026-11-23T12:32:17.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026 CS2 players stats - Age & Country",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrdmFPQkIxWFlDdWpyQTBuaXVuMjhpVy02S0c1cDUyRDczUzFPaGZBWEpaNUNwOGhZOWtnQzRZVk5LT0N2WXJiS1cyekdQSjA1MjJFWTQ0d1pJLVlTLVZfRDVoYktTc2VkaDJodW5Cb19pYkNYb2JxREx3?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-23T04:17:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Team Vitality Closes CS2 Academy After Seven Months as Tier 2 Money Shrinks",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5maEc3a2hDUGVBUXY0ZUFJQVg1d2ZuTUc2RDlFbS1JZE9wckVNWHhGa2VMcE5lZzZZckFTRFZGbzQ3NTdteXdFZjlqQXcxYktMWENQNG1Wa1JpM1BJd1JjbTlGTHR3ZjR6REg0UFF4VlE0TVU?oc=5",
-          "source": "Google News: CS2 (The Esports Advocate)",
-          "published": "2026-11-22T20:01:57.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "vitality"
-          ]
-        },
-        {
-          "title": "No longer a stepping stone for players, DENDELE are on an upward path",
-          "url": "https://www.hltv.org/news/46021/no-longer-a-stepping-stone-for-players-dendele-are-on-an-upward-path",
-          "source": "HLTV news",
-          "published": "2026-11-22T20:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "roster*"
-          ]
-        },
-        {
-          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://esports.gg/news/counter-strike-2/cs2-pgl-singapore-major-2026-stage-1-overview-results/",
-          "source": "esports.gg",
-          "published": "2026-11-23T14:34:42.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "ztr's FOKUS loan ends",
-          "url": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
-          "source": "HLTV news",
-          "published": "2026-11-23T14:17:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 46",
-          "url": "https://www.hltv.org/news/46029/short-news-week-46",
-          "source": "HLTV news",
-          "published": "2026-11-23T12:44:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "SINNERS beat Envy to win Tipsport RUSH Brno",
-          "url": "https://www.hltv.org/news/46027/sinners-beat-envy-to-win-tipsport-rush-brno",
-          "source": "HLTV news",
-          "published": "2026-11-22T20:10:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
     {
       "scene": "Tekken",
       "storyCount": 4,
@@ -173,6 +51,43 @@
       ]
     },
     {
+      "scene": "CS2",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "PGL Major Singapore 2026: Favorites and teams to watch",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RRlYxZWNnS0RXUDh0ZV85bVhpNDA3RTQ1VW1IdF83NzdBWXRodTVNaktyUWZZS0gyWFBodlF0Yy1FSzNxOWU4enFkQnNBY01aOVhxS3RNZUdnNWxxYkxSVFFaTlpFRFF3QkV4NngtRQ?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-23T14:08:52.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Esports Luxury: How to take a trip to the Singapore PGL Major to the next level",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZQMkRuYW82UEhtNUJ6ajVnMndpMjdWWWltZk5YTk1FRVFBM1o0YjBUTGY0RDY3MmZnYkNBS085Mm1IUFMyMGRiOVlseExZT2NwUmtnNlJSY01kV3ByU3pPVkVtN2JCN2hBSFF5ZUM0RG4yLVRfbm84Zy13cURXcll0c1V4TXpKRDFZSlBPT28zS3NRU1hGMEwwNzRHTXRXSXh5cW9XWFZqaXlRYXRXSmozZHppalpkNDhmN3hya0w?oc=5",
+          "source": "Google News: CS2 (Luxury Lifestyle Magazine)",
+          "published": "2026-11-23T12:32:17.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://esports.gg/news/counter-strike-2/cs2-pgl-singapore-major-2026-stage-1-overview-results/",
+          "source": "esports.gg",
+          "published": "2026-11-23T14:34:42.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -191,13 +106,22 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "World's best Yoshi competitor releases new tier list for Super Smash Bros. Melee in 2026",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMXJSR0JSSEtielR3dzFHZjloWWt5TXBYb3hwaVR4RUlqUjg4N0ZpOWVxTUNkWGNUSmk1V0JlMDJ0aVV6ZTBrSC1xR20tQkxDWFp1aTZpWmNoSXJDeUtPMkp5SG1OeFNrQWMycGx3ZjctZTNJRjVaVnYyaUM?oc=5",
           "source": "Google News: Melee (EventHubs)",
           "published": "2026-11-23T14:17:31.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Happy 25th Birthday, Melee | Super Smash Brothers Melee",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3M2VXMGdSTlBST0RhZFIzbUZLUDFwQlIxTS1BTE5IbnUyRHJzdmtqMHRjSlRITzdFMlR2NFFXNEQ1by1BYnAwZ21nelN2WUhnTW1VZkxxbnk0SWhBNlN2eHdRaXZiVU56SlJyRXpGeTNVTWFj?oc=5",
+          "source": "Google News: Melee (Know Your Meme)",
+          "published": "2026-11-23T03:31:37.000Z",
           "score": 1,
           "level": null,
           "why": []
