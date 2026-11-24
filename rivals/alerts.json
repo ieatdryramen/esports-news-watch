@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-24T21:50:26.012Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Marvel Rivals Players Can Earn a Free IGNITE Black Widow Skin by Watching 8 Hours of Grand Finals on Twitch",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTRNQW92eFd2a0RMUkpPelhRZzRMakhRRzNjaXpCMW1WZWdTajV0NlB5bmxmSmY5VV9IekNyWGFkWG9kRlBQNm5JcTNsMlViVE94ZWlFV1IwZEx0UXkyc0J0NEhicXBpRXpOWlFZX0pjRmtxdEplQXhta2xIb1IyZ1dhMEZIVWhzOExqTU9TVExLQ0VhdGRMU184TDZpNDVod2o2QzhzSmYwNTN3ZFFGd1NHdFk2QUItcm4zQnpOOE5oZ1dDXzl6LV9CNlZBZw?oc=5",
+      "source": "Google News: Rivals esports (inkl)",
+      "outlets": [
+        "inkl"
+      ],
+      "score": 5,
+      "why": [
+        "grand finals",
+        "grand finals",
+        "-skin"
+      ],
+      "summary": "",
+      "published": "2026-11-24T20:20:28.000Z"
+    },
+    {
       "alertedAt": "2026-11-23T19:05:28.304Z",
       "level": "possible",
       "scene": "Marvel Rivals",
