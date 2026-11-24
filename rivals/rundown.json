@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T13:25:23.314Z",
+  "generatedAt": "2026-11-24T14:20:31.354Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -28,6 +28,17 @@
           "why": [
             "grand finals",
             "grand finals"
+          ]
+        },
+        {
+          "title": "LEGO 67023 Jeff the Land Shark from Marvel Rivals revealed!",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEZVSTktNWdSNWg0VThJYi00UlNBVFRNRm1Fd21XeDk1YmlzMkdBOTkyMXMxRFVTZ3NyQ2ZqWEtPRzhrbGMtZ3Z5b19qcnZhTVFEVkxJVVBBTy1TRkpYQjkxQzFBbVl3Vkx3LXppbXRkcldKUld0QWp2WGxwdEZQVjRvdk9YcWptSEJJU1NjWGlmY1hx?oc=5",
+          "source": "Google News: Rivals rosters (Jay's Brick Blog)",
+          "published": "2026-11-24T14:09:34.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "revealed"
           ]
         },
         {
