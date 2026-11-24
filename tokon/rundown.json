@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T22:00:28.555Z",
+  "generatedAt": "2026-11-24T23:00:32.218Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Marvel Tōkon joins Evo Japan 2027’s seven-game fight card",
@@ -34,10 +34,10 @@
           ]
         },
         {
-          "title": "Marvel Tokon Makes Evo Debut at Evo Japan 2027",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OYUp4aGdVNDlnR2xVRWVSekVDbHhNSmFSSGRCZUpmUEZ0bk94MFdMYmgzZkxVSlpqZjNBMFdkNkJ5LTNmTVFlUU5qTjhDaWZDbVllUFQ2bDFHMzdTWHk1ZFRHMERIWlktVkZ0LTFDMHYwVWJHUTRBMGVPLXBxbDA?oc=5",
-          "source": "Google News: Tokon (Siliconera)",
-          "published": "2026-11-24T17:00:00.000Z",
+          "title": "Evo Japan 2027 Adds Marvel Tokon: Fighting Souls",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YYU1kSmNpVnVUYUJUR0JrNzZDSWFiSVg1M0lvZ0RmRkwzZFlmaFFIZFVYekRPdFdON1pNYWVubFpYekQtUzhUb0ZfbDVfdFMtWldCVXdxamoyRkhKb3lvblVNT2cyVk5xLVQ0YVJ5TnU0X0cxZmdwb3pUMkJ2Zw?oc=5",
+          "source": "Google News: Tokon (Wisevoter)",
+          "published": "2026-11-24T21:06:45.000Z",
           "score": 7,
           "level": "breaking",
           "why": [
@@ -45,15 +45,6 @@
             "evo",
             "evo japan"
           ]
-        },
-        {
-          "title": "Marvel Tokon stories",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PLWVOWnhRTHU5NUtsSGtQSGhqRHJ2c0hOemNxckdwdmxZQk4xemRtNzA2WHUzaFpMVWhWY3c4azR3VmxPcUNfRVBwcVRlS3JBdWhTcmN0MUkwVFZvMlQtSmprT2w?oc=5",
-          "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
-          "published": "2026-11-23T22:13:15.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
