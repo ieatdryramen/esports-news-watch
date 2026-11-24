@@ -1,3 +1,24 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "alertedAt": "2026-11-24T14:50:30.935Z",
+      "level": "breaking",
+      "scene": "Marvel Tokon",
+      "title": "Marvel Tōkon joins Evo Japan 2027’s seven-game fight card",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kMXo0NEVIODR4NE80ZDRiR2VTWkNaSjB0aF9pQ0tqM2NFaGtFbHI3OGRfcE1WaTVPVE9IU2ZMdThaLWFxdkNF?oc=5",
+      "source": "Google News: Tokon (Digg)",
+      "outlets": [
+        "Digg"
+      ],
+      "score": 10,
+      "why": [
+        "joins",
+        "evo",
+        "evo",
+        "evo japan"
+      ],
+      "summary": "",
+      "published": "2026-11-24T12:03:43.000Z"
+    }
+  ]
 }
