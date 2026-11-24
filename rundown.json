@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T01:00:23.328Z",
+  "generatedAt": "2026-11-24T02:00:24.074Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 10,
       "stories": [
         {
           "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
@@ -29,18 +29,6 @@
           "why": [
             "bench*",
             "g2"
-          ]
-        },
-        {
-          "title": "CS2 PGL Major Singapore 2026 - All participating teams, format, prize pool, and more",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUtjTVBLdVhEYklVVjA4eUVaWEpGSW9HYWZGTmFndGhwNk9Gc2hadU5nX2steE04MzQ5MzZOUTlENHhnYXdaNFFVaVNJdkZHWU1PRTVFQzJQeTlJY2FESlNoSWlBa21kT3R2OWFKZlRXV3BoMko1d3BqRklYNmZSd3c3MGx6T2hJQjI2T1B5TVQyUzNveEJBOWhYVHBpUkFjY3lMcjB1QmJsaXM3YTFEUGFSdWJ6ZS10akdTR0p4bl9zenEyS0JENFhiRQ?oc=5",
-          "source": "Google News: CS2 (GosuGamers)",
-          "published": "2026-11-23T10:42:23.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "prize pool",
-            "pgl"
           ]
         },
         {
@@ -113,18 +101,6 @@
           "why": []
         },
         {
-          "title": "ESL Pro League Season 24 - EPL CS2 - Schedule and Results",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cXpzUXZVTUhUY0FmSWlBUFRpUTRWUlVEcHVVdGltSkpfUWdnZU4tVGZQNGlGRkphRnVXYVJtMnRxZEQ2SW9GNjVGM1A4WjVRYkxleWxhbVNFSVVSX0ViUmJEY2lrYnVhRVJYQi1zUDdRSnZxTU9Hakw2Zw?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-23T05:46:32.000Z",
-          "score": 1,
-          "level": null,
-          "why": [
-            "esl pro league",
-            "-schedule"
-          ]
-        },
-        {
           "title": "PGL Major Singapore 2026 Tournament Betting Preview & Guide – MOUZ Can Deliver in Singapore",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmxLbVI3NzR6Q2hsUUtpMjlnbzFBM2xCUEp0M2FCMzJvMzRQVHd2SEozUnM4RnhSdDQyVWNxdWtHMlZHWXc4OWN2SVFmWWNwSWdLSWljVEQ1VXZlSTdiZzB3dXZNdGRSYXlfYi1Ud1ZYMlFJNkljYUV2SmFTSm5Wd2pvZ0hRZWl1UG85b0xFVHJEZEx0Vkp1WGhWellpTHFG?oc=5",
           "source": "Google News: CS2 (Freetips.com)",
@@ -190,7 +166,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Street Fighter 6 returns to the Esports World Cup 2027",
@@ -202,6 +178,15 @@
           "why": [
             "returns"
           ]
+        },
+        {
+          "title": "Victrix gives their Pro KO Leverless Fight Stick a Street Fighter II inspired look as Capcom Cup 12 kicks off!",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmZHZm9WSTZyVXNsOXBIcFBxRzNXNGlDYjd4S29WMjlsMVZzdGsyUXZqbVhKNnRKWGx2eG1EaWZPUEhOaGxmbVFkTXNLaGgwODB0QV9DS3hkSlJtZlpmVlNqN0Vzb1lia3dMemtHWUM3M0hmN1FpbzMzeTY1aXVUczNrcVRlYWRYMFFFUUhqcElsaEloOEw3ZklJVHpaQlJsdXZwYmdheHlMMkh1aUUzTHZSOWdIb3VMdVNXTkp0M1FkQk1MTWR0bXV1R1VYNXE3LUpkT3NuWkrSAd4BQVVfeXFMTmktWGpNVF9CSG9mb2poaW53QUxXclp1RXEzZFRiMTVNZ2JxZXBoM3RIX1QtMl9VVF80a21SUXFuZGxNR2tVdVZlTzJfSXVCS3lQQU50NU1uSGFrbXZwWUN6WHdzUHN0bjF4UTdqZDhjM1JpaVVzV1JEcXh0aUQ1Tk1CaW9WM1hpWkhVelliaGVjVXBUQWl0M1Z2a0JCYkVWRWtYaUFYcjdiTnZmbWZQcXNBN2NRVm9tQkJaUEcwU1ZLajJ0ZnRBREJOV1F2c0xucWZZdmttQWVLdEdkNF9B?oc=5",
+          "source": "Google News: Street Fighter (Gaming Age)",
+          "published": "2026-11-23T16:24:55.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
