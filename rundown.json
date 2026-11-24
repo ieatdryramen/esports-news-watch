@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:00:27.705Z",
+  "generatedAt": "2026-11-24T16:00:27.206Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -93,7 +93,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Wildcard send FaZe to 0-1 pool",
@@ -120,14 +120,14 @@
           ]
         },
         {
-          "title": "Team Liquid Licenses Its Brand to Friendly Fire, Turning 22 Gaming Cafes Into Team Liquid Cafes",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3B1eThVN3ViMTNRR05FeTVIZHFLVEJVdmgybXVxR2dwaWJJX1ZidDhINTl0ajQzMUY0UWxiM3VSZHdUbzRXM2JSNzVSdWxRbkJkUG1WaDlYaEpYck04QWtSRGwtd2YtbkpSNlh3QWpYX1VZalF0U2lXQUdIc2Z1SDQwWkFzcFYt?oc=5",
+          "title": "PGL Singapore Major 2026 Stage 1 Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcXRzQkZDTjVTYWZyRWU3aW56cmZDemRQTlJ2aWxacUNFdVpuQlBxQ1NxS2N0cS14NlkwY0NIYXBEYjZrRnRteEplaVM5UkpZTWQxYzlXY2xxaE16Qnp3Nk50cWt0LVRLdjc5aVhlczc3REFyVnc?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-24T12:54:28.000Z",
+          "published": "2026-11-24T14:09:59.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "liquid"
+            "pgl"
           ]
         },
         {
@@ -139,17 +139,6 @@
           "level": null,
           "why": [
             "faze"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore Stage 1 Day 1 highlights",
-          "url": "https://www.hltv.org/news/46032/pgl-major-singapore-stage-1-day-1-highlights",
-          "source": "HLTV news",
-          "published": "2026-11-24T12:34:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -172,6 +161,17 @@
           "level": null,
           "why": [
             "faze"
+          ]
+        },
+        {
+          "title": "Singapore Major Stage 1 day 2 matchups set",
+          "url": "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
+          "source": "HLTV news",
+          "published": "2026-11-24T12:55:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid*"
           ]
         },
         {
@@ -211,10 +211,10 @@
           "why": []
         },
         {
-          "title": "CS2 player count drops for 9th consecutive month",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnNUVDBvcnlqeHI0S3A4aC0xMFU5RFdVYUh4b0wzcVRBRjFtU3hjRGJDWVVxS0Y5R1p6Z3pUWGswMUtycEt5QkF4XzUxdG9sUkFzeDBLTlNNeTVoUl8zYlVUeVBRX2dKXzF2SHR5U0tUNEJWZ1I5TnVUQm1BcHlxSS1NVjZ0djQ?oc=5",
-          "source": "Google News: CS2 (Dust2.us)",
-          "published": "2026-11-23T18:03:17.000Z",
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-23T17:20:38.000Z",
           "score": 1,
           "level": null,
           "why": []
