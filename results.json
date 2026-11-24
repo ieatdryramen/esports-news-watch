@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:35:16.546Z",
+  "generatedAt": "2026-11-24T01:05:19.594Z",
   "source": "start.gg",
   "completed": [
     {
@@ -187,53 +187,6 @@
         {
           "placement": 7,
           "name": "Sami P"
-        }
-      ]
-    },
-    {
-      "eventId": "1714612",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "降龙D3 2026 · 上海丨Dueling Dragons Dojo 2026 Shanghai",
-      "event": "Guilty Gear -Strive- (AWT: Gold)",
-      "entrants": 64,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T01:00:00.000Z",
-      "endAt": "2026-11-22T13:00:00.000Z",
-      "url": "https://www.start.gg/tournament/d3-2026-dueling-dragons-dojo-2026-shanghai/event/guilty-gear-strive-awt-gold-3",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "T Y"
-        },
-        {
-          "placement": 2,
-          "name": "LAGLESS | 御傍 GOBOU"
-        },
-        {
-          "placement": 3,
-          "name": "MetallicCake"
-        },
-        {
-          "placement": 4,
-          "name": "PAR | Daru_I-No"
-        },
-        {
-          "placement": 5,
-          "name": "宇佐见芙兰"
-        },
-        {
-          "placement": 5,
-          "name": "景明"
-        },
-        {
-          "placement": 7,
-          "name": "Alfred Wilson"
-        },
-        {
-          "placement": 7,
-          "name": "安乐"
         }
       ]
     },
@@ -475,19 +428,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1758825",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "TNS Guilty Gear Strive #232",
-      "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 105,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-24T01:00:00.000Z",
-      "endAt": "2026-11-24T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-232/event/guilty-gear-strive-crossplay"
-    },
     {
       "eventId": "1705746",
       "scene": "legacyfgc",
