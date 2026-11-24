@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:50:40.970Z",
+  "generatedAt": "2026-11-24T01:50:20.785Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -11,11 +11,11 @@
     },
     {
       "name": "Dexerto",
-      "ok": false,
+      "ok": true,
       "skipped": false,
-      "items": 0,
-      "newest": null,
-      "error": "HTTP 429"
+      "items": 50,
+      "newest": "2026-11-23T19:37:37.000Z",
+      "error": null
     },
     {
       "name": "esports.gg",
@@ -54,7 +54,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-24T06:23:00.000Z",
+      "newest": "2026-11-24T09:25:00.000Z",
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "ok": true,
       "skipped": false,
       "items": 25,
-      "newest": "2026-11-24T00:00:00.000Z",
+      "newest": "2026-11-24T01:00:00.000Z",
       "error": null
     },
     {
