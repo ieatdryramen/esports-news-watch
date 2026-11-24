@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T06:00:29.668Z",
+  "generatedAt": "2026-11-24T07:00:28.409Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Imperial upset HEROIC in Singapore Major opener",
@@ -40,6 +40,18 @@
           "why": [
             "bench*",
             "g2"
+          ]
+        },
+        {
+          "title": "Liquid annihilate BC.Game 13-1 in Singapore",
+          "url": "https://www.hltv.org/news/46037/liquid-annihilate-bcgame-13-1-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-24T06:47:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "record*",
+            "liquid"
           ]
         },
         {
@@ -106,9 +118,9 @@
         },
         {
           "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://esports.gg/news/counter-strike-2/cs2-pgl-singapore-major-2026-stage-1-overview-results/",
-          "source": "esports.gg",
-          "published": "2026-11-23T14:34:42.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-23T17:20:38.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -118,15 +130,6 @@
           "url": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
           "source": "HLTV news",
           "published": "2026-11-23T14:17:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 46",
-          "url": "https://www.hltv.org/news/46029/short-news-week-46",
-          "source": "HLTV news",
-          "published": "2026-11-23T12:44:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -199,15 +202,13 @@
           ]
         },
         {
-          "title": "Street Fighter 6 returns to the Esports World Cup 2027",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91UFJwZjl4a2E2WC13OHdPUVJ3cHRWa2hQWUZzblY4eUt3TWxvbDNUUkdaNk92dmVQNm5QUVBxN296T3A1WEhzWjJHdmVVeWlrLWNSTTJ5ZHhqRlhkUXZoSmhhWFNsWFhLc1JR?oc=5",
-          "source": "Google News: Street Fighter (Tbreak UAE)",
-          "published": "2026-11-23T06:12:00.000Z",
-          "score": 3,
+          "title": "Street Fighter 6 to Join the Esports World Cup 2027 Lineup",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlJ2UGZuUWRGTFJJUFZfeFRrVHZwaUlLX3lXWlZYUU5hU05WX2VCMUtyNUN2dGI3VWw0ZFNjX0tGOWdzOXNITVFBcHdjclBiRzJIUTlNbEhRQVlGM0dRUWVsWHJsTzhnSWtGT0FzYkh3MXhvZGt5aWNzRHVkbmRYakZsQy0xMjJqM2JfSV9FV0JBQTVD0gGcAUFVX3lxTE4zQnJTTnVGN28yRG9JMzVlb3c4dE83S2lBdTU5bkMwX1IxY19xMjdLa0lMUnVjajRBNnNKejdrekdDdnVOeXdfVXprX3lVV2ZMR09FTVRhWjJ3Z3ZuVmVfZXJlTml6c1JmZmdhNzZuUlpWXzRMTWQyNHhVYVRRUjBhQTJPTXRJMlJ3Z1kzWUJQMlZ4bktZMllUbkxXdw?oc=5",
+          "source": "Google News: Street Fighter (Players)",
+          "published": "2026-11-23T10:25:49.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "returns"
-          ]
+          "why": []
         }
       ]
     },
