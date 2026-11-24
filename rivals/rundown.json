@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T23:50:22.376Z",
+  "generatedAt": "2026-11-24T00:50:40.359Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026: Grand Finals Marvel Rivals — News | Natus Vincere",
@@ -30,6 +30,15 @@
             "grand finals",
             "grand finals"
           ]
+        },
+        {
+          "title": "Marvel Rivals Previews New Login Screen and Lobby Animation for 2nd Anniversary",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObzZNSXlDRXNVYmluZHlqdzd3QnpyTHBRekRBMXJBcGhsWFJWa2UydGhpakZnZzhia1phMmlhcElxMU1nU25XNTZEcVBEQUM2elNBSkRtUUk0WEFmVlcySnF3TkpyRnJaYko2OHlWR3YwYnJFNy1wOFY0ZFJENm4yQjlMUl9iQXNDRm1INm0tNDhBdnc?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-24T00:09:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals Invites Orgs to Apply for Ignite 2027 Partnership",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:50:23.009Z",
+  "generatedAt": "2026-11-24T00:50:40.970Z",
   "sources": [
     {
       "name": "Steam: Marvel Tokon (official news + patch notes)",
@@ -11,18 +11,18 @@
     },
     {
       "name": "Dexerto",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "items": 50,
-      "newest": "2026-11-23T19:37:37.000Z",
-      "error": null
+      "items": 0,
+      "newest": null,
+      "error": "HTTP 429"
     },
     {
       "name": "esports.gg",
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-23T22:59:43.000Z",
+      "newest": "2026-11-23T23:52:58.000Z",
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-23T23:09:05.000Z",
+      "newest": "2026-11-24T00:26:50.000Z",
       "error": null
     },
     {
@@ -62,14 +62,14 @@
       "ok": true,
       "skipped": false,
       "items": 25,
-      "newest": "2026-11-23T20:00:00.000Z",
+      "newest": "2026-11-24T00:00:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Tokon",
       "ok": true,
       "skipped": false,
-      "items": 4,
+      "items": 2,
       "newest": "2026-11-23T21:30:00.000Z",
       "error": null
     },
@@ -86,14 +86,14 @@
       "ok": true,
       "skipped": false,
       "items": 4,
-      "newest": "2026-11-23T16:40:54.000Z",
+      "newest": "2026-11-23T22:40:54.000Z",
       "error": null
     },
     {
       "name": "Google News: EventHubs/Dot/Dashfight",
       "ok": true,
       "skipped": false,
-      "items": 3,
+      "items": 2,
       "newest": "2026-11-23T22:13:15.000Z",
       "error": null
     },
