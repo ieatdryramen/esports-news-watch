@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-11-24T05:00:27.725Z",
+  "generatedAt": "2026-11-24T06:00:29.668Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 9,
+      "storyCount": 12,
       "stories": [
+        {
+          "title": "Imperial upset HEROIC in Singapore Major opener",
+          "url": "https://www.hltv.org/news/46034/imperial-upset-heroic-in-singapore-major-opener",
+          "source": "HLTV news",
+          "published": "2026-11-24T05:01:00.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "upset"
+          ]
+        },
         {
           "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
           "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
@@ -65,6 +76,26 @@
           ]
         },
         {
+          "title": "Lynn Vision prevail as 9z losing streak continues",
+          "url": "https://www.hltv.org/news/46036/lynn-vision-prevail-as-9z-losing-streak-continues",
+          "source": "HLTV news",
+          "published": "2026-11-24T05:22:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "pgl*"
+          ]
+        },
+        {
+          "title": "saadzin: \"Against EU teams it's a chess game\"",
+          "url": "https://www.hltv.org/news/46035/saadzin-against-eu-teams-its-a-chess-game",
+          "source": "HLTV news",
+          "published": "2026-11-24T05:31:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "CS2 player count drops for 9th consecutive month",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnNUVDBvcnlqeHI0S3A4aC0xMFU5RFdVYUh4b0wzcVRBRjFtU3hjRGJDWVVxS0Y5R1p6Z3pUWGswMUtycEt5QkF4XzUxdG9sUkFzeDBLTlNNeTVoUl8zYlVUeVBRX2dKXzF2SHR5U0tUNEJWZ1I5TnVUQm1BcHlxSS1NVjZ0djQ?oc=5",
           "source": "Google News: CS2 (Dust2.us)",
@@ -104,7 +135,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
@@ -116,17 +147,6 @@
           "why": [
             "evo",
             "evo japan"
-          ]
-        },
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-23T05:15:25.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
           ]
         },
         {
