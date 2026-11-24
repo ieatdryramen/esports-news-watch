@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T03:00:26.776Z",
+  "generatedAt": "2026-11-24T04:00:24.698Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
@@ -29,6 +29,17 @@
           "why": [
             "bench*",
             "g2"
+          ]
+        },
+        {
+          "title": "On the ground at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-24T03:46:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -93,8 +104,20 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Tekken (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
         {
           "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
@@ -141,8 +164,20 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
         {
           "title": "Street Fighter 6 returns to the Esports World Cup 2027",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91UFJwZjl4a2E2WC13OHdPUVJ3cHRWa2hQWUZzblY4eUt3TWxvbDNUUkdaNk92dmVQNm5QUVBxN296T3A1WEhzWjJHdmVVeWlrLWNSTTJ5ZHhqRlhkUXZoSmhhWFNsWFhLc1JR?oc=5",
@@ -157,23 +192,41 @@
       ]
     },
     {
-      "scene": "Melee",
+      "scene": "Legacy FGC",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Legacy FGC (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
       "storyCount": 2,
       "stories": [
         {
-          "title": "World's best Yoshi competitor releases new tier list for Super Smash Bros. Melee in 2026",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMXJSR0JSSEtielR3dzFHZjloWWt5TXBYb3hwaVR4RUlqUjg4N0ZpOWVxTUNkWGNUSmk1V0JlMDJ0aVV6ZTBrSC1xR20tQkxDWFp1aTZpWmNoSXJDeUtPMkp5SG1OeFNrQWMycGx3ZjctZTNJRjVaVnYyaUM?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-23T14:17:31.000Z",
+          "title": "How to deal with illusions in Dota 2",
+          "url": "https://esports.gg/guides/dota-2/how-to-deal-with-illusions-dota-2/",
+          "source": "esports.gg",
+          "published": "2026-11-24T03:15:47.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Happy 25th Birthday, Melee | Super Smash Brothers Melee",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3M2VXMGdSTlBST0RhZFIzbUZLUDFwQlIxTS1BTE5IbnUyRHJzdmtqMHRjSlRITzdFMlR2NFFXNEQ1by1BYnAwZ21nelN2WUhnTW1VZkxxbnk0SWhBNlN2eHdRaXZiVU56SlJyRXpGeTNVTWFj?oc=5",
-          "source": "Google News: Melee (Know Your Meme)",
-          "published": "2026-11-23T03:31:37.000Z",
+          "title": "BLAST Slam IX Dota 2 players stats - Age & Country",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdjlRRlVjZ0JCbFZfSmVLcHgtX0g0SlZaTkJJdTRiM2JHOGFWczVMM1puUGRwc1VId3FaUEtkQzVDZW1fTlpEbFR6ODRQdEwxUVpFckZ1RXlMaEE1SmdLaUpSUFFON0Qyekc3Rg?oc=5",
+          "source": "Google News: Dota (Esports Charts)",
+          "published": "2026-11-23T18:16:20.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -181,14 +234,14 @@
       ]
     },
     {
-      "scene": "Dota",
+      "scene": "Melee",
       "storyCount": 1,
       "stories": [
         {
-          "title": "BLAST Slam IX Dota 2 players stats - Age & Country",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdjlRRlVjZ0JCbFZfSmVLcHgtX0g0SlZaTkJJdTRiM2JHOGFWczVMM1puUGRwc1VId3FaUEtkQzVDZW1fTlpEbFR6ODRQdEwxUVpFckZ1RXlMaEE1SmdLaUpSUFFON0Qyekc3Rg?oc=5",
-          "source": "Google News: Dota (Esports Charts)",
-          "published": "2026-11-23T18:16:20.000Z",
+          "title": "World's best Yoshi competitor releases new tier list for Super Smash Bros. Melee in 2026",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMXJSR0JSSEtielR3dzFHZjloWWt5TXBYb3hwaVR4RUlqUjg4N0ZpOWVxTUNkWGNUSmk1V0JlMDJ0aVV6ZTBrSC1xR20tQkxDWFp1aTZpWmNoSXJDeUtPMkp5SG1OeFNrQWMycGx3ZjctZTNJRjVaVnYyaUM?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-23T14:17:31.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -202,7 +255,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Legacy FGC",
     "CoD",
     "Quake",
     "Halo"
