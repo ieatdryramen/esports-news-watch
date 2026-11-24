@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:00:26.019Z",
+  "generatedAt": "2026-11-24T11:00:25.373Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -15,18 +15,6 @@
           "level": "possible",
           "why": [
             "upset"
-          ]
-        },
-        {
-          "title": "SunPayus opens up about early struggles in CS2, what didn't work in G2, and signing with FUT",
-          "url": "https://www.hltv.org/news/46025/sunpayus-opens-up-about-early-struggles-in-cs2-what-didnt-work-in-g2-and-signing-with-fut",
-          "source": "HLTV news",
-          "published": "2026-11-23T16:02:00.000Z",
-          "score": 4.5,
-          "level": null,
-          "why": [
-            "bench*",
-            "g2"
           ]
         },
         {
@@ -109,6 +97,24 @@
           ]
         },
         {
+          "title": "M80 extend 9z's woes to move into 1-1 pool",
+          "url": "https://www.hltv.org/news/46041/m80-extend-9zs-woes-to-move-into-1-1-pool",
+          "source": "HLTV news",
+          "published": "2026-11-24T10:36:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Chr1zN: \"It's the first time we have the pieces to push for a little more than just being at events\"",
+          "url": "https://www.hltv.org/news/46040/chr1zn-its-the-first-time-we-have-the-pieces-to-push-for-a-little-more-than-just-being-at-events",
+          "source": "HLTV news",
+          "published": "2026-11-24T10:24:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Short news: Week 46",
           "url": "https://www.hltv.org/news/46029/short-news-week-46",
           "source": "HLTV news",
@@ -122,53 +128,6 @@
           "url": "https://www.hltv.org/news/46035/saadzin-against-eu-teams-its-a-chess-game",
           "source": "HLTV news",
           "published": "2026-11-24T05:31:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "CS2 player count drops for 9th consecutive month",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnNUVDBvcnlqeHI0S3A4aC0xMFU5RFdVYUh4b0wzcVRBRjFtU3hjRGJDWVVxS0Y5R1p6Z3pUWGswMUtycEt5QkF4XzUxdG9sUkFzeDBLTlNNeTVoUl8zYlVUeVBRX2dKXzF2SHR5U0tUNEJWZ1I5TnVUQm1BcHlxSS1NVjZ0djQ?oc=5",
-          "source": "Google News: CS2 (Dust2.us)",
-          "published": "2026-11-23T18:03:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Tekken (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "NODWIN Gaming Arena at Hyderabad Comic Con brings BGMI, Tekken 8 and ₹30 lakh prize pool",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzBoSWRzMDh6Q081Rl9sNUZ3TEhfUFFYVHc3TWdQWjBtNUJLMEY2Q0szTVJ3bzd6Q3dlTklTejhXdUZDb0ZVSE1CaUM2dWcwLUFxam9OQ3F1ajFiTWRwRjlSR2dpVjMzTW9WNlNpeDVKUm52eUc5REUyblp4X2JYTUJKVUM3M2dQNTNtX0taYUNPLTlJdE96RHZOWXhRSHJ6MUpENlVCb1EySVRHdDFsS3RB0gG3AUFVX3lxTFAyS3FSSGEwUVh1LS1mNUx1Mkl4eEhBeGRsUGpJNVRUcTlTQmlDNWlYdXVuRlF3d3pYMHRtaHFibEJmZ29NaGQ2eThwS0gxbDRGOFliNE5nTzQ3SzhjQUVIaVZwaW1uLXoydUE1bmJ2OWJleWkzT1VYUmJvUFNYU2QxUW1yQmxpT1c3TENCSElwOUxHV2RtLTRfTnlNN2VCRmY5WGtGeTBGb05PdnQ4NDNzQ2Y4VDZOTQ?oc=5",
-          "source": "Google News: Tekken (News9live)",
-          "published": "2026-11-23T13:01:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "prize pool"
-          ]
-        },
-        {
-          "title": "NODWIN Gaming Arena to Feature BGMI, Tekken 8 and Chess",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SdIBmwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SQ?oc=5",
-          "source": "Google News: Tekken (SMEStreet)",
-          "published": "2026-11-23T10:40:37.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -199,6 +158,35 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Tekken (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "NODWIN Gaming Arena at Hyderabad Comic Con brings BGMI, Tekken 8 and ₹30 lakh prize pool",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzBoSWRzMDh6Q081Rl9sNUZ3TEhfUFFYVHc3TWdQWjBtNUJLMEY2Q0szTVJ3bzd6Q3dlTklTejhXdUZDb0ZVSE1CaUM2dWcwLUFxam9OQ3F1ajFiTWRwRjlSR2dpVjMzTW9WNlNpeDVKUm52eUc5REUyblp4X2JYTUJKVUM3M2dQNTNtX0taYUNPLTlJdE96RHZOWXhRSHJ6MUpENlVCb1EySVRHdDFsS3RB0gG3AUFVX3lxTFAyS3FSSGEwUVh1LS1mNUx1Mkl4eEhBeGRsUGpJNVRUcTlTQmlDNWlYdXVuRlF3d3pYMHRtaHFibEJmZ29NaGQ2eThwS0gxbDRGOFliNE5nTzQ3SzhjQUVIaVZwaW1uLXoydUE1bmJ2OWJleWkzT1VYUmJvUFNYU2QxUW1yQmxpT1c3TENCSElwOUxHV2RtLTRfTnlNN2VCRmY5WGtGeTBGb05PdnQ4NDNzQ2Y4VDZOTQ?oc=5",
+          "source": "Google News: Tekken (News9live)",
+          "published": "2026-11-23T13:01:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "prize pool"
+          ]
         }
       ]
     },
