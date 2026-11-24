@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-24T14:20:32.432Z",
+  "generatedAt": "2026-11-24T15:20:21.190Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Marvel Tōkon joins Evo Japan 2027’s seven-game fight card",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kMXo0NEVIODR4NE80ZDRiR2VTWkNaSjB0aF9pQ0tqM2NFaGtFbHI3OGRfcE1WaTVPVE9IU2ZMdThaLWFxdkNF?oc=5",
+          "source": "Google News: Tokon (Digg)",
+          "published": "2026-11-24T12:03:43.000Z",
+          "score": 10,
+          "level": "breaking",
+          "why": [
+            "joins",
+            "evo",
+            "evo",
+            "evo japan"
+          ]
+        },
         {
           "title": "Marvel Tokon stories",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PLWVOWnhRTHU5NUtsSGtQSGhqRHJ2c0hOemNxckdwdmxZQk4xemRtNzA2WHUzaFpMVWhWY3c4azR3VmxPcUNfRVBwcVRlS3JBdWhTcmN0MUkwVFZvMlQtSmprT2w?oc=5",
