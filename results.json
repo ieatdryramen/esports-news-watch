@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:05:17.698Z",
+  "generatedAt": "2026-11-24T20:35:30.097Z",
   "source": "start.gg",
   "completed": [
     {
@@ -240,6 +240,19 @@
   ],
   "live": [],
   "upcoming": [
+    {
+      "eventId": "1760867",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Cashbox #49: Blitzbox Edition",
+      "event": "Melee Singles",
+      "entrants": 66,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-25T23:00:00.000Z",
+      "endAt": "2026-11-26T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-cashbox-49-blitzbox-edition/event/melee-singles"
+    },
     {
       "eventId": "1705746",
       "scene": "legacyfgc",
