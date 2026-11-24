@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T08:00:26.619Z",
+  "generatedAt": "2026-11-24T09:00:27.516Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 13,
       "stories": [
         {
           "title": "Imperial upset HEROIC in Singapore Major opener",
@@ -15,19 +15,6 @@
           "level": "possible",
           "why": [
             "upset"
-          ]
-        },
-        {
-          "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
-          "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
-          "source": "HLTV news",
-          "published": "2026-11-23T12:58:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "navi",
-            "g2*",
-            "furia*"
           ]
         },
         {
@@ -43,6 +30,18 @@
           ]
         },
         {
+          "title": "Wildcard send FaZe to 0-1 pool",
+          "url": "https://www.hltv.org/news/46038/wildcard-send-faze-to-0-1-pool",
+          "source": "HLTV news",
+          "published": "2026-11-24T08:01:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "won*",
+            "faze"
+          ]
+        },
+        {
           "title": "Liquid annihilate BC.Game 13-1 in Singapore",
           "url": "https://www.hltv.org/news/46037/liquid-annihilate-bcgame-13-1-in-singapore",
           "source": "HLTV news",
@@ -52,6 +51,17 @@
           "why": [
             "record*",
             "liquid"
+          ]
+        },
+        {
+          "title": "FaZe to play BC.Game as round 1 ends",
+          "url": "https://www.hltv.org/news/46039/faze-to-play-bcgame-as-round-1-ends",
+          "source": "HLTV news",
+          "published": "2026-11-24T08:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
@@ -124,70 +134,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "ztr's FOKUS loan ends",
-          "url": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
-          "source": "HLTV news",
-          "published": "2026-11-23T14:17:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Tekken (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "Katsuhiro Harada Shares the Pokémon He Hoped to See in Pokkén Tournament",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDdwSmlwT0NIai16V2JINTl3MlhzQllONlpLV0FBeGZNX3F0Z1hxcS1JckotYnZER1BjWmNzNDdsTmREQUg5V1NUT3g4MS1TZkRFcm9PeS1pMG8tYkUzRWF3Z1gtY3JRRUdVbHpNalFleWZvLTZ2QlVEUm9xS2RWbXdQMXJYOWI2V0FoSFFpbGFweEdUaml3ZHZyeE9QT0h6RDd1S21UVmxjQQ?oc=5",
-          "source": "Google News: Tekken (COGconnected)",
-          "published": "2026-11-23T08:38:39.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "harada"
-          ]
-        },
-        {
-          "title": "NODWIN Gaming Arena at Hyderabad Comic Con brings BGMI, Tekken 8 and ₹30 lakh prize pool",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzBoSWRzMDh6Q081Rl9sNUZ3TEhfUFFYVHc3TWdQWjBtNUJLMEY2Q0szTVJ3bzd6Q3dlTklTejhXdUZDb0ZVSE1CaUM2dWcwLUFxam9OQ3F1ajFiTWRwRjlSR2dpVjMzTW9WNlNpeDVKUm52eUc5REUyblp4X2JYTUJKVUM3M2dQNTNtX0taYUNPLTlJdE96RHZOWXhRSHJ6MUpENlVCb1EySVRHdDFsS3RB0gG3AUFVX3lxTFAyS3FSSGEwUVh1LS1mNUx1Mkl4eEhBeGRsUGpJNVRUcTlTQmlDNWlYdXVuRlF3d3pYMHRtaHFibEJmZ29NaGQ2eThwS0gxbDRGOFliNE5nTzQ3SzhjQUVIaVZwaW1uLXoydUE1bmJ2OWJleWkzT1VYUmJvUFNYU2QxUW1yQmxpT1c3TENCSElwOUxHV2RtLTRfTnlNN2VCRmY5WGtGeTBGb05PdnQ4NDNzQ2Y4VDZOTQ?oc=5",
-          "source": "Google News: Tekken (News9live)",
-          "published": "2026-11-23T13:01:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "prize pool"
-          ]
-        },
-        {
-          "title": "NODWIN Gaming Arena to Feature BGMI, Tekken 8 and Chess",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SdIBmwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SQ?oc=5",
-          "source": "Google News: Tekken (SMEStreet)",
-          "published": "2026-11-23T10:40:37.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
@@ -206,6 +158,53 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmZHZm9WSTZyVXNsOXBIcFBxRzNXNGlDYjd4S29WMjlsMVZzdGsyUXZqbVhKNnRKWGx2eG1EaWZPUEhOaGxmbVFkTXNLaGgwODB0QV9DS3hkSlJtZlpmVlNqN0Vzb1lia3dMemtHWUM3M0hmN1FpbzMzeTY1aXVUczNrcVRlYWRYMFFFUUhqcElsaEloOEw3ZklJVHpaQlJsdXZwYmdheHlMMkh1aUUzTHZSOWdIb3VMdVNXTkp0M1FkQk1MTWR0bXV1R1VYNXE3LUpkT3NuWkrSAd4BQVVfeXFMTmktWGpNVF9CSG9mb2poaW53QUxXclp1RXEzZFRiMTVNZ2JxZXBoM3RIX1QtMl9VVF80a21SUXFuZGxNR2tVdVZlTzJfSXVCS3lQQU50NU1uSGFrbXZwWUN6WHdzUHN0bjF4UTdqZDhjM1JpaVVzV1JEcXh0aUQ1Tk1CaW9WM1hpWkhVelliaGVjVXBUQWl0M1Z2a0JCYkVWRWtYaUFYcjdiTnZmbWZQcXNBN2NRVm9tQkJaUEcwU1ZLajJ0ZnRBREJOV1F2c0xucWZZdmttQWVLdEdkNF9B?oc=5",
           "source": "Google News: Street Fighter (Gaming Age)",
           "published": "2026-11-23T16:24:55.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Street Fighter 6 to Join the Esports World Cup 2027 Lineup",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlJ2UGZuUWRGTFJJUFZfeFRrVHZwaUlLX3lXWlZYUU5hU05WX2VCMUtyNUN2dGI3VWw0ZFNjX0tGOWdzOXNITVFBcHdjclBiRzJIUTlNbEhRQVlGM0dRUWVsWHJsTzhnSWtGT0FzYkh3MXhvZGt5aWNzRHVkbmRYakZsQy0xMjJqM2JfSV9FV0JBQTVD0gGcAUFVX3lxTE4zQnJTTnVGN28yRG9JMzVlb3c4dE83S2lBdTU5bkMwX1IxY19xMjdLa0lMUnVjajRBNnNKejdrekdDdnVOeXdfVXprX3lVV2ZMR09FTVRhWjJ3Z3ZuVmVfZXJlTml6c1JmZmdhNzZuUlpWXzRMTWQyNHhVYVRRUjBhQTJPTXRJMlJ3Z1kzWUJQMlZ4bktZMllUbkxXdw?oc=5",
+          "source": "Google News: Street Fighter (Players)",
+          "published": "2026-11-23T10:25:49.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Tekken (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "NODWIN Gaming Arena at Hyderabad Comic Con brings BGMI, Tekken 8 and ₹30 lakh prize pool",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzBoSWRzMDh6Q081Rl9sNUZ3TEhfUFFYVHc3TWdQWjBtNUJLMEY2Q0szTVJ3bzd6Q3dlTklTejhXdUZDb0ZVSE1CaUM2dWcwLUFxam9OQ3F1ajFiTWRwRjlSR2dpVjMzTW9WNlNpeDVKUm52eUc5REUyblp4X2JYTUJKVUM3M2dQNTNtX0taYUNPLTlJdE96RHZOWXhRSHJ6MUpENlVCb1EySVRHdDFsS3RB0gG3AUFVX3lxTFAyS3FSSGEwUVh1LS1mNUx1Mkl4eEhBeGRsUGpJNVRUcTlTQmlDNWlYdXVuRlF3d3pYMHRtaHFibEJmZ29NaGQ2eThwS0gxbDRGOFliNE5nTzQ3SzhjQUVIaVZwaW1uLXoydUE1bmJ2OWJleWkzT1VYUmJvUFNYU2QxUW1yQmxpT1c3TENCSElwOUxHV2RtLTRfTnlNN2VCRmY5WGtGeTBGb05PdnQ4NDNzQ2Y4VDZOTQ?oc=5",
+          "source": "Google News: Tekken (News9live)",
+          "published": "2026-11-23T13:01:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "prize pool"
+          ]
+        },
+        {
+          "title": "NODWIN Gaming Arena to Feature BGMI, Tekken 8 and Chess",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SdIBmwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SQ?oc=5",
+          "source": "Google News: Tekken (SMEStreet)",
+          "published": "2026-11-23T10:40:37.000Z",
           "score": 1,
           "level": null,
           "why": []
