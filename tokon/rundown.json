@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T20:05:31.540Z",
+  "generatedAt": "2026-11-24T21:00:35.939Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 5,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Marvel Tōkon joins Evo Japan 2027’s seven-game fight card",
@@ -51,15 +51,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PLWVOWnhRTHU5NUtsSGtQSGhqRHJ2c0hOemNxckdwdmxZQk4xemRtNzA2WHUzaFpMVWhWY3c4azR3VmxPcUNfRVBwcVRlS3JBdWhTcmN0MUkwVFZvMlQtSmprT2w?oc=5",
           "source": "Google News: EventHubs/Dot/Dashfight (EventHubs)",
           "published": "2026-11-23T22:13:15.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Every Marvel Fighting Game In Order, From X-Men: Children Of The Atom To Marvel Tōkon",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdFY1Rksyc2tGV1hjN2pKQndXdkVncW1Vb2xIR1lSblktNDhBbGVURDJhZ3lybmFUeUdfSFR1ZGVOLWxIUmx2SjJjeE80ZXY0NG53TDBYQktlM3JTYi1KNGtZekxUc2dDaDNjVV9jSEI4cTNudzgxa19acVQ3MTRuZ2RmWWhJZThRRXJxSnRoWUt2UWltb2tKcjZNM2ZHQldMR3ZRMEJNOVlJTmR5Z2I1R3MwN2RVS3dwRmRLdmZDWGluV2E3V1BaWWZZczlKSTRkcVhJTURfUElNQQ?oc=5",
-          "source": "Google News: Tokon (GameFragger.com)",
-          "published": "2026-11-23T20:11:00.000Z",
           "score": 1,
           "level": null,
           "why": []
