@@ -1,22 +1,111 @@
 {
-  "generatedAt": "2026-11-24T12:00:25.561Z",
+  "generatedAt": "2026-11-24T13:00:29.271Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "CS2",
-      "storyCount": 14,
+      "scene": "Street Fighter",
+      "storyCount": 3,
       "stories": [
         {
-          "title": "Imperial upset HEROIC in Singapore Major opener",
-          "url": "https://www.hltv.org/news/46034/imperial-upset-heroic-in-singapore-major-opener",
-          "source": "HLTV news",
-          "published": "2026-11-24T05:01:00.000Z",
-          "score": 5,
-          "level": "possible",
+          "title": "EVO Japan 2027: All Games Announced",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
+          "source": "Google News: Street Fighter (Kakuchopurei)",
+          "published": "2026-11-24T12:49:49.000Z",
+          "score": 7,
+          "level": "breaking",
           "why": [
-            "upset"
+            "announced",
+            "evo",
+            "evo japan"
           ]
         },
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "Victrix gives their Pro KO Leverless Fight Stick a Street Fighter II inspired look as Capcom Cup 12 kicks off!",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmZHZm9WSTZyVXNsOXBIcFBxRzNXNGlDYjd4S29WMjlsMVZzdGsyUXZqbVhKNnRKWGx2eG1EaWZPUEhOaGxmbVFkTXNLaGgwODB0QV9DS3hkSlJtZlpmVlNqN0Vzb1lia3dMemtHWUM3M0hmN1FpbzMzeTY1aXVUczNrcVRlYWRYMFFFUUhqcElsaEloOEw3ZklJVHpaQlJsdXZwYmdheHlMMkh1aUUzTHZSOWdIb3VMdVNXTkp0M1FkQk1MTWR0bXV1R1VYNXE3LUpkT3NuWkrSAd4BQVVfeXFMTmktWGpNVF9CSG9mb2poaW53QUxXclp1RXEzZFRiMTVNZ2JxZXBoM3RIX1QtMl9VVF80a21SUXFuZGxNR2tVdVZlTzJfSXVCS3lQQU50NU1uSGFrbXZwWUN6WHdzUHN0bjF4UTdqZDhjM1JpaVVzV1JEcXh0aUQ1Tk1CaW9WM1hpWkhVelliaGVjVXBUQWl0M1Z2a0JCYkVWRWtYaUFYcjdiTnZmbWZQcXNBN2NRVm9tQkJaUEcwU1ZLajJ0ZnRBREJOV1F2c0xucWZZdmttQWVLdEdkNF9B?oc=5",
+          "source": "Google News: Street Fighter (Gaming Age)",
+          "published": "2026-11-23T16:24:55.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Legacy FGC",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "EVO Japan 2027: All Games Announced",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
+          "source": "Google News: Legacy FGC (Kakuchopurei)",
+          "published": "2026-11-24T12:49:49.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "announced",
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Legacy FGC (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Tekken (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "NODWIN Gaming Arena at Hyderabad Comic Con brings BGMI, Tekken 8 and ₹30 lakh prize pool",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMktxUkhhMFFYdS0tZjVMdTJJeHhIQXhkbFBqSTVUVHE5U0JpQzVpWHV1bkZRd3d6WDB0bWhxYmxCZmdvTWhkNnk4cEtIMWw0RjhZYjROZ080N0s4Y0FFSGlWcGltbi16MnVBNW5idjliZXlpM09VWFJib1BTWFNkMVFtckJsaU9XN0xDQkhJcDlMR1dkbS00X055TTdlQkZmOVhrRnkwRm9OT3Z0ODQzc0NmOFQ2Tk3SAbcBQVVfeXFMUDJLcVJIYTBRWHUtLWY1THUySXh4SEF4ZGxQakk1VFRxOVNCaUM1aVh1dW5GUXd3elgwdG1ocWJsQmZnb01oZDZ5OHBLSDFsNEY4WWI0TmdPNDdLOGNBRUhpVnBpbW4tejJ1QTVuYnY5YmV5aTNPVVhSYm9QU1hTZDFRbXJCbGlPVzdMQ0JISXA5TEdXZG0tNF9OeU03ZUJGZjlYa0Z5MEZvTk92dDg0M3NDZjhUNk5N?oc=5",
+          "source": "Google News: Tekken (News9live)",
+          "published": "2026-11-23T13:01:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "prize pool"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "CS2",
+      "storyCount": 15,
+      "stories": [
         {
           "title": "Wildcard send FaZe to 0-1 pool",
           "url": "https://www.hltv.org/news/46038/wildcard-send-faze-to-0-1-pool",
@@ -42,6 +131,39 @@
           ]
         },
         {
+          "title": "Team Liquid Licenses Its Brand to Friendly Fire, Turning 22 Gaming Cafes Into Team Liquid Cafes",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3B1eThVN3ViMTNRR05FeTVIZHFLVEJVdmgybXVxR2dwaWJJX1ZidDhINTl0ajQzMUY0UWxiM3VSZHdUbzRXM2JSNzVSdWxRbkJkUG1WaDlYaEpYck04QWtSRGwtd2YtbkpSNlh3QWpYX1VZalF0U2lXQUdIc2Z1SDQwWkFzcFYt?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-24T12:54:28.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "liquid"
+          ]
+        },
+        {
+          "title": "Twistzz leads the way in FaZe's drubbing of BCG",
+          "url": "https://www.hltv.org/news/46044/twistzz-leads-the-way-in-fazes-drubbing-of-bcg",
+          "source": "HLTV news",
+          "published": "2026-11-24T12:53:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "Spirit top Esports Charts’ pre-Major popularity ranking",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1hUN3J5cG0zLTc3Qll1YTRNVU5ROFJUXzEyVXNhLUhoNUtGUFh0VGEySEFEdFo0aV85VXBUdjFsUHNqbG1HbWpZdjhmTXFQYlFOdTh0ZV9sdHJYVXczT1d0d2l6dXpqN3kyWTVnRk45S09ZZ3l0Q2tocjVRaWx3cQ?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-24T12:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "spirit"
+          ]
+        },
+        {
           "title": "FaZe to play BC.Game as round 1 ends",
           "url": "https://www.hltv.org/news/46039/faze-to-play-bcgame-as-round-1-ends",
           "source": "HLTV news",
@@ -50,17 +172,6 @@
           "level": null,
           "why": [
             "faze"
-          ]
-        },
-        {
-          "title": "On the ground at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-24T03:46:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -75,14 +186,14 @@
           ]
         },
         {
-          "title": "Esports Luxury: How to take a trip to the Singapore PGL Major to the next level",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZQMkRuYW82UEhtNUJ6ajVnMndpMjdWWWltZk5YTk1FRVFBM1o0YjBUTGY0RDY3MmZnYkNBS085Mm1IUFMyMGRiOVlseExZT2NwUmtnNlJSY01kV3ByU3pPVkVtN2JCN2hBSFF5ZUM0RG4yLVRfbm84Zy13cURXcll0c1V4TXpKRDFZSlBPT28zS3NRU1hGMEwwNzRHTXRXSXh5cW9XWFZqaXlRYXRXSmozZHppalpkNDhmN3hya0w?oc=5",
-          "source": "Google News: CS2 (Luxury Lifestyle Magazine)",
-          "published": "2026-11-23T12:32:17.000Z",
-          "score": 3,
+          "title": "Singapore Major Stage 1 day 2 matchups set",
+          "url": "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
+          "source": "HLTV news",
+          "published": "2026-11-24T12:55:00.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "pgl"
+            "liquid*"
           ]
         },
         {
@@ -122,96 +233,24 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "saadzin: \"Against EU teams it's a chess game\"",
-          "url": "https://www.hltv.org/news/46035/saadzin-against-eu-teams-its-a-chess-game",
-          "source": "HLTV news",
-          "published": "2026-11-24T05:31:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "Victrix gives their Pro KO Leverless Fight Stick a Street Fighter II inspired look as Capcom Cup 12 kicks off!",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmZHZm9WSTZyVXNsOXBIcFBxRzNXNGlDYjd4S29WMjlsMVZzdGsyUXZqbVhKNnRKWGx2eG1EaWZPUEhOaGxmbVFkTXNLaGgwODB0QV9DS3hkSlJtZlpmVlNqN0Vzb1lia3dMemtHWUM3M0hmN1FpbzMzeTY1aXVUczNrcVRlYWRYMFFFUUhqcElsaEloOEw3ZklJVHpaQlJsdXZwYmdheHlMMkh1aUUzTHZSOWdIb3VMdVNXTkp0M1FkQk1MTWR0bXV1R1VYNXE3LUpkT3NuWkrSAd4BQVVfeXFMTmktWGpNVF9CSG9mb2poaW53QUxXclp1RXEzZFRiMTVNZ2JxZXBoM3RIX1QtMl9VVF80a21SUXFuZGxNR2tVdVZlTzJfSXVCS3lQQU50NU1uSGFrbXZwWUN6WHdzUHN0bjF4UTdqZDhjM1JpaVVzV1JEcXh0aUQ1Tk1CaW9WM1hpWkhVelliaGVjVXBUQWl0M1Z2a0JCYkVWRWtYaUFYcjdiTnZmbWZQcXNBN2NRVm9tQkJaUEcwU1ZLajJ0ZnRBREJOV1F2c0xucWZZdmttQWVLdEdkNF9B?oc=5",
-          "source": "Google News: Street Fighter (Gaming Age)",
-          "published": "2026-11-23T16:24:55.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Tekken (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "NODWIN Gaming Arena at Hyderabad Comic Con brings BGMI, Tekken 8 and ₹30 lakh prize pool",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMktxUkhhMFFYdS0tZjVMdTJJeHhIQXhkbFBqSTVUVHE5U0JpQzVpWHV1bkZRd3d6WDB0bWhxYmxCZmdvTWhkNnk4cEtIMWw0RjhZYjROZ080N0s4Y0FFSGlWcGltbi16MnVBNW5idjliZXlpM09VWFJib1BTWFNkMVFtckJsaU9XN0xDQkhJcDlMR1dkbS00X055TTdlQkZmOVhrRnkwRm9OT3Z0ODQzc0NmOFQ2Tk3SAbcBQVVfeXFMUDJLcVJIYTBRWHUtLWY1THUySXh4SEF4ZGxQakk1VFRxOVNCaUM1aVh1dW5GUXd3elgwdG1ocWJsQmZnb01oZDZ5OHBLSDFsNEY4WWI0TmdPNDdLOGNBRUhpVnBpbW4tejJ1QTVuYnY5YmV5aTNPVVhSYm9QU1hTZDFRbXJCbGlPVzdMQ0JISXA5TEdXZG0tNF9OeU03ZUJGZjlYa0Z5MEZvTk92dDg0M3NDZjhUNk5N?oc=5",
-          "source": "Google News: Tekken (News9live)",
-          "published": "2026-11-23T13:01:46.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "prize pool"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Legacy FGC (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Liquid, OG, Xtreme, Aurora extend stays at BLAST Slam IX",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ctd3BBbWxlRVc5ZFNoVXBuZDY2QXMwVkxpOVpGU01xZ21Ka3R3dm1EdzduZnRMbUY0QzN0WWU1NUVORlN0NmdxajlzZTc3UnB3Nnh6T1Y4c2o2b1FKdWdSZHRNTWg4SGlVNHJCVWUxQVF5YVJrT3ZZSlZZVmt2Z0FSb0d5bHcxQzZfWGZha3hUNzFX?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-24T12:19:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "og"
+          ]
+        },
         {
           "title": "How to deal with illusions in Dota 2",
           "url": "https://esports.gg/guides/dota-2/how-to-deal-with-illusions-dota-2/",
