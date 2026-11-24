@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-24T16:00:27.206Z",
+  "generatedAt": "2026-11-24T17:00:25.858Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Street Fighter",
       "storyCount": 3,
       "stories": [
+        {
+          "title": "Evo Japan 2027 Tournament Lineup Revealed",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yN2IwbWNybmxyR0xIYkZ0MkVOaFczczR5cFFZQklmaHhGelBFVFlycFZNRUl4b0FrSXZwcGVRWUFSVmg2alBFQkRjT3NFa191Ym5BalhkRWZsUHA4ZVNKUjE5NE0yRE9jalhZdG9zQmc?oc=5",
+          "source": "Google News: Street Fighter (The Outerhaven)",
+          "published": "2026-11-24T16:04:35.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "revealed",
+            "evo",
+            "evo japan"
+          ]
+        },
         {
           "title": "EVO Japan 2027: All Games Announced",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
@@ -30,22 +43,26 @@
             "evo",
             "evo japan"
           ]
-        },
-        {
-          "title": "Victrix gives their Pro KO Leverless Fight Stick a Street Fighter II inspired look as Capcom Cup 12 kicks off!",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmZHZm9WSTZyVXNsOXBIcFBxRzNXNGlDYjd4S29WMjlsMVZzdGsyUXZqbVhKNnRKWGx2eG1EaWZPUEhOaGxmbVFkTXNLaGgwODB0QV9DS3hkSlJtZlpmVlNqN0Vzb1lia3dMemtHWUM3M0hmN1FpbzMzeTY1aXVUczNrcVRlYWRYMFFFUUhqcElsaEloOEw3ZklJVHpaQlJsdXZwYmdheHlMMkh1aUUzTHZSOWdIb3VMdVNXTkp0M1FkQk1MTWR0bXV1R1VYNXE3LUpkT3NuWkrSAd4BQVVfeXFMTmktWGpNVF9CSG9mb2poaW53QUxXclp1RXEzZFRiMTVNZ2JxZXBoM3RIX1QtMl9VVF80a21SUXFuZGxNR2tVdVZlTzJfSXVCS3lQQU50NU1uSGFrbXZwWUN6WHdzUHN0bjF4UTdqZDhjM1JpaVVzV1JEcXh0aUQ1Tk1CaW9WM1hpWkhVelliaGVjVXBUQWl0M1Z2a0JCYkVWRWtYaUFYcjdiTnZmbWZQcXNBN2NRVm9tQkJaUEcwU1ZLajJ0ZnRBREJOV1F2c0xucWZZdmttQWVLdEdkNF9B?oc=5",
-          "source": "Google News: Street Fighter (Gaming Age)",
-          "published": "2026-11-23T16:24:55.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "Evo Japan 2027 Tournament Lineup Revealed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2NrU1hZMjBNUkEwQlQ0dmI2OTBYV1J1SFRBYlFTUGFWUEh0UVc2aUZtSGwyRW5vUEVQaGZsbWc5ZEFidk1sTDRhVjAwNWU0dkJqMl84NjdjbERLSU5rV09lT1lVUlZ3YkhDNGtKdlp5TTFYbVBfY3VKdmtUaWxFcQ?oc=5",
+          "source": "Google News: Legacy FGC (OpenCritic)",
+          "published": "2026-11-24T16:16:39.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "revealed",
+            "evo",
+            "evo japan"
+          ]
+        },
         {
           "title": "EVO Japan 2027: All Games Announced",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
@@ -75,8 +92,21 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
+        {
+          "title": "Evo Japan 2027 Tournament Lineup Revealed",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yN2IwbWNybmxyR0xIYkZ0MkVOaFczczR5cFFZQklmaHhGelBFVFlycFZNRUl4b0FrSXZwcGVRWUFSVmg2alBFQkRjT3NFa191Ym5BalhkRWZsUHA4ZVNKUjE5NE0yRE9jalhZdG9zQmc?oc=5",
+          "source": "Google News: Tekken (The Outerhaven)",
+          "published": "2026-11-24T16:04:35.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "revealed",
+            "evo",
+            "evo japan"
+          ]
+        },
         {
           "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
@@ -184,6 +214,15 @@
           "why": []
         },
         {
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-24T12:41:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "M80 extend 9z's woes to move into 1-1 pool",
           "url": "https://www.hltv.org/news/46041/m80-extend-9zs-woes-to-move-into-1-1-pool",
           "source": "HLTV news",
@@ -209,21 +248,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-23T17:20:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Team Liquid Cafe launches as 22 Friendly Fire venues rebrand in 10-year licensing deal",
@@ -234,17 +264,6 @@
           "level": null,
           "why": [
             "team liquid"
-          ]
-        },
-        {
-          "title": "Liquid, OG, Xtreme, Aurora extend stays at BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ctd3BBbWxlRVc5ZFNoVXBuZDY2QXMwVkxpOVpGU01xZ21Ka3R3dm1EdzduZnRMbUY0QzN0WWU1NUVORlN0NmdxajlzZTc3UnB3Nnh6T1Y4c2o2b1FKdWdSZHRNTWg4SGlVNHJCVWUxQVF5YVJrT3ZZSlZZVmt2Z0FSb0d5bHcxQzZfWGZha3hUNzFX?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-24T12:19:27.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
           ]
         },
         {
