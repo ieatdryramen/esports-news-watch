@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-24T12:55:24.555Z",
+      "level": "breaking",
+      "scene": "Street Fighter",
+      "title": "EVO Japan 2027: All Games Announced",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
+      "source": "Google News: Street Fighter (Kakuchopurei)",
+      "outlets": [
+        "Kakuchopurei"
+      ],
+      "score": 7,
+      "why": [
+        "announced",
+        "evo",
+        "evo japan"
+      ],
+      "summary": "",
+      "published": "2026-11-24T12:49:49.000Z"
+    },
+    {
       "alertedAt": "2026-11-24T05:05:20.364Z",
       "level": "possible",
       "scene": "CS2",
