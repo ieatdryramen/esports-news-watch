@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:35:15.517Z",
+  "generatedAt": "2026-11-24T05:05:20.364Z",
   "source": "start.gg",
   "completed": [
     {
@@ -426,7 +426,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1758825",
+      "scene": "legacyfgc",
+      "game": "Guilty Gear -Strive-",
+      "tournament": "TNS Guilty Gear Strive #232",
+      "event": "Guilty Gear Strive (Crossplay)",
+      "entrants": 105,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-24T01:00:00.000Z",
+      "endAt": "2026-11-24T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-232/event/guilty-gear-strive-crossplay"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1705746",
