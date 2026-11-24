@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:05:18.197Z",
+  "generatedAt": "2026-11-24T14:35:19.565Z",
   "source": "start.gg",
   "completed": [
     {
@@ -440,6 +440,19 @@
       "startAt": "2026-11-27T11:30:00.000Z",
       "endAt": "2026-11-29T19:00:00.000Z",
       "url": "https://www.start.gg/tournament/snk-world-championship-2026-2/event/lcq-the-king-of-fighters-xv"
+    },
+    {
+      "eventId": "1758032",
+      "scene": "legacyfgc",
+      "game": "The King of Fighters XV",
+      "tournament": "SNK World Championship 2026",
+      "event": "[Finals] The King of Fighters XV",
+      "entrants": 32,
+      "online": false,
+      "major": false,
+      "startAt": "2026-11-27T14:30:00.000Z",
+      "endAt": "2026-11-29T19:00:00.000Z",
+      "url": "https://www.start.gg/tournament/snk-world-championship-2026-2/event/finals-the-king-of-fighters-xv"
     },
     {
       "eventId": "1670560",
