@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:00:30.811Z",
+  "generatedAt": "2026-11-24T15:00:27.705Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -120,6 +120,17 @@
           ]
         },
         {
+          "title": "Team Liquid Licenses Its Brand to Friendly Fire, Turning 22 Gaming Cafes Into Team Liquid Cafes",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3B1eThVN3ViMTNRR05FeTVIZHFLVEJVdmgybXVxR2dwaWJJX1ZidDhINTl0ajQzMUY0UWxiM3VSZHdUbzRXM2JSNzVSdWxRbkJkUG1WaDlYaEpYck04QWtSRGwtd2YtbkpSNlh3QWpYX1VZalF0U2lXQUdIc2Z1SDQwWkFzcFYt?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-24T12:54:28.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "liquid"
+          ]
+        },
+        {
           "title": "Twistzz leads the way in FaZe's drubbing of BCG",
           "url": "https://www.hltv.org/news/46044/twistzz-leads-the-way-in-fazes-drubbing-of-bcg",
           "source": "HLTV news",
@@ -164,15 +175,13 @@
           ]
         },
         {
-          "title": "PGL Major Singapore 2026: Favorites and teams to watch",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RRlYxZWNnS0RXUDh0ZV85bVhpNDA3RTQ1VW1IdF83NzdBWXRodTVNaktyUWZZS0gyWFBodlF0Yy1FSzNxOWU4enFkQnNBY01aOVhxS3RNZUdnNWxxYkxSVFFaTlpFRFF3QkV4NngtRQ?oc=5",
-          "source": "Google News: CS2 (Esports Charts)",
-          "published": "2026-11-23T14:08:52.000Z",
-          "score": 3,
+          "title": "Short news: Week 46",
+          "url": "https://www.hltv.org/news/46029/short-news-week-46",
+          "source": "HLTV news",
+          "published": "2026-11-24T14:06:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "pgl"
-          ]
+          "why": []
         },
         {
           "title": "M80 extend 9z's woes to move into 1-1 pool",
@@ -188,15 +197,6 @@
           "url": "https://www.hltv.org/news/46040/chr1zn-its-the-first-time-we-have-the-pieces-to-push-for-a-little-more-than-just-being-at-events",
           "source": "HLTV news",
           "published": "2026-11-24T10:24:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 46",
-          "url": "https://www.hltv.org/news/46029/short-news-week-46",
-          "source": "HLTV news",
-          "published": "2026-11-24T09:57:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -223,8 +223,19 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Team Liquid Cafe launches as 22 Friendly Fire venues rebrand in 10-year licensing deal",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sbks2NE15S01adDZPQ0NyVkdaRHF3TjVBMC04Szh0Q1VTNEZhNFhvYnE4NVRKQ0ExMy1FRm94MnNZVjluV0lnU0ZJcUFFMXdZdjYzVkVvanZ4NkIzQmpsWkZpNnFxQ2FhemtwNjBUWQ?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-24T14:25:44.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "team liquid"
+          ]
+        },
         {
           "title": "Liquid, OG, Xtreme, Aurora extend stays at BLAST Slam IX",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ctd3BBbWxlRVc5ZFNoVXBuZDY2QXMwVkxpOVpGU01xZ21Ka3R3dm1EdzduZnRMbUY0QzN0WWU1NUVORlN0NmdxajlzZTc3UnB3Nnh6T1Y4c2o2b1FKdWdSZHRNTWg4SGlVNHJCVWUxQVF5YVJrT3ZZSlZZVmt2Z0FSb0d5bHcxQzZfWGZha3hUNzFX?oc=5",
@@ -258,22 +269,13 @@
     },
     {
       "scene": "Melee",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "Super Smash Bros. Melee turns 25 and its competitive scene is still alive",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFRfYWVKYjFXeWladkE3NFM0NFl6SURVXzZ4Zm9uamtqR2NnV3Q5ZU8za0UyZ3U2WUFVYk5ESEJCYVZGUjdIZEppWDcxenRPV1pZYVh2OGNQOF9hbDFxd0xGRTJFQWVnNXVpaWdKN0dmbnRoSTZocW1obEJKQi1kTkVpTTdxWUdqeE9TekFmS1pMQ3ZJNUJKbVFyeW1KYlMxNGlWcE00Q29TMDFmUDcxazF3?oc=5",
           "source": "Google News: Melee (Foro3D)",
           "published": "2026-11-24T12:24:33.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "World's best Yoshi competitor releases new tier list for Super Smash Bros. Melee in 2026",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMXJSR0JSSEtielR3dzFHZjloWWt5TXBYb3hwaVR4RUlqUjg4N0ZpOWVxTUNkWGNUSmk1V0JlMDJ0aVV6ZTBrSC1xR20tQkxDWFp1aTZpWmNoSXJDeUtPMkp5SG1OeFNrQWMycGx3ZjctZTNJRjVaVnYyaUM?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-23T14:17:31.000Z",
           "score": 1,
           "level": null,
           "why": []
