@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T09:35:27.915Z",
+  "generatedAt": "2026-11-24T10:30:29.001Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026: Grand Finals MR players stats - Age & Country",
@@ -28,6 +28,17 @@
           "why": [
             "grand finals",
             "grand finals"
+          ]
+        },
+        {
+          "title": "A Sneak Peek At The First-Ever Marvel Rivals Lego Set Has Leaked",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XZEZJNEx2TWdPZ05MVWxVUFZZNTFrTVVLdXVibTdSZFJ1NXRlalBFNTZRMzRuMFUzNXBka0NpUERxZnRJNlpCdmtSTG02eVF3ZlYxZlljNG1XdzdrUk1CbDhpUVUtbmVUYkdMZkpNdGN3UU1RTkow?oc=5",
+          "source": "Google News: Rivals rosters (TheGamer)",
+          "published": "2026-11-24T09:40:26.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "leaked"
           ]
         },
         {
