@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:35:19.565Z",
+  "generatedAt": "2026-11-24T15:05:19.553Z",
   "source": "start.gg",
   "completed": [
     {
@@ -375,53 +375,6 @@
         {
           "placement": 7,
           "name": "the smitch"
-        }
-      ]
-    },
-    {
-      "eventId": "1754231",
-      "scene": "legacyfgc",
-      "game": "The King of Fighters XV",
-      "tournament": "Legacy K.O.F. XV League Season 1 Finale (Edition 4)",
-      "event": "Legacy K.O.F. XV League Season 1 Finale (Edition 4)",
-      "entrants": 34,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T15:00:00.000Z",
-      "endAt": "2026-11-21T23:00:00.000Z",
-      "url": "https://www.start.gg/tournament/legacy-k-o-f-xv-league-season-1-finale-edition-4/event/legacy-k-o-f-xv-league-season-1-finale-edition-4",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Muz"
-        },
-        {
-          "placement": 2,
-          "name": "TUJ | TheUmarJamil"
-        },
-        {
-          "placement": 3,
-          "name": "Awais OP"
-        },
-        {
-          "placement": 4,
-          "name": "FoulTOX"
-        },
-        {
-          "placement": 5,
-          "name": "Babar The Killer"
-        },
-        {
-          "placement": 5,
-          "name": "Mohsin PAK FGC"
-        },
-        {
-          "placement": 7,
-          "name": "Ahmad butt"
-        },
-        {
-          "placement": 7,
-          "name": "Awais Honey"
         }
       ]
     }
