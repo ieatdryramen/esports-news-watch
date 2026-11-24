@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:05:30.028Z",
+  "generatedAt": "2026-11-24T19:05:29.747Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -14,7 +14,7 @@
       "ok": true,
       "skipped": false,
       "items": 50,
-      "newest": "2026-11-24T17:21:00.000Z",
+      "newest": "2026-11-24T18:49:59.000Z",
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-24T15:20:27.000Z",
+      "newest": "2026-11-24T18:50:21.000Z",
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-24T17:27:05.000Z",
+      "newest": "2026-11-24T18:47:16.000Z",
       "error": null
     },
     {
@@ -54,14 +54,14 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-25T01:45:00.000Z",
+      "newest": "2026-11-25T02:14:00.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals esports",
       "ok": true,
       "skipped": false,
-      "items": 8,
+      "items": 9,
       "newest": "2026-11-24T17:12:57.000Z",
       "error": null
     },
@@ -69,24 +69,24 @@
       "name": "Google News: Rivals patches",
       "ok": true,
       "skipped": false,
-      "items": 17,
-      "newest": "2026-11-24T16:38:21.000Z",
+      "items": 9,
+      "newest": "2026-11-24T17:49:06.000Z",
       "error": null
     },
     {
       "name": "Google News: Rivals rosters",
       "ok": true,
       "skipped": false,
-      "items": 4,
-      "newest": "2026-11-24T17:00:24.000Z",
+      "items": 6,
+      "newest": "2026-11-24T18:28:17.000Z",
       "error": null
     },
     {
       "name": "Google News: Sheep/Dot/Liquipedia",
       "ok": true,
       "skipped": false,
-      "items": 46,
-      "newest": "2026-11-24T18:04:27.000Z",
+      "items": 47,
+      "newest": "2026-11-24T18:44:05.000Z",
       "error": null
     },
     {
