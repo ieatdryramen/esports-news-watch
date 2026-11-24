@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T00:00:29.000Z",
+  "generatedAt": "2026-11-24T01:00:23.328Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 8,
+      "storyCount": 12,
       "stories": [
         {
           "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
@@ -32,6 +32,18 @@
           ]
         },
         {
+          "title": "CS2 PGL Major Singapore 2026 - All participating teams, format, prize pool, and more",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUtjTVBLdVhEYklVVjA4eUVaWEpGSW9HYWZGTmFndGhwNk9Gc2hadU5nX2steE04MzQ5MzZOUTlENHhnYXdaNFFVaVNJdkZHWU1PRTVFQzJQeTlJY2FESlNoSWlBa21kT3R2OWFKZlRXV3BoMko1d3BqRklYNmZSd3c3MGx6T2hJQjI2T1B5TVQyUzNveEJBOWhYVHBpUkFjY3lMcjB1QmJsaXM3YTFEUGFSdWJ6ZS10akdTR0p4bl9zenEyS0JENFhiRQ?oc=5",
+          "source": "Google News: CS2 (GosuGamers)",
+          "published": "2026-11-23T10:42:23.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "prize pool",
+            "pgl"
+          ]
+        },
+        {
           "title": "PGL Major Singapore 2026: Favorites and teams to watch",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RRlYxZWNnS0RXUDh0ZV85bVhpNDA3RTQ1VW1IdF83NzdBWXRodTVNaktyUWZZS0gyWFBodlF0Yy1FSzNxOWU4enFkQnNBY01aOVhxS3RNZUdnNWxxYkxSVFFaTlpFRFF3QkV4NngtRQ?oc=5",
           "source": "Google News: CS2 (Esports Charts)",
@@ -47,6 +59,17 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZQMkRuYW82UEhtNUJ6ajVnMndpMjdWWWltZk5YTk1FRVFBM1o0YjBUTGY0RDY3MmZnYkNBS085Mm1IUFMyMGRiOVlseExZT2NwUmtnNlJSY01kV3ByU3pPVkVtN2JCN2hBSFF5ZUM0RG4yLVRfbm84Zy13cURXcll0c1V4TXpKRDFZSlBPT28zS3NRU1hGMEwwNzRHTXRXSXh5cW9XWFZqaXlRYXRXSmozZHppalpkNDhmN3hya0w?oc=5",
           "source": "Google News: CS2 (Luxury Lifestyle Magazine)",
           "published": "2026-11-23T12:32:17.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026 CS2 players stats - Age & Country",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrdmFPQkIxWFlDdWpyQTBuaXVuMjhpVy02S0c1cDUyRDczUzFPaGZBWEpaNUNwOGhZOWtnQzRZVk5LT0N2WXJiS1cyekdQSjA1MjJFWTQ0d1pJLVlTLVZfRDVoYktTc2VkaDJodW5Cb19pYkNYb2JxREx3?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-23T04:17:21.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -88,6 +111,32 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "ESL Pro League Season 24 - EPL CS2 - Schedule and Results",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cXpzUXZVTUhUY0FmSWlBUFRpUTRWUlVEcHVVdGltSkpfUWdnZU4tVGZQNGlGRkphRnVXYVJtMnRxZEQ2SW9GNjVGM1A4WjVRYkxleWxhbVNFSVVSX0ViUmJEY2lrYnVhRVJYQi1zUDdRSnZxTU9Hakw2Zw?oc=5",
+          "source": "Google News: CS2 (Esports Charts)",
+          "published": "2026-11-23T05:46:32.000Z",
+          "score": 1,
+          "level": null,
+          "why": [
+            "esl pro league",
+            "-schedule"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore 2026 Tournament Betting Preview & Guide – MOUZ Can Deliver in Singapore",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmxLbVI3NzR6Q2hsUUtpMjlnbzFBM2xCUEp0M2FCMzJvMzRQVHd2SEozUnM4RnhSdDQyVWNxdWtHMlZHWXc4OWN2SVFmWWNwSWdLSWljVEQ1VXZlSTdiZzB3dXZNdGRSYXlfYi1Ud1ZYMlFJNkljYUV2SmFTSm5Wd2pvZ0hRZWl1UG85b0xFVHJEZEx0Vkp1WGhWellpTHFG?oc=5",
+          "source": "Google News: CS2 (Freetips.com)",
+          "published": "2026-11-23T20:03:53.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "mouz",
+            "pgl",
+            "-guide",
+            "-betting"
+          ]
         }
       ]
     },
