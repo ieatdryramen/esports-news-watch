@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-11-24T04:45:19.301Z",
+  "generatedAt": "2026-11-24T05:40:20.691Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
-        {
-          "title": "Marvel Rivals Ignite 2026: Grand Finals Marvel Rivals — News | Natus Vincere",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Hd2lPanItT1FoNWVFU01SaF9oeEN5eEt2N1lPb2I5SmtnUUxMaGZvRXVuRk8tNXR1WGI0VE0ydU53RVZ2NFZIb0RKX3FJV3VrVmJBRG15ZkpjN1NnWFV2VHh2cw?oc=5",
-          "source": "Google News: Rivals esports (Natus Vincere)",
-          "published": "2026-11-23T05:30:34.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "grand finals",
-            "grand finals",
-            "natus vincere"
-          ]
-        },
         {
           "title": "Marvel Rivals Ignite 2026: Grand Finals MR players stats - Age & Country",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMk1SQWVjUkJiTTd0NWs3UXlSMEkyWGIwVUtKWHhJMmFfUUpUbkpXeEdNNnFDR2RwbzRPUXdCeHB3bVh2QlJXREVZWndta3YyZEJPbFNQcVBJeW1Rbzh5N3pnSm1xZEREU053Y0ZKU3NBdm4yQjg1UGdnZjlZZlpCaDZuOUV6MVRQRFE?oc=5",
@@ -32,19 +19,22 @@
           ]
         },
         {
+          "title": "Marvel Rivals Ignite 2026 Grand Finals: Facing FlyQuest",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON3JnUXZadmhRX0p0THpSS1lMV1RwMC1YbWxjVTA5Z0ZreG45UnJhZC1kMEs5d1JXVGlZY09zaml2Y0kwM0plejR3N0EtT3dXZ1hrc1ZWbF9XdDhqVno2N2s4ZTYwY1ZwcDN0SFNCdFctaWxiRGNyR2JXempENVJXbQ?oc=5",
+          "source": "Google News: Rivals esports (Natus Vincere)",
+          "published": "2026-11-23T13:11:54.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "grand finals",
+            "grand finals"
+          ]
+        },
+        {
           "title": "Marvel Rivals Previews New Login Screen and Lobby Animation for 2nd Anniversary",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObzZNSXlDRXNVYmluZHlqdzd3QnpyTHBRekRBMXJBcGhsWFJWa2UydGhpakZnZzhia1phMmlhcElxMU1nU25XNTZEcVBEQUM2elNBSkRtUUk0WEFmVlcySnF3TkpyRnJaYko2OHlWR3YwYnJFNy1wOFY0ZFJENm4yQjlMUl9iQXNDRm1INm0tNDhBdnc?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-24T00:09:41.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Adds Hacker Costumes for Loki, Scarlet Witch and Moon Knight",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUJxOERQam9NT0x3cVhWeTYxd3lPTlp4MHBLYmZiemNlUHRZdm90VFJIek1JU2E3am5DYlhic05MUTQxZ2RiSld1MXMyajU2ZTNHNkM1aTJ0MW92cXpfVlpEN2dXMG5uRFVGRFlmelVFajkwZkhmTnRiWWY4ZW1CYTVR?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-23T18:21:50.000Z",
           "score": 1,
           "level": null,
           "why": []
