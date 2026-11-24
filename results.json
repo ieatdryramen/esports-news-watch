@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:05:26.799Z",
+  "generatedAt": "2026-11-24T23:35:15.527Z",
   "source": "start.gg",
   "completed": [
     {
@@ -246,7 +246,7 @@
       "game": "Tekken 8",
       "tournament": "TNS TEKKEN 8 #143",
       "event": "Tekken 8",
-      "entrants": 109,
+      "entrants": 131,
       "online": true,
       "major": false,
       "startAt": "2026-11-25T01:00:00.000Z",
@@ -259,7 +259,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "The Cashbox #49: Blitzbox Edition",
       "event": "Melee Singles",
-      "entrants": 87,
+      "entrants": 90,
       "online": true,
       "major": false,
       "startAt": "2026-11-25T23:00:00.000Z",
