@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T09:00:27.516Z",
+  "generatedAt": "2026-11-24T10:00:26.019Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 14,
       "stories": [
         {
           "title": "Imperial upset HEROIC in Singapore Major opener",
@@ -109,6 +109,15 @@
           ]
         },
         {
+          "title": "Short news: Week 46",
+          "url": "https://www.hltv.org/news/46029/short-news-week-46",
+          "source": "HLTV news",
+          "published": "2026-11-24T09:57:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "saadzin: \"Against EU teams it's a chess game\"",
           "url": "https://www.hltv.org/news/46035/saadzin-against-eu-teams-its-a-chess-game",
           "source": "HLTV news",
@@ -122,51 +131,6 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnNUVDBvcnlqeHI0S3A4aC0xMFU5RFdVYUh4b0wzcVRBRjFtU3hjRGJDWVVxS0Y5R1p6Z3pUWGswMUtycEt5QkF4XzUxdG9sUkFzeDBLTlNNeTVoUl8zYlVUeVBRX2dKXzF2SHR5U0tUNEJWZ1I5TnVUQm1BcHlxSS1NVjZ0djQ?oc=5",
           "source": "Google News: CS2 (Dust2.us)",
           "published": "2026-11-23T18:03:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-23T17:20:38.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "Victrix gives their Pro KO Leverless Fight Stick a Street Fighter II inspired look as Capcom Cup 12 kicks off!",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmZHZm9WSTZyVXNsOXBIcFBxRzNXNGlDYjd4S29WMjlsMVZzdGsyUXZqbVhKNnRKWGx2eG1EaWZPUEhOaGxmbVFkTXNLaGgwODB0QV9DS3hkSlJtZlpmVlNqN0Vzb1lia3dMemtHWUM3M0hmN1FpbzMzeTY1aXVUczNrcVRlYWRYMFFFUUhqcElsaEloOEw3ZklJVHpaQlJsdXZwYmdheHlMMkh1aUUzTHZSOWdIb3VMdVNXTkp0M1FkQk1MTWR0bXV1R1VYNXE3LUpkT3NuWkrSAd4BQVVfeXFMTmktWGpNVF9CSG9mb2poaW53QUxXclp1RXEzZFRiMTVNZ2JxZXBoM3RIX1QtMl9VVF80a21SUXFuZGxNR2tVdVZlTzJfSXVCS3lQQU50NU1uSGFrbXZwWUN6WHdzUHN0bjF4UTdqZDhjM1JpaVVzV1JEcXh0aUQ1Tk1CaW9WM1hpWkhVelliaGVjVXBUQWl0M1Z2a0JCYkVWRWtYaUFYcjdiTnZmbWZQcXNBN2NRVm9tQkJaUEcwU1ZLajJ0ZnRBREJOV1F2c0xucWZZdmttQWVLdEdkNF9B?oc=5",
-          "source": "Google News: Street Fighter (Gaming Age)",
-          "published": "2026-11-23T16:24:55.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Street Fighter 6 to Join the Esports World Cup 2027 Lineup",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlJ2UGZuUWRGTFJJUFZfeFRrVHZwaUlLX3lXWlZYUU5hU05WX2VCMUtyNUN2dGI3VWw0ZFNjX0tGOWdzOXNITVFBcHdjclBiRzJIUTlNbEhRQVlGM0dRUWVsWHJsTzhnSWtGT0FzYkh3MXhvZGt5aWNzRHVkbmRYakZsQy0xMjJqM2JfSV9FV0JBQTVD0gGcAUFVX3lxTE4zQnJTTnVGN28yRG9JMzVlb3c4dE83S2lBdTU5bkMwX1IxY19xMjdLa0lMUnVjajRBNnNKejdrekdDdnVOeXdfVXprX3lVV2ZMR09FTVRhWjJ3Z3ZuVmVfZXJlTml6c1JmZmdhNzZuUlpWXzRMTWQyNHhVYVRRUjBhQTJPTXRJMlJ3Z1kzWUJQMlZ4bktZMllUbkxXdw?oc=5",
-          "source": "Google News: Street Fighter (Players)",
-          "published": "2026-11-23T10:25:49.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -205,6 +169,33 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SdIBmwFBVV95cUxNek9saVI4dU9iZDBIUTBjcEp5dzhzNW5pWm04a191YVdCTGVYNUNkM0djRm11NlQ3eGtEYlNoNmh2a013TXoxbzRKemlfanhWR3pSMENuTWktZlZsWUpZMTBRSXoyNFRYNkhBT0ZSYU1ZOFBkMnBnX3hVLU9UVzJUc0RCdkJZQ1ZDSzRrRXplTkxrU1VQMmNxVEl2SQ?oc=5",
           "source": "Google News: Tekken (SMEStreet)",
           "published": "2026-11-23T10:40:37.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-24T02:14:54.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "Victrix gives their Pro KO Leverless Fight Stick a Street Fighter II inspired look as Capcom Cup 12 kicks off!",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmZHZm9WSTZyVXNsOXBIcFBxRzNXNGlDYjd4S29WMjlsMVZzdGsyUXZqbVhKNnRKWGx2eG1EaWZPUEhOaGxmbVFkTXNLaGgwODB0QV9DS3hkSlJtZlpmVlNqN0Vzb1lia3dMemtHWUM3M0hmN1FpbzMzeTY1aXVUczNrcVRlYWRYMFFFUUhqcElsaEloOEw3ZklJVHpaQlJsdXZwYmdheHlMMkh1aUUzTHZSOWdIb3VMdVNXTkp0M1FkQk1MTWR0bXV1R1VYNXE3LUpkT3NuWkrSAd4BQVVfeXFMTmktWGpNVF9CSG9mb2poaW53QUxXclp1RXEzZFRiMTVNZ2JxZXBoM3RIX1QtMl9VVF80a21SUXFuZGxNR2tVdVZlTzJfSXVCS3lQQU50NU1uSGFrbXZwWUN6WHdzUHN0bjF4UTdqZDhjM1JpaVVzV1JEcXh0aUQ1Tk1CaW9WM1hpWkhVelliaGVjVXBUQWl0M1Z2a0JCYkVWRWtYaUFYcjdiTnZmbWZQcXNBN2NRVm9tQkJaUEcwU1ZLajJ0ZnRBREJOV1F2c0xucWZZdmttQWVLdEdkNF9B?oc=5",
+          "source": "Google News: Street Fighter (Gaming Age)",
+          "published": "2026-11-23T16:24:55.000Z",
           "score": 1,
           "level": null,
           "why": []
