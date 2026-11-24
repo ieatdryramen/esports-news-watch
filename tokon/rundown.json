@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T16:15:21.525Z",
+  "generatedAt": "2026-11-24T17:10:26.930Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Marvel Tōkon joins Evo Japan 2027’s seven-game fight card",
@@ -15,6 +15,19 @@
           "level": "breaking",
           "why": [
             "joins",
+            "evo",
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "Marvel Tokon Makes Evo Debut at Evo Japan 2027",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OYUp4aGdVNDlnR2xVRWVSekVDbHhNSmFSSGRCZUpmUEZ0bk94MFdMYmgzZkxVSlpqZjNBMFdkNkJ5LTNmTVFlUU5qTjhDaWZDbVllUFQ2bDFHMzdTWHk1ZFRHMERIWlktVkZ0LTFDMHYwVWJHUTRBMGVPLXBxbDA?oc=5",
+          "source": "Google News: Tokon (Siliconera)",
+          "published": "2026-11-24T17:00:00.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
             "evo",
             "evo",
             "evo japan"

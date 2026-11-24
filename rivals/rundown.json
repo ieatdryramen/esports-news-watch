@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T16:15:20.382Z",
+  "generatedAt": "2026-11-24T17:10:26.042Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -51,6 +51,26 @@
           "why": [
             "leaked"
           ]
+        },
+        {
+          "title": "Marvel Rivals - Official Incursion Point Map Reveal Trailer",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDU5NHl0dVlWMlpqeDBwcFlmSDVraDFvcDdqTW1ub082LWItaUI5MU96VW5sY1AwSzBGbmczM0ZvQThPQVluX0NhaHJhY2ZuYy1JMkpIMTUyNjZLODdJeXZjMG9XdW83ZURneGdHbW9GUlA3alU4R0RtMm9JTndfc2FGcF9ZSDk3YXgyYkNpMHdqOFBCT0VMZmpXUW9vdw?oc=5",
+          "source": "Google News: Rivals patches (IGN India)",
+          "published": "2026-11-24T16:20:42.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "official"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Is Getting Its First-Ever LEGO Set and It’s Based on the Perfect Character",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTdhZ3M4V0RqOFRBTGh6VzNIcElvOWN2M0VsR0JqNE5UY3owRnY4R1hLSEE3VWRsSTRjNDV0RktRd253TXF0WjltcmxQR0hzSFZtVmU0UGJaZDhidV9sdkF6MkFTSExXY1pLNTRzLTF3cXh5Nkp6cGJXMTNQU3laM1NVSQ?oc=5",
+          "source": "Google News: Rivals rosters (ComicBook.com)",
+          "published": "2026-11-24T17:00:24.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Marvel Rivals Previews New Login Screen and Lobby Animation for 2nd Anniversary",

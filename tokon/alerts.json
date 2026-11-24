@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-24T17:10:26.676Z",
+      "level": "breaking",
+      "scene": "Marvel Tokon",
+      "title": "Marvel Tokon Makes Evo Debut at Evo Japan 2027",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OYUp4aGdVNDlnR2xVRWVSekVDbHhNSmFSSGRCZUpmUEZ0bk94MFdMYmgzZkxVSlpqZjNBMFdkNkJ5LTNmTVFlUU5qTjhDaWZDbVllUFQ2bDFHMzdTWHk1ZFRHMERIWlktVkZ0LTFDMHYwVWJHUTRBMGVPLXBxbDA?oc=5",
+      "source": "Google News: Tokon (Siliconera)",
+      "outlets": [
+        "Siliconera"
+      ],
+      "score": 7,
+      "why": [
+        "evo",
+        "evo",
+        "evo japan"
+      ],
+      "summary": "",
+      "published": "2026-11-24T17:00:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-24T14:50:30.935Z",
       "level": "breaking",
       "scene": "Marvel Tokon",
