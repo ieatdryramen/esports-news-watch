@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:55:18.106Z",
+  "generatedAt": "2026-11-24T19:50:22.085Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -159,7 +159,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 11,
+      "storyCount": 12,
       "stories": [
         {
           "title": "Wildcard send FaZe to 0-1 pool",
@@ -194,6 +194,17 @@
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "Team Liquid Licenses Its Brand to Friendly Fire, Turning 22 Gaming Cafes Into Team Liquid Cafes",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3B1eThVN3ViMTNRR05FeTVIZHFLVEJVdmgybXVxR2dwaWJJX1ZidDhINTl0ajQzMUY0UWxiM3VSZHdUbzRXM2JSNzVSdWxRbkJkUG1WaDlYaEpYck04QWtSRGwtd2YtbkpSNlh3QWpYX1VZalF0U2lXQUdIc2Z1SDQwWkFzcFYt?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-24T12:54:28.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "liquid"
           ]
         },
         {
@@ -280,7 +291,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 2,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Liquid Cafe launches as 22 Friendly Fire venues rebrand in 10-year licensing deal",
@@ -294,6 +305,17 @@
           ]
         },
         {
+          "title": "Liquid, OG, Xtreme, Aurora extend stays at BLAST Slam IX",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ctd3BBbWxlRVc5ZFNoVXBuZDY2QXMwVkxpOVpGU01xZ21Ka3R3dm1EdzduZnRMbUY0QzN0WWU1NUVORlN0NmdxajlzZTc3UnB3Nnh6T1Y4c2o2b1FKdWdSZHRNTWg4SGlVNHJCVWUxQVF5YVJrT3ZZSlZZVmt2Z0FSb0d5bHcxQzZfWGZha3hUNzFX?oc=5",
+          "source": "Google News: Dota (Field Level Media)",
+          "published": "2026-11-24T12:19:27.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "og"
+          ]
+        },
+        {
           "title": "How to deal with illusions in Dota 2",
           "url": "https://esports.gg/guides/dota-2/how-to-deal-with-illusions-dota-2/",
           "source": "esports.gg",
@@ -301,6 +323,17 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "Allied - Z10, November 26, 2026 - match stream, live broadcast - EPC S4 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnQ0dFgxb3lQZEV0cmtaYkpFZUNNLXhrRlNkdVh0TVoyLW9hYW9PWldIN3FvR1J4YTgwaktIQWxiOU9qeThrOEY3S0lpeWZjZ2xmNlBGVDJqb19hQkZkNldWWVVPVGNkM1lXRnBJWGhOVUk5SlpZX2JqWU5jdUEyMXQ2QzIwN0NwTUJqZDd2TXFDRllFcGhtc3IxbWRPWC1IaFFpRjRCbGd6dw?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-24T17:32:10.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
