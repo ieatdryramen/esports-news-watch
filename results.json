@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:35:15.082Z",
+  "generatedAt": "2026-11-24T11:05:16.802Z",
   "source": "start.gg",
   "completed": [
     {
@@ -422,53 +422,6 @@
         {
           "placement": 7,
           "name": "Awais Honey"
-        }
-      ]
-    },
-    {
-      "eventId": "1673800",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "Provisional",
-      "event": "Melee Singles",
-      "entrants": 72,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-21T12:00:00.000Z",
-      "endAt": "2026-11-21T21:00:00.000Z",
-      "url": "https://www.start.gg/tournament/provisional/event/melee-singles",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Cool beans | Pedlar"
-        },
-        {
-          "placement": 2,
-          "name": "paulbunyan45208"
-        },
-        {
-          "placement": 3,
-          "name": "Lima Bean"
-        },
-        {
-          "placement": 4,
-          "name": "Noto"
-        },
-        {
-          "placement": 5,
-          "name": "BFM | Aiika"
-        },
-        {
-          "placement": 5,
-          "name": "leighton"
-        },
-        {
-          "placement": 7,
-          "name": "WSLeo"
-        },
-        {
-          "placement": 7,
-          "name": "Chubb"
         }
       ]
     }
