@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T05:40:20.691Z",
+  "generatedAt": "2026-11-24T06:35:31.608Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026: Grand Finals MR players stats - Age & Country",
@@ -35,6 +35,15 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObzZNSXlDRXNVYmluZHlqdzd3QnpyTHBRekRBMXJBcGhsWFJWa2UydGhpakZnZzhia1phMmlhcElxMU1nU25XNTZEcVBEQUM2elNBSkRtUUk0WEFmVlcySnF3TkpyRnJaYko2OHlWR3YwYnJFNy1wOFY0ZFJENm4yQjlMUl9iQXNDRm1INm0tNDhBdnc?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-24T00:09:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Adds Hacker Costumes for Loki, Scarlet Witch and Moon Knight",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUJxOERQam9NT0x3cVhWeTYxd3lPTlp4MHBLYmZiemNlUHRZdm90VFJIek1JU2E3am5DYlhic05MUTQxZ2RiSld1MXMyajU2ZTNHNkM1aTJ0MW92cXpfVlpEN2dXMG5uRFVGRFlmelVFajkwZkhmTnRiWWY4ZW1CYTVR?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-23T18:21:50.000Z",
           "score": 1,
           "level": null,
           "why": []
