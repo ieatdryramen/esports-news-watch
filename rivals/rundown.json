@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T15:20:20.108Z",
+  "generatedAt": "2026-11-24T16:15:20.382Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -60,20 +60,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "All Marvel Rivals Ignite 2026 Grand Finals Twitch Drops and how to get them",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWFOTmc3V0o1SGxQQUdQX2JRM2JCUXZLWEVJREZkSWFLMXZuTWp2emY4RHFFTTZiVHM0NkpsMGFpa193NjJ1QkNQRWVzMzNZaWIwNEF6b1NPeG9nMTJrZmNCeG16MnVmUmNld3NKeDNsMXZNdGFsWDF4VTF6WXRnTUo5ZV9oUQ?oc=5",
-          "source": "Google News: Rivals esports (Dot Esports)",
-          "published": "2026-11-23T16:03:00.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "grand finals",
-            "grand finals",
-            "-twitch drops",
-            "-how to get"
-          ]
         }
       ]
     }
