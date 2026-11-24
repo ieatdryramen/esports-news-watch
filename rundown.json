@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T17:00:25.858Z",
+  "generatedAt": "2026-11-24T17:55:26.590Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Evo Japan 2027 Tournament Lineup Revealed",
@@ -33,6 +33,18 @@
           ]
         },
         {
+          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
+          "source": "Google News: Street Fighter (Shacknews)",
+          "published": "2026-11-24T17:45:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
           "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
           "source": "Google News: Street Fighter (Saiga NAK)",
@@ -48,7 +60,7 @@
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Evo Japan 2027 Tournament Lineup Revealed",
@@ -77,6 +89,18 @@
           ]
         },
         {
+          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
+          "source": "Google News: Legacy FGC (Shacknews)",
+          "published": "2026-11-24T17:45:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
           "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
           "source": "Google News: Legacy FGC (Saiga NAK)",
@@ -92,7 +116,7 @@
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Japan 2027 Tournament Lineup Revealed",
@@ -108,6 +132,18 @@
           ]
         },
         {
+          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
+          "source": "Google News: Tekken (Shacknews)",
+          "published": "2026-11-24T17:45:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
           "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
           "source": "Google News: Tekken (Saiga NAK)",
@@ -118,136 +154,6 @@
             "evo",
             "evo japan"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 12,
-      "stories": [
-        {
-          "title": "Wildcard send FaZe to 0-1 pool",
-          "url": "https://www.hltv.org/news/46038/wildcard-send-faze-to-0-1-pool",
-          "source": "HLTV news",
-          "published": "2026-11-24T08:01:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "won*",
-            "faze"
-          ]
-        },
-        {
-          "title": "Liquid annihilate BC.Game 13-1 in Singapore",
-          "url": "https://www.hltv.org/news/46037/liquid-annihilate-bcgame-13-1-in-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-24T06:47:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "record*",
-            "liquid"
-          ]
-        },
-        {
-          "title": "PGL Singapore Major 2026 Stage 1 Day 1 Recap",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcXRzQkZDTjVTYWZyRWU3aW56cmZDemRQTlJ2aWxacUNFdVpuQlBxQ1NxS2N0cS14NlkwY0NIYXBEYjZrRnRteEplaVM5UkpZTWQxYzlXY2xxaE16Qnp3Nk50cWt0LVRLdjc5aVhlczc3REFyVnc?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-24T14:09:59.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Twistzz leads the way in FaZe's drubbing of BCG",
-          "url": "https://www.hltv.org/news/46044/twistzz-leads-the-way-in-fazes-drubbing-of-bcg",
-          "source": "HLTV news",
-          "published": "2026-11-24T12:53:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Spirit top Esports Charts’ pre-Major popularity ranking",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1hUN3J5cG0zLTc3Qll1YTRNVU5ROFJUXzEyVXNhLUhoNUtGUFh0VGEySEFEdFo0aV85VXBUdjFsUHNqbG1HbWpZdjhmTXFQYlFOdTh0ZV9sdHJYVXczT1d0d2l6dXpqN3kyWTVnRk45S09ZZ3l0Q2tocjVRaWx3cQ?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-24T12:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "spirit"
-          ]
-        },
-        {
-          "title": "FaZe to play BC.Game as round 1 ends",
-          "url": "https://www.hltv.org/news/46039/faze-to-play-bcgame-as-round-1-ends",
-          "source": "HLTV news",
-          "published": "2026-11-24T08:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "Singapore Major Stage 1 day 2 matchups set",
-          "url": "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
-          "source": "HLTV news",
-          "published": "2026-11-24T12:55:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "liquid*"
-          ]
-        },
-        {
-          "title": "Short news: Week 46",
-          "url": "https://www.hltv.org/news/46029/short-news-week-46",
-          "source": "HLTV news",
-          "published": "2026-11-24T14:06:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-24T12:41:30.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "M80 extend 9z's woes to move into 1-1 pool",
-          "url": "https://www.hltv.org/news/46041/m80-extend-9zs-woes-to-move-into-1-1-pool",
-          "source": "HLTV news",
-          "published": "2026-11-24T10:36:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Chr1zN: \"It's the first time we have the pieces to push for a little more than just being at events\"",
-          "url": "https://www.hltv.org/news/46040/chr1zn-its-the-first-time-we-have-the-pieces-to-push-for-a-little-more-than-just-being-at-events",
-          "source": "HLTV news",
-          "published": "2026-11-24T10:24:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "saadzin: \"Against EU teams it's a chess game\"",
-          "url": "https://www.hltv.org/news/46035/saadzin-against-eu-teams-its-a-chess-game",
-          "source": "HLTV news",
-          "published": "2026-11-24T05:31:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -280,6 +186,43 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdjlRRlVjZ0JCbFZfSmVLcHgtX0g0SlZaTkJJdTRiM2JHOGFWczVMM1puUGRwc1VId3FaUEtkQzVDZW1fTlpEbFR6ODRQdEwxUVpFckZ1RXlMaEE1SmdLaUpSUFFON0Qyekc3Rg?oc=5",
           "source": "Google News: Dota (Esports Charts)",
           "published": "2026-11-23T18:16:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CS2",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "PGL Singapore Major 2026 Stage 1 Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcXRzQkZDTjVTYWZyRWU3aW56cmZDemRQTlJ2aWxacUNFdVpuQlBxQ1NxS2N0cS14NlkwY0NIYXBEYjZrRnRteEplaVM5UkpZTWQxYzlXY2xxaE16Qnp3Nk50cWt0LVRLdjc5aVhlczc3REFyVnc?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-24T14:09:59.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "Spirit top Esports Charts’ pre-Major popularity ranking",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1hUN3J5cG0zLTc3Qll1YTRNVU5ROFJUXzEyVXNhLUhoNUtGUFh0VGEySEFEdFo0aV85VXBUdjFsUHNqbG1HbWpZdjhmTXFQYlFOdTh0ZV9sdHJYVXczT1d0d2l6dXpqN3kyWTVnRk45S09ZZ3l0Q2tocjVRaWx3cQ?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-24T12:15:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "spirit"
+          ]
+        },
+        {
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-24T12:41:30.000Z",
           "score": 1,
           "level": null,
           "why": []
