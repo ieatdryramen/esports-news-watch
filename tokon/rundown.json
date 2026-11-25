@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T17:00:29.693Z",
+  "generatedAt": "2026-11-25T17:55:31.706Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 4,
+      "storyCount": 5,
       "stories": [
         {
           "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
@@ -30,6 +30,17 @@
             "evo",
             "evo",
             "evo japan"
+          ]
+        },
+        {
+          "title": "Maximilian Dood creates 'fun factor' tier list for Marvel Tokon: Fighting Souls",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVE1kaHRoaDU3dFFhdUpvOTF6c2s3T2lLaWwtbmZGc2dUR0VWWXJ6VkoxQlNSdHROYXowYS1PSklqUXdnNjhYcDdrWGFDMlQ4NXFaQ2lKQV9kU3ZFbjNpQmZqR203VHpjRGlFN25mWE55cjhraEZPaUh3Y2JFam1mdGV1WQ?oc=5",
+          "source": "Google News: Tokon (EventHubs)",
+          "published": "2026-11-25T17:30:58.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "tier list"
           ]
         },
         {
