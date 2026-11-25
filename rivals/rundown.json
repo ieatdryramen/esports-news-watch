@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-25T17:55:30.813Z",
+  "generatedAt": "2026-11-25T18:55:23.885Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 11,
+      "storyCount": 9,
       "stories": [
         {
-          "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFp1eFFranZLQkg3bE5teHFobW1Ydkc0aUJTUV84RjRwZF90a1dWTHc5M2F4VXNiREphR2xYcXZidGN5b2wzVG1hc2tHTHctcWhpUzc4TzB6Q1ZYUEVnbHdoTHp3SGtBV1JLa3BvNUpyTExsYVZwZXEzME1lMjg0cg?oc=5",
-          "source": "Google News: Sheep/Dot/Liquipedia (Liquipedia)",
-          "published": "2026-11-25T15:33:05.000Z",
+          "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdWlLVS1TRHN0SFdCY2FfVnVxOWU5Qy1CLWZKb01BY2JBLTBfeTlOSDFoMTctaHU0a3BENjJlMm5ieWpQOEJjOXFlenhVeC1kdFBSay1iMlQ5bm45REQyZl8zWlhSdw?oc=5",
+          "source": "Google News: Rivals esports (Natus Vincere)",
+          "published": "2026-11-25T11:00:00.000Z",
           "score": 6,
           "level": "possible",
           "why": [
@@ -63,6 +63,15 @@
           "why": []
         },
         {
+          "title": "LEGO Marvel Rivals Jeff the Land Shark set launching in January",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZThmYS1wc3lDZVhTTmRCTFl3TGlzWVpYUFQ3RndCN0ZjYl9BNXZWX2MxVDZ1YzRxX2U0WEFOcmRvN2RQZU01UExfanNUdUNqUHZWel9DNGdhVEc0dndxTV9qbzdTTnIxajR3MUxYNEZraDlTRmYxa2FpU1lndTlBNnhBRE92dGtfRDB1ZThfMXk1M1AtcUFyWTNyNA?oc=5",
+          "source": "Google News: Rivals patches (Flickering Myth)",
+          "published": "2026-11-25T12:13:49.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Marvel Rivals Scarlet Witch and Loki Costumes: Release Date and Details",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2VIQW8zWWF2THpKTWQ3aVRpbmJJT1B0STladnBTNUtIel9WbUZ6NzBHdU51bWp1UVFJNURoNGd4d2Z4bzdJQWs1c0dLWXIwZlhnOFlGbVVBZUd0MWFaWWV5ZS1RQ0xxVlV3S0dvaHlpUjFGdUpfSHRfUUJXVDY2UHFwaUdxSlpyUURlQTh0ZnBuX2NBbThla1lVM1RNN3Nu?oc=5",
           "source": "Google News: Rivals esports (Chase Your Sport)",
@@ -85,33 +94,6 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDNIZ2JaZzJnS2k0VTRkNkFwREQ4cDhuZkd1TzFjd1RlRHRNTVlkNDBEVi1pRFJkRnRWbWFvQU9ZZE9lRDlCMkx5Zk1TdjhrRHlsbFNmempnTEtkMUpFZ183NEcyNjdQSnk0VXBPaFN5MmV4akYtc0tWaTRQMzhTa3dVMzFOYmkyNGg0Uk50NzViZVRC?oc=5",
           "source": "Google News: Rivals esports (TechTimes Vietnam)",
           "published": "2026-11-25T03:06:05.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "MARVEL RIVALS’ Breakout Star, Jeff the Land Shark, Gets LEGO Set",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPeWxISVg3SktPYjFQbzYyUVlyOUpKS1R2eU9DY0FLVTZhMFdDVWl2OUhZMTB2YXBmX2tLX0VGcXI0d29iRy16d2lpak1IZXUzb09aMTBqR19CdDJJTXV3bXd6TmVqRzZtb2g0LU1acVhTZVlsZmFBQ2pDaw?oc=5",
-          "source": "Google News: Rivals patches (Nerdist)",
-          "published": "2026-11-24T21:21:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "LEGO Marvel Rivals has a huge minifigure opportunity",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem1zM3ZrVHNtYkpmMmhfbjg0UDBRMlpLNW42TzZXMGo2emhjbi1KZk5XMUNsU0h4SVBJc21lQjhfYjNBMnNOdXJqemluTzNPd0xJOHBEQURMUjJtVXZONl9wRFg5eFN2aTFDZzdRN0Mzb0hQU0lDdDd3RFR6ZzFoeG1B?oc=5",
-          "source": "Google News: Rivals rosters (Brick Fanatics)",
-          "published": "2026-11-24T18:28:17.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "LEGO Finally Brings Marvel Rivals’ Fan-Favorite Strategist to Brick Form With an Adorable New Jeff the Land Shark Set",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE9xVW5mMjY0VmVIZ1k2SG5IRkRYMkZkeEg3U2RtTXRhc3BqbU5Rd0hxUE9lNU5LbTJfSWw4TjAtN1FraDlySnJmeHlLdWUtYUlGakNZVkJxNzRXT2lUT1BqdlBTNWF5ekV0SGZ4OHlvajFLSGRoTk4xWnBpYTRCMk1NNnJIdWxvU2tueF82MzNOUQ?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-24T18:00:56.000Z",
           "score": 1,
           "level": null,
           "why": []
