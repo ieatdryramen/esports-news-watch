@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T12:00:29.070Z",
+  "generatedAt": "2026-11-25T13:00:26.234Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Street Fighter",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Evo Japan 2027 Tournament Lineup Revealed",
@@ -20,66 +20,9 @@
           ]
         },
         {
-          "title": "EVO Japan 2027: All Games Announced",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
-          "source": "Google News: Street Fighter (Kakuchopurei)",
-          "published": "2026-11-24T12:49:49.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "announced",
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
           "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
           "source": "Google News: Street Fighter (Shacknews)",
-          "published": "2026-11-24T17:45:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Evo Japan 2027 Tournament Lineup Revealed",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2NrU1hZMjBNUkEwQlQ0dmI2OTBYV1J1SFRBYlFTUGFWUEh0UVc2aUZtSGwyRW5vUEVQaGZsbWc5ZEFidk1sTDRhVjAwNWU0dkJqMl84NjdjbERLSU5rV09lT1lVUlZ3YkhDNGtKdlp5TTFYbVBfY3VKdmtUaWxFcQ?oc=5",
-          "source": "Google News: Legacy FGC (OpenCritic)",
-          "published": "2026-11-24T16:16:39.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "revealed",
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "EVO Japan 2027: All Games Announced",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
-          "source": "Google News: Legacy FGC (Kakuchopurei)",
-          "published": "2026-11-24T12:49:49.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "announced",
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
-          "source": "Google News: Legacy FGC (Shacknews)",
           "published": "2026-11-24T17:45:00.000Z",
           "score": 5,
           "level": null,
@@ -122,8 +65,39 @@
       ]
     },
     {
+      "scene": "Legacy FGC",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Evo Japan 2027 Tournament Lineup Revealed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2NrU1hZMjBNUkEwQlQ0dmI2OTBYV1J1SFRBYlFTUGFWUEh0UVc2aUZtSGwyRW5vUEVQaGZsbWc5ZEFidk1sTDRhVjAwNWU0dkJqMl84NjdjbERLSU5rV09lT1lVUlZ3YkhDNGtKdlp5TTFYbVBfY3VKdmtUaWxFcQ?oc=5",
+          "source": "Google News: Legacy FGC (OpenCritic)",
+          "published": "2026-11-24T16:16:39.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "revealed",
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
+          "source": "Google News: Legacy FGC (Shacknews)",
+          "published": "2026-11-24T17:45:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 14,
       "stories": [
         {
           "title": "TYLOO bench Moseyuh",
@@ -148,6 +122,18 @@
           ]
         },
         {
+          "title": "NIP beat Liquid to reach Stage 2 in Singapore",
+          "url": "https://www.hltv.org/news/46052/nip-beat-liquid-to-reach-stage-2-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T12:43:00.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "return*",
+            "liquid"
+          ]
+        },
+        {
           "title": "HUASOPEEK: \"history is another voice with max, he helps a lot inside and outside the game\"",
           "url": "https://www.hltv.org/news/46049/huasopeek-history-is-another-voice-with-max-he-helps-a-lot-inside-and-outside-the-game",
           "source": "HLTV news",
@@ -167,17 +153,6 @@
           "level": null,
           "why": [
             "cs2 major"
-          ]
-        },
-        {
-          "title": "9z Eliminate DENDELE 2:0 at PGL Major Singapore 2026",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2c1QVA3WDM3VEoxSk92bUt2REFpc0otaV84Mjl6THlJeDNDc0NRWG93Ri1sUm96dVdlUVdBbUFxLUUzSURqYzdTYVhSZ1pkWHREVUZfNTMtZDdkdHdOTGlWSm1MRXV2WUg0WmtrWWYwb2kyU21NSVVtR0t2WjFnclhjdk9WX2tab09hTjd3Ni0xNDFhdXNFYWx0TGhzdWdtRlMwLWctdHYzOFZBMzRv?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-25T10:02:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -205,17 +180,6 @@
           ]
         },
         {
-          "title": "Spirit top Esports Charts’ pre-Major popularity ranking",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1hUN3J5cG0zLTc3Qll1YTRNVU5ROFJUXzEyVXNhLUhoNUtGUFh0VGEySEFEdFo0aV85VXBUdjFsUHNqbG1HbWpZdjhmTXFQYlFOdTh0ZV9sdHJYVXczT1d0d2l6dXpqN3kyWTVnRk45S09ZZ3l0Q2tocjVRaWx3cQ?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-24T12:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "spirit"
-          ]
-        },
-        {
           "title": "9z snap losing streak to send DENDELE packing in Singapore",
           "url": "https://www.hltv.org/news/46048/9z-snap-losing-streak-to-send-dendele-packing-in-singapore",
           "source": "HLTV news",
@@ -224,17 +188,6 @@
           "level": null,
           "why": [
             "roster*"
-          ]
-        },
-        {
-          "title": "Singapore Major Stage 1 day 2 matchups set",
-          "url": "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
-          "source": "HLTV news",
-          "published": "2026-11-24T12:55:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "liquid*"
           ]
         },
         {
@@ -254,12 +207,30 @@
           "score": 1,
           "level": null,
           "why": []
+        },
+        {
+          "title": "JBa comes up clutch in M80 win over HEROIC",
+          "url": "https://www.hltv.org/news/46045/jba-comes-up-clutch-in-m80-win-over-heroic",
+          "source": "HLTV news",
+          "published": "2026-11-25T07:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "soulfly full of praise for Fabre: \"As you can see, he arrived and we qualified for the Major\"",
+          "url": "https://www.hltv.org/news/46042/soulfly-full-of-praise-for-fabre-as-you-can-see-he-arrived-and-we-qualified-for-the-major",
+          "source": "HLTV news",
+          "published": "2026-11-24T20:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Liquid Cafe launches as 22 Friendly Fire venues rebrand in 10-year licensing deal",
@@ -270,6 +241,17 @@
           "level": null,
           "why": [
             "team liquid"
+          ]
+        },
+        {
+          "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
+          "url": "https://esports-news.co.uk/2026/11/25/parivision-sweep-gamerlegion-for-sixth-straight-win-at-blast-slam-season-9/",
+          "source": "Esports News UK",
+          "published": "2026-11-25T11:10:05.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "won*"
           ]
         },
         {
@@ -295,21 +277,6 @@
       ]
     },
     {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Super Smash Bros. Melee turns 25 and its competitive scene is still alive",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFRfYWVKYjFXeWladkE3NFM0NFl6SURVXzZ4Zm9uamtqR2NnV3Q5ZU8za0UyZ3U2WUFVYk5ESEJCYVZGUjdIZEppWDcxenRPV1pZYVh2OGNQOF9hbDFxd0xGRTJFQWVnNXVpaWdKN0dmbnRoSTZocW1obEJKQi1kTkVpTTdxWUdqeE9TekFmS1pMQ3ZJNUJKbVFyeW1KYlMxNGlWcE00Q29TMDFmUDcxazF3?oc=5",
-          "source": "Google News: Melee (Foro3D)",
-          "published": "2026-11-24T12:24:33.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CoD",
       "storyCount": 1,
       "stories": [
@@ -326,6 +293,7 @@
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
