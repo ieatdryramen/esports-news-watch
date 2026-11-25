@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T17:00:25.285Z",
+  "generatedAt": "2026-11-25T17:55:27.738Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 18,
       "stories": [
         {
           "title": "s1mple's BC.Game Go 0-3 at PGL Major Singapore 2026",
@@ -99,13 +99,24 @@
         },
         {
           "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDVjVkxRaGtRNUw3SzNOVmNOWktuUXljUG9mNnJQekNiWXVxaDc0Um9FWkFQdkR3U2ZHTVpLZ0R6WTNCektTQmpxYVZleEo3X0F5OTJzb2lOc2o0NXBuUUdlOHhmN1RoUEc0dkc4ZWhnY1prQUR2bzBOSUMxVFpMR0EtT0pUMWhkZmdxdjB0b0ZSR0ZGaXV4REJ4cF9Ta2t6LXd2NzNVQzBWbXlIZmNEMTM5alhFMV9wejNF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFJMFVPOE5sUF8xMklHQTJtaUlwZEhOZ2VFcnZjX1AybHhmUUt3RVRJYUhlQ0JpRG13TWI0QnUwcFFUNzViUldqMXEyQWstZkNsa19KQTNFX1ZqdUNTNUdxUmtjRXFMZGxMY0xxTU1hSzZXY3dQUWtTb0lFZFBPeEJWLTk4MW5iZ1p6NXFwS3F2LW95ekh5bkNxeWpyLVBsMXIydmZKdk5Vc0JDTnVCRUhucVViWWVLNWxZ?oc=5",
           "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-25T10:30:00.000Z",
+          "published": "2026-11-25T10:23:50.000Z",
           "score": 3,
           "level": null,
           "why": [
             "cs2 major"
+          ]
+        },
+        {
+          "title": "9z Eliminate DENDELE 2:0 at PGL Major Singapore 2026",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2c1QVA3WDM3VEoxSk92bUt2REFpc0otaV84Mjl6THlJeDNDc0NRWG93Ri1sUm96dVdlUVdBbUFxLUUzSURqYzdTYVhSZ1pkWHREVUZfNTMtZDdkdHdOTGlWSm1MRXV2WUg0WmtrWWYwb2kyU21NSVVtR0t2WjFnclhjdk9WX2tab09hTjd3Ni0xNDFhdXNFYWx0TGhzdWdtRlMwLWctdHYzOFZBMzRv?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-25T10:02:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -131,86 +142,12 @@
           "why": [
             "confirmed"
           ]
-        },
-        {
-          "title": "Singapore Major Stage 1 day 3 matchups set",
-          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
-          "source": "Google News: Street Fighter (Shacknews)",
-          "published": "2026-11-24T17:45:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "Capcom Cup 13 Heads to Tokyo’s Ryogoku Kokugikan March 10-14, 2027",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjBKZ1gzb3VZSzIyNEYtSlNpeDUta0lCMUVDRjlMcXBXOERjSmwzSUFfQmZWa1dlMUYwZXRLNWpxVFVTZVEzT2otV09Odl9MT0NkTEJ3RFRDOTFudmJaaHhZTmY5TnBOMDJGbXQ2X2Juc2NtaGYwQW5RSFN0eUt4czZn?oc=5",
-          "source": "Google News: Street Fighter (Happy Gamer)",
-          "published": "2026-11-25T13:21:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
-          "source": "Google News: Tekken (Shacknews)",
-          "published": "2026-11-24T17:45:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
-          "source": "Google News: Legacy FGC (Shacknews)",
-          "published": "2026-11-24T17:45:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
@@ -231,17 +168,21 @@
           "score": 1,
           "level": null,
           "why": []
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "Allied - Z10, November 26, 2026 - match stream, live broadcast - EPC S4 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnQ0dFgxb3lQZEV0cmtaYkpFZUNNLXhrRlNkdVh0TVoyLW9hYW9PWldIN3FvR1J4YTgwaktIQWxiOU9qeThrOEY3S0lpeWZjZ2xmNlBGVDJqb19hQkZkNldWWVVPVGNkM1lXRnBJWGhOVUk5SlpZX2JqWU5jdUEyMXQ2QzIwN0NwTUJqZDd2TXFDRllFcGhtc3IxbWRPWC1IaFFpRjRCbGd6dw?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-24T17:32:10.000Z",
-          "score": 0,
+          "title": "Capcom Cup 13 Heads to Tokyo’s Ryogoku Kokugikan March 10-14, 2027",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjBKZ1gzb3VZSzIyNEYtSlNpeDUta0lCMUVDRjlMcXBXOERjSmwzSUFfQmZWa1dlMUYwZXRLNWpxVFVTZVEzT2otV09Odl9MT0NkTEJ3RFRDOTFudmJaaHhZTmY5TnBOMDJGbXQ2X2Juc2NtaGYwQW5RSFN0eUt4czZn?oc=5",
+          "source": "Google News: Street Fighter (Happy Gamer)",
+          "published": "2026-11-25T13:21:24.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "-stream"
-          ]
+          "why": []
         }
       ]
     },
@@ -268,6 +209,8 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Tekken",
+    "Legacy FGC",
     "Quake",
     "Halo"
   ]
