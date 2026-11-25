@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:50:19.569Z",
+  "generatedAt": "2026-11-25T22:20:20.743Z",
   "source": "start.gg",
   "completed": [
     {
@@ -142,53 +142,6 @@
           "name": "LCB | MangaKitty"
         }
       ]
-    },
-    {
-      "eventId": "1748624",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "VIPERS: Venom Clash #2",
-      "event": "VIPERS: Venom Clash 2",
-      "entrants": 75,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-22T22:00:00.000Z",
-      "endAt": "2026-11-23T02:59:00.000Z",
-      "url": "https://www.start.gg/tournament/vipers-venom-clash-2/event/vipers-venom-clash-2",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Mago negro"
-        },
-        {
-          "placement": 2,
-          "name": "LUA | JVITORTKGOOD"
-        },
-        {
-          "placement": 3,
-          "name": "VIPERS | Shahlan"
-        },
-        {
-          "placement": 4,
-          "name": "KOF | Groteador"
-        },
-        {
-          "placement": 5,
-          "name": "RNG/MAZE | CN Junior"
-        },
-        {
-          "placement": 5,
-          "name": "FNX|AMATERASSU"
-        },
-        {
-          "placement": 7,
-          "name": "EGO | Rajimi"
-        },
-        {
-          "placement": 7,
-          "name": "BandidoBr"
-        }
-      ]
     }
   ],
   "live": [],
@@ -199,7 +152,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "The Cashbox #49: Blitzbox Edition",
       "event": "Melee Singles",
-      "entrants": 197,
+      "entrants": 200,
       "online": true,
       "major": false,
       "startAt": "2026-11-25T23:00:00.000Z",
