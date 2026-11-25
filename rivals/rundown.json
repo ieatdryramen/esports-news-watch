@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T06:00:34.336Z",
+  "generatedAt": "2026-11-25T07:00:28.307Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -55,9 +55,9 @@
         },
         {
           "title": "Marvel Rivals - Official Incursion Point Map Reveal Trailer",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2xnTmJHdVEyYkxOaTVGM0F6YUt0WjJ2TXc3dmtqZVVFRjJxR0M1bDc3RDRSbTRfNVZJS0J2SFhNVmtncmx6R0JYank0T3I1dGkxRm9jOWZMSDVGbVduemozY25NcU4yakMwbWhqVmVxVWZHUlZQMnYxN3N6SnpFOU9XWHJ0R05BRmN1SQ?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-24T16:20:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDU5NHl0dVlWMlpqeDBwcFlmSDVraDFvcDdqTW1ub082LWItaUI5MU96VW5sY1AwSzBGbmczM0ZvQThPQVluX0NhaHJhY2ZuYy1JMkpIMTUyNjZLODdJeXZjMG9XdW83ZURneGdHbW9GUlA3alU4R0RtMm9JTndfc2FGcF9ZSDk3YXgyYkNpMHdqOFBCT0VMZmpXUW9vdw?oc=5",
+          "source": "Google News: Rivals patches (IGN India)",
+          "published": "2026-11-24T16:20:42.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -67,7 +67,7 @@
         {
           "title": "Marvel Rivals Van Dyne: Idea Matrix Event Brings 3 New Costumes",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1JMY0JLakRXamtsRTZhdl83Rl9aV0ZjbVBxVHVpVmFUMFllNzc4VEtiS3J4dGJMZ09wNTRzNjgxUDJnbVM4ZGVSNDlLejN6MmQ5c2FWWUNCSGM2WWExbWlMNWlGN3J1RXZkcWM5RXZqVU9lQVpBc2xhU21iV2pwdTRPZDl2R00?oc=5",
-          "source": "Google News: Rivals esports (happygamer.com)",
+          "source": "Google News: Rivals esports (Happy Gamer)",
           "published": "2026-11-25T05:54:15.000Z",
           "score": 1,
           "level": null,
@@ -83,10 +83,28 @@
           "why": []
         },
         {
+          "title": "Nvidia RTX Spark laptop delivers 180fps in Marvel Rivals t…",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDNIZ2JaZzJnS2k0VTRkNkFwREQ4cDhuZkd1TzFjd1RlRHRNTVlkNDBEVi1pRFJkRnRWbWFvQU9ZZE9lRDlCMkx5Zk1TdjhrRHlsbFNmempnTEtkMUpFZ183NEcyNjdQSnk0VXBPaFN5MmV4akYtc0tWaTRQMzhTa3dVMzFOYmkyNGg0Uk50NzViZVRC?oc=5",
+          "source": "Google News: Rivals esports (TechTimes Vietnam)",
+          "published": "2026-11-25T03:06:05.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "LEGO Marvel Rivals has a huge minifigure opportunity",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem1zM3ZrVHNtYkpmMmhfbjg0UDBRMlpLNW42TzZXMGo2emhjbi1KZk5XMUNsU0h4SVBJc21lQjhfYjNBMnNOdXJqemluTzNPd0xJOHBEQURMUjJtVXZONl9wRFg5eFN2aTFDZzdRN0Mzb0hQU0lDdDd3RFR6ZzFoeG1B?oc=5",
           "source": "Google News: Rivals rosters (Brick Fanatics)",
           "published": "2026-11-24T18:28:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "LEGO Finally Brings Marvel Rivals’ Fan-Favorite Strategist to Brick Form With an Adorable New Jeff the Land Shark Set",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE9xVW5mMjY0VmVIZ1k2SG5IRkRYMkZkeEg3U2RtTXRhc3BqbU5Rd0hxUE9lNU5LbTJfSWw4TjAtN1FraDlySnJmeHlLdWUtYUlGakNZVkJxNzRXT2lUT1BqdlBTNWF5ekV0SGZ4OHlvajFLSGRoTk4xWnBpYTRCMk1NNnJIdWxvU2tueF82MzNOUQ?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-24T18:00:56.000Z",
           "score": 1,
           "level": null,
           "why": []
