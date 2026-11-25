@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:35:18.408Z",
+  "generatedAt": "2026-11-25T11:05:22.423Z",
   "source": "start.gg",
   "completed": [
     {
@@ -234,53 +234,6 @@
         {
           "placement": 7,
           "name": "Ayatsuji"
-        }
-      ]
-    },
-    {
-      "eventId": "1739371",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Halfmoon Mähinä Monthly #7 Street Fighter 3: 3rd Strike",
-      "event": "Street Fighter III: 3rd Strike",
-      "entrants": 17,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-22T11:00:00.000Z",
-      "endAt": "2026-11-22T19:00:00.000Z",
-      "url": "https://www.start.gg/tournament/halfmoon-m-hin-monthly-7-street-fighter-3-3rd-strike/event/street-fighter-iii-3rd-strike",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Adviceowl"
-        },
-        {
-          "placement": 2,
-          "name": "Knut"
-        },
-        {
-          "placement": 3,
-          "name": "RVA | Tuoreprinssi"
-        },
-        {
-          "placement": 4,
-          "name": "Noot"
-        },
-        {
-          "placement": 5,
-          "name": "SchoolboyF"
-        },
-        {
-          "placement": 5,
-          "name": "BRK | Fraeon"
-        },
-        {
-          "placement": 7,
-          "name": "Tomás"
-        },
-        {
-          "placement": 7,
-          "name": "Sami P"
         }
       ]
     }
