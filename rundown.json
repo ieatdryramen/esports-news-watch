@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-11-25T19:50:28.256Z",
+  "generatedAt": "2026-11-25T20:50:30.922Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 18,
       "stories": [
+        {
+          "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
+          "url": "https://www.hltv.org/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T20:23:00.000Z",
+          "score": 9,
+          "level": "breaking",
+          "why": [
+            "benched",
+            "niko",
+            "karrigan"
+          ]
+        },
         {
           "title": "s1mple's BC.Game Go 0-3 at PGL Major Singapore 2026",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkt2bTFYdTA1RFFHd2pLM2dMRDNuRnRHS3RvNXZLZmFRWFNSUzhyWjB4NFVGMWRVdEJNNTBBNTN3QVFWRlNZZ0l2QzhsWEs5ZWd6cDQxM2NXd1Y4ZjBRNzNUZXdFSkNYV3hORjhYZ08yOTBsM3hpWDdLNnF6VllYV1pXOGNCMWswaEFvMEFqZ2dtZEVnV2FqQjRleXF6Nmc0b1pxX1BFQWs1d2xwMHVV?oc=5",
@@ -39,17 +52,6 @@
           "level": null,
           "why": [
             "joins"
-          ]
-        },
-        {
-          "title": "TYLOO bench Moseyuh",
-          "url": "https://www.hltv.org/news/46047/tyloo-bench-moseyuh",
-          "source": "HLTV news",
-          "published": "2026-11-25T09:36:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "bench"
           ]
         },
         {
@@ -99,24 +101,13 @@
         },
         {
           "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFJMFVPOE5sUF8xMklHQTJtaUlwZEhOZ2VFcnZjX1AybHhmUUt3RVRJYUhlQ0JpRG13TWI0QnUwcFFUNzViUldqMXEyQWstZkNsa19KQTNFX1ZqdUNTNUdxUmtjRXFMZGxMY0xxTU1hSzZXY3dQUWtTb0lFZFBPeEJWLTk4MW5iZ1p6NXFwS3F2LW95ekh5bkNxeWpyLVBsMXIydmZKdk5Vc0JDTnVCRUhucVViWWVLNWxZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDVjVkxRaGtRNUw3SzNOVmNOWktuUXljUG9mNnJQekNiWXVxaDc0Um9FWkFQdkR3U2ZHTVpLZ0R6WTNCektTQmpxYVZleEo3X0F5OTJzb2lOc2o0NXBuUUdlOHhmN1RoUEc0dkc4ZWhnY1prQUR2bzBOSUMxVFpMR0EtT0pUMWhkZmdxdjB0b0ZSR0ZGaXV4REJ4cF9Ta2t6LXd2NzNVQzBWbXlIZmNEMTM5alhFMV9wejNF?oc=5",
           "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-25T10:23:50.000Z",
+          "published": "2026-11-25T10:30:00.000Z",
           "score": 3,
           "level": null,
           "why": [
             "cs2 major"
-          ]
-        },
-        {
-          "title": "9z Eliminate DENDELE 2:0 at PGL Major Singapore 2026",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2c1QVA3WDM3VEoxSk92bUt2REFpc0otaV84Mjl6THlJeDNDc0NRWG93Ri1sUm96dVdlUVdBbUFxLUUzSURqYzdTYVhSZ1pkWHREVUZfNTMtZDdkdHdOTGlWSm1MRXV2WUg0WmtrWWYwb2kyU21NSVVtR0t2WjFnclhjdk9WX2tab09hTjd3Ni0xNDFhdXNFYWx0TGhzdWdtRlMwLWctdHYzOFZBMzRv?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-25T10:02:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -141,6 +132,17 @@
           "level": null,
           "why": [
             "confirmed"
+          ]
+        },
+        {
+          "title": "Singapore Major Stage 1 day 3 matchups set",
+          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
+          "source": "HLTV news",
+          "published": "2026-11-25T13:53:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze*"
           ]
         }
       ]
@@ -189,6 +191,30 @@
       ]
     },
     {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "CDL 2027 Kickoff Classic Starts December 4 With Free Viewer Rewards",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91S1RLQWdpbTNORDdDR3g0RmhhWm5Sb3Z5dkQ4dlliV1V2RVpaSjBLc3dfaE1WOVVPR0hmTDJ2YVpQR2t1VHJJYXU1VV9JMHQ0ZzJyY1NYN0o1ekFkX0pENkFYUkhRNl85elFVOEhsMFlHclI3eFFXU1pJQXNzNFk?oc=5",
+          "source": "Google News: CoD (Happy Gamer)",
+          "published": "2026-11-25T20:20:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Paris Gentle Mates Top Peer Rankings for 2027 CDL Kickoff Classic",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlIxT2NwVTYtalBXQ0xCT0tYdEN6cUVMd1VMMWQxc0lmVUxYVXI3eDM1R2JOLWJ2Qnk3aHlvbTVZZDRmRWRfTUVNdDdzRThYNnVLU1A2V2FHTkJQbExCNW95bnlwUUtEWUwtTjg2QnI4a2V4cHBuajhqbDktVTNxM0tDUG5HV3hhaHhBY3RDN2pBcW8?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-25T12:03:02.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Street Fighter",
       "storyCount": 1,
       "stories": [
@@ -197,21 +223,6 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjBKZ1gzb3VZSzIyNEYtSlNpeDUta0lCMUVDRjlMcXBXOERjSmwzSUFfQmZWa1dlMUYwZXRLNWpxVFVTZVEzT2otV09Odl9MT0NkTEJ3RFRDOTFudmJaaHhZTmY5TnBOMDJGbXQ2X2Juc2NtaGYwQW5RSFN0eUt4czZn?oc=5",
           "source": "Google News: Street Fighter (Happy Gamer)",
           "published": "2026-11-25T13:21:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Paris Gentle Mates Top Peer Rankings for 2027 CDL Kickoff Classic",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlIxT2NwVTYtalBXQ0xCT0tYdEN6cUVMd1VMMWQxc0lmVUxYVXI3eDM1R2JOLWJ2Qnk3aHlvbTVZZDRmRWRfTUVNdDdzRThYNnVLU1A2V2FHTkJQbExCNW95bnlwUUtEWUwtTjg2QnI4a2V4cHBuajhqbDktVTNxM0tDUG5HV3hhaHhBY3RDN2pBcW8?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-25T12:03:02.000Z",
           "score": 1,
           "level": null,
           "why": []
