@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-25T12:20:25.422Z",
+      "level": "possible",
+      "scene": "Marvel Rivals",
+      "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdWlLVS1TRHN0SFdCY2FfVnVxOWU5Qy1CLWZKb01BY2JBLTBfeTlOSDFoMTctaHU0a3BENjJlMm5ieWpQOEJjOXFlenhVeC1kdFBSay1iMlQ5bm45REQyZl8zWlhSdw?oc=5",
+      "source": "Google News: Rivals esports (Natus Vincere)",
+      "outlets": [
+        "Natus Vincere"
+      ],
+      "score": 6,
+      "why": [
+        "grand finals",
+        "grand finals"
+      ],
+      "summary": "",
+      "published": "2026-11-25T11:00:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-24T21:50:26.012Z",
       "level": "possible",
       "scene": "Marvel Rivals",
