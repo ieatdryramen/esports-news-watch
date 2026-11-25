@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T16:00:39.644Z",
+  "generatedAt": "2026-11-25T17:00:28.645Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Group Stage",
@@ -43,14 +43,14 @@
           ]
         },
         {
-          "title": "Marvel Rivals - Official Incursion Point Map Reveal Trailer",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWNGTWZacHBta1JJOUt3MmpHWVNNaXNzRzU3SkJ1cFhDUDJsd0x1OFRKZEZtZ3lTUFpQSHIwRVR3b1RjRUpoNV9MamVIWGUwcWpfanhweVJTMWJ2RUVkamYydVhyWnNjbjdMU2RIVHZqc193LUthWll3UmtISjhHOFJCV1VscUVUamNDeFBiTFRDbnpBVFhVMERhVm02QQ?oc=5",
-          "source": "Google News: Rivals patches (IGN Africa)",
-          "published": "2026-11-24T16:20:42.000Z",
+          "title": "Marvel Rivals Season 10 Loki Skins Reportedly Female Except Battle Pass",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOODl1cGxLOHVWQ0xZSlhNTlppUU9OQTQwSE5hbTNKc1pIZXNLTUFUdFRLMFEzazdxQnpORDNDWHdmUXJhZ3R5UUVjTWtzR0RyTXJpZTJxVWw1cDFDMVRic0cwd1lhTFJXb19MTUVGcVBxMTdkZjR6emo2Vzl2Q0Q1TU92cDVpckg4dEpSMg?oc=5",
+          "source": "Google News: Rivals patches (Happy Gamer)",
+          "published": "2026-11-25T16:26:02.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "official"
+            "season"
           ]
         },
         {
@@ -103,15 +103,6 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE9xVW5mMjY0VmVIZ1k2SG5IRkRYMkZkeEg3U2RtTXRhc3BqbU5Rd0hxUE9lNU5LbTJfSWw4TjAtN1FraDlySnJmeHlLdWUtYUlGakNZVkJxNzRXT2lUT1BqdlBTNWF5ekV0SGZ4OHlvajFLSGRoTk4xWnBpYTRCMk1NNnJIdWxvU2tueF82MzNOUQ?oc=5",
           "source": "Google News: Rivals patches (IGN)",
           "published": "2026-11-24T18:00:56.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Is Getting Its First-Ever LEGO Set and It’s Based on the Perfect Character",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTdhZ3M4V0RqOFRBTGh6VzNIcElvOWN2M0VsR0JqNE5UY3owRnY4R1hLSEE3VWRsSTRjNDV0RktRd253TXF0WjltcmxQR0hzSFZtVmU0UGJaZDhidV9sdkF6MkFTSExXY1pLNTRzLTF3cXh5Nkp6cGJXMTNQU3laM1NVSQ?oc=5",
-          "source": "Google News: Rivals rosters (ComicBook.com)",
-          "published": "2026-11-24T17:00:24.000Z",
           "score": 1,
           "level": null,
           "why": []
