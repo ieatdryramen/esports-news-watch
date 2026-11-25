@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T13:00:31.099Z",
+  "generatedAt": "2026-11-25T14:00:32.374Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
@@ -31,6 +31,15 @@
             "evo",
             "evo japan"
           ]
+        },
+        {
+          "title": "Magik Gets a Phoenix Five Look in MARVEL Tōkon: Fighting Souls",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pdE9IN1NxOEk4a2E5SWhLRFpQckJTSlRHVF9fZVJtY04yZ0JRUXVfbWx0YUxsbk0zZlgxVTRsVDZNVlBqWkRZM1RrYlRGRHpMR3BFX19FcDNEZEYzY29yWGVxNVV6YTdSUVdEWmVuRTFjLVRtR3c?oc=5",
+          "source": "Google News: Tokon (Happy Gamer)",
+          "published": "2026-11-25T13:51:21.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
