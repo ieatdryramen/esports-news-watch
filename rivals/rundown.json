@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T01:00:30.604Z",
+  "generatedAt": "2026-11-25T02:00:27.134Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -32,10 +32,10 @@
           ]
         },
         {
-          "title": "LEGO 67023 Jeff the Land Shark from Marvel Rivals revealed!",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEZVSTktNWdSNWg0VThJYi00UlNBVFRNRm1Fd21XeDk1YmlzMkdBOTkyMXMxRFVTZ3NyQ2ZqWEtPRzhrbGMtZ3Z5b19qcnZhTVFEVkxJVVBBTy1TRkpYQjkxQzFBbVl3Vkx3LXppbXRkcldKUld0QWp2WGxwdEZQVjRvdk9YcWptSEJJU1NjWGlmY1hx?oc=5",
-          "source": "Google News: Rivals rosters (Jay's Brick Blog)",
-          "published": "2026-11-24T14:11:34.000Z",
+          "title": "Lego Jeff the Land Shark officially revealed as the first Marvel Rivals set",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEFtd01zTzVMZFdPWUd2Q1BMNUExbVN1WW9Qd25ra18wRU1yeUFJNkktVURxZmI3c3lBd0ZCYm51NkdIVWM4RUx1QnoyQkMxb3FqUGV3MlNvZEJOQzYyMGNDamxleC1VSG5PM3hvdjZDS3FJTDFtZl8weUZaSG5tdU5ZYnhqc3ZkOUpROThqcHJndG9yN2xhU1BWTmhTUGVzckI2MTNhZThBQmVLZjYwQWVkdWo5aldZc29zc1FR?oc=5",
+          "source": "Google News: Rivals patches (GamesRadar+)",
+          "published": "2026-11-24T17:47:12.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -69,6 +69,15 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem1zM3ZrVHNtYkpmMmhfbjg0UDBRMlpLNW42TzZXMGo2emhjbi1KZk5XMUNsU0h4SVBJc21lQjhfYjNBMnNOdXJqemluTzNPd0xJOHBEQURMUjJtVXZONl9wRFg5eFN2aTFDZzdRN0Mzb0hQU0lDdDd3RFR6ZzFoeG1B?oc=5",
           "source": "Google News: Rivals rosters (Brick Fanatics)",
           "published": "2026-11-24T18:28:17.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "LEGO Finally Brings Marvel Rivals’ Fan-Favorite Strategist to Brick Form With an Adorable New Jeff the Land Shark Set",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE9xVW5mMjY0VmVIZ1k2SG5IRkRYMkZkeEg3U2RtTXRhc3BqbU5Rd0hxUE9lNU5LbTJfSWw4TjAtN1FraDlySnJmeHlLdWUtYUlGakNZVkJxNzRXT2lUT1BqdlBTNWF5ekV0SGZ4OHlvajFLSGRoTk4xWnBpYTRCMk1NNnJIdWxvU2tueF82MzNOUQ?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-24T18:00:56.000Z",
           "score": 1,
           "level": null,
           "why": []
