@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T00:00:36.126Z",
+  "generatedAt": "2026-11-25T01:00:30.604Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -32,10 +32,10 @@
           ]
         },
         {
-          "title": "Lego Jeff the Land Shark officially revealed as the first Marvel Rivals set",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEFtd01zTzVMZFdPWUd2Q1BMNUExbVN1WW9Qd25ra18wRU1yeUFJNkktVURxZmI3c3lBd0ZCYm51NkdIVWM4RUx1QnoyQkMxb3FqUGV3MlNvZEJOQzYyMGNDamxleC1VSG5PM3hvdjZDS3FJTDFtZl8weUZaSG5tdU5ZYnhqc3ZkOUpROThqcHJndG9yN2xhU1BWTmhTUGVzckI2MTNhZThBQmVLZjYwQWVkdWo5aldZc29zc1FR?oc=5",
-          "source": "Google News: Rivals patches (GamesRadar+)",
-          "published": "2026-11-24T17:47:12.000Z",
+          "title": "LEGO 67023 Jeff the Land Shark from Marvel Rivals revealed!",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEZVSTktNWdSNWg0VThJYi00UlNBVFRNRm1Fd21XeDk1YmlzMkdBOTkyMXMxRFVTZ3NyQ2ZqWEtPRzhrbGMtZ3Z5b19qcnZhTVFEVkxJVVBBTy1TRkpYQjkxQzFBbVl3Vkx3LXppbXRkcldKUld0QWp2WGxwdEZQVjRvdk9YcWptSEJJU1NjWGlmY1hx?oc=5",
+          "source": "Google News: Rivals rosters (Jay's Brick Blog)",
+          "published": "2026-11-24T14:11:34.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -55,9 +55,9 @@
         },
         {
           "title": "Marvel Rivals - Official Incursion Point Map Reveal Trailer",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDU5NHl0dVlWMlpqeDBwcFlmSDVraDFvcDdqTW1ub082LWItaUI5MU96VW5sY1AwSzBGbmczM0ZvQThPQVluX0NhaHJhY2ZuYy1JMkpIMTUyNjZLODdJeXZjMG9XdW83ZURneGdHbW9GUlA3alU4R0RtMm9JTndfc2FGcF9ZSDk3YXgyYkNpMHdqOFBCT0VMZmpXUW9vdw?oc=5",
-          "source": "Google News: Rivals patches (IGN India)",
-          "published": "2026-11-24T16:20:42.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2xnTmJHdVEyYkxOaTVGM0F6YUt0WjJ2TXc3dmtqZVVFRjJxR0M1bDc3RDRSbTRfNVZJS0J2SFhNVmtncmx6R0JYank0T3I1dGkxRm9jOWZMSDVGbVduemozY25NcU4yakMwbWhqVmVxVWZHUlZQMnYxN3N6SnpFOU9XWHJ0R05BRmN1SQ?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-24T16:20:41.000Z",
           "score": 2,
           "level": null,
           "why": [
@@ -78,15 +78,6 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTdhZ3M4V0RqOFRBTGh6VzNIcElvOWN2M0VsR0JqNE5UY3owRnY4R1hLSEE3VWRsSTRjNDV0RktRd253TXF0WjltcmxQR0hzSFZtVmU0UGJaZDhidV9sdkF6MkFTSExXY1pLNTRzLTF3cXh5Nkp6cGJXMTNQU3laM1NVSQ?oc=5",
           "source": "Google News: Rivals rosters (ComicBook.com)",
           "published": "2026-11-24T17:00:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Previews New Login Screen and Lobby Animation for 2nd Anniversary",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObzZNSXlDRXNVYmluZHlqdzd3QnpyTHBRekRBMXJBcGhsWFJWa2UydGhpakZnZzhia1phMmlhcElxMU1nU25XNTZEcVBEQUM2elNBSkRtUUk0WEFmVlcySnF3TkpyRnJaYko2OHlWR3YwYnJFNy1wOFY0ZFJENm4yQjlMUl9iQXNDRm1INm0tNDhBdnc?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-24T00:09:41.000Z",
           "score": 1,
           "level": null,
           "why": []
