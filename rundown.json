@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:00:31.361Z",
+  "generatedAt": "2026-11-25T16:00:28.652Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -106,7 +106,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 16,
       "stories": [
         {
           "title": "s1mple's BC.Game Go 0-3 at PGL Major Singapore 2026",
@@ -130,6 +130,17 @@
           "why": [
             "liquid",
             "pgl"
+          ]
+        },
+        {
+          "title": "Media: oSee joins Without a Roof",
+          "url": "https://www.hltv.org/news/46055/media-osee-joins-without-a-roof",
+          "source": "HLTV news",
+          "published": "2026-11-25T15:30:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "joins"
           ]
         },
         {
@@ -167,10 +178,10 @@
           ]
         },
         {
-          "title": "On the ground at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-25T14:41:00.000Z",
+          "title": "PGL Singapore Major 2026 Stage 1 Day 2 Recap",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakNiRFFlZHdyU3VFWVZJaEdnV25MSHU2NXg4dTRDaGhVLXUyRVpiaE85YWxKZjRlWUpGVFYtN3YyakNHNmF0SzFGYlduUS1lNlNUMTJ1Y1VBY3FQUmZUTnRVX2hxV2ZmT2gxT1dySEY4WVJLVXhfdWlVR3pUZnNnUng2bWk3bmRV?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-25T14:59:40.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -232,17 +243,6 @@
           "level": null,
           "why": [
             "faze*"
-          ]
-        },
-        {
-          "title": "Chinggis Warriors condemn BC.Game to 0-3 exit in Singapore",
-          "url": "https://www.hltv.org/news/46053/chinggis-warriors-condemn-bcgame-to-0-3-exit-in-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:19:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "s1mple*"
           ]
         }
       ]
