@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:00:24.088Z",
+  "generatedAt": "2026-11-25T08:00:23.688Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -138,18 +138,6 @@
           ]
         },
         {
-          "title": "Wildcard send FaZe to 0-1 pool",
-          "url": "https://www.hltv.org/news/46038/wildcard-send-faze-to-0-1-pool",
-          "source": "HLTV news",
-          "published": "2026-11-24T08:01:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "won*",
-            "faze"
-          ]
-        },
-        {
           "title": "On the ground at PGL Major Singapore Stage 1",
           "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
           "source": "HLTV news",
@@ -205,17 +193,6 @@
           ]
         },
         {
-          "title": "FaZe to play BC.Game as round 1 ends",
-          "url": "https://www.hltv.org/news/46039/faze-to-play-bcgame-as-round-1-ends",
-          "source": "HLTV news",
-          "published": "2026-11-24T08:15:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
           "title": "Singapore Major Stage 1 day 2 matchups set",
           "url": "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
           "source": "HLTV news",
@@ -225,6 +202,24 @@
           "why": [
             "liquid*"
           ]
+        },
+        {
+          "title": "Lake: \"We play best when we're most energetic\"",
+          "url": "https://www.hltv.org/news/46046/lake-we-play-best-when-were-most-energetic",
+          "source": "HLTV news",
+          "published": "2026-11-25T07:28:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "JBa comes up clutch in M80 win over HEROIC",
+          "url": "https://www.hltv.org/news/46045/jba-comes-up-clutch-in-m80-win-over-heroic",
+          "source": "HLTV news",
+          "published": "2026-11-25T07:05:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "soulfly full of praise for Fabre: \"As you can see, he arrived and we qualified for the Major\"",
@@ -323,10 +318,10 @@
       "storyCount": 1,
       "stories": [
         {
-          "title": "Paris Gentle Mates top CDL Kickoff Classic peer rankings",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVRtVkJJYmxjY2Q3UlNIYjA1bmt4YWhmVXB3MlVWa19lY0VYOWpvMDhKUVVIWjJfenhxenRnUFlaNTNTT1lqa3RtajQteGlsSmpGZ3dDTDZpalFzNE5PdlZDOWdDWlFSaDJNZmNVbHFsVUFvb3c0eFRlYWFJbkhuM0RWZUdHSU83WG13UEk4V2g5QQ?oc=5",
-          "source": "Google News: CoD (Dot Esports)",
-          "published": "2026-11-25T03:37:00.000Z",
+          "title": "Paris Gentle Mates Top Peer Rankings for 2027 CDL Kickoff Classic",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlIxT2NwVTYtalBXQ0xCT0tYdEN6cUVMd1VMMWQxc0lmVUxYVXI3eDM1R2JOLWJ2Qnk3aHlvbTVZZDRmRWRfTUVNdDdzRThYNnVLU1A2V2FHTkJQbExCNW95bnlwUUtEWUwtTjg2QnI4a2V4cHBuajhqbDktVTNxM0tDUG5HV3hhaHhBY3RDN2pBcW8?oc=5",
+          "source": "Google News: CoD (RG.org)",
+          "published": "2026-11-25T07:40:35.000Z",
           "score": 1,
           "level": null,
           "why": []
