@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:35:15.361Z",
+  "generatedAt": "2026-11-25T13:05:17.927Z",
   "source": "start.gg",
   "completed": [
     {
@@ -189,53 +189,6 @@
           "name": "BandidoBr"
         }
       ]
-    },
-    {
-      "eventId": "1738498",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "HEATWAVE Tournament #4",
-      "event": "Heatwave Tournament",
-      "entrants": 115,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-22T13:00:00.000Z",
-      "endAt": "2026-11-22T22:00:00.000Z",
-      "url": "https://www.start.gg/tournament/heatwave-tournament-4/event/heatwave-tournament",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "ILIAS"
-        },
-        {
-          "placement": 2,
-          "name": "GAM | Kirakira"
-        },
-        {
-          "placement": 3,
-          "name": "SamiBrando"
-        },
-        {
-          "placement": 4,
-          "name": "REBOOT | Paulee"
-        },
-        {
-          "placement": 5,
-          "name": "Lalo"
-        },
-        {
-          "placement": 5,
-          "name": "GPE | bode"
-        },
-        {
-          "placement": 7,
-          "name": "FOX | PiKaH"
-        },
-        {
-          "placement": 7,
-          "name": "Ayatsuji"
-        }
-      ]
     }
   ],
   "live": [],
@@ -246,7 +199,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "The Cashbox #49: Blitzbox Edition",
       "event": "Melee Singles",
-      "entrants": 114,
+      "entrants": 116,
       "online": true,
       "major": false,
       "startAt": "2026-11-25T23:00:00.000Z",
