@@ -74,24 +74,6 @@
       ],
       "summary": "",
       "published": "2026-11-24T02:14:54.000Z"
-    },
-    {
-      "alertedAt": "2026-11-23T18:00:26.220Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "SkewMond Leaves G2 Esports To Join Karmine Corp For The 2027 Season",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2V09MTWpHR1AwYkRLMUN0LVhUMU9SdlBOVUtVbzVFY3lOTmVJTWVEZGVVcXRKQUpla0lwbXRJWkx0amFjS0R6R05kOExUbEJZUUptN0ZfNzJJSTBmVko5ZmR0ekduMkpxVU5uU0xrUVQzSGp1TVQ2bE03OHp5NTQ?oc=5",
-      "source": "Google News: CS2 (Hotspawn)",
-      "outlets": [
-        "Hotspawn"
-      ],
-      "score": 6,
-      "why": [
-        "leaves",
-        "g2"
-      ],
-      "summary": "",
-      "published": "2026-11-23T16:57:41.000Z"
     }
   ]
 }
