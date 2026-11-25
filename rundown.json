@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-11-25T09:00:26.168Z",
+  "generatedAt": "2026-11-25T10:00:25.253Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "Legacy FGC",
+      "storyCount": 4,
+      "stories": [
+        {
+          "title": "Evo Japan 2027 Tournament Lineup Revealed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2NrU1hZMjBNUkEwQlQ0dmI2OTBYV1J1SFRBYlFTUGFWUEh0UVc2aUZtSGwyRW5vUEVQaGZsbWc5ZEFidk1sTDRhVjAwNWU0dkJqMl84NjdjbERLSU5rV09lT1lVUlZ3YkhDNGtKdlp5TTFYbVBfY3VKdmtUaWxFcQ?oc=5",
+          "source": "Google News: Legacy FGC (OpenCritic)",
+          "published": "2026-11-24T16:16:39.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "revealed",
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "EVO Japan 2027: All Games Announced",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
+          "source": "Google News: Legacy FGC (Kakuchopurei)",
+          "published": "2026-11-24T12:49:49.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "announced",
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "Here’s the Main Stage Lineup for Evo Japan 2027",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CTDFQQnRaaVZsX3p0VnYtblRMNTRnM2VPTUNONGxZRklpa3ZPcnhJNnpPZjFLSk1UOW9lQ1FOOEE0SkVwWjJYT0hHQ0xrOVNMZ293SmhmSVNVNVl1MXRDTzFRVW5GSE5oSHFaald3?oc=5",
+          "source": "Google News: Legacy FGC (thegame.ph)",
+          "published": "2026-11-25T07:28:29.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        },
+        {
+          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
+          "source": "Google News: Legacy FGC (Shacknews)",
+          "published": "2026-11-24T17:45:00.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "evo",
+            "evo japan"
+          ]
+        }
+      ]
+    },
     {
       "scene": "Street Fighter",
       "storyCount": 3,
@@ -47,50 +103,6 @@
       ]
     },
     {
-      "scene": "Legacy FGC",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Evo Japan 2027 Tournament Lineup Revealed",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2NrU1hZMjBNUkEwQlQ0dmI2OTBYV1J1SFRBYlFTUGFWUEh0UVc2aUZtSGwyRW5vUEVQaGZsbWc5ZEFidk1sTDRhVjAwNWU0dkJqMl84NjdjbERLSU5rV09lT1lVUlZ3YkhDNGtKdlp5TTFYbVBfY3VKdmtUaWxFcQ?oc=5",
-          "source": "Google News: Legacy FGC (OpenCritic)",
-          "published": "2026-11-24T16:16:39.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "revealed",
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "EVO Japan 2027: All Games Announced",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INWc5Smp4Q2tsbHFoQ0g3N1dqekVnbHRXMWpURzg3RGg0bmdyUS1tUlBoOVJIQUNYak0zTkdVQktQbDF3Wi1rTlhyVE1rODhaOF9qei1ROVMyS29ZWFFrZzhpRGw4NS1iWnRSYVB3V0xpVlhwb0wwdFBDWE0?oc=5",
-          "source": "Google News: Legacy FGC (Kakuchopurei)",
-          "published": "2026-11-24T12:49:49.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "announced",
-            "evo",
-            "evo japan"
-          ]
-        },
-        {
-          "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ1Z2prTXFHZ1Zlc05WVVhrVzhKY0F5QVBXZS11UDNJZk1jQ3VnUVJqRzNoWGRnOUdkVWlCWmJNVlFJUkNSWU9qcnNINUtRbkk0NGlnVjBnZDF6dV9LVzRtdXRXaXhTOF9tNnc0cnM5YzJiWXgwbVRBYXRoMmZjQ3BWR0w?oc=5",
-          "source": "Google News: Legacy FGC (Shacknews)",
-          "published": "2026-11-24T17:45:00.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
-        }
-      ]
-    },
-    {
       "scene": "Tekken",
       "storyCount": 2,
       "stories": [
@@ -125,6 +137,17 @@
       "scene": "CS2",
       "storyCount": 16,
       "stories": [
+        {
+          "title": "TYLOO bench Moseyuh",
+          "url": "https://www.hltv.org/news/46047/tyloo-bench-moseyuh",
+          "source": "HLTV news",
+          "published": "2026-11-25T09:36:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "bench"
+          ]
+        },
         {
           "title": "Jason Lake Wins First HLTV Lifetime Achievement Award",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IVGpOTTgwZFJnNXh3TFFtcy1yZllweWVzaW9xbUdFeUVNb0JZUnB3a3Jqa0xOclFTcVJIUUNYWUgxbmJOaVBoajYyUWFPa2E2cWwyVUkwVjFyd2hUc2VpNEx0Ym9fNm0tTWc?oc=5",
@@ -241,15 +264,6 @@
           "url": "https://www.hltv.org/news/46045/jba-comes-up-clutch-in-m80-win-over-heroic",
           "source": "HLTV news",
           "published": "2026-11-25T07:05:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "soulfly full of praise for Fabre: \"As you can see, he arrived and we qualified for the Major\"",
-          "url": "https://www.hltv.org/news/46042/soulfly-full-of-praise-for-fabre-as-you-can-see-he-arrived-and-we-qualified-for-the-major",
-          "source": "HLTV news",
-          "published": "2026-11-24T20:00:00.000Z",
           "score": 1,
           "level": null,
           "why": []
