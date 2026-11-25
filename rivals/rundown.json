@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T11:00:33.384Z",
+  "generatedAt": "2026-11-25T12:00:33.134Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Marvel Rivals Players Can Earn a Free IGNITE Black Widow Skin by Watching 8 Hours of Grand Finals on Twitch",
@@ -55,15 +55,6 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1JMY0JLakRXamtsRTZhdl83Rl9aV0ZjbVBxVHVpVmFUMFllNzc4VEtiS3J4dGJMZ09wNTRzNjgxUDJnbVM4ZGVSNDlLejN6MmQ5c2FWWUNCSGM2WWExbWlMNWlGN3J1RXZkcWM5RXZqVU9lQVpBc2xhU21iV2pwdTRPZDl2R00?oc=5",
           "source": "Google News: Rivals esports (Happy Gamer)",
           "published": "2026-11-25T05:54:15.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals’ Jeff becomes a poseable Lego menace, GameSpot reports",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qb28wcGVEb3UtQWM0RFZhZER6blRBbzh0TEtOaHk4b2dJcDBueC1fbXNGOFhZR21xYTJUOURnZkR2OGpsQUJZ?oc=5",
-          "source": "Google News: Rivals patches (Digg)",
-          "published": "2026-11-25T04:56:06.000Z",
           "score": 1,
           "level": null,
           "why": []
