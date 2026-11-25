@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-25T05:05:16.514Z",
+  "generatedAt": "2026-11-25T05:35:19.527Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1758619",
+      "scene": "tekken",
+      "game": "Tekken 8",
+      "tournament": "TNS TEKKEN 8 #143",
+      "event": "Tekken 8",
+      "entrants": 154,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-25T01:00:00.000Z",
+      "endAt": "2026-11-25T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-tekken-8-143/event/tekken-8",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "PAR | JoeCrush"
+        },
+        {
+          "placement": 2,
+          "name": "LS | Reborn"
+        },
+        {
+          "placement": 3,
+          "name": "LS | jaboikyran"
+        },
+        {
+          "placement": 4,
+          "name": "LD | RTM | John3:16"
+        },
+        {
+          "placement": 5,
+          "name": "SWMG | Sergei Strokinov"
+        },
+        {
+          "placement": 5,
+          "name": "Joonya 20z"
+        },
+        {
+          "placement": 7,
+          "name": "Mirage | Kaizur"
+        },
+        {
+          "placement": 7,
+          "name": "Hidden_Main"
+        }
+      ]
+    },
     {
       "eventId": "1758825",
       "scene": "legacyfgc",
@@ -238,21 +285,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1758619",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #143",
-      "event": "Tekken 8",
-      "entrants": 154,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-25T01:00:00.000Z",
-      "endAt": "2026-11-25T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-143/event/tekken-8"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1760867",
@@ -260,7 +293,7 @@
       "game": "Super Smash Bros. Melee",
       "tournament": "The Cashbox #49: Blitzbox Edition",
       "event": "Melee Singles",
-      "entrants": 108,
+      "entrants": 109,
       "online": true,
       "major": false,
       "startAt": "2026-11-25T23:00:00.000Z",
