@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:00:28.757Z",
+  "generatedAt": "2026-11-25T05:00:23.973Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -123,8 +123,20 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 14,
       "stories": [
+        {
+          "title": "s1mple’s Major Return Turns Into a Nightmare as GOSH Fall to 0-2 in Singapore",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNckx0STJacU9FSE5UVWt4cUFpNjFFS3c3My1jNV82NUc3MklRODhwOFFFQUZROG15ZWN1SkExa1dVRVJwZEJaRS1lZXNacUFNcmlma085QkREMm15UTkyZm9hUk5LMUc5UGhQRE1KLXMzN2VjaVp0YzhIODMzN0hMMVkzTQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-24T13:20:03.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "return",
+            "s1mple"
+          ]
+        },
         {
           "title": "Wildcard send FaZe to 0-1 pool",
           "url": "https://www.hltv.org/news/46038/wildcard-send-faze-to-0-1-pool",
@@ -142,6 +154,17 @@
           "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
           "source": "HLTV news",
           "published": "2026-11-24T18:43:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major 2026 Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6X2UxTVlIamhqclQ4VG1UUURyTENpOWFFaUU0dEFoVDJoc1hINnUyZmk2TVk4M0podDZMNWhTOFdiaEhPM1dwZ3A1NjR4ZGdEZk5jdUhLelZsYkZCVWNZWFM5SmR5ODg4ODhIN19OR0JtQQ?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-24T13:02:01.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -229,30 +252,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "M80 extend 9z's woes to move into 1-1 pool",
-          "url": "https://www.hltv.org/news/46041/m80-extend-9zs-woes-to-move-into-1-1-pool",
-          "source": "HLTV news",
-          "published": "2026-11-24T10:36:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Chr1zN: \"It's the first time we have the pieces to push for a little more than just being at events\"",
-          "url": "https://www.hltv.org/news/46040/chr1zn-its-the-first-time-we-have-the-pieces-to-push-for-a-little-more-than-just-being-at-events",
-          "source": "HLTV news",
-          "published": "2026-11-24T10:24:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "Team Liquid Cafe launches as 22 Friendly Fire venues rebrand in 10-year licensing deal",
@@ -275,6 +280,15 @@
           "why": [
             "og"
           ]
+        },
+        {
+          "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
+          "url": "https://esports.gg/news/dota-2/dota-2-version-7-42a-patch-notes/",
+          "source": "esports.gg",
+          "published": "2026-11-25T04:39:47.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Allied - Z10, November 26, 2026 - match stream, live broadcast - EPC S4 - Dota 2",
