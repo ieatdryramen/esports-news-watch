@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T17:55:27.738Z",
+  "generatedAt": "2026-11-25T18:55:18.288Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "s1mple's BC.Game Go 0-3 at PGL Major Singapore 2026",
@@ -76,10 +76,10 @@
           ]
         },
         {
-          "title": "PGL Singapore Major 2026 Stage 1 Day 2 Recap",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakNiRFFlZHdyU3VFWVZJaEdnV25MSHU2NXg4dTRDaGhVLXUyRVpiaE85YWxKZjRlWUpGVFYtN3YyakNHNmF0SzFGYlduUS1lNlNUMTJ1Y1VBY3FQUmZUTnRVX2hxV2ZmT2gxT1dySEY4WVJLVXhfdWlVR3pUZnNnUng2bWk3bmRV?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-25T14:59:40.000Z",
+          "title": "On the ground at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-25T18:43:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -146,6 +146,23 @@
       ]
     },
     {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-25T06:42:57.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Dota",
       "storyCount": 2,
       "stories": [
@@ -162,8 +179,8 @@
         },
         {
           "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
-          "url": "https://esports.gg/news/dota-2/dota-2-version-7-42a-patch-notes/",
-          "source": "esports.gg",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-25T04:39:47.000Z",
           "score": 1,
           "level": null,
@@ -209,7 +226,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
