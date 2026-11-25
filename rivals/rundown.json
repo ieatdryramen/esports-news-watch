@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T04:00:32.070Z",
+  "generatedAt": "2026-11-25T05:00:27.224Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Marvel Rivals Ignite 2026 Grand Finals: Schedule, results, teams, and format",
@@ -63,6 +63,15 @@
           "why": [
             "official"
           ]
+        },
+        {
+          "title": "Marvel Rivals’ Jeff becomes a poseable Lego menace, GameSpot reports",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qb28wcGVEb3UtQWM0RFZhZER6blRBbzh0TEtOaHk4b2dJcDBueC1fbXNGOFhZR21xYTJUOURnZkR2OGpsQUJZ?oc=5",
+          "source": "Google News: Rivals patches (Digg)",
+          "published": "2026-11-25T04:56:06.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "LEGO Marvel Rivals has a huge minifigure opportunity",
