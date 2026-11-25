@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:00:25.253Z",
+  "generatedAt": "2026-11-25T11:00:27.996Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -135,7 +135,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 16,
+      "storyCount": 15,
       "stories": [
         {
           "title": "TYLOO bench Moseyuh",
@@ -160,15 +160,14 @@
           ]
         },
         {
-          "title": "s1mple’s Major Return Turns Into a Nightmare as GOSH Fall to 0-2 in Singapore",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNckx0STJacU9FSE5UVWt4cUFpNjFFS3c3My1jNV82NUc3MklRODhwOFFFQUZROG15ZWN1SkExa1dVRVJwZEJaRS1lZXNacUFNcmlma085QkREMm15UTkyZm9hUk5LMUc5UGhQRE1KLXMzN2VjaVp0YzhIODMzN0hMMVkzTQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-24T13:20:03.000Z",
-          "score": 4,
+          "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFJMFVPOE5sUF8xMklHQTJtaUlwZEhOZ2VFcnZjX1AybHhmUUt3RVRJYUhlQ0JpRG13TWI0QnUwcFFUNzViUldqMXEyQWstZkNsa19KQTNFX1ZqdUNTNUdxUmtjRXFMZGxMY0xxTU1hSzZXY3dQUWtTb0lFZFBPeEJWLTk4MW5iZ1p6NXFwS3F2LW95ekh5bkNxeWpyLVBsMXIydmZKdk5Vc0JDTnVCRUhucVViWWVLNWxZ?oc=5",
+          "source": "Google News: CS2 (Sheep Esports)",
+          "published": "2026-11-25T10:23:50.000Z",
+          "score": 3,
           "level": null,
           "why": [
-            "return",
-            "s1mple"
+            "cs2 major"
           ]
         },
         {
@@ -196,28 +195,6 @@
           ]
         },
         {
-          "title": "PGL Singapore Major 2026 Day 1 Recap",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6X2UxTVlIamhqclQ4VG1UUURyTENpOWFFaUU0dEFoVDJoc1hINnUyZmk2TVk4M0podDZMNWhTOFdiaEhPM1dwZ3A1NjR4ZGdEZk5jdUhLelZsYkZCVWNZWFM5SmR5ODg4ODhIN19OR0JtQQ?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-24T13:02:01.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "Team Liquid Licenses Its Brand to Friendly Fire, Turning 22 Gaming Cafes Into Team Liquid Cafes",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3B1eThVN3ViMTNRR05FeTVIZHFLVEJVdmgybXVxR2dwaWJJX1ZidDhINTl0ajQzMUY0UWxiM3VSZHdUbzRXM2JSNzVSdWxRbkJkUG1WaDlYaEpYck04QWtSRGwtd2YtbkpSNlh3QWpYX1VZalF0U2lXQUdIc2Z1SDQwWkFzcFYt?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-24T12:54:28.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "liquid"
-          ]
-        },
-        {
           "title": "Twistzz leads the way in FaZe's drubbing of BCG",
           "url": "https://www.hltv.org/news/46044/twistzz-leads-the-way-in-fazes-drubbing-of-bcg",
           "source": "HLTV news",
@@ -240,6 +217,17 @@
           ]
         },
         {
+          "title": "9z snap losing streak to send DENDELE packing in Singapore",
+          "url": "https://www.hltv.org/news/46048/9z-snap-losing-streak-to-send-dendele-packing-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T09:56:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
+        },
+        {
           "title": "Singapore Major Stage 1 day 2 matchups set",
           "url": "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
           "source": "HLTV news",
@@ -249,6 +237,15 @@
           "why": [
             "liquid*"
           ]
+        },
+        {
+          "title": "FlyQuest beat Imperial to secure Stage 2 spot",
+          "url": "https://www.hltv.org/news/46050/flyquest-beat-imperial-to-secure-stage-2-spot",
+          "source": "HLTV news",
+          "published": "2026-11-25T10:55:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Lake: \"We play best when we're most energetic\"",
@@ -272,7 +269,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Team Liquid Cafe launches as 22 Friendly Fire venues rebrand in 10-year licensing deal",
@@ -283,17 +280,6 @@
           "level": null,
           "why": [
             "team liquid"
-          ]
-        },
-        {
-          "title": "Liquid, OG, Xtreme, Aurora extend stays at BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ctd3BBbWxlRVc5ZFNoVXBuZDY2QXMwVkxpOVpGU01xZ21Ka3R3dm1EdzduZnRMbUY0QzN0WWU1NUVORlN0NmdxajlzZTc3UnB3Nnh6T1Y4c2o2b1FKdWdSZHRNTWg4SGlVNHJCVWUxQVF5YVJrT3ZZSlZZVmt2Z0FSb0d5bHcxQzZfWGZha3hUNzFX?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-24T12:26:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
           ]
         },
         {
