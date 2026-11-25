@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T02:00:23.726Z",
+  "generatedAt": "2026-11-25T03:00:26.190Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Street Fighter",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Japan 2027 Tournament Lineup Revealed",
@@ -43,24 +43,12 @@
             "evo",
             "evo japan"
           ]
-        },
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
         }
       ]
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Evo Japan 2027 Tournament Lineup Revealed",
@@ -99,24 +87,12 @@
             "evo",
             "evo japan"
           ]
-        },
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Legacy FGC (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Evo Japan 2027 Tournament Lineup Revealed",
@@ -142,24 +118,12 @@
             "evo",
             "evo japan"
           ]
-        },
-        {
-          "title": "「Evo Japan 2027 アナウンスメントショー」が11月24日に配信！メインタイトルのラインナップなど最新情報を公開",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USV9GR1RDSFBPODkzVEcxLWtYdGhnU1Z6dTROTWR2ZkRqY0d1Tkloa2RuSHdKYlV2N0ZkQXdvdmp3NkQyWDhvTU4zbGdzMW02dnlsSVoxaG9ocEEzNWw1QkFBaDIydzFiRzNMdnlKOFN1TFM4bkJZ0gF3QVVfeXFMTVRJX0ZHVENIUE84OTNURzEta1h0aGdTVnp1NE5NZHZmRGpjR3VOSWhrZG5Id0piVXY3RmRBd292anc2RDJYOG9NTjNsZ3MxbTZ2eWxJWjFob2hwQTM1bDVCQUFoMjJ3MWJHM0x2eUo4U3VMUzhuQlk?oc=5",
-          "source": "Google News: Tekken (Saiga NAK)",
-          "published": "2026-11-24T02:14:54.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "evo",
-            "evo japan"
-          ]
         }
       ]
     },
     {
       "scene": "CS2",
-      "storyCount": 13,
+      "storyCount": 14,
       "stories": [
         {
           "title": "s1mple’s Major Return Turns Into a Nightmare as GOSH Fall to 0-2 in Singapore",
@@ -190,6 +154,17 @@
           "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
           "source": "HLTV news",
           "published": "2026-11-24T18:43:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major 2026 Day 1 Recap",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6X2UxTVlIamhqclQ4VG1UUURyTENpOWFFaUU0dEFoVDJoc1hINnUyZmk2TVk4M0podDZMNWhTOFdiaEhPM1dwZ3A1NjR4ZGdEZk5jdUhLelZsYkZCVWNZWFM5SmR5ODg4ODhIN19OR0JtQQ?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-24T13:02:01.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -277,21 +252,12 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "M80 extend 9z's woes to move into 1-1 pool",
-          "url": "https://www.hltv.org/news/46041/m80-extend-9zs-woes-to-move-into-1-1-pool",
-          "source": "HLTV news",
-          "published": "2026-11-24T10:36:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "Team Liquid Cafe launches as 22 Friendly Fire venues rebrand in 10-year licensing deal",
@@ -305,20 +271,9 @@
           ]
         },
         {
-          "title": "Liquid, OG, Xtreme, Aurora extend stays at BLAST Slam IX",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ctd3BBbWxlRVc5ZFNoVXBuZDY2QXMwVkxpOVpGU01xZ21Ka3R3dm1EdzduZnRMbUY0QzN0WWU1NUVORlN0NmdxajlzZTc3UnB3Nnh6T1Y4c2o2b1FKdWdSZHRNTWg4SGlVNHJCVWUxQVF5YVJrT3ZZSlZZVmt2Z0FSb0d5bHcxQzZfWGZha3hUNzFX?oc=5",
-          "source": "Google News: Dota (Field Level Media)",
-          "published": "2026-11-24T12:26:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "og"
-          ]
-        },
-        {
           "title": "How to deal with illusions in Dota 2",
-          "url": "https://esports.gg/guides/dota-2/how-to-deal-with-illusions-dota-2/",
-          "source": "esports.gg",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LWTdpekk0SHhfN0MtRTBpemt0cUpDREhsdE90VF9pLWpERE5aUXlIbzkyd1U4eFdrZFoyWUtKXzVGbFQzenNTVjlBbXZGQWY1TXZtOExRN2ZEdElvaWVCVkp2cDJfMkFSeG02YlBvQXh6bDFTcVE?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
           "published": "2026-11-24T03:15:47.000Z",
           "score": 1,
           "level": null,
