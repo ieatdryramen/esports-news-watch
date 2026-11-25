@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-25T12:00:34.117Z",
+  "generatedAt": "2026-11-25T13:00:31.099Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
-        {
-          "title": "Marvel Tōkon joins Evo Japan 2027’s seven-game fight card",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kMXo0NEVIODR4NE80ZDRiR2VTWkNaSjB0aF9pQ0tqM2NFaGtFbHI3OGRfcE1WaTVPVE9IU2ZMdThaLWFxdkNF?oc=5",
-          "source": "Google News: Tokon (Digg)",
-          "published": "2026-11-24T12:03:43.000Z",
-          "score": 10,
-          "level": "breaking",
-          "why": [
-            "joins",
-            "evo",
-            "evo",
-            "evo japan"
-          ]
-        },
         {
           "title": "EVO Japan 2027 main game lineup includes Marvel Tokon, Fatal Fury & Street Fighter 6",
           "url": "/article/151478/evo-japan-2027-main-stage-game-lineup",

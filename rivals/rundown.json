@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-25T12:00:33.134Z",
+  "generatedAt": "2026-11-25T13:00:30.451Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 11,
       "stories": [
+        {
+          "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdWlLVS1TRHN0SFdCY2FfVnVxOWU5Qy1CLWZKb01BY2JBLTBfeTlOSDFoMTctaHU0a3BENjJlMm5ieWpQOEJjOXFlenhVeC1kdFBSay1iMlQ5bm45REQyZl8zWlhSdw?oc=5",
+          "source": "Google News: Rivals esports (Natus Vincere)",
+          "published": "2026-11-25T11:00:00.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "grand finals",
+            "grand finals"
+          ]
+        },
         {
           "title": "Marvel Rivals Players Can Earn a Free IGNITE Black Widow Skin by Watching 8 Hours of Grand Finals on Twitch",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTRNQW92eFd2a0RMUkpPelhRZzRMakhRRzNjaXpCMW1WZWdTajV0NlB5bmxmSmY5VV9IekNyWGFkWG9kRlBQNm5JcTNsMlViVE94ZWlFV1IwZEx0UXkyc0J0NEhicXBpRXpOWlFZX0pjRmtxdEplQXhta2xIb1IyZ1dhMEZIVWhzOExqTU9TVExLQ0VhdGRMU184TDZpNDVod2o2QzhzSmYwNTN3ZFFGd1NHdFk2QUItcm4zQnpOOE5oZ1dDXzl6LV9CNlZBZw?oc=5",
@@ -55,6 +67,15 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1JMY0JLakRXamtsRTZhdl83Rl9aV0ZjbVBxVHVpVmFUMFllNzc4VEtiS3J4dGJMZ09wNTRzNjgxUDJnbVM4ZGVSNDlLejN6MmQ5c2FWWUNCSGM2WWExbWlMNWlGN3J1RXZkcWM5RXZqVU9lQVpBc2xhU21iV2pwdTRPZDl2R00?oc=5",
           "source": "Google News: Rivals esports (Happy Gamer)",
           "published": "2026-11-25T05:54:15.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals’ Jeff becomes a poseable Lego menace, GameSpot reports",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qb28wcGVEb3UtQWM0RFZhZER6blRBbzh0TEtOaHk4b2dJcDBueC1fbXNGOFhZR21xYTJUOURnZkR2OGpsQUJZ?oc=5",
+          "source": "Google News: Rivals patches (Digg)",
+          "published": "2026-11-25T04:56:06.000Z",
           "score": 1,
           "level": null,
           "why": []
