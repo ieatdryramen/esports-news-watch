@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T22:00:26.254Z",
+  "generatedAt": "2026-11-25T23:00:25.285Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
@@ -101,13 +101,24 @@
         },
         {
           "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDVjVkxRaGtRNUw3SzNOVmNOWktuUXljUG9mNnJQekNiWXVxaDc0Um9FWkFQdkR3U2ZHTVpLZ0R6WTNCektTQmpxYVZleEo3X0F5OTJzb2lOc2o0NXBuUUdlOHhmN1RoUEc0dkc4ZWhnY1prQUR2bzBOSUMxVFpMR0EtT0pUMWhkZmdxdjB0b0ZSR0ZGaXV4REJ4cF9Ta2t6LXd2NzNVQzBWbXlIZmNEMTM5alhFMV9wejNF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFJMFVPOE5sUF8xMklHQTJtaUlwZEhOZ2VFcnZjX1AybHhmUUt3RVRJYUhlQ0JpRG13TWI0QnUwcFFUNzViUldqMXEyQWstZkNsa19KQTNFX1ZqdUNTNUdxUmtjRXFMZGxMY0xxTU1hSzZXY3dQUWtTb0lFZFBPeEJWLTk4MW5iZ1p6NXFwS3F2LW95ekh5bkNxeWpyLVBsMXIydmZKdk5Vc0JDTnVCRUhucVViWWVLNWxZ?oc=5",
           "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-25T10:30:00.000Z",
+          "published": "2026-11-25T10:23:50.000Z",
           "score": 3,
           "level": null,
           "why": [
             "cs2 major"
+          ]
+        },
+        {
+          "title": "9z Eliminate DENDELE 2:0 at PGL Major Singapore 2026",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2c1QVA3WDM3VEoxSk92bUt2REFpc0otaV84Mjl6THlJeDNDc0NRWG93Ri1sUm96dVdlUVdBbUFxLUUzSURqYzdTYVhSZ1pkWHREVUZfNTMtZDdkdHdOTGlWSm1MRXV2WUg0WmtrWWYwb2kyU21NSVVtR0t2WjFnclhjdk9WX2tab09hTjd3Ni0xNDFhdXNFYWx0TGhzdWdtRlMwLWctdHYzOFZBMzRv?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-25T10:02:05.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -133,17 +144,6 @@
           "why": [
             "confirmed"
           ]
-        },
-        {
-          "title": "Singapore Major Stage 1 day 3 matchups set",
-          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze*"
-          ]
         }
       ]
     },
@@ -166,7 +166,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
@@ -178,15 +178,6 @@
           "why": [
             "won*"
           ]
-        },
-        {
-          "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-25T04:39:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
