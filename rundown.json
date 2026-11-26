@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T05:50:24.562Z",
+  "generatedAt": "2026-11-26T06:50:24.821Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 18,
       "stories": [
         {
           "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
@@ -43,6 +43,17 @@
           ]
         },
         {
+          "title": "Jason Lake Wins First HLTV Lifetime Achievement Award",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IVGpOTTgwZFJnNXh3TFFtcy1yZllweWVzaW9xbUdFeUVNb0JZUnB3a3Jqa0xOclFTcVJIUUNYWUgxbmJOaVBoajYyUWFPa2E2cWwyVUkwVjFyd2hUc2VpNEx0Ym9fNm0tTWc?oc=5",
+          "source": "Google News: CS2 (Demokratis.co.id)",
+          "published": "2026-11-25T08:40:38.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
+          ]
+        },
+        {
           "title": "NIP beat Liquid to reach Stage 2 in Singapore",
           "url": "https://www.hltv.org/news/46052/nip-beat-liquid-to-reach-stage-2-in-singapore",
           "source": "HLTV news",
@@ -78,9 +89,9 @@
         },
         {
           "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDVjVkxRaGtRNUw3SzNOVmNOWktuUXljUG9mNnJQekNiWXVxaDc0Um9FWkFQdkR3U2ZHTVpLZ0R6WTNCektTQmpxYVZleEo3X0F5OTJzb2lOc2o0NXBuUUdlOHhmN1RoUEc0dkc4ZWhnY1prQUR2bzBOSUMxVFpMR0EtT0pUMWhkZmdxdjB0b0ZSR0ZGaXV4REJ4cF9Ta2t6LXd2NzNVQzBWbXlIZmNEMTM5alhFMV9wejNF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFJMFVPOE5sUF8xMklHQTJtaUlwZEhOZ2VFcnZjX1AybHhmUUt3RVRJYUhlQ0JpRG13TWI0QnUwcFFUNzViUldqMXEyQWstZkNsa19KQTNFX1ZqdUNTNUdxUmtjRXFMZGxMY0xxTU1hSzZXY3dQUWtTb0lFZFBPeEJWLTk4MW5iZ1p6NXFwS3F2LW95ekh5bkNxeWpyLVBsMXIydmZKdk5Vc0JDTnVCRUhucVViWWVLNWxZ?oc=5",
           "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-25T10:30:00.000Z",
+          "published": "2026-11-25T10:23:50.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -135,52 +146,12 @@
           "why": [
             "faze*"
           ]
-        },
-        {
-          "title": "Chinggis Warriors condemn BC.Game to 0-3 exit in Singapore",
-          "url": "https://www.hltv.org/news/46053/chinggis-warriors-condemn-bcgame-to-0-3-exit-in-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:19:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "s1mple*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Atif Butt Won His Third Tekken 8 Championship at CEO 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjU4N3BLY0xtOENIUGVYSTQ3X1IxZ2Z0MEFIUjdCdnNDN3lfdUJUblhFc25CN0hndHZGYllCSkNqekpheVk4ckxVcWFtWEh4YWRHR3E5TjJwNWVKZlVHSmNZajg5M0NBb0NUYW1UOFpqTkUzVnJCUnZrWFRHakVRRktjVVBsWkZGbGNz?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-25T07:07:12.000Z",
-          "score": 5,
-          "level": "possible",
-          "why": [
-            "won",
-            "atif"
-          ]
-        },
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-25T06:46:39.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
@@ -191,6 +162,17 @@
           "level": null,
           "why": [
             "won*"
+          ]
+        },
+        {
+          "title": "XctN - RE, November 26, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVRyWVB1WWtFRnp3WUhGMDZ2X1JVbFVKVWFJMWtOYWxiUUJYVG9DMTNhbHIxOXlBaGNweU5jMDdxNnU2cnB3dGpITS1MN2hyamhtbDM0NUxVb0cwLU5obWhUa2JnRmxfQld1U1Nrc24tV3l2MmJOU19wb2NfenVZcnRDaE9wSWRKbTFvR3ljRm1FbjFWN1B2OFJHZzBrWl9WUFhJZTdXQ3VLc0lWM1E?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-26T06:00:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
           ]
         }
       ]
@@ -242,6 +224,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
