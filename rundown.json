@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T11:40:19.331Z",
+  "generatedAt": "2026-11-26T12:00:26.058Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 21,
       "stories": [
         {
           "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
@@ -20,6 +20,31 @@
           ]
         },
         {
+          "title": "FaZe Knocked Out of PGL Major Singapore 2026 by HEROIC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG5Ram9IMW9NWk1HZnRUM3dXN213ZjFsbzlBWjUzUERnRGVtUTFYQ1QxZDlCclpDc1ZFLVpuaWt2SkVIVWxjMUJzbU83bW9POTktbXc4Q19tQjRmZnpNOWZpQVA5OE02c0UtUWRYOTJXd1A0TGIyUkF2aFQ0RlFJdmExb0I2RVdxVlVzdGJ2QUxCNXdFVzAyejlkVkhfUzg1Vk9CQ2tPZFRzZ29MUktV?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-26T09:12:48.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "knocked out",
+            "faze",
+            "pgl"
+          ]
+        },
+        {
+          "title": "s1mple's BC.Game Go 0-3 at PGL Major Singapore 2026",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkt2bTFYdTA1RFFHd2pLM2dMRDNuRnRHS3RvNXZLZmFRWFNSUzhyWjB4NFVGMWRVdEJNNTBBNTN3QVFWRlNZZ0l2QzhsWEs5ZWd6cDQxM2NXd1Y4ZjBRNzNUZXdFSkNYV3hORjhYZ08yOTBsM3hpWDdLNnF6VllYV1pXOGNCMWswaEFvMEFqZ2dtZEVnV2FqQjRleXF6Nmc0b1pxX1BFQWs1d2xwMHVV?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-25T13:23:03.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "s1mple",
+            "pgl"
+          ]
+        },
+        {
           "title": "NiP Sweep Liquid 2-0, Advance 3-0 to PGL Major Singapore Stage 2",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWg4d1hFcW8wdHJLLUJzR1RlTFFhTGlBRnBGWDBkUlJsYTNENmRVMEJJWjl1cDJrZHZ6U1RzZmVrWmMzd3ZfUjNRdjdzWGdvVERRRVlmd3E2elNOR0tUR0t3d213eGpiOUFkZXF6TERrNXBGb2pzX25NVFVEZDNoVlIyT1AtNG5lVVBPT0FDVlRBbnRNc3pObjVOdnFYcDFNRmxDSEgxX1VuRU93akFR?oc=5",
           "source": "Google News: CS2 (EGamersWorld)",
@@ -28,6 +53,18 @@
           "level": null,
           "why": [
             "liquid",
+            "pgl"
+          ]
+        },
+        {
+          "title": "100T eliminate 9z from PGL Major",
+          "url": "https://www.hltv.org/news/46060/100t-eliminate-9z-from-pgl-major",
+          "source": "HLTV news",
+          "published": "2026-11-26T11:55:00.000Z",
+          "score": 4.5,
+          "level": null,
+          "why": [
+            "breaking*",
             "pgl"
           ]
         },
@@ -110,37 +147,6 @@
           "why": [
             "confirmed"
           ]
-        },
-        {
-          "title": "Singapore Major Stage 1 day 3 matchups set",
-          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze*"
-          ]
-        },
-        {
-          "title": "Chinggis Warriors condemn BC.Game to 0-3 exit in Singapore",
-          "url": "https://www.hltv.org/news/46053/chinggis-warriors-condemn-bcgame-to-0-3-exit-in-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:19:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "s1mple*"
-          ]
-        },
-        {
-          "title": "PARIVISION dispatch Lynn Vision to make Stage 2",
-          "url": "https://www.hltv.org/news/46059/parivision-dispatch-lynn-vision-to-make-stage-2",
-          "source": "HLTV news",
-          "published": "2026-11-26T11:06:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
