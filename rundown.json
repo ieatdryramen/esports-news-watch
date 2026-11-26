@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T20:00:29.655Z",
+  "generatedAt": "2026-11-26T21:00:26.865Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 22,
       "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
@@ -47,20 +47,7 @@
           ]
         },
         {
-          "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-26T15:34:32.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "faze",
-            "liquid",
-            "pgl"
-          ]
-        },
-        {
-          "title": "FaZe Are Out of the Singapore Major. Can Team Liquid and 100 Thieves Go Further?",
+          "title": "PGL Major Singapore 2026: Can Team Liquid and 100 Thieves Challenge the CS2 Favorites After FaZe’s Exit?",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVd5VF9rWENJZlJlendPQldjbllZTmY4VEhMNFd1SGphRkVJZjNfUDYybl9JM2gyN1lLdng1S3djalIxeGF4eGdad0xyVVhpemxLYXE2NGRXRmJUNVVKXzkxNGNiMi0xTHpnUWRjOXFBZW00cE5xNG0yUW0xNDd2MW1tNHVvX0RERlk3SVB5NThHU01QNlV2Q2hCRQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-26T14:24:24.000Z",
@@ -68,7 +55,8 @@
           "level": null,
           "why": [
             "faze",
-            "liquid"
+            "liquid",
+            "pgl"
           ]
         },
         {
@@ -103,6 +91,17 @@
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "Counter-Strike 2 returns to Esports World Cup in 2027 and 2028",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6MTJrUlRHa29vckRSQzBNM1d5bWowRVNmWmwzYlpvRW9Na0VfYU93SWxSbzE0NVBsY1dMRm1QZ0FQZHB4ZFdXQjl2ckpMVXgzUlBYT2NDVGxjcHRqSGZ5c01HZFVTdzRkcXVkbGxxSmhsS21Wd1E?oc=5",
+          "source": "Google News: CS2 (games.gg)",
+          "published": "2026-11-26T16:04:11.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "returns"
           ]
         },
         {
@@ -161,33 +160,25 @@
           ]
         },
         {
-          "title": "Counter-Strike 2 confirmed for 2027 and 2028 Esports World Cup",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2tGeXZQeW9LMDV1VkxNRGI1M0JzUFp4NWRQTG9fVkphdUliV09ZSDhzR0dUVThWTHZ4dEQxaDBPdkVwSFRiVi1yT3ZvYnJKdmJTWGJCemNUU3BZWHE3RGN4djkzX3M1X0dDaXBrblhLdGJJSHRfWmsyV0tTeWVYRXZlOWlTS1pSSEcyMEc2RUlyU2syX3ZqdHpkcDUteFhncGl1REhSSW5ISDVNYmdDYl9nX18?oc=5",
-          "source": "Google News: CS2 (iGaming Brazil)",
-          "published": "2026-11-26T13:35:19.000Z",
+          "title": "Best CS2 settings: donk, ZywOo, and m0NESY",
+          "url": "https://esports.gg/news/counter-strike-2/best-cs2-video-settings/",
+          "source": "esports.gg",
+          "published": "2026-11-26T00:13:19.000Z",
           "score": 2,
           "level": null,
           "why": [
-            "confirmed"
+            "zywoo",
+            "donk",
+            "m0nesy",
+            "-settings"
           ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "Yatoro named the strongest carry heroes in the current Dota 2 meta",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmpuNVgtRFVqSXpEUHBxd2VCVXNMa25KNGpBdEdBb3JLMWFsRVpjYU1NdTI1XzFCaUNFR01vMDhtemc4cWs3SDAxNWgxQ1k4eEFxbm9FbWdFdG5LNTBBcnR3NUtQTVV5a2VQbEVkZi04YlFUX3FPQUdFMHJjd2trNll0el9pQQ?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-26T08:00:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "yatoro"
-          ]
-        },
         {
           "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
@@ -221,22 +212,13 @@
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "CDL Kickoff Classic Seeding: How the 12 Teams Ranked Each Other",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0VQOWVIZVZ3MGl1a2FncHlpNTRTcHlfekhoZXJqTzVJeHQ3cl93YTZRMndSbEk3VkdYdjJiaGZCVmVOUURCODBzcXIwY3Y3NkdmTERvYjdnNmdkOWk5TG1TVVdvUldWelVwc1ZScXZnbVoweVZNSDA2Qng5R0FhX0hkZFNqeklo?oc=5",
           "source": "Google News: CoD (Shane the Gamer)",
           "published": "2026-11-26T08:31:53.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "CDL 2027 Kickoff Classic Starts December 4 With Free Viewer Rewards",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91S1RLQWdpbTNORDdDR3g0RmhhWm5Sb3Z5dkQ4dlliV1V2RVpaSjBLc3dfaE1WOVVPR0hmTDJ2YVpQR2t1VHJJYXU1VV9JMHQ0ZzJyY1NYN0o1ekFkX0pENkFYUkhRNl85elFVOEhsMFlHclI3eFFXU1pJQXNzNFk?oc=5",
-          "source": "Google News: CoD (Happy Gamer)",
-          "published": "2026-11-25T20:20:20.000Z",
           "score": 1,
           "level": null,
           "why": []
