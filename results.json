@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:50:20.055Z",
+  "generatedAt": "2026-11-26T00:20:17.397Z",
   "source": "start.gg",
   "completed": [
     {
@@ -95,57 +95,23 @@
           "name": "YoKai | Mouqui"
         }
       ]
-    },
-    {
-      "eventId": "1751130",
-      "scene": "streetfighter",
-      "game": "Street Fighter III: 3rd Strike",
-      "tournament": "Left Coast Battleground #8",
-      "event": "3S Double Elimination",
-      "entrants": 29,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-23T01:01:00.000Z",
-      "endAt": "2026-11-23T07:00:00.000Z",
-      "url": "https://www.start.gg/tournament/left-coast-battleground-8/event/3s-double-elimination",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "Cruise"
-        },
-        {
-          "placement": 2,
-          "name": "PIKACHUAKUMA"
-        },
-        {
-          "placement": 3,
-          "name": "Duralath"
-        },
-        {
-          "placement": 4,
-          "name": "Haq"
-        },
-        {
-          "placement": 5,
-          "name": "LCB | NoFlyZone"
-        },
-        {
-          "placement": 5,
-          "name": "Dabs&Cabs | MaverickHugo"
-        },
-        {
-          "placement": 7,
-          "name": "Dabs&Cabs | EpixTheRed"
-        },
-        {
-          "placement": 7,
-          "name": "LCB | MangaKitty"
-        }
-      ]
     }
   ],
   "live": [],
   "upcoming": [
+    {
+      "eventId": "1759466",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TNS Street Fighter 6 #174",
+      "event": "Street Fighter 6",
+      "entrants": 141,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-26T01:00:00.000Z",
+      "endAt": "2026-11-26T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-street-fighter-6-174/event/street-fighter-6"
+    },
     {
       "eventId": "1705746",
       "scene": "legacyfgc",
