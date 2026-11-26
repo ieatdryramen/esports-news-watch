@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T18:00:26.221Z",
+  "generatedAt": "2026-11-26T19:00:24.151Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 23,
       "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
@@ -81,6 +81,17 @@
           "why": [
             "breaking*",
             "pgl"
+          ]
+        },
+        {
+          "title": "Esports Team FURIA Renames and Takes Over Top Brazilian Football Club",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXhiT1dxSElQUlpHTFdQVEJxcjNmc21yQXNONGVqSmQ3YzZnMC1tSXdURkxVanhpYzZBV2laVGFQeVV6RDZLQkxDaUQxNG0taExZbXhxNGNNY01YWTlSRV9jN0ktMzNwQks2TGstOTQ1SDl5ZjFvaGlyN0lpUkx0eWFYVHR3N0NlS3FiSTNB?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-26T18:55:21.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia"
           ]
         },
         {
@@ -139,6 +150,17 @@
           ]
         },
         {
+          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
+          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
+          "source": "HLTV news",
+          "published": "2026-11-26T18:31:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid*"
+          ]
+        },
+        {
           "title": "Counter-Strike 2 confirmed for 2027 and 2028 Esports World Cup",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2tGeXZQeW9LMDV1VkxNRGI1M0JzUFp4NWRQTG9fVkphdUliV09ZSDhzR0dUVThWTHZ4dEQxaDBPdkVwSFRiVi1yT3ZvYnJKdmJTWGJCemNUU3BZWHE3RGN4djkzX3M1X0dDaXBrblhLdGJJSHRfWmsyV0tTeWVYRXZlOWlTS1pSSEcyMEc2RUlyU2syX3ZqdHpkcDUteFhncGl1REhSSW5ISDVNYmdDYl9nX18?oc=5",
           "source": "Google News: CS2 (iGaming Brazil)",
@@ -148,36 +170,24 @@
           "why": [
             "confirmed"
           ]
-        },
-        {
-          "title": "Best CS2 settings: donk, ZywOo, and m0NESY",
-          "url": "https://esports.gg/news/counter-strike-2/best-cs2-video-settings/",
-          "source": "esports.gg",
-          "published": "2026-11-26T00:13:19.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zywoo",
-            "donk",
-            "m0nesy",
-            "-settings"
-          ]
-        },
-        {
-          "title": "Matchups set for final day of Stage 1",
-          "url": "https://www.hltv.org/news/46068/matchups-set-for-final-day-of-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-26T16:15:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
+        {
+          "title": "Yatoro named the strongest carry heroes in the current Dota 2 meta",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmpuNVgtRFVqSXpEUHBxd2VCVXNMa25KNGpBdEdBb3JLMWFsRVpjYU1NdTI1XzFCaUNFR01vMDhtemc4cWs3SDAxNWgxQ1k4eEFxbm9FbWdFdG5LNTBBcnR3NUtQTVV5a2VQbEVkZi04YlFUX3FPQUdFMHJjd2trNll0el9pQQ?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-26T08:00:16.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "yatoro"
+          ]
+        },
         {
           "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
