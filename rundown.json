@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T15:00:31.231Z",
+  "generatedAt": "2026-11-26T16:00:25.852Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 23,
       "stories": [
         {
           "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
@@ -33,6 +33,19 @@
           ]
         },
         {
+          "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-26T15:34:32.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "faze",
+            "liquid",
+            "pgl"
+          ]
+        },
+        {
           "title": "FaZe Are Out of the Singapore Major. Can Team Liquid and 100 Thieves Go Further?",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVd5VF9rWENJZlJlendPQldjbllZTmY4VEhMNFd1SGphRkVJZjNfUDYybl9JM2gyN1lLdng1S3djalIxeGF4eGdad0xyVVhpemxLYXE2NGRXRmJUNVVKXzkxNGNiMi0xTHpnUWRjOXFBZW00cE5xNG0yUW0xNDd2MW1tNHVvX0RERlk3SVB5NThHU01QNlV2Q2hCRQ?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -54,6 +67,17 @@
           "why": [
             "breaking*",
             "pgl"
+          ]
+        },
+        {
+          "title": "9z Chief Floats CS2 Major Boycott Claim",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVI3U0pDNmJ2RExzRXZCWHV3M3RZLXhxSl81aWlJTWlhZXhqOVNQbm5HNkJqOG9scXFTWmE2VnRrUG54SnZ2TEF2ODl5cDI2Y2M2d0RmTVI4NDYwX3VBcy1HMDhVTWxwU0w5VHozS2JfX2h5UkF6dE5HZTRNcXpsSA?oc=5",
+          "source": "Google News: CS2 (Wisevoter)",
+          "published": "2026-11-26T15:09:25.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "cs2 major"
           ]
         },
         {
@@ -101,17 +125,6 @@
           ]
         },
         {
-          "title": "On the ground at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-25T18:43:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "Counter-Strike 2 confirmed for 2027 and 2028 Esports World Cup",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2tGeXZQeW9LMDV1VkxNRGI1M0JzUFp4NWRQTG9fVkphdUliV09ZSDhzR0dUVThWTHZ4dEQxaDBPdkVwSFRiVi1yT3ZvYnJKdmJTWGJCemNUU3BZWHE3RGN4djkzX3M1X0dDaXBrblhLdGJJSHRfWmsyV0tTeWVYRXZlOWlTS1pSSEcyMEc2RUlyU2syX3ZqdHpkcDUteFhncGl1REhSSW5ISDVNYmdDYl9nX18?oc=5",
           "source": "Google News: CS2 (iGaming Brazil)",
@@ -135,15 +148,6 @@
             "m0nesy",
             "-settings"
           ]
-        },
-        {
-          "title": "9z CEO Says CS2 Pros Are Discussing a Boycott of the Next Major",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFpJNVJBNzB5VFBDQ0xVNmNZcThJOV8tYXN5T3hPaXNLQmdpSjhIQnM2VjRzSHlvWUgzT21adTU1aHAyTzQxQlZkRko2a0lIdnhEVFVaa3l2NHBMbG8zc2FiS2NyUkdVOTVLeXRhdV9YTS1MN2IzcnBlWjRUb3VXeVlnVEpucUVvaUV0bWwyX20?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T14:09:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -176,13 +180,22 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
           "source": "Google News: Dota (Foro3D)",
           "published": "2026-11-26T14:05:46.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Minsk hosts the NOVA festival final with sixteen teams in CS2 and Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGNmMzl3Q2lIdkI2OHdDTG9vTHVYakVyNHNycjlxLWJMNWlOQU5zUUY0dG5XQ3RoSVFRc1VaWFRkZzhLSDlPUkJfeF9kSm5rOVFwOXdkcjVnLVRfXzQ2ME9FNDQxYmEzSmRIRmlpbWNxTl9RcGNQckZkUzFSZFprdDdBRnQ0a09Gb0psbFFwZkZHMTJtOVh5eUNwaDNkazFfd1lsajlhajU1Rnl2SWpRVg?oc=5",
+          "source": "Google News: Dota (Foro3D)",
+          "published": "2026-11-26T14:05:41.000Z",
           "score": 1,
           "level": null,
           "why": []
