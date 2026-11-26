@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T07:45:34.625Z",
+  "generatedAt": "2026-11-26T08:45:28.568Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
@@ -16,6 +16,17 @@
           "why": [
             "grand finals",
             "grand finals"
+          ]
+        },
+        {
+          "title": "Marvel Rivals November 26 Patch Notes: Anniversary Events, Black Friday Sale, and More",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BVnVfYlZURW1XWnVnTnBqU0lta3VEeWJTaXY4ZUdlbmdCazUwMFU2TkJWSlF5bXI5MXNHcmtuOTRoNmYxUTdTVEZpenhNSGc1bU1XcURDQVI5ODFaUHlJM0RCbDladFNK0gFuQVVfeXFMTW1vSFJCb0U0NDMzTXJ5V2RYTW82d1JabkNCaWhCTFVwOXpiSDRETWZ2OWFEX0IxSUttSU50ZHNDSjF1MjhmR1NwNGFVQUZqS0s4dGVzZGd1V0c5dUlrR1NOcHd3UEZYNmY1MV8zanc?oc=5",
+          "source": "Google News: Rivals patches (Beebom)",
+          "published": "2026-11-26T06:23:48.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "patch notes"
           ]
         },
         {
