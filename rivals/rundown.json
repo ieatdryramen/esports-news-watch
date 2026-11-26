@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T03:50:28.762Z",
+  "generatedAt": "2026-11-26T04:50:36.733Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
@@ -39,6 +39,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Marvel Rivals Launches Black Friday Sale With 40% Off",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0xRY3FWNzVZVTliNHQySlFISjA1RnRCVW1ac3haT3lUT0dmTTR3VkN1VEMyV0ZsWTN1MnZzTWJ6Q3lBLVdOa2U5d3NGV3JqWWw1V0NaRC0tQjNwWGo4STNxX2lYNzZaTnI3TzlfMTZ6bGEzS3FzQUhNeTYyeWtYajJtaDcxVlB6c3llNFZR?oc=5",
+          "source": "Google News: Rivals esports (Wisevoter)",
+          "published": "2026-11-26T04:43:05.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "LEGO Finally Brings Marvel Rivals’ Fan-Favorite Strategist to Brick Form With an Adorable New Jeff the Land Shark Set",
