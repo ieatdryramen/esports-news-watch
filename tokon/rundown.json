@@ -1,35 +1,8 @@
 {
-  "generatedAt": "2026-11-26T15:40:34.896Z",
+  "generatedAt": "2026-11-26T16:35:48.412Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Tokon",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Dr. Doom Tops Fun-Factor Tier List for Tokon",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXhlZEZYYkFEWXVXWElNcXZuZHEtaV9DLU9VTGp2WmlaWWpoLXpWZWMtWVVuMkg5bG8zaEpsTTNtR2tLODVrcU1ZUmV3SFM2QUVoWUNWZVpNVVNaakRfdUVpR3U3TDhYdF96ekNiX3VNWHJnVlB5Z3A3TDYwOXBVdmVoMzY?oc=5",
-          "source": "Google News: Tokon (Wisevoter)",
-          "published": "2026-11-25T18:47:48.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "tier list"
-          ]
-        },
-        {
-          "title": "Maximilian Dood creates 'fun factor' tier list for Marvel Tokon: Fighting Souls",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVE1kaHRoaDU3dFFhdUpvOTF6c2s3T2lLaWwtbmZGc2dUR0VWWXJ6VkoxQlNSdHROYXowYS1PSklqUXdnNjhYcDdrWGFDMlQ4NXFaQ2lKQV9kU3ZFbjNpQmZqR203VHpjRGlFN25mWE55cjhraEZPaUh3Y2JFam1mdGV1WQ?oc=5",
-          "source": "Google News: Tokon (EventHubs)",
-          "published": "2026-11-25T17:30:58.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "tier list"
-          ]
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Tokon"
+  ]
 }
