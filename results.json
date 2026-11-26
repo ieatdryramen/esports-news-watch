@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-26T04:50:21.719Z",
+  "generatedAt": "2026-11-26T05:20:16.585Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1759466",
+      "scene": "streetfighter",
+      "game": "Street Fighter 6",
+      "tournament": "TNS Street Fighter 6 #174",
+      "event": "Street Fighter 6",
+      "entrants": 138,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-26T01:00:00.000Z",
+      "endAt": "2026-11-26T04:59:00.000Z",
+      "url": "https://www.start.gg/tournament/tns-street-fighter-6-174/event/street-fighter-6",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "NoahTheProdigy"
+        },
+        {
+          "placement": 2,
+          "name": "Shine"
+        },
+        {
+          "placement": 3,
+          "name": "RobTV"
+        },
+        {
+          "placement": 4,
+          "name": "FightRise | Lazyboredom"
+        },
+        {
+          "placement": 5,
+          "name": "Squall"
+        },
+        {
+          "placement": 5,
+          "name": "STG | Dyloch"
+        },
+        {
+          "placement": 7,
+          "name": "ECHT | Young_matt_teen"
+        },
+        {
+          "placement": 7,
+          "name": "Elryonsof"
+        }
+      ]
+    },
     {
       "eventId": "1758619",
       "scene": "tekken",
@@ -97,7 +144,21 @@
       ]
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "eventId": "1760867",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Cashbox #49: Blitzbox Edition",
+      "event": "Melee Singles",
+      "entrants": 201,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-25T23:00:00.000Z",
+      "endAt": "2026-11-26T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-cashbox-49-blitzbox-edition/event/melee-singles"
+    }
+  ],
   "upcoming": [
     {
       "eventId": "1705746",
