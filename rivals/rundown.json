@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T02:50:28.819Z",
+  "generatedAt": "2026-11-26T03:50:28.762Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 7,
       "stories": [
         {
           "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
@@ -72,15 +72,6 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1JMY0JLakRXamtsRTZhdl83Rl9aV0ZjbVBxVHVpVmFUMFllNzc4VEtiS3J4dGJMZ09wNTRzNjgxUDJnbVM4ZGVSNDlLejN6MmQ5c2FWWUNCSGM2WWExbWlMNWlGN3J1RXZkcWM5RXZqVU9lQVpBc2xhU21iV2pwdTRPZDl2R00?oc=5",
           "source": "Google News: Rivals esports (Happy Gamer)",
           "published": "2026-11-25T05:54:15.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Nvidia RTX Spark laptop delivers 180fps in Marvel Rivals t…",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDNIZ2JaZzJnS2k0VTRkNkFwREQ4cDhuZkd1TzFjd1RlRHRNTVlkNDBEVi1pRFJkRnRWbWFvQU9ZZE9lRDlCMkx5Zk1TdjhrRHlsbFNmempnTEtkMUpFZ183NEcyNjdQSnk0VXBPaFN5MmV4akYtc0tWaTRQMzhTa3dVMzFOYmkyNGg0Uk50NzViZVRC?oc=5",
-          "source": "Google News: Rivals patches (TechTimes Vietnam)",
-          "published": "2026-11-25T03:06:05.000Z",
           "score": 1,
           "level": null,
           "why": []
