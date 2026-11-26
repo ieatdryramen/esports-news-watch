@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T12:00:26.058Z",
+  "generatedAt": "2026-11-26T13:00:26.685Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
@@ -41,18 +41,6 @@
           "level": null,
           "why": [
             "s1mple",
-            "pgl"
-          ]
-        },
-        {
-          "title": "NiP Sweep Liquid 2-0, Advance 3-0 to PGL Major Singapore Stage 2",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWg4d1hFcW8wdHJLLUJzR1RlTFFhTGlBRnBGWDBkUlJsYTNENmRVMEJJWjl1cDJrZHZ6U1RzZmVrWmMzd3ZfUjNRdjdzWGdvVERRRVlmd3E2elNOR0tUR0t3d213eGpiOUFkZXF6TERrNXBGb2pzX25NVFVEZDNoVlIyT1AtNG5lVVBPT0FDVlRBbnRNc3pObjVOdnFYcDFNRmxDSEgxX1VuRU93akFR?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-25T12:49:26.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "liquid",
             "pgl"
           ]
         },
@@ -147,6 +135,17 @@
           "why": [
             "confirmed"
           ]
+        },
+        {
+          "title": "Singapore Major Stage 1 day 3 matchups set",
+          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
+          "source": "HLTV news",
+          "published": "2026-11-25T13:53:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze*"
+          ]
         }
       ]
     },
@@ -178,39 +177,6 @@
       ]
     },
     {
-      "scene": "CoD",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "CDL Kickoff Classic Seeding: How the 12 Teams Ranked Each Other",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0VQOWVIZVZ3MGl1a2FncHlpNTRTcHlfekhoZXJqTzVJeHQ3cl93YTZRMndSbEk3VkdYdjJiaGZCVmVOUURCODBzcXIwY3Y3NkdmTERvYjdnNmdkOWk5TG1TVVdvUldWelVwc1ZScXZnbVoweVZNSDA2Qng5R0FhX0hkZFNqeklo?oc=5",
-          "source": "Google News: CoD (Shane the Gamer)",
-          "published": "2026-11-26T08:31:53.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "CDL 2027 Kickoff Classic Starts December 4 With Free Viewer Rewards",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91S1RLQWdpbTNORDdDR3g0RmhhWm5Sb3Z5dkQ4dlliV1V2RVpaSjBLc3dfaE1WOVVPR0hmTDJ2YVpQR2t1VHJJYXU1VV9JMHQ0ZzJyY1NYN0o1ekFkX0pENkFYUkhRNl85elFVOEhsMFlHclI3eFFXU1pJQXNzNFk?oc=5",
-          "source": "Google News: CoD (Happy Gamer)",
-          "published": "2026-11-25T20:20:20.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Paris Gentle Mates Top Peer Rankings for 2027 CDL Kickoff Classic",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlIxT2NwVTYtalBXQ0xCT0tYdEN6cUVMd1VMMWQxc0lmVUxYVXI3eDM1R2JOLWJ2Qnk3aHlvbTVZZDRmRWRfTUVNdDdzRThYNnVLU1A2V2FHTkJQbExCNW95bnlwUUtEWUwtTjg2QnI4a2V4cHBuajhqbDktVTNxM0tDUG5HV3hhaHhBY3RDN2pBcW8?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-25T12:03:02.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Dota",
       "storyCount": 2,
       "stories": [
@@ -233,6 +199,30 @@
           "why": [
             "-stream"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "CDL Kickoff Classic Seeding: How the 12 Teams Ranked Each Other",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0VQOWVIZVZ3MGl1a2FncHlpNTRTcHlfekhoZXJqTzVJeHQ3cl93YTZRMndSbEk3VkdYdjJiaGZCVmVOUURCODBzcXIwY3Y3NkdmTERvYjdnNmdkOWk5TG1TVVdvUldWelVwc1ZScXZnbVoweVZNSDA2Qng5R0FhX0hkZFNqeklo?oc=5",
+          "source": "Google News: CoD (Shane the Gamer)",
+          "published": "2026-11-26T08:31:53.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "CDL 2027 Kickoff Classic Starts December 4 With Free Viewer Rewards",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91S1RLQWdpbTNORDdDR3g0RmhhWm5Sb3Z5dkQ4dlliV1V2RVpaSjBLc3dfaE1WOVVPR0hmTDJ2YVpQR2t1VHJJYXU1VV9JMHQ0ZzJyY1NYN0o1ekFkX0pENkFYUkhRNl85elFVOEhsMFlHclI3eFFXU1pJQXNzNFk?oc=5",
+          "source": "Google News: CoD (Happy Gamer)",
+          "published": "2026-11-25T20:20:20.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
