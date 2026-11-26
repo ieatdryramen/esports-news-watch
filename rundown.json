@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:40:28.305Z",
+  "generatedAt": "2026-11-26T10:40:19.645Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -55,6 +55,17 @@
           ]
         },
         {
+          "title": "FaZe Crash Out of the Singapore Major at 1-3",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzg3ZGtIT1lHVUlreGZBUGhaUDNaeElIU0xCNGpuLUpDdFM2UEN3NFBhbzdGbHM2M1QtWnh2Z09NVXNSN2d4T3pWSTB1VkZhSGFKa1JQVzJ3YkMxcmJYN0pMdFBva2Jwd2d6VDFqZlhCU3Zva3RzSWV6akJWc3pVZzItWndGUE9Tb3JrNXo0cVlhaHJJblNr?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T09:45:23.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
           "title": "HEROIC dump FaZe out of Singapore",
           "url": "https://www.hltv.org/news/46058/heroic-dump-faze-out-of-singapore",
           "source": "HLTV news",
@@ -88,39 +99,6 @@
           ]
         },
         {
-          "title": "HUASOPEEK: \"history is another voice with max, he helps a lot inside and outside the game\"",
-          "url": "https://www.hltv.org/news/46049/huasopeek-history-is-another-voice-with-max-he-helps-a-lot-inside-and-outside-the-game",
-          "source": "HLTV news",
-          "published": "2026-11-25T11:18:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "history"
-          ]
-        },
-        {
-          "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFJMFVPOE5sUF8xMklHQTJtaUlwZEhOZ2VFcnZjX1AybHhmUUt3RVRJYUhlQ0JpRG13TWI0QnUwcFFUNzViUldqMXEyQWstZkNsa19KQTNFX1ZqdUNTNUdxUmtjRXFMZGxMY0xxTU1hSzZXY3dQUWtTb0lFZFBPeEJWLTk4MW5iZ1p6NXFwS3F2LW95ekh5bkNxeWpyLVBsMXIydmZKdk5Vc0JDTnVCRUhucVViWWVLNWxZ?oc=5",
-          "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-25T10:23:50.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cs2 major"
-          ]
-        },
-        {
-          "title": "9z Eliminate DENDELE 2:0 at PGL Major Singapore 2026",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2c1QVA3WDM3VEoxSk92bUt2REFpc0otaV84Mjl6THlJeDNDc0NRWG93Ri1sUm96dVdlUVdBbUFxLUUzSURqYzdTYVhSZ1pkWHREVUZfNTMtZDdkdHdOTGlWSm1MRXV2WUg0WmtrWWYwb2kyU21NSVVtR0t2WjFnclhjdk9WX2tab09hTjd3Ni0xNDFhdXNFYWx0TGhzdWdtRlMwLWctdHYzOFZBMzRv?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-25T10:02:05.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "Best CS2 settings: donk, ZywOo, and m0NESY",
           "url": "https://esports.gg/news/counter-strike-2/best-cs2-video-settings/",
           "source": "esports.gg",
@@ -144,12 +122,34 @@
           "why": [
             "confirmed"
           ]
+        },
+        {
+          "title": "Singapore Major Stage 1 day 3 matchups set",
+          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
+          "source": "HLTV news",
+          "published": "2026-11-25T13:53:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "faze*"
+          ]
+        },
+        {
+          "title": "Chinggis Warriors condemn BC.Game to 0-3 exit in Singapore",
+          "url": "https://www.hltv.org/news/46053/chinggis-warriors-condemn-bcgame-to-0-3-exit-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T13:19:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "s1mple*"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
@@ -162,6 +162,15 @@
             "world record",
             "record"
           ]
+        },
+        {
+          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
+          "source": "Google News: Tekken (Dexerto)",
+          "published": "2026-11-26T10:11:57.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
