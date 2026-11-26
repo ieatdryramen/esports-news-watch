@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T17:00:28.962Z",
+  "generatedAt": "2026-11-26T18:00:26.221Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 23,
+      "storyCount": 22,
       "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
@@ -84,10 +84,10 @@
           ]
         },
         {
-          "title": "PGL Singapore Major 2026 Stage 1 Day 3 Recap",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcU5GTk01S1ZrYXhaOWxrQlpJLVFYZUE2QUczY3NqYmVPQkdmcVotV1RYYTdZOHlIU3FCWko1TkxvbzVwVnF6cjIyNnZZbkFNWlhJeWdWTUpkSUt0LW1SV3FzR2hwQ25MczJtTmFtdHNkcTVuSFJMSzlyN3JGYXRUQw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T16:11:19.000Z",
+          "title": "On the ground at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-26T17:52:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -121,17 +121,6 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzg3ZGtIT1lHVUlreGZBUGhaUDNaeElIU0xCNGpuLUpDdFM2UEN3NFBhbzdGbHM2M1QtWnh2Z09NVXNSN2d4T3pWSTB1VkZhSGFKa1JQVzJ3YkMxcmJYN0pMdFBva2Jwd2d6VDFqZlhCU3Zva3RzSWV6akJWc3pVZzItWndGUE9Tb3JrNXo0cVlhaHJJblNr?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-26T09:45:23.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "HEROIC dump FaZe out of Singapore",
-          "url": "https://www.hltv.org/news/46058/heroic-dump-faze-out-of-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-26T09:08:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -173,12 +162,21 @@
             "m0nesy",
             "-settings"
           ]
+        },
+        {
+          "title": "Matchups set for final day of Stage 1",
+          "url": "https://www.hltv.org/news/46068/matchups-set-for-final-day-of-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-26T16:15:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
@@ -194,15 +192,6 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGNmMzl3Q2lIdkI2OHdDTG9vTHVYakVyNHNycjlxLWJMNWlOQU5zUUY0dG5XQ3RoSVFRc1VaWFRkZzhLSDlPUkJfeF9kSm5rOVFwOXdkcjVnLVRfXzQ2ME9FNDQxYmEzSmRIRmlpbWNxTl9RcGNQckZkUzFSZFprdDdBRnQ0a09Gb0psbFFwZkZHMTJtOVh5eUNwaDNkazFfd1lsajlhajU1Rnl2SWpRVg?oc=5",
           "source": "Google News: Dota (Foro3D)",
           "published": "2026-11-26T14:05:41.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-25T17:08:30.000Z",
           "score": 1,
           "level": null,
           "why": []
