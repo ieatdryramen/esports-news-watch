@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:00:26.865Z",
+  "generatedAt": "2026-11-26T21:58:17.329Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 22,
+      "storyCount": 23,
       "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
@@ -44,6 +44,19 @@
             "announces",
             "blast",
             "pgl*"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-26T15:34:32.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "faze",
+            "liquid",
+            "pgl"
           ]
         },
         {
@@ -157,20 +170,6 @@
           "level": null,
           "why": [
             "liquid*"
-          ]
-        },
-        {
-          "title": "Best CS2 settings: donk, ZywOo, and m0NESY",
-          "url": "https://esports.gg/news/counter-strike-2/best-cs2-video-settings/",
-          "source": "esports.gg",
-          "published": "2026-11-26T00:13:19.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "zywoo",
-            "donk",
-            "m0nesy",
-            "-settings"
           ]
         }
       ]
