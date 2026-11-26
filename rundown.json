@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T14:00:39.087Z",
+  "generatedAt": "2026-11-26T15:00:31.231Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 19,
+      "storyCount": 20,
       "stories": [
         {
           "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
@@ -20,16 +20,28 @@
           ]
         },
         {
-          "title": "FaZe Knocked Out of PGL Major Singapore 2026 by HEROIC",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG5Ram9IMW9NWk1HZnRUM3dXN213ZjFsbzlBWjUzUERnRGVtUTFYQ1QxZDlCclpDc1ZFLVpuaWt2SkVIVWxjMUJzbU83bW9POTktbXc4Q19tQjRmZnpNOWZpQVA5OE02c0UtUWRYOTJXd1A0TGIyUkF2aFQ0RlFJdmExb0I2RVdxVlVzdGJ2QUxCNXdFVzAyejlkVkhfUzg1Vk9CQ2tPZFRzZ29MUktV?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-26T09:12:48.000Z",
-          "score": 8,
-          "level": "breaking",
+          "title": "BLAST announces invited teams for Bounty 2027",
+          "url": "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
+          "source": "HLTV news",
+          "published": "2026-11-26T14:19:00.000Z",
+          "score": 6,
+          "level": "possible",
           "why": [
-            "knocked out",
+            "announces",
+            "blast",
+            "pgl*"
+          ]
+        },
+        {
+          "title": "FaZe Are Out of the Singapore Major. Can Team Liquid and 100 Thieves Go Further?",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVd5VF9rWENJZlJlendPQldjbllZTmY4VEhMNFd1SGphRkVJZjNfUDYybl9JM2gyN1lLdng1S3djalIxeGF4eGdad0xyVVhpemxLYXE2NGRXRmJUNVVKXzkxNGNiMi0xTHpnUWRjOXFBZW00cE5xNG0yUW0xNDd2MW1tNHVvX0RERlk3SVB5NThHU01QNlV2Q2hCRQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T14:24:24.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
             "faze",
-            "pgl"
+            "liquid"
           ]
         },
         {
@@ -42,17 +54,6 @@
           "why": [
             "breaking*",
             "pgl"
-          ]
-        },
-        {
-          "title": "Media: oSee joins Without a Roof",
-          "url": "https://www.hltv.org/news/46055/media-osee-joins-without-a-roof",
-          "source": "HLTV news",
-          "published": "2026-11-25T15:30:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "joins"
           ]
         },
         {
@@ -136,10 +137,10 @@
           ]
         },
         {
-          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-26T12:20:00.000Z",
+          "title": "9z CEO Says CS2 Pros Are Discussing a Boycott of the Next Major",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFpJNVJBNzB5VFBDQ0xVNmNZcThJOV8tYXN5T3hPaXNLQmdpSjhIQnM2VjRzSHlvWUgzT21adTU1aHAyTzQxQlZkRko2a0lIdnhEVFVaa3l2NHBMbG8zc2FiS2NyUkdVOTVLeXRhdV9YTS1MN2IzcnBlWjRUb3VXeVlnVEpucUVvaUV0bWwyX20?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T14:09:03.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -175,8 +176,17 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
+          "source": "Google News: Dota (Foro3D)",
+          "published": "2026-11-26T14:05:46.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
