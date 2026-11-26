@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-26T11:00:25.682Z",
+      "level": "breaking",
+      "scene": "CS2",
+      "title": "FaZe Knocked Out of PGL Major Singapore 2026 by HEROIC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG5Ram9IMW9NWk1HZnRUM3dXN213ZjFsbzlBWjUzUERnRGVtUTFYQ1QxZDlCclpDc1ZFLVpuaWt2SkVIVWxjMUJzbU83bW9POTktbXc4Q19tQjRmZnpNOWZpQVA5OE02c0UtUWRYOTJXd1A0TGIyUkF2aFQ0RlFJdmExb0I2RVdxVlVzdGJ2QUxCNXdFVzAyejlkVkhfUzg1Vk9CQ2tPZFRzZ29MUktV?oc=5",
+      "source": "Google News: CS2 (EGamersWorld)",
+      "outlets": [
+        "EGamersWorld"
+      ],
+      "score": 8,
+      "why": [
+        "knocked out",
+        "faze",
+        "pgl"
+      ],
+      "summary": "",
+      "published": "2026-11-26T09:12:48.000Z"
+    },
+    {
       "alertedAt": "2026-11-26T08:35:29.992Z",
       "level": "breaking",
       "scene": "Tekken",
