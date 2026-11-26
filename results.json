@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-26T05:50:17.193Z",
+  "generatedAt": "2026-11-26T06:20:17.898Z",
   "source": "start.gg",
   "completed": [
+    {
+      "eventId": "1760867",
+      "scene": "melee",
+      "game": "Super Smash Bros. Melee",
+      "tournament": "The Cashbox #49: Blitzbox Edition",
+      "event": "Melee Singles",
+      "entrants": 201,
+      "online": true,
+      "major": false,
+      "startAt": "2026-11-25T23:00:00.000Z",
+      "endAt": "2026-11-26T05:00:00.000Z",
+      "url": "https://www.start.gg/tournament/the-cashbox-49-blitzbox-edition/event/melee-singles",
+      "top8": [
+        {
+          "placement": 1,
+          "name": "MF | KoDoRiN"
+        },
+        {
+          "placement": 2,
+          "name": "parry.gg | Ultra"
+        },
+        {
+          "placement": 3,
+          "name": "Brotherhood | Aklo"
+        },
+        {
+          "placement": 4,
+          "name": "BLE | Chem"
+        },
+        {
+          "placement": 5,
+          "name": "SDJ"
+        },
+        {
+          "placement": 5,
+          "name": "404Cray"
+        },
+        {
+          "placement": 7,
+          "name": "UMF | Agent"
+        },
+        {
+          "placement": 7,
+          "name": "Ginger"
+        }
+      ]
+    },
     {
       "eventId": "1759466",
       "scene": "streetfighter",
@@ -144,21 +191,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "eventId": "1760867",
-      "scene": "melee",
-      "game": "Super Smash Bros. Melee",
-      "tournament": "The Cashbox #49: Blitzbox Edition",
-      "event": "Melee Singles",
-      "entrants": 201,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-25T23:00:00.000Z",
-      "endAt": "2026-11-26T05:00:00.000Z",
-      "url": "https://www.start.gg/tournament/the-cashbox-49-blitzbox-edition/event/melee-singles"
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "eventId": "1705746",
