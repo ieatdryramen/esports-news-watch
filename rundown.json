@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T08:45:23.145Z",
+  "generatedAt": "2026-11-26T09:40:28.305Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 19,
       "stories": [
         {
           "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
@@ -52,6 +52,28 @@
           "why": [
             "return*",
             "liquid"
+          ]
+        },
+        {
+          "title": "HEROIC dump FaZe out of Singapore",
+          "url": "https://www.hltv.org/news/46058/heroic-dump-faze-out-of-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-26T09:08:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "faze"
+          ]
+        },
+        {
+          "title": "s1mple's last series draws 526K at the Singapore Major",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1VyM0x2aXhWZW5Ib2E0dC1fZTN4d2E0LURlWWVENGphVE9sT2JKcmQtS0JkTmtPQzhKYTQ1Q1lsemF4ZG81MlVfTnlhWWx0aTA1QlgxZFV5Z016d2RfNFp3RWp0Uk04eVY3ZkE5RHlDbHBFOVZWRWFVMHpVeTJ6WU1Iay05Mjg?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-26T08:50:37.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "s1mple"
           ]
         },
         {
@@ -122,28 +144,6 @@
           "why": [
             "confirmed"
           ]
-        },
-        {
-          "title": "Singapore Major Stage 1 day 3 matchups set",
-          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze*"
-          ]
-        },
-        {
-          "title": "Chinggis Warriors condemn BC.Game to 0-3 exit in Singapore",
-          "url": "https://www.hltv.org/news/46053/chinggis-warriors-condemn-bcgame-to-0-3-exit-in-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:19:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "s1mple*"
-          ]
         }
       ]
     },
@@ -167,7 +167,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 1,
+      "storyCount": 3,
       "stories": [
         {
           "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
@@ -178,6 +178,26 @@
           "level": null,
           "why": [
             "won*"
+          ]
+        },
+        {
+          "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-25T17:08:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XctN - RE, November 26, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVRyWVB1WWtFRnp3WUhGMDZ2X1JVbFVKVWFJMWtOYWxiUUJYVG9DMTNhbHIxOXlBaGNweU5jMDdxNnU2cnB3dGpITS1MN2hyamhtbDM0NUxVb0cwLU5obWhUa2JnRmxfQld1U1Nrc24tV3l2MmJOU19wb2NfenVZcnRDaE9wSWRKbTFvR3ljRm1FbjFWN1B2OFJHZzBrWl9WUFhJZTdXQ3VLc0lWM1E?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-26T06:00:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
           ]
         }
       ]
