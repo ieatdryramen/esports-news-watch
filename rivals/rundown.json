@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T09:40:31.151Z",
+  "generatedAt": "2026-11-26T10:40:24.064Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
@@ -16,6 +16,17 @@
           "why": [
             "grand finals",
             "grand finals"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Version 20261126 Patch Notes",
+          "url": "https://store.steampowered.com/news/app/2767030/view/703286102818030278",
+          "source": "Steam: Marvel Rivals (official news + patch notes)",
+          "published": "2026-11-26T10:14:05.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "patch notes"
           ]
         },
         {
