@@ -1,11 +1,34 @@
 {
-  "generatedAt": "2026-11-26T16:35:38.403Z",
+  "generatedAt": "2026-11-26T17:35:22.941Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 1,
+      "storyCount": 14,
       "stories": [
+        {
+          "title": "DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yMm5LVzNHNWEyWG5WWkVwUTBjY2JETVhiZ09aYU9qMkszRUdxeUpWNzdnWmJZeDRxNExfN3VkU1lfeDBnVWlHMjExZVFIaGdiWGcwdkE1aExhZmVKbkw1NW5DSVN5ZGFic1hrek15cVp2SlpyRzBR?oc=5",
+          "source": "Google News: Rivals esports (Insider Gaming)",
+          "published": "2026-11-26T13:06:24.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "champions",
+            "crowned"
+          ]
+        },
+        {
+          "title": "Marvel Rivals November 26 2026 Patch Notes",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkwybWJmSkFtdUZIR0ZIRV9id3BuNFVSeDRvQjhILTZKbVVud056MVltVlZkNWY0eDdiR2NYclVranhtVk1udUpyVUo2enRMU3pLNHJiTEZ6ek5WQUtxRHFUQUNENHVFdGtjTVVYNEdpeFhLRE52SHRUMFVTaDhRZmtvREtiSXdrNmc?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-26T12:13:32.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "patch notes"
+          ]
+        },
         {
           "title": "Marvel Rivals Version 20261126 Patch Notes",
           "url": "https://store.steampowered.com/news/app/2767030/view/703286102818030278",
@@ -16,6 +39,95 @@
           "why": [
             "patch notes"
           ]
+        },
+        {
+          "title": "Marvel Rivals November 26 Patch Notes: Anniversary Events, Black Friday Sale, and More",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BVnVfYlZURW1XWnVnTnBqU0lta3VEeWJTaXY4ZUdlbmdCazUwMFU2TkJWSlF5bXI5MXNHcmtuOTRoNmYxUTdTVEZpenhNSGc1bU1XcURDQVI5ODFaUHlJM0RCbDladFNK0gFuQVVfeXFMTW1vSFJCb0U0NDMzTXJ5V2RYTW82d1JabkNCaWhCTFVwOXpiSDRETWZ2OWFEX0IxSUttSU50ZHNDSjF1MjhmR1NwNGFVQUZqS0s4dGVzZGd1V0c5dUlrR1NOcHd3UEZYNmY1MV8zanc?oc=5",
+          "source": "Google News: Rivals patches (Beebom)",
+          "published": "2026-11-26T06:23:48.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "patch notes"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Nov. 26 Update Brings 18v18 Map, Ghostworks Arcade, and Black Friday Deals",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXMXo2bHdVVmNSTlZzOTRfM01rMXhQZW1PZGFUSXVnTFM3emNZYmNXeTdYUmdfWjNDY1dYU2pxT0tKNE96bmRmcWlrTERlSnM4WUVhMG9GZHVfaTc4enRpbVFPd3hGbjBESzNSZDk1SVFqVXVWcDZkdHRmNFNXWTQ?oc=5",
+          "source": "Google News: Rivals patches (TalkEsport)",
+          "published": "2026-11-26T15:17:39.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Marvel Rivals November 26 Update Adds 18v18 Battles, Arcade Games and Free Rewards",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIMXRjV2taai13YTZOaVVRdGF5enUtR18tWkg3dFdIaUpQbWJ0UldmQWE0bEJzMXlkZFVoSTNDTHA5TEJJVWlVRkcyTFIzbnplUkhSM2pSbkxnTjlpb3JPb0NOMm04MV92S0E?oc=5",
+          "source": "Google News: Rivals patches (TwistedVoxel)",
+          "published": "2026-11-26T15:14:43.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "update"
+          ]
+        },
+        {
+          "title": "Ranking the BEST DESIGNED Convoy Map | Marvel Rivals Season 11",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ZNXpsempIZ0RkVUNMZ1lWZFFkMGItMVFiSzQyVVM1WTktY0s1blduVTBfSUlwYXhlZkwtRk5vVWhyZw?oc=5",
+          "source": "Google News: Rivals patches (YouTube)",
+          "published": "2026-11-26T13:35:09.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Hero List: All 55 Heroes by Role",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c2VjYzJBNkQ2Q3FyZWJRUkhDVUUyMUszWXZMUDFGZmI5M2NsTUszT2JoN09qQXFKZFpJNGdvQ25jaExiZ0pFYnNmWkx1OGdyYmpuTHRxNDRLdw?oc=5",
+          "source": "Google News: Rivals rosters (theloadout.com)",
+          "published": "2026-11-26T13:19:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Launches Black Friday Sale With 40% Off",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0xRY3FWNzVZVTliNHQySlFISjA1RnRCVW1ac3haT3lUT0dmTTR3VkN1VEMyV0ZsWTN1MnZzTWJ6Q3lBLVdOa2U5d3NGV3JqWWw1V0NaRC0tQjNwWGo4STNxX2lYNzZaTnI3TzlfMTZ6bGEzS3FzQUhNeTYyeWtYajJtaDcxVlB6c3llNFZR?oc=5",
+          "source": "Google News: Rivals esports (Wisevoter)",
+          "published": "2026-11-26T04:43:05.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Launches 18v18 Chrono-Annihilation on Incursion Point November 26, but PS4 Players Are Left Out",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3lZTmk5YU40SklXLUNKZEZCbjFzcDZZTmw2cU9BS0Z6bE9FZndxV1VGTTF5ZmE1Wl9DNmhHektybFZPWWJ3UHhsWXJFRkdEUU9BMktNa1BjTzViU00yT3JTbHNhWnV0bkRnbDlLSi1ZOEV4MFNUWXluR0FSYkZlcFRTM3Z5aGl5MlRrUFhnMkZzZjFIOGpsS0hsQ3hwS29Ya0VybjdlNk96dzlXODNXNER2NDU5NUhXV0NGMGx3UFZTRElIRWtQa2JCdDZZbUE?oc=5",
+          "source": "Google News: Rivals patches (inkl)",
+          "published": "2026-11-26T03:45:14.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Opens Ghostworks Arcade Nov. 26 With Six Hero Minigames, 400 Units and the Arcade Ace Title",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjNLWlQ4TFdTOFB6VUNJald6dWZsNVEwa0xIR19nc1FmOW9XWXZMMGdqeHkwTExxWHhlc1JTRHY2LXZlN2UyQ0RXQlV2SUN1UlhpZVFUWFpSX2JPR2hORkVRbVpZQVoyTFQ3MHB3ejVKbUhjU2NkWjBaUnhwU2NGbmY3YzVDQy1RN1d0NER5ZG9Wejcwd2UxR2dLN2RYeEN4cGJhMzZEUFVxWDdvNXkwdHpKN3M4d3BlVzVuNy1wMEtmb195RlA0MA?oc=5",
+          "source": "Google News: Rivals patches (inkl)",
+          "published": "2026-11-26T03:45:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Black Friday Sale Brings Up to 40% Off Skins and a Serial-Numbered Nameplate for Buyers",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSnRHSkNacnlldU5XYmNJZ1ROWmgwT3RPN2hWRmh6NHpIcTRybHpSbk1fY1BSZ1RJX1M0amZqcTVGUVNPQndIM3VtT2kzWVJfTG1mOHRWXzNIRVVaOWtoNEd2aDNUR054WnRxYnJsOW4xZ1RNbWVtakFQMERSY3dxdUxNVU5VTjVleVl0d0lLODdSUU5HWDc3VEFVZjVFLWUyTkhrY2g5MnZOQ2VVZEpUdUpheU1yV0NOU0J1VFUwSHoyYTQw?oc=5",
+          "source": "Google News: Rivals patches (inkl)",
+          "published": "2026-11-26T03:45:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     }
