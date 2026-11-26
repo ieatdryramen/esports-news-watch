@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T05:50:27.691Z",
+  "generatedAt": "2026-11-26T06:50:27.808Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
@@ -50,6 +50,24 @@
           "why": []
         },
         {
+          "title": "Marvel Rivals Launches 18v18 Chrono-Annihilation on Incursion Point November 26, but PS4 Players Are Left Out",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3lZTmk5YU40SklXLUNKZEZCbjFzcDZZTmw2cU9BS0Z6bE9FZndxV1VGTTF5ZmE1Wl9DNmhHektybFZPWWJ3UHhsWXJFRkdEUU9BMktNa1BjTzViU00yT3JTbHNhWnV0bkRnbDlLSi1ZOEV4MFNUWXluR0FSYkZlcFRTM3Z5aGl5MlRrUFhnMkZzZjFIOGpsS0hsQ3hwS29Ya0VybjdlNk96dzlXODNXNER2NDU5NUhXV0NGMGx3UFZTRElIRWtQa2JCdDZZbUE?oc=5",
+          "source": "Google News: Rivals patches (inkl)",
+          "published": "2026-11-26T03:45:14.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Marvel Rivals Opens Ghostworks Arcade Nov. 26 With Six Hero Minigames, 400 Units and the Arcade Ace Title",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjNLWlQ4TFdTOFB6VUNJald6dWZsNVEwa0xIR19nc1FmOW9XWXZMMGdqeHkwTExxWHhlc1JTRHY2LXZlN2UyQ0RXQlV2SUN1UlhpZVFUWFpSX2JPR2hORkVRbVpZQVoyTFQ3MHB3ejVKbUhjU2NkWjBaUnhwU2NGbmY3YzVDQy1RN1d0NER5ZG9Wejcwd2UxR2dLN2RYeEN4cGJhMzZEUFVxWDdvNXkwdHpKN3M4d3BlVzVuNy1wMEtmb195RlA0MA?oc=5",
+          "source": "Google News: Rivals patches (inkl)",
+          "published": "2026-11-26T03:45:12.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Marvel Rivals Adds Incursion Point Map",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2MUlEQm9ndjRnMEZfQXNtS2tKRXR3LUhNZEFFV2JxcFJwbmxrTVhqaXNFTmFuMlZIZlp3N3MwT1dvX1FiZFVFamhhTlpJTkpDM09lZExZd01IeTVFTTRHd3JlM1Zlc3kzcDBlVldTeWFRTUNKZGl5VTBJOVU?oc=5",
           "source": "Google News: Rivals esports (Wisevoter)",
@@ -68,13 +86,15 @@
           "why": []
         },
         {
-          "title": "Marvel Rivals Van Dyne: Idea Matrix Event Brings 3 New Costumes",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1JMY0JLakRXamtsRTZhdl83Rl9aV0ZjbVBxVHVpVmFUMFllNzc4VEtiS3J4dGJMZ09wNTRzNjgxUDJnbVM4ZGVSNDlLejN6MmQ5c2FWWUNCSGM2WWExbWlMNWlGN3J1RXZkcWM5RXZqVU9lQVpBc2xhU21iV2pwdTRPZDl2R00?oc=5",
-          "source": "Google News: Rivals esports (Happy Gamer)",
-          "published": "2026-11-25T05:54:15.000Z",
-          "score": 1,
+          "title": "Marvel Rivals VAN DYNE: IDEA MATRIX Event: Free Deadpool Skin and New Costumes",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVhhTV9IOHNYWk5EZ2J0dTdSekJtWVQ3c0ZPbkhpTmgyUTdURVVtbU1kRUZfRU51OTVtdnVDZW53THNQalQ2TExCTmNfY3cxa1N5ZWxZSXJYNVRDZmpsVnMyY2NZYkxJeXBmMDFYOHk5UXRWSjF2LU03b1NqNGxXZ0Q4NDZpRDU2UW13WXdn?oc=5",
+          "source": "Google News: Rivals esports (Chase Your Sport)",
+          "published": "2026-11-25T19:31:39.000Z",
+          "score": 0,
           "level": null,
-          "why": []
+          "why": [
+            "-skin"
+          ]
         }
       ]
     }
