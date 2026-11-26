@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T13:40:26.029Z",
+  "generatedAt": "2026-11-26T14:40:27.442Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Tokon",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Dr. Doom Tops Fun-Factor Tier List for Tokon",
@@ -27,15 +27,6 @@
           "why": [
             "tier list"
           ]
-        },
-        {
-          "title": "Magik Gets a Phoenix Five Look in MARVEL Tōkon: Fighting Souls",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pdE9IN1NxOEk4a2E5SWhLRFpQckJTSlRHVF9fZVJtY04yZ0JRUXVfbWx0YUxsbk0zZlgxVTRsVDZNVlBqWkRZM1RrYlRGRHpMR3BFX19FcDNEZEYzY29yWGVxNVV6YTdSUVdEWmVuRTFjLVRtR3c?oc=5",
-          "source": "Google News: Tokon (Happy Gamer)",
-          "published": "2026-11-25T13:51:21.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
