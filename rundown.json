@@ -1,21 +1,22 @@
 {
-  "generatedAt": "2026-11-26T07:45:28.671Z",
+  "generatedAt": "2026-11-26T08:45:23.145Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 18,
       "stories": [
         {
-          "title": "s1mple's BC.Game Go 0-3 at PGL Major Singapore 2026",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkt2bTFYdTA1RFFHd2pLM2dMRDNuRnRHS3RvNXZLZmFRWFNSUzhyWjB4NFVGMWRVdEJNNTBBNTN3QVFWRlNZZ0l2QzhsWEs5ZWd6cDQxM2NXd1Y4ZjBRNzNUZXdFSkNYV3hORjhYZ08yOTBsM3hpWDdLNnF6VllYV1pXOGNCMWswaEFvMEFqZ2dtZEVnV2FqQjRleXF6Nmc0b1pxX1BFQWs1d2xwMHVV?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-25T13:23:03.000Z",
-          "score": 5,
-          "level": null,
+          "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
+          "url": "https://www.hltv.org/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T20:23:00.000Z",
+          "score": 9,
+          "level": "breaking",
           "why": [
-            "s1mple",
-            "pgl"
+            "benched",
+            "niko",
+            "karrigan"
           ]
         },
         {
@@ -31,10 +32,33 @@
           ]
         },
         {
-          "title": "PGL Singapore Major 2026 Stage 1 Day 2 Recap",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakNiRFFlZHdyU3VFWVZJaEdnV25MSHU2NXg4dTRDaGhVLXUyRVpiaE85YWxKZjRlWUpGVFYtN3YyakNHNmF0SzFGYlduUS1lNlNUMTJ1Y1VBY3FQUmZUTnRVX2hxV2ZmT2gxT1dySEY4WVJLVXhfdWlVR3pUZnNnUng2bWk3bmRV?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-25T14:59:40.000Z",
+          "title": "Media: oSee joins Without a Roof",
+          "url": "https://www.hltv.org/news/46055/media-osee-joins-without-a-roof",
+          "source": "HLTV news",
+          "published": "2026-11-25T15:30:00.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "joins"
+          ]
+        },
+        {
+          "title": "NIP beat Liquid to reach Stage 2 in Singapore",
+          "url": "https://www.hltv.org/news/46052/nip-beat-liquid-to-reach-stage-2-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T12:43:00.000Z",
+          "score": 3.5,
+          "level": null,
+          "why": [
+            "return*",
+            "liquid"
+          ]
+        },
+        {
+          "title": "On the ground at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-25T18:43:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -42,10 +66,21 @@
           ]
         },
         {
+          "title": "HUASOPEEK: \"history is another voice with max, he helps a lot inside and outside the game\"",
+          "url": "https://www.hltv.org/news/46049/huasopeek-history-is-another-voice-with-max-he-helps-a-lot-inside-and-outside-the-game",
+          "source": "HLTV news",
+          "published": "2026-11-25T11:18:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "history"
+          ]
+        },
+        {
           "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDVjVkxRaGtRNUw3SzNOVmNOWktuUXljUG9mNnJQekNiWXVxaDc0Um9FWkFQdkR3U2ZHTVpLZ0R6WTNCektTQmpxYVZleEo3X0F5OTJzb2lOc2o0NXBuUUdlOHhmN1RoUEc0dkc4ZWhnY1prQUR2bzBOSUMxVFpMR0EtT0pUMWhkZmdxdjB0b0ZSR0ZGaXV4REJ4cF9Ta2t6LXd2NzNVQzBWbXlIZmNEMTM5alhFMV9wejNF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFJMFVPOE5sUF8xMklHQTJtaUlwZEhOZ2VFcnZjX1AybHhmUUt3RVRJYUhlQ0JpRG13TWI0QnUwcFFUNzViUldqMXEyQWstZkNsa19KQTNFX1ZqdUNTNUdxUmtjRXFMZGxMY0xxTU1hSzZXY3dQUWtTb0lFZFBPeEJWLTk4MW5iZ1p6NXFwS3F2LW95ekh5bkNxeWpyLVBsMXIydmZKdk5Vc0JDTnVCRUhucVViWWVLNWxZ?oc=5",
           "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-25T10:30:00.000Z",
+          "published": "2026-11-25T10:23:50.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -53,16 +88,14 @@
           ]
         },
         {
-          "title": "PGL CS2 Major Singapore 2026: Schedule, results, phases, teams, and more",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBZUY3Q09McUVVVFMtWXkwb18tZGg1aXNpWjd4WXIyZl82UWp1b2tpck9qZk5ZMGVRRVptV0Ruc0EyQXhGU3ZZTVJZU1VudUE0NWZYcTI5c2hlbEdXNUxuamVYbUo4NzczMmdjOWNzcmhGSVktYVEyREo0VQ?oc=5",
-          "source": "Google News: CS2 (Dot Esports)",
-          "published": "2026-11-25T08:24:00.000Z",
+          "title": "9z Eliminate DENDELE 2:0 at PGL Major Singapore 2026",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2c1QVA3WDM3VEoxSk92bUt2REFpc0otaV84Mjl6THlJeDNDc0NRWG93Ri1sUm96dVdlUVdBbUFxLUUzSURqYzdTYVhSZ1pkWHREVUZfNTMtZDdkdHdOTGlWSm1MRXV2WUg0WmtrWWYwb2kyU21NSVVtR0t2WjFnclhjdk9WX2tab09hTjd3Ni0xNDFhdXNFYWx0TGhzdWdtRlMwLWctdHYzOFZBMzRv?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-25T10:02:05.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "pgl",
-            "cs2 major",
-            "-schedule"
+            "pgl"
           ]
         },
         {
@@ -91,49 +124,51 @@
           ]
         },
         {
-          "title": "Esports Foundation locks in Counter-Strike 2 for EWC 2027 and 2028",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeC1aOXd4emVRY0JnOHFyRkd0NVBwLXVBSnZyUmdPM2tzT19Yc19YU2FHWDBONzFpc1l3ZkI4Tkx4Z1JHWXhUUFVrS01ZVmxvWEFPQU9BSkZmbERnbldVZnlUMlJocUdRX29aSkRYRkRFV012Ti14NlJqNndHbERKQU1ZbmU4Vi1TSWRPMEhIRHJvb3NjT3c?oc=5",
-          "source": "Google News: CS2 (A 90s Kid)",
-          "published": "2026-11-26T00:49:45.000Z",
-          "score": 1,
+          "title": "Singapore Major Stage 1 day 3 matchups set",
+          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
+          "source": "HLTV news",
+          "published": "2026-11-25T13:53:00.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "faze*"
+          ]
         },
         {
-          "title": "CS2 Is Back at the Esports World Cup for 2027 and 2028: $2 Million, 32 Teams, Riyadh",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSG1CSDVzUV9DSzAxTndoakhRX0V2WmdPNU1peVVPdVd3SXJLY1NVNkdzZHhfeG84dkctYjkxc25tZFJBNFh4YUYwenpBT0ZRT3I0X1oweklaNXpDWEVBaEw5Wk5NN0NhbTNITmNpX3ZYa0tpalhNVzEyZ2xhZUVxVQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-25T14:53:52.000Z",
-          "score": 1,
+          "title": "Chinggis Warriors condemn BC.Game to 0-3 exit in Singapore",
+          "url": "https://www.hltv.org/news/46053/chinggis-warriors-condemn-bcgame-to-0-3-exit-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T13:19:00.000Z",
+          "score": 2,
           "level": null,
-          "why": []
-        },
+          "why": [
+            "s1mple*"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 1,
+      "stories": [
         {
-          "title": "Woman Asks Instagram How to Cash Out Her Boyfriend’s CS2 Skins, Gets Roasted Instead",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObVpEUXhicVhCdnRNQWoySjlDQ0hMdFBMQXBlSm9naWdFU2poVXhjSGRYUE1wSDZOd19feDJfSU9RN1NVYUY3LXdkNU4wZE5ndDVpRXdaekNsQjFJbS1tSG83bjhOLTV4clhFSkUzTU80aTE2N2t6WUpoUWRjaVBJSWJUUzZxRVNYdWc?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-25T12:00:48.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
+          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
+          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
+          "published": "2026-11-26T07:25:15.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "world record",
+            "record"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "BetBoom Team Dota 2: Roster and Results 2026",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9acFk0eXhmZzUzMXIzVXI4UGtZeDhqM2Q2d1p2NW5SckNyNm9RMHYyQlpEUFNtcmJCSnBqTU5CZlJVV2VIR3B2RC1hcDRtRGhrUkhMQThrMC10OFNXaE9JWFhmamhpNnFLbEFQR0hETVk?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-25T15:33:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "roster"
-          ]
-        },
         {
           "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
           "url": "https://esports-news.co.uk/2026/11/25/parivision-sweep-gamerlegion-for-sixth-straight-win-at-blast-slam-season-9/",
@@ -144,24 +179,22 @@
           "why": [
             "won*"
           ]
-        },
-        {
-          "title": "XctN - RE, November 26, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVRyWVB1WWtFRnp3WUhGMDZ2X1JVbFVKVWFJMWtOYWxiUUJYVG9DMTNhbHIxOXlBaGNweU5jMDdxNnU2cnB3dGpITS1MN2hyamhtbDM0NUxVb0cwLU5obWhUa2JnRmxfQld1U1Nrc24tV3l2MmJOU19wb2NfenVZcnRDaE9wSWRKbTFvR3ljRm1FbjFWN1B2OFJHZzBrWl9WUFhJZTdXQ3VLc0lWM1E?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-26T06:00:31.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
     {
       "scene": "CoD",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "CDL Kickoff Classic Seeding: How the 12 Teams Ranked Each Other",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0VQOWVIZVZ3MGl1a2FncHlpNTRTcHlfekhoZXJqTzVJeHQ3cl93YTZRMndSbEk3VkdYdjJiaGZCVmVOUURCODBzcXIwY3Y3NkdmTERvYjdnNmdkOWk5TG1TVVdvUldWelVwc1ZScXZnbVoweVZNSDA2Qng5R0FhX0hkZFNqeklo?oc=5",
+          "source": "Google News: CoD (Shane the Gamer)",
+          "published": "2026-11-26T08:31:53.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "CDL 2027 Kickoff Classic Starts December 4 With Free Viewer Rewards",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91S1RLQWdpbTNORDdDR3g0RmhhWm5Sb3Z5dkQ4dlliV1V2RVpaSjBLc3dfaE1WOVVPR0hmTDJ2YVpQR2t1VHJJYXU1VV9JMHQ0ZzJyY1NYN0o1ekFkX0pENkFYUkhRNl85elFVOEhsMFlHclI3eFFXU1pJQXNzNFk?oc=5",
@@ -205,7 +238,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Tekken",
     "Legacy FGC",
     "Quake",
     "Halo"
