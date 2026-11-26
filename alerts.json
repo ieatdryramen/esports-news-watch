@@ -57,23 +57,6 @@
       ],
       "summary": "",
       "published": "2026-11-24T12:49:49.000Z"
-    },
-    {
-      "alertedAt": "2026-11-24T05:05:20.364Z",
-      "level": "possible",
-      "scene": "CS2",
-      "title": "Imperial upset HEROIC in Singapore Major opener",
-      "url": "https://www.hltv.org/news/46034/imperial-upset-heroic-in-singapore-major-opener",
-      "source": "HLTV news",
-      "outlets": [
-        "HLTV news"
-      ],
-      "score": 5,
-      "why": [
-        "upset"
-      ],
-      "summary": "HEROIC lost 12 rounds in a row to fall to the 0-1 pool in Singapore.",
-      "published": "2026-11-24T05:01:00.000Z"
     }
   ]
 }
