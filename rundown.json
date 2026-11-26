@@ -1,24 +1,38 @@
 {
-  "generatedAt": "2026-11-26T16:00:25.852Z",
+  "generatedAt": "2026-11-26T17:00:28.962Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
+          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
+          "published": "2026-11-26T07:25:15.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "world record",
+            "record"
+          ]
+        },
+        {
+          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
+          "source": "Google News: Tekken (Dexerto)",
+          "published": "2026-11-26T16:10:49.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
     {
       "scene": "CS2",
       "storyCount": 23,
       "stories": [
-        {
-          "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
-          "url": "https://www.hltv.org/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-25T20:23:00.000Z",
-          "score": 9,
-          "level": "breaking",
-          "why": [
-            "benched",
-            "niko",
-            "karrigan"
-          ]
-        },
         {
           "title": "BLAST announces invited teams for Bounty 2027",
           "url": "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
@@ -66,6 +80,17 @@
           "level": null,
           "why": [
             "breaking*",
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major 2026 Stage 1 Day 3 Recap",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcU5GTk01S1ZrYXhaOWxrQlpJLVFYZUE2QUczY3NqYmVPQkdmcVotV1RYYTdZOHlIU3FCWko1TkxvbzVwVnF6cjIyNnZZbkFNWlhJeWdWTUpkSUt0LW1SV3FzR2hwQ25MczJtTmFtdHNkcTVuSFJMSzlyN3JGYXRUQw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T16:11:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
             "pgl"
           ]
         },
@@ -148,33 +173,6 @@
             "m0nesy",
             "-settings"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
-          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
-          "published": "2026-11-26T07:25:15.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "world record",
-            "record"
-          ]
-        },
-        {
-          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-26T10:11:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
