@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-26T13:10:19.471Z",
+      "level": "breaking",
+      "scene": "Marvel Rivals",
+      "title": "DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals",
+      "url": "https://insider-gaming.com/dreamhack-stockholm-2026-esports-preview/",
+      "source": "Insider Gaming",
+      "outlets": [
+        "Insider Gaming"
+      ],
+      "score": 8,
+      "why": [
+        "champions",
+        "crowned"
+      ],
+      "summary": "Eight notable esports titles and $5,850,000 in prize money will be earned at DreamHack Stockholm from November 27-29. The post DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals appeared first on Insider Gaming .",
+      "published": "2026-11-26T13:06:24.000Z"
+    },
+    {
       "alertedAt": "2026-11-25T12:20:25.422Z",
       "level": "possible",
       "scene": "Marvel Rivals",
