@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:00:26.685Z",
+  "generatedAt": "2026-11-26T14:00:39.087Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -33,18 +33,6 @@
           ]
         },
         {
-          "title": "s1mple's BC.Game Go 0-3 at PGL Major Singapore 2026",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkt2bTFYdTA1RFFHd2pLM2dMRDNuRnRHS3RvNXZLZmFRWFNSUzhyWjB4NFVGMWRVdEJNNTBBNTN3QVFWRlNZZ0l2QzhsWEs5ZWd6cDQxM2NXd1Y4ZjBRNzNUZXdFSkNYV3hORjhYZ08yOTBsM3hpWDdLNnF6VllYV1pXOGNCMWswaEFvMEFqZ2dtZEVnV2FqQjRleXF6Nmc0b1pxX1BFQWs1d2xwMHVV?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-25T13:23:03.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "s1mple",
-            "pgl"
-          ]
-        },
-        {
           "title": "100T eliminate 9z from PGL Major",
           "url": "https://www.hltv.org/news/46060/100t-eliminate-9z-from-pgl-major",
           "source": "HLTV news",
@@ -65,6 +53,17 @@
           "level": null,
           "why": [
             "joins"
+          ]
+        },
+        {
+          "title": "Liquid battle past Imperial into Stage 2",
+          "url": "https://www.hltv.org/news/46063/liquid-battle-past-imperial-into-stage-2",
+          "source": "HLTV news",
+          "published": "2026-11-26T13:48:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "liquid"
           ]
         },
         {
@@ -112,6 +111,17 @@
           ]
         },
         {
+          "title": "Counter-Strike 2 confirmed for 2027 and 2028 Esports World Cup",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2tGeXZQeW9LMDV1VkxNRGI1M0JzUFp4NWRQTG9fVkphdUliV09ZSDhzR0dUVThWTHZ4dEQxaDBPdkVwSFRiVi1yT3ZvYnJKdmJTWGJCemNUU3BZWHE3RGN4djkzX3M1X0dDaXBrblhLdGJJSHRfWmsyV0tTeWVYRXZlOWlTS1pSSEcyMEc2RUlyU2syX3ZqdHpkcDUteFhncGl1REhSSW5ISDVNYmdDYl9nX18?oc=5",
+          "source": "Google News: CS2 (iGaming Brazil)",
+          "published": "2026-11-26T13:35:19.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "confirmed"
+          ]
+        },
+        {
           "title": "Best CS2 settings: donk, ZywOo, and m0NESY",
           "url": "https://esports.gg/news/counter-strike-2/best-cs2-video-settings/",
           "source": "esports.gg",
@@ -126,26 +136,13 @@
           ]
         },
         {
-          "title": "Counter-Strike Confirmed for Esports World Cup 2027 and 2028",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmN1TmFCRWcwbHV2Tml5eTNfOTd0bk5WVWFOemdmYy1ycHJLNy1sM2NLOC1GT0dkRkJaTFNYRWhSalNJM19TNEtfc0w4RlU3a0cxMmxJdkFNclA1a0hJZkpOcG5TOTZ3elRDVkNVZHZKMmNMdkhKYS1ZNnVwbnpuYlMtU1hYbWVBb3pCUnBVTDYydw?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-25T16:13:26.000Z",
-          "score": 2,
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-26T12:20:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "confirmed"
-          ]
-        },
-        {
-          "title": "Singapore Major Stage 1 day 3 matchups set",
-          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:53:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "faze*"
-          ]
+          "why": []
         }
       ]
     },
@@ -225,21 +222,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Capcom Cup 13 Heads to Tokyo’s Ryogoku Kokugikan March 10-14, 2027",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjBKZ1gzb3VZSzIyNEYtSlNpeDUta0lCMUVDRjlMcXBXOERjSmwzSUFfQmZWa1dlMUYwZXRLNWpxVFVTZVEzT2otV09Odl9MT0NkTEJ3RFRDOTFudmJaaHhZTmY5TnBOMDJGbXQ2X2Juc2NtaGYwQW5RSFN0eUt4czZn?oc=5",
-          "source": "Google News: Street Fighter (Happy Gamer)",
-          "published": "2026-11-25T13:21:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -249,6 +231,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
     "Legacy FGC",
     "Quake",
     "Halo"
