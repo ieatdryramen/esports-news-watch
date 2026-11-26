@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:55:17.276Z",
+  "generatedAt": "2026-11-26T04:50:29.699Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -171,6 +171,17 @@
       "storyCount": 2,
       "stories": [
         {
+          "title": "BetBoom Team Dota 2: Roster and Results 2026",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9acFk0eXhmZzUzMXIzVXI4UGtZeDhqM2Q2d1p2NW5SckNyNm9RMHYyQlpEUFNtcmJCSnBqTU5CZlJVV2VIR3B2RC1hcDRtRGhrUkhMQThrMC10OFNXaE9JWFhmamhpNnFLbEFQR0hETVk?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-25T15:33:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
+        {
           "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
           "url": "https://esports-news.co.uk/2026/11/25/parivision-sweep-gamerlegion-for-sixth-straight-win-at-blast-slam-season-9/",
           "source": "Esports News UK",
@@ -180,15 +191,6 @@
           "why": [
             "won*"
           ]
-        },
-        {
-          "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-25T04:39:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
