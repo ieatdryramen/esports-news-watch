@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:50:16.894Z",
+  "generatedAt": "2026-11-26T01:20:18.292Z",
   "source": "start.gg",
   "completed": [
     {
@@ -99,19 +99,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1759466",
-      "scene": "streetfighter",
-      "game": "Street Fighter 6",
-      "tournament": "TNS Street Fighter 6 #174",
-      "event": "Street Fighter 6",
-      "entrants": 138,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-26T01:00:00.000Z",
-      "endAt": "2026-11-26T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-street-fighter-6-174/event/street-fighter-6"
-    },
     {
       "eventId": "1705746",
       "scene": "legacyfgc",
