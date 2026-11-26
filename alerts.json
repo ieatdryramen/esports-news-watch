@@ -1,6 +1,25 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-26T14:25:20.711Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "BLAST announces invited teams for Bounty 2027",
+      "url": "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 6,
+      "why": [
+        "announces",
+        "blast",
+        "pgl*"
+      ],
+      "summary": "Few top teams will appear at BLAST's event due to the clash with PGL Bucharest.",
+      "published": "2026-11-26T14:19:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-26T11:00:25.682Z",
       "level": "breaking",
       "scene": "CS2",
