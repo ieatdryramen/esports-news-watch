@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T01:00:23.768Z",
+  "generatedAt": "2026-11-26T01:55:25.932Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 10,
       "stories": [
         {
           "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
@@ -20,18 +20,6 @@
           ]
         },
         {
-          "title": "NiP Sweep Liquid 2-0, Advance 3-0 to PGL Major Singapore Stage 2",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWg4d1hFcW8wdHJLLUJzR1RlTFFhTGlBRnBGWDBkUlJsYTNENmRVMEJJWjl1cDJrZHZ6U1RzZmVrWmMzd3ZfUjNRdjdzWGdvVERRRVlmd3E2elNOR0tUR0t3d213eGpiOUFkZXF6TERrNXBGb2pzX25NVFVEZDNoVlIyT1AtNG5lVVBPT0FDVlRBbnRNc3pObjVOdnFYcDFNRmxDSEgxX1VuRU93akFR?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-25T12:49:26.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "liquid",
-            "pgl"
-          ]
-        },
-        {
           "title": "Media: oSee joins Without a Roof",
           "url": "https://www.hltv.org/news/46055/media-osee-joins-without-a-roof",
           "source": "HLTV news",
@@ -40,17 +28,6 @@
           "level": null,
           "why": [
             "joins"
-          ]
-        },
-        {
-          "title": "Jason Lake Wins First HLTV Lifetime Achievement Award",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IVGpOTTgwZFJnNXh3TFFtcy1yZllweWVzaW9xbUdFeUVNb0JZUnB3a3Jqa0xOclFTcVJIUUNYWUgxbmJOaVBoajYyUWFPa2E2cWwyVUkwVjFyd2hUc2VpNEx0Ym9fNm0tTWc?oc=5",
-          "source": "Google News: CS2 (Demokratis.co.id)",
-          "published": "2026-11-25T08:40:38.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
           ]
         },
         {
@@ -88,30 +65,6 @@
           ]
         },
         {
-          "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDVjVkxRaGtRNUw3SzNOVmNOWktuUXljUG9mNnJQekNiWXVxaDc0Um9FWkFQdkR3U2ZHTVpLZ0R6WTNCektTQmpxYVZleEo3X0F5OTJzb2lOc2o0NXBuUUdlOHhmN1RoUEc0dkc4ZWhnY1prQUR2bzBOSUMxVFpMR0EtT0pUMWhkZmdxdjB0b0ZSR0ZGaXV4REJ4cF9Ta2t6LXd2NzNVQzBWbXlIZmNEMTM5alhFMV9wejNF?oc=5",
-          "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-25T10:30:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cs2 major"
-          ]
-        },
-        {
-          "title": "PGL CS2 Major Singapore 2026: Schedule, results, phases, teams, and more",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBZUY3Q09McUVVVFMtWXkwb18tZGg1aXNpWjd4WXIyZl82UWp1b2tpck9qZk5ZMGVRRVptV0Ruc0EyQXhGU3ZZTVJZU1VudUE0NWZYcTI5c2hlbEdXNUxuamVYbUo4NzczMmdjOWNzcmhGSVktYVEyREo0VQ?oc=5",
-          "source": "Google News: CS2 (Dot Esports)",
-          "published": "2026-11-25T08:24:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl",
-            "cs2 major",
-            "-schedule"
-          ]
-        },
-        {
           "title": "Best CS2 settings: donk, ZywOo, and m0NESY",
           "url": "https://esports.gg/news/counter-strike-2/best-cs2-video-settings/",
           "source": "esports.gg",
@@ -126,17 +79,6 @@
           ]
         },
         {
-          "title": "Counter-Strike Confirmed for Esports World Cup 2027 and 2028",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmN1TmFCRWcwbHV2Tml5eTNfOTd0bk5WVWFOemdmYy1ycHJLNy1sM2NLOC1GT0dkRkJaTFNYRWhSalNJM19TNEtfc0w4RlU3a0cxMmxJdkFNclA1a0hJZkpOcG5TOTZ3elRDVkNVZHZKMmNMdkhKYS1ZNnVwbnpuYlMtU1hYbWVBb3pCUnBVTDYydw?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-25T16:13:26.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "confirmed"
-          ]
-        },
-        {
           "title": "Singapore Major Stage 1 day 3 matchups set",
           "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
           "source": "HLTV news",
@@ -146,29 +88,43 @@
           "why": [
             "faze*"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-25T06:42:57.000Z",
-          "score": 4,
+          "title": "Chinggis Warriors condemn BC.Game to 0-3 exit in Singapore",
+          "url": "https://www.hltv.org/news/46053/chinggis-warriors-condemn-bcgame-to-0-3-exit-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T13:19:00.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "wins"
+            "s1mple*"
           ]
+        },
+        {
+          "title": "9z snap losing streak to send DENDELE packing in Singapore",
+          "url": "https://www.hltv.org/news/46048/9z-snap-losing-streak-to-send-dendele-packing-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-25T09:56:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "roster*"
+          ]
+        },
+        {
+          "title": "FlyQuest beat Imperial to secure Stage 2 spot",
+          "url": "https://www.hltv.org/news/46050/flyquest-beat-imperial-to-secure-stage-2-spot",
+          "source": "HLTV news",
+          "published": "2026-11-25T10:55:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
         {
           "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
@@ -180,54 +136,6 @@
           "why": [
             "won*"
           ]
-        },
-        {
-          "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-25T04:39:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "CDL 2027 Kickoff Classic Starts December 4 With Free Viewer Rewards",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91S1RLQWdpbTNORDdDR3g0RmhhWm5Sb3Z5dkQ4dlliV1V2RVpaSjBLc3dfaE1WOVVPR0hmTDJ2YVpQR2t1VHJJYXU1VV9JMHQ0ZzJyY1NYN0o1ekFkX0pENkFYUkhRNl85elFVOEhsMFlHclI3eFFXU1pJQXNzNFk?oc=5",
-          "source": "Google News: CoD (Happy Gamer)",
-          "published": "2026-11-25T20:20:20.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Paris Gentle Mates Top Peer Rankings for 2027 CDL Kickoff Classic",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlIxT2NwVTYtalBXQ0xCT0tYdEN6cUVMd1VMMWQxc0lmVUxYVXI3eDM1R2JOLWJ2Qnk3aHlvbTVZZDRmRWRfTUVNdDdzRThYNnVLU1A2V2FHTkJQbExCNW95bnlwUUtEWUwtTjg2QnI4a2V4cHBuajhqbDktVTNxM0tDUG5HV3hhaHhBY3RDN2pBcW8?oc=5",
-          "source": "Google News: CoD (RG.org)",
-          "published": "2026-11-25T12:03:02.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Street Fighter",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Capcom Cup 13 Heads to Tokyo’s Ryogoku Kokugikan March 10-14, 2027",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjBKZ1gzb3VZSzIyNEYtSlNpeDUta0lCMUVDRjlMcXBXOERjSmwzSUFfQmZWa1dlMUYwZXRLNWpxVFVTZVEzT2otV09Odl9MT0NkTEJ3RFRDOTFudmJaaHhZTmY5TnBOMDJGbXQ2X2Juc2NtaGYwQW5RSFN0eUt4czZn?oc=5",
-          "source": "Google News: Street Fighter (Happy Gamer)",
-          "published": "2026-11-25T13:21:24.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     }
@@ -239,7 +147,10 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Street Fighter",
+    "Tekken",
     "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
