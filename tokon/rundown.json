@@ -1,24 +1,8 @@
 {
-  "generatedAt": "2026-11-26T18:30:29.712Z",
+  "generatedAt": "2026-11-26T19:30:29.024Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Tokon",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Dr. Doom Tops Fun-Factor Tier List for Tokon",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXhlZEZYYkFEWXVXWElNcXZuZHEtaV9DLU9VTGp2WmlaWWpoLXpWZWMtWVVuMkg5bG8zaEpsTTNtR2tLODVrcU1ZUmV3SFM2QUVoWUNWZVpNVVNaakRfdUVpR3U3TDhYdF96ekNiX3VNWHJnVlB5Z3A3TDYwOXBVdmVoMzY?oc=5",
-          "source": "Google News: Tokon (Wisevoter)",
-          "published": "2026-11-25T18:47:48.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "tier list"
-          ]
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Tokon"
+  ]
 }
