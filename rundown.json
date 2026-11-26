@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:40:19.645Z",
+  "generatedAt": "2026-11-26T11:40:19.331Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -40,18 +40,6 @@
           "level": null,
           "why": [
             "joins"
-          ]
-        },
-        {
-          "title": "NIP beat Liquid to reach Stage 2 in Singapore",
-          "url": "https://www.hltv.org/news/46052/nip-beat-liquid-to-reach-stage-2-in-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-25T12:43:00.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "return*",
-            "liquid"
           ]
         },
         {
@@ -144,6 +132,15 @@
           "why": [
             "s1mple*"
           ]
+        },
+        {
+          "title": "PARIVISION dispatch Lynn Vision to make Stage 2",
+          "url": "https://www.hltv.org/news/46059/parivision-dispatch-lynn-vision-to-make-stage-2",
+          "source": "HLTV news",
+          "published": "2026-11-26T11:06:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -171,43 +168,6 @@
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
-          "url": "https://esports-news.co.uk/2026/11/25/parivision-sweep-gamerlegion-for-sixth-straight-win-at-blast-slam-season-9/",
-          "source": "Esports News UK",
-          "published": "2026-11-25T11:10:05.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "won*"
-          ]
-        },
-        {
-          "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
-          "source": "Google News: Dota (Esports.gg)",
-          "published": "2026-11-25T17:08:30.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XctN - RE, November 26, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVRyWVB1WWtFRnp3WUhGMDZ2X1JVbFVKVWFJMWtOYWxiUUJYVG9DMTNhbHIxOXlBaGNweU5jMDdxNnU2cnB3dGpITS1MN2hyamhtbDM0NUxVb0cwLU5obWhUa2JnRmxfQld1U1Nrc24tV3l2MmJOU19wb2NfenVZcnRDaE9wSWRKbTFvR3ljRm1FbjFWN1B2OFJHZzBrWl9WUFhJZTdXQ3VLc0lWM1E?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-26T06:00:31.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
         }
       ]
     },
@@ -241,6 +201,32 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Dota",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "Dota 2 patch 7.42a notes: Chaos Knight changes, Huskar buffs, and more",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YWmtpNERlaG9iOFp5TlNoalBQNEJVaVVLV1pCd2ZjdVAyOE83dHlPSC00VkloazFMOVVXWGw4ODYyTTA2cGVfWlJTbUU2RG9tZ3BHN2NvWlJ1MDk5Ri02Wk1vV194N21EZHNCQVhqaWZNUQ?oc=5",
+          "source": "Google News: Dota (Esports.gg)",
+          "published": "2026-11-25T17:08:30.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "XctN - RE, November 26, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVRyWVB1WWtFRnp3WUhGMDZ2X1JVbFVKVWFJMWtOYWxiUUJYVG9DMTNhbHIxOXlBaGNweU5jMDdxNnU2cnB3dGpITS1MN2hyamhtbDM0NUxVb0cwLU5obWhUa2JnRmxfQld1U1Nrc24tV3l2MmJOU19wb2NfenVZcnRDaE9wSWRKbTFvR3ljRm1FbjFWN1B2OFJHZzBrWl9WUFhJZTdXQ3VLc0lWM1E?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-26T06:00:31.000Z",
+          "score": 0,
+          "level": null,
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
