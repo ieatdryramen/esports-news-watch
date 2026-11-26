@@ -1,22 +1,21 @@
 {
-  "generatedAt": "2026-11-26T06:50:24.821Z",
+  "generatedAt": "2026-11-26T07:45:28.671Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 10,
       "stories": [
         {
-          "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
-          "url": "https://www.hltv.org/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-25T20:23:00.000Z",
-          "score": 9,
-          "level": "breaking",
+          "title": "s1mple's BC.Game Go 0-3 at PGL Major Singapore 2026",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkt2bTFYdTA1RFFHd2pLM2dMRDNuRnRHS3RvNXZLZmFRWFNSUzhyWjB4NFVGMWRVdEJNNTBBNTN3QVFWRlNZZ0l2QzhsWEs5ZWd6cDQxM2NXd1Y4ZjBRNzNUZXdFSkNYV3hORjhYZ08yOTBsM3hpWDdLNnF6VllYV1pXOGNCMWswaEFvMEFqZ2dtZEVnV2FqQjRleXF6Nmc0b1pxX1BFQWs1d2xwMHVV?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-25T13:23:03.000Z",
+          "score": 5,
+          "level": null,
           "why": [
-            "benched",
-            "niko",
-            "karrigan"
+            "s1mple",
+            "pgl"
           ]
         },
         {
@@ -32,44 +31,10 @@
           ]
         },
         {
-          "title": "Media: oSee joins Without a Roof",
-          "url": "https://www.hltv.org/news/46055/media-osee-joins-without-a-roof",
-          "source": "HLTV news",
-          "published": "2026-11-25T15:30:00.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "joins"
-          ]
-        },
-        {
-          "title": "Jason Lake Wins First HLTV Lifetime Achievement Award",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IVGpOTTgwZFJnNXh3TFFtcy1yZllweWVzaW9xbUdFeUVNb0JZUnB3a3Jqa0xOclFTcVJIUUNYWUgxbmJOaVBoajYyUWFPa2E2cWwyVUkwVjFyd2hUc2VpNEx0Ym9fNm0tTWc?oc=5",
-          "source": "Google News: CS2 (Demokratis.co.id)",
-          "published": "2026-11-25T08:40:38.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
-          ]
-        },
-        {
-          "title": "NIP beat Liquid to reach Stage 2 in Singapore",
-          "url": "https://www.hltv.org/news/46052/nip-beat-liquid-to-reach-stage-2-in-singapore",
-          "source": "HLTV news",
-          "published": "2026-11-25T12:43:00.000Z",
-          "score": 3.5,
-          "level": null,
-          "why": [
-            "return*",
-            "liquid"
-          ]
-        },
-        {
-          "title": "On the ground at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-25T18:43:00.000Z",
+          "title": "PGL Singapore Major 2026 Stage 1 Day 2 Recap",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakNiRFFlZHdyU3VFWVZJaEdnV25MSHU2NXg4dTRDaGhVLXUyRVpiaE85YWxKZjRlWUpGVFYtN3YyakNHNmF0SzFGYlduUS1lNlNUMTJ1Y1VBY3FQUmZUTnRVX2hxV2ZmT2gxT1dySEY4WVJLVXhfdWlVR3pUZnNnUng2bWk3bmRV?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-25T14:59:40.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -77,21 +42,10 @@
           ]
         },
         {
-          "title": "HUASOPEEK: \"history is another voice with max, he helps a lot inside and outside the game\"",
-          "url": "https://www.hltv.org/news/46049/huasopeek-history-is-another-voice-with-max-he-helps-a-lot-inside-and-outside-the-game",
-          "source": "HLTV news",
-          "published": "2026-11-25T11:18:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "history"
-          ]
-        },
-        {
           "title": "CS2 Major Singapore sticker sales raise concerns after Cologne revenue drop",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFJMFVPOE5sUF8xMklHQTJtaUlwZEhOZ2VFcnZjX1AybHhmUUt3RVRJYUhlQ0JpRG13TWI0QnUwcFFUNzViUldqMXEyQWstZkNsa19KQTNFX1ZqdUNTNUdxUmtjRXFMZGxMY0xxTU1hSzZXY3dQUWtTb0lFZFBPeEJWLTk4MW5iZ1p6NXFwS3F2LW95ekh5bkNxeWpyLVBsMXIydmZKdk5Vc0JDTnVCRUhucVViWWVLNWxZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDVjVkxRaGtRNUw3SzNOVmNOWktuUXljUG9mNnJQekNiWXVxaDc0Um9FWkFQdkR3U2ZHTVpLZ0R6WTNCektTQmpxYVZleEo3X0F5OTJzb2lOc2o0NXBuUUdlOHhmN1RoUEc0dkc4ZWhnY1prQUR2bzBOSUMxVFpMR0EtT0pUMWhkZmdxdjB0b0ZSR0ZGaXV4REJ4cF9Ta2t6LXd2NzNVQzBWbXlIZmNEMTM5alhFMV9wejNF?oc=5",
           "source": "Google News: CS2 (Sheep Esports)",
-          "published": "2026-11-25T10:23:50.000Z",
+          "published": "2026-11-25T10:30:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -137,22 +91,49 @@
           ]
         },
         {
-          "title": "Singapore Major Stage 1 day 3 matchups set",
-          "url": "https://www.hltv.org/news/46054/singapore-major-stage-1-day-3-matchups-set",
-          "source": "HLTV news",
-          "published": "2026-11-25T13:53:00.000Z",
-          "score": 2,
+          "title": "Esports Foundation locks in Counter-Strike 2 for EWC 2027 and 2028",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeC1aOXd4emVRY0JnOHFyRkd0NVBwLXVBSnZyUmdPM2tzT19Yc19YU2FHWDBONzFpc1l3ZkI4Tkx4Z1JHWXhUUFVrS01ZVmxvWEFPQU9BSkZmbERnbldVZnlUMlJocUdRX29aSkRYRkRFV012Ti14NlJqNndHbERKQU1ZbmU4Vi1TSWRPMEhIRHJvb3NjT3c?oc=5",
+          "source": "Google News: CS2 (A 90s Kid)",
+          "published": "2026-11-26T00:49:45.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "faze*"
-          ]
+          "why": []
+        },
+        {
+          "title": "CS2 Is Back at the Esports World Cup for 2027 and 2028: $2 Million, 32 Teams, Riyadh",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSG1CSDVzUV9DSzAxTndoakhRX0V2WmdPNU1peVVPdVd3SXJLY1NVNkdzZHhfeG84dkctYjkxc25tZFJBNFh4YUYwenpBT0ZRT3I0X1oweklaNXpDWEVBaEw5Wk5NN0NhbTNITmNpX3ZYa0tpalhNVzEyZ2xhZUVxVQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-25T14:53:52.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Woman Asks Instagram How to Cash Out Her Boyfriend’s CS2 Skins, Gets Roasted Instead",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObVpEUXhicVhCdnRNQWoySjlDQ0hMdFBMQXBlSm9naWdFU2poVXhjSGRYUE1wSDZOd19feDJfSU9RN1NVYUY3LXdkNU4wZE5ndDVpRXdaekNsQjFJbS1tSG83bjhOLTV4clhFSkUzTU80aTE2N2t6WUpoUWRjaVBJSWJUUzZxRVNYdWc?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-25T12:00:48.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "BetBoom Team Dota 2: Roster and Results 2026",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9acFk0eXhmZzUzMXIzVXI4UGtZeDhqM2Q2d1p2NW5SckNyNm9RMHYyQlpEUFNtcmJCSnBqTU5CZlJVV2VIR3B2RC1hcDRtRGhrUkhMQThrMC10OFNXaE9JWFhmamhpNnFLbEFQR0hETVk?oc=5",
+          "source": "Google News: Dota (Hawk Live)",
+          "published": "2026-11-25T15:33:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "roster"
+          ]
+        },
         {
           "title": "PARIVISION sweep GamerLegion for sixth straight win at BLAST Slam Season 9",
           "url": "https://esports-news.co.uk/2026/11/25/parivision-sweep-gamerlegion-for-sixth-straight-win-at-blast-slam-season-9/",
