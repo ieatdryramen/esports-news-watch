@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-26T10:40:24.064Z",
+  "generatedAt": "2026-11-26T11:40:23.702Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
-        {
-          "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdWlLVS1TRHN0SFdCY2FfVnVxOWU5Qy1CLWZKb01BY2JBLTBfeTlOSDFoMTctaHU0a3BENjJlMm5ieWpQOEJjOXFlenhVeC1kdFBSay1iMlQ5bm45REQyZl8zWlhSdw?oc=5",
-          "source": "Google News: Rivals esports (Natus Vincere)",
-          "published": "2026-11-25T11:00:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "grand finals",
-            "grand finals"
-          ]
-        },
         {
           "title": "Marvel Rivals Version 20261126 Patch Notes",
           "url": "https://store.steampowered.com/news/app/2767030/view/703286102818030278",
