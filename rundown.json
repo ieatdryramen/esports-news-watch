@@ -1,38 +1,24 @@
 {
-  "generatedAt": "2026-11-26T22:00:28.467Z",
+  "generatedAt": "2026-11-26T23:00:25.326Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Tekken",
-      "storyCount": 2,
+      "scene": "CS2",
+      "storyCount": 24,
       "stories": [
         {
-          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
-          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
-          "published": "2026-11-26T07:25:15.000Z",
-          "score": 7,
+          "title": "FaZe Knocked Out of PGL Major Singapore 2026 by HEROIC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG5Ram9IMW9NWk1HZnRUM3dXN213ZjFsbzlBWjUzUERnRGVtUTFYQ1QxZDlCclpDc1ZFLVpuaWt2SkVIVWxjMUJzbU83bW9POTktbXc4Q19tQjRmZnpNOWZpQVA5OE02c0UtUWRYOTJXd1A0TGIyUkF2aFQ0RlFJdmExb0I2RVdxVlVzdGJ2QUxCNXdFVzAyejlkVkhfUzg1Vk9CQ2tPZFRzZ29MUktV?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-26T09:12:48.000Z",
+          "score": 8,
           "level": "breaking",
           "why": [
-            "world record",
-            "record"
+            "knocked out",
+            "faze",
+            "pgl"
           ]
         },
-        {
-          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-26T16:10:49.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CS2",
-      "storyCount": 23,
-      "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
           "url": "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
@@ -160,17 +146,33 @@
           "why": [
             "s1mple"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
+          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
+          "published": "2026-11-26T07:25:15.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "world record",
+            "record"
+          ]
         },
         {
-          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
-          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
-          "source": "HLTV news",
-          "published": "2026-11-26T18:31:00.000Z",
-          "score": 2,
+          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
+          "source": "Google News: Tekken (Dexerto)",
+          "published": "2026-11-26T18:06:09.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "liquid*"
-          ]
+          "why": []
         }
       ]
     },
