@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-26T12:40:30.500Z",
+  "generatedAt": "2026-11-26T13:40:25.092Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 11,
+      "storyCount": 13,
       "stories": [
+        {
+          "title": "DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals",
+          "url": "https://insider-gaming.com/dreamhack-stockholm-2026-esports-preview/",
+          "source": "Insider Gaming",
+          "published": "2026-11-26T13:06:24.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "champions",
+            "crowned"
+          ]
+        },
         {
           "title": "Marvel Rivals November 26 2026 Patch Notes",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkwybWJmSkFtdUZIR0ZIRV9id3BuNFVSeDRvQjhILTZKbVVud056MVltVlZkNWY0eDdiR2NYclVranhtVk1udUpyVUo2enRMU3pLNHJiTEZ6ek5WQUtxRHFUQUNENHVFdGtjTVVYNEdpeFhLRE52SHRUMFVTaDhRZmtvREtiSXdrNmc?oc=5",
@@ -62,6 +74,15 @@
           ]
         },
         {
+          "title": "Marvel Rivals Hero List: All 55 Heroes by Role",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c2VjYzJBNkQ2Q3FyZWJRUkhDVUUyMUszWXZMUDFGZmI5M2NsTUszT2JoN09qQXFKZFpJNGdvQ25jaExiZ0pFYnNmWkx1OGdyYmpuTHRxNDRLdw?oc=5",
+          "source": "Google News: Rivals esports (theloadout.com)",
+          "published": "2026-11-26T13:19:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Marvel Rivals Launches Black Friday Sale With 40% Off",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0xRY3FWNzVZVTliNHQySlFISjA1RnRCVW1ac3haT3lUT0dmTTR3VkN1VEMyV0ZsWTN1MnZzTWJ6Q3lBLVdOa2U5d3NGV3JqWWw1V0NaRC0tQjNwWGo4STNxX2lYNzZaTnI3TzlfMTZ6bGEzS3FzQUhNeTYyeWtYajJtaDcxVlB6c3llNFZR?oc=5",
           "source": "Google News: Rivals esports (Wisevoter)",
@@ -105,17 +126,6 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Marvel Rivals VAN DYNE: IDEA MATRIX Event: Free Deadpool Skin and New Costumes",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVhhTV9IOHNYWk5EZ2J0dTdSekJtWVQ3c0ZPbkhpTmgyUTdURVVtbU1kRUZfRU51OTVtdnVDZW53THNQalQ2TExCTmNfY3cxa1N5ZWxZSXJYNVRDZmpsVnMyY2NZYkxJeXBmMDFYOHk5UXRWSjF2LU03b1NqNGxXZ0Q4NDZpRDU2UW13WXdn?oc=5",
-          "source": "Google News: Rivals esports (Chase Your Sport)",
-          "published": "2026-11-25T19:31:39.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-skin"
-          ]
         }
       ]
     }
