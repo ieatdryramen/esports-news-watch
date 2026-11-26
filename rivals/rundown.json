@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T23:50:33.380Z",
+  "generatedAt": "2026-11-26T00:50:27.983Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 8,
+      "storyCount": 9,
       "stories": [
         {
           "title": "Day 3 of Marvel Rivals Ignite 2026: Grand Finals",
@@ -39,6 +39,15 @@
           "why": [
             "season"
           ]
+        },
+        {
+          "title": "Russell Dauterman Talks ‘Marvel Rivals,’ Lore and His Future with the Scarlet Witch (Interview)",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmVCcnBWQjMtSXNsUExkVmtlLVkwc2hBUTJRUFBIdnJFUHNZZHZhVFZ2MUN2cGZsM2RrbzY5dFVDOTNBaVBtUF9WbE5kWFJUS0xWakZBS21zdXVCM0JtV2ZvaHBVRl9IV2V4WFQtR3dFZzF1RFlXdzB3bXcyOHd2ZTBsZVBnTFU2M0FsLTI1TUFtYUtQdGdpa1UwOUhXY3FCSnQ2LXhJaDhzWmNpX3VmSG1GYkVVcFRJeHc?oc=5",
+          "source": "Google News: Rivals patches (Nexus Point News)",
+          "published": "2026-11-26T00:33:45.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "LEGO Finally Brings Marvel Rivals’ Fan-Favorite Strategist to Brick Form With an Adorable New Jeff the Land Shark Set",
