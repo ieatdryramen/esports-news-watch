@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:20:34.916Z",
+  "generatedAt": "2026-11-27T09:20:31.386Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -61,7 +61,7 @@
       "name": "Google News: Rivals esports",
       "ok": true,
       "skipped": false,
-      "items": 11,
+      "items": 9,
       "newest": "2026-11-27T01:52:32.000Z",
       "error": null
     },
@@ -69,8 +69,8 @@
       "name": "Google News: Rivals patches",
       "ok": true,
       "skipped": false,
-      "items": 26,
-      "newest": "2026-11-27T06:01:24.000Z",
+      "items": 22,
+      "newest": "2026-11-27T05:55:49.000Z",
       "error": null
     },
     {
@@ -78,14 +78,14 @@
       "ok": true,
       "skipped": false,
       "items": 9,
-      "newest": "2026-11-27T04:31:57.000Z",
+      "newest": "2026-11-27T08:37:58.000Z",
       "error": null
     },
     {
       "name": "Google News: Sheep/Dot/Liquipedia",
       "ok": true,
       "skipped": false,
-      "items": 53,
+      "items": 46,
       "newest": "2026-11-27T07:42:51.000Z",
       "error": null
     },
