@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T21:00:25.851Z",
+  "generatedAt": "2026-11-27T22:00:35.931Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
@@ -17,6 +17,15 @@
             "champion",
             "crowned"
           ]
+        },
+        {
+          "title": "A 103-year-old is going to compete in Tekken 8 next month... and you thought 30 was old in eSports?",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOQ3AzT29OaGRaSFlqdFlGUklOUW0tYWdSMjlZREdwMlI1MkRHZ3RjVkFuNGhDQ29TaWhUcHQzNzU2d1UyTGwwZGk0T0lvOTBDVlhzUE5veHpFZEVtN2lsM2k1VEZRTlVHTFlQMVJ3dFRqekRLMnUyNjRwRQ?oc=5",
+          "source": "Google News: Tekken (EventHubs)",
+          "published": "2026-11-27T21:21:40.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
@@ -183,7 +192,7 @@
           "title": "CS2: FlyQuest, Ninjas in Pyjamas lead the eight teams qualified for Singapore Major Stage 2",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamZET3JFcGNJdjl6STh1T3dJTDhta3hYamVpcXlUZGhWRzdsbXRaSWNUNDlNRmlxQmJnY3Z5Q2E3WmxJNmNDd2tmaVlGSkprZWo4UzNpeUpfaXc0c1E5UXpvUmxUNnNMNldGYTcxTzBDcmU5STFOdU45aWdqT2NBcFpBNWtiT3RpdTlYbUM1b1pyZ3g3Rmt1Y0FRZUV3ZVVLb2dyWlI2SHF1M0Ftdkh4X3YzV3I1T01VTkJRVnFxbFk5WWc2enZHY1gtMXhpUTh6ZVBtRmdrUmY?oc=5",
           "source": "Google News: CS2 (GosuGamers)",
-          "published": "2026-11-27T14:57:57.000Z",
+          "published": "2026-11-27T15:00:34.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -219,20 +228,8 @@
     },
     {
       "scene": "Legacy FGC",
-      "storyCount": 2,
+      "storyCount": 1,
       "stories": [
-        {
-          "title": "SNK World Championship 2026 finals stream, early results ft Laggia, Xiaohai, Go1, Lauyagami, Kaiser666, Dany 'El Maza', Mi2ha4, Score, Madkof and more",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUpyd2NucWp6c3lnR3R4N0s0a3Mwd1hvVDgtVUFSaDJYSEdSd0Z3aTgwNjJLLUwtb3A3MXJ5MlVrUzlrcHdLNE1Fd0lYQ1VkbHVMQktsVGZTd05mTU52Ty11WjRMcXZTV3c1SFUzYjd1RDFlY2dDazU5ajBVR1RLWkxWZnB0UQ?oc=5",
-          "source": "Google News: Legacy FGC (EventHubs)",
-          "published": "2026-11-26T21:46:15.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "xiaohai",
-            "-stream"
-          ]
-        },
         {
           "title": "SNK World Finals 2026: $4M+ event overview, FATAL FURY and KOF XV results",
           "url": "https://esports.gg/news/fgc/snk-world-championship-2026-finals-results/",
@@ -251,10 +248,10 @@
       "storyCount": 2,
       "stories": [
         {
-          "title": "Dota 2 Patch 7.42 Best Heroes",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa190SHZJYWtTaktpeVJkNVpicmNoc2ZOamZnNEE5WFJILWJfSFY2M1lKQ3ZSZjhBSlZSbFM5Z2lZbHlCRGxXT1h0SzA1dTNTZ1FzNnVKVmJjVy1POWhvSkxZeUNWZkhEdERmTTZMdEhpdEVrUFVWQWlwUDc4ZDQxQndwVTkyWERNVDloVEhGUE01QQ?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-26T21:25:47.000Z",
+          "title": "FalleN Wants a Dota 2 Style Compendium for CS2 Majors, With Team Voice Lines and Exclusive Skins",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDJXUTFFd2FFM0dDb256ejBNaTU2czY2LWhZdnRTY0phcnprbDlqS1YxN2VBbzdEY2Ftck1fZWFjbGlsM1VEUmxXNkpQOXpYc3Vya2lldF9kXzRRYzBZVkhaRFV5SU1vZE5RRkhiN25ydEhEZ21xMGZqVGFheUJNQW54X2dadnQtLTN1b0w4aHRFQQ?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-27T15:15:07.000Z",
           "score": 1,
           "level": null,
           "why": []
