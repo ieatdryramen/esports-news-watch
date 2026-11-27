@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T03:30:22.381Z",
+  "generatedAt": "2026-11-27T04:30:22.874Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 14,
+      "storyCount": 12,
       "stories": [
         {
           "title": "DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals",
@@ -16,6 +16,19 @@
           "why": [
             "champions",
             "crowned"
+          ]
+        },
+        {
+          "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16c1JqUHBZaFkwOFVhN014NWZfcGc5Q2lGeUU4b3k5X2RvSkNKcjVBX3MtdWNINmZwTzZUUzhYcXhjbE4yWWhwd3M0Qm0yRU1YVXc?oc=5",
+          "source": "Google News: Rivals patches (IMDb)",
+          "published": "2026-11-26T10:28:53.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "balance",
+            "balance changes",
+            "season"
           ]
         },
         {
@@ -118,15 +131,6 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0xRY3FWNzVZVTliNHQySlFISjA1RnRCVW1ac3haT3lUT0dmTTR3VkN1VEMyV0ZsWTN1MnZzTWJ6Q3lBLVdOa2U5d3NGV3JqWWw1V0NaRC0tQjNwWGo4STNxX2lYNzZaTnI3TzlfMTZ6bGEzS3FzQUhNeTYyeWtYajJtaDcxVlB6c3llNFZR?oc=5",
           "source": "Google News: Rivals esports (Wisevoter)",
           "published": "2026-11-26T04:43:05.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Launches 18v18 Chrono-Annihilation on Incursion Point November 26, but PS4 Players Are Left Out",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3lZTmk5YU40SklXLUNKZEZCbjFzcDZZTmw2cU9BS0Z6bE9FZndxV1VGTTF5ZmE1Wl9DNmhHektybFZPWWJ3UHhsWXJFRkdEUU9BMktNa1BjTzViU00yT3JTbHNhWnV0bkRnbDlLSi1ZOEV4MFNUWXluR0FSYkZlcFRTM3Z5aGl5MlRrUFhnMkZzZjFIOGpsS0hsQ3hwS29Ya0VybjdlNk96dzlXODNXNER2NDU5NUhXV0NGMGx3UFZTRElIRWtQa2JCdDZZbUE?oc=5",
-          "source": "Google News: Rivals patches (inkl)",
-          "published": "2026-11-26T03:45:14.000Z",
           "score": 1,
           "level": null,
           "why": []
