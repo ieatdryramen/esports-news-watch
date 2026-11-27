@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:00:29.065Z",
+  "generatedAt": "2026-11-27T15:00:29.365Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -51,7 +51,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 16,
       "stories": [
         {
           "title": "L1haNg joins TYLOO on trial",
@@ -70,19 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
           "source": "Google News: CS2 (Insider Gaming)",
           "published": "2026-11-26T15:34:32.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "faze",
-            "liquid",
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026: Can Team Liquid and 100 Thieves Challenge the CS2 Favorites After FaZe’s Exit?",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVd5VF9rWENJZlJlendPQldjbllZTmY4VEhMNFd1SGphRkVJZjNfUDYybl9JM2gyN1lLdng1S3djalIxeGF4eGdad0xyVVhpemxLYXE2NGRXRmJUNVVKXzkxNGNiMi0xTHpnUWRjOXFBZW00cE5xNG0yUW0xNDd2MW1tNHVvX0RERlk3SVB5NThHU01QNlV2Q2hCRQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T14:24:24.000Z",
           "score": 5,
           "level": null,
           "why": [
@@ -180,6 +167,15 @@
           "url": "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
           "source": "HLTV news",
           "published": "2026-11-27T09:26:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Lynn Vision qualify for Stage 2 over HEROIC",
+          "url": "https://www.hltv.org/news/46070/lynn-vision-qualify-for-stage-2-over-heroic",
+          "source": "HLTV news",
+          "published": "2026-11-27T08:08:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -293,28 +289,15 @@
           "why": []
         },
         {
-          "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
-          "source": "Google News: Dota (Foro3D)",
-          "published": "2026-11-26T14:05:46.000Z",
-          "score": 1,
+          "title": "TY - Liquid, November 28, 2026 - match stream, live broadcast - BLAST Slam #9 - Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVFZTTcyekJLRVo4Q3NON1Y3TkRDbThwa3pnVzRxTWZGNUpyRU9WbjY2d3hFdXlQbVp2OGh0eWF4WTlZVGVQVkRyVnRCdXYycmpQa2tCdFNTWjc4RHNiQWxOMHF5X1M5QWNQc0xSNkhLakN4S1Q0d0MtOFhqNUIwWHhHNEZxLXZmZkE?oc=5",
+          "source": "Google News: Dota (escorenews.com)",
+          "published": "2026-11-27T14:03:55.000Z",
+          "score": 0,
           "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Axe makes Super Smash Bros. Melee tier list that has the FGC confused over one specific ranking",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VREp2dUUzRzRnYURCMEtKczhTcUd4Wm8tQnV2NVpWU0lBbm85WDF4Qk1oMUVqQUVMUG9vWFFjdmp3WUFKajRacFByQjY5bnlod2tSbEVBLXBxM0dxdDNxc0RhWE93Q1FOOUdkU0t2Ym9hcmNTaXc?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-27T01:57:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
+          "why": [
+            "-stream"
+          ]
         }
       ]
     },
@@ -335,6 +318,7 @@
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
     "Brood War",
     "Trackmania",
