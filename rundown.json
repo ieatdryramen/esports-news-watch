@@ -1,49 +1,10 @@
 {
-  "generatedAt": "2026-11-27T05:00:27.898Z",
+  "generatedAt": "2026-11-27T05:55:30.485Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQVFBSzdVNG8xQkNLbktmUGY5WFF5ZWhPczFXVFVoSWl0dmhzeDhHTDN5RTBQZkdzMmxReXM2X1BvVDU0QTFkX2UwaWZRVWw0WVJRSEpzX0RaUlY3dlBMTm1fRkFvYzVwV25vMndwOC1xZ3RKWUphVTRsclBTVG5WX3JxLUtoU3pDN2oxakdSN25mYkF5elg2dXRrUzU3aF93ZGlYTGdLZWo1dDMxLTJOaDA3UUxUMlZObkhONEMtOHVJbHJlZElnaDBtUks?oc=5",
-          "source": "Google News: Tekken (Inven Global)",
-          "published": "2026-11-27T03:55:31.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "champion",
-            "crowned"
-          ]
-        },
-        {
-          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
-          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
-          "published": "2026-11-26T07:25:15.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "world record",
-            "record"
-          ]
-        },
-        {
-          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-26T18:06:09.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 10,
       "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
@@ -71,43 +32,6 @@
           ]
         },
         {
-          "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-26T15:34:32.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "faze",
-            "liquid",
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore 2026: Can Team Liquid and 100 Thieves Challenge the CS2 Favorites After FaZe’s Exit?",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVd5VF9rWENJZlJlendPQldjbllZTmY4VEhMNFd1SGphRkVJZjNfUDYybl9JM2gyN1lLdng1S3djalIxeGF4eGdad0xyVVhpemxLYXE2NGRXRmJUNVVKXzkxNGNiMi0xTHpnUWRjOXFBZW00cE5xNG0yUW0xNDd2MW1tNHVvX0RERlk3SVB5NThHU01QNlV2Q2hCRQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T14:24:24.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "faze",
-            "liquid",
-            "pgl"
-          ]
-        },
-        {
-          "title": "Esports Team FURIA Renames and Takes Over Top Brazilian Football Club",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXhiT1dxSElQUlpHTFdQVEJxcjNmc21yQXNONGVqSmQ3YzZnMC1tSXdURkxVanhpYzZBV2laVGFQeVV6RDZLQkxDaUQxNG0taExZbXhxNGNNY01YWTlSRV9jN0ktMzNwQks2TGstOTQ1SDl5ZjFvaGlyN0lpUkx0eWFYVHR3N0NlS3FiSTNB?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-26T18:55:21.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "furia"
-          ]
-        },
-        {
           "title": "On the ground at PGL Major Singapore Stage 1",
           "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
           "source": "HLTV news",
@@ -116,28 +40,6 @@
           "level": null,
           "why": [
             "pgl"
-          ]
-        },
-        {
-          "title": "Counter-Strike 2 returns to Esports World Cup in 2027 and 2028",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6MTJrUlRHa29vckRSQzBNM1d5bWowRVNmWmwzYlpvRW9Na0VfYU93SWxSbzE0NVBsY1dMRm1QZ0FQZHB4ZFdXQjl2ckpMVXgzUlBYT2NDVGxjcHRqSGZ5c01HZFVTdzRkcXVkbGxxSmhsS21Wd1E?oc=5",
-          "source": "Google News: CS2 (games.gg)",
-          "published": "2026-11-26T16:04:11.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        },
-        {
-          "title": "9z Chief Floats CS2 Major Boycott Claim",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVI3U0pDNmJ2RExzRXZCWHV3M3RZLXhxSl81aWlJTWlhZXhqOVNQbm5HNkJqOG9scXFTWmE2VnRrUG54SnZ2TEF2ODl5cDI2Y2M2d0RmTVI4NDYwX3VBcy1HMDhVTWxwU0w5VHozS2JfX2h5UkF6dE5HZTRNcXpsSA?oc=5",
-          "source": "Google News: CS2 (Wisevoter)",
-          "published": "2026-11-26T15:09:25.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "cs2 major"
           ]
         },
         {
@@ -152,28 +54,6 @@
           ]
         },
         {
-          "title": "FaZe Crash Out of the Singapore Major at 1-3",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzg3ZGtIT1lHVUlreGZBUGhaUDNaeElIU0xCNGpuLUpDdFM2UEN3NFBhbzdGbHM2M1QtWnh2Z09NVXNSN2d4T3pWSTB1VkZhSGFKa1JQVzJ3YkMxcmJYN0pMdFBva2Jwd2d6VDFqZlhCU3Zva3RzSWV6akJWc3pVZzItWndGUE9Tb3JrNXo0cVlhaHJJblNr?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T09:45:23.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
-          "title": "s1mple's last series draws 526K at the Singapore Major",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1VyM0x2aXhWZW5Ib2E0dC1fZTN4d2E0LURlWWVENGphVE9sT2JKcmQtS0JkTmtPQzhKYTQ1Q1lsemF4ZG81MlVfTnlhWWx0aTA1QlgxZFV5Z016d2RfNFp3RWp0Uk04eVY3ZkE5RHlDbHBFOVZWRWFVMHpVeTJ6WU1Iay05Mjg?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-26T08:50:37.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "s1mple"
-          ]
-        },
-        {
           "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
           "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
           "source": "HLTV news",
@@ -183,103 +63,63 @@
           "why": [
             "liquid*"
           ]
+        },
+        {
+          "title": "Gizmy on leading veterans: \"You just need a strong personality, and trust, and you can [earn] trust by showing class and good stuff in game\"",
+          "url": "https://www.hltv.org/news/46062/gizmy-on-leading-veterans-you-just-need-a-strong-personality-and-trust-and-you-can-earn-trust-by-showing-class-and-good-stuff-in-game",
+          "source": "HLTV news",
+          "published": "2026-11-26T20:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Matchups set for final day of Stage 1",
+          "url": "https://www.hltv.org/news/46068/matchups-set-for-final-day-of-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-26T16:15:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Wildcard outlast Chinggis Warriors to stay alive in Singapore",
+          "url": "https://www.hltv.org/news/46065/wildcard-outlast-chinggis-warriors-to-stay-alive-in-singapore",
+          "source": "HLTV news",
+          "published": "2026-11-26T15:50:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "The ultimate monitor for CS2 and Valorant: What actually matters?",
+          "url": "https://www.dexerto.com/gaming/the-ultimate-monitor-for-cs2-and-valorant-what-actually-matters-3429900/",
+          "source": "Dexerto",
+          "published": "2026-11-26T15:23:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "HObbit: \"If dastan was on level five when I played with him, now he is level 10\"",
+          "url": "https://www.hltv.org/news/46061/hobbit-if-dastan-was-on-level-five-when-i-played-with-him-now-he-is-level-10",
+          "source": "HLTV news",
+          "published": "2026-11-26T14:04:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
     {
-      "scene": "Dota",
-      "storyCount": 5,
-      "stories": [
-        {
-          "title": "Yatoro named the strongest carry heroes in the current Dota 2 meta",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmpuNVgtRFVqSXpEUHBxd2VCVXNMa25KNGpBdEdBb3JLMWFsRVpjYU1NdTI1XzFCaUNFR01vMDhtemc4cWs3SDAxNWgxQ1k4eEFxbm9FbWdFdG5LNTBBcnR3NUtQTVV5a2VQbEVkZi04YlFUX3FPQUdFMHJjd2trNll0el9pQQ?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-26T08:00:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "yatoro"
-          ]
-        },
-        {
-          "title": "Dota 2 Patch 7.42 Best Heroes",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa190SHZJYWtTaktpeVJkNVpicmNoc2ZOamZnNEE5WFJILWJfSFY2M1lKQ3ZSZjhBSlZSbFM5Z2lZbHlCRGxXT1h0SzA1dTNTZ1FzNnVKVmJjVy1POWhvSkxZeUNWZkhEdERmTTZMdEhpdEVrUFVWQWlwUDc4ZDQxQndwVTkyWERNVDloVEhGUE01QQ?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-26T21:25:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
-          "source": "Google News: Dota (Foro3D)",
-          "published": "2026-11-26T14:05:46.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Minsk hosts the NOVA festival final with sixteen teams in CS2 and Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGNmMzl3Q2lIdkI2OHdDTG9vTHVYakVyNHNycjlxLWJMNWlOQU5zUUY0dG5XQ3RoSVFRc1VaWFRkZzhLSDlPUkJfeF9kSm5rOVFwOXdkcjVnLVRfXzQ2ME9FNDQxYmEzSmRIRmlpbWNxTl9RcGNQckZkUzFSZFprdDdBRnQ0a09Gb0psbFFwZkZHMTJtOVh5eUNwaDNkazFfd1lsajlhajU1Rnl2SWpRVg?oc=5",
-          "source": "Google News: Dota (Foro3D)",
-          "published": "2026-11-26T14:05:41.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "XctN - RE, November 26, 2026 - match stream, live broadcast - EPL World SEA S20 - Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVRyWVB1WWtFRnp3WUhGMDZ2X1JVbFVKVWFJMWtOYWxiUUJYVG9DMTNhbHIxOXlBaGNweU5jMDdxNnU2cnB3dGpITS1MN2hyamhtbDM0NUxVb0cwLU5obWhUa2JnRmxfQld1U1Nrc24tV3l2MmJOU19wb2NfenVZcnRDaE9wSWRKbTFvR3ljRm1FbjFWN1B2OFJHZzBrWl9WUFhJZTdXQ3VLc0lWM1E?oc=5",
-          "source": "Google News: Dota (escorenews.com)",
-          "published": "2026-11-26T06:00:31.000Z",
-          "score": 0,
-          "level": null,
-          "why": [
-            "-stream"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Melee",
+      "scene": "Tekken",
       "storyCount": 1,
       "stories": [
         {
-          "title": "Axe makes Super Smash Bros. Melee tier list that has the FGC confused over one specific ranking",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VREp2dUUzRzRnYURCMEtKczhTcUd4Wm8tQnV2NVpWU0lBbm85WDF4Qk1oMUVqQUVMUG9vWFFjdmp3WUFKajRacFByQjY5bnlod2tSbEVBLXBxM0dxdDNxc0RhWE93Q1FOOUdkU0t2Ym9hcmNTaXc?oc=5",
-          "source": "Google News: Melee (EventHubs)",
-          "published": "2026-11-27T01:57:11.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Mortal Kombat 1 Tier List (November 2026) Best Fighters Ranked",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80LVFjX0hKQ0pnQ0YxbG1KdTZNdWhoeXY0Vy1HWE4xUUdLelR3clRTTGQxSGF1cmtJbjQzdmdtaXZmTnZadVYxZXBrOUs5ZERVdVg2RzZkS1N4MkhvM1VWQw?oc=5",
-          "source": "Google News: Legacy FGC (Propel RC)",
-          "published": "2026-11-26T22:30:22.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "CDL Kickoff Classic Seeding: How the 12 Teams Ranked Each Other",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0VQOWVIZVZ3MGl1a2FncHlpNTRTcHlfekhoZXJqTzVJeHQ3cl93YTZRMndSbEk3VkdYdjJiaGZCVmVOUURCODBzcXIwY3Y3NkdmTERvYjdnNmdkOWk5TG1TVVdvUldWelVwc1ZScXZnbVoweVZNSDA2Qng5R0FhX0hkZFNqeklo?oc=5",
-          "source": "Google News: CoD (Shane the Gamer)",
-          "published": "2026-11-26T08:31:53.000Z",
+          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
+          "url": "https://www.dexerto.com/gaming/103-year-old-grandmother-competing-in-tekken-8-tournament-but-doesnt-actually-want-to-win-3431406/",
+          "source": "Dexerto",
+          "published": "2026-11-26T10:06:09.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -288,12 +128,16 @@
     }
   ],
   "quiet": [
+    "Melee",
     "AoE2",
+    "Dota",
     "Classic Tetris",
     "Brood War",
     "Trackmania",
     "Warcraft III",
     "Street Fighter",
+    "Legacy FGC",
+    "CoD",
     "Quake",
     "Halo"
   ]
