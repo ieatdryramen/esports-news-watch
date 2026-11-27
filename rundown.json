@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:00:25.483Z",
+  "generatedAt": "2026-11-27T05:00:27.898Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 20,
+      "storyCount": 21,
       "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
@@ -59,10 +59,22 @@
           ]
         },
         {
-          "title": "PGL Major Singapore 2026: Can Team Liquid and 100 Thieves Challenge the CS2 Favorites After FaZe’s Exit?",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVd5VF9rWENJZlJlendPQldjbllZTmY4VEhMNFd1SGphRkVJZjNfUDYybl9JM2gyN1lLdng1S3djalIxeGF4eGdad0xyVVhpemxLYXE2NGRXRmJUNVVKXzkxNGNiMi0xTHpnUWRjOXFBZW00cE5xNG0yUW0xNDd2MW1tNHVvX0RERlk3SVB5NThHU01QNlV2Q2hCRQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T14:24:24.000Z",
+          "title": "L1haNg joins TYLOO on trial",
+          "url": "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial",
+          "source": "HLTV news",
+          "published": "2026-11-27T04:20:00.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "joins",
+            "bench*"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-26T15:34:32.000Z",
           "score": 5,
           "level": null,
           "why": [
@@ -72,14 +84,15 @@
           ]
         },
         {
-          "title": "100T eliminate 9z from PGL Major",
-          "url": "https://www.hltv.org/news/46060/100t-eliminate-9z-from-pgl-major",
-          "source": "HLTV news",
-          "published": "2026-11-26T11:55:00.000Z",
-          "score": 4.5,
+          "title": "PGL Major Singapore 2026: Can Team Liquid and 100 Thieves Challenge the CS2 Favorites After FaZe’s Exit?",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVd5VF9rWENJZlJlendPQldjbllZTmY4VEhMNFd1SGphRkVJZjNfUDYybl9JM2gyN1lLdng1S3djalIxeGF4eGdad0xyVVhpemxLYXE2NGRXRmJUNVVKXzkxNGNiMi0xTHpnUWRjOXFBZW00cE5xNG0yUW0xNDd2MW1tNHVvX0RERlk3SVB5NThHU01QNlV2Q2hCRQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T14:24:24.000Z",
+          "score": 5,
           "level": null,
           "why": [
-            "breaking*",
+            "faze",
+            "liquid",
             "pgl"
           ]
         },
@@ -170,15 +183,6 @@
           "why": [
             "liquid*"
           ]
-        },
-        {
-          "title": "Gizmy on leading veterans: \"You just need a strong personality, and trust, and you can [earn] trust by showing class and good stuff in game\"",
-          "url": "https://www.hltv.org/news/46062/gizmy-on-leading-veterans-you-just-need-a-strong-personality-and-trust-and-you-can-earn-trust-by-showing-class-and-good-stuff-in-game",
-          "source": "HLTV news",
-          "published": "2026-11-26T20:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -253,6 +257,21 @@
       ]
     },
     {
+      "scene": "Legacy FGC",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Mortal Kombat 1 Tier List (November 2026) Best Fighters Ranked",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80LVFjX0hKQ0pnQ0YxbG1KdTZNdWhoeXY0Vy1HWE4xUUdLelR3clRTTGQxSGF1cmtJbjQzdmdtaXZmTnZadVYxZXBrOUs5ZERVdVg2RzZkS1N4MkhvM1VWQw?oc=5",
+          "source": "Google News: Legacy FGC (Propel RC)",
+          "published": "2026-11-26T22:30:22.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 1,
       "stories": [
@@ -275,7 +294,6 @@
     "Trackmania",
     "Warcraft III",
     "Street Fighter",
-    "Legacy FGC",
     "Quake",
     "Halo"
   ]
