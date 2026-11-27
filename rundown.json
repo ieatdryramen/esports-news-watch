@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:00:24.503Z",
+  "generatedAt": "2026-11-27T13:00:37.605Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -40,20 +40,8 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 18,
+      "storyCount": 10,
       "stories": [
-        {
-          "title": "L1haNg joins TYLOO on trial",
-          "url": "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial",
-          "source": "HLTV news",
-          "published": "2026-11-27T04:20:00.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "joins",
-            "bench*"
-          ]
-        },
         {
           "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
@@ -92,17 +80,6 @@
           ]
         },
         {
-          "title": "On the ground at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-26T17:52:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "FaZe Crash Out of the Singapore Major at 1-3",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzg3ZGtIT1lHVUlreGZBUGhaUDNaeElIU0xCNGpuLUpDdFM2UEN3NFBhbzdGbHM2M1QtWnh2Z09NVXNSN2d4T3pWSTB1VkZhSGFKa1JQVzJ3YkMxcmJYN0pMdFBva2Jwd2d6VDFqZlhCU3Zva3RzSWV6akJWc3pVZzItWndGUE9Tb3JrNXo0cVlhaHJJblNr?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -111,6 +88,17 @@
           "level": null,
           "why": [
             "faze"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major 2026 Stage 1 Day 3 Recap",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcU5GTk01S1ZrYXhaOWxrQlpJLVFYZUE2QUczY3NqYmVPQkdmcVotV1RYYTdZOHlIU3FCWko1TkxvbzVwVnF6cjIyNnZZbkFNWlhJeWdWTUpkSUt0LW1SV3FzR2hwQ25MczJtTmFtdHNkcTVuSFJMSzlyN3JGYXRUQw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T16:11:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
           ]
         },
         {
@@ -136,39 +124,28 @@
           ]
         },
         {
-          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
-          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
-          "source": "HLTV news",
-          "published": "2026-11-26T18:31:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "liquid*"
-          ]
-        },
-        {
-          "title": "Imperial outlast Wildcard to progress to Stage 2",
-          "url": "https://www.hltv.org/news/46072/imperial-outlast-wildcard-to-progress-to-stage-2",
-          "source": "HLTV news",
-          "published": "2026-11-27T11:48:00.000Z",
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-26T15:58:10.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Snappi: \"Major pressure maybe hit us\"",
-          "url": "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
-          "source": "HLTV news",
-          "published": "2026-11-27T09:26:00.000Z",
+          "title": "The ultimate monitor for CS2 and Valorant: What actually matters?",
+          "url": "https://www.dexerto.com/gaming/the-ultimate-monitor-for-cs2-and-valorant-what-actually-matters-3429900/",
+          "source": "Dexerto",
+          "published": "2026-11-26T15:23:59.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Lynn Vision qualify for Stage 2 over HEROIC",
-          "url": "https://www.hltv.org/news/46070/lynn-vision-qualify-for-stage-2-over-heroic",
-          "source": "HLTV news",
-          "published": "2026-11-27T08:08:00.000Z",
+          "title": "9z CEO Says CS2 Pros Are Discussing a Boycott of the Next Major",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFpJNVJBNzB5VFBDQ0xVNmNZcThJOV8tYXN5T3hPaXNLQmdpSjhIQnM2VjRzSHlvWUgzT21adTU1aHAyTzQxQlZkRko2a0lIdnhEVFVaa3l2NHBMbG8zc2FiS2NyUkdVOTVLeXRhdV9YTS1MN2IzcnBlWjRUb3VXeVlnVEpucUVvaUV0bWwyX20?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T14:09:03.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -225,6 +202,24 @@
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Legacy FGC",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "SNK World Championship 2026 live stream ft. Laggia, Xiaohai, Go1, Lauyagami, Kaiser666, Dany 'El Maza', Mi2ha4, Score, Madkof, Masaton, Sou and more",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUpyd2NucWp6c3lnR3R4N0s0a3Mwd1hvVDgtVUFSaDJYSEdSd0Z3aTgwNjJLLUwtb3A3MXJ5MlVrUzlrcHdLNE1Fd0lYQ1VkbHVMQktsVGZTd05mTU52Ty11WjRMcXZTV3c1SFUzYjd1RDFlY2dDazU5ajBVR1RLWkxWZnB0UQ?oc=5",
+          "source": "Google News: Legacy FGC (EventHubs)",
+          "published": "2026-11-26T21:46:15.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "xiaohai",
+            "-stream"
+          ]
         }
       ]
     },
@@ -288,7 +283,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Legacy FGC",
     "Quake",
     "Halo"
   ]
