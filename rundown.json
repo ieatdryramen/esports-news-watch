@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:00:29.191Z",
+  "generatedAt": "2026-11-27T02:00:29.257Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -230,6 +230,21 @@
       ]
     },
     {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Axe makes Super Smash Bros. Melee tier list that has the FGC confused over one specific ranking",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VREp2dUUzRzRnYURCMEtKczhTcUd4Wm8tQnV2NVpWU0lBbm85WDF4Qk1oMUVqQUVMUG9vWFFjdmp3WUFKajRacFByQjY5bnlod2tSbEVBLXBxM0dxdDNxc0RhWE93Q1FOOUdkU0t2Ym9hcmNTaXc?oc=5",
+          "source": "Google News: Melee (EventHubs)",
+          "published": "2026-11-27T01:57:11.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "CoD",
       "storyCount": 1,
       "stories": [
@@ -246,7 +261,6 @@
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Classic Tetris",
     "Brood War",
