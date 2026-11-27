@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T18:00:41.130Z",
+  "generatedAt": "2026-11-27T19:00:29.409Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Tekken",
-      "storyCount": 4,
+      "storyCount": 3,
       "stories": [
         {
           "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
@@ -34,15 +34,6 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
           "source": "Google News: Tekken (GamerBraves)",
           "published": "2026-11-27T06:06:23.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-26T18:06:09.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -88,13 +79,13 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 7,
+      "storyCount": 11,
       "stories": [
         {
-          "title": "PGL Singapore Major 2026 Stage 1 Day 4 Recap",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0k1d0lPNmRDXzRWek1ZZkNGUEg3MklfVTZVNWZIV3liRDYzTHkzRV9XaTFWTW1FcFNNT2RCeHIyMEhyY3Z2MFRWbEo2ekJFNTJkelJKM0IxMUxvQXVsQldNczlfdlQ3clhITUZRcnd6M3NKOE03YTYyXzBaUGVQcUxybw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-27T15:37:15.000Z",
+          "title": "On the ground at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-27T18:17:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -102,32 +93,39 @@
           ]
         },
         {
-          "title": "CS2 Drama: kassad Calls s1mple “Washed, Overpaid and Entitled”",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWJxOGVBMldfeWZHOU5NbWp4cUZGUE0wckdzUEttaWhobWxwUGtCVDdvb3N5YVV2MHUxS3JtVkJiMFFoSjZ6cDdUSnMtbVRlU3NoeWo3bFA3Q0JjWjlMdWcwN3Zvb3pIMW5QSFJ0VHFGeVFXanM5QlhrUUVoZFdqQkJSeE9SQQ?oc=5",
-          "source": "Google News: CS2 (GameRiv)",
-          "published": "2026-11-27T14:50:27.000Z",
-          "score": 3,
+          "title": "100 Thieves eliminate M80 to make it to Stage 2",
+          "url": "https://www.hltv.org/news/46074/100-thieves-eliminate-m80-to-make-it-to-stage-2",
+          "source": "HLTV news",
+          "published": "2026-11-27T15:16:00.000Z",
+          "score": 2,
           "level": null,
           "why": [
-            "s1mple"
+            "device*"
           ]
         },
         {
-          "title": "Esports Team FURIA Renames and Takes Over Top Brazilian Football Club",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXhiT1dxSElQUlpHTFdQVEJxcjNmc21yQXNONGVqSmQ3YzZnMC1tSXdURkxVanhpYzZBV2laVGFQeVV6RDZLQkxDaUQxNG0taExZbXhxNGNNY01YWTlSRV9jN0ktMzNwQks2TGstOTQ1SDl5ZjFvaGlyN0lpUkx0eWFYVHR3N0NlS3FiSTNB?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-26T18:55:21.000Z",
-          "score": 3,
+          "title": "rain: \"I'm happy we've managed to get past [the tier 2 grind] now hopefully\"",
+          "url": "https://www.hltv.org/news/46078/rain-im-happy-weve-managed-to-get-past-the-tier-2-grind-now-hopefully",
+          "source": "HLTV news",
+          "published": "2026-11-27T19:00:00.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "furia"
-          ]
+          "why": []
         },
         {
-          "title": "FALLEN Urges Valve to Add Compendium to CS2 Majors",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVm40MWxCY01xczhaWkRZbXowMU01azJSajA3MkFaNGJDWDQtbkZCdXlESjN5YkhaaTJtZnF2cE5ReEhFOEJKNFBabERLMFRVaHRJdS1yNnRwRVl5R3Iyb2Y2U0RrSnNrWjdsR1I0YThEVldwZGxaTmpSdEkzNzRpODhn?oc=5",
-          "source": "Google News: CS2 (Wisevoter)",
-          "published": "2026-11-27T15:43:34.000Z",
+          "title": "Short news: Week 46",
+          "url": "https://www.hltv.org/news/46029/short-news-week-46",
+          "source": "HLTV news",
+          "published": "2026-11-27T16:17:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "aliStair: \"It's really about trying to be the glue because they have so much fucking talent\"",
+          "url": "https://www.hltv.org/news/46051/alistair-its-really-about-trying-to-be-the-glue-because-they-have-so-much-fucking-talent",
+          "source": "HLTV news",
+          "published": "2026-11-27T16:01:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -151,10 +149,37 @@
           "why": []
         },
         {
+          "title": "HexT: \"In tier two, salaries are going to be lower until they change, if they change, Major revenue\"",
+          "url": "https://www.hltv.org/news/46073/hext-in-tier-two-salaries-are-going-to-be-lower-until-they-change-if-they-change-major-revenue",
+          "source": "HLTV news",
+          "published": "2026-11-27T13:07:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Imperial outlast Wildcard to progress to Stage 2",
+          "url": "https://www.hltv.org/news/46072/imperial-outlast-wildcard-to-progress-to-stage-2",
+          "source": "HLTV news",
+          "published": "2026-11-27T11:48:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
           "source": "Google News: CS2 (Esports.gg)",
           "published": "2026-11-27T10:05:44.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Snappi: \"Major pressure maybe hit us\"",
+          "url": "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
+          "source": "HLTV news",
+          "published": "2026-11-27T09:26:00.000Z",
           "score": 1,
           "level": null,
           "why": []
