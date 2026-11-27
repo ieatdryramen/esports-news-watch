@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-27T04:25:14.665Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "L1haNg joins TYLOO on trial",
+      "url": "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial",
+      "source": "HLTV news",
+      "outlets": [
+        "HLTV news"
+      ],
+      "score": 5.5,
+      "why": [
+        "joins",
+        "bench*"
+      ],
+      "summary": "The two-time Major attendee comes in after Moseyuh was moved to the bench.",
+      "published": "2026-11-27T04:20:00.000Z"
+    },
+    {
       "alertedAt": "2026-11-27T04:00:24.405Z",
       "level": "breaking",
       "scene": "Tekken",
