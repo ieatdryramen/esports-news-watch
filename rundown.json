@@ -1,50 +1,24 @@
 {
-  "generatedAt": "2026-11-27T06:55:15.291Z",
+  "generatedAt": "2026-11-27T07:50:26.919Z",
   "windowHours": 24,
   "scenes": [
-    {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQVFBSzdVNG8xQkNLbktmUGY5WFF5ZWhPczFXVFVoSWl0dmhzeDhHTDN5RTBQZkdzMmxReXM2X1BvVDU0QTFkX2UwaWZRVWw0WVJRSEpzX0RaUlY3dlBMTm1fRkFvYzVwV25vMndwOC1xZ3RKWUphVTRsclBTVG5WX3JxLUtoU3pDN2oxakdSN25mYkF5elg2dXRrUzU3aF93ZGlYTGdLZWo1dDMxLTJOaDA3UUxUMlZObkhONEMtOHVJbHJlZElnaDBtUks?oc=5",
-          "source": "Google News: Tekken (Inven Global)",
-          "published": "2026-11-27T03:55:31.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "champion",
-            "crowned"
-          ]
-        },
-        {
-          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
-          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
-          "published": "2026-11-26T07:25:15.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "world record",
-            "record"
-          ]
-        },
-        {
-          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-26T18:06:09.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
     {
       "scene": "CS2",
       "storyCount": 21,
       "stories": [
+        {
+          "title": "FaZe Knocked Out of PGL Major Singapore 2026 by HEROIC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG5Ram9IMW9NWk1HZnRUM3dXN213ZjFsbzlBWjUzUERnRGVtUTFYQ1QxZDlCclpDc1ZFLVpuaWt2SkVIVWxjMUJzbU83bW9POTktbXc4Q19tQjRmZnpNOWZpQVA5OE02c0UtUWRYOTJXd1A0TGIyUkF2aFQ0RlFJdmExb0I2RVdxVlVzdGJ2QUxCNXdFVzAyejlkVkhfUzg1Vk9CQ2tPZFRzZ29MUktV?oc=5",
+          "source": "Google News: CS2 (EGamersWorld)",
+          "published": "2026-11-26T09:12:48.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "knocked out",
+            "faze",
+            "pgl"
+          ]
+        },
         {
           "title": "BLAST announces invited teams for Bounty 2027",
           "url": "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
@@ -172,17 +146,33 @@
           "why": [
             "s1mple"
           ]
+        }
+      ]
+    },
+    {
+      "scene": "Tekken",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQVFBSzdVNG8xQkNLbktmUGY5WFF5ZWhPczFXVFVoSWl0dmhzeDhHTDN5RTBQZkdzMmxReXM2X1BvVDU0QTFkX2UwaWZRVWw0WVJRSEpzX0RaUlY3dlBMTm1fRkFvYzVwV25vMndwOC1xZ3RKWUphVTRsclBTVG5WX3JxLUtoU3pDN2oxakdSN25mYkF5elg2dXRrUzU3aF93ZGlYTGdLZWo1dDMxLTJOaDA3UUxUMlZObkhONEMtOHVJbHJlZElnaDBtUks?oc=5",
+          "source": "Google News: Tekken (Inven Global)",
+          "published": "2026-11-27T03:55:31.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "champion",
+            "crowned"
+          ]
         },
         {
-          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
-          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
-          "source": "HLTV news",
-          "published": "2026-11-26T18:31:00.000Z",
-          "score": 2,
+          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
+          "source": "Google News: Tekken (Dexerto)",
+          "published": "2026-11-26T18:06:09.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "liquid*"
-          ]
+          "why": []
         }
       ]
     },
@@ -232,16 +222,45 @@
     },
     {
       "scene": "Classic Tetris",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
-          "title": "2026 CTWC Kansas City Regional: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-kansas-city-regional-timestamps/",
+          "title": "2026 CTWC SoCal Regional: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-socal-regional-timestamps/",
           "source": "Tetris Interest",
-          "published": "2026-11-27T06:37:24.000Z",
+          "published": "2026-11-27T07:14:17.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "killscreen*",
+            "level 39*"
+          ]
+        },
+        {
+          "title": "2026 CTWC Kansas City Regional – DAS Tournament: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-kansas-city-regional-das-tournament-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-11-27T06:33:06.000Z",
           "score": 1,
           "level": null,
           "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Street Fighter 6 returns to the Esports World Cup 2027 with a generational shift in the scene",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGkwQkxrcjd0c3BXUDBVNnQwcVE5VlN4WFQxUmNMQlhmMHgzcW45NmZfZGtIajREdWluLURqUTQ2M3dDai1VZmVDTTlqZFVKVkJQcjFOVkN1dk04aE9hTmM0MDhlOEVQN2pKdldDUmNzWFJPM3gtTUVJQ2xuODNsRElRZEgwNUxkd1ZKM1RSaktMSlViajcxN0x4Q1kxUG42R1ZQSXIzaW1MV0poa2Q4QVp3?oc=5",
+          "source": "Google News: Street Fighter (Foro3D)",
+          "published": "2026-11-27T06:46:06.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "returns"
+          ]
         }
       ]
     },
@@ -296,7 +315,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "Street Fighter",
     "Quake",
     "Halo"
   ]
