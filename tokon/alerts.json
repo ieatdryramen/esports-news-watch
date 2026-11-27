@@ -1,3 +1,25 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "alertedAt": "2026-11-27T14:30:26.083Z",
+      "level": "breaking",
+      "scene": "Marvel Tokon",
+      "title": "Top 8 Evo France 2026 finalist releases new tier list for Marvel Tokon: Fighting Souls",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFN0SXJTOEtQb21MVXFUczZpQUg1bjlUTGRGRzhvTmtVSWJnTldEWUplZFl2NUcwUzVfYjhKRDJtMVUxY0VQWjhvdmVnQVNiNk42dXYtTmg4SDVkQWwzWFFqLXFwRXA1U1pOS293Zkh5V3VQa2JSb292YWhHTWRxYmFB?oc=5",
+      "source": "Google News: Tokon (EventHubs)",
+      "outlets": [
+        "EventHubs"
+      ],
+      "score": 11,
+      "why": [
+        "tier list",
+        "top 8",
+        "evo",
+        "evo",
+        "evo france"
+      ],
+      "summary": "",
+      "published": "2026-11-27T14:23:44.000Z"
+    }
+  ]
 }
