@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T10:20:30.301Z",
+  "generatedAt": "2026-11-27T11:20:27.736Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 11,
+      "storyCount": 10,
       "stories": [
         {
           "title": "DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals",
@@ -16,19 +16,6 @@
           "why": [
             "champions",
             "crowned"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16c1JqUHBZaFkwOFVhN014NWZfcGc5Q2lGeUU4b3k5X2RvSkNKcjVBX3MtdWNINmZwTzZUUzhYcXhjbE4yWWhwd3M0Qm0yRU1YVXc?oc=5",
-          "source": "Google News: Rivals patches (IMDb)",
-          "published": "2026-11-26T10:28:53.000Z",
-          "score": 7,
-          "level": "breaking",
-          "why": [
-            "balance",
-            "balance changes",
-            "season"
           ]
         },
         {
