@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T13:20:38.762Z",
+  "generatedAt": "2026-11-27T14:20:45.357Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals November Patch Notes: New Map, Free Rewards, Events, and Bug Fixes",
@@ -48,17 +48,6 @@
           "level": null,
           "why": [
             "update"
-          ]
-        },
-        {
-          "title": "Ranking the BEST DESIGNED Convoy Map | Marvel Rivals Season 11",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ZNXpsempIZ0RkVUNMZ1lWZFFkMGItMVFiSzQyVVM1WTktY0s1blduVTBfSUlwYXhlZkwtRk5vVWhyZw?oc=5",
-          "source": "Google News: Rivals patches (YouTube)",
-          "published": "2026-11-26T13:35:09.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "season"
           ]
         },
         {
