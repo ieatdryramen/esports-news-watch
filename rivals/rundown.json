@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T14:20:45.357Z",
+  "generatedAt": "2026-11-27T15:20:28.425Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 6,
+      "storyCount": 5,
       "stories": [
         {
           "title": "Marvel Rivals November Patch Notes: New Map, Free Rewards, Events, and Bug Fixes",
@@ -18,32 +18,21 @@
           ]
         },
         {
+          "title": "Marvel Rivals Leak Shows a Surprise Character on a New Map Loading Screen",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTER2S29xZURmX1dhWUhFU2tmSnQ0R2NxNFBXckxsRTQyRTVtNTBoS0RRczVIaDBpVHpMTkJrNzJYd0Y4TVo1elZBZVN0a3N5VXFtZDVYZDNUMjU2ZmVWYVNuZnJDUFhUdzdoZzZnRFFBRHZuZEdaQTdzU3JYWUxVQnBiMGtFTDRiQ3dBcTQ4Yw?oc=5",
+          "source": "Google News: Rivals rosters (Happy Gamer)",
+          "published": "2026-11-27T15:01:42.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "leak"
+          ]
+        },
+        {
           "title": "Marvel Rivals November 26 update: Incursion Point, Black Friday sale",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0pqNy1sRXdISWt2TGppaklRWWR2SlkzX3pQRWhiMURfOE1UeDNDSVhSYVdoc01UZ1psTzAtZGVQT2FXREFJcXRFeDVnRnlqU2Ftc1pkR3c4RC1YNDl2eE9zVlBaR212R0lXTDk4WERCamhQTVluLVZLNWtocmZUTVhrWDR6by1GaDNYWmdTYTVyakk?oc=5",
           "source": "Google News: Rivals patches (games.gg)",
           "published": "2026-11-26T17:40:15.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Nov. 26 Update Brings 18v18 Map, Ghostworks Arcade, and Black Friday Deals",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXMXo2bHdVVmNSTlZzOTRfM01rMXhQZW1PZGFUSXVnTFM3emNZYmNXeTdYUmdfWjNDY1dYU2pxT0tKNE96bmRmcWlrTERlSnM4WUVhMG9GZHVfaTc4enRpbVFPd3hGbjBESzNSZDk1SVFqVXVWcDZkdHRmNFNXWTQ?oc=5",
-          "source": "Google News: Rivals patches (TalkEsport)",
-          "published": "2026-11-26T15:17:39.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "update"
-          ]
-        },
-        {
-          "title": "Marvel Rivals November 26 Update Adds 18v18 Battles, Arcade Games and Free Rewards",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIMXRjV2taai13YTZOaVVRdGF5enUtR18tWkg3dFdIaUpQbWJ0UldmQWE0bEJzMXlkZFVoSTNDTHA5TEJJVWlVRkcyTFIzbnplUkhSM2pSbkxnTjlpb3JPb0NOMm04MV92S0E?oc=5",
-          "source": "Google News: Rivals patches (TwistedVoxel)",
-          "published": "2026-11-26T15:14:43.000Z",
           "score": 2,
           "level": null,
           "why": [
