@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:45:31.417Z",
+  "generatedAt": "2026-11-27T12:00:24.503Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -40,21 +40,18 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 12,
+      "storyCount": 18,
       "stories": [
         {
-          "title": "BLAST Announces BLAST Bounty Season 1 2027 Invites: NAVI, FaZe & Team Liquid to Attend",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrd0lVYlJCb05ndHJ2bHRlVVdObW5NUnNZQjRoNGNWS09Rb1BkR3p4bjdJTnBZOG1NUEtqSFVXSFdfM3dUeUdqSGxOQW45NHZ5eVd2ZXBJRmNzX1hRbS0ydkdFUHBNd0w4bUlPLUtkMA?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-26T14:31:08.000Z",
-          "score": 7,
-          "level": "breaking",
+          "title": "L1haNg joins TYLOO on trial",
+          "url": "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial",
+          "source": "HLTV news",
+          "published": "2026-11-27T04:20:00.000Z",
+          "score": 5.5,
+          "level": "possible",
           "why": [
-            "announces",
-            "navi",
-            "faze",
-            "liquid",
-            "blast"
+            "joins",
+            "bench*"
           ]
         },
         {
@@ -95,10 +92,10 @@
           ]
         },
         {
-          "title": "PGL Singapore Major 2026 Stage 1 Day 3 Recap",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcU5GTk01S1ZrYXhaOWxrQlpJLVFYZUE2QUczY3NqYmVPQkdmcVotV1RYYTdZOHlIU3FCWko1TkxvbzVwVnF6cjIyNnZZbkFNWlhJeWdWTUpkSUt0LW1SV3FzR2hwQ25MczJtTmFtdHNkcTVuSFJMSzlyN3JGYXRUQw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T16:11:19.000Z",
+          "title": "On the ground at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-26T17:52:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -139,37 +136,39 @@
           ]
         },
         {
-          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-26T15:58:10.000Z",
+          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
+          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
+          "source": "HLTV news",
+          "published": "2026-11-26T18:31:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid*"
+          ]
+        },
+        {
+          "title": "Imperial outlast Wildcard to progress to Stage 2",
+          "url": "https://www.hltv.org/news/46072/imperial-outlast-wildcard-to-progress-to-stage-2",
+          "source": "HLTV news",
+          "published": "2026-11-27T11:48:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "The ultimate monitor for CS2 and Valorant: What actually matters?",
-          "url": "https://www.dexerto.com/gaming/the-ultimate-monitor-for-cs2-and-valorant-what-actually-matters-3429900/",
-          "source": "Dexerto",
-          "published": "2026-11-26T15:23:59.000Z",
+          "title": "Snappi: \"Major pressure maybe hit us\"",
+          "url": "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
+          "source": "HLTV news",
+          "published": "2026-11-27T09:26:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "9z CEO Says CS2 Pros Are Discussing a Boycott of the Next Major",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFpJNVJBNzB5VFBDQ0xVNmNZcThJOV8tYXN5T3hPaXNLQmdpSjhIQnM2VjRzSHlvWUgzT21adTU1aHAyTzQxQlZkRko2a0lIdnhEVFVaa3l2NHBMbG8zc2FiS2NyUkdVOTVLeXRhdV9YTS1MN2IzcnBlWjRUb3VXeVlnVEpucUVvaUV0bWwyX20?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T14:09:03.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Minsk hosts the NOVA festival final with sixteen teams in CS2 and Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGNmMzl3Q2lIdkI2OHdDTG9vTHVYakVyNHNycjlxLWJMNWlOQU5zUUY0dG5XQ3RoSVFRc1VaWFRkZzhLSDlPUkJfeF9kSm5rOVFwOXdkcjVnLVRfXzQ2ME9FNDQxYmEzSmRIRmlpbWNxTl9RcGNQckZkUzFSZFprdDdBRnQ0a09Gb0psbFFwZkZHMTJtOVh5eUNwaDNkazFfd1lsajlhajU1Rnl2SWpRVg?oc=5",
-          "source": "Google News: CS2 (Foro3D)",
-          "published": "2026-11-26T14:05:41.000Z",
+          "title": "Lynn Vision qualify for Stage 2 over HEROIC",
+          "url": "https://www.hltv.org/news/46070/lynn-vision-qualify-for-stage-2-over-heroic",
+          "source": "HLTV news",
+          "published": "2026-11-27T08:08:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -269,21 +268,6 @@
       ]
     },
     {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "Mortal Kombat 1 Tier List (November 2026) Best Fighters Ranked",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80LVFjX0hKQ0pnQ0YxbG1KdTZNdWhoeXY0Vy1HWE4xUUdLelR3clRTTGQxSGF1cmtJbjQzdmdtaXZmTnZadVYxZXBrOUs5ZERVdVg2RzZkS1N4MkhvM1VWQw?oc=5",
-          "source": "Google News: Legacy FGC (Propel RC)",
-          "published": "2026-11-26T22:30:22.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CoD",
       "storyCount": 1,
       "stories": [
@@ -304,6 +288,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "Legacy FGC",
     "Quake",
     "Halo"
   ]
