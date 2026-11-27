@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-27T03:00:24.981Z",
+  "generatedAt": "2026-11-27T04:00:25.483Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
+        {
+          "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQVFBSzdVNG8xQkNLbktmUGY5WFF5ZWhPczFXVFVoSWl0dmhzeDhHTDN5RTBQZkdzMmxReXM2X1BvVDU0QTFkX2UwaWZRVWw0WVJRSEpzX0RaUlY3dlBMTm1fRkFvYzVwV25vMndwOC1xZ3RKWUphVTRsclBTVG5WX3JxLUtoU3pDN2oxakdSN25mYkF5elg2dXRrUzU3aF93ZGlYTGdLZWo1dDMxLTJOaDA3UUxUMlZObkhONEMtOHVJbHJlZElnaDBtUks?oc=5",
+          "source": "Google News: Tekken (Inven Global)",
+          "published": "2026-11-27T03:55:31.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "champion",
+            "crowned"
+          ]
+        },
         {
           "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",

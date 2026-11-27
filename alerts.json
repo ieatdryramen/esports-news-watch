@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-27T04:00:24.405Z",
+      "level": "breaking",
+      "scene": "Tekken",
+      "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQVFBSzdVNG8xQkNLbktmUGY5WFF5ZWhPczFXVFVoSWl0dmhzeDhHTDN5RTBQZkdzMmxReXM2X1BvVDU0QTFkX2UwaWZRVWw0WVJRSEpzX0RaUlY3dlBMTm1fRkFvYzVwV25vMndwOC1xZ3RKWUphVTRsclBTVG5WX3JxLUtoU3pDN2oxakdSN25mYkF5elg2dXRrUzU3aF93ZGlYTGdLZWo1dDMxLTJOaDA3UUxUMlZObkhONEMtOHVJbHJlZElnaDBtUks?oc=5",
+      "source": "Google News: Tekken (Inven Global)",
+      "outlets": [
+        "Inven Global"
+      ],
+      "score": 8,
+      "why": [
+        "champion",
+        "crowned"
+      ],
+      "summary": "",
+      "published": "2026-11-27T03:55:31.000Z"
+    },
+    {
       "alertedAt": "2026-11-26T14:25:20.711Z",
       "level": "possible",
       "scene": "CS2",
