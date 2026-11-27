@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:45:21.106Z",
+  "generatedAt": "2026-11-27T10:45:20.170Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -109,6 +109,18 @@
           ]
         },
         {
+          "title": "Future of FaZe Lineup Uncertain After PGL Singapore Major 2026 Exit",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tUU5QYWhiOHJNOTRvTkFwV1ZtSGNpc0ZEXzBNSGlqTmNXbTVVYnhYVHF4clNtMUxQcS1RNldBamU2bHlPOGNrd0hNQTVYVnlMQkpObld5aFlVMUxsTkNwM1FYMEFwOEl3LVh0cmkzZw?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-26T11:31:48.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "faze",
+            "pgl"
+          ]
+        },
+        {
           "title": "Esports Team FURIA Renames and Takes Over Top Brazilian Football Club",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXhiT1dxSElQUlpHTFdQVEJxcjNmc21yQXNONGVqSmQ3YzZnMC1tSXdURkxVanhpYzZBV2laVGFQeVV6RDZLQkxDaUQxNG0taExZbXhxNGNNY01YWTlSRV9jN0ktMzNwQks2TGstOTQ1SDl5ZjFvaGlyN0lpUkx0eWFYVHR3N0NlS3FiSTNB?oc=5",
           "source": "Google News: CS2 (Insider Gaming)",
@@ -128,6 +140,17 @@
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "FaZe Crash Out of the Singapore Major at 1-3",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzg3ZGtIT1lHVUlreGZBUGhaUDNaeElIU0xCNGpuLUpDdFM2UEN3NFBhbzdGbHM2M1QtWnh2Z09NVXNSN2d4T3pWSTB1VkZhSGFKa1JQVzJ3YkMxcmJYN0pMdFBva2Jwd2d6VDFqZlhCU3Zva3RzSWV6akJWc3pVZzItWndGUE9Tb3JrNXo0cVlhaHJJblNr?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T16:11:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "faze"
           ]
         },
         {
@@ -153,17 +176,6 @@
           ]
         },
         {
-          "title": "FaZe Crash Out of the Singapore Major at 1-3",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzg3ZGtIT1lHVUlreGZBUGhaUDNaeElIU0xCNGpuLUpDdFM2UEN3NFBhbzdGbHM2M1QtWnh2Z09NVXNSN2d4T3pWSTB1VkZhSGFKa1JQVzJ3YkMxcmJYN0pMdFBva2Jwd2d6VDFqZlhCU3Zva3RzSWV6akJWc3pVZzItWndGUE9Tb3JrNXo0cVlhaHJJblNr?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T09:45:23.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "faze"
-          ]
-        },
-        {
           "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
           "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
           "source": "HLTV news",
@@ -173,15 +185,6 @@
           "why": [
             "liquid*"
           ]
-        },
-        {
-          "title": "Snappi: \"Major pressure maybe hit us\"",
-          "url": "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
-          "source": "HLTV news",
-          "published": "2026-11-27T09:26:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
@@ -300,6 +303,21 @@
           "why": []
         }
       ]
+    },
+    {
+      "scene": "CoD",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "How to get free 2027 CDL Kickoff Classic Twitch Drops",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVliRmdkM1gtUlFadHFwSk0tNzgyemd1QWdGMGlfUWdqclNlUElEMjdkeVQyWllVYVdNdlByc3haaTlkc1E0dmZuUlJnbTlLdGVQZ1lwT3cxU3RDNGFHd28xWUJjejhVWVJfOTNpbmFtRGNQREh1QTdpMEZBaWtzd21Ca1d4Y0k?oc=5",
+          "source": "Google News: CoD (Dot Esports)",
+          "published": "2026-11-27T09:48:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
     }
   ],
   "quiet": [
@@ -307,7 +325,6 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
-    "CoD",
     "Quake",
     "Halo"
   ]
