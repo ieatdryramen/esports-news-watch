@@ -109,25 +109,6 @@
       ],
       "summary": "",
       "published": "2026-11-26T07:25:15.000Z"
-    },
-    {
-      "alertedAt": "2026-11-25T20:25:17.966Z",
-      "level": "breaking",
-      "scene": "CS2",
-      "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
-      "url": "https://www.hltv.org/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore",
-      "source": "HLTV news",
-      "outlets": [
-        "HLTV news"
-      ],
-      "score": 9,
-      "why": [
-        "benched",
-        "niko",
-        "karrigan"
-      ],
-      "summary": "The Bosnian will try his hand at captaincy again in the new year.",
-      "published": "2026-11-25T20:23:00.000Z"
     }
   ]
 }
