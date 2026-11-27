@@ -1,22 +1,60 @@
 {
-  "generatedAt": "2026-11-27T08:50:27.269Z",
+  "generatedAt": "2026-11-27T09:45:21.106Z",
   "windowHours": 24,
   "scenes": [
+    {
+      "scene": "Tekken",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQVFBSzdVNG8xQkNLbktmUGY5WFF5ZWhPczFXVFVoSWl0dmhzeDhHTDN5RTBQZkdzMmxReXM2X1BvVDU0QTFkX2UwaWZRVWw0WVJRSEpzX0RaUlY3dlBMTm1fRkFvYzVwV25vMndwOC1xZ3RKWUphVTRsclBTVG5WX3JxLUtoU3pDN2oxakdSN25mYkF5elg2dXRrUzU3aF93ZGlYTGdLZWo1dDMxLTJOaDA3UUxUMlZObkhONEMtOHVJbHJlZElnaDBtUks?oc=5",
+          "source": "Google News: Tekken (Inven Global)",
+          "published": "2026-11-27T03:55:31.000Z",
+          "score": 8,
+          "level": "breaking",
+          "why": [
+            "champion",
+            "crowned"
+          ]
+        },
+        {
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-27T06:06:23.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
+          "source": "Google News: Tekken (Dexerto)",
+          "published": "2026-11-26T18:06:09.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
     {
       "scene": "CS2",
       "storyCount": 21,
       "stories": [
         {
-          "title": "FaZe Knocked Out of PGL Major Singapore 2026 by HEROIC",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG5Ram9IMW9NWk1HZnRUM3dXN213ZjFsbzlBWjUzUERnRGVtUTFYQ1QxZDlCclpDc1ZFLVpuaWt2SkVIVWxjMUJzbU83bW9POTktbXc4Q19tQjRmZnpNOWZpQVA5OE02c0UtUWRYOTJXd1A0TGIyUkF2aFQ0RlFJdmExb0I2RVdxVlVzdGJ2QUxCNXdFVzAyejlkVkhfUzg1Vk9CQ2tPZFRzZ29MUktV?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-26T09:12:48.000Z",
-          "score": 8,
+          "title": "BLAST Announces BLAST Bounty Season 1 2027 Invites: NAVI, FaZe & Team Liquid to Attend",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrd0lVYlJCb05ndHJ2bHRlVVdObW5NUnNZQjRoNGNWS09Rb1BkR3p4bjdJTnBZOG1NUEtqSFVXSFdfM3dUeUdqSGxOQW45NHZ5eVd2ZXBJRmNzX1hRbS0ydkdFUHBNd0w4bUlPLUtkMA?oc=5",
+          "source": "Google News: CS2 (Insider Gaming)",
+          "published": "2026-11-26T14:31:08.000Z",
+          "score": 7,
           "level": "breaking",
           "why": [
-            "knocked out",
+            "announces",
+            "navi",
             "faze",
-            "pgl"
+            "liquid",
+            "blast"
           ]
         },
         {
@@ -126,17 +164,6 @@
           ]
         },
         {
-          "title": "s1mple's last series draws 526K at the Singapore Major",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1VyM0x2aXhWZW5Ib2E0dC1fZTN4d2E0LURlWWVENGphVE9sT2JKcmQtS0JkTmtPQzhKYTQ1Q1lsemF4ZG81MlVfTnlhWWx0aTA1QlgxZFV5Z016d2RfNFp3RWp0Uk04eVY3ZkE5RHlDbHBFOVZWRWFVMHpVeTJ6WU1Iay05Mjg?oc=5",
-          "source": "Google News: CS2 (Pley.gg)",
-          "published": "2026-11-26T08:50:37.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "s1mple"
-          ]
-        },
-        {
           "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
           "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
           "source": "HLTV news",
@@ -146,39 +173,12 @@
           "why": [
             "liquid*"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQVFBSzdVNG8xQkNLbktmUGY5WFF5ZWhPczFXVFVoSWl0dmhzeDhHTDN5RTBQZkdzMmxReXM2X1BvVDU0QTFkX2UwaWZRVWw0WVJRSEpzX0RaUlY3dlBMTm1fRkFvYzVwV25vMndwOC1xZ3RKWUphVTRsclBTVG5WX3JxLUtoU3pDN2oxakdSN25mYkF5elg2dXRrUzU3aF93ZGlYTGdLZWo1dDMxLTJOaDA3UUxUMlZObkhONEMtOHVJbHJlZElnaDBtUks?oc=5",
-          "source": "Google News: Tekken (Inven Global)",
-          "published": "2026-11-27T03:55:31.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "champion",
-            "crowned"
-          ]
         },
         {
-          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
-          "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-27T06:06:23.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-26T18:06:09.000Z",
+          "title": "Snappi: \"Major pressure maybe hit us\"",
+          "url": "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
+          "source": "HLTV news",
+          "published": "2026-11-27T09:26:00.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -214,7 +214,7 @@
     },
     {
       "scene": "Street Fighter",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Street Fighter 6 returns to the Esports World Cup 2027 with a generational shift in the scene",
@@ -226,6 +226,15 @@
           "why": [
             "returns"
           ]
+        },
+        {
+          "title": "CAPCOM Pro Tour 2026 World Warrior Japan Round 5 Takes Place on November 29! Direct Qualification for CAPCOM CUP 13 and Regional Finals Competitors to Be Decided",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVVBSjRxYXZHOW95dTZ3Skl5aWRhRVBwUWVtTUJCMGhReG1yTV8xc0JPclBmZjZsUDkxMmJwamhCY1g3V1hOd0tXNWl6UW0wbi1uelBqY2x1UFQ4bUR5bGN6Nm50SUhVa0RqanpOQkhVSmVQaGx1RzFlUTF2bll1RGVmdW9HWF9qd3RDeE130gGTAUFVX3lxTE1zTlBtc0E1UU0wTDdNNkQ2dHdadHNwU09TTzN5UjlldVFIQTRQbF9Yb0JEZnd3SzVaYkhHbXFub2U3NFM0S0FkZWhQNG1KWV9VcUFiUXo5YnFFLTdBSDVCM3JqQng0MVR1VVhEWVlWbHlQdDJFWEdHUVhEM2hlQ1hWbHBmUkoxbFBwSlNvWXVJbW9zUQ?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-27T08:02:02.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
