@@ -1,74 +1,8 @@
 {
-  "generatedAt": "2026-11-27T21:20:46.480Z",
+  "generatedAt": "2026-11-27T22:20:58.989Z",
   "windowHours": 24,
-  "scenes": [
-    {
-      "scene": "Marvel Rivals",
-      "storyCount": 6,
-      "stories": [
-        {
-          "title": "Marvel Rivals IGNITE 2026 Grand Finals: Bracket, Teams and Results – Esports News Network",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd3lmT1pVOGNmQVpaZUxLQ3dWeXlPd2U5czNLUTVHZ0hWY3hHbzZxT1FqUklnRFZ6VkVYcG4yZFU3UlVCMVpSZC1LbElUTXlGdGJ3UGxWU1h3Y2djelMxekI2V19fbXNCZmYzSXViVU5YNlNuWE9FbVdJMkUtRGxkOHFSSTNEUQ?oc=5",
-          "source": "Google News: Rivals esports (ESTNN)",
-          "published": "2026-11-27T07:07:51.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "grand finals",
-            "grand finals"
-          ]
-        },
-        {
-          "title": "Marvel Rivals November Patch Notes: New Map, Free Rewards, Events, and Bug Fixes",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzlUT19Gazlva2FGLXhvcHF4VGN6OGMzMjYwUWR1cWV4WHFRbGJvaFdVZ2NrZzhOQkllUHdXTUpLakZCbzFnaHpUaEd4SllPWm1iUDV4bU9IVThEQUxNVEZyNHprYV9fTnVzcTVxT2pSWl9WTWZOR2pLTWxCMHk0QWdzZ2EzYlp4U2x4NE45ak1vSHY0R0JyeWNFMkZXYnhBNVVtMmVCT2hfOURZME9WV210WQ?oc=5",
-          "source": "Google News: Rivals esports (Sports Tiger)",
-          "published": "2026-11-27T10:10:48.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Rivals Leak Shows a Surprise Character on a New Map Loading Screen",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTER2S29xZURmX1dhWUhFU2tmSnQ0R2NxNFBXckxsRTQyRTVtNTBoS0RRczVIaDBpVHpMTkJrNzJYd0Y4TVo1elZBZVN0a3N5VXFtZDVYZDNUMjU2ZmVWYVNuZnJDUFhUdzdoZzZnRFFBRHZuZEdaQTdzU3JYWUxVQnBiMGtFTDRiQ3dBcTQ4Yw?oc=5",
-          "source": "Google News: Rivals rosters (Happy Gamer)",
-          "published": "2026-11-27T15:01:42.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "leak"
-          ]
-        },
-        {
-          "title": "Sheldon esports makes state for Marvel Rivals, Super Smash Bros. Ultimate",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ2Rpemhzc3hxR21ZRDFlWl9YOTVmdHcxLWprUVdwNDdSeVVkYTN6bDh1R1hKZnA5VVF1bGtlWXR6emlrcmM5aExrVjUzREhZM2FrdmIzYkZTMXUwN05Kd284QzVyQ3ByUVZPSTN6VjV0VDBZSWNzVE5ManRxMDhmc2swMjF2ZUd5M0dlWmlHTk1IOF9jaHRhS1NEUXVtQ05oNFJhdkdJWl9MbnM2dXFqaUtaZlNSamJBWDNuSWVwbDQ3VVB2b09hckFScGNHdmt0bEd0V0N3VGo4YzdaTUctejUwX2YtMmRjYzdTbQ?oc=5",
-          "source": "Google News: Rivals esports (The N'West Iowa REVIEW)",
-          "published": "2026-11-27T21:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "LEGO Makes a Splash with New Marvel Rivals Jeff the Land Shark",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlExbVlRMnVtQmZrUVZHcklNVTY5dTZKVGdiWTB2U19UR3VUS2o0cEhtVC1vQXd1WDJLSGFZMy14REs0YzBfZHRYRlppX0tkTUt1ZTNOZVp0WmdFYmJCRzdkeXRSbU5rS2NJQ0xJYnhDU1dNd2lacTRPN2NodF82NHN1RzNjUF8weEJCcmJMMmNkWWExOTVvNUE4Z2EtVG52bVNJ?oc=5",
-          "source": "Google News: Rivals patches (Bleeding Cool News)",
-          "published": "2026-11-27T17:52:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Storm Gets a Shining Light Cosmetic in First Look",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3BTS3N5VGR5bHhlSl9nR05nWXpLekJOcFA0UmYwdUxWcFo3dmVXdDRXcXJMODJWTHRxdDA1aGZ0QklGM1BCZmlGeHhxS0xpR3BMMTF0Zi12RkJEQjdxY2kycFRKdGhRQ0RwTVRyVjFhU1pVV0c0UUlZTWJFTFpqU2VjdGxja2M?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-27T04:31:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    }
-  ],
-  "quiet": []
+  "scenes": [],
+  "quiet": [
+    "Marvel Rivals"
+  ]
 }
