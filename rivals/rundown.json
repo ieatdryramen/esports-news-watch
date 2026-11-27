@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T20:20:32.296Z",
+  "generatedAt": "2026-11-27T21:20:46.480Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
         {
           "title": "Marvel Rivals IGNITE 2026 Grand Finals: Bracket, Teams and Results – Esports News Network",
@@ -39,6 +39,15 @@
           "why": [
             "leak"
           ]
+        },
+        {
+          "title": "Sheldon esports makes state for Marvel Rivals, Super Smash Bros. Ultimate",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ2Rpemhzc3hxR21ZRDFlWl9YOTVmdHcxLWprUVdwNDdSeVVkYTN6bDh1R1hKZnA5VVF1bGtlWXR6emlrcmM5aExrVjUzREhZM2FrdmIzYkZTMXUwN05Kd284QzVyQ3ByUVZPSTN6VjV0VDBZSWNzVE5ManRxMDhmc2swMjF2ZUd5M0dlWmlHTk1IOF9jaHRhS1NEUXVtQ05oNFJhdkdJWl9MbnM2dXFqaUtaZlNSamJBWDNuSWVwbDQ3VVB2b09hckFScGNHdmt0bEd0V0N3VGo4YzdaTUctejUwX2YtMmRjYzdTbQ?oc=5",
+          "source": "Google News: Rivals esports (The N'West Iowa REVIEW)",
+          "published": "2026-11-27T21:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "LEGO Makes a Splash with New Marvel Rivals Jeff the Land Shark",
