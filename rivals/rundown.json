@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T11:20:27.736Z",
+  "generatedAt": "2026-11-27T12:20:30.950Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 10,
+      "storyCount": 9,
       "stories": [
         {
           "title": "DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals",
@@ -23,17 +23,6 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzlUT19Gazlva2FGLXhvcHF4VGN6OGMzMjYwUWR1cWV4WHFRbGJvaFdVZ2NrZzhOQkllUHdXTUpLakZCbzFnaHpUaEd4SllPWm1iUDV4bU9IVThEQUxNVEZyNHprYV9fTnVzcTVxT2pSWl9WTWZOR2pLTWxCMHk0QWdzZ2EzYlp4U2x4NE45ak1vSHY0R0JyeWNFMkZXYnhBNVVtMmVCT2hfOURZME9WV210WQ?oc=5",
           "source": "Google News: Rivals esports (Sports Tiger)",
           "published": "2026-11-27T10:09:42.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "patch notes"
-          ]
-        },
-        {
-          "title": "Marvel Rivals November 26 2026 Patch Notes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkwybWJmSkFtdUZIR0ZIRV9id3BuNFVSeDRvQjhILTZKbVVud056MVltVlZkNWY0eDdiR2NYclVranhtVk1udUpyVUo2enRMU3pLNHJiTEZ6ek5WQUtxRHFUQUNENHVFdGtjTVVYNEdpeFhLRE52SHRUMFVTaDhRZmtvREtiSXdrNmc?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-26T12:13:32.000Z",
           "score": 4,
           "level": null,
           "why": [
