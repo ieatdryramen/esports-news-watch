@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-27T12:20:30.950Z",
+  "generatedAt": "2026-11-27T13:20:38.762Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 9,
+      "storyCount": 7,
       "stories": [
-        {
-          "title": "DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yMm5LVzNHNWEyWG5WWkVwUTBjY2JETVhiZ09aYU9qMkszRUdxeUpWNzdnWmJZeDRxNExfN3VkU1lfeDBnVWlHMjExZVFIaGdiWGcwdkE1aExhZmVKbkw1NW5DSVN5ZGFic1hrek15cVp2SlpyRzBR?oc=5",
-          "source": "Google News: Rivals esports (Insider Gaming)",
-          "published": "2026-11-26T13:06:24.000Z",
-          "score": 8,
-          "level": "breaking",
-          "why": [
-            "champions",
-            "crowned"
-          ]
-        },
         {
           "title": "Marvel Rivals November Patch Notes: New Map, Free Rewards, Events, and Bug Fixes",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzlUT19Gazlva2FGLXhvcHF4VGN6OGMzMjYwUWR1cWV4WHFRbGJvaFdVZ2NrZzhOQkllUHdXTUpLakZCbzFnaHpUaEd4SllPWm1iUDV4bU9IVThEQUxNVEZyNHprYV9fTnVzcTVxT2pSWl9WTWZOR2pLTWxCMHk0QWdzZ2EzYlp4U2x4NE45ak1vSHY0R0JyeWNFMkZXYnhBNVVtMmVCT2hfOURZME9WV210WQ?oc=5",
@@ -87,15 +75,6 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pmbmgyd3lHU2NRY09TV2RLUVhOQ3Fra1k2QmYwU2xRYlMyenRCc2hHdUNyM2VPLTdQaU1wSlV0TjUtcm1lcVc5aXdkeDRnVTJTVWRUTWh2WXdIbmNiWTNXSVlfS0FzNno4b3NxTXFBaVZqdndRZ3YyTms5QklJQi10ZlVfOWtPQmc?oc=5",
           "source": "Google News: Rivals patches (Happy Gamer)",
           "published": "2026-11-26T19:25:22.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Hero List: All 55 Heroes by Role",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c2VjYzJBNkQ2Q3FyZWJRUkhDVUUyMUszWXZMUDFGZmI5M2NsTUszT2JoN09qQXFKZFpJNGdvQ25jaExiZ0pFYnNmWkx1OGdyYmpuTHRxNDRLdw?oc=5",
-          "source": "Google News: Rivals esports (The Loadout)",
-          "published": "2026-11-26T13:19:41.000Z",
           "score": 1,
           "level": null,
           "why": []
