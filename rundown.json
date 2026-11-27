@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:50:26.919Z",
+  "generatedAt": "2026-11-27T08:50:27.269Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -115,17 +115,6 @@
           ]
         },
         {
-          "title": "Liquid battle past Imperial into Stage 2",
-          "url": "https://www.hltv.org/news/46063/liquid-battle-past-imperial-into-stage-2",
-          "source": "HLTV news",
-          "published": "2026-11-26T13:48:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "liquid"
-          ]
-        },
-        {
           "title": "FaZe Crash Out of the Singapore Major at 1-3",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzg3ZGtIT1lHVUlreGZBUGhaUDNaeElIU0xCNGpuLUpDdFM2UEN3NFBhbzdGbHM2M1QtWnh2Z09NVXNSN2d4T3pWSTB1VkZhSGFKa1JQVzJ3YkMxcmJYN0pMdFBva2Jwd2d6VDFqZlhCU3Zva3RzSWV6akJWc3pVZzItWndGUE9Tb3JrNXo0cVlhaHJJblNr?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -146,12 +135,23 @@
           "why": [
             "s1mple"
           ]
+        },
+        {
+          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
+          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
+          "source": "HLTV news",
+          "published": "2026-11-26T18:31:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid*"
+          ]
         }
       ]
     },
     {
       "scene": "Tekken",
-      "storyCount": 2,
+      "storyCount": 3,
       "stories": [
         {
           "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
@@ -166,54 +166,19 @@
           ]
         },
         {
+          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
+          "source": "Google News: Tekken (GamerBraves)",
+          "published": "2026-11-27T06:06:23.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
           "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
           "source": "Google News: Tekken (Dexerto)",
           "published": "2026-11-26T18:06:09.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 4,
-      "stories": [
-        {
-          "title": "Yatoro named the strongest carry heroes in the current Dota 2 meta",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmpuNVgtRFVqSXpEUHBxd2VCVXNMa25KNGpBdEdBb3JLMWFsRVpjYU1NdTI1XzFCaUNFR01vMDhtemc4cWs3SDAxNWgxQ1k4eEFxbm9FbWdFdG5LNTBBcnR3NUtQTVV5a2VQbEVkZi04YlFUX3FPQUdFMHJjd2trNll0el9pQQ?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-26T08:00:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "yatoro"
-          ]
-        },
-        {
-          "title": "Dota 2 Patch 7.42 Best Heroes",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa190SHZJYWtTaktpeVJkNVpicmNoc2ZOamZnNEE5WFJILWJfSFY2M1lKQ3ZSZjhBSlZSbFM5Z2lZbHlCRGxXT1h0SzA1dTNTZ1FzNnVKVmJjVy1POWhvSkxZeUNWZkhEdERmTTZMdEhpdEVrUFVWQWlwUDc4ZDQxQndwVTkyWERNVDloVEhGUE01QQ?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-26T21:25:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
-          "source": "Google News: Dota (Foro3D)",
-          "published": "2026-11-26T14:05:46.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Minsk hosts the NOVA festival final with sixteen teams in CS2 and Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGNmMzl3Q2lIdkI2OHdDTG9vTHVYakVyNHNycjlxLWJMNWlOQU5zUUY0dG5XQ3RoSVFRc1VaWFRkZzhLSDlPUkJfeF9kSm5rOVFwOXdkcjVnLVRfXzQ2ME9FNDQxYmEzSmRIRmlpbWNxTl9RcGNQckZkUzFSZFprdDdBRnQ0a09Gb0psbFFwZkZHMTJtOVh5eUNwaDNkazFfd1lsajlhajU1Rnl2SWpRVg?oc=5",
-          "source": "Google News: Dota (Foro3D)",
-          "published": "2026-11-26T14:05:41.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -265,6 +230,39 @@
       ]
     },
     {
+      "scene": "Dota",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Dota 2 Patch 7.42 Best Heroes",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa190SHZJYWtTaktpeVJkNVpicmNoc2ZOamZnNEE5WFJILWJfSFY2M1lKQ3ZSZjhBSlZSbFM5Z2lZbHlCRGxXT1h0SzA1dTNTZ1FzNnVKVmJjVy1POWhvSkxZeUNWZkhEdERmTTZMdEhpdEVrUFVWQWlwUDc4ZDQxQndwVTkyWERNVDloVEhGUE01QQ?oc=5",
+          "source": "Google News: Dota (EGamersWorld)",
+          "published": "2026-11-26T21:25:47.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
+          "source": "Google News: Dota (Foro3D)",
+          "published": "2026-11-26T14:05:46.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Minsk hosts the NOVA festival final with sixteen teams in CS2 and Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGNmMzl3Q2lIdkI2OHdDTG9vTHVYakVyNHNycjlxLWJMNWlOQU5zUUY0dG5XQ3RoSVFRc1VaWFRkZzhLSDlPUkJfeF9kSm5rOVFwOXdkcjVnLVRfXzQ2ME9FNDQxYmEzSmRIRmlpbWNxTl9RcGNQckZkUzFSZFprdDdBRnQ0a09Gb0psbFFwZkZHMTJtOVh5eUNwaDNkazFfd1lsajlhajU1Rnl2SWpRVg?oc=5",
+          "source": "Google News: Dota (Foro3D)",
+          "published": "2026-11-26T14:05:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
       "scene": "Melee",
       "storyCount": 1,
       "stories": [
@@ -293,21 +291,6 @@
           "why": []
         }
       ]
-    },
-    {
-      "scene": "CoD",
-      "storyCount": 1,
-      "stories": [
-        {
-          "title": "CDL Kickoff Classic Seeding: How the 12 Teams Ranked Each Other",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0VQOWVIZVZ3MGl1a2FncHlpNTRTcHlfekhoZXJqTzVJeHQ3cl93YTZRMndSbEk3VkdYdjJiaGZCVmVOUURCODBzcXIwY3Y3NkdmTERvYjdnNmdkOWk5TG1TVVdvUldWelVwc1ZScXZnbVoweVZNSDA2Qng5R0FhX0hkZFNqeklo?oc=5",
-          "source": "Google News: CoD (Shane the Gamer)",
-          "published": "2026-11-26T08:31:53.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
     }
   ],
   "quiet": [
@@ -315,6 +298,7 @@
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "CoD",
     "Quake",
     "Halo"
   ]
