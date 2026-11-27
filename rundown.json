@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:00:35.931Z",
+  "generatedAt": "2026-11-27T23:00:25.936Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -39,46 +39,21 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 3,
-      "stories": [
-        {
-          "title": "Street Fighter 6 at EWC26 Champion",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZTWJJU2N0aXBMT2xPMXlaM2xLZS1jd3A5bE5NR0g1QmpLdVc4aGcyUDFBU1BFLTUydkhpZGFnR1JxTnJ1ZkxQR25ycmdyc3pOdzhWQzBvbHNXdTBTWWVPSW9TR19zb0dkczNxOVVn?oc=5",
-          "source": "Google News: Street Fighter (Esports World Cup)",
-          "published": "2026-11-27T13:53:53.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "champion"
-          ]
-        },
-        {
-          "title": "Street Fighter 6 returns to the Esports World Cup 2027 with a generational shift in the scene",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGkwQkxrcjd0c3BXUDBVNnQwcVE5VlN4WFQxUmNMQlhmMHgzcW45NmZfZGtIajREdWluLURqUTQ2M3dDai1VZmVDTTlqZFVKVkJQcjFOVkN1dk04aE9hTmM0MDhlOEVQN2pKdldDUmNzWFJPM3gtTUVJQ2xuODNsRElRZEgwNUxkd1ZKM1RSaktMSlViajcxN0x4Q1kxUG42R1ZQSXIzaW1MV0poa2Q4QVp3?oc=5",
-          "source": "Google News: Street Fighter (Foro3D)",
-          "published": "2026-11-27T06:46:06.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        },
-        {
-          "title": "CAPCOM Pro Tour 2026 World Warrior Japan Round 5 Takes Place on November 29! Direct Qualification for CAPCOM CUP 13 and Regional Finals Competitors to Be Decided",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVVBSjRxYXZHOW95dTZ3Skl5aWRhRVBwUWVtTUJCMGhReG1yTV8xc0JPclBmZjZsUDkxMmJwamhCY1g3V1hOd0tXNWl6UW0wbi1uelBqY2x1UFQ4bUR5bGN6Nm50SUhVa0RqanpOQkhVSmVQaGx1RzFlUTF2bll1RGVmdW9HWF9qd3RDeE130gGTAUFVX3lxTE1zTlBtc0E1UU0wTDdNNkQ2dHdadHNwU09TTzN5UjlldVFIQTRQbF9Yb0JEZnd3SzVaYkhHbXFub2U3NFM0S0FkZWhQNG1KWV9VcUFiUXo5YnFFLTdBSDVCM3JqQng0MVR1VVhEWVlWbHlQdDJFWEdHUVhEM2hlQ1hWbHBmUkoxbFBwSlNvWXVJbW9zUQ?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-27T08:02:02.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 17,
       "stories": [
+        {
+          "title": "rain Passes NiKo for the Most Opening Kills in Counter-Strike Major History",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWlKR3RhZC1SM2FmSzcyY2FtQnBlZ3RvMmUyakhLTEV3eTU2eDRMamE1YnhhSlFKLWp4RFh3UFA5N1BRdldMRDk1emJyazEwMkxXc2NDbmJTZ3VIbExBbVliQVVJQmZ5NC1VdkVOUGx0XzBxTW8tNVBacFh2U2x5OGI5MkJUVWRHN0FhVzVPNA?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-27T16:50:32.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "history",
+            "niko"
+          ]
+        },
         {
           "title": "Visualized: Every team at PGL Major Singapore Stage 2",
           "url": "https://www.hltv.org/news/46069/visualized-every-team-at-pgl-major-singapore-stage-2",
@@ -121,6 +96,17 @@
           "level": null,
           "why": [
             "s1mple"
+          ]
+        },
+        {
+          "title": "FURIA put their name on Série A newcomers Novorizontino",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXVqTHVPNEVEdXozUU9jOXhreGpCSHlVa3FQZW1SSEdBN3RadWU0MnpYeFNDQ0tsTHRFc0Q0LVNsRGZxX1NPZHQxVDdYVi1mMkVTak5vQVBiQ3BGNzF4YU1uRWY2R3VlYVdQRkQwUm1aaks4SF9qQWM3anpsNHdiU0FB?oc=5",
+          "source": "Google News: CS2 (Pley.gg)",
+          "published": "2026-11-27T09:58:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "furia"
           ]
         },
         {
@@ -178,21 +164,40 @@
           "score": 1,
           "level": null,
           "why": []
-        },
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
         {
-          "title": "FalleN Wants a Dota 2 Style Compendium for CS2 Majors, With Team Voice Lines and Exclusive Skins",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDJXUTFFd2FFM0dDb256ejBNaTU2czY2LWhZdnRTY0phcnprbDlqS1YxN2VBbzdEY2Ftck1fZWFjbGlsM1VEUmxXNkpQOXpYc3Vya2lldF9kXzRRYzBZVkhaRFV5SU1vZE5RRkhiN25ydEhEZ21xMGZqVGFheUJNQW54X2dadnQtLTN1b0w4aHRFQQ?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-27T15:15:07.000Z",
-          "score": 1,
+          "title": "Street Fighter 6 at EWC26 Champion",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZTWJJU2N0aXBMT2xPMXlaM2xLZS1jd3A5bE5NR0g1QmpLdVc4aGcyUDFBU1BFLTUydkhpZGFnR1JxTnJ1ZkxQR25ycmdyc3pOdzhWQzBvbHNXdTBTWWVPSW9TR19zb0dkczNxOVVn?oc=5",
+          "source": "Google News: Street Fighter (Esports World Cup)",
+          "published": "2026-11-27T13:53:53.000Z",
+          "score": 4,
           "level": null,
-          "why": []
+          "why": [
+            "champion"
+          ]
         },
         {
-          "title": "CS2: FlyQuest, Ninjas in Pyjamas lead the eight teams qualified for Singapore Major Stage 2",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamZET3JFcGNJdjl6STh1T3dJTDhta3hYamVpcXlUZGhWRzdsbXRaSWNUNDlNRmlxQmJnY3Z5Q2E3WmxJNmNDd2tmaVlGSkprZWo4UzNpeUpfaXc0c1E5UXpvUmxUNnNMNldGYTcxTzBDcmU5STFOdU45aWdqT2NBcFpBNWtiT3RpdTlYbUM1b1pyZ3g3Rmt1Y0FRZUV3ZVVLb2dyWlI2SHF1M0Ftdkh4X3YzV3I1T01VTkJRVnFxbFk5WWc2enZHY1gtMXhpUTh6ZVBtRmdrUmY?oc=5",
-          "source": "Google News: CS2 (GosuGamers)",
-          "published": "2026-11-27T15:00:34.000Z",
+          "title": "Street Fighter 6 returns to the Esports World Cup 2027 with a generational shift in the scene",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGkwQkxrcjd0c3BXUDBVNnQwcVE5VlN4WFQxUmNMQlhmMHgzcW45NmZfZGtIajREdWluLURqUTQ2M3dDai1VZmVDTTlqZFVKVkJQcjFOVkN1dk04aE9hTmM0MDhlOEVQN2pKdldDUmNzWFJPM3gtTUVJQ2xuODNsRElRZEgwNUxkd1ZKM1RSaktMSlViajcxN0x4Q1kxUG42R1ZQSXIzaW1MV0poa2Q4QVp3?oc=5",
+          "source": "Google News: Street Fighter (Foro3D)",
+          "published": "2026-11-27T06:46:06.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "returns"
+          ]
+        },
+        {
+          "title": "CAPCOM Pro Tour 2026 World Warrior Japan Round 5 Takes Place on November 29! Direct Qualification for CAPCOM CUP 13 and Regional Finals Competitors to Be Decided",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVVBSjRxYXZHOW95dTZ3Skl5aWRhRVBwUWVtTUJCMGhReG1yTV8xc0JPclBmZjZsUDkxMmJwamhCY1g3V1hOd0tXNWl6UW0wbi1uelBqY2x1UFQ4bUR5bGN6Nm50SUhVa0RqanpOQkhVSmVQaGx1RzFlUTF2bll1RGVmdW9HWF9qd3RDeE130gGTAUFVX3lxTE1zTlBtc0E1UU0wTDdNNkQ2dHdadHNwU09TTzN5UjlldVFIQTRQbF9Yb0JEZnd3SzVaYkhHbXFub2U3NFM0S0FkZWhQNG1KWV9VcUFiUXo5YnFFLTdBSDVCM3JqQng0MVR1VVhEWVlWbHlQdDJFWEdHUVhEM2hlQ1hWbHBmUkoxbFBwSlNvWXVJbW9zUQ?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-27T08:02:02.000Z",
           "score": 1,
           "level": null,
           "why": []
