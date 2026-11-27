@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T13:00:37.605Z",
+  "generatedAt": "2026-11-27T14:00:29.065Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
@@ -16,6 +16,17 @@
           "why": [
             "champion",
             "crowned"
+          ]
+        },
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-27T11:53:30.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
           ]
         },
         {
@@ -40,8 +51,20 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 10,
+      "storyCount": 18,
       "stories": [
+        {
+          "title": "L1haNg joins TYLOO on trial",
+          "url": "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial",
+          "source": "HLTV news",
+          "published": "2026-11-27T04:20:00.000Z",
+          "score": 5.5,
+          "level": "possible",
+          "why": [
+            "joins",
+            "bench*"
+          ]
+        },
         {
           "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
@@ -80,6 +103,17 @@
           ]
         },
         {
+          "title": "On the ground at PGL Major Singapore Stage 1",
+          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+          "source": "HLTV news",
+          "published": "2026-11-26T17:52:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
           "title": "FaZe Crash Out of the Singapore Major at 1-3",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzg3ZGtIT1lHVUlreGZBUGhaUDNaeElIU0xCNGpuLUpDdFM2UEN3NFBhbzdGbHM2M1QtWnh2Z09NVXNSN2d4T3pWSTB1VkZhSGFKa1JQVzJ3YkMxcmJYN0pMdFBva2Jwd2d6VDFqZlhCU3Zva3RzSWV6akJWc3pVZzItWndGUE9Tb3JrNXo0cVlhaHJJblNr?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
@@ -88,17 +122,6 @@
           "level": null,
           "why": [
             "faze"
-          ]
-        },
-        {
-          "title": "PGL Singapore Major 2026 Stage 1 Day 3 Recap",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcU5GTk01S1ZrYXhaOWxrQlpJLVFYZUE2QUczY3NqYmVPQkdmcVotV1RYYTdZOHlIU3FCWko1TkxvbzVwVnF6cjIyNnZZbkFNWlhJeWdWTUpkSUt0LW1SV3FzR2hwQ25MczJtTmFtdHNkcTVuSFJMSzlyN3JGYXRUQw?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T16:11:19.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
           ]
         },
         {
@@ -124,28 +147,76 @@
           ]
         },
         {
-          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
-          "source": "Google News: CS2 (Esports.gg)",
-          "published": "2026-11-26T15:58:10.000Z",
+          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
+          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
+          "source": "HLTV news",
+          "published": "2026-11-26T18:31:00.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "liquid*"
+          ]
+        },
+        {
+          "title": "HexT: \"In tier two, salaries are going to be lower until they change, if they change, Major revenue\"",
+          "url": "https://www.hltv.org/news/46073/hext-in-tier-two-salaries-are-going-to-be-lower-until-they-change-if-they-change-major-revenue",
+          "source": "HLTV news",
+          "published": "2026-11-27T13:07:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "The ultimate monitor for CS2 and Valorant: What actually matters?",
-          "url": "https://www.dexerto.com/gaming/the-ultimate-monitor-for-cs2-and-valorant-what-actually-matters-3429900/",
-          "source": "Dexerto",
-          "published": "2026-11-26T15:23:59.000Z",
+          "title": "Imperial outlast Wildcard to progress to Stage 2",
+          "url": "https://www.hltv.org/news/46072/imperial-outlast-wildcard-to-progress-to-stage-2",
+          "source": "HLTV news",
+          "published": "2026-11-27T11:48:00.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "9z CEO Says CS2 Pros Are Discussing a Boycott of the Next Major",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFpJNVJBNzB5VFBDQ0xVNmNZcThJOV8tYXN5T3hPaXNLQmdpSjhIQnM2VjRzSHlvWUgzT21adTU1aHAyTzQxQlZkRko2a0lIdnhEVFVaa3l2NHBMbG8zc2FiS2NyUkdVOTVLeXRhdV9YTS1MN2IzcnBlWjRUb3VXeVlnVEpucUVvaUV0bWwyX20?oc=5",
-          "source": "Google News: CS2 (TalkEsport)",
-          "published": "2026-11-26T14:09:03.000Z",
+          "title": "Snappi: \"Major pressure maybe hit us\"",
+          "url": "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
+          "source": "HLTV news",
+          "published": "2026-11-27T09:26:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "Street Fighter",
+      "storyCount": 3,
+      "stories": [
+        {
+          "title": "Street Fighter 6 at EWC26 Champion",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZTWJJU2N0aXBMT2xPMXlaM2xLZS1jd3A5bE5NR0g1QmpLdVc4aGcyUDFBU1BFLTUydkhpZGFnR1JxTnJ1ZkxQR25ycmdyc3pOdzhWQzBvbHNXdTBTWWVPSW9TR19zb0dkczNxOVVn?oc=5",
+          "source": "Google News: Street Fighter (Esports World Cup)",
+          "published": "2026-11-27T13:53:53.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "champion"
+          ]
+        },
+        {
+          "title": "Street Fighter 6 returns to the Esports World Cup 2027 with a generational shift in the scene",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGkwQkxrcjd0c3BXUDBVNnQwcVE5VlN4WFQxUmNMQlhmMHgzcW45NmZfZGtIajREdWluLURqUTQ2M3dDai1VZmVDTTlqZFVKVkJQcjFOVkN1dk04aE9hTmM0MDhlOEVQN2pKdldDUmNzWFJPM3gtTUVJQ2xuODNsRElRZEgwNUxkd1ZKM1RSaktMSlViajcxN0x4Q1kxUG42R1ZQSXIzaW1MV0poa2Q4QVp3?oc=5",
+          "source": "Google News: Street Fighter (Foro3D)",
+          "published": "2026-11-27T06:46:06.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "returns"
+          ]
+        },
+        {
+          "title": "CAPCOM Pro Tour 2026 World Warrior Japan Round 5 Takes Place on November 29! Direct Qualification for CAPCOM CUP 13 and Regional Finals Competitors to Be Decided",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVVBSjRxYXZHOW95dTZ3Skl5aWRhRVBwUWVtTUJCMGhReG1yTV8xc0JPclBmZjZsUDkxMmJwamhCY1g3V1hOd0tXNWl6UW0wbi1uelBqY2x1UFQ4bUR5bGN6Nm50SUhVa0RqanpOQkhVSmVQaGx1RzFlUTF2bll1RGVmdW9HWF9qd3RDeE130gGTAUFVX3lxTE1zTlBtc0E1UU0wTDdNNkQ2dHdadHNwU09TTzN5UjlldVFIQTRQbF9Yb0JEZnd3SzVaYkhHbXFub2U3NFM0S0FkZWhQNG1KWV9VcUFiUXo5YnFFLTdBSDVCM3JqQng0MVR1VVhEWVlWbHlQdDJFWEdHUVhEM2hlQ1hWbHBmUkoxbFBwSlNvWXVJbW9zUQ?oc=5",
+          "source": "Google News: Street Fighter (Saiga NAK)",
+          "published": "2026-11-27T08:02:02.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -180,34 +251,8 @@
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "Street Fighter 6 returns to the Esports World Cup 2027 with a generational shift in the scene",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGkwQkxrcjd0c3BXUDBVNnQwcVE5VlN4WFQxUmNMQlhmMHgzcW45NmZfZGtIajREdWluLURqUTQ2M3dDai1VZmVDTTlqZFVKVkJQcjFOVkN1dk04aE9hTmM0MDhlOEVQN2pKdldDUmNzWFJPM3gtTUVJQ2xuODNsRElRZEgwNUxkd1ZKM1RSaktMSlViajcxN0x4Q1kxUG42R1ZQSXIzaW1MV0poa2Q4QVp3?oc=5",
-          "source": "Google News: Street Fighter (Foro3D)",
-          "published": "2026-11-27T06:46:06.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "returns"
-          ]
-        },
-        {
-          "title": "CAPCOM Pro Tour 2026 World Warrior Japan Round 5 Takes Place on November 29! Direct Qualification for CAPCOM CUP 13 and Regional Finals Competitors to Be Decided",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVVBSjRxYXZHOW95dTZ3Skl5aWRhRVBwUWVtTUJCMGhReG1yTV8xc0JPclBmZjZsUDkxMmJwamhCY1g3V1hOd0tXNWl6UW0wbi1uelBqY2x1UFQ4bUR5bGN6Nm50SUhVa0RqanpOQkhVSmVQaGx1RzFlUTF2bll1RGVmdW9HWF9qd3RDeE130gGTAUFVX3lxTE1zTlBtc0E1UU0wTDdNNkQ2dHdadHNwU09TTzN5UjlldVFIQTRQbF9Yb0JEZnd3SzVaYkhHbXFub2U3NFM0S0FkZWhQNG1KWV9VcUFiUXo5YnFFLTdBSDVCM3JqQng0MVR1VVhEWVlWbHlQdDJFWEdHUVhEM2hlQ1hWbHBmUkoxbFBwSlNvWXVJbW9zUQ?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-27T08:02:02.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
       "scene": "Legacy FGC",
-      "storyCount": 1,
+      "storyCount": 2,
       "stories": [
         {
           "title": "SNK World Championship 2026 live stream ft. Laggia, Xiaohai, Go1, Lauyagami, Kaiser666, Dany 'El Maza', Mi2ha4, Score, Madkof, Masaton, Sou and more",
@@ -219,6 +264,17 @@
           "why": [
             "xiaohai",
             "-stream"
+          ]
+        },
+        {
+          "title": "SNK World Finals 2026: $4M+ event overview, FATAL FURY and KOF XV results",
+          "url": "https://esports.gg/news/fgc/snk-world-championship-2026-finals-results/",
+          "source": "esports.gg",
+          "published": "2026-11-27T13:49:10.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "official*"
           ]
         }
       ]
