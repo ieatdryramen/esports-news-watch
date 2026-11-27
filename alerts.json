@@ -1,6 +1,24 @@
 {
   "alerts": [
     {
+      "alertedAt": "2026-11-27T12:50:16.533Z",
+      "level": "possible",
+      "scene": "CS2",
+      "title": "Lynn Vision sweep Heroic to reach three wins in PGL Major Singapore Stage 1",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3MtSkhPVk1xT1o2eFVyN1Y1ODgyb2tfNEtGMC11Y3F2dno0UWlCRmNsZW1vdzR3VU1semlnZWk5ekY3WEFrR3hxR0llZGh4Zm80dXFKODdpVmZaYlFRU1kzWnBMejBYb25PYy1yN1VwOTc5cHRvLVFiNUlSMEk0ZEZFLUhfRkJoblJCUmU3N0dYbjJkak5URHdUZzJzT2lZN3ZMSEJwRW1GQXk1ZVFCalpTLW0?oc=5",
+      "source": "Google News: CS2 (Esports News UK)",
+      "outlets": [
+        "Esports News UK"
+      ],
+      "score": 6,
+      "why": [
+        "wins",
+        "pgl"
+      ],
+      "summary": "",
+      "published": "2026-11-27T11:10:12.000Z"
+    },
+    {
       "alertedAt": "2026-11-27T04:25:14.665Z",
       "level": "possible",
       "scene": "CS2",
