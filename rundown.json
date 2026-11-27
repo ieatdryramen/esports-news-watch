@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:00:29.257Z",
+  "generatedAt": "2026-11-27T03:00:24.981Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 20,
       "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
@@ -44,19 +44,6 @@
             "announces",
             "blast",
             "pgl*"
-          ]
-        },
-        {
-          "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-26T15:34:32.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "faze",
-            "liquid",
-            "pgl"
           ]
         },
         {
@@ -171,6 +158,15 @@
           "why": [
             "liquid*"
           ]
+        },
+        {
+          "title": "Gizmy on leading veterans: \"You just need a strong personality, and trust, and you can [earn] trust by showing class and good stuff in game\"",
+          "url": "https://www.hltv.org/news/46062/gizmy-on-leading-veterans-you-just-need-a-strong-personality-and-trust-and-you-can-earn-trust-by-showing-class-and-good-stuff-in-game",
+          "source": "HLTV news",
+          "published": "2026-11-26T20:00:00.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
