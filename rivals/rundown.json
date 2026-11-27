@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-11-27T15:20:28.425Z",
+  "generatedAt": "2026-11-27T16:20:30.576Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 5,
+      "storyCount": 6,
       "stories": [
+        {
+          "title": "Marvel Rivals IGNITE 2026 Grand Finals: Bracket, Teams and Results – Esports News Network",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd3lmT1pVOGNmQVpaZUxLQ3dWeXlPd2U5czNLUTVHZ0hWY3hHbzZxT1FqUklnRFZ6VkVYcG4yZFU3UlVCMVpSZC1LbElUTXlGdGJ3UGxWU1h3Y2djelMxekI2V19fbXNCZmYzSXViVU5YNlNuWE9FbVdJMkUtRGxkOHFSSTNEUQ?oc=5",
+          "source": "Google News: Rivals esports (ESTNN)",
+          "published": "2026-11-27T07:07:51.000Z",
+          "score": 6,
+          "level": "possible",
+          "why": [
+            "grand finals",
+            "grand finals"
+          ]
+        },
         {
           "title": "Marvel Rivals November Patch Notes: New Map, Free Rewards, Events, and Bug Fixes",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzlUT19Gazlva2FGLXhvcHF4VGN6OGMzMjYwUWR1cWV4WHFRbGJvaFdVZ2NrZzhOQkllUHdXTUpLakZCbzFnaHpUaEd4SllPWm1iUDV4bU9IVThEQUxNVEZyNHprYV9fTnVzcTVxT2pSWl9WTWZOR2pLTWxCMHk0QWdzZ2EzYlp4U2x4NE45ak1vSHY0R0JyeWNFMkZXYnhBNVVtMmVCT2hfOURZME9WV210WQ?oc=5",
           "source": "Google News: Rivals esports (Sports Tiger)",
-          "published": "2026-11-27T10:09:42.000Z",
+          "published": "2026-11-27T10:10:48.000Z",
           "score": 4,
           "level": null,
           "why": [
