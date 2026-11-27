@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T20:00:27.380Z",
+  "generatedAt": "2026-11-27T21:00:25.851Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
@@ -16,17 +16,6 @@
           "why": [
             "champion",
             "crowned"
-          ]
-        },
-        {
-          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
-          "source": "Google News: Tekken (TechJuice)",
-          "published": "2026-11-27T12:33:05.000Z",
-          "score": 4,
-          "level": null,
-          "why": [
-            "wins"
           ]
         },
         {
@@ -79,13 +68,35 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 14,
+      "storyCount": 15,
       "stories": [
         {
-          "title": "On the ground at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+          "title": "Visualized: Every team at PGL Major Singapore Stage 2",
+          "url": "https://www.hltv.org/news/46069/visualized-every-team-at-pgl-major-singapore-stage-2",
           "source": "HLTV news",
-          "published": "2026-11-27T18:17:00.000Z",
+          "published": "2026-11-27T20:00:00.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Singapore Major 2026 Stage 1 Day 4 Recap",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0k1d0lPNmRDXzRWek1ZZkNGUEg3MklfVTZVNWZIV3liRDYzTHkzRV9XaTFWTW1FcFNNT2RCeHIyMEhyY3Z2MFRWbEo2ekJFNTJkelJKM0IxMUxvQXVsQldNczlfdlQ3clhITUZRcnd6M3NKOE03YTYyXzBaUGVQcUxybw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-27T15:37:15.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "pgl"
+          ]
+        },
+        {
+          "title": "PGL Major Singapore Stage 2 opening matches set",
+          "url": "https://www.hltv.org/news/46076/pgl-major-singapore-stage-2-opening-matches-set",
+          "source": "HLTV news",
+          "published": "2026-11-27T15:30:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -173,24 +184,6 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamZET3JFcGNJdjl6STh1T3dJTDhta3hYamVpcXlUZGhWRzdsbXRaSWNUNDlNRmlxQmJnY3Z5Q2E3WmxJNmNDd2tmaVlGSkprZWo4UzNpeUpfaXc0c1E5UXpvUmxUNnNMNldGYTcxTzBDcmU5STFOdU45aWdqT2NBcFpBNWtiT3RpdTlYbUM1b1pyZ3g3Rmt1Y0FRZUV3ZVVLb2dyWlI2SHF1M0Ftdkh4X3YzV3I1T01VTkJRVnFxbFk5WWc2enZHY1gtMXhpUTh6ZVBtRmdrUmY?oc=5",
           "source": "Google News: CS2 (GosuGamers)",
           "published": "2026-11-27T14:57:57.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "HexT: \"In tier two, salaries are going to be lower until they change, if they change, Major revenue\"",
-          "url": "https://www.hltv.org/news/46073/hext-in-tier-two-salaries-are-going-to-be-lower-until-they-change-if-they-change-major-revenue",
-          "source": "HLTV news",
-          "published": "2026-11-27T13:07:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Imperial outlast Wildcard to progress to Stage 2",
-          "url": "https://www.hltv.org/news/46072/imperial-outlast-wildcard-to-progress-to-stage-2",
-          "source": "HLTV news",
-          "published": "2026-11-27T11:48:00.000Z",
           "score": 1,
           "level": null,
           "why": []
