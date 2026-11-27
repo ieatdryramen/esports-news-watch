@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T00:50:27.182Z",
+  "generatedAt": "2026-11-27T01:20:21.225Z",
   "source": "start.gg",
   "completed": [
     {
@@ -140,53 +140,6 @@
         {
           "placement": 7,
           "name": "Hidden_Main"
-        }
-      ]
-    },
-    {
-      "eventId": "1758825",
-      "scene": "legacyfgc",
-      "game": "Guilty Gear -Strive-",
-      "tournament": "TNS Guilty Gear Strive #232",
-      "event": "Guilty Gear Strive (Crossplay)",
-      "entrants": 105,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-24T01:00:00.000Z",
-      "endAt": "2026-11-24T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-guilty-gear-strive-232/event/guilty-gear-strive-crossplay",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "SQ"
-        },
-        {
-          "placement": 2,
-          "name": "Classified"
-        },
-        {
-          "placement": 3,
-          "name": "39 | *Insert*"
-        },
-        {
-          "placement": 4,
-          "name": "ONi | RedIAmNot"
-        },
-        {
-          "placement": 5,
-          "name": "Valiant | Magician Girl"
-        },
-        {
-          "placement": 5,
-          "name": "Gamer Supps | FubukiVr"
-        },
-        {
-          "placement": 7,
-          "name": "tipyourwaiter"
-        },
-        {
-          "placement": 7,
-          "name": "YoKai | Mouqui"
         }
       ]
     }
