@@ -1,24 +1,38 @@
 {
-  "generatedAt": "2026-11-26T23:00:25.326Z",
+  "generatedAt": "2026-11-27T00:00:27.345Z",
   "windowHours": 24,
   "scenes": [
     {
-      "scene": "CS2",
-      "storyCount": 24,
+      "scene": "Tekken",
+      "storyCount": 2,
       "stories": [
         {
-          "title": "FaZe Knocked Out of PGL Major Singapore 2026 by HEROIC",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG5Ram9IMW9NWk1HZnRUM3dXN213ZjFsbzlBWjUzUERnRGVtUTFYQ1QxZDlCclpDc1ZFLVpuaWt2SkVIVWxjMUJzbU83bW9POTktbXc4Q19tQjRmZnpNOWZpQVA5OE02c0UtUWRYOTJXd1A0TGIyUkF2aFQ0RlFJdmExb0I2RVdxVlVzdGJ2QUxCNXdFVzAyejlkVkhfUzg1Vk9CQ2tPZFRzZ29MUktV?oc=5",
-          "source": "Google News: CS2 (EGamersWorld)",
-          "published": "2026-11-26T09:12:48.000Z",
-          "score": 8,
+          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
+          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
+          "published": "2026-11-26T07:25:15.000Z",
+          "score": 7,
           "level": "breaking",
           "why": [
-            "knocked out",
-            "faze",
-            "pgl"
+            "world record",
+            "record"
           ]
         },
+        {
+          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
+          "source": "Google News: Tekken (Dexerto)",
+          "published": "2026-11-26T18:06:09.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        }
+      ]
+    },
+    {
+      "scene": "CS2",
+      "storyCount": 22,
+      "stories": [
         {
           "title": "BLAST announces invited teams for Bounty 2027",
           "url": "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
@@ -30,19 +44,6 @@
             "announces",
             "blast",
             "pgl*"
-          ]
-        },
-        {
-          "title": "PGL Singapore Major Day 3 Round-Up: Team Liquid Progress as FaZe Exit the Major",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWmZEc0p3d0pmTjAta0dUMFVScVNBeWNna25scnI1VlVjUTlKbEo4Um1yYXFKT1otQmpRT0pyNHdmSzZBdDBmYkVhSm5zQjdDMGx2UFAtXzhJMEFIajgxbEtqUG13T0hRcU5taXozMW9oTHFFMXdzaWJB?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-26T15:34:32.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "faze",
-            "liquid",
-            "pgl"
           ]
         },
         {
@@ -146,60 +147,38 @@
           "why": [
             "s1mple"
           ]
-        }
-      ]
-    },
-    {
-      "scene": "Tekken",
-      "storyCount": 2,
-      "stories": [
+        },
         {
-          "title": "103-Year-Old Japanese Woman to Compete in \"Tekken 8\" Esports Tournament and Chase Guinness World Record: \"Even Losing Is Fun\"",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTVNnc3BRZ2hUd3Z5SHlSXzRWbGxES2ZNTkNBZkd4NmkxTjdGOE42NF9ObmU0bkpYRElRNGRIOEJ0Qmd0aUVwMHVTbWJKazBH?oc=5",
-          "source": "Google News: Tekken (玩具人 TOY PEOPLE)",
-          "published": "2026-11-26T07:25:15.000Z",
-          "score": 7,
-          "level": "breaking",
+          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
+          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
+          "source": "HLTV news",
+          "published": "2026-11-26T18:31:00.000Z",
+          "score": 2,
+          "level": null,
           "why": [
-            "world record",
-            "record"
+            "liquid*"
           ]
         },
         {
-          "title": "103-year-old grandmother competing in Tekken 8 tournament but doesn’t actually want to win",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU1MNmFwQVhDUUtONFg5SWtRU0kxYndPclRUSHpJWXI3Y3Jxb3h2eTBkR1Q3eDE3LWwxSm1MMFUtTHJUcnEzZkFfbUZDN1Q5cHFCY1J1X1lVRnRuRXpmV19CNXg3RjJkTzNZN1BBRm15SlFicEMxeHoyTlRaREZveXdLeENVTmVGSVYzNFR6bEZhU19TTW1icFNXcWhIOGhlZXo0SWdjQ1c4Q1RkbklraGVlY0FZYVhnNi1oTDJORER2eDREdkUtdg?oc=5",
-          "source": "Google News: Tekken (Dexerto)",
-          "published": "2026-11-26T18:06:09.000Z",
-          "score": 1,
+          "title": "Best CS2 settings: donk, ZywOo, and m0NESY",
+          "url": "https://esports.gg/news/counter-strike-2/best-cs2-video-settings/",
+          "source": "esports.gg",
+          "published": "2026-11-26T00:13:19.000Z",
+          "score": 2,
           "level": null,
-          "why": []
+          "why": [
+            "zywoo",
+            "donk",
+            "m0nesy",
+            "-settings"
+          ]
         }
       ]
     },
     {
       "scene": "Dota",
-      "storyCount": 5,
+      "storyCount": 3,
       "stories": [
-        {
-          "title": "Yatoro named the strongest carry heroes in the current Dota 2 meta",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmpuNVgtRFVqSXpEUHBxd2VCVXNMa25KNGpBdEdBb3JLMWFsRVpjYU1NdTI1XzFCaUNFR01vMDhtemc4cWs3SDAxNWgxQ1k4eEFxbm9FbWdFdG5LNTBBcnR3NUtQTVV5a2VQbEVkZi04YlFUX3FPQUdFMHJjd2trNll0el9pQQ?oc=5",
-          "source": "Google News: Dota (Hawk Live)",
-          "published": "2026-11-26T08:00:16.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "yatoro"
-          ]
-        },
-        {
-          "title": "Dota 2 Patch 7.42 Best Heroes",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa190SHZJYWtTaktpeVJkNVpicmNoc2ZOamZnNEE5WFJILWJfSFY2M1lKQ3ZSZjhBSlZSbFM5Z2lZbHlCRGxXT1h0SzA1dTNTZ1FzNnVKVmJjVy1POWhvSkxZeUNWZkhEdERmTTZMdEhpdEVrUFVWQWlwUDc4ZDQxQndwVTkyWERNVDloVEhGUE01QQ?oc=5",
-          "source": "Google News: Dota (EGamersWorld)",
-          "published": "2026-11-26T21:25:47.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
         {
           "title": "OmGTU climbs to second place in the Dota 2 Heroes Cup",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
