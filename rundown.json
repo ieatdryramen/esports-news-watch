@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T23:00:25.936Z",
+  "generatedAt": "2026-11-27T23:55:26.304Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Tekken",
-      "storyCount": 3,
+      "storyCount": 4,
       "stories": [
         {
           "title": "'Tekken 8' Tournament That Crowned 92-Year-Old Champion Sees 103-Year-Old Entrant This Year",
@@ -16,6 +16,17 @@
           "why": [
             "champion",
             "crowned"
+          ]
+        },
+        {
+          "title": "Pakistani Prodigy M. Zubair Wins Tekken 8 at EWC 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWm9PSk4xbXZSdkR2YXpDeGozaXZBbHJmczI3TFpUa0hqckd1ZklBb1oxNmJnQkN6MndiTHRlQWlFSXpuOE56NUZVYU5rYl96ZEFtamNYVkY1YXM4WWk1V1B2NWdrWG1IOHRLWUkwT0JTSUhLN3k4QVdTYzIyUTB5MUZUU0Q?oc=5",
+          "source": "Google News: Tekken (TechJuice)",
+          "published": "2026-11-27T12:33:05.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "wins"
           ]
         },
         {
@@ -40,7 +51,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 17,
+      "storyCount": 8,
       "stories": [
         {
           "title": "rain Passes NiKo for the Most Opening Kills in Counter-Strike Major History",
@@ -55,32 +66,10 @@
           ]
         },
         {
-          "title": "Visualized: Every team at PGL Major Singapore Stage 2",
-          "url": "https://www.hltv.org/news/46069/visualized-every-team-at-pgl-major-singapore-stage-2",
-          "source": "HLTV news",
-          "published": "2026-11-27T20:00:00.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
           "title": "PGL Singapore Major 2026 Stage 1 Day 4 Recap",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0k1d0lPNmRDXzRWek1ZZkNGUEg3MklfVTZVNWZIV3liRDYzTHkzRV9XaTFWTW1FcFNNT2RCeHIyMEhyY3Z2MFRWbEo2ekJFNTJkelJKM0IxMUxvQXVsQldNczlfdlQ3clhITUZRcnd6M3NKOE03YTYyXzBaUGVQcUxybw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-27T15:37:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore Stage 2 opening matches set",
-          "url": "https://www.hltv.org/news/46076/pgl-major-singapore-stage-2-opening-matches-set",
-          "source": "HLTV news",
-          "published": "2026-11-27T15:30:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -110,17 +99,6 @@
           ]
         },
         {
-          "title": "100 Thieves eliminate M80 to make it to Stage 2",
-          "url": "https://www.hltv.org/news/46074/100-thieves-eliminate-m80-to-make-it-to-stage-2",
-          "source": "HLTV news",
-          "published": "2026-11-27T15:16:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "device*"
-          ]
-        },
-        {
           "title": "Stage 2 at the Singapore Major: Glimpses of elite Counter-Strike, results and recaps",
           "url": "https://esports.gg/news/counter-strike-2/cs2-singapore-major-2026-results/",
           "source": "esports.gg",
@@ -130,37 +108,28 @@
           "why": []
         },
         {
-          "title": "rain: \"I'm happy we've managed to get past [the tier 2 grind] now hopefully\"",
-          "url": "https://www.hltv.org/news/46078/rain-im-happy-weve-managed-to-get-past-the-tier-2-grind-now-hopefully",
-          "source": "HLTV news",
-          "published": "2026-11-27T19:00:00.000Z",
+          "title": "FalleN Wants a Dota 2 Style Compendium for CS2 Majors, With Team Voice Lines and Exclusive Skins",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDJXUTFFd2FFM0dDb256ejBNaTU2czY2LWhZdnRTY0phcnprbDlqS1YxN2VBbzdEY2Ftck1fZWFjbGlsM1VEUmxXNkpQOXpYc3Vya2lldF9kXzRRYzBZVkhaRFV5SU1vZE5RRkhiN25ydEhEZ21xMGZqVGFheUJNQW54X2dadnQtLTN1b0w4aHRFQQ?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-27T15:15:07.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "Short news: Week 46",
-          "url": "https://www.hltv.org/news/46029/short-news-week-46",
-          "source": "HLTV news",
-          "published": "2026-11-27T16:17:00.000Z",
+          "title": "CS2: FlyQuest, Ninjas in Pyjamas lead the eight teams qualified for Singapore Major Stage 2",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamZET3JFcGNJdjl6STh1T3dJTDhta3hYamVpcXlUZGhWRzdsbXRaSWNUNDlNRmlxQmJnY3Z5Q2E3WmxJNmNDd2tmaVlGSkprZWo4UzNpeUpfaXc0c1E5UXpvUmxUNnNMNldGYTcxTzBDcmU5STFOdU45aWdqT2NBcFpBNWtiT3RpdTlYbUM1b1pyZ3g3Rmt1Y0FRZUV3ZVVLb2dyWlI2SHF1M0Ftdkh4X3YzV3I1T01VTkJRVnFxbFk5WWc2enZHY1gtMXhpUTh6ZVBtRmdrUmY?oc=5",
+          "source": "Google News: CS2 (GosuGamers)",
+          "published": "2026-11-27T15:00:34.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "aliStair: \"It's really about trying to be the glue because they have so much fucking talent\"",
-          "url": "https://www.hltv.org/news/46051/alistair-its-really-about-trying-to-be-the-glue-because-they-have-so-much-fucking-talent",
-          "source": "HLTV news",
-          "published": "2026-11-27T16:01:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "FALLEN Urges Valve to Add Compendium to CS2 Majors",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVm40MWxCY01xczhaWkRZbXowMU01azJSajA3MkFaNGJDWDQtbkZCdXlESjN5YkhaaTJtZnF2cE5ReEhFOEJKNFBabERLMFRVaHRJdS1yNnRwRVl5R3Iyb2Y2U0RrSnNrWjdsR1I0YThEVldwZGxaTmpSdEkzNzRpODhn?oc=5",
-          "source": "Google News: CS2 (Wisevoter)",
-          "published": "2026-11-27T15:43:34.000Z",
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-27T10:05:44.000Z",
           "score": 1,
           "level": null,
           "why": []
