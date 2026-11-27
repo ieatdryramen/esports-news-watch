@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T09:20:31.511Z",
+  "generatedAt": "2026-11-27T10:20:30.301Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 10,
+      "storyCount": 11,
       "stories": [
         {
           "title": "DreamHack Stockholm 2026: Esports Champions to Be Crowned, Including Marvel Rivals",
@@ -19,10 +19,23 @@
           ]
         },
         {
-          "title": "Marvel Rivals November 26 2026 Patch Notes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkwybWJmSkFtdUZIR0ZIRV9id3BuNFVSeDRvQjhILTZKbVVud056MVltVlZkNWY0eDdiR2NYclVranhtVk1udUpyVUo2enRMU3pLNHJiTEZ6ek5WQUtxRHFUQUNENHVFdGtjTVVYNEdpeFhLRE52SHRUMFVTaDhRZmtvREtiSXdrNmc?oc=5",
-          "source": "Google News: Rivals patches (IGN)",
-          "published": "2026-11-26T12:13:32.000Z",
+          "title": "Marvel Rivals Season 11 Balance Changes: All Hero Buffs & Nerfs Explained",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16c1JqUHBZaFkwOFVhN014NWZfcGc5Q2lGeUU4b3k5X2RvSkNKcjVBX3MtdWNINmZwTzZUUzhYcXhjbE4yWWhwd3M0Qm0yRU1YVXc?oc=5",
+          "source": "Google News: Rivals patches (IMDb)",
+          "published": "2026-11-26T10:28:53.000Z",
+          "score": 7,
+          "level": "breaking",
+          "why": [
+            "balance",
+            "balance changes",
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals November Patch Notes: New Map, Free Rewards, Events, and Bug Fixes",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzlUT19Gazlva2FGLXhvcHF4VGN6OGMzMjYwUWR1cWV4WHFRbGJvaFdVZ2NrZzhOQkllUHdXTUpLakZCbzFnaHpUaEd4SllPWm1iUDV4bU9IVThEQUxNVEZyNHprYV9fTnVzcTVxT2pSWl9WTWZOR2pLTWxCMHk0QWdzZ2EzYlp4U2x4NE45ak1vSHY0R0JyeWNFMkZXYnhBNVVtMmVCT2hfOURZME9WV210WQ?oc=5",
+          "source": "Google News: Rivals esports (Sports Tiger)",
+          "published": "2026-11-27T10:09:42.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -30,10 +43,10 @@
           ]
         },
         {
-          "title": "Marvel Rivals Version 20261126 Patch Notes",
-          "url": "https://store.steampowered.com/news/app/2767030/view/703286102818030278",
-          "source": "Steam: Marvel Rivals (official news + patch notes)",
-          "published": "2026-11-26T10:14:05.000Z",
+          "title": "Marvel Rivals November 26 2026 Patch Notes",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkwybWJmSkFtdUZIR0ZIRV9id3BuNFVSeDRvQjhILTZKbVVud056MVltVlZkNWY0eDdiR2NYclVranhtVk1udUpyVUo2enRMU3pLNHJiTEZ6ek5WQUtxRHFUQUNENHVFdGtjTVVYNEdpeFhLRE52SHRUMFVTaDhRZmtvREtiSXdrNmc?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-26T12:13:32.000Z",
           "score": 4,
           "level": null,
           "why": [
