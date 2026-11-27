@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:45:20.170Z",
+  "generatedAt": "2026-11-27T11:45:31.417Z",
   "windowHours": 24,
   "scenes": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "scene": "CS2",
-      "storyCount": 21,
+      "storyCount": 12,
       "stories": [
         {
           "title": "BLAST Announces BLAST Bounty Season 1 2027 Invites: NAVI, FaZe & Team Liquid to Attend",
@@ -55,31 +55,6 @@
             "faze",
             "liquid",
             "blast"
-          ]
-        },
-        {
-          "title": "BLAST announces invited teams for Bounty 2027",
-          "url": "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
-          "source": "HLTV news",
-          "published": "2026-11-26T14:19:00.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "announces",
-            "blast",
-            "pgl*"
-          ]
-        },
-        {
-          "title": "L1haNg joins TYLOO on trial",
-          "url": "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial",
-          "source": "HLTV news",
-          "published": "2026-11-27T04:20:00.000Z",
-          "score": 5.5,
-          "level": "possible",
-          "why": [
-            "joins",
-            "bench*"
           ]
         },
         {
@@ -109,18 +84,6 @@
           ]
         },
         {
-          "title": "Future of FaZe Lineup Uncertain After PGL Singapore Major 2026 Exit",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tUU5QYWhiOHJNOTRvTkFwV1ZtSGNpc0ZEXzBNSGlqTmNXbTVVYnhYVHF4clNtMUxQcS1RNldBamU2bHlPOGNrd0hNQTVYVnlMQkpObld5aFlVMUxsTkNwM1FYMEFwOEl3LVh0cmkzZw?oc=5",
-          "source": "Google News: CS2 (Insider Gaming)",
-          "published": "2026-11-26T11:31:48.000Z",
-          "score": 5,
-          "level": null,
-          "why": [
-            "faze",
-            "pgl"
-          ]
-        },
-        {
           "title": "Esports Team FURIA Renames and Takes Over Top Brazilian Football Club",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXhiT1dxSElQUlpHTFdQVEJxcjNmc21yQXNONGVqSmQ3YzZnMC1tSXdURkxVanhpYzZBV2laVGFQeVV6RDZLQkxDaUQxNG0taExZbXhxNGNNY01YWTlSRV9jN0ktMzNwQks2TGstOTQ1SDl5ZjFvaGlyN0lpUkx0eWFYVHR3N0NlS3FiSTNB?oc=5",
           "source": "Google News: CS2 (Insider Gaming)",
@@ -132,10 +95,10 @@
           ]
         },
         {
-          "title": "On the ground at PGL Major Singapore Stage 1",
-          "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-          "source": "HLTV news",
-          "published": "2026-11-26T17:52:00.000Z",
+          "title": "PGL Singapore Major 2026 Stage 1 Day 3 Recap",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcU5GTk01S1ZrYXhaOWxrQlpJLVFYZUE2QUczY3NqYmVPQkdmcVotV1RYYTdZOHlIU3FCWko1TkxvbzVwVnF6cjIyNnZZbkFNWlhJeWdWTUpkSUt0LW1SV3FzR2hwQ25MczJtTmFtdHNkcTVuSFJMSzlyN3JGYXRUQw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T16:11:19.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -176,15 +139,40 @@
           ]
         },
         {
-          "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
-          "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
-          "source": "HLTV news",
-          "published": "2026-11-26T18:31:00.000Z",
-          "score": 2,
+          "title": "Stage 1 kicks off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-26T15:58:10.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "liquid*"
-          ]
+          "why": []
+        },
+        {
+          "title": "The ultimate monitor for CS2 and Valorant: What actually matters?",
+          "url": "https://www.dexerto.com/gaming/the-ultimate-monitor-for-cs2-and-valorant-what-actually-matters-3429900/",
+          "source": "Dexerto",
+          "published": "2026-11-26T15:23:59.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "9z CEO Says CS2 Pros Are Discussing a Boycott of the Next Major",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFpJNVJBNzB5VFBDQ0xVNmNZcThJOV8tYXN5T3hPaXNLQmdpSjhIQnM2VjRzSHlvWUgzT21adTU1aHAyTzQxQlZkRko2a0lIdnhEVFVaa3l2NHBMbG8zc2FiS2NyUkdVOTVLeXRhdV9YTS1MN2IzcnBlWjRUb3VXeVlnVEpucUVvaUV0bWwyX20?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-26T14:09:03.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
+        {
+          "title": "Minsk hosts the NOVA festival final with sixteen teams in CS2 and Dota 2",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGNmMzl3Q2lIdkI2OHdDTG9vTHVYakVyNHNycjlxLWJMNWlOQU5zUUY0dG5XQ3RoSVFRc1VaWFRkZzhLSDlPUkJfeF9kSm5rOVFwOXdkcjVnLVRfXzQ2ME9FNDQxYmEzSmRIRmlpbWNxTl9RcGNQckZkUzFSZFprdDdBRnQ0a09Gb0psbFFwZkZHMTJtOVh5eUNwaDNkazFfd1lsajlhajU1Rnl2SWpRVg?oc=5",
+          "source": "Google News: CS2 (Foro3D)",
+          "published": "2026-11-26T14:05:41.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         }
       ]
     },
@@ -243,7 +231,7 @@
     },
     {
       "scene": "Dota",
-      "storyCount": 3,
+      "storyCount": 2,
       "stories": [
         {
           "title": "Dota 2 Patch 7.42 Best Heroes",
@@ -259,15 +247,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFJITHFveWd2OTczMWVnaFF3b2VlbjNQMllQMFJHRWQyWGdJOC1IeFFpZF9MZUdwREdHcUxYcU1UUi1oS3pVRXphano2RWxnUGRlVzlGRER6TGZiMnJRdUk0cTZtbUNBenBKLTkzWTY0RVdMdnFEZE5JTU1BS2JlTDJmSWR3di1IMGc1RThSaks4X2p6dUEtOUFVLVZKcmQtSjFEV2stZVFFdlE?oc=5",
           "source": "Google News: Dota (Foro3D)",
           "published": "2026-11-26T14:05:46.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Minsk hosts the NOVA festival final with sixteen teams in CS2 and Dota 2",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGNmMzl3Q2lIdkI2OHdDTG9vTHVYakVyNHNycjlxLWJMNWlOQU5zUUY0dG5XQ3RoSVFRc1VaWFRkZzhLSDlPUkJfeF9kSm5rOVFwOXdkcjVnLVRfXzQ2ME9FNDQxYmEzSmRIRmlpbWNxTl9RcGNQckZkUzFSZFprdDdBRnQ0a09Gb0psbFFwZkZHMTJtOVh5eUNwaDNkazFfd1lsajlhajU1Rnl2SWpRVg?oc=5",
-          "source": "Google News: Dota (Foro3D)",
-          "published": "2026-11-26T14:05:41.000Z",
           "score": 1,
           "level": null,
           "why": []
