@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:30:27.353Z",
+  "generatedAt": "2026-11-27T03:30:22.215Z",
   "sources": [
     {
       "name": "Steam: Marvel Rivals (official news + patch notes)",
@@ -54,7 +54,7 @@
       "ok": true,
       "skipped": false,
       "items": 10,
-      "newest": "2026-11-26T22:00:00.000Z",
+      "newest": "2026-11-27T11:20:00.000Z",
       "error": null
     },
     {
@@ -85,7 +85,7 @@
       "name": "Google News: Sheep/Dot/Liquipedia",
       "ok": true,
       "skipped": false,
-      "items": 79,
+      "items": 75,
       "newest": "2026-11-26T18:02:04.000Z",
       "error": null
     },
