@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-28T04:06:00.309Z",
+  "generatedAt": "2026-11-28T12:56:35.898Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "Marvel Rivals",
-      "storyCount": 7,
+      "storyCount": 8,
       "stories": [
         {
           "title": "Marvel Rivals Ignite Grand Finals 2026 enters DreamHack Stockholm",
@@ -20,26 +20,25 @@
           ]
         },
         {
-          "title": "Marvel Rivals IGNITE 2026 Grand Finals: Bracket, Teams and Results – Esports News Network",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd3lmT1pVOGNmQVpaZUxLQ3dWeXlPd2U5czNLUTVHZ0hWY3hHbzZxT1FqUklnRFZ6VkVYcG4yZFU3UlVCMVpSZC1LbElUTXlGdGJ3UGxWU1h3Y2djelMxekI2V19fbXNCZmYzSXViVU5YNlNuWE9FbVdJMkUtRGxkOHFSSTNEUQ?oc=5",
-          "source": "Google News: Rivals esports (ESTNN)",
-          "published": "2026-11-27T07:07:51.000Z",
-          "score": 6,
-          "level": "possible",
-          "why": [
-            "grand finals",
-            "grand finals"
-          ]
-        },
-        {
-          "title": "Marvel Rivals November Patch Notes: New Map, Free Rewards, Events, and Bug Fixes",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzlUT19Gazlva2FGLXhvcHF4VGN6OGMzMjYwUWR1cWV4WHFRbGJvaFdVZ2NrZzhOQkllUHdXTUpLakZCbzFnaHpUaEd4SllPWm1iUDV4bU9IVThEQUxNVEZyNHprYV9fTnVzcTVxT2pSWl9WTWZOR2pLTWxCMHk0QWdzZ2EzYlp4U2x4NE45ak1vSHY0R0JyeWNFMkZXYnhBNVVtMmVCT2hfOURZME9WV210WQ?oc=5",
-          "source": "Google News: Rivals esports (Sports Tiger)",
-          "published": "2026-11-27T10:10:48.000Z",
+          "title": "Marvel Rivals November 26 patch notes: Incursion Point and 18v18 mode unavailable on PS4",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Oc0pnbDlkYlNmbkprZ3Z0bFZzbFd1T1FNc2MwaU1IMGNuR25ZZXUyX2x1amVWVC1uSExHR2tOMmEyU25qamVrWjN3YlRqNkJtOGVUODhCOGxJRmlLbGx4N1RlZWgxaF8tN183UjJRZVdGTHVD?oc=5",
+          "source": "Google News: Rivals patches (jeu.video)",
+          "published": "2026-11-28T12:30:56.000Z",
           "score": 4,
           "level": null,
           "why": [
             "patch notes"
+          ]
+        },
+        {
+          "title": "ATEEZ x Marvel Rivals: K-pop group announces a new single collaboration, arriving on THIS date",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcndhaENWRFNzRXRVLW5UMURGWXJqWC1MQ0dvWGl5NGQyMmlTTDJZRzl4NGhZY0JIV1hpY2FKd1pWaWc2Z1QwdGlDS0xlZHdJTnNWMnZHZHB6OUZ4dEtnRGh0TWVIUmE0bmVjTVZncGwtR1pnMW1XcVAtazZVRDVSdUdTdk9UZi1xMlRWLVZ0OTNyVWZrRFBwbkU3ZzN1SzNzNTVXcmw3N1JfbE44bmFNLVREN3JQblpldFJ3a01HRW5keGNKWlZtbFZlZEozYnhlMjJldjlCWUlxLS13dUgxekFQOGxaUXItVFlYZFd3?oc=5",
+          "source": "Google News: Rivals patches (Business Upturn)",
+          "published": "2026-11-28T06:24:56.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "announces"
           ]
         },
         {
@@ -52,6 +51,26 @@
           "why": [
             "leak"
           ]
+        },
+        {
+          "title": "Marvel Rivals takes another page from Overwatch's playbook, this time with a K-pop collab promoting its Avengers: Doomsday season",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOUgyeFBsZ2VnekM3U3BHMXZiSXpsWlJNMDRGSUI3ZGhlUnVEMWRaMXBEUXFwNlllb0RIeFgyNWMtU19OX082LTlGMDJvd0xEODJwMFh1dW5HY09yMnlNZjRfNXJiME8xVklyb21ReHJlSW1qYXRpRkNPV0ZtZVFobkxpOGJZa3ZVR2ZMVGdRX252aHlhRXU2ZW5jQkhYUHBHdkhYa3NCY2ZiQXNqNHR6MlRGTGZFVTlLSkFjcWtycFMyMEdsN1d3b2R0bGVOdTNCSGVZdUxaeWFlaGVKTGtBcUx0THViajNKZHFCRHU1R0l5NnFuOGstSW5XZ3hRbGwxNXR0MHNXdjFSdDJqSXc?oc=5",
+          "source": "Google News: Rivals patches (GamesRadar+)",
+          "published": "2026-11-28T12:17:03.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "season"
+          ]
+        },
+        {
+          "title": "Marvel Rivals: Best Character Face-Off",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MSmREdldXT3hkdVl6Z1E1UFBhS1d1eWQyOGI4OU05dXotWDNBVGRGMGk3ejE3TWxKNmNJUnhzZ3hCSi02UER6WFpWYk5ld04wdlE5Q05IcDZrVThITzNHR0tkM3hFMnJyenhzUWU3RVV6YXd5TzFTWk43TUlrTFE?oc=5",
+          "source": "Google News: Rivals patches (IGN)",
+          "published": "2026-11-28T03:31:21.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
         },
         {
           "title": "Sheldon esports makes state for Marvel Rivals, Super Smash Bros. Ultimate",
@@ -67,15 +86,6 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlExbVlRMnVtQmZrUVZHcklNVTY5dTZKVGdiWTB2U19UR3VUS2o0cEhtVC1vQXd1WDJLSGFZMy14REs0YzBfZHRYRlppX0tkTUt1ZTNOZVp0WmdFYmJCRzdkeXRSbU5rS2NJQ0xJYnhDU1dNd2lacTRPN2NodF82NHN1RzNjUF8weEJCcmJMMmNkWWExOTVvNUE4Z2EtVG52bVNJ?oc=5",
           "source": "Google News: Rivals patches (Bleeding Cool News)",
           "published": "2026-11-27T17:52:08.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Marvel Rivals Storm Gets a Shining Light Cosmetic in First Look",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3BTS3N5VGR5bHhlSl9nR05nWXpLekJOcFA0UmYwdUxWcFo3dmVXdDRXcXJMODJWTHRxdDA1aGZ0QklGM1BCZmlGeHhxS0xpR3BMMTF0Zi12RkJEQjdxY2kycFRKdGhRQ0RwTVRyVjFhU1pVV0c0UUlZTWJFTFpqU2VjdGxja2M?oc=5",
-          "source": "Google News: Rivals patches (Happy Gamer)",
-          "published": "2026-11-27T04:31:57.000Z",
           "score": 1,
           "level": null,
           "why": []
