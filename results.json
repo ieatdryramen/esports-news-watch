@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:20:20.086Z",
+  "generatedAt": "2026-11-28T00:50:26.724Z",
   "source": "start.gg",
   "completed": [
     {
@@ -146,19 +146,6 @@
   ],
   "live": [],
   "upcoming": [
-    {
-      "eventId": "1758352",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "RED BULL WIN STREAK",
-      "event": "RED BULL WIN STREAK",
-      "entrants": 74,
-      "online": false,
-      "major": false,
-      "startAt": "2026-11-28T00:30:00.000Z",
-      "endAt": "2026-11-28T11:00:00.000Z",
-      "url": "https://www.start.gg/tournament/red-bull-win-streak/event/red-bull-win-streak"
-    },
     {
       "eventId": "1670560",
       "scene": "melee",
