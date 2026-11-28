@@ -1,33 +1,89 @@
 {
-  "generatedAt": "2026-11-28T04:05:56.520Z",
+  "generatedAt": "2026-11-28T12:56:29.547Z",
   "windowHours": 24,
   "scenes": [
     {
       "scene": "CS2",
-      "storyCount": 15,
+      "storyCount": 13,
       "stories": [
         {
-          "title": "All Stage 2 Participants Determined at PGL Major Singapore 2026: NAVI, G2, and FUT Start Tomorrow",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQck1hb1U4b2dnOFJib2k4ZHJxWW9vRjJqZFpqSFZmRjkwbDNMV0wwSjhKZ19jOG5JZzVlQUE4NVcyQ2l1blNIMHRwVEZSWmtPUWlnZ25VckZENHdGeldTYUQ3aUMxZlFpZWVESklOVmVRdmZVRkNITExuU3JqcEV5X3hxYVBrYmVQa3c2UjNFamhCWXhZeDdVdkZWUjJHenFVc0FfZHg1N1VDMnpBR2hwNUl5RGFrNDA2S25QQmdxUDc3NGZR?oc=5",
-          "source": "Google News: CS2 (players.com.ua)",
-          "published": "2026-11-27T17:50:00.000Z",
-          "score": 5,
-          "level": null,
+          "title": "Natus Vincere (NAVI): CS2 Roster, Results and Trophies",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43MWtJdXhmNjlMSnZBd3ZIb1lCbEN5QVo5b3I4SHl5aUpCSl9tZTVnVk1SYjNaSmtZU1dJckZ5VVp3TDFEd0RqaVJtYzRVRHViUmhpeXRnQ0tId2xYeU5aVFBB?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-28T03:54:26.000Z",
+          "score": 7,
+          "level": "breaking",
           "why": [
+            "roster",
             "navi",
-            "g2",
-            "pgl"
+            "natus vincere"
           ]
         },
         {
-          "title": "Visualized: Every team at PGL Major Singapore Stage 2",
-          "url": "https://www.hltv.org/news/46069/visualized-every-team-at-pgl-major-singapore-stage-2",
-          "source": "HLTV news",
-          "published": "2026-11-27T20:00:00.000Z",
+          "title": "FaZe Clan: CS2 Roster, Results and Trophies",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qbHN3RS1zVjVzWG5ITEpkdW4zRnZqMmxJN2JXYnJQa2lLTlo4V012YkdCcFQzdlRybllNNUdEYllOSnpQc2FTaUpLZGt3NGI5WVhmVEJnUWZ2V2J2?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-28T03:55:27.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "roster",
+            "faze"
+          ]
+        },
+        {
+          "title": "Stage 1 kicked off CS2 Singapore Major 2026: Results from the early Swiss clashes",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRjZk5ZR3QzbHlvLTdqT1hGU2ZCWGJLak5xaWZRcnN3YUhFWjdTdVIycFRWeVVsWm5iTDVjbHJPLWlzb1A3RXZpb3BHN0lMX0N2TVM0Z19rS3QtamhoaWxhbEJBM3NKdmV2Tm5MMGZzYlVLajFwM0xRRVJkVGpEYjBCcWljZGFlUERaRkU0MEhvUDFBSXBwcFdiZw?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-27T19:17:23.000Z",
+          "score": 5,
+          "level": "possible",
+          "why": [
+            "kicked"
+          ]
+        },
+        {
+          "title": "Budapest Major 2025 Results: Vitality Go Back-to-Back",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzbVcyY0JMTG1RVDZiR19ycXgxQlgtaTZZcjkyT0E4aXc1NGNEX2NWZVM5RW84enp6LTJ2N2xpZFotR2U5emU4S050RzlMZFpNZjBwVU4ybWZzM29jakJQZmY5VHNDdktuYzdkcEwySkdEZ1E2T1FB?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-28T05:26:06.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "vitality"
+          ]
+        },
+        {
+          "title": "PGL Major Kraków 2017: Gambit Stun Immortals",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FblB6b253VnJtY3lqNXRyMTVlQ29nR0RUUDBGUWpDWWp4OVN3M01sRjNFZlNvd2czaWtMVmdXaml4UkRiYU8wdnVNUjlUcXZFVFpydGdmTFB2bm12Vy1peFdtd3g0c2pzbGVqc0VoVG8xZ3Zp?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-28T05:17:10.000Z",
           "score": 3,
           "level": null,
           "why": [
             "pgl"
+          ]
+        },
+        {
+          "title": "Team Spirit: CS2 and Dota 2 Rosters, Results and Trophies",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sVXd4OFdrc0o5V3NWY01ZMGJaTmNDc1g2Y2lsYktGZE82TjZQWlAwU21MY3pTc2M2OW11VmFRaGl2OVRfdmtXRVI2cFcxUXZwdWJHNFRFWS1jR2ljWGUw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-28T03:54:09.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "spirit"
+          ]
+        },
+        {
+          "title": "IEM Cologne: Every Winner at the Cathedral of CS",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FeXU1Nk1DdkdGVk9nVmVJNVBxOUV4NEdHR182QjFlcE5TY1gwZGFtdmlzN1pHV3B1RnUzbGZGcWp0aGhnbTVfMUpJa1VSSFBEM2lkMWV4TVVhMGxpVU10X19qTTRZMEJwTFYw?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-28T03:35:54.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "iem"
           ]
         },
         {
@@ -35,17 +91,6 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0k1d0lPNmRDXzRWek1ZZkNGUEg3MklfVTZVNWZIV3liRDYzTHkzRV9XaTFWTW1FcFNNT2RCeHIyMEhyY3Z2MFRWbEo2ekJFNTJkelJKM0IxMUxvQXVsQldNczlfdlQ3clhITUZRcnd6M3NKOE03YTYyXzBaUGVQcUxybw?oc=5",
           "source": "Google News: CS2 (TalkEsport)",
           "published": "2026-11-27T15:37:15.000Z",
-          "score": 3,
-          "level": null,
-          "why": [
-            "pgl"
-          ]
-        },
-        {
-          "title": "PGL Major Singapore Stage 2 opening matches set",
-          "url": "https://www.hltv.org/news/46076/pgl-major-singapore-stage-2-opening-matches-set",
-          "source": "HLTV news",
-          "published": "2026-11-27T15:30:00.000Z",
           "score": 3,
           "level": null,
           "why": [
@@ -64,48 +109,19 @@
           ]
         },
         {
-          "title": "100 Thieves eliminate M80 to make it to Stage 2",
-          "url": "https://www.hltv.org/news/46074/100-thieves-eliminate-m80-to-make-it-to-stage-2",
-          "source": "HLTV news",
-          "published": "2026-11-27T15:16:00.000Z",
-          "score": 2,
-          "level": null,
-          "why": [
-            "device*"
-          ]
-        },
-        {
           "title": "Stage 2 at the Singapore Major: Glimpses of elite Counter-Strike, results, and recaps",
-          "url": "https://esports.gg/news/counter-strike-2/cs2-singapore-major-2026-results/",
-          "source": "esports.gg",
-          "published": "2026-11-27T19:10:44.000Z",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IN0tWOU4tTXpiYjdnbDh1Q1I4QnJkYnRNMVFaaEwycDdWeXpSVXEzME8xVFk0aEk4NFh5cWZNeU9KTm5DWkZBdGNGemRCbzJFWG9KX0tQajZFdlBWVjJrUHlYRmMzMDN5YVd4QzZNNVJ1djNPdUpGZ3UySmhpTEk?oc=5",
+          "source": "Google News: CS2 (Esports.gg)",
+          "published": "2026-11-28T11:29:49.000Z",
           "score": 1,
           "level": null,
           "why": []
         },
         {
-          "title": "rain: \"I'm happy we've managed to get past [the tier 2 grind] now hopefully\"",
-          "url": "https://www.hltv.org/news/46078/rain-im-happy-weve-managed-to-get-past-the-tier-2-grind-now-hopefully",
-          "source": "HLTV news",
-          "published": "2026-11-27T19:00:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "Short news: Week 46",
-          "url": "https://www.hltv.org/news/46029/short-news-week-46",
-          "source": "HLTV news",
-          "published": "2026-11-27T16:17:00.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        },
-        {
-          "title": "aliStair: \"It's really about trying to be the glue because they have so much fucking talent\"",
-          "url": "https://www.hltv.org/news/46051/alistair-its-really-about-trying-to-be-the-glue-because-they-have-so-much-fucking-talent",
-          "source": "HLTV news",
-          "published": "2026-11-27T16:01:00.000Z",
+          "title": "Aurora Gaming: CS2 and Dota 2 Rosters and Results",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Db3B5b3VvbUlDc3pqRmluSHJLX3lvUE5Ba09qalkxYmpXbVZJeHBnZGk5cFZicjlua3kyWlpVbXBkejNQVE4wZW5FaDBmUXlsTHpOZGdTWi0waU5OR0JJcjln?oc=5",
+          "source": "Google News: CS2 (TalkEsport)",
+          "published": "2026-11-28T03:55:34.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -118,27 +134,30 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "CS2: FlyQuest, Ninjas in Pyjamas lead the eight teams qualified for Singapore Major Stage 2",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamZET3JFcGNJdjl6STh1T3dJTDhta3hYamVpcXlUZGhWRzdsbXRaSWNUNDlNRmlxQmJnY3Z5Q2E3WmxJNmNDd2tmaVlGSkprZWo4UzNpeUpfaXc0c1E5UXpvUmxUNnNMNldGYTcxTzBDcmU5STFOdU45aWdqT2NBcFpBNWtiT3RpdTlYbUM1b1pyZ3g3Rmt1Y0FRZUV3ZVVLb2dyWlI2SHF1M0Ftdkh4X3YzV3I1T01VTkJRVnFxbFk5WWc2enZHY1gtMXhpUTh6ZVBtRmdrUmY?oc=5",
-          "source": "Google News: CS2 (GosuGamers)",
-          "published": "2026-11-27T15:00:39.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
-      "scene": "Street Fighter",
-      "storyCount": 3,
+      "scene": "Dota",
+      "storyCount": 8,
       "stories": [
         {
-          "title": "Street Fighter 6 at EWC26 Champion",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZTWJJU2N0aXBMT2xPMXlaM2xLZS1jd3A5bE5NR0g1QmpLdVc4aGcyUDFBU1BFLTUydkhpZGFnR1JxTnJ1ZkxQR25ycmdyc3pOdzhWQzBvbHNXdTBTWWVPSW9TR19zb0dkczNxOVVn?oc=5",
-          "source": "Google News: Street Fighter (Esports World Cup)",
-          "published": "2026-11-27T13:53:53.000Z",
+          "title": "EWC 2025 Dota 2 Results: Team Spirit Sweep Falcons",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWdTNUWTFGRWFnSkxCam5iNzI5MUJZeThEdmFtd21hcjVvM1hrY09BRy04ODFTZWYzSkRqakM4ejVBbnBzMXUtVnAxQnQtQ3V2TU4tQzRTbmczLThsYjUwV3FObzVBYzUwT19wZXNtTQ?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-28T05:24:23.000Z",
+          "score": 5,
+          "level": null,
+          "why": [
+            "team spirit",
+            "falcons"
+          ]
+        },
+        {
+          "title": "WESG: Every World Final, CS:GO and Dota 2 Champion",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rQ1lVbW1KUm4yX2tZc2M5OVRnQ2RVaEZGOU4xRnhRa2l6cEY0Y1lGQ25WQVNveVFOaTgwWjNvdVRWQU9ZUjlyUkNDXy1CZw?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-28T05:21:27.000Z",
           "score": 4,
           "level": null,
           "why": [
@@ -146,75 +165,45 @@
           ]
         },
         {
-          "title": "Street Fighter 6 returns to the Esports World Cup 2027 with a generational shift in the scene",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGkwQkxrcjd0c3BXUDBVNnQwcVE5VlN4WFQxUmNMQlhmMHgzcW45NmZfZGtIajREdWluLURqUTQ2M3dDai1VZmVDTTlqZFVKVkJQcjFOVkN1dk04aE9hTmM0MDhlOEVQN2pKdldDUmNzWFJPM3gtTUVJQ2xuODNsRElRZEgwNUxkd1ZKM1RSaktMSlViajcxN0x4Q1kxUG42R1ZQSXIzaW1MV0poa2Q4QVp3?oc=5",
-          "source": "Google News: Street Fighter (Foro3D)",
-          "published": "2026-11-27T06:46:06.000Z",
+          "title": "EWC 2024 Dota 2 Results: Gaimin Gladiators Sweep Liquid",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEMUx3Mm9jUExsSWtjaEQwcUVxUmcxRFF3Wjk2eDdLR0s2N0dBd2x2cW9sT1U3YlZvYktlci1iSTRJQVlTaGlRTWlrVWhjbnBCRmpkN2htTlU1QlY0RXF2bW53cnEyZG5OQkNVNVZCUQ?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-28T05:16:56.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "returns"
+            "gaimin gladiators"
           ]
         },
         {
-          "title": "CAPCOM Pro Tour 2026 World Warrior Japan Round 5 Takes Place on November 29! Direct Qualification for CAPCOM CUP 13 and Regional Finals Competitors to Be Decided",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVVBSjRxYXZHOW95dTZ3Skl5aWRhRVBwUWVtTUJCMGhReG1yTV8xc0JPclBmZjZsUDkxMmJwamhCY1g3V1hOd0tXNWl6UW0wbi1uelBqY2x1UFQ4bUR5bGN6Nm50SUhVa0RqanpOQkhVSmVQaGx1RzFlUTF2bll1RGVmdW9HWF9qd3RDeE130gGTAUFVX3lxTE1zTlBtc0E1UU0wTDdNNkQ2dHdadHNwU09TTzN5UjlldVFIQTRQbF9Yb0JEZnd3SzVaYkhHbXFub2U3NFM0S0FkZWhQNG1KWV9VcUFiUXo5YnFFLTdBSDVCM3JqQng0MVR1VVhEWVlWbHlQdDJFWEdHUVhEM2hlQ1hWbHBmUkoxbFBwSlNvWXVJbW9zUQ?oc=5",
-          "source": "Google News: Street Fighter (Saiga NAK)",
-          "published": "2026-11-27T08:02:02.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Classic Tetris",
-      "storyCount": 2,
-      "stories": [
-        {
-          "title": "2026 CTWC SoCal Regional: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-socal-regional-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-11-27T07:14:17.000Z",
+          "title": "Team Spirit: CS2 and Dota 2 Rosters, Results and Trophies",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sVXd4OFdrc0o5V3NWY01ZMGJaTmNDc1g2Y2lsYktGZE82TjZQWlAwU21MY3pTc2M2OW11VmFRaGl2OVRfdmtXRVI2cFcxUXZwdWJHNFRFWS1jR2ljWGUw?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-28T03:54:09.000Z",
           "score": 3,
           "level": null,
           "why": [
-            "killscreen*",
-            "level 39*"
+            "team spirit"
           ]
         },
         {
-          "title": "2026 CTWC Kansas City Regional – DAS Tournament: Timestamps",
-          "url": "https://tetrisinterest.com/2026-ctwc-kansas-city-regional-das-tournament-timestamps/",
-          "source": "Tetris Interest",
-          "published": "2026-11-27T06:33:06.000Z",
+          "title": "EWC 2026 Dota 2 Results: PARIVISION Win in Paris",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jREN6YzdidE9XVkozb285RUVxeFZ6VnhqcTVZVW95aklqOGJUXzhqem9Kd0FGWHdCcGh1ekRRb3FacndmTi1Da05HMlZfREhMR2pUck81RElQeVpFc1lPSy1aSUxndTMxb09KWlBRYw?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-28T05:24:20.000Z",
           "score": 1,
           "level": null,
           "why": []
-        }
-      ]
-    },
-    {
-      "scene": "Legacy FGC",
-      "storyCount": 1,
-      "stories": [
+        },
         {
-          "title": "SNK World Finals 2026: $4M+ event overview, FATAL FURY and KOF XV results",
-          "url": "https://esports.gg/news/fgc/snk-world-championship-2026-finals-results/",
-          "source": "esports.gg",
-          "published": "2026-11-27T13:49:10.000Z",
-          "score": 1.5,
+          "title": "Aurora Gaming: CS2 and Dota 2 Rosters and Results",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Db3B5b3VvbUlDc3pqRmluSHJLX3lvUE5Ba09qalkxYmpXbVZJeHBnZGk5cFZicjlua3kyWlpVbXBkejNQVE4wZW5FaDBmUXlsTHpOZGdTWi0waU5OR0JJcjln?oc=5",
+          "source": "Google News: Dota (TalkEsport)",
+          "published": "2026-11-28T03:55:34.000Z",
+          "score": 1,
           "level": null,
-          "why": [
-            "official*"
-          ]
-        }
-      ]
-    },
-    {
-      "scene": "Dota",
-      "storyCount": 2,
-      "stories": [
+          "why": []
+        },
         {
           "title": "PARIVISION eliminates Aurora Gaming to stay alive at Dota 2 BLAST Slam 9",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2hNYmszUEdxSEphMnhEU0IzZkdiekJPMS1CSmUwVXFUdXBSOFFwekFjc0w4RWhsVWZYOTBGYVRHUUFCaTVqd1VvZ1JTX3VIeUxMT1Q4TDJob0luYXh0ZlVFN2txUGc0RHhtLXZWek5IZnIwWnI3NGJYTHNocmY4X2l0SElVdkNoSkhuUUNOYw?oc=5",
@@ -238,9 +227,81 @@
       ]
     },
     {
+      "scene": "Street Fighter",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "Street Fighter 6 at EWC26 Champion",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NYTIydFA1S0ZIZEZNWGRrWXJCZ1hOV2hFWE1BRjNab3lXTFRRcGxQODZwd21YNDhDa3gxLXQySUprWWxGZzZISVhTeWRhY3FndWIxQUk3ME9vUGhsWmpXWTlKVC1rVFNUdEpzOWoxMW9Gdw?oc=5",
+          "source": "Google News: Street Fighter (Esports World Cup)",
+          "published": "2026-11-27T13:53:54.000Z",
+          "score": 4,
+          "level": null,
+          "why": [
+            "champion"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Melee",
+      "storyCount": 1,
+      "stories": [
+        {
+          "title": "aMSa publishes its Melee tier list and confirms a stable meta",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazJpck1PcHJkRS0wbjJPTmVzckg5d2xSQ1ZYRkE0QnZtMndtSW50SldWOXNBZmhkYmN6SEU1di11SlNEdjhJQV9ZZG12RzE3Rk4ycUloRjBSeW1FaS1HdURGN1Y1UVIwLS1GOE1PaWU2dkJ6ZDRSNFlld1dLZEJiaUVSVFByRVdBVGRGMHhXbEdzanFyVkFobENueFhKX3poZzBGMVVB?oc=5",
+          "source": "Google News: Melee (Foro3D)",
+          "published": "2026-11-28T11:46:19.000Z",
+          "score": 3,
+          "level": null,
+          "why": [
+            "amsa"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "Legacy FGC",
+      "storyCount": 2,
+      "stories": [
+        {
+          "title": "SNK World Championship 2026 Finals stream, early results ft Laggia, Xiaohai, Go1, Lauyagami, Kaiser666, Dany 'El Maza', Mi2ha4, Score, Madkof and more",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUpyd2NucWp6c3lnR3R4N0s0a3Mwd1hvVDgtVUFSaDJYSEdSd0Z3aTgwNjJLLUwtb3A3MXJ5MlVrUzlrcHdLNE1Fd0lYQ1VkbHVMQktsVGZTd05mTU52Ty11WjRMcXZTV3c1SFUzYjd1RDFlY2dDazU5ajBVR1RLWkxWZnB0UQ?oc=5",
+          "source": "Google News: Legacy FGC (EventHubs)",
+          "published": "2026-11-28T08:57:46.000Z",
+          "score": 2,
+          "level": null,
+          "why": [
+            "xiaohai",
+            "-stream"
+          ]
+        },
+        {
+          "title": "SNK World Finals 2026: $4M+ event overview, FATAL FURY and KOF XV results",
+          "url": "https://esports.gg/news/fgc/snk-world-championship-2026-finals-results/",
+          "source": "esports.gg",
+          "published": "2026-11-27T13:49:10.000Z",
+          "score": 1.5,
+          "level": null,
+          "why": [
+            "official*"
+          ]
+        }
+      ]
+    },
+    {
       "scene": "Tekken",
       "storyCount": 2,
       "stories": [
+        {
+          "title": "A 103-year-old grandmother from Japan is set to compete in a Tekken 8 tournament",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb3JPZ21ZdHJ5Znd6Y2pMVXJRalB6Mk5oTWdkT2lEckVUZEdMVGFlbGpZX2FZdkRjUlhUcDRJUzlVeGROTHh2N3hUM3ZCdFhlV3pCbWZpVnhCVVFKcTEwcHFBOW1rVUowZ05nZktjLS1JSmx6TmN5elVQTmUxcjdwVGJVMWgtQ1k2cC1NeGZuNTI0MjFmTXc?oc=5",
+          "source": "Google News: Tekken (UkrMedia News)",
+          "published": "2026-11-28T07:14:22.000Z",
+          "score": 1,
+          "level": null,
+          "why": []
+        },
         {
           "title": "A 103-year-old is going to compete in Tekken 8 next month... and you thought 30 was old in eSports?",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOQ3AzT29OaGRaSFlqdFlGUklOUW0tYWdSMjlZREdwMlI1MkRHZ3RjVkFuNGhDQ29TaWhUcHQzNzU2d1UyTGwwZGk0T0lvOTBDVlhzUE5veHpFZEVtN2lsM2k1VEZRTlVHTFlQMVJ3dFRqekRLMnUyNjRwRQ?oc=5",
@@ -249,27 +310,18 @@
           "score": 1,
           "level": null,
           "why": []
-        },
-        {
-          "title": "Hopping Back In: The TEKKEN Team on Rebuilding Roger Jr. for TEKKEN 8",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndOWEpqalczWWNTaFpsbW1nR1ZzWUhHYzFQbFV2SVJ5VXIyRlJVWDZSemdWb0pROTB0QTNhNmNGbWo5bUpkcWpSWVJlSGZST19OcG9Ld2dkNGxZc0xfaEtoR1JtbkZiTEtXNmdlS28wSFN3bDF5ZFZDNzF5ZXB5SHB0TVFZZXpNX1AxMkxiSEJRakVFMHBrZlB3b3E?oc=5",
-          "source": "Google News: Tekken (GamerBraves)",
-          "published": "2026-11-27T06:06:23.000Z",
-          "score": 1,
-          "level": null,
-          "why": []
         }
       ]
     },
     {
-      "scene": "CoD",
+      "scene": "Classic Tetris",
       "storyCount": 1,
       "stories": [
         {
-          "title": "All 2027 CDL Kickoff Classic Twitch Drops and how to earn them",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVliRmdkM1gtUlFadHFwSk0tNzgyemd1QWdGMGlfUWdqclNlUElEMjdkeVQyWllVYVdNdlByc3haaTlkc1E0dmZuUlJnbTlLdGVQZ1lwT3cxU3RDNGFHd28xWUJjejhVWVJfOTNpbmFtRGNQREh1QTdpMEZBaWtzd21Ca1d4Y0k?oc=5",
-          "source": "Google News: CoD (Dot Esports)",
-          "published": "2026-11-27T09:48:00.000Z",
+          "title": "2026 CTWC Brazil Regional: Timestamps",
+          "url": "https://tetrisinterest.com/2026-ctwc-brazil-regional-timestamps/",
+          "source": "Tetris Interest",
+          "published": "2026-11-27T23:13:40.000Z",
           "score": 1,
           "level": null,
           "why": []
@@ -278,11 +330,11 @@
     }
   ],
   "quiet": [
-    "Melee",
     "AoE2",
     "Brood War",
     "Trackmania",
     "Warcraft III",
+    "CoD",
     "Quake",
     "Halo"
   ]
