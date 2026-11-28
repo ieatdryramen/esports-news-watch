@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:50:26.724Z",
+  "generatedAt": "2026-11-28T01:20:16.747Z",
   "source": "start.gg",
   "completed": [
     {
@@ -93,53 +93,6 @@
         {
           "placement": 7,
           "name": "Elryonsof"
-        }
-      ]
-    },
-    {
-      "eventId": "1758619",
-      "scene": "tekken",
-      "game": "Tekken 8",
-      "tournament": "TNS TEKKEN 8 #143",
-      "event": "Tekken 8",
-      "entrants": 154,
-      "online": true,
-      "major": false,
-      "startAt": "2026-11-25T01:00:00.000Z",
-      "endAt": "2026-11-25T04:59:00.000Z",
-      "url": "https://www.start.gg/tournament/tns-tekken-8-143/event/tekken-8",
-      "top8": [
-        {
-          "placement": 1,
-          "name": "PAR | JoeCrush"
-        },
-        {
-          "placement": 2,
-          "name": "LS | Reborn"
-        },
-        {
-          "placement": 3,
-          "name": "LS | jaboikyran"
-        },
-        {
-          "placement": 4,
-          "name": "LD | RTM | John3:16"
-        },
-        {
-          "placement": 5,
-          "name": "SWMG | Sergei Strokinov"
-        },
-        {
-          "placement": 5,
-          "name": "Joonya 20z"
-        },
-        {
-          "placement": 7,
-          "name": "Mirage | Kaizur"
-        },
-        {
-          "placement": 7,
-          "name": "Hidden_Main"
         }
       ]
     }
